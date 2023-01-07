@@ -34,7 +34,7 @@ def update_today(data: list=[]):
 
     archive_path.parent.mkdir(parents=True, exist_ok=True)
     with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
-        content = f'# 每日资讯（{today}）\n\n'
+        content = f'<h1 id="new">每日资讯（{today}）</h1>\n\n'
         for item in data:
             (feed, value), = item.items()
             content += f'- {feed}\n'
