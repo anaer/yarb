@@ -1,8 +1,0 @@
-requests
-feedparser
-colorama
-schedule
-python-telegram-bot
-PySocks
-pyrate-limiter
-redis
