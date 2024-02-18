@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-18 07:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[tvOS 17.4 程式碼暗示新 HomePod 配備顯示螢幕](https://www.iphonetaiwan.org/2024/02/apple-homepod-innovation-a15-lcd.html)|
+|2024-02-18 07:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[BeOnd 航空為乘客提供 Vision Pro：打造頂級飛航體驗](https://www.iphonetaiwan.org/2024/02/beond-luxury-airlines-apple-vision-pro.html)|
+|2024-02-18 06:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[三星、京東方和天馬搶 iPhone SE 4 的 OLED 面板訂單](https://www.iphonetaiwan.org/2024/02/iphone-se-4-oled-panel-competition.html)|
+|2024-02-18 05:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 組件洩漏？揭示了重新設計的垂直相機](https://www.iphonetaiwan.org/2024/02/iphone-16-camera-leak.html)|
 |2024-02-18 04:03:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[人工智能龙年持续“王炸”：不只Sora，三大AI模型同日登台](https://36kr.com/p/2653271600397442)|
 |2024-02-18 04:03:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[揭秘字节AI版图：调集多位高管参战，数款重磅产品内测](https://36kr.com/p/2653273475071106)|
 |2024-02-18 04:03:39|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[自动驾驶百年史：谁是最有权力的公司？](https://36kr.com/p/2651027423904009)|
