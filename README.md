@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-19 03:28:22|[机核](https://www.gcores.com/rss)|[暗黑like动作RPG《最后纪元》1.0版本将于2月21日正式上线](https://www.gcores.com/articles/177760)|
+|2024-02-19 02:13:21|[机核](https://www.gcores.com/rss)|[《幻兽帕鲁》将接入第三方反作弊系统](https://www.gcores.com/articles/177758)|
+|2024-02-19 02:10:36|[机核](https://www.gcores.com/rss)|[第 77 届英国电影学院奖获奖名单公布](https://www.gcores.com/articles/177753)|
+|2024-02-19 01:26:13|[机核](https://www.gcores.com/rss)|[发放5.88亿份“喜加一”：Epic游戏商城公布2023年度回顾](https://www.gcores.com/articles/177751)|
+|2024-02-19 01:11:52|[机核](https://www.gcores.com/rss)|[《绝地潜兵2》强势夺冠：Steam周销量排行榜 2024年2月第2周](https://www.gcores.com/articles/177750)|
+|2024-02-19 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」](https://sspai.com/post/86457)|
+|2024-02-19 00:36:54|[爱范儿](https://www.ifanr.com/feed)|[早报 小米发布会定档，14 Ultra 亮相/高合汽车宣布停工停产 6 个月/消息称字节调集多位高管加大 AI 研发](https://www.ifanr.com/1575595?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-19 00:00:56|[余晟以为](https://feedpress.me/wx-yurii-says)|[生活的点滴，就是在“性善”与“性恶”之间挣扎](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009860&idx=1&sn=d3319a8a1072db22b7ce3ceaccf9145c)|
 |2024-02-19 00:48:02|[虎嗅](https://rss.huxiu.com/)|[高合停工停产6个月，剩下的新能源可能也要死90%](https://www.huxiu.com/article/2686143.html?f=rss)|
 |2024-02-19 00:45:07|[虎嗅](https://rss.huxiu.com/)|[烟火何来：居民消费坚韧的意味](https://www.huxiu.com/article/2686622.html?f=rss)|
