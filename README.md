@@ -2,6 +2,47 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-19 16:05:18|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[手机摄像越来越重要，哪些参数值得关注？怎么才能买到一款摄像功能强的手机？](https://www.zhihu.com/question/641430697)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果中国古代有可可树，巧克力会不会成为中医神药？](https://www.zhihu.com/question/643372601)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待当今许多大学生「大学好累，想回到高中」的观点？](https://www.zhihu.com/question/637663061)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你体验过的户外运动中，哪次让你真正感到「不虚此行」？](https://www.zhihu.com/question/641980485)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[袭人与黛玉交情甚好，为何背后总说黛玉坏话？](https://www.zhihu.com/question/413022994)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[旅人挑战：你所在城市，有哪条公交路线适合搭乘散心？](https://www.zhihu.com/question/642212888)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以分享一张你旅行的地点打卡照或者家乡照吗？](https://www.zhihu.com/question/641905803)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[白话文和文言文的本质区别是什么？](https://www.zhihu.com/question/637468987)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「娱乐」能否有效对抗抑郁症？](https://www.zhihu.com/question/641917643)|
+|2024-02-19 16:05:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价麦克朗获得 2024 年 NBA 全明星灌篮大赛冠军，成功卫冕？](https://www.zhihu.com/question/644740499)|
+|2024-02-19 16:05:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么孩子总是跟我说自己不行，不敢做?](https://www.zhihu.com/question/644675001)|
+|2024-02-19 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[融资超10亿美金，AI公司「月之暗面」获红杉、小红书、美团、阿里新一轮投资 36氪独家](https://36kr.com/p/2655063979180294)|
+|2024-02-19 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[极兔，股价崩了](https://36kr.com/p/2654405438226697)|
+|2024-02-19 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[QQ25岁再改版，为何从模仿微信开始？](https://36kr.com/p/2654882412067977)|
+|2024-02-19 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[出版业自救，从下架电子书开始？](https://36kr.com/p/2654657755185409)|
+|2024-02-19 10:19:38|[沉舟侧畔 Blog](https://springwood.me/feed/)|[“水深火热”的资本主义社会：第二次发钱](https://springwood.me/child-support-10k/)|
+|2024-02-19 09:02:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[股价暴涨42%的Netflix，是如何实现“二次增长”的？](https://dig.chouti.com/link/41571314)|
+|2024-02-19 10:00:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[当地时间2月18日，在卡塔尔多哈举行的游泳世锦赛上，以色列选手戈尔边科夺得女子400米个人混合泳银牌，但在赛后采访以及颁奖典礼上遭到现场一些观众的嘘声……](https://dig.chouti.com/link/41571569)|
+|2024-02-19 11:08:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[海南岛到广东只有20公里，为什么不修座跨海大桥？](https://dig.chouti.com/link/41572510)|
+|2024-02-19 14:10:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Lowcost小哥：沙丘系列沙虫](https://dig.chouti.com/link/41573948)|
+|2024-02-19 10:02:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【韩国大批医生集体辞职，医疗系统危机将升级】韩国政府本月早些时候宣布，为解决医生短缺问题，2025学年高校医学院招生规模将从3058人增至5058人。这项扩招计划遭到医生团体和医学院学生强烈反对，称此举将引发过度医疗并使医保系统资金紧张。一些批评人士指出，医疗界人员实际上是担忧扩招计划将导致他们的收入减少。](https://dig.chouti.com/link/41571782)|
+|2024-02-19 11:01:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[西班牙媒体《阿斯报》主编：法甲大巴黎主席亲承姆巴佩100%完成与皇马签约](https://dig.chouti.com/link/41572343)|
+|2024-02-19 10:12:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《热辣滚烫》是如何突破国产烂片下限的？](https://dig.chouti.com/link/41572046)|
+|2024-02-19 14:29:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[米莱上任两个月，阿根廷实现12年来首次财政盈余，但高通胀、高贫困率等诸多经济问题仍待解](https://dig.chouti.com/link/41574044)|
+|2024-02-19 14:01:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【梅西本人视频回应争议：很多传言不是真的，我和中国非常紧密】梅西称他真的遭遇了伤病——内收肌炎症，如果在香港站比赛上场，伤势有加剧风险。几天后，伤势稍好，才在日本出场了一会。他还表示，网上很多传闻都不是真的，“我和中国有非常紧密的特殊缘分。我向所有中国球迷送上美好祝愿，我一直对你们抱有特别的感情。”](https://dig.chouti.com/link/41573615)|
+|2024-02-19 08:11:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据说魅族要ALL In AI？](https://dig.chouti.com/link/41570881)|
+|2024-02-19 13:02:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本拟允许投资基金持有加密货币，进一步对数字资产开放](https://dig.chouti.com/link/41573325)|
+|2024-02-19 08:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【参加完同学聚会，我失眠了】和五位在北上广打拼的年轻人聊了聊，同学聚会的后劲的确很大。在某个瞬间，的确有人被曾经的青春治愈了，但大城市和小城市、自己和老同学的距离感，还是让很多人破防了。这份情绪里，有惊讶，有羡慕，也有遗憾和不甘。](https://dig.chouti.com/link/41571016)|
+|2024-02-19 13:10:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[神踏马“中国人有自己的马克龙”](https://dig.chouti.com/link/41573438)|
+|2024-02-19 07:48:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【完蛋！他被美女包围了】这款男性向恋爱游戏年度销量达到190万，4万玩家为它写下评价，好评率94%。在Steam等平台评论区，最常见的玩家评论之一是，“终于有一款游戏关注我们男性的情感需求” 。如果说游戏本身击中了男性群体的痛点，那么男性渴望实现的欲望和被忽略的情感是什么，它又如何在一款游戏中被满足？](https://dig.chouti.com/link/41570399)|
+|2024-02-19 07:10:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[40岁女网红在海底捞包厢内拍摄不雅视频，广州荔湾警方：刑拘4人](https://dig.chouti.com/link/41570196)|
+|2024-02-19 09:01:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国八卦小报《国家询问报》爆料：英国国王查尔斯三世患胰腺癌，生命恐只剩半年，或将退位让威廉提前加冕](https://dig.chouti.com/link/41571057)|
+|2024-02-19 11:08:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网传哈马斯加沙地带领导人叶海亚·辛瓦尔在已被以色列军队逮捕](https://dig.chouti.com/link/41572517)|
+|2024-02-19 11:40:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国海警进入金门海域常态化执法……另据台媒报道，2月19日上午，有4艘隶属中国海警的执法船在厦金海域出没，航行位置围绕金门北方、南方及东南方海域](https://dig.chouti.com/link/41572687)|
+|2024-02-19 12:14:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这就吓坏了？恶搞？](https://dig.chouti.com/link/41572988)|
+|2024-02-19 06:48:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【40岁，我从体制内辞职2次】70后自由摄影师严明，曾在体制内谋得过好的“前程”。此后，他又两度抛弃“铁饭碗”。从语文老师到摇滚乐手，再由报社记者转为自由摄影师，在中国社会的语境下，从体制内辞职，似乎是不被大多数人理解的选择。特别是在40岁时放弃稳妥的工作，更显得离经叛道。](https://dig.chouti.com/link/41569690)|
+|2024-02-19 04:02:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[滞留瓜州的风雪夜：最无助时接到40多个当地人电话，好心人让出主卧收留](https://dig.chouti.com/link/41568147)|
+|2024-02-19 04:13:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【韩国足协主席被警方调查，因任命克林斯曼被指控渎职】多家韩媒报道，韩足协主席郑梦奎正接受首尔警方调查，他因单方面任命克林斯曼被指控“妨碍公务”。据报道，民间组织民生委员会于2月13日向首尔警察厅举报了郑梦奎，该组织表示：“郑梦奎无视足协官员的意见，单方面任命克林斯曼为国家队主教练，这是强行妨碍公务。”](https://dig.chouti.com/link/41568434)|
+|2024-02-19 04:14:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新疆阿尔泰山区，当地狼群在积雪下挖出一条路](https://dig.chouti.com/link/41568466)|
+|2024-02-19 04:33:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人造vs天然钻石，爱情世纪神话破灭了吗？](https://dig.chouti.com/link/41568569)|
+|2024-02-19 04:48:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【在北京，他们的危旧楼为何可以原拆原建？】哪些项目能采用原拆原建的方式需要综合评估，包括住房产权、质量、区位、居民意愿、政府和产权单位资金情况等。](https://dig.chouti.com/link/41568584)|
 |2024-02-19 11:40:16|[碗丸食事](https://feedpress.me/wx-foodfile-111010)|[黑鯥 喉黑的姐妹？不不不……](http://mp.weixin.qq.com/s?__biz=MzU3MjcxOTk5NQ%3D%3D&mid=2247489071&idx=1&sn=431dfdfecaa9c770bf1e5674a155019c)|
 |2024-02-19 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央行开展 5000 亿 MLF 操作，央行主管媒体发文「贷款利率仍有下行空间」，释放了什么信号？](https://www.zhihu.com/question/644709142)|
 |2024-02-19 04:01:54|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[胖东来 13 页报告调查员工试吃事件，未按标准试吃员工转岗为非食品加工岗位，你觉得这种调查程序如何？](https://www.zhihu.com/question/644862442)|
