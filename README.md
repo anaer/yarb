@@ -1,7 +1,19 @@
-﻿# 每日资讯（2024-02-18）
+﻿# 每日资讯（2024-02-19）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-19 00:00:56|[余晟以为](https://feedpress.me/wx-yurii-says)|[生活的点滴，就是在“性善”与“性恶”之间挣扎](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009860&idx=1&sn=d3319a8a1072db22b7ce3ceaccf9145c)|
+|2024-02-19 00:48:02|[虎嗅](https://rss.huxiu.com/)|[高合停工停产6个月，剩下的新能源可能也要死90%](https://www.huxiu.com/article/2686143.html?f=rss)|
+|2024-02-19 00:45:07|[虎嗅](https://rss.huxiu.com/)|[烟火何来：居民消费坚韧的意味](https://www.huxiu.com/article/2686622.html?f=rss)|
+|2024-02-19 00:41:00|[虎嗅](https://rss.huxiu.com/)|[透视上市银行2023年业绩：四季度信贷投放分化，存款普遍同比少增](https://www.huxiu.com/article/2685728.html?f=rss)|
+|2024-02-19 00:31:00|[虎嗅](https://rss.huxiu.com/)|[MSCI指数迎调整，48只个股被剔除新兴市场指数名单，影响有多大？](https://www.huxiu.com/article/2685729.html?f=rss)|
+|2024-02-19 00:21:04|[虎嗅](https://rss.huxiu.com/)|[两个人的婚礼，两家人的博弈](https://www.huxiu.com/article/2686599.html?f=rss)|
+|2024-02-19 00:18:08|[虎嗅](https://rss.huxiu.com/)|[券商负责人被开罚单：泄露百亿私募账户信息，给另一私募抄作业](https://www.huxiu.com/article/2686596.html?f=rss)|
+|2024-02-19 00:18:00|[虎嗅](https://rss.huxiu.com/)|[人们应该住上大房子](https://www.huxiu.com/article/2686138.html?f=rss)|
+|2024-02-19 00:09:00|[虎嗅](https://rss.huxiu.com/)|[电影撤档，怪观众不买单？](https://www.huxiu.com/article/2685731.html?f=rss)|
+|2024-02-19 00:06:00|[虎嗅](https://rss.huxiu.com/)|[高合汽车开年即“停摆”？内部人士：“今天还在正常上班”](https://www.huxiu.com/article/2686595.html?f=rss)|
+|2024-02-19 00:03:38|[虎嗅](https://rss.huxiu.com/)|[Sora带来的四点启发](https://www.huxiu.com/article/2685215.html?f=rss)|
+|2024-02-19 00:00:01|[虎嗅](https://rss.huxiu.com/)|[被“渴望”改造的家政经纪人：从小镇女性到追求年薪百万](https://www.huxiu.com/article/2683780.html?f=rss)|
 |2024-02-18 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你在哪一个瞬间突然意识到，宠物已经是和家人一样重要的存在了？](https://www.zhihu.com/question/641183735)|
 |2024-02-18 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[明明很多男生甚至女生都对刀剑有过幻想，为什么击剑、兵击、剑道这些运动的热度却远远不如球类运动？](https://www.zhihu.com/question/644075297)|
 |2024-02-18 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[应届生找工作有哪些靠谱平台推荐？](https://www.zhihu.com/question/553763746)|
@@ -65,6 +77,7 @@
 |2024-02-18 06:32:32|[机核](https://www.gcores.com/rss)|[类魂游戏《恩诺提利亚：终曲》将于6月21日发售](https://www.gcores.com/articles/177710)|
 |2024-02-18 06:32:11|[机核](https://www.gcores.com/rss)|[TV动画《吹响吧！上低音号》第三季OP&ED主题曲公开](https://www.gcores.com/articles/177715)|
 |2024-02-18 06:24:21|[机核](https://www.gcores.com/rss)|[《地铁 离去》销量突破1000万份，新作准备中](https://www.gcores.com/articles/177714)|
+|2024-02-19 00:00:00|[潮流周刊](https://weekly.tw93.fun/rss.xml)|[第164期 - 又是一年](https://weekly.tw93.fun/posts/164-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/)|
 |2024-02-18 07:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[tvOS 17.4 程式碼暗示新 HomePod 配備顯示螢幕](https://www.iphonetaiwan.org/2024/02/apple-homepod-innovation-a15-lcd.html)|
 |2024-02-18 07:38:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[BeOnd 航空為乘客提供 Vision Pro：打造頂級飛航體驗](https://www.iphonetaiwan.org/2024/02/beond-luxury-airlines-apple-vision-pro.html)|
 |2024-02-18 06:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[三星、京東方和天馬搶 iPhone SE 4 的 OLED 面板訂單](https://www.iphonetaiwan.org/2024/02/iphone-se-4-oled-panel-competition.html)|
