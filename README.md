@@ -1,7 +1,17 @@
-﻿# 每日资讯（2024-02-19）
+﻿# 每日资讯（2024-02-20）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-20 00:58:34|[虎嗅](https://rss.huxiu.com/)|[特朗普救鞋市](https://www.huxiu.com/article/2689925.html?f=rss)|
+|2024-02-20 00:54:05|[虎嗅](https://rss.huxiu.com/)|[两部数字法案落地后，苹果或面临欧盟5亿欧元罚款](https://www.huxiu.com/article/2690457.html?f=rss)|
+|2024-02-20 00:40:33|[虎嗅](https://rss.huxiu.com/)|[Sora互联网纪实：卖课割韭菜、A股大涨停](https://www.huxiu.com/article/2690440.html?f=rss)|
+|2024-02-20 00:30:31|[虎嗅](https://rss.huxiu.com/)|[青海纪委主任的这个“招呼”价值千万](https://www.huxiu.com/article/2690458.html?f=rss)|
+|2024-02-20 00:26:28|[虎嗅](https://rss.huxiu.com/)|[复盘短剧冲击之年，与2024年的十个预测](https://www.huxiu.com/article/2689935.html?f=rss)|
+|2024-02-20 00:24:26|[虎嗅](https://rss.huxiu.com/)|[返乡潮退去后，才是真实的县城](https://www.huxiu.com/article/2689836.html?f=rss)|
+|2024-02-20 00:16:43|[虎嗅](https://rss.huxiu.com/)|[茶饮在县城爆单：点位有限，拓店要快，装修要好](https://www.huxiu.com/article/2689915.html?f=rss)|
+|2024-02-20 00:15:00|[虎嗅](https://rss.huxiu.com/)|[Sora还没来，概念已席卷A股](https://www.huxiu.com/article/2690460.html?f=rss)|
+|2024-02-20 00:13:52|[虎嗅](https://rss.huxiu.com/)|[Sora尚未公测，但已经有人用它来“捞金”了](https://www.huxiu.com/article/2690414.html?f=rss)|
+|2024-02-20 00:13:12|[虎嗅](https://rss.huxiu.com/)|[日本之后下一个热门：韩国股市](https://www.huxiu.com/article/2689865.html?f=rss)|
 |2024-02-19 09:31:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[提升 Apple TV 安全性！NordVPN app 一次滿足網路安全、隱私、使用者體驗](https://applefans.today/2024-02-how-to-use-nordvpn-on-appletv/)|
 |2024-02-19 09:27:19|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[讓 iPhone「提醒事項」 成為你時間管理的好幫手](https://applefans.today/2024-02-iphone-reminders-good-features/)|
 |2024-02-19 02:34:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[LINE 社群 未來不再支援「備份聊天記錄」功能](https://applefans.today/2024-02-line-backup-feature-will-say-goodbye/)|
