@@ -2,6 +2,40 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-20 08:33:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一些关于猫Meme元素的杂谈](https://dig.chouti.com/link/41581962)|
+|2024-02-20 14:37:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【太空互联网：太空中的抢椅子游戏】建立中国的卫星网络，需要大量投入，包括制造卫星，发射卫星以及终端应用等各大环节。业内人士普遍认为，从2024年开始，大量卫星会被送入太空，此事迫在眉睫。](https://dig.chouti.com/link/41585287)|
+|2024-02-20 10:02:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高合汽车被传停工停产6个月，官方客服电话无人接听，有销售仍正常卖车](https://dig.chouti.com/link/41582947)|
+|2024-02-20 13:10:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最近全球很多国家及地区都爆火了一首十分洗脑的动画片头曲：Creepy Nuts〈Bling-Bang-Bang-Born〉，风格是去年全球大火的Jersey Club说唱，副歌“冰棒棒冰棒棒”非常有记忆点，配合着Beat中马林巴本就bling bling的敲击音色，再加上Jersey Club的鼓点以及一个诡异又魔性的吱吱呀呀的摇床声，不可谓不上头。](https://dig.chouti.com/link/41584663)|
+|2024-02-20 08:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你还记得那次掉进池塘吗？](https://dig.chouti.com/link/41581892)|
+|2024-02-20 13:32:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国驻胡志明市总领馆提醒：无需向越南口岸公职人员支付“小费”](https://dig.chouti.com/link/41584758)|
+|2024-02-20 07:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【女生的「阴道」，被开除电影字幕】语言即权力，女性总是处在“失语”状态中，这种失语不仅仅是很多女性无法讲述自己的故事，还体现在女性作品被淹没、被误读、被篡改，甚至翻译时也存在广泛的厌女症。然而讽刺是，翻译是一项非常“女性”的创作。](https://dig.chouti.com/link/41581319)|
+|2024-02-20 10:02:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“一元店”模式先驱、日本大创百货创始人矢野博丈去世，享年80岁](https://dig.chouti.com/link/41582848)|
+|2024-02-20 11:10:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我是打不过你，信不信我喊我爹来？](https://dig.chouti.com/link/41583615)|
+|2024-02-20 08:34:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我会永远留在歌舞伎町：爱与奇迹都是真实存在的](https://dig.chouti.com/link/41581966)|
+|2024-02-20 04:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【匈牙利外长：欧盟对俄第十三轮制裁方案是一项虚伪措施】匈牙利外长西雅尔多表示，这一方案只是一项虚伪措施，唯一的原因是在俄乌冲突爆发两周年来临之际，让社会各界说欧盟已经做了一些事情。欧盟正在继续实施一项已经完全失败的战略。他指出，这些一揽子制裁措施损害了欧洲的竞争力。](https://dig.chouti.com/link/41579069)|
+|2024-02-20 04:24:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[腾讯QQ诞生25年，官方首次透露经典企鹅LOGO背后故事](https://dig.chouti.com/link/41579568)|
+|2024-02-20 07:10:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《假玲》](https://dig.chouti.com/link/41581170)|
+|2024-02-20 08:10:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【麦当娜被质疑假唱】65岁的麦当娜在西雅图开演唱会时，因失误摔倒，转身俯躺并尴尬地笑笑，过了约10秒才起身继续演唱。不过，虽然她手中还握着麦克风，但歌迷发现在她没有开口时，歌声仍然持续……](https://dig.chouti.com/link/41581813)|
+|2024-02-20 09:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[寻找一个失联九年的高中同学](https://dig.chouti.com/link/41582584)|
+|2024-02-20 09:32:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[字节辟谣推出“中文版Sora”：Boximator目前无法作为完善产品落地，与国外有很大差距](https://dig.chouti.com/link/41582636)|
+|2024-02-20 03:43:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[78岁，继续“失败”地在县城写作](https://dig.chouti.com/link/41578685)|
+|2024-02-20 03:53:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[古埃及人饱受埃及沙漠蟑螂困扰，根据考古研究，古埃及的食品店、寺庙和坟墓都受过虫害，蟑螂还会啃食木乃伊绷带甚至木乃伊本身。古埃及《亡灵书》中就有一个驱赶蟑螂的咒语：“邪恶的蟑螂啊，离我远点，因为我是库努牡神！”图中描绘的都是死者本人斩杀蟑螂，避免自己的木乃伊遭受袭扰。](https://dig.chouti.com/link/41578924)|
+|2024-02-20 03:02:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“木头姐”的比特币ETF总资产突破10亿美元](https://dig.chouti.com/link/41577957)|
+|2024-02-20 10:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克：Neuralink首位人类受试者“似乎已完全康复”，可仅凭思维操控鼠标](https://dig.chouti.com/link/41582912)|
+|2024-02-20 09:09:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【两名生还大陆船员今日16:30从金门启程返大陆】2月14日台湾有关方面粗暴对待大陆渔船致2名渔民遇难恶性事件发生后，20日上午，泉州市红十字会等派人陪同船员家属抵达金门，处理相关善后事宜。2名事件中生还大陆船员在陆方协助下于下午4时30分登上“小三通”船班，准备返回大陆。台媒称，2名船员对当天的事发经过保持沉默。](https://dig.chouti.com/link/41582466)|
+|2024-02-20 08:01:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大陆海警临检金门游轮，台军方称“担心冲突升级”不介入](https://dig.chouti.com/link/41581527)|
+|2024-02-20 03:43:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[36岁美国成人片女演员在家中自杀，亲友为其在网上筹集丧葬费](https://dig.chouti.com/link/41578548)|
+|2024-02-20 07:10:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[花滑运动员柳鑫宇在IG账号“自爆”猛料，随后搭档王诗玥发声明表示柳鑫宇被盗号，已报警处理。吉林省体育局称多部门已介入核查。](https://dig.chouti.com/link/41581146)|
+|2024-02-20 06:08:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[前俄军飞行员在西班牙被发现死于枪杀，去年曾驾直升机叛逃乌克兰](https://dig.chouti.com/link/41580516)|
+|2024-02-20 13:02:26|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[特约文章丨大语言模型价值观对齐研究与展望](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812581&idx=1&sn=b55363ae183a63b62ac7dbf8b3343c9c)|
+|2024-02-20 16:06:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[比GPT-4快18倍，世界最快大模型Groq登场，每秒500 token破纪录，自研LPU是英伟达GPU 10倍](https://36kr.com/p/2656422963231878)|
+|2024-02-20 16:06:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[深挖涨粉最快的1000个抖音账号，我们总结了4个内容趋势](https://36kr.com/p/2655382417637633)|
+|2024-02-20 16:06:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[存储，战火重燃](https://36kr.com/p/2655472352165001)|
+|2024-02-20 16:06:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[车圈疯狂降价24小时：比亚迪五菱带头开打，电比油便宜，合资车毫无招架](https://36kr.com/p/2656313792364806)|
+|2024-02-20 16:06:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI创业冰火两重天：Sora降世资本狂欢，数家创企倒闭关门](https://36kr.com/p/2655431693910281)|
+|2024-02-20 16:06:36|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Gemini一眼识破Sora视频是AI生成？百万token上下文能力碾压GPT-4](https://36kr.com/p/2656423237468420)|
+|2024-02-20 21:50:00|[向阳而生](https://blog.7wate.com/rss.xml)|[一命二运三风水](https://blog.7wate.com/archives/yi-ming-er-yun-san-feng-shui)|
+|2024-02-20 08:21:34|[靜風說](http://www.jingfengshuo.com/feed)|[2024年春节小记](https://www.jingfengshuo.com/archives/2733.html)|
 |2024-02-20 12:09:00|[虎嗅](https://rss.huxiu.com/)|[私人部门为什么会“躺平”](https://www.huxiu.com/article/2693716.html?f=rss)|
 |2024-02-20 12:01:49|[虎嗅](https://rss.huxiu.com/)|[第一批尝鲜Vision Pro的苹果用户，为何开始退货了？](https://www.huxiu.com/article/2694056.html?f=rss)|
 |2024-02-20 11:23:37|[虎嗅](https://rss.huxiu.com/)|[年薪百万的大厂员工，为何在县城亲戚看来毫无价值？](https://www.huxiu.com/article/2693704.html?f=rss)|
