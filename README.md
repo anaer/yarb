@@ -2,6 +2,68 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-22 13:57:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Feb.11 - Feb.17](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240217/)|
+|2024-02-22 13:55:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Feb.4 - Feb.10](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240210/)|
+|2024-02-22 13:53:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jan.28 - Feb.3](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240203/)|
+|2024-02-22 13:51:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jan.21 - Jan.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240127/)|
+|2024-02-22 16:04:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价一人之下 659 话之中左若童的做法？](https://www.zhihu.com/question/643692964)|
+|2024-02-22 16:04:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[谷歌正式推出开源大语言模型 Gemma，声称超越 Meta Llama-2 竞品，将带来哪些影响？](https://www.zhihu.com/question/645303968)|
+|2024-02-22 16:04:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「容易暗恋老师」或「容易爱上学生」这样的心理正常吗？从心理层面如何看待「师生恋」的影响？](https://www.zhihu.com/question/644934789)|
+|2024-02-22 16:04:38|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《水浒传》中最被低估的好汉是哪一个？](https://www.zhihu.com/question/644841733)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄乌冲突将满两周年，观点称「世界已进入新冷战时代」，这场冲突或将如何发展？对世界格局产生了哪些影响？](https://www.zhihu.com/question/645386684)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在体制内工作，未来该选县委办还是乡镇副科?](https://www.zhihu.com/question/642081034)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[什么是考研调剂，如何在调剂中争取最好的结果？](https://www.zhihu.com/question/362369867)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待 2024 年 2 月 22 日 A 股市场行情走势？](https://www.zhihu.com/question/645313349)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何用一张图劝退想养猫的朋友？](https://www.zhihu.com/question/639819203)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[欧盟以涉俄乌冲突为由指控中印度企业，并首次实施制裁，如何评价欧盟此举？](https://www.zhihu.com/question/645315836)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你用过最好用的 AI 工具有哪些？](https://www.zhihu.com/question/611901563)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大学生直播课程品牌「考虫」被曝倒闭，前主讲老师「早已预见的衰亡」，你买过考虫的课吗？如何看待此事？](https://www.zhihu.com/question/645328445)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些音质特别好的音乐耳机值得购买？](https://www.zhihu.com/question/640209460)|
+|2024-02-22 16:04:37|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[最高检、全国总工会联合下发通知，推动根治欠薪、违法安排超时加班等问题，有哪些信息可关注？](https://www.zhihu.com/question/645388341)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[多家银行密集下调存款利率，下调幅度从 10 个基点至 60 个基点不等，将带来哪些影响？](https://www.zhihu.com/question/645355143)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价 Hang 重回 LNG 训练赛，对战 TES 时有机会首发上场？](https://www.zhihu.com/question/645327163)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[鹰角买断制手游《来自星尘》将于 2 月 27 日推出，你对此有哪些期待？](https://www.zhihu.com/question/645075068)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[成都市教育局通知，开学第一周为「入学适应期」，开学后两周内为「作业缓交期」，如何看待此举？](https://www.zhihu.com/question/645067216)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待华为 2 月 22 日正式发布华为 Pocket 2 旗舰小折叠？](https://www.zhihu.com/question/645363686)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么现在的大学生放假在家时间久了会更想早点开学？](https://www.zhihu.com/question/645287814)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[长沙一公交车不允许站立乘车，乘客堵在公交站，回应「为了安全」，如何看待此事？](https://www.zhihu.com/question/645004452)|
+|2024-02-22 16:04:36|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[从「逛过爸爸的拼多多」说起，收假返工后怎么照顾远方的父母？](https://www.zhihu.com/question/645227933)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你抓拍的小动物是什么样子的？](https://www.zhihu.com/question/641219065)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[央媒评秦朗巴黎丢寒假作业事件，「新黄色新闻」泛滥很危险，如何看待这种现象？](https://www.zhihu.com/question/645180645)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价华为 Pocket 2 搭载全焦段四摄？它的影像实力如何？](https://www.zhihu.com/question/645316735)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有容易坚持的体育运动？](https://www.zhihu.com/question/644351204)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[Sora 懂不懂物理世界？](https://www.zhihu.com/question/645000449)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些「一眼千年」的旅行地？](https://www.zhihu.com/question/642213656)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[小鹏汽车立 Flag，称要再招聘 4000 人，豪赌智驾，你看好小鹏汽车的未来吗？](https://www.zhihu.com/question/645085880)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张朝阳直播课中提到的 ERS-2 的卫星，为何会在太空飘荡近 30 年后重返地球大气层，有哪些信息值得关注？](https://www.zhihu.com/question/645337103)|
+|2024-02-22 16:04:35|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[旅行路上哪一瞬间让你感受到「原来已经过去这么久了」？](https://www.zhihu.com/question/441491681)|
+|2024-02-22 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[古代嫡女的地位是不是被高估了？](https://www.zhihu.com/question/640869411)|
+|2024-02-22 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[冲牙器到底是鸡肋还是神器？真的对口腔健康有帮助吗？](https://www.zhihu.com/question/640074492)|
+|2024-02-22 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你觉得广州怎么样？](https://www.zhihu.com/question/447275398)|
+|2024-02-22 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果地球一直下雪，人类能坚持多久？](https://www.zhihu.com/question/642853615)|
+|2024-02-22 16:04:34|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[江苏多地学校因恶劣天气调休 1 天，恶劣天气出行应注意什么？](https://www.zhihu.com/question/645427652)|
+|2024-02-22 17:45:00|[机核](https://www.gcores.com/rss)|[【福利】机核专访《佩妮大逃脱》开发团队Evening Star](https://www.gcores.com/articles/177938)|
+|2024-02-22 15:00:00|[机核](https://www.gcores.com/rss)|[游戏圆桌丨游戏宣发玩法变了，所以我们聊不明白《原神》](https://www.gcores.com/radios/177225)|
+|2024-02-22 14:32:08|[机核](https://www.gcores.com/rss)|[一名姓“海老泽”的日本黑帮老大因偷运核原料被起诉](https://www.gcores.com/articles/177942)|
+|2024-02-22 14:27:40|[机核](https://www.gcores.com/rss)|[诚意满满、值得一玩：《最终幻想VII 重生》媒体评分汇总](https://www.gcores.com/articles/177940)|
+|2024-02-22 14:00:00|[机核](https://www.gcores.com/rss)|[这将会是《最终幻想》的“终极形态”：《最终幻想 7 重生》评测](https://www.gcores.com/articles/177939)|
+|2024-02-22 14:00:00|[机核](https://www.gcores.com/rss)|[这将会是一次充满回忆与满足的冒险之旅：《最终幻想 7 重生》体验](https://www.gcores.com/videos/177936)|
+|2024-02-22 11:00:00|[机核](https://www.gcores.com/rss)|[边邑](https://www.gcores.com/articles/177916)|
+|2024-02-22 10:35:00|[机核](https://www.gcores.com/rss)|[GPASS 新春优惠活动 2 月 27 日 0 点开启！](https://www.gcores.com/articles/177930)|
+|2024-02-22 10:31:57|[机核](https://www.gcores.com/rss)|[告别加速器：二次元生存竞技MOBA《永恒轮回》亚洲2服今日Steam公测](https://www.gcores.com/articles/177935)|
+|2024-02-22 10:30:00|[机核](https://www.gcores.com/rss)|[DND龙枪跑团第三集：跳崖神器可还行](https://www.gcores.com/videos/177864)|
+|2024-02-22 10:15:37|[机核](https://www.gcores.com/rss)|[译介丨"DAILY VA-11 HALL-A 2022 #17"](https://www.gcores.com/articles/177934)|
+|2024-02-22 09:29:20|[机核](https://www.gcores.com/rss)|[探索幕末风景，《浪人崛起》公布“世界”宣传片](https://www.gcores.com/articles/177932)|
+|2024-02-22 09:00:00|[机核](https://www.gcores.com/rss)|[长这么大，哪部动画让你永远难忘？录音笔 VOL.144](https://www.gcores.com/radios/177921)|
+|2024-02-22 08:57:26|[机核](https://www.gcores.com/rss)|[合作砍杀游戏《奇妙大作战》确定3月26日正式上线！](https://www.gcores.com/articles/177931)|
+|2024-02-22 16:02:00|[虎嗅](https://rss.huxiu.com/)|[决定离婚的江浙沪赘婿：不想做家里的边缘人](https://www.huxiu.com/article/2701952.html?f=rss)|
+|2024-02-22 14:00:00|[plus studio](https://studyinglover.com/atom.xml)|[colab运行google最新开源模型Gemma](https://studyinglover.com/2024/02/22/colab%E8%BF%90%E8%A1%8Cgoogle%E6%9C%80%E6%96%B0%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8BGemma/)|
+|2024-02-22 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPhone支持5G消息，苹果为何“自毁长城”？](https://36kr.com/p/2659130678938882)|
+|2024-02-22 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Android 15来了，AI彻底缺席，谷歌在纠结什么？](https://36kr.com/p/2659115245030920)|
+|2024-02-22 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[开源大模型王座易主，谷歌Gemma杀入场，笔记本可跑，可商用](https://36kr.com/p/2658474671438982)|
+|2024-02-22 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[无人环卫公司「云创智行」完成数千万元A轮融资，今年落地数百台无人环卫车 36氪首发](https://36kr.com/p/2654049104855301)|
+|2024-02-22 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI圈割韭菜乱象频出：卖199元AI课赚了上千万](https://36kr.com/p/2658110449089664)|
+|2024-02-22 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Sora火了，抖音们慌了？](https://36kr.com/p/2658959379808513)|
 |2024-02-22 12:30:00|[向阳而生](https://blog.7wate.com/rss.xml)|[新奇的 HR 经历](https://blog.7wate.com/archives/xin-qi-de-hr-jing-li)|
 |2024-02-22 10:13:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【macOS Sonoma】如何開啟 Mac 的「螢幕共享」？](https://applefans.today/2024-02-macos-sonoma-monitor-control/)|
 |2024-02-22 09:31:07|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[一开工就打折，是不是有点过分了？？？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449674&idx=1&sn=657d0333dd13b8564fe2d3c6c6281e96)|
