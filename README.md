@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-22 12:30:00|[向阳而生](https://blog.7wate.com/rss.xml)|[新奇的 HR 经历](https://blog.7wate.com/archives/xin-qi-de-hr-jing-li)|
 |2024-02-22 10:13:00|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【macOS Sonoma】如何開啟 Mac 的「螢幕共享」？](https://applefans.today/2024-02-macos-sonoma-monitor-control/)|
 |2024-02-22 09:31:07|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[一开工就打折，是不是有点过分了？？？](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449674&idx=1&sn=657d0333dd13b8564fe2d3c6c6281e96)|
 |2024-02-22 04:59:06|[摄影世界](https://feedx.net/rss/photoworld.xml)|[索尼 F2.8 大光圈标准变焦 G 镜头 FE 24-50mm F2.8 G 发布](https://www.photoworld.com.cn/post/176117)|
