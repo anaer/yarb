@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-21）
+﻿# 每日资讯（2024-02-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-22 00:53:59|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果宣布 iPhone15 电池寿命大幅提升/Google 发布最强开源大模型 Gemma/小米汽车价格定了？高管辟谣](https://www.ifanr.com/1575797?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-21 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球大火的Sora还没盈利，这些人已经实现日赚200万](https://36kr.com/p/2656932652387846)|
 |2024-02-21 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[恒大在上海的二手小区，现在都怎么样了](https://36kr.com/p/2656351938003200)|
 |2024-02-21 04:03:37|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨iPhone16 Pro或新增“沙漠钛”配色；淘宝客服回应开放微信支付；王海称东方甄选明知用了虾药还去报假案](https://36kr.com/p/2657519215886595)|
