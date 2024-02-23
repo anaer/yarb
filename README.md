@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-23 08:22:08|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[说两个早春最好吃的水果，外面真就买不到。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449716&idx=1&sn=966af04c51b288b7ac40efba5f52ddaa)|
+|2024-02-23 12:52:00|[oldj's blog](https://oldj.net/feed)|[不要做“微操”型管理者](https://oldj.net/article/2024/02/23/do-not-micromanage/)|
+|2024-02-23 07:32:00|[est の 输入输出](https://blog.est.im/rss)|[LLM, RAG 和 Groq](https://blog.est.im/2024/stderr-04)|
+|2024-02-23 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[昨晚，半个地球的熟睡中，他再次捅破了天](https://36kr.com/p/2660319598289670)|
+|2024-02-23 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[奥特曼孙正义，你们一起上吧，我黄仁勋何惧](https://36kr.com/p/2659194194267394)|
+|2024-02-23 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不回北上广的青年，捧红了“1688小镇”](https://36kr.com/p/2659304331050112)|
+|2024-02-23 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI美女，组团在抖音卖货](https://36kr.com/p/2659185966169219)|
 |2024-02-23 08:59:07|[摄影世界](https://feedx.net/rss/photoworld.xml)|[让真实有层次｜Xiaomi 14 Ultra 发布 6499 元起](https://www.photoworld.com.cn/post/176126)|
 |2024-02-23 11:56:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[尖叫土拨鼠是假的，吃它摸它你就倒霉是真的](https://dig.chouti.com/link/41616143)|
 |2024-02-23 05:13:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[克里斯汀·斯图尔特回应最近为《滚石》杂志拍摄的争议写真：“当顺直男发现，女性身体所展示出来的欲望或者性意识不是为他们而服务、也不是由他们主导的时候，就会对此感到不满，这让我很高兴”](https://dig.chouti.com/link/41612629)|
