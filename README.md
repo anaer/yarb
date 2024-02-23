@@ -2,6 +2,36 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-23 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：机核文章推荐与导读（2.10-2.23）](https://www.gcores.com/articles/177969)|
+|2024-02-23 15:00:00|[机核](https://www.gcores.com/rss)|[想成为时间管理大师！核市奇谭Vol.66](https://www.gcores.com/radios/177224)|
+|2024-02-23 12:30:00|[机核](https://www.gcores.com/rss)|[《黄金树幽影》预告台词中有哪些秘密？与本篇有哪些联系？英语语言学解析](https://www.gcores.com/videos/177979)|
+|2024-02-23 11:38:00|[机核](https://www.gcores.com/rss)|[罗理罗说第十期：圣兽之王的前世今生](https://www.gcores.com/videos/177988)|
+|2024-02-23 10:00:00|[机核](https://www.gcores.com/rss)|[真·交个朋友！ Redmi MiniLed G Pro 27电竞显示器开箱体验](https://www.gcores.com/articles/177972)|
+|2024-02-23 09:57:58|[机核](https://www.gcores.com/rss)|[笔记本续航本该如此，Redmi Book Pro 16 2024上手体验](https://www.gcores.com/articles/177826)|
+|2024-02-23 09:00:00|[机核](https://www.gcores.com/rss)|[《消失的溪流》和“八十年代的新一辈”，录音笔 VOL.145](https://www.gcores.com/radios/177978)|
+|2024-02-23 08:53:26|[机核](https://www.gcores.com/rss)|[纪录片《小岛秀夫：连接世界》现已上线Disney+独家播出](https://www.gcores.com/articles/177985)|
+|2024-02-23 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图221期:突然降温，冷得发昏](https://www.gcores.com/articles/174724)|
+|2024-02-23 09:12:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[昂贵的3D打印篮球](https://dig.chouti.com/link/41614924)|
+|2024-02-23 12:02:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[收到印度政府指令，X关闭“农民抗议”相关账号](https://dig.chouti.com/link/41616382)|
+|2024-02-23 12:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【一个县城的妈妈们，制造全国三分之一的校服】惠安县，福建泉州下辖一座县城，是全国校服的圣地。这里生产了全国三分之一的校服，吃苦耐劳的惠安妈妈们在缝纫机间翻飞的双手，缔造了一代又一代中国人学生时代的审美穿搭。](https://dig.chouti.com/link/41616672)|
+|2024-02-23 13:01:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[28岁抗癌博主“菲菲公主”去世，曾是电竞教练](https://dig.chouti.com/link/41616724)|
+|2024-02-23 13:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消费降级的风吹不到县城：北漂10年，输给了「县城中产」](https://dig.chouti.com/link/41617223)|
+|2024-02-23 13:33:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为了造车，法拉利悄悄买了一辆特斯拉](https://dig.chouti.com/link/41617271)|
+|2024-02-23 13:11:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【上帝模拟：创造一个包含12种生物群落的装饰墙】 油管生态箱大佬 Dr. Plants ，用12只生态箱，模拟地球上12种截然不同风格的生物钟群。沙漠、草原、灌木林、海洋、湖泊、湿地、热带草原、森林、台地、山区、丛林、极地，12种风景汇聚在一面墙上，观感非常震撼（YouTube: Dr. Plants）](https://dig.chouti.com/link/41617115)|
+|2024-02-23 09:12:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[猫猫工厂](https://dig.chouti.com/link/41614957)|
+|2024-02-23 09:12:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泰国低成本cosplay小哥最近的一些创意](https://dig.chouti.com/link/41614959)|
+|2024-02-23 09:24:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[尼日利亚，依然需要计划生育？](https://dig.chouti.com/link/41614984)|
+|2024-02-23 10:09:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[欧联杯淘汰赛附加赛客场战胜图卢兹赛后，本菲卡球迷为难掩悲痛的19岁小将若昂·内维斯送上歌声鼓励，因为他的母亲在本周一因不幸逝世。](https://dig.chouti.com/link/41615480)|
+|2024-02-23 10:28:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[他们的真实人生，不是减重爽文：那些也曾减重100斤的普通人](https://dig.chouti.com/link/41615555)|
+|2024-02-23 11:08:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[——“下一个姚明什么时候出来？” ——姚明：”与其期待下一个姚明，不如期待下一个林书豪、下一个郭艾伦、下一个赵继伟…他们的模式可以去复制。我身上有很多特殊性，在中国的这种环境里，不是所有的孩子都有这样的条件，比如说我的父母都是职业运动员，我很早就接触运动，天赋被人发现。中间也得到了一些资源的倾斜。”](https://dig.chouti.com/link/41615955)|
+|2024-02-23 09:01:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高合创始人丁磊内部讲话录音曝光：号召员工自救，现场高喊“我们坚强，我们必胜”](https://dig.chouti.com/link/41614498)|
+|2024-02-23 03:09:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[罗纳尔迪尼奥在土耳其拍摄节目中上演倒钩破门](https://dig.chouti.com/link/41611325)|
+|2024-02-23 13:02:32|[爱范儿](https://www.ifanr.com/feed)|[为了造车，法拉利悄悄买了一辆特斯拉](https://www.ifanr.com/1575947?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-23 12:19:44|[爱范儿](https://www.ifanr.com/feed)|[马斯克公开怒怼，Google 的 AI 怎么又翻车了？](https://www.ifanr.com/1575948?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-23 07:37:04|[爱范儿](https://www.ifanr.com/feed)|[小米平板 6S Pro 12.4 体验：百瓦快充配上大电池大屏幕，性能最好、最实用的小米平板](https://www.ifanr.com/1575892?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-23 01:08:01|[爱范儿](https://www.ifanr.com/feed)|[早报｜英伟达市值单日飙升 2770 亿美元/苹果折叠屏项目推进缓慢/李一舟 AI 课程已在全网下架](https://www.ifanr.com/1575876?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-23 10:15:00|[idealclover](https://idealclover.top/feed)|[2021-2023年终总结：跃入人海，潮起潮落](https://idealclover.top/archives/637/)|
+|2024-02-23 08:00:00|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[符合条件的 GitHub 开源项目贡献者可获取 Stark 空投](https://www.imaegoo.com/2024/get-stark-provisions/)|
 |2024-02-23 08:22:08|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[说两个早春最好吃的水果，外面真就买不到。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449716&idx=1&sn=966af04c51b288b7ac40efba5f52ddaa)|
 |2024-02-23 12:52:00|[oldj's blog](https://oldj.net/feed)|[不要做“微操”型管理者](https://oldj.net/article/2024/02/23/do-not-micromanage/)|
 |2024-02-23 07:32:00|[est の 输入输出](https://blog.est.im/rss)|[LLM, RAG 和 Groq](https://blog.est.im/2024/stderr-04)|
