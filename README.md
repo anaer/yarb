@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-02-22）
+﻿# 每日资讯（2024-02-23）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-23 00:11:44|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)|
 |2024-02-22 13:57:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Feb.11 - Feb.17](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240217/)|
 |2024-02-22 13:55:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Feb.4 - Feb.10](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240210/)|
 |2024-02-22 13:53:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jan.28 - Feb.3](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240203/)|
