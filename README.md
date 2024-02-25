@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 178 期（2024.02.26）](https://www.ftium4.com/ux-weekly-178.html)|
+|2024-02-25 10:09:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[如何借助生成 AI 提供 HarmonyOS 开发体验？试试 AutoDev 新功能](http://www.phodal.com/blog/autodev-aigc-for-harmonyos/)|
+|2024-02-25 14:39:31|[SHRIK3](https://shrik3.com/index.xml)|[The archtecture terminimology madness](https://shrik3.com/post/term_madness/)|
+|2024-02-25 14:35:43|[爱范儿](https://www.ifanr.com/feed)|[168 万元！仰望 U9 正式发布，比亚迪超跑真的来了](https://www.ifanr.com/1576109?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-25 08:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone「貼紙悠遊卡」內部測試！最快年中果粉嗶進捷運](https://www.iphonetaiwan.org/2024/02/iphone-easycard-stickers.html)|
+|2024-02-25 05:21:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】掌握 iPhone 開關機技巧，快速解決當機問題](https://www.iphonetaiwan.org/2024/02/iphone-power-on-off-guide.html)|
 |2024-02-25 11:25:50|[Kenvix's Blog](https://kenvix.com/rss.xml)|[免Telent/TTL屏蔽运营商光猫的远控、TR069和RMS，获取动态随机超级管理员密码固化权限](https://kenvix.com/post/block-tr069-and-rms/)|
 |2024-02-25 11:35:00|[六个周](https://blog.liugezhou.online/atom.xml)|[每周小结 *105 :牛马生活开始](https://blog.liugezhou.online/202406-No105/)|
 |2024-02-25 12:02:35|[晚点LatePost](https://feedpress.me/wx-postlate)|[小鹏智驾开城故事：吹过的牛都要实现](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512904&idx=2&sn=bccde75a7ff4ad5e8479e064bae806eb)|
