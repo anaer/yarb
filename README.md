@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 16:57:24|[机核](https://www.gcores.com/rss)|[独立游戏《联城》](https://www.gcores.com/videos/178046)|
+|2024-02-25 15:00:00|[机核](https://www.gcores.com/rss)|[春节泡在电影院2024](https://www.gcores.com/radios/177980)|
+|2024-02-25 13:28:31|[机核](https://www.gcores.com/rss)|[如何制作一颗行星——壮阔奇伟的后土星球](https://www.gcores.com/articles/178045)|
+|2024-02-25 14:37:19|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《荒野》：一拳超人马东锡暴打所有，鳄鱼躺下，恶霸躺下，丧尸躺下！](https://www.ximalaya.com/sound/708816508)|
 |2024-02-25 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 178 期（2024.02.26）](https://www.ftium4.com/ux-weekly-178.html)|
 |2024-02-25 10:09:47|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[如何借助生成 AI 提供 HarmonyOS 开发体验？试试 AutoDev 新功能](http://www.phodal.com/blog/autodev-aigc-for-harmonyos/)|
 |2024-02-25 14:39:31|[SHRIK3](https://shrik3.com/index.xml)|[The archtecture terminimology madness](https://shrik3.com/post/term_madness/)|
