@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 11:25:50|[Kenvix's Blog](https://kenvix.com/rss.xml)|[免Telent/TTL屏蔽运营商光猫的远控、TR069和RMS，获取动态随机超级管理员密码固化权限](https://kenvix.com/post/block-tr069-and-rms/)|
+|2024-02-25 11:35:00|[六个周](https://blog.liugezhou.online/atom.xml)|[每周小结 *105 :牛马生活开始](https://blog.liugezhou.online/202406-No105/)|
+|2024-02-25 12:02:35|[晚点LatePost](https://feedpress.me/wx-postlate)|[小鹏智驾开城故事：吹过的牛都要实现](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512904&idx=2&sn=bccde75a7ff4ad5e8479e064bae806eb)|
+|2024-02-25 12:02:34|[晚点LatePost](https://feedpress.me/wx-postlate)|[四千张黑胶唱片和一个纯粹空间｜晚点周末](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247512904&idx=1&sn=5c960c8fa212d34751e969fd22762c0e)|
 |2024-02-25 08:02:00|[虎嗅](https://rss.huxiu.com/)|[金融帝国贝莱德，到底有多可怕？](https://www.huxiu.com/article/2706104.html?f=rss)|
 |2024-02-25 07:49:16|[虎嗅](https://rss.huxiu.com/)|[模型上下文长度达到10000000，又一批创业者完蛋了？](https://www.huxiu.com/article/2712267.html?f=rss)|
 |2024-02-25 07:25:00|[虎嗅](https://rss.huxiu.com/)|[宗庆后：“我也不怕当首富”](https://www.huxiu.com/article/2712271.html?f=rss)|
