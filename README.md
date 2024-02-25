@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-02-24）
+﻿# 每日资讯（2024-02-25）
 
 |时间|来源|标题|
 |---|---|---|
@@ -17,7 +17,9 @@
 |2024-02-24 03:12:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[顿巴斯前线俄军部队国际旅的一名日本合同志愿兵，主要是从事战场救护工作](https://dig.chouti.com/link/41621338)|
 |2024-02-24 02:12:35|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Pinely Round 3 Div. 1 + Div. 2 ](https://blog.mauve.icu/2024/02/24/acm/codeforces/PinelyRound3/)|
 |2024-02-24 21:58:03|[程序员的喵](https://catcoding.me/atom.xml)|[中外程序员差异](http://catcoding.me/p/diff/)|
+|2024-02-25 06:00:00|[烧饼博客](https://u.sb/rss.xml)|[Debian 12 使用 Docker 安装 Shlink 自建短网址](https://u.sb/docker-shlink/)|
 |2024-02-24 04:00:29|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)|
+|2024-02-25 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Heap Building Algorithm](https://leimao.github.io/blog/Heap-Building-Asymptotic-Algorithm/)|
 |2024-02-24 04:21:49|[机核](https://www.gcores.com/rss)|[从玩家的行为分析战斗策略](https://www.gcores.com/articles/177799)|
 |2024-02-24 01:00:47|[爱范儿](https://www.ifanr.com/feed)|[买汽车送北京牌照？小米辟谣/苹果内测类 ChatGPT 工具/英伟达市值破 2 万亿美元](https://www.ifanr.com/1576006?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-24 04:08:32|[虎嗅](https://rss.huxiu.com/)|[“重庆李嘉诚”抄底富力](https://www.huxiu.com/article/2707938.html?f=rss)|
