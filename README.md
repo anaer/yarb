@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-25 04:00:27|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)|
 |2024-02-24 11:10:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[意大利警方2月23日殴打比萨和佛罗伦萨市支持巴勒斯坦示威者多名未成年人受伤，两市市长与意大利反对党人士纷纷谴责警方的做法，指责意大利政府上台以来营造出了“压迫的氛围”。](https://dig.chouti.com/link/41624696)|
 |2024-02-24 11:11:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：机械异形，作者Jason Leite](https://dig.chouti.com/link/41624774)|
 |2024-02-24 13:13:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[安妮·海瑟薇在米兰时装周after party上热舞麦当娜 经典神曲Hung Up~ 网友纷纷羡慕：希望我41岁的时候也可以这么松弛和自若~（Cr - hyunjin.twi）](https://dig.chouti.com/link/41625602)|
