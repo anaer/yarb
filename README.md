@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-02-25）
+﻿# 每日资讯（2024-02-26）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-26 00:00:51|[余晟以为](https://feedpress.me/wx-yurii-says)|[ChatGPT如何成了学习的神兵利器](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009864&idx=1&sn=91879a592b40b94583c292f09ed2303e)|
+|2024-02-26 01:00:35|[爱范儿](https://www.ifanr.com/feed)|[英伟达将华为列为最大竞争对手/娃哈哈创始人宗庆后逝世/苹果将重新设计 iOS 18 的 UI](https://www.ifanr.com/1576138?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-02-25 16:57:24|[机核](https://www.gcores.com/rss)|[独立游戏《联城》](https://www.gcores.com/videos/178046)|
 |2024-02-25 15:00:00|[机核](https://www.gcores.com/rss)|[春节泡在电影院2024](https://www.gcores.com/radios/177980)|
 |2024-02-25 13:28:31|[机核](https://www.gcores.com/rss)|[如何制作一颗行星——壮阔奇伟的后土星球](https://www.gcores.com/articles/178045)|
