@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-26 14:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[SpaceX首次通过星链从太空向社交平台X上发帖](https://dig.chouti.com/link/41644090)|
+|2024-02-26 10:09:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌AI模型和《纽约时报》各自的“政治正确”—— “谷歌的AI模型不会生成白人的图片。” 《纽约时报》：我不在乎。 “谷歌AI怎么能把美国国父画成非洲人和亚洲人呢？” 《纽约时报》：那又怎样？ （压低嗓门）“这也意味着，纳粹分子同样会被画成有色人种…” 《纽约时报》 ：不得了了，突发新闻！](https://dig.chouti.com/link/41642204)|
+|2024-02-26 14:10:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英超官方：埃弗顿罚分由10分降至6分，现积25分排英超第15](https://dig.chouti.com/link/41644163)|
+|2024-02-26 13:11:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[斯坦福大学李宏斌等在最近发表于美国国家经济研究局（NBER）的一篇论文，利用1999年到2003年全国高考考生数据，考察高考引进听力考试对城乡学生升学的影响：当英语听力测试被引进高考后，城乡录取差距被拉大了30%，五年时间导致5.4万名农村学生无法升入大学，另有1.1万名本可以进入精英大学的农村学生丧失这一机会。](https://dig.chouti.com/link/41643751)|
+|2024-02-26 07:02:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一场山火赔偿百亿美元：巴菲特的失望，如何折射美国能源转型困局？](https://dig.chouti.com/link/41640447)|
+|2024-02-26 09:10:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[迷你F1摩纳哥大奖赛……好想要，但我知道我买不起](https://dig.chouti.com/link/41641686)|
+|2024-02-26 14:11:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“中国特色的香港资本主义”是什么意思？](https://dig.chouti.com/link/41644186)|
+|2024-02-26 09:12:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[据日本知名狗仔队《FLASH》爆料，深田咏美在其前所属公司月薪200万日元，工作7年收入超1亿5000万日元。但事务所未帮她报税，导致被追征8000万日元税款。相关责任人跑路，深田咏美独自承担巨额债务。](https://dig.chouti.com/link/41641781)|
+|2024-02-26 12:08:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[此次军演不针对任何新郎……](https://dig.chouti.com/link/41643165)|
+|2024-02-26 09:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[姚安娜《猎冰》出圈镜头](https://dig.chouti.com/link/41641747)|
+|2024-02-26 09:29:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【殷墟新馆开放，下一个“爆款”博物馆为何是它？】殷墟是我国历史上第一个有文献可考、为考古发掘和甲骨文所证实的商代晚期都城遗址，也是我国考古发掘次数最多、持续时间最长的古代都城遗址。](https://dig.chouti.com/link/41641785)|
+|2024-02-26 05:01:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伦敦帝国理工学院新LOGO只剩“帝国”，遭学生集体抵制](https://dig.chouti.com/link/41639107)|
+|2024-02-26 12:05:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[南方周末黄金一代：一群记者和TA们的时代](https://dig.chouti.com/link/41643141)|
 |2024-02-26 02:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国住宅价格持续下跌，政府提振楼市的压力增大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1%E6%9C%88%E6%96%B0%E5%BB%BA%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E5%90%8C%E6%AF%94%E9%99%8D%E5%B9%85%E6%89%A9%E5%A4%A7-f98e3f29)|
 |2024-02-26 08:40:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平承诺中国人的经济“新常态”兑现了吗？](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%BF%E8%AF%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%BB%8F%E6%B5%8E-%E6%96%B0%E5%B8%B8%E6%80%81-%E5%85%91%E7%8E%B0%E4%BA%86%E5%90%97-0dfdba18)|
 |2024-02-26 01:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美国会议员称SpaceX可能暂停台湾卫星互联网服务](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E7%A7%B0spacex%E5%8F%AF%E8%83%BD%E6%9A%82%E5%81%9C%E5%8F%B0%E6%B9%BE%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1-511b4a7d)|
