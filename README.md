@@ -2,6 +2,60 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-27 08:48:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[穷人的supervisor OOM killer](https://blog.est.im/2024/stdout-03)|
+|2024-02-27 12:04:09|[虎嗅](https://rss.huxiu.com/)|[在14万套二手房挂牌里，我看到房东心态的变化](https://www.huxiu.com/article/2720007.html?f=rss)|
+|2024-02-27 12:00:00|[虎嗅](https://rss.huxiu.com/)|[库迪又朝瑞幸“开了一枪”，国产咖啡陷入9.9元困境](https://www.huxiu.com/article/2722280.html?f=rss)|
+|2024-02-27 11:27:29|[虎嗅](https://rss.huxiu.com/)|[Sora模型争议背后：什么是杨立昆的世界模型？](https://www.huxiu.com/article/2722509.html?f=rss)|
+|2024-02-27 11:25:36|[虎嗅](https://rss.huxiu.com/)|[宫腔镜手术小史：从妇科到生殖中心](https://www.huxiu.com/article/2722184.html?f=rss)|
+|2024-02-27 11:22:37|[虎嗅](https://rss.huxiu.com/)|[汽车经销商生存状况调查：普遍亏损的至暗时刻](https://www.huxiu.com/article/2722219.html?f=rss)|
+|2024-02-27 11:15:00|[虎嗅](https://rss.huxiu.com/)|[中国汽车在迪拜：4S店开到豪车商圈](https://www.huxiu.com/article/2722278.html?f=rss)|
+|2024-02-27 10:56:00|[虎嗅](https://rss.huxiu.com/)|[美商务部长直言僧多粥少：芯片补贴将大大低于企业预期](https://www.huxiu.com/article/2722217.html?f=rss)|
+|2024-02-27 10:53:26|[虎嗅](https://rss.huxiu.com/)|[德国地产“慢性”崩盘，对银行的威胁有多大？](https://www.huxiu.com/article/2722203.html?f=rss)|
+|2024-02-27 10:52:29|[虎嗅](https://rss.huxiu.com/)|[水果越来越甜，但我真的吃不下去了](https://www.huxiu.com/article/2711794.html?f=rss)|
+|2024-02-27 10:39:00|[虎嗅](https://rss.huxiu.com/)|[吐槽完Sora，Google自己做的“基础世界模型”来了](https://www.huxiu.com/article/2722487.html?f=rss)|
+|2024-02-27 10:35:26|[虎嗅](https://rss.huxiu.com/)|[ChatGPT时代，我们该如何学习？](https://www.huxiu.com/article/2713556.html?f=rss)|
+|2024-02-27 10:33:00|[虎嗅](https://rss.huxiu.com/)|[猪吃抗生素，会导致人感染“超级细菌”？](https://www.huxiu.com/article/2722163.html?f=rss)|
+|2024-02-27 10:25:00|[虎嗅](https://rss.huxiu.com/)|[6块一杯的蜜雪冰城，当真无人可敌？](https://www.huxiu.com/article/2721807.html?f=rss)|
+|2024-02-27 10:15:43|[虎嗅](https://rss.huxiu.com/)|[资源型城市，如何靠旅游业转型？](https://www.huxiu.com/article/2721817.html?f=rss)|
+|2024-02-27 10:05:00|[虎嗅](https://rss.huxiu.com/)|[一口气看完雍正，大清第一工作狂？](https://www.huxiu.com/article/2721257.html?f=rss)|
+|2024-02-27 10:00:00|[虎嗅](https://rss.huxiu.com/)|[拒绝4000万美金，他让马云把阿里留在了中国](https://www.huxiu.com/article/2717136.html?f=rss)|
+|2024-02-27 09:38:53|[虎嗅](https://rss.huxiu.com/)|[小米新角色火力不减，14Ultra打造影像旗舰？](https://www.huxiu.com/article/2713060.html?f=rss)|
+|2024-02-27 09:38:02|[虎嗅](https://rss.huxiu.com/)|[害怕被排挤孤立，该如何获得爱与归属感？](https://www.huxiu.com/article/2718414.html?f=rss)|
+|2024-02-27 09:33:43|[虎嗅](https://rss.huxiu.com/)|[人类第一艘商业无人机登月，马斯克未来还有哪些计划？](https://www.huxiu.com/article/2717999.html?f=rss)|
+|2024-02-27 09:28:08|[虎嗅](https://rss.huxiu.com/)|[把生活当成游戏，赢一次再说](https://www.huxiu.com/article/2721818.html?f=rss)|
+|2024-02-27 09:00:14|[虎嗅](https://rss.huxiu.com/)|[马来西亚激战新经济](https://www.huxiu.com/article/2721824.html?f=rss)|
+|2024-02-27 09:00:01|[虎嗅](https://rss.huxiu.com/)|[不舍不甘不放心，宗庆后的最后五年](https://www.huxiu.com/article/2721802.html?f=rss)|
+|2024-02-27 08:51:18|[虎嗅](https://rss.huxiu.com/)|[大陆南端的“菠萝海”，藏着一个生猛又闲适的县城](https://www.huxiu.com/article/2721262.html?f=rss)|
+|2024-02-27 08:48:47|[虎嗅](https://rss.huxiu.com/)|[芯片初创企业，加速洗牌？](https://www.huxiu.com/article/2720455.html?f=rss)|
+|2024-02-27 08:48:15|[虎嗅](https://rss.huxiu.com/)|[最舒适的友谊是什么样子](https://www.huxiu.com/article/2721821.html?f=rss)|
+|2024-02-27 08:47:43|[虎嗅](https://rss.huxiu.com/)|[“中国桥都”，重庆为什么这么多桥？](https://www.huxiu.com/article/2721780.html?f=rss)|
+|2024-02-27 08:47:00|[虎嗅](https://rss.huxiu.com/)|[广东下一个“千亿镇”，可能是它](https://www.huxiu.com/article/2721799.html?f=rss)|
+|2024-02-27 08:32:22|[虎嗅](https://rss.huxiu.com/)|[当南方人在北方过年](https://www.huxiu.com/article/2719997.html?f=rss)|
+|2024-02-27 08:30:00|[虎嗅](https://rss.huxiu.com/)|[黑马变威马，高合汽车为啥顶不住了？](https://www.huxiu.com/article/2705523.html?f=rss)|
+|2024-02-27 08:14:37|[虎嗅](https://rss.huxiu.com/)|[为什么这20年这么乱？从政治角度来预测经济走向](https://www.huxiu.com/article/2712532.html?f=rss)|
+|2024-02-27 08:10:01|[虎嗅](https://rss.huxiu.com/)|[精英大学教育，正把学生变成“优秀的绵羊”？](https://www.huxiu.com/article/2621541.html?f=rss)|
+|2024-02-27 08:07:00|[虎嗅](https://rss.huxiu.com/)|[宗庆后不太可能在股权方面为女儿埋雷](https://www.huxiu.com/article/2719992.html?f=rss)|
+|2024-02-27 08:04:32|[虎嗅](https://rss.huxiu.com/)|[可持续时尚新星Renewcell，为何突然破产？](https://www.huxiu.com/article/2717983.html?f=rss)|
+|2024-02-27 08:00:00|[虎嗅](https://rss.huxiu.com/)|[字节等待一鸣惊人](https://www.huxiu.com/article/2703526.html?f=rss)|
+|2024-02-27 07:47:00|[虎嗅](https://rss.huxiu.com/)|[“渐冻症”孤勇者蔡磊：被冻住的身体，冻不住的灵魂](https://www.huxiu.com/article/2721769.html?f=rss)|
+|2024-02-27 07:40:18|[虎嗅](https://rss.huxiu.com/)|[Champion正被挂牌出售](https://www.huxiu.com/article/2721794.html?f=rss)|
+|2024-02-27 07:37:05|[虎嗅](https://rss.huxiu.com/)|[效仿亚马逊，成就一个餐饮亿万富豪家族](https://www.huxiu.com/article/2721779.html?f=rss)|
+|2024-02-27 07:30:00|[虎嗅](https://rss.huxiu.com/)|[不修飞机做帽子 ，年销售额超2亿，他是怎么做到的？](https://www.huxiu.com/article/2717912.html?f=rss)|
+|2024-02-27 07:29:32|[虎嗅](https://rss.huxiu.com/)|[狂飙突进的地铁，印度人敬而远之？](https://www.huxiu.com/article/2720744.html?f=rss)|
+|2024-02-27 07:24:26|[虎嗅](https://rss.huxiu.com/)|[爱情粉碎](https://www.huxiu.com/article/2721760.html?f=rss)|
+|2024-02-27 07:17:47|[虎嗅](https://rss.huxiu.com/)|[人人“开麦”的今天，辩论还有价值吗？](https://www.huxiu.com/article/2718410.html?f=rss)|
+|2024-02-27 07:13:00|[虎嗅](https://rss.huxiu.com/)|[0元机票，究竟让谁占了便宜？](https://www.huxiu.com/article/2721761.html?f=rss)|
+|2024-02-27 07:02:15|[虎嗅](https://rss.huxiu.com/)|[荣耀冲击海外，叫板苹果三星，底气在哪里？](https://www.huxiu.com/article/2721317.html?f=rss)|
+|2024-02-27 06:56:53|[虎嗅](https://rss.huxiu.com/)|[“欧洲版OpenAI”联手微软，却被质疑违背初心](https://www.huxiu.com/article/2721327.html?f=rss)|
+|2024-02-27 06:56:05|[虎嗅](https://rss.huxiu.com/)|[没有年终奖的投资人挤满VC/PE圈](https://www.huxiu.com/article/2721334.html?f=rss)|
+|2024-02-27 06:30:35|[虎嗅](https://rss.huxiu.com/)|[对董宇辉突然清空微博的一点看法](https://www.huxiu.com/article/2721274.html?f=rss)|
+|2024-02-27 06:29:04|[虎嗅](https://rss.huxiu.com/)|[为什么说腾讯22年前的这份神级PPT，是立项汇报的天花板？](https://www.huxiu.com/article/2717108.html?f=rss)|
+|2024-02-27 06:26:27|[虎嗅](https://rss.huxiu.com/)|[高欲望，低消费，你也是这样吗？](https://www.huxiu.com/article/2720701.html?f=rss)|
+|2024-02-27 06:00:01|[虎嗅](https://rss.huxiu.com/)|[打工人如鲠在喉的一天：早上挤地铁，中午叫外卖，晚上刷手机](https://www.huxiu.com/article/2720693.html?f=rss)|
+|2024-02-27 05:38:09|[虎嗅](https://rss.huxiu.com/)|[美国最大原住民部落，为什么要求NASA停止登月？](https://www.huxiu.com/article/2721256.html?f=rss)|
+|2024-02-27 05:14:47|[虎嗅](https://rss.huxiu.com/)|[消费降级的风，咱们不追了](https://www.huxiu.com/article/2720747.html?f=rss)|
+|2024-02-27 04:31:39|[虎嗅](https://rss.huxiu.com/)|[Unity暴跌？垃圾的管理，稀烂的出牌](https://www.huxiu.com/article/2720712.html?f=rss)|
+|2024-02-27 04:30:00|[虎嗅](https://rss.huxiu.com/)|[台企固态电池实现量产，大陆厂商要落后了吗？](https://www.huxiu.com/article/2716607.html?f=rss)|
 |2024-02-27 07:13:11|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[今日arXiv最热NLP大模型论文：做到头了！清华和哈工大把大模型量化做到了1比特](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812644&idx=1&sn=e4b6cbb29448ff1fdbf5c4fbc2932a1f)|
 |2024-02-27 01:14:42|[Tinyfool的个人网站](https://codechina.org/feed/)|[甲午海战中国为什么会败？从李鸿章和森有礼的对话谈起](https://codechina.org/2024/02/lihongzhang/)|
 |2024-02-27 04:00:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[英伟达的惊人增长引来更多AI竞争](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E6%83%8A%E4%BA%BA%E5%A2%9E%E9%95%BF%E5%BC%95%E6%9D%A5%E6%9B%B4%E5%A4%9Aai%E7%AB%9E%E4%BA%89-0d4c2206)|
