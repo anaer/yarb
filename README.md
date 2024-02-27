@@ -2,6 +2,38 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-27 13:34:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[胸無大志的咖灰機？](http://mercurychong.blogspot.com/2024/02/blog-post_27.html)|
+|2024-02-27 07:54:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[从文艺青年食堂到人民的酒楼，二十年。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449876&idx=1&sn=bf1c51a0140f67b80e86e7c0d84ae2cb)|
+|2024-02-27 13:20:26|[爱范儿](https://www.ifanr.com/feed)|[炸裂更新！这个最像人类的机器人又进化了，还能模仿马斯克](https://www.ifanr.com/1576302?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-27 10:00:11|[爱范儿](https://www.ifanr.com/feed)|[OMEN 暗影精灵 10 评测：游戏本中的六边形战士](https://www.ifanr.com/1576213?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-27 06:45:47|[爱范儿](https://www.ifanr.com/feed)|[坦克 700 Hi4-T 上市，国产硬派越野凭什么卖 70 万？](https://www.ifanr.com/1576182?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-27 06:30:06|[爱范儿](https://www.ifanr.com/feed)|[逼近 GPT-4 的新模型发布！「欧洲版 OpenAI」联手微软，却被质疑违背初心](https://www.ifanr.com/1576245?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-27 13:01:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[谷歌展示Genie模型：一张草图就能生成一个2D游戏](https://dig.chouti.com/link/41653995)|
+|2024-02-27 14:15:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[高合汽车回应“偷图纸”：均为原创，工程师手稿和专利都在](https://dig.chouti.com/link/41654694)|
+|2024-02-27 09:03:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【全球首辆可伸缩汽车或于今夏上市】这款纯电动汽车由总部设在以色列的City Transformers公司研发，预计今年7月上市。车最大宽度约137厘米，调整后可缩至97.5厘米。在这两种宽度下，汽车均可正常行驶，速度略有不同：最大宽度下最高时速为88公里，最小宽度下为38.6公里。售价约为1.74万美元（约合12.5万元人民币）。](https://dig.chouti.com/link/41651865)|
+|2024-02-27 07:02:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台媒曝光蔡英文财产：存款6298万新台币，台北多处有不动产](https://dig.chouti.com/link/41650441)|
+|2024-02-27 14:10:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[姜思达大片……辣眼睛 */ω＼* ](https://dig.chouti.com/link/41654670)|
+|2024-02-27 06:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[河南一家政公司发布招代孕妈妈广告，当地卫健委：将前往核实](https://dig.chouti.com/link/41649725)|
+|2024-02-27 09:10:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[正打算铲雪的时候，发现兔兔在雪地里睡着了，于是就暂时不铲了。还是第一次看到兔兔在雪地里这么睡觉呢。](https://dig.chouti.com/link/41651917)|
+|2024-02-27 09:02:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国科学家基于液态金属构建“人工树叶”取得新进展，可实现太阳能到化学能的转化](https://dig.chouti.com/link/41651840)|
+|2024-02-27 11:10:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1964年，瑞士记者阿克塞尔松为了测试评论家们是不是真懂抽象艺术，找了一只叫做彼得的猩猩，教会它乱涂乱画，然后一顿吹嘘把它包装成一个叫皮埃尔·布拉索的艺术家，并把它的画作送到了一个艺术展览。事实证明，大多数评论家没法分辨抽象艺术和“猩猩艺术”，好几位评论家甚至认为彼得是一个深藏不露的天才艺术家。](https://dig.chouti.com/link/41653225)|
+|2024-02-27 06:04:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在日本搭了一趟阴间列车：日本乡下铁道的审美](https://dig.chouti.com/link/41649981)|
+|2024-02-27 12:10:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国外小黄鱼买家迷惑对话大赏｜看着看着血压就高了……太弱智了！](https://dig.chouti.com/link/41653716)|
+|2024-02-27 07:09:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[可恶，又让小情侣秀到了！- 主持人：如果可以从英国带一样东西回美国，你会选择带什么？- 赞达亚：我的男朋友。](https://dig.chouti.com/link/41650719)|
+|2024-02-27 12:01:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[吃绝户！江西男子与上海智力残疾女子结婚卷走450万](https://dig.chouti.com/link/41653470)|
+|2024-02-27 12:10:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[RIO鸡尾酒母公司董事长涉嫌行贿被立案调查](https://dig.chouti.com/link/41653669)|
+|2024-02-27 07:53:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[数据告诉你：祁同伟接班高育良的概率只有1%](https://dig.chouti.com/link/41650869)|
+|2024-02-27 11:02:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美月球着陆器将“失联”，或提前结束任务】美国私营企业“直觉机器”公司2月26日表示，预计飞行控制团队与月球着陆器“奥德修斯”的通信将在当地时间2月27日结束。美国媒体报道称，届时这标志着“奥德修斯”此次登月任务提前终结。](https://dig.chouti.com/link/41653117)|
+|2024-02-27 06:02:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“木头姐”回应抛售英伟达：2014年就以约5美元的价格买入，涨幅超150倍后正继续套现利润](https://dig.chouti.com/link/41649930)|
+|2024-02-27 06:01:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“玄学”、误判和偏见：高校检测AI论文背后](https://dig.chouti.com/link/41649762)|
+|2024-02-27 11:09:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【台媒曝“2·14恶性撞船事件”朝过失致死罪方向侦办】 台湾《镜周刊》2月27日披露，金门地检署采证船舶相关迹证，大陆渔船左舷下方有一处明显撞痕，台“海巡”船艇右舷下方也找到一处不明显的撞击点。加上双方说法佐证，确定二船确有碰撞，全案已朝“过失致死”罪的嫌疑侦办，这意味着涉案人员恐面临5年以下刑事责任。](https://dig.chouti.com/link/41653182)|
+|2024-02-27 09:10:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾首艘自制潜艇下水](https://dig.chouti.com/link/41651910)|
+|2024-02-27 10:02:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“超级高铁”倒闭后，马斯克的“地下隧道”也悬了](https://dig.chouti.com/link/41652493)|
+|2024-02-27 10:10:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本大型家电商场里居然还有卖这个——5G信号防御贴纸！保护身体不受5G信号的危害，防御率高达99.8%。只要5970日元（约286元）。 ※好孩子请选择相信科学。](https://dig.chouti.com/link/41652607)|
+|2024-02-27 10:02:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被Sora支配的恐惧：坐立不安的制片人与起诉](https://dig.chouti.com/link/41652520)|
+|2024-02-27 09:01:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[29岁女作家瞎书去世：被病痛折磨三年，去年确诊罕见病](https://dig.chouti.com/link/41651694)|
+|2024-02-27 09:10:06|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【黑利在老家南卡罗来纳州初选败给特朗普后，大金主决定停止资助】25日，由亿万富翁、实业家查尔斯·科赫支持创建的美国保守派组织“美国繁荣行动”（Americans for Prosperity Action）25日表示，将不再为黑利的竞选活动提供资金。“美国繁荣行动”被视为特朗普的反对者，去年11月，该组织选中黑利作为赞助对象。](https://dig.chouti.com/link/41651904)|
+|2024-02-27 04:00:38|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 9 部作品](https://sspai.com/post/86623)|
 |2024-02-27 08:48:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[穷人的supervisor OOM killer](https://blog.est.im/2024/stdout-03)|
 |2024-02-27 12:04:09|[虎嗅](https://rss.huxiu.com/)|[在14万套二手房挂牌里，我看到房东心态的变化](https://www.huxiu.com/article/2720007.html?f=rss)|
 |2024-02-27 12:00:00|[虎嗅](https://rss.huxiu.com/)|[库迪又朝瑞幸“开了一枪”，国产咖啡陷入9.9元困境](https://www.huxiu.com/article/2722280.html?f=rss)|
