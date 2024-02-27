@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-27 08:44:57|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何加入 APPLEFANS蘋果迷 專屬的 Discord 聊天室？](https://applefans.today/2024-02-how-to-connect-youtube-discord/)|
+|2024-02-27 03:54:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Samsung 的 Galaxy Ring 智慧戒指 ，有望在今年正式推出](https://applefans.today/2024-02-samsung-galaxy-ring-news/)|
+|2024-02-27 02:37:24|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[【译】Apache Pulsar 3.2.0 发布](http://crossoverjie.top/2024/02/27/ob/translate-pulsar-3.2.0/)|
 |2024-02-27 13:34:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[胸無大志的咖灰機？](http://mercurychong.blogspot.com/2024/02/blog-post_27.html)|
 |2024-02-27 07:54:49|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[从文艺青年食堂到人民的酒楼，二十年。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449876&idx=1&sn=bf1c51a0140f67b80e86e7c0d84ae2cb)|
 |2024-02-27 13:20:26|[爱范儿](https://www.ifanr.com/feed)|[炸裂更新！这个最像人类的机器人又进化了，还能模仿马斯克](https://www.ifanr.com/1576302?utm_source=rss&utm_medium=rss&utm_campaign=)|
