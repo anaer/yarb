@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-28 17:39:00|[ipfans's Blog](https://www.4async.com/atom.xml)|[使用 Ollama 快速部署本地开源大语言模型](https://www.4async.com/2024/02/deploy-local-llm-using-ollama/)|
+|2024-02-28 04:00:32|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)|
+|2024-02-28 08:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AirPods 主導中國真無線耳機市場：山寨蠶食蘋果市佔](https://www.iphonetaiwan.org/2024/02/china-earphone-market-airpods-trend.html)|
+|2024-02-28 08:36:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果穿戴裝置藍圖：智慧戒指、AR眼鏡、AirPods鏡頭](https://www.iphonetaiwan.org/2024/02/blog-post_28.html)|
+|2024-02-28 07:44:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Pro Max專屬四重反射稜鏡5倍望遠：下放 iPhone 16 Pro](https://www.iphonetaiwan.org/2024/02/iphone-16-pro-5x-optical-zoom.html)|
+|2024-02-28 07:03:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[HomePod + iPad 螢幕：引領下一代智慧家居革命](https://www.iphonetaiwan.org/2024/02/homepod-ipad-screen-upgrade.html)|
+|2024-02-28 05:48:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 iOS 17.4 禁用歐盟 PWA！引發反壟斷懷疑](https://www.iphonetaiwan.org/2024/02/apple-ios-pwa-restriction.html)|
 |2024-02-28 05:25:35|[华山感染](https://feedpress.me/wx-hsinfect)|[羽化成蝶，一路生花！华山感染进修学员深情“表白”（内含视频）→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247501974&idx=2&sn=f69d28b77e6f9dcae39b004aadfdf7b1)|
 |2024-02-28 05:25:35|[华山感染](https://feedpress.me/wx-hsinfect)|[行远自迩，笃行不怠｜华山感染进修结业典礼倾情启航](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247501974&idx=1&sn=69cc3212c7261d42b89e23c0dba8da03)|
 |2024-02-28 08:09:36|[虎嗅](https://rss.huxiu.com/)|[“巴菲特正投资加密货币”，谣言从何而来？](https://www.huxiu.com/article/2726255.html?f=rss)|
