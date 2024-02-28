@@ -2,6 +2,48 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-28 09:22:11|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[谢谢那位素未谋面的前同事，这笋是真好啊。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653449923&idx=1&sn=4fec3965c54f60bef6a8e789f502fbeb)|
+|2024-02-28 12:50:34|[靜風說](http://www.jingfengshuo.com/feed)|[读王小波与李银河的书信《爱你就像爱生命》](https://www.jingfengshuo.com/archives/2738.html)|
+|2024-02-28 14:56:10|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[GORM 支持复杂对象](https://www.edony.ink/advanced-gorm-customized-types/)|
+|2024-02-28 14:08:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【小县城化债有多难？以Q县为例算算账】中央和省级试图通过发放“专项债券”促进县政府经营县城，县政府干部则指望通过经营县城应对债务风险，于是形成“欠债—经营—还债”的经营逻辑。](https://dig.chouti.com/link/41665192)|
+|2024-02-28 14:36:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[遭遇“网暴”的女主播们选择维权](https://dig.chouti.com/link/41665359)|
+|2024-02-28 04:01:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【加沙人如何度过一天】BBC记者用一天时间，通过WhatsApp联络在加沙各地的人们，记录他们的日常生活：他们在市场上搜寻食物果腹、为流离失所的人分发物资、在人满为患的医院里工作、努力养活吃不到母乳的婴儿。加沙的网络断断续续。有一段时间，记者的联系人音讯全无，WhatsApp信息一直处于未读状态，电话直接转到语音信箱](https://dig.chouti.com/link/41659177)|
+|2024-02-28 00:01:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[预防下一场大流行病：气候变化对呼吸道传染病的危险影响](https://dig.chouti.com/link/41656682)|
+|2024-02-28 08:33:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【8位数资产的中年人，在直播间等待冬天的结束】「肖总」是我认识的中年人里最有钱的，2017年趣头条上市，他是公司副总裁兼总编辑，身价数千万。后来他去了平安保险，依然是年薪几百万的高管，也依然是「肖总」。现在，他操盘短视频账号，做农产品的直播带货，战绩，还不值一提。「肖总」变回「老肖」，有一年多的时间了。](https://dig.chouti.com/link/41662100)|
+|2024-02-28 12:10:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台湾一大学生假扮和尚走私毒品，在日本机场被捕，全身绑着6公斤毒品](https://dig.chouti.com/link/41664320)|
+|2024-02-28 13:01:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比特币突破60000美元/枚，创2021年11月以来最高，日内涨超6%](https://dig.chouti.com/link/41664581)|
+|2024-02-28 13:08:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【农夫三拳可爱版】英甲斯蒂夫尼奇主教练史蒂夫·埃文斯在赢球后与球迷的互动，憨态可掬的样子还真招人喜欢](https://dig.chouti.com/link/41664835)|
+|2024-02-28 12:03:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[极速版APP，正在批量走向死亡](https://dig.chouti.com/link/41664260)|
+|2024-02-28 12:11:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国脱口秀演员Des Bishop吐槽：“每当有个白人讲了中文，中国人总会非常惊讶地说‘哇哦，你中文说的好好啊！’可是你们讲英文的时候，我们白人好像从来没这样过啊？ ” YouTube: Des Bishop ](https://dig.chouti.com/link/41664352)|
+|2024-02-28 12:02:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[吃绝户的男人找到了，声称“300多万都消费掉了”（前情：男子与上海智力残疾女子结婚卷走450万元）](https://dig.chouti.com/link/41664201)|
+|2024-02-28 12:11:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法媒：姆巴佩否认已签约皇马，卡塔尔埃米尔祝他好运】法媒RMC报道，姆巴佩赴爱丽舍宫参加国宴，多位现场人士称，姆巴佩并没有回避和皇马的转会传闻，他对提问者表示，自己和皇马没有敲定任何事情。卡塔尔埃米尔已经批准了他离开巴黎，而在宴会上的短暂交流中，埃米尔对姆巴佩表示祝他“好运”。](https://dig.chouti.com/link/41664344)|
+|2024-02-28 10:10:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马伯庸：正月剃头，舅舅去哪儿了？](https://dig.chouti.com/link/41663273)|
+|2024-02-28 10:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[功夫保安，一招KO](https://dig.chouti.com/link/41663382)|
+|2024-02-28 11:02:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【女子被好友改名“文件传瑜助手”骗5年：已报警和联系微信客服，尚未有处理结果】一女子因刚工作不熟悉微信功能，用文件传输助手时搜索出来两个。最近发现自己所用的“文件传输助手”变成“文件传瑜助手”还发了两条朋友圈才注意到有问题，于是报警，认为好友改名且不告知，是故意偷窥自己生活。但警方也没有处理办法。](https://dig.chouti.com/link/41663692)|
+|2024-02-28 11:13:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[啊？？？？？？？？？？？？？？？？？](https://dig.chouti.com/link/41663916)|
+|2024-02-28 07:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[小昭唱的那首曲是谁写的？](https://dig.chouti.com/link/41661369)|
+|2024-02-28 09:02:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上映60年后，英国把《欢乐满人间》从通用级改为家长指引级，出问题的是“霍屯督人”（Hottentot）一词](https://dig.chouti.com/link/41662338)|
+|2024-02-28 10:11:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[阿根廷红绿灯上的摩托车头盔识别系统，不戴头盔就不给绿灯](https://dig.chouti.com/link/41663346)|
+|2024-02-28 10:36:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第二艘国产大型邮轮计划2026年交付](https://dig.chouti.com/link/41663479)|
+|2024-02-28 09:13:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[近日，美国国务院例行记者会，国务院发言人：“美国不会命令以色列必须做什么，就像我们不会命令任何国家必须做什么一样。”现场记者立刻“神补刀”：“除非美国入侵这些国家。” 发言人随即忍不住笑场。。。](https://dig.chouti.com/link/41662734)|
+|2024-02-28 03:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一场盛大的福建游神是如何组织起来的？](https://dig.chouti.com/link/41658380)|
+|2024-02-28 02:08:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在这部德国儿童歌剧中，白马王子爱上了另一个男人……而且，一个是亚裔一个非裔？](https://dig.chouti.com/link/41658006)|
+|2024-02-28 07:03:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[敢在过去一年买房的人，抄的是底么？](https://dig.chouti.com/link/41661201)|
+|2024-02-28 07:02:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【原苏联部长会议主席尼古拉·雷日科夫去世，终年94岁，曾撰写《大国悲剧》】雷日科夫1929年9月出生于顿涅茨克地区，1959年毕业于乌拉尔工学院。1975—1979年任苏联重型工业和交通机械工业部第一副部长，1979—1982年任苏联国家计委第一副主席，1985—1990年任苏联部长会议主席。](https://dig.chouti.com/link/41660960)|
+|2024-02-28 12:05:05|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[在 GitHub Action 上构建 HarmonyOS 应用](http://www.phodal.com/blog/github-action-for-harmonyos/)|
+|2024-02-28 09:51:05|[爱范儿](https://www.ifanr.com/feed)|[首批现场体验 AI Pin 的人：为什么我不换台手机呢？](https://www.ifanr.com/1576401?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-28 09:48:44|[爱范儿](https://www.ifanr.com/feed)|[除了更 AI，5G 手机还能给人什么惊喜？](https://www.ifanr.com/1576439?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-28 06:41:13|[爱范儿](https://www.ifanr.com/feed)|[吉利银河一周年，这是中国新能源转型的速度缩影](https://www.ifanr.com/1576364?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-28 06:31:22|[爱范儿](https://www.ifanr.com/feed)|[全新极氪 001 上市！充电速度全球第一，但价格才是最大惊喜](https://www.ifanr.com/1576328?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-28 01:24:20|[爱范儿](https://www.ifanr.com/feed)|[早报｜曝苹果取消电动汽车项目/天涯社区被申请破产/董宇辉回应清空微博](https://www.ifanr.com/1576343?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-02-28 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[iPhone这个实用的功能，以后要没了](https://36kr.com/p/2666845902163459)|
+|2024-02-28 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[外媒抢先实测Sora，视频大翻车惨不忍睹？不懂物理/动物变形/速度巨慢，但初创公司已经创死一片](https://36kr.com/p/2667615068890888)|
+|2024-02-28 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[传苹果放弃造车项目“泰坦计划”，转向研究生成式AI丨最前线](https://36kr.com/p/2667434668958467)|
+|2024-02-28 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果十年造车梦碎，2000人大裁员或转岗AI，烧光近百亿美元引马斯克狂喜](https://36kr.com/p/2667778014783234)|
+|2024-02-28 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微信视频号，这次可能真的做对了](https://36kr.com/p/2667412874208007)|
+|2024-02-28 16:06:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[拿下日韩泰越四国第一，这家智能宠物用品公司去年增长150%｜Insight全球](https://36kr.com/p/2666367596864261)|
+|2024-02-28 15:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[遊戲開發者反應：Apple Arcade 越來越難賺錢，讓人擔心](https://www.iphonetaiwan.org/2024/02/apple-arcade-developers-insights.html)|
+|2024-02-28 14:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Netflix 公告！蘋果支付停用，用戶需轉換新付款方式](https://www.iphonetaiwan.org/2024/02/netflix-apple-pay-update.html)|
 |2024-02-28 17:39:00|[ipfans's Blog](https://www.4async.com/atom.xml)|[使用 Ollama 快速部署本地开源大语言模型](https://www.4async.com/2024/02/deploy-local-llm-using-ollama/)|
 |2024-02-28 04:00:32|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)|
 |2024-02-28 08:55:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AirPods 主導中國真無線耳機市場：山寨蠶食蘋果市佔](https://www.iphonetaiwan.org/2024/02/china-earphone-market-airpods-trend.html)|
