@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-29 03:34:10|[煎蛋](http://jandan.net/feed)|[因闰年软件故障，新西兰多个加油站瘫痪](http://jandan.net/p/115763)|
+|2024-02-29 02:13:05|[煎蛋](http://jandan.net/feed)|[发霉啦：今天，我起床后非常兴奋](http://jandan.net/p/115759)|
+|2024-02-29 04:01:47|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421)|
+|2024-02-29 01:09:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国伊利诺伊州裁决：特朗普在该州不具备今年总统选举党内初选资格】此前，特朗普被指控参与国会山骚乱事件。该裁决援引美国宪法第十四修正案第三款，该条款被称为“叛乱者禁令”，禁止那些宣誓支持美国宪法后又参与叛乱的人担任公职。此裁决目前暂缓生效，以等待特朗普上诉。](https://dig.chouti.com/link/41668444)|
 |2024-02-29 00:52:34|[虎嗅](https://rss.huxiu.com/)|[在10号大街，与宗庆后告别](https://www.huxiu.com/article/2728017.html?f=rss)|
 |2024-02-29 00:19:26|[虎嗅](https://rss.huxiu.com/)|[人工智能狂热和日本股市新高，谁比谁更安全？](https://www.huxiu.com/article/2727530.html?f=rss)|
 |2024-02-29 00:16:54|[虎嗅](https://rss.huxiu.com/)|[再造一个“湾区”奇迹，这次轮到烟台了？](https://www.huxiu.com/article/2727994.html?f=rss)|
