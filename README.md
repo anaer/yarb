@@ -1,7 +1,12 @@
-﻿# 每日资讯（2024-02-28）
+﻿# 每日资讯（2024-02-29）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-02-29 00:52:34|[虎嗅](https://rss.huxiu.com/)|[在10号大街，与宗庆后告别](https://www.huxiu.com/article/2728017.html?f=rss)|
+|2024-02-29 00:19:26|[虎嗅](https://rss.huxiu.com/)|[人工智能狂热和日本股市新高，谁比谁更安全？](https://www.huxiu.com/article/2727530.html?f=rss)|
+|2024-02-29 00:16:54|[虎嗅](https://rss.huxiu.com/)|[再造一个“湾区”奇迹，这次轮到烟台了？](https://www.huxiu.com/article/2727994.html?f=rss)|
+|2024-02-29 00:06:15|[虎嗅](https://rss.huxiu.com/)|[苹果放弃造车转向AI，晚了吗？](https://www.huxiu.com/article/2728176.html?f=rss)|
+|2024-02-29 00:05:57|[虎嗅](https://rss.huxiu.com/)|[夸父炸串渡劫记](https://www.huxiu.com/article/2727524.html?f=rss)|
 |2024-02-28 14:35:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[每年耗费数百万套，住酒店拒绝一次性用品有多难？](https://dig.chouti.com/link/41665358)|
 |2024-02-28 07:40:34|[向阳而生](https://blog.7wate.com/rss.xml)|[回顾 2023](https://blog.7wate.com/archives/hui-gu-2023)|
 |2024-02-28 15:43:04|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨苹果不造车，是对汽车市场的调研有了结果；救市资金如何退出](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513061&idx=2&sn=fa07c6c3dad8d068e481ccbb55ad835e)|
