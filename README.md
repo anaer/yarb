@@ -2,6 +2,28 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-02 18:19:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[微言小义 2024.02 ](https://www.changhai.org/articles/miscellaneous/blog/202402.php)|
+|2024-03-02 16:19:19|[机核](https://www.gcores.com/rss)|[原创漫画丨《不会魔法的阿莱缇娅》6-10](https://www.gcores.com/articles/178383)|
+|2024-03-02 15:00:00|[机核](https://www.gcores.com/rss)|[暗黑4为啥无聊，我们今天好像聊明白了一点 GadioNews03.02](https://www.gcores.com/radios/177984)|
+|2024-03-02 14:57:52|[机核](https://www.gcores.com/rss)|[用耳朵听电影！——一百张影视作品OST计划](https://www.gcores.com/articles/178375)|
+|2024-03-02 14:57:46|[机核](https://www.gcores.com/rss)|[《周处除三害》：三毒、命运与自行车](https://www.gcores.com/articles/178378)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第二十章 琼恩](https://www.gcores.com/radios/178334)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十九章 凯特琳](https://www.gcores.com/radios/178333)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十八章 布兰](https://www.gcores.com/radios/178327)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十七章 艾德](https://www.gcores.com/radios/178326)|
+|2024-03-02 14:00:00|[机核](https://www.gcores.com/rss)|[《冰与火之歌·卷一·权力的游戏 上册》：第十六章 珊莎](https://www.gcores.com/radios/178325)|
+|2024-03-02 13:00:00|[机核](https://www.gcores.com/rss)|[【抽奖】徜徉于氛围恐惧之中：《噩梦初醒》展示新游戏玩法](https://www.gcores.com/articles/178365)|
+|2024-03-02 11:00:00|[机核](https://www.gcores.com/rss)|[CCBC 13 赛后总结（上）](https://www.gcores.com/articles/178360)|
+|2024-03-02 11:00:00|[机核](https://www.gcores.com/rss)|[事了拂衣去——围绕短篇小说《边邑》杂谈侠文化、边塞文化与妖文化（下）](https://www.gcores.com/articles/178037)|
+|2024-03-02 10:43:27|[机核](https://www.gcores.com/rss)|[Godot入门到弃坑：脚踏实地，腾空而起](https://www.gcores.com/articles/178363)|
+|2024-03-02 10:21:46|[机核](https://www.gcores.com/rss)|[绘画记录丨声效模因防御科-RIDER STRICK！READY！！！](https://www.gcores.com/videos/178366)|
+|2024-03-02 10:18:07|[机核](https://www.gcores.com/rss)|[《最后生还者Part2》游戏摄影集](https://www.gcores.com/articles/178364)|
+|2024-03-02 10:01:45|[机核](https://www.gcores.com/rss)|[聊聊《绝地潜兵2》的体验：友军"PVP"的欢笑](https://www.gcores.com/articles/178369)|
+|2024-03-02 09:24:46|[机核](https://www.gcores.com/rss)|[《恶意不息》公布最新实机演示，将于4月18日以抢先体验形式发售](https://www.gcores.com/articles/178367)|
+|2024-03-02 09:13:00|[机核](https://www.gcores.com/rss)|[【抽奖】二战回合制战略《绝密：法国‘44年》现已开启预购，将于3月6日发售](https://www.gcores.com/articles/178342)|
+|2024-03-02 06:44:46|[机核](https://www.gcores.com/rss)|[译介丨Arslan Ash的生活与时代](https://www.gcores.com/videos/178359)|
+|2024-03-02 05:14:00|[机核](https://www.gcores.com/rss)|[CDPR没能实现的赛博朋克世界——《ChromeBook1》芯片篇](https://www.gcores.com/articles/178357)|
+|2024-03-02 07:40:00|[爱范儿](https://www.ifanr.com/feed)|[长安猎手皮卡上市，想做「增程+皮卡」的新物种](https://www.ifanr.com/1576842?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-02 13:14:31|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[再多来点 TCP 吧：Delay ACK 和 Nagle 算法](https://www.kawabangga.com/posts/5845)|
 |2024-03-02 12:30:00|[カレーうどん屋](https://blog.laoliu.eu.org/atom.xml)|[23 年对我影响最大的硬件与软件](https://blog.udon.eu.org/archives/a7050149.html)|
 |2024-03-02 15:37:34|[夜庭記](https://musenxi.com/feed)|[菲林日记贰](https://musenxi.com/archives/1269.html)|
