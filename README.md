@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-03-01）
+﻿# 每日资讯（2024-03-02）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-02 00:44:00|[虎嗅](https://rss.huxiu.com/)|[中国企业家的AI焦虑：我的企业会被颠覆吗](https://www.huxiu.com/article/2737084.html?f=rss)|
+|2024-03-02 00:43:00|[虎嗅](https://rss.huxiu.com/)|[孩子抑郁，是家病了](https://www.huxiu.com/article/2737082.html?f=rss)|
+|2024-03-02 00:22:21|[虎嗅](https://rss.huxiu.com/)|[救救方言，救救城市的灵魂](https://www.huxiu.com/article/2737237.html?f=rss)|
 |2024-03-01 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[今天，她正式执掌港交所](https://36kr.com/p/2670393476986374)|
 |2024-03-01 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9年倒闭7万家，年轻人抛弃KTV](https://36kr.com/p/2669709939832581)|
 |2024-03-01 16:06:32|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI版西游记震撼百万网友，AI电影平台炸裂发布颠覆好莱坞，手把手打造爆款视频](https://36kr.com/p/2670556887136005)|
