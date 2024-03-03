@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-03 14:14:39|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Java 线程池系列-第四篇](https://nicksxs.me/2024/03/03/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E5%9B%9B%E7%AF%87/)|
+|2024-03-03 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 179 期（2024.03.04）](https://www.ftium4.com/ux-weekly-179.html)|
+|2024-03-03 15:32:14|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[如何向别人证明自己不是精神病](https://www.edony.ink/how-to-prove-myself/)|
 |2024-03-03 05:01:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称英伟达要再进军游戏掌机市场：打造专属图形IP，不排除和英特尔合作](https://dig.chouti.com/link/41699836)|
 |2024-03-03 05:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[印媒曝印度曾拦截从中国赴巴基斯坦船只，借口是载有敏感货物，印网友质疑](https://dig.chouti.com/link/41699931)|
 |2024-03-03 05:03:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[顺网线爬进小红书，老外吃尽了苦头](https://dig.chouti.com/link/41699971)|
