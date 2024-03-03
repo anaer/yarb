@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-03 13:11:08|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Nuxt3 无法初始化项目解决](https://scottyeung.top/2024/nuxt-cannot-init/)|
+|2024-03-03 08:52:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Pikabu - 台灣 iPhone 手機交友、聊天、配對約會平台](https://www.iphonetaiwan.org/2024/03/pikabu-iphone.html)|
+|2024-03-03 08:29:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳 microLED Apple Watch 計畫取消？背後原因及未來展望](https://www.iphonetaiwan.org/2024/03/apple-watch-microled-challenge.html)|
 |2024-03-03 14:14:39|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[Java 线程池系列-第四篇](https://nicksxs.me/2024/03/03/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E5%9B%9B%E7%AF%87/)|
 |2024-03-03 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 179 期（2024.03.04）](https://www.ftium4.com/ux-weekly-179.html)|
 |2024-03-03 15:32:14|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[如何向别人证明自己不是精神病](https://www.edony.ink/how-to-prove-myself/)|
