@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-02）
+﻿# 每日资讯（2024-03-03）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-03 00:10:00|[虎嗅](https://rss.huxiu.com/)|[最近很火的赵元任，他心力自由](https://www.huxiu.com/article/2740305.html?f=rss)|
 |2024-03-02 18:19:00|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[微言小义 2024.02 ](https://www.changhai.org/articles/miscellaneous/blog/202402.php)|
 |2024-03-02 16:19:19|[机核](https://www.gcores.com/rss)|[原创漫画丨《不会魔法的阿莱缇娅》6-10](https://www.gcores.com/articles/178383)|
 |2024-03-02 15:00:00|[机核](https://www.gcores.com/rss)|[暗黑4为啥无聊，我们今天好像聊明白了一点 GadioNews03.02](https://www.gcores.com/radios/177984)|
