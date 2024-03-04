@@ -2,6 +2,74 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-04 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全国人大代表李东生建议取消基层医疗门诊报销起付线，如何看待此建议？将会带来哪些积极意义？](https://www.zhihu.com/question/646946565)|
+|2024-03-04 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[数码宝贝（第一季）里的太一为什么能当领头大哥？](https://www.zhihu.com/question/35190585)|
+|2024-03-04 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么健身健美运动员备赛脱脂时不跑步？](https://www.zhihu.com/question/643497550)|
+|2024-03-04 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些实用的礼物适合三八妇女节送给妈妈和女朋友？](https://www.zhihu.com/question/375938423)|
+|2024-03-04 16:04:53|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[妇女节送什么礼物对方会比较开心？](https://www.zhihu.com/question/520020593)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英国货轮在红海沉没，环境污染问题引发当地担忧，货轮沉没造成的污染将对周边海域和渔民生活带来多大影响？](https://www.zhihu.com/question/646950138)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《英雄联盟》官方回应主播霸哥疑似使用脚本「后台检测未发现异常」，如何看待这一结果？](https://www.zhihu.com/question/646682422)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[委员提案「审慎推行预制菜」，建议尽快出台预制菜的全国统一标准，如何看待此建议？](https://www.zhihu.com/question/646959375)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[23-24 赛季英超曼城 3:1 曼联，如何评价这场比赛？](https://www.zhihu.com/question/646914904)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[就医不用带片子，全国人大代表呼吁检查结果共享互认，建议加快推进医学影像「云胶片」应用，如何看待该建议？](https://www.zhihu.com/question/646959903)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[铁路霸座、闹事频发，代表建议将其纳入社会诚信体系，如何看待这一建议？](https://www.zhihu.com/question/647002669)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全国人大代表李东生建议正当防卫考虑合理情绪，如何看待这一建议？为何会出现「正当防卫难」问题？](https://www.zhihu.com/question/647006994)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[代表建议「建立大学生网络游戏防沉迷机制」，如何看待这一建议？从现行法律角度分析该建议是否合理？](https://www.zhihu.com/question/646968003)|
+|2024-03-04 16:04:52|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为推进应用型本科高级技术人才培养，庹庆明代表建议增加「双一流」大学招收对口高职生，如何看待该建议？](https://www.zhihu.com/question/646962837)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人大代表建议允许夜间低速无人驾驶，如何看待此提案？你期待开放低速无人驾驶吗？](https://www.zhihu.com/question/646969882)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[OpenAI 视频模型 Sora 的推理生成成本多高？](https://www.zhihu.com/question/644488552)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[原国家房改课题组组长孟晓苏表示「央企国企应退出竞争性商品房市场，回归保障房战场」，哪些信息值得关注？](https://www.zhihu.com/question/646964938)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国哪些城市依然有保存完好的城墙？](https://www.zhihu.com/question/31389132)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[自行车爱好者们都是利用哪些时间去骑车的？](https://www.zhihu.com/question/642892670)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[电信诈骗分子通过 AI 换脸进行诈骗，专家提醒「可以让对方摁鼻子观察辨别」，该注意哪些网络安全事项？](https://www.zhihu.com/question/646943656)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[独自跑步的时候你都会想些什么？](https://www.zhihu.com/question/640076452)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[全国政协委员建议上调全国范围农民养老金，每人每月至少上调 100 元，如何看待此提案？](https://www.zhihu.com/question/646950396)|
+|2024-03-04 16:04:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[油脸皮肤毛孔粗大怎么办?](https://www.zhihu.com/question/644354373)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么《周处除三害》中灵修院的女主唱能够坦然赴死？](https://www.zhihu.com/question/646870849)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[抗糖化等于抗衰老真的是智商税吗？](https://www.zhihu.com/question/641925973)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待金铉卓教授在美国物理学会上发表的室温超导体 PCPOSOS（疑似）的数据？](https://www.zhihu.com/question/646987953)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有好用的粉底液帮忙推荐一下?](https://www.zhihu.com/question/644353559)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[请问浙江各地有什么旅游值得去地方吗？](https://www.zhihu.com/question/643547528)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你喜欢孤独感吗？为什么会存在孤独感？](https://www.zhihu.com/question/646683502)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你上次和妈妈出去旅行是什么时候，留下了哪些记忆？](https://www.zhihu.com/question/645951910)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[经历过 NPD，你从中得到了哪些教训？](https://www.zhihu.com/question/646383411)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[坚持骑行的你，发生了哪些变化？](https://www.zhihu.com/question/646108293)|
+|2024-03-04 16:04:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[华硕新品灵耀 14 双屏开售，作为华硕全新形态 14 英寸双屏轻薄本其实际表现如何，有哪些优缺点？](https://www.zhihu.com/question/646963940)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[孩子放学后，会主动跟你分享学校的趣事吗？](https://www.zhihu.com/question/645181703)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[董明珠建议严厉打击「造黄谣」等网暴行为，称「更重要的是立法保障」，为何网络暴力、网络诽谤屡禁不止？](https://www.zhihu.com/question/647006565)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[快递新规后有快递员吐槽「以前半小时送完，现在要花十二小时」，有市民吐槽还是老样子，哪些信息值得关注？](https://www.zhihu.com/question/647003355)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待西班牙女演员在印度旅游时遭 7 人施暴？在国外旅游需要注意哪些安全问题？](https://www.zhihu.com/question/646906802)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[钟睒睒发文否认「因冲货被娃哈哈开除」，如何看待此事？你对两代「水王」的故事有哪些了解？](https://www.zhihu.com/question/646969028)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你如何评价原神新活动奇境谜丘探幽行？](https://www.zhihu.com/question/646405235)|
+|2024-03-04 16:04:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[火腿疑似吃出老鼠尾巴，山东龙大美食回应「经鉴定不属于动物尾巴」，哪些信息值得关注？如何保障食品安全？](https://www.zhihu.com/question/646943138)|
+|2024-03-04 16:23:00|[Lucien's Blog](https://blog.lucien.ink/feed/)|[WireGuard 配置备忘](https://blog.lucien.ink/archives/545/)|
+|2024-03-04 14:32:35|[YeungYeah 的乱写地](http://scottyeung.top/atom.xml)|[Hugo 英语内容出现在中文页面](https://scottyeung.top/2024/hugo-en-content-exist-in-zh/)|
+|2024-03-04 14:28:38|[靜風說](http://www.jingfengshuo.com/feed)|[闲鱼帮卖买手机被坑的经历](https://www.jingfengshuo.com/archives/2742.html)|
+|2024-03-04 14:01:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[苹果收到欧盟18.4亿欧元罚单：阻止Spotify提供第三方支付选项](https://dig.chouti.com/link/41713500)|
+|2024-03-04 14:03:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[苹果正式发布配备M3芯片的Macbook Air，3月8日正式发售](https://dig.chouti.com/link/41713772)|
+|2024-03-04 06:40:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[钻进蜂巢后，他看到入侵者被活活“煮熟”](https://dig.chouti.com/link/41709519)|
+|2024-03-04 15:17:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一些经典的“时机+视角”摄影作品（摄影师： Leonardo Sens、Mo Aoun、Chingelmarie、DCLanger、rusticbones、Masteezus、Valerio Minato、Stefano Zanarello、Elliot McGucken、Wilma Hurskainen、Jill Maguire、Luke MacGregor、David Burdeny、Pete Souza、Anthimos Ntagkas、Miss Jaded、IRapandStuff、Fernando Braga ](https://dig.chouti.com/link/41714303)|
+|2024-03-04 13:02:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[为什么LV敢一年涨价三次？](https://dig.chouti.com/link/41713288)|
+|2024-03-04 12:01:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【凯莉·米洛在英颁奖礼被要求“用鞋喝酒”】全英音乐奖颁奖典礼上，坐在凯莉·米洛身旁的坎普问她，“澳大利亚有项传统叫‘shoey’，可以跟我一起做一次吗？”“shoey”即用鞋喝酒。凯莉看上去并不情愿，但还是按照坎普的要求做了。坎普随后便往米洛脱下来的高跟鞋里倒酒，并与凯莉“干杯”。](https://dig.chouti.com/link/41712613)|
+|2024-03-04 02:02:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国得州史上最大野火：一度逼停核武工厂运营](https://dig.chouti.com/link/41706717)|
+|2024-03-04 07:33:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克与奥特曼、OpenAI的「爱恨纠缠史」](https://dig.chouti.com/link/41710181)|
+|2024-03-04 08:10:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【边线拉锯战】给大伙看看今早博塔弗戈队员是怎么拖延比赛时间的～](https://dig.chouti.com/link/41710683)|
+|2024-03-04 08:33:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[保卫2500点：韩国股市十年不涨之谜](https://dig.chouti.com/link/41710816)|
+|2024-03-04 02:01:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[第一批用上“减肥神药”的人，现在都怎么样了？](https://dig.chouti.com/link/41706446)|
+|2024-03-04 08:51:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[搭子式婚姻：结婚两年，和老公不熟](https://dig.chouti.com/link/41710824)|
+|2024-03-04 04:02:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI高管称马斯克起诉是后悔退出，奥特曼：怀念以前的他](https://dig.chouti.com/link/41708010)|
+|2024-03-04 04:03:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Sam Altman被曝身价超过140亿，但并未在OpenAI持股](https://dig.chouti.com/link/41708128)|
+|2024-03-04 11:10:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[执法记录仪画面：事件发生在2023年12月23日，警方接报称纽约布朗克斯区一公寓内，一名男子出现暴力行为。警方赶到现场后一名脸上有割伤的女子从公寓内跑出来。警方随即进入公寓内，发现一名男子紧紧箍住其母亲的脖子，向警察大喊“朝我开枪啊”。随后现场警员开枪击中男子头部，该男子被送往医院最终不治身亡。](https://dig.chouti.com/link/41712401)|
+|2024-03-04 04:36:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中国在悄悄的实施QE？](https://dig.chouti.com/link/41708367)|
+|2024-03-04 05:10:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[离大谱！智利联赛这记乌龙，有望竞争年度最奇葩乌龙……](https://dig.chouti.com/link/41708702)|
+|2024-03-04 08:01:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国科研井首次突破一万米】3月4日14点48分，新疆塔克拉玛干沙漠腹地，中国石油塔里木油田深地塔科1井，经过279天努力，钻探深度终于突破一万米，目前正在继续向目标深度11100米挺进。这也是迄今为止，我国第一口垂直深度超过一万米的井。不仅再次刷新了亚洲最深井纪录，也创造了当今世界上钻探一万米深井用时最短纪录。](https://dig.chouti.com/link/41710368)|
+|2024-03-04 08:10:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[《沙丘2》影迷前往电影院be like：](https://dig.chouti.com/link/41710669)|
+|2024-03-04 10:02:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【暴利多销？TikTok在美国复刻抖音的路】TikTok美区平台模式商品建议毛利润为85%，从而让商家有费用空间做内容营销。](https://dig.chouti.com/link/41711771)|
+|2024-03-04 11:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【顶级Beta，做不了男主？】Beta原本是ABO世界中普通的背景板，但在观众眼中，他们正在从npc变成理想人夫，逐渐显眼。可能是观众实在看腻了霸总娇妻，已经生出反叛意识。而Beta作为第三性无疑是对传统性缘关系的最大反叛。然而，Beta型演员虽然路人缘不错，却几乎还没有当过影视剧主角。好命的Beta，上桌之后，如何上位？](https://dig.chouti.com/link/41712195)|
+|2024-03-04 11:01:46|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国际足联：支持脑震荡换人正式纳入比赛规则，2024年7月1日生效](https://dig.chouti.com/link/41712153)|
+|2024-03-04 15:16:01|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中国市场帮助日本相机复苏；欧盟首次对苹果开出 18 亿欧元反垄断罚单](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513226&idx=2&sn=537a0fd599d53bee0379a77939483fab)|
+|2024-03-04 15:16:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[蜜雪冰城的咖啡品牌没做起来，因为“下沉市场”消失了](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513226&idx=1&sn=ef6a058b24584081889c0ada1de1134c)|
+|2024-03-04 14:06:19|[鸟窝](https://colobu.com/atom.xml)|[一道面试题: Top K 问题](https://colobu.com/2024/03/04/top-k-problem/)|
 |2024-03-04 16:06:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[俞永福让位80后少壮派](https://36kr.com/p/2674501969688322)|
 |2024-03-04 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[优衣库联名 Hello Kitty ，还没发售就被骂上热搜？](https://36kr.com/p/2674382289204743)|
 |2024-03-04 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[新晋顶流战袍，被小红书女孩疯抢](https://36kr.com/p/2674730262132482)|
