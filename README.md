@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-04 02:38:28|[Tinyfool的个人网站](https://codechina.org/feed/)|[对贾玲热辣滚烫的质疑和我们源远流长的阿Q精神历史](https://codechina.org/2024/03/jialing-jianfei/)|
+|2024-03-04 04:01:54|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780)|
+|2024-03-04 04:01:54|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[我的 2023 年度效率工具](https://sspai.com/post/85490)|
+|2024-03-04 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/9](https://weekly.pychina.org/pyrecap/pyrw-2409.html)|
 |2024-03-04 00:59:33|[虎嗅](https://rss.huxiu.com/)|[马斯克早看微软不顺眼了，这次起诉OpenAI也是一样](https://www.huxiu.com/article/2743920.html?f=rss)|
 |2024-03-04 00:54:47|[虎嗅](https://rss.huxiu.com/)|[为何有些人方向感很好？](https://www.huxiu.com/article/2715328.html?f=rss)|
 |2024-03-04 00:51:00|[虎嗅](https://rss.huxiu.com/)|[“撤辣”后的香港楼市，有多火爆？](https://www.huxiu.com/article/2743912.html?f=rss)|
