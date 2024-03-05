@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-05 15:23:20|[爱范儿](https://www.ifanr.com/feed)|[蔚来新车即将发布，20 万元级，成本比 Model Y 低 10%！](https://www.ifanr.com/1577183?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-05 11:20:19|[空城记](https://shinekid.com/feed/)|[My Pride and Greatness](https://shinekid.com/2024/03/my-pride-and-greatness-ver-eng/)|
+|2024-03-05 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[贾跃亭造车记：坏了，真让他造成了？](https://36kr.com/p/2676097559852801)|
+|2024-03-05 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[突发：海底捞开放加盟，“猎杀时刻”来临？](https://36kr.com/p/2675821275936520)|
+|2024-03-05 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[高合被贾跃亭起诉，员工本周统一离职](https://36kr.com/p/2676042869651209)|
+|2024-03-05 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国最低调手机老板，闷声卖了600亿](https://36kr.com/p/2676144144594696)|
 |2024-03-05 08:14:35|[WeepingDogel](https://weepingdogel.github.io/index.xml)|[A Simple Client Server Project Made by Python and Vue3](http://weepingdogel.github.io/posts/a-simple-client-server-project-made-by-python-and-vue3/)|
 |2024-03-05 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《灌篮高手》如若各队拿掉各位王牌，哪队的综合实力最强?](https://www.zhihu.com/question/644483736)|
 |2024-03-05 16:03:49|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[农业农村部部长唐仁健表示我国人均粮食占有量达到 493 公斤，如何解读这一数据？](https://www.zhihu.com/question/647128139)|
