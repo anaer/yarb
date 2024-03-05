@@ -2,6 +2,42 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-05 10:10:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[习近平开启高风险经济转向，中国在钢丝上行走](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%87%8F%E9%80%9F%E4%BD%86%E4%B8%8D%E8%83%BD%E5%81%9C%E6%BB%9E-%E7%8A%B9%E5%A6%82%E5%9C%A8%E9%92%A2%E4%B8%9D%E4%B8%8A%E6%B8%B8%E8%B5%B0-77a5f08f)|
+|2024-03-05 09:02:56|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[海南人民的县城 Brunch，熠熠生辉 。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450188&idx=1&sn=b6e6194c9dcfc7be01dff720034a2aa8)|
+|2024-03-05 11:33:58|[晴雀堂](https://hehysh.github.io/atom.xml)|[casio计算器完全使用指南](https://blog.nbplus.eu.org/posts/50032.html)|
+|2024-03-05 04:33:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[GPT-4时代已过？Claude 3 是否真的像官方所宣称的那样，性能全面超越了 GPT-4？目前大多数人认为，确实有那么点意思。以下是部分实测效果：](https://dig.chouti.com/link/41719031)|
+|2024-03-05 03:11:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[老照片：1942年北非战役期间，德国士兵坐在M24手柄手榴弹上，因为沙地太热没法坐](https://dig.chouti.com/link/41718136)|
+|2024-03-05 07:11:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[贝玲妃被曝将退出中国市场 店员：大概3月底撤，根本原因就是卖不动](https://dig.chouti.com/link/41720567)|
+|2024-03-05 01:32:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【25位模型开发者，联手反击李一舟】LiblibAI联合创始人、运营负责人梅子表示，“李一舟甚至不是搬运最多的一次，但是影响最大的一次。他的搬运让人不适的点在于，一是没有得到作者授权，二是通过模型谋利。”作为平台方，LiblibAI的两个主张为：一，李一舟对模型作者构成著作权侵犯；二，对LiblibAI构成不正当商业竞争。](https://dig.chouti.com/link/41716908)|
+|2024-03-05 08:03:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[多名主播为"大哥"当资金掮客，网络直播收5千万“打赏”，因涉嫌洗钱罪被提起公诉](https://dig.chouti.com/link/41721163)|
+|2024-03-05 04:01:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[法防长证实“荣军院内建沙特奥运村”，法国保守派和左翼派别强烈抗议](https://dig.chouti.com/link/41718384)|
+|2024-03-05 08:12:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[现场视频：3月5日，菲律宾擅闯中国南沙群岛仁爱礁邻近海域。影像证据显示，菲方船只危险接近中国海警21551艇，中方对其进行警示性水炮喷射。](https://dig.chouti.com/link/41721231)|
+|2024-03-05 04:02:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[基辅市长批评泽连斯基：解除扎卢日内职务是一个“大错误”](https://dig.chouti.com/link/41718668)|
+|2024-03-05 04:14:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[米老鼠般的口音~ 日前，荷兰田径运动员波尔打破室内田径世锦赛女子400米世界纪录。赛后接受采访的视频在网上疯传，一位网友评论：“假如你闭上眼睛，可能会认为世界纪录是被米老鼠打破的。”](https://dig.chouti.com/link/41718924)|
+|2024-03-05 02:28:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[最近在伊朗东南部，科学家发现一管4000年前的口红，经鉴定成分居然跟现在的差不多](https://dig.chouti.com/link/41717555)|
+|2024-03-05 01:01:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在闲鱼接单的00后大学生们](https://dig.chouti.com/link/41716617)|
+|2024-03-05 07:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[自今年1月接受腹部手术后，凯特王妃首次露面](https://dig.chouti.com/link/41720191)|
+|2024-03-05 06:52:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【法国议会通过宪法修正案保障妇女堕胎权，影响几何？】当地时间3月4日，法国议会两院在凡尔赛宫特别会议厅召开联席会议，以780票赞成、72票反对的表决结果，通过了将堕胎权纳入宪法的宪法修正案，成为世界上第一个在宪法中明确保障妇女堕胎权的国家。](https://dig.chouti.com/link/41720168)|
+|2024-03-05 04:14:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[永远无法进入邪教的原因](https://dig.chouti.com/link/41718884)|
+|2024-03-05 06:29:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新荣记出海东京富人区，人均2千起，3月已经订不到了](https://dig.chouti.com/link/41720096)|
+|2024-03-05 01:09:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[新加坡退休年龄上调：2026年将提高至64岁，2030年提高至65岁](https://dig.chouti.com/link/41716771)|
+|2024-03-05 02:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【俄乌冲突进入第三年：战争已融进普通人的日常】战争进入第三个年头之际，一位乌克兰人、一位在乌克兰的中国留学生、一位在俄罗斯官方媒体工作的中国人，讲述了他们当下在俄乌两国的生活。一位在俄中国留学生在文章发布前请求我们删除所有讲述内容。](https://dig.chouti.com/link/41717144)|
+|2024-03-05 02:19:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美媒：特朗普集团前首席财务官魏塞尔伯格承认作伪证](https://dig.chouti.com/link/41717552)|
+|2024-03-05 02:21:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在单位上受了气，回去把老婆孩子骂一顿，金丝猴也有这种转嫁行为](https://dig.chouti.com/link/41717553)|
+|2024-03-05 03:02:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“LK-99后续”？韩团队又称新开发出另一种“室温超导体”——“PCPOSOS”](https://dig.chouti.com/link/41717905)|
+|2024-03-05 03:03:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[「魔法集市」破产：当二次元遭遇「史诗级暴雷」](https://dig.chouti.com/link/41718040)|
+|2024-03-05 03:24:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上班恶心穿搭，打败了精致白领？](https://dig.chouti.com/link/41718266)|
+|2024-03-05 03:32:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[福克斯CEO：2024年将上线的体育流媒体平台，预计五年后有500万订户](https://dig.chouti.com/link/41718291)|
+|2024-03-05 01:09:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巴黎奥运官方海报于巴黎当地时间3月4日在奥赛博物馆揭晓。海报由法国插画师Ugo Gattoni 制作。](https://dig.chouti.com/link/41716777)|
+|2024-03-05 02:41:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【浪姐这阵容，能不能行啊？】“《浪姐》又来了”这话，都说倦了。对不起还得再说一次，今年份的《乘风2024》，来了。年年都被唱衰，架不住节目生命力顽强，每逢开录开播，话题度、热度一样不少。](https://dig.chouti.com/link/41717636)|
+|2024-03-05 04:03:50|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[钟睒睒被逼急了](https://36kr.com/p/2675122265110019)|
+|2024-03-05 04:03:49|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[发达国家放弃全电动车，或想让中国新能源陷入日本氢能源败局](https://36kr.com/p/2675043620189703)|
+|2024-03-05 04:03:48|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[不当网红，思聪很忙](https://36kr.com/p/2674690584917767)|
+|2024-03-05 04:03:46|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[GPT-4 时代结束，全球最强大模型一夜易主，体验完 Claude 3 我更期待 GPT-5了](https://36kr.com/p/2675892220245760)|
+|2024-03-05 04:03:45|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜​多家车企接连宣布降价促销；新款iPad和Mac或本周发布；何小鹏建议允许夜间低速无人驾驶](https://36kr.com/p/2675919607887625)|
+|2024-03-05 04:03:40|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[EUV光刻机，大结局？](https://36kr.com/p/2674576823039493)|
+|2024-03-05 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球最强大模型一夜易主，GPT-4时代终结，Claude 3提前狙击GPT-5，3秒读懂万字论文理解力接近人类](https://36kr.com/p/2675503522641668)|
+|2024-03-05 08:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[ChatGPT 在 iPhone 上：能以五種不同語音大聲朗讀回應](https://www.iphonetaiwan.org/2024/03/apple-chatgpt-ipad-voice.html)|
 |2024-03-05 05:27:01|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[未來 M3 MacBook Pro 也會支援外接雙螢幕](https://applefans.today/2024-03-m3-macbook-pro-maybe-support-multi-display/)|
 |2024-03-05 02:39:47|[爱范儿](https://www.ifanr.com/feed)|[早报 GPT-4 被全面超越/苹果发布 M3 芯片 MacBook Air/微信可加入钉钉会议](https://www.ifanr.com/1577080?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-05 04:57:28|[Jack Pu's Blog 蒲小花...](https://www.jackpu.com/rss/)|[两人带娃日常-2](https://www.jackpu.com/liang-ren-dai-wa-ri-chang-2/)|
