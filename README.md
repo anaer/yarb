@@ -2,6 +2,21 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-06 13:06:52|[晚点LatePost](https://feedpress.me/wx-postlate)|[蔚来亏损 211 亿，希望用新品牌拯救现金流；用 OpenAI 的方式超过 OpenAI](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513284&idx=2&sn=ffac62653579736c6a8f81489d457aab)|
+|2024-03-06 13:06:51|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点独家丨两位物流供应链高管加盟 TikTok、Shein；小鹏汽车要求经销商储备库存](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513284&idx=1&sn=595d971f676fb11bd55ef143c9728104)|
+|2024-03-06 14:13:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[川粉必看！美国保守派网民给特朗普制作的竞选影片……](https://dig.chouti.com/link/41735107)|
+|2024-03-06 04:03:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[NASA时隔四年招募宇航员候选人，年薪约15.2万美元](https://dig.chouti.com/link/41729278)|
+|2024-03-06 04:11:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[伤口愈合的33天：一般会经历四个连续但重叠的阶段：止血期（Haemostasis），炎症期 Inflammatory phase ，增殖期 Proliferative phase 和成熟重塑期（Maturation-remodeling phase）。在这个过程中如果有外来因素影响，譬如伤口反复感染，提前撕拉结痂的痂皮等，就可能造成伤口愈合异常。](https://dig.chouti.com/link/41729392)|
+|2024-03-06 12:02:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息称荷兰政府制定一项名为“贝多芬行动”的计划，试图阻止阿斯麦向海外扩张](https://dig.chouti.com/link/41733897)|
+|2024-03-06 12:03:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[奥特曼三兄弟的投资帝国：我和我哥合砍1.00015万亿](https://dig.chouti.com/link/41733984)|
+|2024-03-06 12:10:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：黑客帝国英国翻拍，作者Nathan Lichter](https://dig.chouti.com/link/41734090)|
+|2024-03-06 11:11:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[3月5日，沙特阿拉伯人形机器人疑似“骚扰”女记者……该机器人系沙特制造的首个双语男性机器人，名为“穆罕默德”，当天首次在利雅得的一场活动中亮相时，突然伸手触摸前方女记者的臀部。该机器人的工程团队回应称它的行为系技术故障引发，工程团队向该名女记者公开道歉，并表示今后将纠正编程错误。](https://dig.chouti.com/link/41733616)|
+|2024-03-06 10:10:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[买了个专辑 感觉哪里不对](https://dig.chouti.com/link/41733059)|
+|2024-03-06 12:10:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[网友给《 沙丘2 》的巨型沙虫加上了眼睛，这下画风马上变萌了！ Cr- MMCCUEN](https://dig.chouti.com/link/41734074)|
+|2024-03-06 01:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《命悬一线，我不放手》——医生22年见闻】薄世宁是北医三院危重症医学科副主任医师，在他的描述里，ICU病房无论白天晚上总是灯火通明，各种仪器声音此起彼伏，和死神赛跑是这里的日常——在这个岗位干了20多年，他见证过两万多场生死救治。这些经历被他记录下来，整理成《命悬一线，我不放手》一书，2023年12月出版。](https://dig.chouti.com/link/41727304)|
+|2024-03-06 13:30:00|[机核](https://www.gcores.com/rss)|[【抽奖】两款以上立享六折：育碧666新品节现已隆重开幕](https://www.gcores.com/articles/178433)|
+|2024-03-06 13:00:00|[机核](https://www.gcores.com/rss)|[新中国科幻口述史 Vol.3丨80年代的科幻“四天王”与踌躇满志的作家们（1976-1983）](https://www.gcores.com/radios/170735)|
+|2024-03-06 12:30:00|[机核](https://www.gcores.com/rss)|[零创游戏官方账号正式入驻机核！](https://www.gcores.com/articles/178557)|
 |2024-03-06 12:28:23|[机核](https://www.gcores.com/rss)|[【抽奖】Digital Sun即时战略塔防游戏《灾厄堡垒》将于7月16日发售](https://www.gcores.com/articles/178559)|
 |2024-03-06 10:30:00|[机核](https://www.gcores.com/rss)|[程序员的刻板印象](https://www.gcores.com/videos/178524)|
 |2024-03-06 10:00:00|[机核](https://www.gcores.com/rss)|[《圣兽之王》试玩版前期高属性武器王剑科尔尼克斯入手教程](https://www.gcores.com/videos/178549)|
