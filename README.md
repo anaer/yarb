@@ -2,6 +2,27 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-07 10:56:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个男多女少的村决定给媒婆发奖金](https://dig.chouti.com/link/41743971)|
+|2024-03-07 13:58:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从60元降到2.5元？记者亲测：钟薛高电商平台低至5元一支](https://dig.chouti.com/link/41745427)|
+|2024-03-07 14:10:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【瓦利耶娃被俄罗斯国家队除名】当地时间3月7日，俄罗斯花样滑冰联合会主席亚历山大·科根表示，俄罗斯花样滑冰运动员卡米拉·瓦利耶娃已被俄罗斯国家队除名。2024年1月，国际体育仲裁法庭宣布，卡米拉·瓦利耶娃违反了反兴奋剂条例，从2021年12月25日起禁赛四年。](https://dig.chouti.com/link/41745687)|
+|2024-03-07 04:32:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Temu用现金“轰炸”每一个广告渠道：去年在Meta砸20亿美元，且跻身谷歌前五广告商](https://dig.chouti.com/link/41740291)|
+|2024-03-07 10:09:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[费城街头，一个女人往头皮上注射毒品，头皮已经因此坏死了](https://dig.chouti.com/link/41743857)|
+|2024-03-07 07:03:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Midjourney封禁Stability AI：恶意爬取数据，致服务器瘫痪24小时](https://dig.chouti.com/link/41741828)|
+|2024-03-07 11:01:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【印度人和尼泊尔人，被骗去俄罗斯当炮灰】据《卫报》报道，有数十名甚至数百名印度人，被骗去俄罗斯，本以为得到了“保安”或“军事帮手”一类的工作，结果被送上了俄乌战争的前线，其中一些人甚至以为自己要去迪拜工作。这个问题在尼泊尔更为突出。为此，尼泊尔政府最近出台禁令，禁止公民前往俄罗斯或乌克兰工作。](https://dig.chouti.com/link/41744120)|
+|2024-03-07 13:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[复旦大学：就餐高峰期（中午11:15-12:30）外，食堂对校外人员开放，加收50%搭伙费](https://dig.chouti.com/link/41745236)|
+|2024-03-07 13:12:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[1990年，19岁的薇诺娜·瑞德。](https://dig.chouti.com/link/41745339)|
+|2024-03-07 07:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【人均确诊的ADHD到底是种什么病？】ADHD诊断，就像是人性构成中的一道皱纹，而这个世界上，没有哪个人是完全光滑的。](https://dig.chouti.com/link/41742009)|
+|2024-03-07 08:11:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[水果姐Katy Perry亮相Billboard年度女性音乐盛典，小露沟沟~~](https://dig.chouti.com/link/41742573)|
+|2024-03-07 08:08:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[首富的困扰：钟睒睒是蛇吗？](https://dig.chouti.com/link/41742462)|
+|2024-03-07 10:09:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[——杨健：“有没有可能不盈利，但成绩还行。他不盈利，成绩大概率好不了。” ——姚明：“有啊，我告诉你，广州恒大。” ——杨健： 个_个 ](https://dig.chouti.com/link/41743777)|
+|2024-03-07 10:09:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台防务部门负责人邱国正7日说，只要解放军“实体航空器”逾越“界线”，台军就视为第一击，将予以反制](https://dig.chouti.com/link/41743765)|
+|2024-03-07 11:01:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[明星爆改，统一滤镜取悦了谁？](https://dig.chouti.com/link/41744121)|
+|2024-03-07 12:12:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ﾐ╹⋏╹ﾐ ](https://dig.chouti.com/link/41744861)|
+|2024-03-07 04:11:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【马斯克开喷贝佐斯前妻：有钱的女白左，西方文明消亡的原因之一】一位X用户发帖称：“到目前为止，贝佐斯的前妻捐赠的组织中有一半以上涉及种族和/或性别问题。她的基金应该叫AWFL（富裕的白人女性自由主义者）基金。”马斯克评论称：“‘讨厌前夫的超级富豪前妻’，应该被列为‘西方文明消亡的原因’之一。”](https://dig.chouti.com/link/41740086)|
+|2024-03-07 06:13:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外网热帖：职场捅娄子大赛](https://dig.chouti.com/link/41741335)|
+|2024-03-07 11:12:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[棋手战鹰 →《男人装》3月刊封面](https://dig.chouti.com/link/41744463)|
+|2024-03-07 13:38:00|[LiesAuer's Blog](https://www.liesauer.net/blog/feed/)|[1Panel + PushMe 自建消息通知服务](https://www.liesauer.net/blog/post/1panel---pushme-self-hosting-messaging-server.html)|
+|2024-03-07 13:30:47|[鸟窝](https://colobu.com/atom.xml)|[实现一个友好的堆](https://colobu.com/2024/03/07/implement-a-heap-in-go/)|
 |2024-03-07 16:39:09|[白云苍狗的小站](https://www.imalun.com/atom.xml)|[自建免费 Moe-Counter 计数器](https://www.imalun.com/moe-counter-vercel/)|
 |2024-03-07 09:23:12|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[呵呵，凭一己之力把公司干没了！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450259&idx=1&sn=cecd42ef2047ab2f5e562212a1e9efe8)|
 |2024-03-07 16:00:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Ivacy VPN 跨區解鎖 Netflix、Disney+ 影音串流平台 每月約 35 元](https://applefans.today/2024-02-ivacy-vpn-cross-region-streaming/)|
