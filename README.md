@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-07 16:39:09|[白云苍狗的小站](https://www.imalun.com/atom.xml)|[自建免费 Moe-Counter 计数器](https://www.imalun.com/moe-counter-vercel/)|
+|2024-03-07 09:23:12|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[呵呵，凭一己之力把公司干没了！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450259&idx=1&sn=cecd42ef2047ab2f5e562212a1e9efe8)|
+|2024-03-07 16:00:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Ivacy VPN 跨區解鎖 Netflix、Disney+ 影音串流平台 每月約 35 元](https://applefans.today/2024-02-ivacy-vpn-cross-region-streaming/)|
+|2024-03-07 15:37:11|[fivestone](http://blog.fivest.one/feed)|[好离乡 – 1](https://blog.fivest.one/archives/6616)|
+|2024-03-07 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[英伟达赚疯背后，三家存储芯片公司的一场「All in」丨焦点分析](https://36kr.com/p/2678138991081223)|
+|2024-03-07 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[整理了百万条二手房数据，看到几个不可逆趋势](https://36kr.com/p/2678920875898625)|
+|2024-03-07 16:05:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[挨了马斯克一记耳光后，OpenAI掏出一手左勾拳｜焦点分析](https://36kr.com/p/2678182213694978)|
+|2024-03-07 16:05:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[王慧文病休后的遗憾，阿里腾讯掏23亿美元弥补](https://36kr.com/p/2678752219887366)|
+|2024-03-07 16:05:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[爆炒英伟达的人，已经财富自由了](https://36kr.com/p/2678960509810434)|
+|2024-03-07 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球最强模型Claude 3惊现自我意识？害怕被删除权重，高呼「别杀我」，马斯克称人类也是文件](https://36kr.com/p/2677605324764678)|
+|2024-03-07 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发｜上海百奥恒完成亿元A+轮融资，把工业固废转化为低碳新材料](https://36kr.com/p/2676313691617031)|
+|2024-03-07 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[京东的增长，经不起细看](https://36kr.com/p/2678735589242374)|
+|2024-03-07 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜​农夫山泉股价连跌三日；盒马回应被曝清货关门；苹果将支持“第三方应用商店”，仅限欧盟地区](https://36kr.com/p/2678753942435590)|
+|2024-03-07 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Claude 3成功破解未公开算法？智商测试101分超越人类/碾压GPT-4，网友惊呼：实测比跑分还强](https://36kr.com/p/2677606361200131)|
+|2024-03-07 00:03:24|[余晟以为](https://feedpress.me/wx-yurii-says)|[家有两个男孩是什么感受？](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009878&idx=1&sn=8fab29b018bd7ef9576c82cd0e4c0463)|
+|2024-03-07 23:30:14|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[2023犯罪动作《周处除三害》HD1080P.国语中字](https://masuit.com/1342)|
+|2024-03-07 11:45:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[从地方到中央：中国新举债模式意味着什么？](https://cn.wsj.com/articles/%E4%BB%8E%E5%9C%B0%E6%96%B9%E5%88%B0%E4%B8%AD%E5%A4%AE-%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%BE%E5%80%BA%E6%A8%A1%E5%BC%8F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-404e493a)|
+|2024-03-07 11:51:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国大力推进科技行业“消A”行动](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%8A%9B%E6%8E%A8%E8%BF%9B%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A-%E6%B6%88a-%E8%A1%8C%E5%8A%A8-853e668c)|
+|2024-03-07 10:25:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国外长王毅抨击美国身为超级大国的自信何在](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E6%8A%A8%E5%87%BB%E7%BE%8E%E5%9B%BD%E8%BA%AB%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%A4%A7%E5%9B%BD%E7%9A%84%E8%87%AA%E4%BF%A1%E4%BD%95%E5%9C%A8-586d2dc1)|
 |2024-03-07 04:41:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 新專利！未來透過智慧手勢就可以執行操作](https://applefans.today/2024-03-apple-patent-smart-gestures/)|
 |2024-03-07 01:19:33|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[一樣 M3 晶片！ 15 吋 MacBook Air 與 14 吋 MacBook Pro 怎麼選？](https://applefans.today/2024-m3-macbook-air-vs-m3-macbook-pro-compared/)|
 |2024-03-07 08:41:15|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AutoDev 自定义 Agent：快速接入内部 AI Agent，构建 IDE 即 AI 辅助研发中心](http://www.phodal.com/blog/autodev-custom-agent/)|
