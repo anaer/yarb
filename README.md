@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-06）
+﻿# 每日资讯（2024-03-07）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-07 00:40:09|[爱范儿](https://www.ifanr.com/feed)|[早报｜OpenAI 自曝邮件驳斥马斯克/小米汽车或于月底开发布会/钟薛高售价从 60 元降到 2.5 元](https://www.ifanr.com/1577264?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-06 16:15:03|[黑羽的个人博客](https://blog.thetbw.xyz/atom.xml)|[入了人生第一台相机](https://blog.thetbw.xyz/archives/my-first-camera)|
 |2024-03-06 19:56:27|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[远程桌面管理器——Remote Desktop Manager Enterprise RDM 2024.1.12多语言学习版 Windows+MacOS ](https://masuit.com/59)|
 |2024-03-06 09:54:07|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[早春最浓甜的枇杷就在云南，不接受反驳！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450229&idx=1&sn=9e83d20b01800c5e87cfaadef535f209)|
@@ -34,6 +35,7 @@
 |2024-03-06 07:00:00|[机核](https://www.gcores.com/rss)|[译介丨Kakeru（翔）的卡普空杯LCQ之旅](https://www.gcores.com/videos/178534)|
 |2024-03-06 08:48:46|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Podcast 逐字稿功能是什麼？有何重點特色？](https://applefans.today/2024-03-apple-podcat-transcripts/)|
 |2024-03-06 06:44:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》Instagram 下載 2024](https://applefans.today/2024-03-ios-17-shortcuts-instagram-download/)|
+|2024-03-07 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[死期将至](https://leimao.github.io/essay/%E6%AD%BB%E6%9C%9F%E5%B0%86%E8%87%B3-Deaths-Game/)|
 |2024-03-06 08:25:18|[煎蛋](http://jandan.net/feed)|[发霉啦：今天，我去前夫家里接7岁的闺女](http://jandan.net/p/115822)|
 |2024-03-06 12:23:30|[虎嗅](https://rss.huxiu.com/)|[继续发挥关键作用，2024年固定投资增速目标或瞄准6%](https://www.huxiu.com/article/2753789.html?f=rss)|
 |2024-03-06 11:58:31|[虎嗅](https://rss.huxiu.com/)|[我对近期市场的4点思考](https://www.huxiu.com/article/2753520.html?f=rss)|
@@ -143,3 +145,4 @@
 |2024-03-06 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[景元，心海这种智将人设对于各自世界观有什么意义？](https://www.zhihu.com/question/646527452)|
 |2024-03-06 02:35:00|[est の 输入输出](https://blog.est.im/rss)|[HN锐评农民：Being a peasant sucks](https://blog.est.im/2024/stdin-09)|
 |2024-03-06 09:48:17|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[2024高级--系统分析师VIP套餐视频教程](https://masuit.com/1645)|
+|2024-03-07 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 2024 年春季学期社团联合招新（百团大战）](https://tuna.moe/event/2024/recruitment-spring/)|
