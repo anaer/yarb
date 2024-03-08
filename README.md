@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-03-07）
+﻿# 每日资讯（2024-03-08）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 00:51:49|[爱范儿](https://www.ifanr.com/feed)|[早报｜折叠屏 MacBook 或于 2027 年量产/娃哈哈妇女节放半天假加 100 元餐补/理想将推纯电 SUV 对标 Model Y](https://www.ifanr.com/1577395?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-08 00:08:41|[机核](https://www.gcores.com/rss)|[来捏人吧！《龙之信条2》捏人软件今天上线，Capcom Highlights首日直播汇总](https://www.gcores.com/articles/178613)|
+|2024-03-08 00:24:48|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)|
 |2024-03-07 10:56:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[一个男多女少的村决定给媒婆发奖金](https://dig.chouti.com/link/41743971)|
 |2024-03-07 13:58:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从60元降到2.5元？记者亲测：钟薛高电商平台低至5元一支](https://dig.chouti.com/link/41745427)|
 |2024-03-07 14:10:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【瓦利耶娃被俄罗斯国家队除名】当地时间3月7日，俄罗斯花样滑冰联合会主席亚历山大·科根表示，俄罗斯花样滑冰运动员卡米拉·瓦利耶娃已被俄罗斯国家队除名。2024年1月，国际体育仲裁法庭宣布，卡米拉·瓦利耶娃违反了反兴奋剂条例，从2021年12月25日起禁赛四年。](https://dig.chouti.com/link/41745687)|
