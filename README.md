@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 04:06:08|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[macOS Sonoma 14.4 更新 全新表情符號、修改錯誤、安全性升級](https://applefans.today/macos-sonoma-14-4/)|
+|2024-03-08 02:34:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 10.4 更新 修復螢幕被鬼觸控的問題](https://applefans.today/watchos-10-4/)|
+|2024-03-08 11:30:20|[机核](https://www.gcores.com/rss)|[《沙丘2》中的十大角色与美学设计](https://www.gcores.com/videos/178654)|
+|2024-03-08 10:56:39|[机核](https://www.gcores.com/rss)|[和老板线下体验《三角洲行动》，但是结局不太妙](https://www.gcores.com/videos/178652)|
+|2024-03-08 10:36:43|[机核](https://www.gcores.com/rss)|[《背包乱斗》现已发售抢先体验版！](https://www.gcores.com/articles/178651)|
+|2024-03-08 10:30:00|[机核](https://www.gcores.com/rss)|[DND龙枪跑团第六集：来袭！是去是留？](https://www.gcores.com/videos/178257)|
+|2024-03-08 10:17:50|[机核](https://www.gcores.com/rss)|[译介 堀井雄二、桂正和、尾田荣一郎、岸本齐史追忆鸟山明](https://www.gcores.com/articles/178644)|
+|2024-03-08 09:41:36|[机核](https://www.gcores.com/rss)|[经典养成游戏《美少女梦工厂2 新生》宣布再次延期](https://www.gcores.com/articles/178649)|
+|2024-03-08 09:06:52|[机核](https://www.gcores.com/rss)|[《龙珠Z 卡卡罗特》开发商 CyberConnect2 宣布暂时休业](https://www.gcores.com/articles/178645)|
+|2024-03-08 09:00:00|[机核](https://www.gcores.com/rss)|[我们都是鸟山明先生爱过的孩子，录音笔 VOL.155](https://www.gcores.com/radios/178643)|
+|2024-03-08 08:56:35|[机核](https://www.gcores.com/rss)|[独游解谜新作《大菠萝马戏团》公开，计划年内发售](https://www.gcores.com/articles/178646)|
+|2024-03-08 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图223期:点点手游，一会下楼](https://www.gcores.com/articles/175379)|
+|2024-03-08 08:50:00|[oldj's blog](https://oldj.net/feed)|[读《星震》](https://oldj.net/article/2024/03/08/notes-of-starquake/)|
 |2024-03-08 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《一人之下》漫画 662（703）话？](https://www.zhihu.com/question/647497393)|
 |2024-03-08 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些宫殿极其震撼？](https://www.zhihu.com/question/647003951)|
 |2024-03-08 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有人能提供一些减肥成功的经历？](https://www.zhihu.com/question/639562603)|
