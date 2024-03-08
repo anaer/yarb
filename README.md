@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 08:07:51|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[没人说吗？有些东西越长大越难吃。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450308&idx=1&sn=6b0d92984b227fd7b28b9f64d63faf18)|
+|2024-03-08 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/86890)|
+|2024-03-08 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「过度在乎」是一种常见的心理现象吗？对在意的事情过度解读，对微小变化草木皆兵，这种心态如何调整?](https://www.zhihu.com/question/647289720)|
+|2024-03-08 16:03:50|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[英伟达股价首次突破 900 美元关口，市值达 2.32 万亿美元逼近苹果，哪些信息值得关注？](https://www.zhihu.com/question/647555861)|
+|2024-03-08 14:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[歐盟 iPhone 用戶將可輕鬆轉 Android，Safari 隨心刪](https://www.iphonetaiwan.org/2024/03/blog-post_08.html)|
 |2024-03-08 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：机核文章推荐与导读（2.24-3.8）](https://www.gcores.com/articles/178635)|
 |2024-03-08 15:00:00|[机核](https://www.gcores.com/rss)|[怀念在学校的时光吗？核市奇谭Vol.67](https://www.gcores.com/radios/178331)|
 |2024-03-08 13:34:37|[机核](https://www.gcores.com/rss)|[科幻生存冒险游戏《命运之前》公布全新宣传片，计划年内上线](https://www.gcores.com/articles/178656)|
