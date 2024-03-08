@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 15:30:00|[机核](https://www.gcores.com/rss)|[今晚读什么：机核文章推荐与导读（2.24-3.8）](https://www.gcores.com/articles/178635)|
+|2024-03-08 15:00:00|[机核](https://www.gcores.com/rss)|[怀念在学校的时光吗？核市奇谭Vol.67](https://www.gcores.com/radios/178331)|
+|2024-03-08 13:34:37|[机核](https://www.gcores.com/rss)|[科幻生存冒险游戏《命运之前》公布全新宣传片，计划年内上线](https://www.gcores.com/articles/178656)|
+|2024-03-08 14:10:35|[fivestone](http://blog.fivest.one/feed)|[把日常阅读的网页，用 RSS 推荐给好友](https://blog.fivest.one/archives/6621)|
+|2024-03-08 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[“动” 感十足！与佳能 EOS R3 共舞冰雪 “佳” 年华](https://www.photoworld.com.cn/post/176219)|
 |2024-03-08 04:06:08|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[macOS Sonoma 14.4 更新 全新表情符號、修改錯誤、安全性升級](https://applefans.today/macos-sonoma-14-4/)|
 |2024-03-08 02:34:23|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 10.4 更新 修復螢幕被鬼觸控的問題](https://applefans.today/watchos-10-4/)|
 |2024-03-08 11:30:20|[机核](https://www.gcores.com/rss)|[《沙丘2》中的十大角色与美学设计](https://www.gcores.com/videos/178654)|
