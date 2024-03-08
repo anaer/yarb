@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-08 03:58:52|[煎蛋](http://jandan.net/feed)|[鸟山明去世了](http://jandan.net/p/115837)|
+|2024-03-08 04:11:06|[爱范儿](https://www.ifanr.com/feed)|[iPhone 在中国销量大跌，急需今年的「史上最大更新」翻盘](https://www.ifanr.com/1577402?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-08 03:35:39|[爱范儿](https://www.ifanr.com/feed)|[苹果再一次粉碎了 Epic 重返 iOS 的计划](https://www.ifanr.com/1577376?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-08 03:07:05|[爱范儿](https://www.ifanr.com/feed)|[带摄像头的 AirPods，苹果会怎么做出来？](https://www.ifanr.com/1577305?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-08 03:35:00|[est の 输入输出](https://blog.est.im/rss)|[执行一次 try ... catch 收费多少港币？](https://blog.est.im/2024/stdin-10)|
 |2024-03-08 00:51:49|[爱范儿](https://www.ifanr.com/feed)|[早报｜折叠屏 MacBook 或于 2027 年量产/娃哈哈妇女节放半天假加 100 元餐补/理想将推纯电 SUV 对标 Model Y](https://www.ifanr.com/1577395?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-08 00:08:41|[机核](https://www.gcores.com/rss)|[来捏人吧！《龙之信条2》捏人软件今天上线，Capcom Highlights首日直播汇总](https://www.gcores.com/articles/178613)|
 |2024-03-08 00:24:48|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)|
