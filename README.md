@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-09 11:07:27|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@AAAI 2024 基于流形的提示学习标签空间重嵌入方法](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812682&idx=1&sn=64b34b1f49e582b85595dee5c8805ae4)|
 |2024-03-09 08:10:13|[虎嗅](https://rss.huxiu.com/)|[给“富二代”做家教：他们比普通人卷多了](https://www.huxiu.com/article/2724817.html?f=rss)|
 |2024-03-09 07:26:10|[虎嗅](https://rss.huxiu.com/)|[揭秘短剧剧本交易：初审毙掉90%，爆款编剧月入10万](https://www.huxiu.com/article/2725677.html?f=rss)|
 |2024-03-09 07:24:58|[虎嗅](https://rss.huxiu.com/)|[月薪两万，做不起体检](https://www.huxiu.com/article/2764860.html?f=rss)|
