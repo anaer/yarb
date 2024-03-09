@@ -1,7 +1,10 @@
-﻿# 每日资讯（2024-03-08）
+﻿# 每日资讯（2024-03-09）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-09 01:00:00|[虎嗅](https://rss.huxiu.com/)|[颠覆人们想象的Sora，为什么无法代替人类？](https://www.huxiu.com/article/2762004.html?f=rss)|
+|2024-03-09 00:26:23|[虎嗅](https://rss.huxiu.com/)|[甄嬛也是士大夫](https://www.huxiu.com/article/2763498.html?f=rss)|
+|2024-03-09 00:00:01|[虎嗅](https://rss.huxiu.com/)|[“全民追凶”时代，如何看待罪案新闻？](https://www.huxiu.com/article/2761501.html?f=rss)|
 |2024-03-08 08:07:51|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[没人说吗？有些东西越长大越难吃。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450308&idx=1&sn=6b0d92984b227fd7b28b9f64d63faf18)|
 |2024-03-08 04:01:35|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/86890)|
 |2024-03-08 16:03:51|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「过度在乎」是一种常见的心理现象吗？对在意的事情过度解读，对微小变化草木皆兵，这种心态如何调整?](https://www.zhihu.com/question/647289720)|
@@ -25,6 +28,7 @@
 |2024-03-08 08:56:35|[机核](https://www.gcores.com/rss)|[独游解谜新作《大菠萝马戏团》公开，计划年内发售](https://www.gcores.com/articles/178646)|
 |2024-03-08 08:30:00|[机核](https://www.gcores.com/rss)|[哪来的傻缺图223期:点点手游，一会下楼](https://www.gcores.com/articles/175379)|
 |2024-03-08 08:50:00|[oldj's blog](https://oldj.net/feed)|[读《星震》](https://oldj.net/article/2024/03/08/notes-of-starquake/)|
+|2024-03-09 08:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[鸟山明和我的童年](https://leimao.github.io/essay/%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%92%8C%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/)|
 |2024-03-08 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《一人之下》漫画 662（703）话？](https://www.zhihu.com/question/647497393)|
 |2024-03-08 04:01:48|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有哪些宫殿极其震撼？](https://www.zhihu.com/question/647003951)|
 |2024-03-08 04:01:47|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[有没有人能提供一些减肥成功的经历？](https://www.zhihu.com/question/639562603)|
