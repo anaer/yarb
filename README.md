@@ -2,6 +2,45 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-10 13:24:00|[六个周](https://blog.liugezhou.online/atom.xml)|[为什么不敢与人发生冲突](https://blog.liugezhou.online/202410-107/)|
+|2024-03-10 17:41:45|[机核](https://www.gcores.com/rss)|[【合成器浪潮】Synth Rider! 我需要你的帮助！](https://www.gcores.com/videos/178721)|
+|2024-03-10 17:41:41|[机核](https://www.gcores.com/rss)|[《莎木4-2.5D》 同人游戏 -战斗DEMO-实机演示](https://www.gcores.com/videos/178722)|
+|2024-03-10 15:00:00|[机核](https://www.gcores.com/rss)|[彩虹六号再进“兽耳派对”！松弛聊手游：《明日方舟》“水晶箭行动”](https://www.gcores.com/radios/178674)|
+|2024-03-10 13:40:36|[机核](https://www.gcores.com/rss)|[《超级马力欧》新作电影官宣：马力欧“MAR10日”消息汇总](https://www.gcores.com/articles/178716)|
+|2024-03-10 12:32:56|[机核](https://www.gcores.com/rss)|[“最伟大美剧”《火线》万字细读系列 01 ](https://www.gcores.com/videos/178708)|
+|2024-03-10 12:32:44|[机核](https://www.gcores.com/rss)|[译介丨街霸的格斗流派：达尔西姆和瑜伽](https://www.gcores.com/videos/178703)|
+|2024-03-10 12:32:28|[机核](https://www.gcores.com/rss)|[首部女神转生竟是别的公司做的？](https://www.gcores.com/videos/178702)|
+|2024-03-10 12:25:49|[机核](https://www.gcores.com/rss)|[正统二游《雷索纳斯》评测报告](https://www.gcores.com/articles/178707)|
+|2024-03-10 19:23:12|[SHRIK3](https://shrik3.com/index.xml)|[FUCK YOUR MBTI BULLSHIT](https://shrik3.com/log/mbti/)|
+|2024-03-10 14:37:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Mar.3 - Mar.9](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240309/)|
+|2024-03-10 14:33:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Feb.25 - Mar.2](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240302/)|
+|2024-03-10 14:29:27|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Feb.18 - Feb.24](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240224/)|
+|2024-03-10 14:28:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[钟薛高，一家明星公司的非意外死亡](https://dig.chouti.com/link/41772492)|
+|2024-03-10 03:02:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[梁元帝的“焚书故事”](https://dig.chouti.com/link/41767981)|
+|2024-03-10 03:03:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[黄仁勋：AI缩小人类间的技术差距，未来10年算力将再提高100万倍](https://dig.chouti.com/link/41768048)|
+|2024-03-10 03:10:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Pika推出根据视频内容自动生成音效功能，可以给视频自动配音](https://dig.chouti.com/link/41768078)|
+|2024-03-10 10:02:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【点读机女孩高君雨发烧进ICU】家人称高君雨状态突然变差，持续发烧不退，已紧急转进ICU。高君雨妈妈在3月9日的视频中透露，女儿状态不佳，一直在睡觉。](https://dig.chouti.com/link/41770793)|
+|2024-03-10 10:11:36|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你以为她在睡觉，其实是在……](https://dig.chouti.com/link/41770920)|
+|2024-03-10 12:27:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[多名留美博士生遭强制遣返，《科学》：他们成为“最新牺牲品”](https://dig.chouti.com/link/41771699)|
+|2024-03-10 11:09:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“宝刀未老”歌手盘点】视频选取了流行乐坛当今依然活跃的70岁左右歌手的现场演唱。](https://dig.chouti.com/link/41771289)|
+|2024-03-10 03:10:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[海地国家警察击退帮派武装对总统府的袭击，策划此次袭击的帮派头目被击毙](https://dig.chouti.com/link/41768089)|
+|2024-03-10 03:10:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[日本共同社9日报道，菲律宾巴丹群岛省省长凯柯证实，由美国出资在该省建造民用港口的计划正在进行中，美国陆军预计会在4月下旬抵达该省，近一步讨论建造事宜。巴丹群岛距离台湾不到200公里，凯柯说，该计划与菲国军方协调制定，旨在一旦爆发台湾危机时，可以收容逃离台湾的菲律宾工人。](https://dig.chouti.com/link/41768067)|
+|2024-03-10 03:33:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[解剖苹果汽车之死：如何一步步沦为AI的祭品？](https://dig.chouti.com/link/41768222)|
+|2024-03-10 04:09:10|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[经销商感叹：“现在卖农夫山泉的怎么成了罪人一样”——是谁在围剿农夫山泉？](https://dig.chouti.com/link/41768438)|
+|2024-03-10 12:10:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大蟒蛇拉大便](https://dig.chouti.com/link/41771651)|
+|2024-03-10 04:10:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“特朗普加强对共和党的控制”，儿媳担任党内要职】“特朗普巩固了他对共和党全国委员会（RNC）的控制”，据美国政治新闻网“Politico”和《华盛顿邮报》等美媒报道，当地时间3月8日，美国共和党全国委员会召开紧急会议，任命特朗普“精心挑选”的候选人担任党内高层职务，其中包括特朗普的儿媳劳拉·特朗普。](https://dig.chouti.com/link/41768454)|
+|2024-03-10 08:09:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[是车里的东西都管洗吗？是的话我把我家油烟机拆下来放车里](https://dig.chouti.com/link/41770128)|
+|2024-03-10 06:01:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ChatGPT每天耗电超50万度，是美国普通家庭1.7万多倍](https://dig.chouti.com/link/41769100)|
+|2024-03-10 08:09:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[传统艺能→_→当地时间3月9日，特朗普在佐治亚州举行集会时，一会儿模仿拜登咳嗽，一会儿模仿拜登结巴。](https://dig.chouti.com/link/41770108)|
+|2024-03-10 07:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[扎克伯格：Meta会推出比苹果Vision Pro更好的头显，不会出现运动模糊](https://dig.chouti.com/link/41769607)|
+|2024-03-10 07:11:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不想从被窝里钻出来关灯怎么办？（还可以自行开发更多应用场景~](https://dig.chouti.com/link/41769747)|
+|2024-03-10 09:01:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[记者探访对外开放的复旦食堂，校友：算上搭伙费和公司食堂价格差不多，主要“吃个情怀”](https://dig.chouti.com/link/41770215)|
+|2024-03-10 05:09:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[终于知道怎么教育猫咪了](https://dig.chouti.com/link/41768951)|
+|2024-03-10 06:09:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[38岁鲁尼和45岁费迪南德同框](https://dig.chouti.com/link/41769295)|
+|2024-03-10 06:10:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[这也行？！近日，美国俄亥俄州，55岁女子Loreen和63岁女子Karen被控将80岁的死者带到银行取钱后弃尸。她们是死者室友，Loreen疑似是死者女友。她们将死者放在副驾驶位开车去银行取钱。银行柜员大致看了一下，就同意了…据悉，老人生前常和她们一起去免下车银行取钱。老人坐在副驾驶“刷脸”，银行柜员就会将钱给他。](https://dig.chouti.com/link/41769337)|
+|2024-03-10 14:00:00|[Jason](https://atjason.com/atom.xml)|[0310 - 以退为进](https://atjason.com/daily/2024-03-10.html)|
+|2024-03-10 13:54:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 離開歐盟區 30 天後：第三方應用商城將自動關店](https://www.iphonetaiwan.org/2024/03/iphone-eu-exit-third-party-apps.html)|
+|2024-03-10 13:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果對 OLED iPad Pro 信心十足！首批生產 850 萬部](https://www.iphonetaiwan.org/2024/03/apple-oled-ipad-pro-2024.html)|
 |2024-03-10 09:47:38|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[新加坡游记](https://www.edony.ink/sightseeing-of-singapore/)|
 |2024-03-10 09:25:10|[61’s life](https://61.life/feed.xml)|[0310](http://61.life/2024/0310)|
 |2024-03-10 14:37:56|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[聊一聊 https 的逻辑](https://nicksxs.me/2024/03/10/%E8%81%8A%E4%B8%80%E8%81%8A-https-%E7%9A%84%E9%80%BB%E8%BE%91/)|
