@@ -2,6 +2,25 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-11 08:29:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[有时候觉得上班也挺好的。。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450357&idx=1&sn=9b2c6f9f47e3a20a1d8ecbd56decff0d)|
+|2024-03-11 10:01:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[治疗视频遭质疑是库存，“点读机女孩”各账号评论区已被限制留言](https://dig.chouti.com/link/41780115)|
+|2024-03-11 10:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好新鲜的领域……矫子文学](https://dig.chouti.com/link/41780490)|
+|2024-03-11 08:03:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【全球生育率都在崩溃，除了非洲】根据联合国人口司（UNPD）的数据，自20世纪70年代以来，全球平均总和生育率（TFR，一个女性生育的全部孩子数量）持续走低，除了非洲大陆，多数国家和地区的生育率已跌破2.1的替代水平。（即相同时间范围内出生的子女数量和父母数量一致，低于这一水平，意味着人口注定会下降）。](https://dig.chouti.com/link/41779137)|
+|2024-03-11 09:12:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[猫头鹰耳洞可以看到眼球的后半球](https://dig.chouti.com/link/41780021)|
+|2024-03-11 09:33:33|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[国家金融监督管理总局局长李云泽：正在研究降低乘用车贷款首付比](https://dig.chouti.com/link/41780056)|
+|2024-03-11 08:11:26|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[历史上收入最高的前十名运动员，乔丹第1](https://dig.chouti.com/link/41779290)|
+|2024-03-11 08:33:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【比特币超越白银，成为全球市值第八大资产】3月11日，比特币站上71000美元/枚，日内涨超2%，续创新高。据companiesmarketcap统计，比特币市值已升至1.398万亿美元，超越白银（1.380万亿美元），成为全球市值第八大资产。](https://dig.chouti.com/link/41779376)|
+|2024-03-11 07:10:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[多位美国作家起诉英伟达：未经许可使用版权书籍训练人工智能平台NeMo](https://dig.chouti.com/link/41778660)|
+|2024-03-11 07:11:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[像极了我妈教我做数学题的样子](https://dig.chouti.com/link/41778737)|
+|2024-03-11 07:11:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[多家主流媒体下架凯特王妃消失3月后首张官方照，疑似修图重制，网友质疑由AI生成](https://dig.chouti.com/link/41778717)|
+|2024-03-11 04:09:47|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何用 Mac 更改 iTunes/Finder 備份 iPhone 檔案的位置？](https://applefans.today/2024-how-to-change-iphone-backup-location-on-mac/)|
+|2024-03-11 01:59:57|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[基本款 M3 MacBook Air 擁有比上一代更快的 SSD 讀寫速度](https://applefans.today/2024-03-m3-macbook-air-256gb-ssd-faster/)|
+|2024-03-11 10:41:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[watchOS 10.4 更新！修復 Apple Watch 幽靈觸控問題](https://www.iphonetaiwan.org/2024/03/watchos-10-4-release-emoji.html)|
+|2024-03-11 09:37:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[macOS Sonoma 14.4 發佈：全新功能、錯誤修復和安全更新](https://www.iphonetaiwan.org/2024/03/apple-releases-macos-sonoma-14-4.html)|
+|2024-03-11 08:49:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[告別傳統！iPad 全新 FaceTime 鏡頭「橫」走全新視野](https://www.iphonetaiwan.org/2024/03/ipad-air-pro-facetime-camera.html)|
+|2024-03-11 08:14:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果 Windows 遷移助理！完美轉移您的PC數據至macOS](https://www.iphonetaiwan.org/2024/03/apple-windows-migration-assistant.html)|
+|2024-03-11 06:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 相機革新！專利技術解密：消除紅眼現象全新體驗](https://www.iphonetaiwan.org/2024/03/iphone-camera-patent-red-eye-solution.html)|
+|2024-03-11 05:53:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【實測影片】M3 MacBook Air：SSD 讀取速度提升 82%](https://www.iphonetaiwan.org/2024/03/blog-post_11.html)|
 |2024-03-11 06:08:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美国老夫妇在游艇上遭逃犯劫持杀害，71岁妻子还遭强暴】近日，格林纳达岛附近，71岁的Kathy和66岁的丈夫Ralph在游艇上被3名非裔逃犯劫持并杀害，尸体至今下落不明。3名逃犯已被逮捕，其中一人被控谋杀和强奸。据悉，3名逃犯分别19、25及30岁，在数月前因为抢劫被捕。](https://dig.chouti.com/link/41778133)|
 |2024-03-11 04:03:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[互联网3.0：人工智能趋势下谷歌等聚合者的风险](https://36kr.com/p/2680283522006016)|
 |2024-03-11 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨“离线休息权”入法的提案已立案；ChatGPT日耗电超50万度；字节跳动回应暴雪前CEO洽购TikTok](https://36kr.com/p/2684408000331911)|
