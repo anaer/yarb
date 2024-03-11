@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-11 00:28:56|[爱范儿](https://www.ifanr.com/feed)|[早报 离线休息权入法已立案/李彦宏：文心 4.0 中文上已经超越 GPT-4/宫崎骏再获奥斯卡](https://www.ifanr.com/1577562?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-11 04:01:41|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[年度征文 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)|
+|2024-03-11 04:01:40|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014)|
+|2024-03-11 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/10](https://weekly.pychina.org/pyrecap/pyrw-2410.html)|
 |2024-03-11 00:56:00|[虎嗅](https://rss.huxiu.com/)|[30岁了，我妈还在我的家长群里](https://www.huxiu.com/article/2771306.html?f=rss)|
 |2024-03-11 00:47:45|[虎嗅](https://rss.huxiu.com/)|[为什么打造独特人设，成为了商业新潮流？](https://www.huxiu.com/article/2769861.html?f=rss)|
 |2024-03-11 00:38:34|[虎嗅](https://rss.huxiu.com/)|[揭秘“穿戴甲”产业链：从平替到爆款、“卷”到海外](https://www.huxiu.com/article/2757370.html?f=rss)|
