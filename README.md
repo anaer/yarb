@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-11 12:00:00|[Anthony Fu](https://antfu.me/feed.xml)|[The Evolution of Shiki v1.0](https://antfu.me/posts/evolution-of-shiki-v1)|
+|2024-03-11 04:00:00|[太隐](https://wangyurui.com/feed.xml)|[俗世奇人金圣叹](https://wangyurui.com/posts/su-shi-qi-ren-aaf8df9d)|
+|2024-03-11 02:10:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[信息图示达人Tony Bela为即将到来（暂定3月14日）的星舰第3次轨道试飞绘制详尽流程图。此次试飞跟之前的两次发射有明显不同：1尝试开闭星链释放舱门（第5步）；2在星舰主贮箱和头部贮箱之间进行推进剂转移测试（第6步）；3在卡门线之上的太空中进行二次离轨点火（第8步）；4落区也从之前预定的夏威夷改到了印度洋（第11步）](https://dig.chouti.com/link/41775835)|
+|2024-03-11 07:10:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩媒：韩国政府将调派军医和公共卫生医师弥补医疗空缺](https://dig.chouti.com/link/41778652)|
+|2024-03-11 14:09:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[说40岁我都信。。。喀麦隆足协官方：17岁国脚杜阿拉涉嫌年龄造假](https://dig.chouti.com/link/41782431)|
+|2024-03-11 14:09:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[众星集体为第96届奥斯卡《名利场》派对拍摄写真](https://dig.chouti.com/link/41782463)|
+|2024-03-11 11:33:21|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Reddit申请IPO发行2200万股，每股价格区间31美元至34美元，股票代码为“RDDT”](https://dig.chouti.com/link/41781256)|
+|2024-03-11 11:11:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【被质疑打假拳，张志磊爆粗回应：去尼玛假拳！】 张志磊：“在赛前拳王都有这个条款，如果拳王输的话就可以打二番战，但出场费会比一番战降低50%。你们说我二番战为了更多的出场费，我有毛病啊，一番战我如果赢了，身价就能翻几倍，输了之后身价会跌一大半。我打了那么多年，好不容易打到现在，我的目标就是冠军。”](https://dig.chouti.com/link/41781174)|
+|2024-03-11 11:02:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[潘绥铭：后30年做了自己愿意且喜欢的事，是莫大的幸福](https://dig.chouti.com/link/41780911)|
+|2024-03-11 01:01:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[俄罗斯海军总司令被解职，北方舰队司令接替](https://dig.chouti.com/link/41775043)|
+|2024-03-11 10:09:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[台防务部门副手今天11日在台立法机构接受质询时明确表示，“越界”就是指解放军飞机进入12海里，台军就会行使自卫权，将其打下来。](https://dig.chouti.com/link/41780473)|
+|2024-03-11 11:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[胡连馨今天参加Gucci活动，这鞋。。。](https://dig.chouti.com/link/41781189)|
+|2024-03-11 11:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【凯特王妃就P图道歉】凯特王妃3月11日在社交媒体上就P图一事道歉称，和许多业余摄影师一样，她偶尔也会尝试修图。对昨天分享照片造成的混乱表示歉意。10日，凯特王妃分享“消失”3个月后首张官方照片，英国王室称，这张照片由威廉王子拍摄。当天晚些时候，由于怀疑该照片经过电脑合成，多家主流媒体撤回了这张照片。](https://dig.chouti.com/link/41781181)|
+|2024-03-11 11:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“点读机女孩”母亲：非常气愤和抱歉，账号运营公司出现严重问题，已令其停止发布女儿视频](https://dig.chouti.com/link/41780913)|
+|2024-03-11 14:47:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[PayPal 和 Venmo 為所有企業推出 iPhone 觸控支付](https://www.iphonetaiwan.org/2024/03/iphone-touch-payments.html)|
+|2024-03-11 12:50:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[TWQR 是什麼？一張 QR Code 接受所有手機支付方式](https://www.iphonetaiwan.org/2024/03/twqr.html)|
 |2024-03-11 08:29:43|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[有时候觉得上班也挺好的。。。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450357&idx=1&sn=9b2c6f9f47e3a20a1d8ecbd56decff0d)|
 |2024-03-11 10:01:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[治疗视频遭质疑是库存，“点读机女孩”各账号评论区已被限制留言](https://dig.chouti.com/link/41780115)|
 |2024-03-11 10:09:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[好新鲜的领域……矫子文学](https://dig.chouti.com/link/41780490)|
