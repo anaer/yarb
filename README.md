@@ -1,7 +1,18 @@
-﻿# 每日资讯（2024-03-10）
+﻿# 每日资讯（2024-03-11）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-11 00:56:00|[虎嗅](https://rss.huxiu.com/)|[30岁了，我妈还在我的家长群里](https://www.huxiu.com/article/2771306.html?f=rss)|
+|2024-03-11 00:47:45|[虎嗅](https://rss.huxiu.com/)|[为什么打造独特人设，成为了商业新潮流？](https://www.huxiu.com/article/2769861.html?f=rss)|
+|2024-03-11 00:38:34|[虎嗅](https://rss.huxiu.com/)|[揭秘“穿戴甲”产业链：从平替到爆款、“卷”到海外](https://www.huxiu.com/article/2757370.html?f=rss)|
+|2024-03-11 00:36:00|[虎嗅](https://rss.huxiu.com/)|[AlphaGo战胜人类8周年，GPT-5在抄它的作业吗？](https://www.huxiu.com/article/2769121.html?f=rss)|
+|2024-03-11 00:16:11|[虎嗅](https://rss.huxiu.com/)|[ChatGPT用电量堪比1.7万个美国家庭，生成式AI发展或带来碳危机](https://www.huxiu.com/article/2770878.html?f=rss)|
+|2024-03-11 00:15:00|[虎嗅](https://rss.huxiu.com/)|[AI的颠覆性到底在哪里？](https://www.huxiu.com/article/2770476.html?f=rss)|
+|2024-03-11 00:13:05|[虎嗅](https://rss.huxiu.com/)|[来论：保护主义无法拯救美国汽车工业](https://www.huxiu.com/article/2768305.html?f=rss)|
+|2024-03-11 00:10:54|[虎嗅](https://rss.huxiu.com/)|[人大代表建议消除“第一学历”就业歧视：仅仅是用人单位有问题？](https://www.huxiu.com/article/2765478.html?f=rss)|
+|2024-03-11 00:08:00|[虎嗅](https://rss.huxiu.com/)|[消费逆行后的中产，找回松弛感](https://www.huxiu.com/article/2769865.html?f=rss)|
+|2024-03-11 00:07:00|[虎嗅](https://rss.huxiu.com/)|[美宝莲：被嫌弃的少女时代眼泪](https://www.huxiu.com/article/2770843.html?f=rss)|
+|2024-03-11 01:05:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[中国消费者价格小幅上涨，打破连续四个月的跌势](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC%E5%B0%8F%E5%B9%85%E4%B8%8A%E6%B6%A8-%E6%89%93%E7%A0%B4%E8%BF%9E%E7%BB%AD%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B7%8C%E5%8A%BF-20950255)|
 |2024-03-10 13:24:00|[六个周](https://blog.liugezhou.online/atom.xml)|[为什么不敢与人发生冲突](https://blog.liugezhou.online/202410-107/)|
 |2024-03-10 17:41:45|[机核](https://www.gcores.com/rss)|[【合成器浪潮】Synth Rider! 我需要你的帮助！](https://www.gcores.com/videos/178721)|
 |2024-03-10 17:41:41|[机核](https://www.gcores.com/rss)|[《莎木4-2.5D》 同人游戏 -战斗DEMO-实机演示](https://www.gcores.com/videos/178722)|
