@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-12 11:56:15|[煎蛋](http://jandan.net/feed)|[波音公司曝光者不幸身亡](http://jandan.net/p/115881)|
+|2024-03-12 08:01:33|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 测试替代](https://www.sulinehk.com/post/golang-test-doubles/)|
+|2024-03-12 03:37:46|[sulinehk's blog - ...](https://www.sulinehk.com/index.xml)|[Golang 1.22 语言规范改动](https://www.sulinehk.com/post/language-specification-changes-in-golang-1.22/)|
 |2024-03-12 07:18:31|[机核](https://www.gcores.com/rss)|[【学习记录】斋藤直葵老师的3个月练习法｜05-第3轮练习和第4轮实战总结](https://www.gcores.com/videos/178788)|
 |2024-03-12 07:02:09|[机核](https://www.gcores.com/rss)|[黑暗战国ARPG《仁王2》发售四周年](https://www.gcores.com/articles/178803)|
 |2024-03-12 06:45:37|[机核](https://www.gcores.com/rss)|[《妖精的尾巴》续篇：TV动画《妖精的尾巴 百年任务》2024年7月开播](https://www.gcores.com/articles/178799)|
