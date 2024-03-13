@@ -2,6 +2,16 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-13 01:47:00|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[2024上半财政年](http://mercurychong.blogspot.com/2024/03/2024.html)|
+|2024-03-13 03:30:00|[机核](https://www.gcores.com/rss)|[狗血但优秀的《真女神转生》旧作](https://www.gcores.com/videos/178772)|
+|2024-03-13 03:07:31|[机核](https://www.gcores.com/rss)|[《生化危机4 重制版》销量突破700万](https://www.gcores.com/articles/178843)|
+|2024-03-13 02:55:00|[机核](https://www.gcores.com/rss)|[绫辻行人小说改编，日剧《十角馆杀人事件》预告公开](https://www.gcores.com/articles/178837)|
+|2024-03-13 02:45:15|[机核](https://www.gcores.com/rss)|[《上古卷轴OL：伊瑟利娅的后裔》DLC现已登陆PC平台](https://www.gcores.com/articles/178840)|
+|2024-03-13 02:11:07|[机核](https://www.gcores.com/rss)|[《卡牌生存》系列新作《卡牌生存：奇幻森林》上线Steam商城页](https://www.gcores.com/articles/178836)|
+|2024-03-13 01:58:13|[机核](https://www.gcores.com/rss)|[木村拓哉主演，日剧《东京大饭店》新作特别篇冬季播出](https://www.gcores.com/articles/178834)|
+|2024-03-13 01:55:39|[机核](https://www.gcores.com/rss)|[克系侦探叙事游戏《本尼迪克特·福克斯的最后一案》将于3月26日登录PS5，简体中文支持同步实装](https://www.gcores.com/articles/178835)|
+|2024-03-13 01:38:21|[机核](https://www.gcores.com/rss)|[欢庆《炉石传说》十周年，官方送出卡背及魔兽坐骑好礼](https://www.gcores.com/articles/178832)|
+|2024-03-13 01:14:15|[机核](https://www.gcores.com/rss)|[《绝地潜兵2》五连冠：Steam周销量排行榜 2024年3月第1周](https://www.gcores.com/articles/178830)|
 |2024-03-13 00:38:16|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果首次允许欧盟用户从网站安装应用/雷军称对汽车价格战做好准备/微博上线热搜投诉入口](https://www.ifanr.com/1577771?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-12 14:18:36|[Tinyfool的个人网站](https://codechina.org/feed/)|[Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久](https://codechina.org/2024/03/google/)|
 |2024-03-12 13:57:31|[Tinyfool的个人网站](https://codechina.org/feed/)|[美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距](https://codechina.org/2024/03/ai-china/)|
