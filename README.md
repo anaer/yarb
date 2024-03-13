@@ -2,6 +2,32 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-13 13:11:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[去年圣诞节3名美籍男子在澎湖被打，台媒近曝其身份疑为美军特种部队教官](https://dig.chouti.com/link/41803433)|
+|2024-03-13 14:03:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国五大工会组织要求对中国造船业发起“301调查”](https://dig.chouti.com/link/41803797)|
+|2024-03-13 04:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【掌握美国人生物信息？药明康德正在闯关】从今年1月开始，美国《生物安全法案》就像一把利剑，悬在药明康德头上。根据该法案，美国企业与药明康德合作将受限制，而美国又是药明康德最重要的市场，其客户大多来自美国。这期间，药明康德发布多则公告，表示公司现有各类业务不会收集人类基因组数据，不会构成国家安全风险。](https://dig.chouti.com/link/41797944)|
+|2024-03-13 14:01:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[亲历燕郊爆燃](https://dig.chouti.com/link/41803588)|
+|2024-03-13 14:10:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【央视记者在燕郊采访爆燃事故遇阻，中国记协：正当采访是记者的权利】据网传视频，总台记者杨海灵在爆燃事故的核心现场开展直播报道，有两名黑衣男子上前，挡住镜头，中断了记者的直播连线采访。还有一段网传视频显示，一名穿着带有“CMG 中央广播电视总台”标志的女士说“我们三个央视记者被十几个人推搡啊……”](https://dig.chouti.com/link/41803834)|
+|2024-03-13 14:01:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[戴高乐长子菲利普·戴高乐去世，享年102岁](https://dig.chouti.com/link/41803711)|
+|2024-03-13 13:11:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[丹尼斯·维伦纽瓦来中国，粉丝送了“中国版香料”老干妈和十三香 , 还送了面锦旗，上书”牛哇牛哇”！](https://dig.chouti.com/link/41803449)|
+|2024-03-13 11:09:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[螳螂吃蜂，没想到脖子被另一只蜂砍断](https://dig.chouti.com/link/41802476)|
+|2024-03-13 02:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【循 环】18年前，父亲刘福成负债累累，为给女儿治病，他“斗胆”向6位中国富豪去信求助。一家报社报道此事后，他和那家报社被批评“索捐”“道德绑架”“逼宫富人”。但最终女儿获得救助，活了下来。18年后，首富换了又换，那家报纸也已休刊，“索捐”的父亲离世9年，可当年几乎置女儿于死地的疾病，又冷酷无情地回来了。](https://dig.chouti.com/link/41796880)|
+|2024-03-13 12:01:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[OpenAI GPT-4.5提前曝光？搜索页面暗示有望6月面世](https://dig.chouti.com/link/41802687)|
+|2024-03-13 05:10:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不是很情愿地抱着 & 不是很情愿地被抱](https://dig.chouti.com/link/41798888)|
+|2024-03-13 12:10:18|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【美媒：不利以色列的视频大量传播，加速了针对TikTok的行动】《华尔街日报》3月13日披露，拜登政府官员和两党议员一直在幕后“悄悄”推进针对TikTok的立法行动。尽管美方打着“国家安全”的幌子，但有美国政客坦承，巴以冲突爆发后，不利于以色列形象的内容在TikTok大量传播，这成为美方加速推进打压TikTok行动的转折点。](https://dig.chouti.com/link/41802934)|
+|2024-03-13 12:10:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[喂！有没有人给某些男生科普一下啊！女生湿了不代表就是兴奋好吧……](https://dig.chouti.com/link/41802984)|
+|2024-03-13 00:01:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[泰国猴子袭击人，政府“垫付”费用：误工期间每天赔偿300泰铢](https://dig.chouti.com/link/41795667)|
+|2024-03-13 10:09:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ФᆺФ ✧](https://dig.chouti.com/link/41801959)|
+|2024-03-13 12:27:49|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【拔个智齿，怎么这么惊险？】拔牙手术前，医生需要问询患者的基本情况，比如有无药物过敏，有无服用过影响凝血、骨代谢的药物，有无做过放疗、化疗，中老年患者有无高血压、心脏病、糖尿病等。患者需要如实向医生告知自己的病情与服药情况。但个别患者担心，医生得知这些病情，可能不给自己看病或增加费用，于是选择隐瞒。](https://dig.chouti.com/link/41803065)|
+|2024-03-13 02:14:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MJ AI：沙漠之海，作者Jeremy Pomeroy](https://dig.chouti.com/link/41796988)|
+|2024-03-13 02:34:39|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[巨 匠 鸟 山 明](https://dig.chouti.com/link/41797078)|
+|2024-03-13 11:03:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[深圳发布住房租赁新规：“二房东”需备案，禁止“房中房”](https://dig.chouti.com/link/41802372)|
+|2024-03-13 06:20:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【清退潮下的“编外人”】过去一年多，“清理规范编外人员”逐渐从传闻变成越来越广泛的行动。有人虽然还在岗，却已清晰地感知到被解聘的风险，想出去拼一拼，但又恐惧于外面的不确定性；有人超过35岁被清退，人生好像一下子没了余地，求职毫无竞争力；还有人做惯了“不用过脑”的执行工作，连做实时会议记录都成了挑战。](https://dig.chouti.com/link/41799444)|
+|2024-03-13 01:11:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[棒球赛场的“辛巴cam”：随着《狮子王》BGM响起，观众们纷纷举起自家的狗子](https://dig.chouti.com/link/41796268)|
+|2024-03-13 10:09:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Hippopotomonstrosesquippedaliophobia 这个单词的意思是长单词恐惧症](https://dig.chouti.com/link/41801972)|
+|2024-03-13 11:01:47|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美媒：NBA球星库里表示不排除未来会竞选总统，但不是2028年](https://dig.chouti.com/link/41802204)|
+|2024-03-13 11:02:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【华东师大《爱情心理学》课程涉嫌“物化女性”？已更换任课教师】一名去年曾上过《爱情心理学》课的学生表示，去年这门课程已让他感到不适，“龚某曾教唆女生如何判断一个男性是否富有，宣称嫁给一个富有男人是女人最好的出路。今年感觉变本加厉了。身为地理科学学院的教师，为何能够开设爱情心理学和管理心理学的课程？”](https://dig.chouti.com/link/41802347)|
+|2024-03-13 13:55:04|[竹林里有冰的博客](https://zhul.in/rss.xml)|[小记 - 尝试拼凑出 apt 仓库中的 deb 包下载地址](https://zhul.in/2024/03/13/try-to-compose-download-links-of-deb-packages-in-apt-repository/)|
+|2024-03-13 15:58:55|[smallyu的博客](https://smallyu.net/atom.xml)|[牛市对普通人来说意味着什么](https://smallyu.net/2024/03/13/%E7%89%9B%E5%B8%82%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9D%A5%E8%AF%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/)|
 |2024-03-13 08:58:34|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[嗦粉灵魂两种，推荐 by 柳州](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450468&idx=1&sn=08f234dfd0e4f9d3fcb67828fbe20813)|
 |2024-03-13 11:09:32|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[下个月就年满70岁的成龙，须发皆白](https://dig.chouti.com/link/41802481)|
 |2024-03-13 11:33:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[小米汽车销售渠道人士：小米汽车SU7顶配版价格超30万，高于问界M5](https://dig.chouti.com/link/41802555)|
