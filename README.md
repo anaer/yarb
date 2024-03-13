@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-13 10:30:00|[太隐](https://wangyurui.com/feed.xml)|[1768：“叫魂”妖术大恐慌](https://wangyurui.com/posts/jiao-hun-an-2795e406)|
+|2024-03-13 12:39:37|[煎蛋](http://jandan.net/feed)|[美国将对波音公司展开刑事调查](http://jandan.net/p/115894)|
+|2024-03-13 13:20:22|[爱范儿](https://www.ifanr.com/feed)|[MEGA 风波后，理想怎么又让老车主破防了](https://www.ifanr.com/1577906?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-13 12:20:01|[爱范儿](https://www.ifanr.com/feed)|[全球首个 AI 程序员来了！超越 GPT-4 震撼硅谷，但取代码农为之尚早](https://www.ifanr.com/1577888?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-13 10:02:17|[爱范儿](https://www.ifanr.com/feed)|[极越，被低估的吉利家族小儿子](https://www.ifanr.com/1577856?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-13 04:00:59|[爱范儿](https://www.ifanr.com/feed)|[在这些 AI 家电里，我们看见了未来家的样子 AWE 2024 前瞻](https://www.ifanr.com/1577726?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-13 14:04:14|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【世界上在靠“铁肺”生活最久的人去世，享年78岁】美国得州，78岁的保罗·亚历山大于3月11日去世。6岁时保罗因患小儿麻痹症造成颈部以下瘫痪，只能在“铁肺”中维持生命。多年来，保罗自学读完了高中大学课程，拿到大学法律学位，还成为一名出版作家。2023年3月，保罗被吉尼斯世界纪录认定为在铁肺中生活时间最长的人。](https://dig.chouti.com/link/41803827)|
+|2024-03-13 17:29:15|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[泽野螳螂经典之作——《头VAN痔♂Deep：漂♂移》](https://masuit.com/2158)|
+|2024-03-13 17:28:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[【奢华】机场新秀MESL，高速稳定流媒体机场，全隧道多节点IPLC超大国际机场！](https://masuit.com/2231)|
+|2024-03-13 15:20:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】了解 Apple Vision Pro 上的個性化設定](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-settings-guide.html)|
+|2024-03-13 15:00:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何為 Apple Vision Pro 設定蔡司光學鏡片](https://www.iphonetaiwan.org/2024/03/install-zeiss-optical-inserts-apple-vision-pro.html)|
+|2024-03-13 14:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】了解 Apple Vision Pro 的無障礙輔助功能](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-accessibility-features.html)|
+|2024-03-13 09:52:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何連接電源線並啟動 Apple Vision Pro](https://www.iphonetaiwan.org/2024/03/apple-vision-pro-power-on-tips.html)|
+|2024-03-13 09:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】快速學會 Apple Vision Pro 的控制中心功能](https://www.iphonetaiwan.org/2024/03/control-center-on-apple-vision-pro.html)|
+|2024-03-13 08:59:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】與他人分享您的 Apple Vision Pro，並保有隱私](https://www.iphonetaiwan.org/2024/03/how-to-share-apple-vision-pro.html)|
+|2024-03-13 08:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】在 iPhone 和 iPad 上如何發送語音訊息](https://www.iphonetaiwan.org/2024/03/send-audio-messages-iphone-ipad.html)|
 |2024-03-13 13:11:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[去年圣诞节3名美籍男子在澎湖被打，台媒近曝其身份疑为美军特种部队教官](https://dig.chouti.com/link/41803433)|
 |2024-03-13 14:03:07|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国五大工会组织要求对中国造船业发起“301调查”](https://dig.chouti.com/link/41803797)|
 |2024-03-13 04:02:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【掌握美国人生物信息？药明康德正在闯关】从今年1月开始，美国《生物安全法案》就像一把利剑，悬在药明康德头上。根据该法案，美国企业与药明康德合作将受限制，而美国又是药明康德最重要的市场，其客户大多来自美国。这期间，药明康德发布多则公告，表示公司现有各类业务不会收集人类基因组数据，不会构成国家安全风险。](https://dig.chouti.com/link/41797944)|
