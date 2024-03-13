@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-12）
+﻿# 每日资讯（2024-03-13）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-13 00:38:16|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果首次允许欧盟用户从网站安装应用/雷军称对汽车价格战做好准备/微博上线热搜投诉入口](https://www.ifanr.com/1577771?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-12 14:18:36|[Tinyfool的个人网站](https://codechina.org/feed/)|[Google前工程师窃取Google人工智能相关技术机密被抓，可能被判10年甚至更久](https://codechina.org/2024/03/google/)|
 |2024-03-12 13:57:31|[Tinyfool的个人网站](https://codechina.org/feed/)|[美国最顶尖的人工智能专家1/3是中国人，如果他们回国，立即抹平中美之间的技术差距](https://codechina.org/2024/03/ai-china/)|
 |2024-03-12 15:57:20|[机核](https://www.gcores.com/rss)|[为什么《沙丘2》不只是一个中世纪的故事（上）](https://www.gcores.com/articles/178754)|
