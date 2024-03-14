@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-03-13）
+﻿# 每日资讯（2024-03-14）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-14 00:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美众议院通过禁止TikTok在美运营或强制其出售的提案](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%A6%81%E6%AD%A2tiktok%E5%9C%A8%E7%BE%8E%E8%BF%90%E8%90%A5%E6%88%96%E5%BC%BA%E5%88%B6%E5%87%BA%E5%94%AE%E7%9A%84%E6%8F%90%E6%A1%88-7cd87aa7)|
+|2024-03-14 00:50:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac 使用者必學！9 種關閉 Mac 應用程式的方式](https://applefans.today/2024-03-how-to-quit-app-on-mac/)|
 |2024-03-13 10:30:00|[太隐](https://wangyurui.com/feed.xml)|[1768：“叫魂”妖术大恐慌](https://wangyurui.com/posts/jiao-hun-an-2795e406)|
 |2024-03-13 12:39:37|[煎蛋](http://jandan.net/feed)|[美国将对波音公司展开刑事调查](http://jandan.net/p/115894)|
 |2024-03-13 13:20:22|[爱范儿](https://www.ifanr.com/feed)|[MEGA 风波后，理想怎么又让老车主破防了](https://www.ifanr.com/1577906?utm_source=rss&utm_medium=rss&utm_campaign=)|
