@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-14 04:07:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[LINE Pay 秒開秒結帳！五個技巧 LINE Pay 付款超快超順手](https://applefans.today/2024-03-line-pay/)|
+|2024-03-14 03:54:55|[机核](https://www.gcores.com/rss)|[剧场版动画《蓦然回首》公布配音演员，6月28日于日本上映](https://www.gcores.com/articles/178896)|
+|2024-03-14 03:00:00|[机核](https://www.gcores.com/rss)|[在手游《歧路旅人：大陆的霸者》中，我看到了经典日式王道RPG的坚持](https://www.gcores.com/articles/178865)|
+|2024-03-14 01:36:20|[机核](https://www.gcores.com/rss)|[《战地风云2042》公布第7赛季“转折点”预告，免费试玩将于本月21日开启](https://www.gcores.com/articles/178891)|
+|2024-03-14 01:29:08|[机核](https://www.gcores.com/rss)|[《小马宝莉：西风高地谜团》公布首个预告，将于5月17日发售](https://www.gcores.com/articles/178890)|
+|2024-03-14 01:20:02|[机核](https://www.gcores.com/rss)|[经典横版银河恶魔城《米拉与灯灵传奇》将于年内发售](https://www.gcores.com/articles/178889)|
+|2024-03-14 01:13:55|[机核](https://www.gcores.com/rss)|[让疯狂统治世界:惊悚游戏《噩梦初醒》国区特价81元起](https://www.gcores.com/articles/178888)|
+|2024-03-14 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Sora 团队罕见专访：短期内不会向公众开放，目前还不是一个产品](https://36kr.com/p/2687679612169605)|
+|2024-03-14 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[浙江夫妇造出一个IPO](https://36kr.com/p/2687679219199623)|
+|2024-03-14 04:03:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[全球首个AI程序员来了，超越GPT-4震撼硅谷，但取代码农为之尚早](https://36kr.com/p/2687943738453377)|
+|2024-03-14 04:15:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[AI 手機是什麼？是全新智慧應用？還是舊功能重新包裝](https://www.iphonetaiwan.org/2024/03/ai-smart-phone.html)|
 |2024-03-14 00:35:00|[华尔街日报](https://cn.wsj.com/zh-hans/rss)|[美众议院通过禁止TikTok在美运营或强制其出售的提案](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%A6%81%E6%AD%A2tiktok%E5%9C%A8%E7%BE%8E%E8%BF%90%E8%90%A5%E6%88%96%E5%BC%BA%E5%88%B6%E5%87%BA%E5%94%AE%E7%9A%84%E6%8F%90%E6%A1%88-7cd87aa7)|
 |2024-03-14 00:50:04|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Mac 使用者必學！9 種關閉 Mac 應用程式的方式](https://applefans.today/2024-03-how-to-quit-app-on-mac/)|
 |2024-03-13 10:30:00|[太隐](https://wangyurui.com/feed.xml)|[1768：“叫魂”妖术大恐慌](https://wangyurui.com/posts/jiao-hun-an-2795e406)|
