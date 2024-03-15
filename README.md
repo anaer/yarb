@@ -2,6 +2,20 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-15 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[TikTok叒遭封禁危机：周受资被气笑100次后，狼真的来了吗？](https://36kr.com/p/2690048866135426)|
+|2024-03-15 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Meta公布Llama 3训练集群细节，储备60万块H100迎接AGI](https://36kr.com/p/2689307678240384)|
+|2024-03-15 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI机器人亮相，大模型有了“肉身”，英伟达微软都有投资](https://36kr.com/p/2689187105746307)|
+|2024-03-15 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪丨腾讯接手字节跳动两个游戏工作室；李佳琦董宇辉等17名主播被点名；ChatGPT有身体了，可以和人类进行正常的完整对话](https://36kr.com/p/2690070390959493)|
+|2024-03-15 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[4万亿晶体管5nm制程，全球最快AI芯片碾压H100，单机可训24万亿参数LLM，Llama 70B一天搞定](https://36kr.com/p/2689307871915400)|
+|2024-03-15 04:03:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[马斯克的星舰又炸了，但这是最成功的一次](https://36kr.com/p/2689606492761733)|
+|2024-03-15 03:31:38|[机核](https://www.gcores.com/rss)|[Netflix版电影《城市猎人》预告公开，4月25日上线](https://www.gcores.com/articles/178958)|
+|2024-03-15 03:00:00|[机核](https://www.gcores.com/rss)|[《高达破坏者4》日本限定封测体验：更自由的搭配和更爽快的战斗](https://www.gcores.com/articles/178940)|
+|2024-03-15 02:30:47|[机核](https://www.gcores.com/rss)|[《最终幻想14》Xbox主机套装公布，参与活动即有机会获得](https://www.gcores.com/articles/178948)|
+|2024-03-15 02:09:27|[机核](https://www.gcores.com/rss)|[回应期待《星之海》全新中文重置正式上线，春促新史低同步开启中。](https://www.gcores.com/articles/178946)|
+|2024-03-15 01:46:06|[机核](https://www.gcores.com/rss)|[Epic喜加二：《杀出重围：人类分裂》及《The Bridge》免费领](https://www.gcores.com/articles/178945)|
+|2024-03-15 01:31:30|[机核](https://www.gcores.com/rss)|[在宁静氛围中提升专注力，任务管理工具《Chill Pulse》上架Steam](https://www.gcores.com/articles/178944)|
+|2024-03-15 01:31:09|[机核](https://www.gcores.com/rss)|[Steam及Epic游戏商城现已开启春季大促，数千款游戏参与促销](https://www.gcores.com/articles/178943)|
+|2024-03-15 01:12:35|[机核](https://www.gcores.com/rss)|[伊恩·麦柯肖恩解说：《龙之信条2》公布世界观预热预告](https://www.gcores.com/articles/178942)|
 |2024-03-15 00:13:02|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)|
 |2024-03-15 00:53:06|[爱范儿](https://www.ifanr.com/feed)|[早报 李佳琦董宇辉等 17 名主播被点名/SpaceX 星舰第三次试飞结束/阿里 11 款应用将推鸿蒙原生版](https://www.ifanr.com/1578059?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-14 14:40:26|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Python精选300题](https://xugaoxiang.com/2024/03/14/python-quiz-300/)|
