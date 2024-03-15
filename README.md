@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-03-14）
+﻿# 每日资讯（2024-03-15）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-15 00:13:02|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)|
+|2024-03-15 00:53:06|[爱范儿](https://www.ifanr.com/feed)|[早报 李佳琦董宇辉等 17 名主播被点名/SpaceX 星舰第三次试飞结束/阿里 11 款应用将推鸿蒙原生版](https://www.ifanr.com/1578059?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-14 14:40:26|[迷途小书童的Note](https://xugaoxiang.com/feed)|[Python精选300题](https://xugaoxiang.com/2024/03/14/python-quiz-300/)|
 |2024-03-14 14:37:52|[迷途小书童的Note](https://xugaoxiang.com/feed)|[ubuntu 22.04安装Docker](https://xugaoxiang.com/2024/03/14/ubuntu-install-docker/)|
 |2024-03-14 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[真实有层次，探索影像新高度｜小米 14 Ultra 深度使用感受](https://www.photoworld.com.cn/post/176200)|
