@@ -2,6 +2,10 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-15 04:59:12|[摄影世界](https://feedx.net/rss/photoworld.xml)|[山在那里，每一天都不一样——携富士 GFX 探索风光摄影新境界](https://www.photoworld.com.cn/post/176274)|
+|2024-03-15 10:35:38|[爱范儿](https://www.ifanr.com/feed)|[紫色之美，至此更显其韵](https://www.ifanr.com/1578066?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-15 08:26:13|[爱范儿](https://www.ifanr.com/feed)|[「7」系混战又来新玩家，15.96 万起，东风新品牌奕派首款轿跑 eπ007 上市](https://www.ifanr.com/1578094?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-15 09:57:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Google Chrome 強化Mac和iOS即時URL保護：提升網路安全](https://www.iphonetaiwan.org/2024/03/google-chrome-enhanced-security.html)|
 |2024-03-15 07:46:24|[机核](https://www.gcores.com/rss)|[动画《尼尔：机械纪元Ver1.1a》新周边，眼罩上市](https://www.gcores.com/articles/178969)|
 |2024-03-15 07:40:10|[机核](https://www.gcores.com/rss)|[Epic及V社内部邮件曝光：Epic痛骂Steam抽成，V社员工神回复](https://www.gcores.com/articles/178968)|
 |2024-03-15 07:01:29|[机核](https://www.gcores.com/rss)|[探索全新地图，《巨兽战争：狂暴版》公布新地图预告](https://www.gcores.com/videos/178967)|
