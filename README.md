@@ -2,6 +2,22 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-16 09:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[半月形文化带：理解中国民族及历史脉络的一把钥匙——童恩正“半月形文化带”的学术意义与价值](https://dig.chouti.com/link/41832243)|
+|2024-03-16 10:02:22|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[上门按摩猫腻调查：健康证能花钱买，有技师称可提供过夜项目](https://dig.chouti.com/link/41832479)|
+|2024-03-16 10:08:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【网友曝光某单词书联想记忆法低俗令人不适，出版公司：下架】between（在…之间）联想记忆方法为“将笔夹在双臀之间”，care（关心）为“因为关心才K（打）儿子”，December（十二月）为“这个‘大三八’在12月这么冷的天还穿迷你裙”，butter（黄油）为“扒她的面罩，用奶油抹她”，anger（生气）为“阉割让他很生气”…](https://dig.chouti.com/link/41832568)|
+|2024-03-16 14:10:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[变换角度就会“眨眼睛”的动态裙子，走在路上的吸睛率100%……](https://dig.chouti.com/link/41834342)|
+|2024-03-16 12:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[如何避免反乌托邦思维](https://dig.chouti.com/link/41833191)|
+|2024-03-16 08:12:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[消息人士透露：哈马斯与胡塞武装高级官员“罕见”会面](https://dig.chouti.com/link/41831832)|
+|2024-03-16 03:02:53|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[Netflix最新奇幻巨制《少女斗恶龙》：权利的游戏原班人马，少女版驯龙高手！](https://www.ximalaya.com/sound/714701690)|
+|2024-03-16 02:11:34|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《阿黛拉的非凡冒险》：外国摸金校尉勇闯金字塔，复活1亿年前神秘生物！](https://www.ximalaya.com/sound/714689998)|
+|2024-03-16 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[职场人的AI必修课：16个AI应用方法，助力职场提升](https://36kr.com/p/2615265935005833)|
+|2024-03-16 16:05:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[命悬一线的钟薛高：代工厂停产，经销商等货，员工讨薪](https://36kr.com/p/2690857294900612)|
+|2024-03-16 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一瓶5.86万，听花酒什么来头？](https://36kr.com/p/2691802744286592)|
+|2024-03-16 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI再陷巨大争议？Sora训练数据被质疑非法，CTO采访疯狂翻车](https://36kr.com/p/2691805591514753)|
+|2024-03-16 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Meta传统艺能内斗，在大模型上演了](https://36kr.com/p/2421529992933636)|
+|2024-03-16 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[315点名的宝马，与BBA的焦虑](https://36kr.com/p/2691014566744704)|
+|2024-03-16 16:05:33|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[70后姐妹上海创业，要IPO了](https://36kr.com/p/2691772322836100)|
+|2024-03-16 14:35:46|[煎蛋](http://jandan.net/feed)|[如果玻姆在玻恩之前诞生，玻尔还会出现么？](http://jandan.net/p/115936)|
 |2024-03-16 06:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何使用第二代 AirPods Pro 對話感知功能](https://www.iphonetaiwan.org/2024/03/airpods-pro-conversation-awareness.html)|
 |2024-03-16 04:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Notion Calendar 行事曆 - 用 iPhone 團隊協作提高工作效率](https://www.iphonetaiwan.org/2024/03/work-efficiency-with-notion-calendar.html)|
 |2024-03-16 01:37:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【克罗地亚总统宣布竞选总理职务】总统竞选总理在克罗地亚历史上还未有过先例。米拉诺维奇这一举动引发了巨大争议。克罗地亚宪法一位专家表示，克罗地亚宪法法院应该明确告诉米拉诺维奇，他只有辞去总统职务才能竞选总理。米拉诺维奇于2020年1月当选克罗地亚总统。此前，他曾于2011年12月至2016年1月担任克罗地亚总理职务。](https://dig.chouti.com/link/41828960)|
