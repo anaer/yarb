@@ -2,6 +2,8 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-16 06:10:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何使用第二代 AirPods Pro 對話感知功能](https://www.iphonetaiwan.org/2024/03/airpods-pro-conversation-awareness.html)|
+|2024-03-16 04:22:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Notion Calendar 行事曆 - 用 iPhone 團隊協作提高工作效率](https://www.iphonetaiwan.org/2024/03/work-efficiency-with-notion-calendar.html)|
 |2024-03-16 01:37:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【克罗地亚总统宣布竞选总理职务】总统竞选总理在克罗地亚历史上还未有过先例。米拉诺维奇这一举动引发了巨大争议。克罗地亚宪法一位专家表示，克罗地亚宪法法院应该明确告诉米拉诺维奇，他只有辞去总统职务才能竞选总理。米拉诺维奇于2020年1月当选克罗地亚总统。此前，他曾于2011年12月至2016年1月担任克罗地亚总理职务。](https://dig.chouti.com/link/41828960)|
 |2024-03-16 03:02:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[不满奥迪车校内鸣笛，武大学生与游客互殴？校方：正在处理](https://dig.chouti.com/link/41829627)|
 |2024-03-16 05:09:55|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马来西亚总理当面反驳德国总理：你不能片面关注一个问题，而无视以色列60年来的暴行，我们的人性呢？为何如此虚伪？](https://dig.chouti.com/link/41830543)|
