@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-16）
+﻿# 每日资讯（2024-03-17）
 
 |时间|来源|标题|
 |---|---|---|
@@ -98,3 +98,4 @@
 |2024-03-16 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[薛宝钗、史湘云和林黛玉都是表妹，为何贾琏却只关心黛玉一人？](https://www.zhihu.com/question/645758651)|
 |2024-03-16 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「萝卜大叔」讨薪十年至今未果，称已联系到老板，但其拒绝见面，欠薪老板「想告哪告哪」，劳动者该如何维权？](https://www.zhihu.com/question/648650331)|
 |2024-03-16 04:01:56|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[医生段涛称让病人排队是医院的耻辱，你遇到过就医排长队吗？如何更好地解决这一问题？](https://www.zhihu.com/question/648654618)|
+|2024-03-17 00:00:00|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 沙龙：Towards Modern Distro](https://tuna.moe/event/2024/towards-modern-distro/)|
