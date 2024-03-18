@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-17）
+﻿# 每日资讯（2024-03-18）
 
 |时间|来源|标题|
 |---|---|---|
@@ -47,6 +47,8 @@
 |2024-03-17 16:05:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[M26 之后，灰原哀会不会已经发现了柯南对她不一般的感情？](https://www.zhihu.com/question/648847189)|
 |2024-03-17 16:05:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[浙江一 5 岁女孩从小有吃自己头发习惯，确诊「长发公主综合征」，如何从医学角度解读该疾病？该注意什么？](https://www.zhihu.com/question/648973676)|
 |2024-03-17 13:42:00|[](https://blog.zoomquiet.io/feeds/all.atom.xml)|[世界梦续/旅程](https://blog.zoomquiet.io/240317-wdp0.html)|
+|2024-03-18 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Volatile Type Qualifier In C/C++](https://leimao.github.io/blog/C-CPP-Volatile-Type-Qualifier/)|
+|2024-03-18 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[电子斗蛐蛐](https://leimao.github.io/essay/%E7%94%B5%E5%AD%90%E6%96%97%E8%9B%90%E8%9B%90/)|
 |2024-03-17 10:55:15|[华山感染](https://feedpress.me/wx-hsinfect)|[感染期刊CMI发表朱利平教授、张文宏教授团队研究，为非HIV相关隐球菌脑膜炎提供新的预后判断工具](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502099&idx=2&sn=9b0a2bd6ef645b7b2c81d10cf5cd85ab)|
 |2024-03-17 10:55:15|[华山感染](https://feedpress.me/wx-hsinfect)|[《中华传染病杂志》综述 结核病隐匿传播的风险：亚临床型结核病](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502099&idx=3&sn=29db6008581500c3b42495c58ce4799b)|
 |2024-03-17 10:55:14|[华山感染](https://feedpress.me/wx-hsinfect)|[终止结核流行，张文宏魏晓林教授《柳叶刀-感染病》呼吁关注亚临床结核病隐藏威胁](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502099&idx=1&sn=c665d5a168b9530124c2148870198a24)|
