@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-18 03:28:37|[爱范儿](https://www.ifanr.com/feed)|[被理想「背刺」的老 L7 车主，看完新 L7/8/9 之后，决定原谅理想](https://www.ifanr.com/1578175?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-18 00:20:09|[爱范儿](https://www.ifanr.com/feed)|[早报｜新款 AirPods 或有主动降噪版本/理想 MEGA 真实订单量曝光/余承东：华为智能车业务今年实现盈利](https://www.ifanr.com/1578276?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-18 00:03:09|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Reddit的IPO据悉获得4到5倍超额认购，](https://dig.chouti.com/link/41844437)|
+|2024-03-18 02:02:11|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[邯郸被害男孩父亲怀疑另有帮凶：一个成年人要挖出一个一两米深的坑，也需要五六个小时，3名未成年人怎么做到的？](https://dig.chouti.com/link/41845262)|
+|2024-03-18 02:02:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【《国王的演讲》编剧大卫·塞德勒去世，享年86岁】其经纪人透露他是于当地时间3月16日在新西兰进行钓鱼旅行期间离世：“大卫当时在全世界他最喜欢的地方——新西兰，从事最能给予他安宁的活动——飞钓。如果他有机会 撰写自己的死亡 ，他的剧本也完全会是这样写的。”](https://dig.chouti.com/link/41845358)|
+|2024-03-18 00:03:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探11城楼市“小阳春”：网红盘重拾热闹景象，热度再提升有待政策加码](https://dig.chouti.com/link/41844416)|
+|2024-03-18 02:05:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[两名金门人员出海海钓失联，被大陆船只救起](https://dig.chouti.com/link/41845491)|
 |2024-03-17 15:00:00|[机核](https://www.gcores.com/rss)|[春天到了，种点蒜吧，机组闲聊Vol.29](https://www.gcores.com/radios/178979)|
 |2024-03-17 12:00:00|[机核](https://www.gcores.com/rss)|[拍「游戏的人」系列宣传片是怎样一种快乐的体验？](https://www.gcores.com/videos/178985)|
 |2024-03-17 10:25:13|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#294：《神界：原罪》](https://www.gcores.com/articles/179039)|
