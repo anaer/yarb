@@ -2,6 +2,30 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-18 16:28:13|[CatCoding](https://catcoding.me/atom.xml)|[从明天起，做一个 Rust 程序员](http://catcoding.me/p/rust-bootcamp/)|
+|2024-03-18 11:27:34|[机核](https://www.gcores.com/rss)|[《七日杀》团队新作：4V1不对称对抗游戏《七日血月》上线Steam商城页](https://www.gcores.com/articles/179084)|
+|2024-03-18 10:00:00|[机核](https://www.gcores.com/rss)|[The CRPG Book 全新译本 《CRPG 通鉴》#295：《旭丽玛诸神》](https://www.gcores.com/articles/179040)|
+|2024-03-18 10:00:00|[机核](https://www.gcores.com/rss)|[JOYTOY《荷鲁斯大叛乱》新品公布：战帅参战](https://www.gcores.com/articles/179008)|
+|2024-03-18 09:00:00|[机核](https://www.gcores.com/rss)|[两头靠不上，所以电影《沙丘2》的改编令人恼火，录音笔 VOL.161](https://www.gcores.com/radios/179069)|
+|2024-03-18 07:55:47|[机核](https://www.gcores.com/rss)|[B站公布2024年视频创作激励年度计划，视频基础激励设置月收入上限](https://www.gcores.com/articles/179078)|
+|2024-03-18 07:10:38|[机核](https://www.gcores.com/rss)|[《绝密：法国 ‘44年》：弹指间樯橹灰飞烟灭](https://www.gcores.com/articles/179074)|
+|2024-03-18 07:09:35|[机核](https://www.gcores.com/rss)|[“Fami通・电击游戏大奖”于昨日举办，《塞尔达传说》斩获年度游戏](https://www.gcores.com/articles/179072)|
+|2024-03-18 06:37:52|[机核](https://www.gcores.com/rss)|[火星哥因赌博欠债5000万美元，签订多年的驻场演出协议](https://www.gcores.com/articles/179071)|
+|2024-03-18 06:34:58|[机核](https://www.gcores.com/rss)|[3D“合成大西瓜”！益智游戏《水果山》现已登陆Steam](https://www.gcores.com/articles/179070)|
+|2024-03-18 06:16:33|[机核](https://www.gcores.com/rss)|[索尼暂停 PSVR2 生产，未售出库存堆积如山](https://www.gcores.com/articles/179067)|
+|2024-03-18 05:17:58|[机核](https://www.gcores.com/rss)|[《洛奇英雄传 反抗命运》Pre-Alpha测试演示视频放出](https://www.gcores.com/articles/179066)|
+|2024-03-18 05:00:00|[机核](https://www.gcores.com/rss)|[NECA《最后的浪人》卡莱体验](https://www.gcores.com/videos/179041)|
+|2024-03-18 04:31:45|[机核](https://www.gcores.com/rss)|[曾为多部《传说》系列做过人设：画师猪股睦美去世](https://www.gcores.com/articles/179065)|
+|2024-03-18 03:58:34|[机核](https://www.gcores.com/rss)|[鸟山明原作，动画剧集《SAND LAND: THE SERIES》预告片公开](https://www.gcores.com/articles/179064)|
+|2024-03-18 03:32:41|[机核](https://www.gcores.com/rss)|[怪盗团发来预告！《女神异闻录：夜幕魅影》4月12日全平台公测](https://www.gcores.com/articles/179061)|
+|2024-03-18 03:20:32|[机核](https://www.gcores.com/rss)|[时隔25年的新作《饿狼传说：狼之城》公开新的必杀技及角色介绍PV](https://www.gcores.com/articles/179058)|
+|2024-03-18 03:00:00|[机核](https://www.gcores.com/rss)|[快乐上新！「游戏的人」系列今晚正式发售](https://www.gcores.com/articles/178804)|
+|2024-03-18 02:19:14|[机核](https://www.gcores.com/rss)|[ALGS常规赛疑似被黑客攻击，职业选手被强制开挂](https://www.gcores.com/articles/179056)|
+|2024-03-18 02:04:28|[机核](https://www.gcores.com/rss)|[《地平线 西之绝境》国行版将于3月21日发售 标准版游戏售价299元](https://www.gcores.com/articles/179057)|
+|2024-03-18 02:00:00|[机核](https://www.gcores.com/rss)|[2023兔年回顾](https://www.gcores.com/articles/179034)|
+|2024-03-18 02:42:00|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/11](https://weekly.pychina.org/pyrecap/pyrw-2411.html)|
+|2024-03-18 09:04:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 開始！蘋果「Apple ID」更名「Apple Account」](https://www.iphonetaiwan.org/2024/03/apple-id-renamed-apple-account.html)|
+|2024-03-18 08:39:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[傳 AirPods 4 於 5 月開始生產：預計 9 或 10月發布](https://www.iphonetaiwan.org/2024/03/apple-airpods-4-updates.html)|
 |2024-03-18 07:02:45|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【TVB演员陈狄克去世，终年76岁】陈狄克日前在家中感到身体不适，随后就被送院治疗，3月15日去世，目前家人正在料理后事。陈狄克生于1947年10月4日，早年在邵氏公司担任龙虎武师（替身演员），张彻导演的《恶客》，洪金宝主演的 《肥龙过江》，楚原导演的《倚天屠龙记》里都有他的身影。](https://dig.chouti.com/link/41848465)|
 |2024-03-18 02:02:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“俄罗斯人不认输”：普京如何打造战时经济？](https://dig.chouti.com/link/41845211)|
 |2024-03-18 06:52:13|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[彭博：据消息人士称，苹果正在与Google进行讨论，准备将Google的Gemini模型接入到iPhone，为iPhone 提供人工智能的技术支持。两家公司正在积极谈判，以使苹果获得Google生成式人工智能模型Gemini的授权](https://dig.chouti.com/link/41848130)|
