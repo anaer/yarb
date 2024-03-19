@@ -2,6 +2,24 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-19 09:14:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[不用信用卡也能分期！立即申辦「 Fula 付啦」 享受先買後付 專屬優惠好禮](https://applefans.today/2024-03-fula-money101-special-event/)|
+|2024-03-19 04:17:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞蘋果正與 Google 洽談 Gemini 人工智慧引擎的合作](https://applefans.today/2024-03-apple-google-integrate-geminis-into-the-iphone/)|
+|2024-03-19 10:30:30|[太隐](https://wangyurui.com/feed.xml)|[静之道](https://wangyurui.com/posts/jing-zhi-dao-142f09d9)|
+|2024-03-19 05:02:15|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[男子打羽毛球被流浪猫绊倒致伤残，投喂者判赔24万元：构成饲养关系](https://dig.chouti.com/link/41858196)|
+|2024-03-19 06:09:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【互联网人租房记：有人打怪升级，有人还在维权】一名曾在香港留学的打工人表示，他在香港读本科时租了3年的房，那里寸土寸金，住过没有窗户的客厅，也住过房间里蟑螂会飞的唐楼，甚至还有一次偶然在凶宅网站上查到自己住的房子。因而对租房预期并不高，能在北京拥有一块8平米的独立空间，已经心满意足。](https://dig.chouti.com/link/41858788)|
+|2024-03-19 08:12:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[比特币延续跌势，灰度基金单日创纪录“失血”逾6亿美元](https://dig.chouti.com/link/41860008)|
+|2024-03-19 11:09:53|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[香港特区立法会全票通过《维护国家安全条例》（香港基本法第23条），3月23日正式刊宪生效](https://dig.chouti.com/link/41861765)|
+|2024-03-19 08:13:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[雄鹿头顶挂着——死去对手的头颅](https://dig.chouti.com/link/41860097)|
+|2024-03-19 10:09:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[大S起诉汪小菲案今日开庭，汪小菲说自己为家庭总共花了3.6亿元，离婚后一年支付的家用就有4993万……但大S用他信用卡绑定奢侈品网站，不断刷卡买高价奢侈品……甚至在离婚前四个月，大S还刷他的卡买礼物寄到韩国，花了1200多万……](https://dig.chouti.com/link/41861270)|
+|2024-03-19 08:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[作物的故事丨苜蓿随天马](https://dig.chouti.com/link/41860111)|
+|2024-03-19 07:11:05|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[防不胜防！三名俄军士兵庆祝刚刚躲过了一场自杀无人机的袭击，但他们没注意到乌军侦察无人机还在附近空中监视，该无人机很快将位置传递给后方无人机操作员，派遣了一架FPV 自杀式无人机进行追杀](https://dig.chouti.com/link/41859379)|
+|2024-03-19 08:07:38|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[实探邯郸初中生遇害案现场，校长、班主任：4人经常一起玩，未发现霸凌现象](https://dig.chouti.com/link/41859983)|
+|2024-03-19 07:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[因一首诗被骂成成语：“司空见惯”里的司空到底是谁？](https://dig.chouti.com/link/41859490)|
+|2024-03-19 06:09:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[人是3d的，头发是2d的](https://dig.chouti.com/link/41858784)|
+|2024-03-19 06:09:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【白宫：哈马斯三号人物被以色列杀死】美国总统国家安全事务助理杰克·沙利文在介绍美国总统拜登和以色列总理内塔尼亚胡的通话内容时说：“哈马斯三号人物马尔万·伊萨上周在以色列的一次行动中身亡。”伊萨是伊兹丁·卡桑旅领导人穆罕默德·戴夫的副手。](https://dig.chouti.com/link/41858789)|
+|2024-03-19 05:08:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“嗨，社会主义，我又来啦！”](https://dig.chouti.com/link/41858304)|
+|2024-03-19 05:01:54|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[奥巴马突然一身黑色着装现身唐宁街，网友猜测：与美国大选或英国王室传闻有关？](https://dig.chouti.com/link/41858115)|
+|2024-03-19 15:36:38|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[RunAsDate 1.41，一款可修改软件的系统时间，实现软“破解”](https://masuit.com/2188)|
 |2024-03-19 08:12:59|[机核](https://www.gcores.com/rss)|[《超级密特罗德》发售30周年纪念，奠定系列基础的杰作](https://www.gcores.com/articles/179129)|
 |2024-03-19 07:34:27|[机核](https://www.gcores.com/rss)|[《月球叛军2：烙印之人》正式预告公布](https://www.gcores.com/articles/179128)|
 |2024-03-19 07:23:26|[机核](https://www.gcores.com/rss)|[《崩坏：星穹铁道》新动画短片：「永劫轮舞」](https://www.gcores.com/articles/179127)|
