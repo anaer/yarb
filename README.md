@@ -2,6 +2,35 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-19 10:09:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[胡润报告：中国拥有亿元资产的家庭13.3万户，拥有千万资产的家庭达208万户，富裕家庭门槛600万](https://dig.chouti.com/link/41861269)|
+|2024-03-19 10:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[「史上最淫荡国产剧」，已经整整15年——回看国产小三变迁史，总是逃不开《蜗居》](https://dig.chouti.com/link/41861302)|
+|2024-03-19 11:02:29|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【武侠小说家“金庸”之外，查良镛的多维人生】除了武侠泰斗这一身份之外，金庸还是《明报》创办人，活跃于香港政界，出任《基本法》起草委员会委员。从原子弹问题到六七暴动，金庸在论战中身陷舆论漩涡，甚至被邮寄炸弹，不得不逃奔南洋。他所创造的武侠天地中也充满自身波折的映射与时事政治的寓言。](https://dig.chouti.com/link/41861530)|
+|2024-03-19 13:02:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[马斯克第3次回应吸食"消遣性毒品"氯胺酮（K粉），这个抑郁症“神药”靠谱吗？](https://dig.chouti.com/link/41862647)|
+|2024-03-19 14:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[中植系的员工开始“退赃”？有人要吐出500多万](https://dig.chouti.com/link/41862950)|
+|2024-03-19 12:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【PrEP：对抗HIV流行的关键武器？】暴露前预防（PrEP）方法的核心思想简单而直接：在存在感染风险的情况下，通过服用抗逆转录病毒药物来预防感染。但随着PrEP的发展，我们不禁要问：这种方法是否真的有效？它能否成为全球范围内对抗HIV流行的关键武器？](https://dig.chouti.com/link/41862432)|
+|2024-03-19 14:01:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[越南检方要求判处涉贪腐案女首富死刑](https://dig.chouti.com/link/41863058)|
+|2024-03-19 14:13:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[欧洲宗教分布图：藏传佛教一小块区域特别醒目，那是卡尔梅克人，就是没有东归的卫拉特蒙古人](https://dig.chouti.com/link/41863353)|
+|2024-03-19 14:12:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【这真是17岁！你敢信？？？】喀麦隆中场小将杜阿拉年龄造假的嫌疑已被洗清，他的年龄被证实确实是17岁……](https://dig.chouti.com/link/41863271)|
+|2024-03-19 13:10:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[何赛飞指着代拍骂，把代拍骂跑了……好像拿个魔杖！](https://dig.chouti.com/link/41862787)|
+|2024-03-19 11:09:52|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[蜥蜴是不是都喜欢比剪刀手！！？？](https://dig.chouti.com/link/41861764)|
+|2024-03-19 11:09:57|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【前阿森纳球员弗拉米尼公司市值已超300亿欧】弗拉米尼现在是一家生物化学公司的老板。目前，弗拉米尼的公司价值超过300亿欧元，比世界上任何足球俱乐部的财富都要多。此外，根据《福布斯》杂志，他的财富大约是C罗的60倍。](https://dig.chouti.com/link/41861783)|
+|2024-03-19 12:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在相亲中介花一万八，她们的“脱单历险记”](https://dig.chouti.com/link/41862268)|
+|2024-03-19 12:11:31|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【林书豪陷禁药风波，被禁赛5场罚款15万新台币】P+联赛球队新北国王官方发布声明，承认林书豪在接受修复足底筋膜伤势过程中，误用违反WADA（世界反禁药组织）规定的静脉雷射 ILIB 疗法，且没有取得治疗用途豁免权 TUE 。林书豪最高面临禁赛一年、永不录用或被罚款最高新台币50万元（约11万元人民币）的处罚。](https://dig.chouti.com/link/41862270)|
+|2024-03-19 12:12:12|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[ ˘ω˘ ](https://dig.chouti.com/link/41862361)|
+|2024-03-19 12:11:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[外网说凯特王妃露脸的视频是几个月前拍的……视频中出现的餐饮区小木棚是去年圣诞期间临时搭建的，现已拆除。也有网友质疑威廉身边的人并非凯特本尊，因为长相和身高都不太对。](https://dig.chouti.com/link/41862285)|
+|2024-03-19 06:01:27|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[凯尔特人有机会问鼎总冠军吗？他们的篮球战术竟来自瓜迪奥拉](https://dig.chouti.com/link/41858545)|
+|2024-03-19 04:20:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【重生之我如何投出爆款短剧】投流几乎是短剧面世的唯一途径。从剧本撰写，到拍摄剪辑，正式上线，投流手们处在整个短剧生产链条的最末端，是最后决定一部剧生死的人。他们被寄予厚望，期待能够像投飞镖一样，将切片们轻巧、准确地投到目标人群的心坎上。他们挥金如土，仅仅在抖音大盘，一天的广告投流消耗就有5000万左右。](https://dig.chouti.com/link/41857882)|
+|2024-03-19 04:32:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[你涂我的鸦，我就拿你的鸭当logo！](https://dig.chouti.com/link/41857915)|
+|2024-03-19 15:00:00|[机核](https://www.gcores.com/rss)|[三部电影 Vol.12 “沙丘”传奇：科幻圣典与它的影改之路](https://www.gcores.com/radios/178980)|
+|2024-03-19 13:59:47|[机核](https://www.gcores.com/rss)|[《暗黑破坏神4》：XGP三月下旬新增游戏阵容揭晓](https://www.gcores.com/articles/179147)|
+|2024-03-19 13:21:18|[机核](https://www.gcores.com/rss)|[重制版稳步开发中！Konami公开《合金装备》特别节目](https://www.gcores.com/articles/179144)|
+|2024-03-19 10:55:24|[机核](https://www.gcores.com/rss)|[玩家为什么热爱战斗系统？战斗系统的统一理论尝试](https://www.gcores.com/articles/179139)|
+|2024-03-19 10:30:00|[机核](https://www.gcores.com/rss)|[DND龙枪跑团第八集：大结局（后篇）后日谈](https://www.gcores.com/videos/179087)|
+|2024-03-19 10:01:14|[机核](https://www.gcores.com/rss)|[想用《银河竞骰》做桌游推新？只需打通这任督二脉](https://www.gcores.com/articles/179136)|
+|2024-03-19 09:31:43|[机核](https://www.gcores.com/rss)|[SEIKO《怪物猎人》联名腕表，现已开定](https://www.gcores.com/articles/179135)|
+|2024-03-19 09:30:00|[机核](https://www.gcores.com/rss)|[《艾尔登法环》剧情故事漫画第2回——神人](https://www.gcores.com/articles/179114)|
+|2024-03-19 09:00:00|[机核](https://www.gcores.com/rss)|[录节目之前聊两句，录音笔 VOL.162](https://www.gcores.com/radios/179131)|
+|2024-03-19 01:19:27|[Shiroha白羽的博客](https://hukeqing.github.io/rss.xml)|[Codeforces Round 920 Div. 3 ](https://blog.mauve.icu/2024/03/19/acm/codeforces/CodeforcesRound920/)|
 |2024-03-19 14:53:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨Gemini 进 iPhone；盒马侯毅退休；Temu 限制高价店铺](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513764&idx=3&sn=36678521f46c2136fe7794de13b8dd40)|
 |2024-03-19 14:53:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[抖音本地生活：用内容创造更多消费](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513764&idx=2&sn=90dadb9cd1de8c39168716cbc2dde1c6)|
 |2024-03-19 14:53:49|[晚点LatePost](https://feedpress.me/wx-postlate)|[蚂蚁大改组：新任命一名总裁，三项业务成为独立公司](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513764&idx=1&sn=5906d418f492ea8e4afc5ec67ad50b12)|
