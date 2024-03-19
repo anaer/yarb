@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-19 14:53:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨Gemini 进 iPhone；盒马侯毅退休；Temu 限制高价店铺](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513764&idx=3&sn=36678521f46c2136fe7794de13b8dd40)|
+|2024-03-19 14:53:50|[晚点LatePost](https://feedpress.me/wx-postlate)|[抖音本地生活：用内容创造更多消费](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513764&idx=2&sn=90dadb9cd1de8c39168716cbc2dde1c6)|
+|2024-03-19 14:53:49|[晚点LatePost](https://feedpress.me/wx-postlate)|[蚂蚁大改组：新任命一名总裁，三项业务成为独立公司](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247513764&idx=1&sn=5906d418f492ea8e4afc5ec67ad50b12)|
+|2024-03-19 00:51:39|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[COLING24｜自适应剪枝让多模态大模型加速2-3倍，哈工大联合度小满推出SmartTrim](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650812723&idx=1&sn=8c90cd274fb8b05cef7525bdd6370604)|
+|2024-03-19 14:10:32|[爱范儿](https://www.ifanr.com/feed)|[1 秒破百！特斯拉最强超跑联动 SpaceX，年内亮相](https://www.ifanr.com/1578585?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-19 11:44:08|[爱范儿](https://www.ifanr.com/feed)|[小米汽车不会失败，原因可以加上这个](https://www.ifanr.com/1578571?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-19 09:14:42|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[不用信用卡也能分期！立即申辦「 Fula 付啦」 享受先買後付 專屬優惠好禮](https://applefans.today/2024-03-fula-money101-special-event/)|
 |2024-03-19 04:17:51|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞蘋果正與 Google 洽談 Gemini 人工智慧引擎的合作](https://applefans.today/2024-03-apple-google-integrate-geminis-into-the-iphone/)|
 |2024-03-19 10:30:30|[太隐](https://wangyurui.com/feed.xml)|[静之道](https://wangyurui.com/posts/jing-zhi-dao-142f09d9)|
