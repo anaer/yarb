@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-20 08:28:02|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[南中国春天最甜的东西，赛过盒马叮咚](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450690&idx=1&sn=c561396a294a7105d2399519aa060fc7)|
+|2024-03-20 09:52:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iOS 18 AI 制勝策略：本地小模型與大語言模型管理](https://www.iphonetaiwan.org/2024/03/apple-ai-development-strategy.html)|
+|2024-03-20 09:34:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple 靜安零售店盛大開幕！探索最新科技與文化融合](https://www.iphonetaiwan.org/2024/03/apple-jingan-retail-store.html)|
 |2024-03-20 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[「周氏」黄金们，到底有什么区别？](https://36kr.com/p/2696369720136327)|
 |2024-03-20 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[前首富“抄底”新能源：宁可犯错，不可错过 焦点分析](https://36kr.com/p/2694771021180290)|
 |2024-03-20 04:03:34|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米公布2023年财报：净利润大增126%，毛利率创历史新高丨业绩快报](https://36kr.com/p/2696386100719238)|
