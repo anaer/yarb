@@ -1,7 +1,9 @@
-﻿# 每日资讯（2024-03-20）
+﻿# 每日资讯（2024-03-21）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-21 00:01:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【越共报告：武文赏违反党员行为禁令，未能发挥模范表率作用】武文赏的缺点过失对社会舆论造成不良影响，损害了党、国家及其个人的威望。武文赏认识到自身对越共、国家和人民的责任，向越共中央递交了辞去各项职务的申请书，请求退休。](https://dig.chouti.com/link/41876488)|
+|2024-03-21 00:03:45|[余晟以为](https://feedpress.me/wx-yurii-says)|[在德国，感受俄乌战争（再续）](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009908&idx=1&sn=5fdc99c655ae39a4809730112525b11f)|
 |2024-03-20 11:02:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[包小柏：AI“复活”女儿之后](https://dig.chouti.com/link/41872356)|
 |2024-03-20 16:05:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体爆肯辛顿宫正筹划凯特王妃「复出」绝密计划，已获威廉凯特认可，释放出什么信号？](https://www.zhihu.com/question/649326114)|
 |2024-03-20 16:05:01|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[天都一号、二号通导技术试验星成功发射，有哪些信息值得关注？](https://www.zhihu.com/question/649374295)|
@@ -51,6 +53,7 @@
 |2024-03-20 16:06:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[张学友疯狂商演背后，罗美薇4年亏10亿？](https://36kr.com/p/2697374461933449)|
 |2024-03-20 16:06:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[那些放弃社保的年轻人](https://36kr.com/p/2697147955378311)|
 |2024-03-20 16:06:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[许家印联手夏海钧 凭空捏造了一家“万科” 焦点分析](https://36kr.com/p/2697331113572486)|
+|2024-03-21 05:26:59|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[零跑 C10 增程智驾版提车作业](https://mok.moe/p/leapmotor-c10)|
 |2024-03-20 14:18:40|[爱范儿](https://www.ifanr.com/feed)|[OpenAI 重磅推出的 GPT Store，上线 2 个月就要凉了？](https://www.ifanr.com/1578635?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-20 02:52:28|[爱范儿](https://www.ifanr.com/feed)|[早报 OpenAI CEO 谈 GPT-5/小米：手机今年要突破 6000 到 1 万元价格段/蔚来新手机进入制造阶段](https://www.ifanr.com/1578614?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-20 15:18:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果使用 BRS 技術縮小 iPhone 16 螢幕邊框：視覺震撼](https://www.iphonetaiwan.org/2024/03/iphone-16-brs-technology.html)|
