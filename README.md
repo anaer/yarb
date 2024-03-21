@@ -2,6 +2,46 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-21 02:12:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[來自中國爆料者的 2024 iPad Pro 更新變化](https://applefans.today/2024-03-m3-ipad-pro-thinner-bezels-gain-matte-option-rumors/)|
+|2024-03-21 12:22:25|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[春天上什么班？出来耍出来耍！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450738&idx=1&sn=72e9dec361e5ce838db81dde289db772)|
+|2024-03-21 10:01:19|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[失宠or被设计？越南“储君”自请下台疑云](https://dig.chouti.com/link/41882256)|
+|2024-03-21 11:02:50|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[无锡去年人均GDP超20万元，连续四年居大中城市首位](https://dig.chouti.com/link/41883177)|
+|2024-03-21 11:09:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[英国航空乘务员种族歧视中国乘客，2名涉事空姐已经被英航解雇……](https://dig.chouti.com/link/41883249)|
+|2024-03-21 10:01:28|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【波音“吹哨人”死亡后，律师公开其多年遭公司“报复”细节】为了“报复”巴尼特的投诉，公司管理人员调低他的工作绩效评分，将他调离原本的团队并列入黑名单，阻止将他调动到南卡罗来纳州之外的公司其他岗位。作为“报复”的一部分，他在波音公司遭受骚扰、羞辱和“高层管理人员的蔑视和鄙视”。](https://dig.chouti.com/link/41882272)|
+|2024-03-21 14:11:30|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[闪光灯加持下，相扑力士的撒盐动作，好像在放必杀技大招](https://dig.chouti.com/link/41884763)|
+|2024-03-21 14:11:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[彭博社21日晚上报道，也门胡塞武装告诉中国和俄罗斯，他们的船只不会成为攻击目标……](https://dig.chouti.com/link/41884746)|
+|2024-03-21 10:01:59|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[罗永浩带货“空中的士”首架成交：199万元 买家是广东人](https://dig.chouti.com/link/41882392)|
+|2024-03-21 12:33:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[百城新房库存29个月来首次跌破5亿平米，有城市新房去化周期超过11年](https://dig.chouti.com/link/41883884)|
+|2024-03-21 07:52:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“我花百万投资电影”，怎么成了骗子收割的“韭菜”？](https://dig.chouti.com/link/41881002)|
+|2024-03-21 12:33:20|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【“天上人间”前老板覃辉在美国被判刑6个月，刑满驱逐出境】3月18日，中国籍亿万富豪覃辉（又名Qin Hui、Hui Quin、Muk Lam Li、Karl）认罪，承认“非法政治献金、移民欺诈和制作虚假身份证明文件”的罪名。美国纽约东区检察官表示，根据认罪协议，刑期将不超过6个月。覃辉已同意服刑后放弃美国绿卡身份，并被驱逐出境。](https://dig.chouti.com/link/41883846)|
+|2024-03-21 12:22:40|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[意外的经济转型：俄乌冲突与俄罗斯的再工业化](https://dig.chouti.com/link/41883829)|
+|2024-03-21 12:09:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[B-2轰炸机的空中受油口特写：全球唯一采用“翻盖插座”设计的受油口](https://dig.chouti.com/link/41883757)|
+|2024-03-21 06:11:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[二战期间被俘的苏军团政委，很可能是他的最后几张照片——第148步兵师团政委奥迪沙里亚·米里安·莱万诺维奇。1941年8月1日，在斯摩棱斯克地区舒米亚茨基区罗克特斯村附近被俘。根据记录，他于1942年被列为失踪。](https://dig.chouti.com/link/41880185)|
+|2024-03-21 08:44:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[酸奶碗是怎么变成一种当代礼器的？](https://dig.chouti.com/link/41881623)|
+|2024-03-21 07:07:00|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[MLB日本籍球星大谷翔平的翻译涉赌遭开除，据称“从来不赌棒球”](https://dig.chouti.com/link/41880767)|
+|2024-03-21 07:12:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[40多岁早早绝经的女性，困在“衰老焦虑”中](https://dig.chouti.com/link/41880898)|
+|2024-03-21 10:14:51|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Zach King 与知名“梦境短视频”创作者 Savanah Moss 合拍——梦中梦中梦中梦中梦…同时做到了“精彩刺激”，“杂乱无章”，“不知所谓”](https://dig.chouti.com/link/41882700)|
+|2024-03-21 05:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[潮州3名男孩被沙体掩埋身亡疑云](https://dig.chouti.com/link/41879329)|
+|2024-03-21 10:15:04|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[How dare you！](https://dig.chouti.com/link/41882728)|
+|2024-03-21 10:15:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[狼（左）、鲸（中）和人类（右）乳汁营养成分的对比。哺乳动物会根据其后代繁殖的营养需求来生产乳汁。图中黄色部分代表脂肪，蓝色代表蛋白质，粉红色代表糖类，白色代表水分。](https://dig.chouti.com/link/41882767)|
+|2024-03-21 03:48:37|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[美国未成年杀人后是怎么判的？](https://dig.chouti.com/link/41878578)|
+|2024-03-21 03:10:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[结局引起舒适：美国加州某高中，一位白人留级生霸凌亚裔一年级新生，说人家“走路撞到她”然后扇耳光追着打。这事传出来不久，同校一位高大的黑人女生跑去揍了霸凌者一顿“你就敢欺负比你个子小的人是不？”](https://dig.chouti.com/link/41878380)|
+|2024-03-21 04:32:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[“小胖威利”不可承受之重](https://dig.chouti.com/link/41879206)|
+|2024-03-21 05:08:08|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【那个曾经随时可能失明的少年，刚刚获得数学界最高荣誉】挪威科学与文学院20日宣布，将2024年度阿贝尔奖授予72岁的法国数学家Michel Talagrand，以表彰他在概率论和泛函分析方面的开创性贡献，以及在数学物理和统计学方面的杰出应用。Talagrand于1977年获得巴黎第六大学数学博士学位。2019年，曾获得邵逸夫数学科学奖。](https://dig.chouti.com/link/41879621)|
+|2024-03-21 01:02:17|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[全国首例：家暴男违反人身安全保护令，被判8个月](https://dig.chouti.com/link/41876943)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[10分钟速成专家，「Kimi智能助手」正式支持200万上下文，对话窗口提升10倍 最前线](https://36kr.com/p/2697691500836993)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[什么是县城的“公务员经济”？](https://36kr.com/p/2698773657499526)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[独家｜张勇加入晨壹基金，并购之路继续逍遥](https://36kr.com/p/2698756966217858)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[瘫痪8年小哥植入马斯克脑机接口，狂打8小时「文明6」，Neuralink首个人类植入者直播来了](https://36kr.com/p/2698869850273920)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车不会失败，原因可以加上这个](https://36kr.com/p/2698515744012160)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[黄仁勋对话 Transformer 八子：大模型的起源、现在和未来](https://36kr.com/p/2698867645315207)|
+|2024-03-21 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微信偷偷更新6大功能，第1个我直接吹爆](https://36kr.com/p/2697991505710981)|
+|2024-03-21 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[小米汽车SU7，内饰全曝光，自带手机支架](https://36kr.com/p/2697399956174985)|
+|2024-03-21 04:03:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[90后投资人创业，让全球年轻人“1分钟成为特斯拉股东”](https://36kr.com/p/2697342344221313)|
+|2024-03-21 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国投资客涌入日本买房｜氪金](https://36kr.com/p/2697282599974792)|
+|2024-03-21 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜民航局通报“3·21”东航MU5735航空器飞行事故调查进展；特斯拉即将在4月1日涨价；茶百道就改标签日期致歉](https://36kr.com/p/2698613704537988)|
+|2024-03-21 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[给机器人装上大模型大脑，「若愚科技」获超5000万天使轮融资｜36氪首发](https://36kr.com/p/2697824858749064)|
+|2024-03-21 04:03:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果CEO库克现身上海，在中国首谈生成式AI](https://36kr.com/p/2697826640344967)|
 |2024-03-21 19:58:47|[懒得勤快的博客_互联网分享精神](https://masuit.com/rss)|[WiseCare 365 6.6.6专业学习版](https://masuit.com/36)|
 |2024-03-21 11:15:36|[爱范儿](https://www.ifanr.com/feed)|[花费 100 亿美元打造，史上最强 AI 芯片到底强在哪？](https://www.ifanr.com/1578703?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-21 11:10:58|[机核](https://www.gcores.com/rss)|[《浪人崛起》或许是忍者组最复杂的一次“自我反省”](https://www.gcores.com/articles/179241)|
