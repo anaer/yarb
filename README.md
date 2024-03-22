@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-22 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Sora不开源，微软给你开源，全球最接近Sora视频模型诞生，12秒生成效果逼真炸裂](https://36kr.com/p/2700441469630600)|
+|2024-03-22 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[四年蓄势，TikTok决定硬刚](https://36kr.com/p/2700217866319744)|
+|2024-03-22 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[预制菜终于有了官方定义，不能加防腐剂，中央厨房菜和主食类都不算](https://36kr.com/p/2699892896741508)|
+|2024-03-22 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[突发：拜登对苹果下狠手，令市值暴跌6700亿，苹果强硬回应“不妥协”](https://36kr.com/p/2700113916229507)|
+|2024-03-22 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪独家丨饿了么新三年战略规划：距结束亏损只差一些时间，仍将以上市为目标](https://36kr.com/p/2690116827098761)|
+|2024-03-22 16:06:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[估值300亿的独角兽，创始人“跑路”了](https://36kr.com/p/2700225270904713)|
+|2024-03-22 06:42:25|[煎蛋](http://jandan.net/feed)|[美国政府起诉苹果，指控其垄断](http://jandan.net/p/115992)|
 |2024-03-22 11:06:00|[晴雀堂](https://hehysh.github.io/atom.xml)|[记东方绿舟的一周](https://blog.nbplus.eu.org/posts/18578.html)|
 |2024-03-22 08:02:18|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[茶中硬通货龙井上市，很多杭州人都买不到。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450811&idx=1&sn=9a028492c9776ef0ba9a813f939cc818)|
 |2024-03-22 16:05:06|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[黄仁勋回应英伟达凭啥值两万亿美元，称「我们重新发明了计算机，对 AI 行业贡献无人能及」，如何解读？](https://www.zhihu.com/question/649506477)|
