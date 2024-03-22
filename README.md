@@ -1,10 +1,12 @@
-﻿# 每日资讯（2024-03-21）
+﻿# 每日资讯（2024-03-22）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-22 00:11:26|[阮一峰的网络日志](https://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)|
 |2024-03-21 15:41:00|[机核](https://www.gcores.com/rss)|[【抽奖】国产手绘解谜新作《深林》现已正式发售！](https://www.gcores.com/articles/179279)|
 |2024-03-21 15:00:00|[机核](https://www.gcores.com/rss)|[《龙之信条2》发售前再来全面回顾一下整个系列](https://www.gcores.com/radios/178981)|
 |2024-03-21 13:10:22|[机核](https://www.gcores.com/rss)|[优点鲜明，缺点明显：《浪人崛起》媒体评分汇总](https://www.gcores.com/articles/179274)|
+|2024-03-22 05:30:10|[Mokeyjay's Blog - ...](https://www.mokeyjay.com/feed)|[聊聊零跑 C10 智驾版的智驾体验](https://mok.moe/p/re6m)|
 |2024-03-21 09:16:03|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[我，95后“奶妈”，带薪撸小老虎，给小狮子喂奶，和小熊睡觉](https://dig.chouti.com/link/41882168)|
 |2024-03-21 09:20:40|[Dennis](https://www.domon.cn/rss/)|[两周前的春天](https://www.domon.cn/liang-zhou-qian-de-chun-tian/)|
 |2024-03-21 02:12:10|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[來自中國爆料者的 2024 iPad Pro 更新變化](https://applefans.today/2024-03-m3-ipad-pro-thinner-bezels-gain-matte-option-rumors/)|
