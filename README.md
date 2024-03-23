@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-23 04:09:29|[白宦成](https://www.ixiqin.com/feed/)|[在 WordPress 的 Docker 镜像上加装 Redis 拓展，以支持 Redis 缓存](https://www.ixiqin.com/2024/03/23/install-redis-extension-on-the-docker-image-of-wordpress-to/)|
 |2024-03-22 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Sora不开源，微软给你开源，全球最接近Sora视频模型诞生，12秒生成效果逼真炸裂](https://36kr.com/p/2700441469630600)|
 |2024-03-22 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[四年蓄势，TikTok决定硬刚](https://36kr.com/p/2700217866319744)|
 |2024-03-22 16:06:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[预制菜终于有了官方定义，不能加防腐剂，中央厨房菜和主食类都不算](https://36kr.com/p/2699892896741508)|
