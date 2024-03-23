@@ -2,6 +2,19 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-23 15:00:00|[机核](https://www.gcores.com/rss)|[浪人遇上龙，还有地下城 GadioNews03.23](https://www.gcores.com/radios/178983)|
+|2024-03-23 04:40:05|[机核](https://www.gcores.com/rss)|[沙盒生存游戏《泰拉科技世界》EA版正式发售](https://www.gcores.com/articles/179340)|
+|2024-03-23 03:44:01|[机核](https://www.gcores.com/rss)|[所有人就只谈论《沙丘》，仿佛它是赫伯特撰写的唯一著作](https://www.gcores.com/articles/179336)|
+|2024-03-23 02:45:31|[机核](https://www.gcores.com/rss)|[游戏日记与碎碎念（2）](https://www.gcores.com/articles/179316)|
+|2024-03-23 01:10:49|[机核](https://www.gcores.com/rss)|[《最终幻想16》第2个DLC“海之恸哭”将于4月18日发售。今日发布预告片及新召唤兽技能演示](https://www.gcores.com/articles/179335)|
+|2024-03-23 00:59:02|[机核](https://www.gcores.com/rss)|[女神系列登上神坛的神仙设计](https://www.gcores.com/videos/179334)|
+|2024-03-23 08:36:02|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成名前夕，他死在出租屋3天才被发现](https://dig.chouti.com/link/41901543)|
+|2024-03-23 13:09:23|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【中国大使在基辅只停留6小时，有何收获？】由于战时火车衔接（来去要40个小时）等问题，李辉大使只在基辅停留6小时，见了乌克兰总统办公厅主任、第一副总理兼经济部长、外交部长。“会谈中，乌克兰方面驳斥了中国刻意疏远乌克兰的谬论，强调中乌关系没有受到影响。乌方赞赏中方在乌克兰危机问题上采取的平衡立场。”](https://dig.chouti.com/link/41903609)|
+|2024-03-23 08:12:56|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[莫斯科恐袭亲历者：一年轻人跳到恐怖分子身上夺枪打他，救了数十人的命](https://dig.chouti.com/link/41901497)|
+|2024-03-23 13:09:16|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[峰飞货运版eVTOL获颁型号合格证：全球首个通过型号合格认证的吨级以上eVTOL航空器](https://dig.chouti.com/link/41903598)|
+|2024-03-23 13:09:35|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[举白旗？？？菲律宾3月23日企图向仁爱礁非法“坐滩”军舰运送建筑物资，对该军舰进行维修加固。现场视频显示，面对中方海警水炮喷射，菲律宾运补船随船人员挥舞白旗。](https://dig.chouti.com/link/41903624)|
+|2024-03-23 09:01:25|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[从“白兰地妮”到“聪慧女王”：英国安妮女王历史形象的嬗变](https://dig.chouti.com/link/41901574)|
+|2024-03-23 14:24:38|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[在 IDE 中构建 AutoDev AI 编程开发智能体框架与语言？](http://www.phodal.com/blog/autodev-in-ide/)|
 |2024-03-23 11:16:58|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[侃爷分享妻子最新美图……原来玛丽苏小说里“在30平米的大床上醒来”是真的](https://dig.chouti.com/link/41902844)|
 |2024-03-23 11:16:44|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[【俄音乐厅恐袭一嫌疑人称被买凶杀人，已收到50万卢布】俄新社最新发布的一段抓捕现场视频。此人据称1998年出生，3月4日从土耳其入境俄罗斯。大约1个月前，他“意外得到陌生人通过社交媒体发送的信息”——信息表示，愿向他提供100万卢布，条件是他按照对方提供的地址对人群发动袭击。他已经得到通过转账过来的50万卢布。](https://dig.chouti.com/link/41902821)|
 |2024-03-23 02:56:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[翻拍不是原罪，烂才是](https://dig.chouti.com/link/41898879)|
