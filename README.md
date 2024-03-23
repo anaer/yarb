@@ -2,6 +2,64 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-23 09:49:35|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[传奇黑帮电影《无法无天》：根据真实人物改编，汤姆·哈迪化身不死战神！](https://www.ximalaya.com/sound/716872688)|
+|2024-03-23 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[列强，瓜分台积电！](https://36kr.com/p/2701408768374656)|
+|2024-03-23 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[在美国，买冰淇淋前最好先算命](https://36kr.com/p/2700458766301312)|
+|2024-03-23 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[淀粉肠“塌房”一周，小摊主们怎么样了](https://36kr.com/p/2701468696524677)|
+|2024-03-23 16:05:31|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[掌握谈薪资的13大技巧，让你工资翻倍！](https://36kr.com/p/2639706420542599)|
+|2024-03-23 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[焦点分析｜美团的自我修正：止损优选，轻装上阵](https://36kr.com/p/2700539215968128)|
+|2024-03-23 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[微软鲸吞OpenAI最大对手](https://36kr.com/p/2700738971629703)|
+|2024-03-23 16:05:30|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[智能化时代到来，触控屏会成笔记本标配吗？](https://36kr.com/p/2700797518893699)|
+|2024-03-23 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果“被偷家”！遭反垄断诉讼，大陆才开新店 最前线](https://36kr.com/p/2700346821458053)|
+|2024-03-23 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[多少韩国大孝子，在张家界报复性尽孝](https://36kr.com/p/2700240443799683)|
+|2024-03-23 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[深度长文：如何知道自己真正想要什么？](https://36kr.com/p/2605601817295497)|
+|2024-03-23 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9点1氪丨苹果市值一夜蒸发7919亿元；美国消费者集体起诉爱马仕“配货”潜规则；阿里巴巴回应出售哔哩哔哩股权](https://36kr.com/p/2701424654366599)|
+|2024-03-23 04:03:24|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[讨好中国，年入400亿，吊打老干妈的美国辣酱，专治水土不服](https://36kr.com/p/2700344855165065)|
+|2024-03-23 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国当代文坛能否出一位像卡夫卡一样的作家？](https://www.zhihu.com/question/649411453)|
+|2024-03-23 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价「物理学事实上正在迎向终结。现在的物理学, 已经进入到了解释和哲学的时代。」这句话？](https://www.zhihu.com/question/649672537)|
+|2024-03-23 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果牛顿穿越到现在，参加物理竞赛能拿金牌吗？](https://www.zhihu.com/question/320833681)|
+|2024-03-23 16:04:17|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果你在 28 岁时得了肺癌晚期，医生说剩下五年，这五年你会打算做什么？](https://www.zhihu.com/question/649257932)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[李沐的动手学深度学习视频我咋感觉这么晦涩？](https://www.zhihu.com/question/646489478)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[「伊斯兰国」宣称对莫斯科恐袭事件负责，嫌疑人乘车逃离现场，恐怖组织为何选择莫斯科？有何用意？](https://www.zhihu.com/question/649776236)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄媒称「恐袭事件 4 名嫌疑人身份已确定，为塔吉克斯坦公民」，后被塔吉克斯坦外交部否认，如何看待此事？](https://www.zhihu.com/question/649810994)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[内向型 i 人和外向型 e 人谁更有可能成为出色的领导者？他们都有哪些优势和不足？](https://www.zhihu.com/question/649615373)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[周鸿祎称手机厂商不做 AI 会成为下个诺基亚，AI 手机目前发展趋势如何？如何看待这一观点？](https://www.zhihu.com/question/649760971)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么北洋时期当兵吃饷能养一家人，到国府时期壮丁从军就连饭都吃不饱了？](https://www.zhihu.com/question/641706326)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在人生黑暗时刻，没人倾诉，你该怎么办呢?](https://www.zhihu.com/question/648902348)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[母爱可以有多伟大？](https://www.zhihu.com/question/59313322)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[外交部发言人就俄罗斯发生严重恐怖袭击答记者问表示，强烈谴责恐怖袭击行为，哪些信息值得关注？](https://www.zhihu.com/question/649823211)|
+|2024-03-23 16:04:16|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[以色列宣布没收 8 平方公里约旦河西岸的巴勒斯坦土地，用于建造犹太定居点住房，哪些信息值得关注？](https://www.zhihu.com/question/649712698)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体称俄罗斯两州分别遭无人机袭击，1 死 2 伤，一炼油塔起火，具体情况如何？与莫斯科恐袭事件有关吗？](https://www.zhihu.com/question/649791021)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[提升自己最快最有效的方式是什么？](https://www.zhihu.com/question/649264752)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[普京就莫斯科音乐厅遭袭事件作出指示，这一恐怖袭击可能会引发哪些连锁反应？](https://www.zhihu.com/question/649776617)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[网上清一色说网文行业已经饱和了，是否真的没有机会了?](https://www.zhihu.com/question/648975005)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[几十块钱衣服值得穿吗？](https://www.zhihu.com/question/649596420)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你身边有长期不上班还到处玩的人吗？](https://www.zhihu.com/question/648328481)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[俄方已将莫斯科近郊音乐厅枪击事件定为恐怖袭击，并立案调查，这意味着什么？将带来哪些影响？](https://www.zhihu.com/question/649745491)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[蜀汉如果一直窝在巴蜀，有可能一直延续国祚吗？](https://www.zhihu.com/question/647476974)|
+|2024-03-23 16:04:15|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[忙碌的职场人，春天来了，你开始运动了吗？](https://www.zhihu.com/question/649798232)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[贾母为什么看不上薛宝钗？](https://www.zhihu.com/question/542947265)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[我想问啥是正统 ML 游戏？请知乎的大家给下一个定义?](https://www.zhihu.com/question/649547219)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[踏入社会后觉得很少开心，随时都处于「高压状态」，这是抑郁倾向吗?](https://www.zhihu.com/question/649420530)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[在这个春天里你打算怎么燃烧你的卡路里？](https://www.zhihu.com/question/649811176)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[张庭新店开张 65 天销量仅 3 件，TST 曾陷传销风波，有哪些信息值得关注？](https://www.zhihu.com/question/649818448)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想向朋友借钱该怎么开口？](https://www.zhihu.com/question/561562295)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《周处除三害》中陈桂林火并林禄和时，为什么几乎没有什么反抗?](https://www.zhihu.com/question/646921582)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你见过那些对色彩运用的特别好以至于让你难忘的画师？](https://www.zhihu.com/question/311764234)|
+|2024-03-23 16:04:14|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[不退出了！张琳芃向国足道歉「只要国家需要，一定坚持到底」，如何看待此事？他将何去何从？](https://www.zhihu.com/question/649851148)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[去蛋糕店买自选蛋糕，挑了一块还没结账，店员说有个外卖刚刚把你这块蛋糕订了。你会怎么做？](https://www.zhihu.com/question/621387374)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[游戏《绝区零》近期开启了【喧响测试】资格招募，对这款游戏你有哪些期待？](https://www.zhihu.com/question/649455238)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[C++ Primer 是每位 C++ coder 心中的圣经吗？](https://www.zhihu.com/question/649605431)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[天上那么多太空垃圾，不是宝贵的金属资源吗，能不能把它们回收下来？](https://www.zhihu.com/question/647146710)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[媒体称「伊斯兰国」宣称对 22 日在莫斯科发生的音乐厅袭击事件负责，这意味着什么？](https://www.zhihu.com/question/649745586)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何看待网传 2024 国自然面上项目申报暴增 49%？](https://www.zhihu.com/question/649568375)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[美食节上男子自带秤买板栗，老板直接掀摊并大喊「抢劫啊」，如何整治美食节乱象？老板将面临什么处罚？](https://www.zhihu.com/question/649840270)|
+|2024-03-23 16:04:13|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价「网飞版《三体》本来就不是拍给中国观众看的，本土化之后更方便外国观众理解」的观点？](https://www.zhihu.com/question/649732005)|
+|2024-03-23 09:34:23|[土豆不好吃](https://dmesg.app/feed)|[物理化 eSIM](https://dmesg.app/physical-esim.html)|
+|2024-03-23 13:28:25|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨美团开始止损优选；极兔中国盈亏平衡；美国可能正重新定义反垄断](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514062&idx=3&sn=5733d1777db47261379d6890e6bc4e00)|
+|2024-03-23 13:28:25|[晚点LatePost](https://feedpress.me/wx-postlate)|[从反思开始，理想调整节奏迎接纯电之战](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514062&idx=2&sn=a05861337a499e0c787164406fefbfa6)|
+|2024-03-23 13:28:23|[晚点LatePost](https://feedpress.me/wx-postlate)|[下一个玻尿酸？一个重组胶原蛋白巨头公司的未雨绸缪](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514062&idx=1&sn=6c7c167654f4109ee6eb52fee11f7aa6)|
+|2024-03-23 15:26:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[三體問題是什麼？對我們的意義和生活中的應用](https://www.iphonetaiwan.org/2024/03/3-body-problem.html)|
 |2024-03-23 15:00:00|[机核](https://www.gcores.com/rss)|[浪人遇上龙，还有地下城 GadioNews03.23](https://www.gcores.com/radios/178983)|
 |2024-03-23 04:40:05|[机核](https://www.gcores.com/rss)|[沙盒生存游戏《泰拉科技世界》EA版正式发售](https://www.gcores.com/articles/179340)|
 |2024-03-23 03:44:01|[机核](https://www.gcores.com/rss)|[所有人就只谈论《沙丘》，仿佛它是赫伯特撰写的唯一著作](https://www.gcores.com/articles/179336)|
