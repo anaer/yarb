@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-24 04:12:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[Σ ⊙▽⊙"a](https://dig.chouti.com/link/41908121)|
+|2024-03-24 14:41:11|[煎蛋](http://jandan.net/feed)|[浅阅读时代：对社会深远的影响](http://jandan.net/p/116019)|
+|2024-03-24 16:41:45|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 182 期（2024.03.25）](https://www.ftium4.com/ux-weekly-182.html)|
 |2024-03-24 15:00:00|[机核](https://www.gcores.com/rss)|[在异世界的我们如何选择种族与职业：半精灵也能算精灵？](https://www.gcores.com/radios/179325)|
 |2024-03-24 13:35:33|[机核](https://www.gcores.com/rss)|[游戏慢打｜我死故我在：黑岛的《异域镇魂曲》](https://www.gcores.com/articles/179375)|
 |2024-03-24 13:05:49|[机核](https://www.gcores.com/rss)|[猴子都能看懂的编程教程——《圣兽之王》策略设置指北](https://www.gcores.com/articles/179373)|
