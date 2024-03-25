@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-25 12:50:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google Map 加入語音報路名！它播報方式跟 Apple Map 有何不同呢？](https://applefans.today/2024-03-google-map-new-feature/)|
+|2024-03-25 15:19:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中国芯片大淘金；招行大客户们存了 10 万亿；​“达芬奇” 帮助滴滴扭亏](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=3&sn=8fe7ab912c8f6c405a75682c1548b247)|
+|2024-03-25 15:19:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[曾毓群公布宁德时代新方向：分享技术，推动开放式创新](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=2&sn=09ea4c6aba4e9df01f1b61877d13cd57)|
+|2024-03-25 15:18:59|[晚点LatePost](https://feedpress.me/wx-postlate)|[复盘飞书七年：最不抖音的产品，获得了最多时间](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=1&sn=6b384d169e66ce75ed016cfca6212098)|
+|2024-03-25 14:01:42|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[韩国政府：不会按原计划从26日起对未返岗医生予以吊销医师执照处分，将努力与医疗界展开对话](https://dig.chouti.com/link/41921487)|
+|2024-03-25 11:28:54|[爱范儿](https://www.ifanr.com/feed)|[百度或为苹果国行 iPhone 16 提供 AI 功能，更多细节曝光](https://www.ifanr.com/1579016?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-25 09:10:10|[爱范儿](https://www.ifanr.com/feed)|[比亚迪海豹也推「荣耀版」，17.98 万元起售](https://www.ifanr.com/1579039?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-25 07:21:46|[爱范儿](https://www.ifanr.com/feed)|[亿咖通脱掉「吉利的外套」，露出了「华为的模样」](https://www.ifanr.com/1578979?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-25 03:50:31|[爱范儿](https://www.ifanr.com/feed)|[为什么 iPhone 的屏下摄像头会更难做？](https://www.ifanr.com/1578944?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-25 02:11:19|[爱范儿](https://www.ifanr.com/feed)|[最美哈苏相机评测：除了仪式感，你还能收获这些](https://www.ifanr.com/1577757?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-25 00:22:21|[爱范儿](https://www.ifanr.com/feed)|[早报 Vision Pro 年内在中国上市/华为 P70 供应商已开始供货 / Sora 计划进入好莱坞电影行业](https://www.ifanr.com/1578941?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-25 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[36氪首发｜「嗨小瓶」获数百万元天使轮融资，以功能性咖啡切入运动健康人群](https://36kr.com/p/2700342446717059)|
 |2024-03-25 16:05:29|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[站在潮头的英伟达与硬件护城河的隐忧](https://36kr.com/p/2698654364153733)|
 |2024-03-25 16:05:28|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[雷军开着小米SU7去上海，1276公里充电两次，全程智能驾驶](https://36kr.com/p/2703121720588424)|
