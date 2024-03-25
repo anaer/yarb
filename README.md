@@ -1,4 +1,4 @@
-﻿# 每日资讯（2024-03-24）
+﻿# 每日资讯（2024-03-25）
 
 |时间|来源|标题|
 |---|---|---|
@@ -31,6 +31,7 @@
 |2024-03-24 12:11:43|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[在小酒馆里，隔壁桌有一对大概是还没开始交往的情侣，男「很抱歉之前喝醉了给你打电话」……女「我很开心你喝醉的时候能想起我」……↑这发言也太涩涩了……](https://dig.chouti.com/link/41911096)|
 |2024-03-24 06:09:24|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[U-2飞行员在长航时飞行中进食的牙膏食物](https://dig.chouti.com/link/41908843)|
 |2024-03-24 10:07:13|[O3noBLOG](https://feeds.feedburner.com/othree)|[UI Event Order](https://blog.othree.net/log/2024/03/24/ui-event-order/)|
+|2024-03-25 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Quantization Unit Test](https://leimao.github.io/blog/Quantization-Unit-Test/)|
 |2024-03-24 07:00:00|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[2024 年邯郸少年杀人案： 勿以恶小而为之](https://leimao.github.io/essay/2024%E5%B9%B4%E9%82%AF%E9%83%B8%E5%B0%91%E5%B9%B4%E6%9D%80%E4%BA%BA%E6%A1%88/)|
 |2024-03-24 12:04:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[俄罗斯方块诞生 40 年，为什么我们堆砌方块的热情永无止境？丨晚点周末](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514066&idx=1&sn=3c5a9c73daf3559367975e8b7c45f99e)|
 |2024-03-24 05:00:49|[华山感染](https://feedpress.me/wx-hsinfect)|[全球每年发病1000万+，结核离我们并不远！](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247502322&idx=2&sn=1a260e608f73c86847e18526a8118f00)|
