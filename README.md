@@ -2,6 +2,7 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-26 16:35:31|[白宦成](https://www.ixiqin.com/feed/)|[CapRover 如何停止服务，并进行硬盘扩容/维护](https://www.ixiqin.com/2024/03/27/how-to-stop-service-and-perform-hard-disk/)|
 |2024-03-26 11:05:56|[Finisky Garden](https://finisky.github.io/atom.xml)|[为什么语言模型的本质是压缩器？](https://finisky.github.io/language-modeling-is-compression-summary/)|
 |2024-03-26 08:02:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[小米造车账本](https://dig.chouti.com/link/41928973)|
 |2024-03-26 11:02:41|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[被剥夺的童年：袁凌谈留守儿童创伤、罪案与污名化](https://dig.chouti.com/link/41930894)|
