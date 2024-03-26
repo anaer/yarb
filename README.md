@@ -2,6 +2,9 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-26 03:11:17|[靜風說](http://www.jingfengshuo.com/feed)|[《可怜的东西》观后感](https://www.jingfengshuo.com/archives/2751.html)|
+|2024-03-26 02:52:11|[爱范儿](https://www.ifanr.com/feed)|[早报 百度将为国行 iPhone16 提供 AI 服务/小米汽车 App 上架 App Store/阿里 1688 将全面进入淘宝](https://www.ifanr.com/1579055?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-26 00:49:00|[est の 输入输出](http://feeds.feedburner.com/initiative)|[梦见未来人类](https://blog.est.im/2024/stderr-05)|
 |2024-03-26 00:26:51|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)|
 |2024-03-25 12:50:03|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google Map 加入語音報路名！它播報方式跟 Apple Map 有何不同呢？](https://applefans.today/2024-03-google-map-new-feature/)|
 |2024-03-25 15:19:00|[晚点LatePost](https://feedpress.me/wx-postlate)|[晚点财经丨中国芯片大淘金；招行大客户们存了 10 万亿；​“达芬奇” 帮助滴滴扭亏](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247514133&idx=3&sn=8fe7ab912c8f6c405a75682c1548b247)|
