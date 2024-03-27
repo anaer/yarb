@@ -2,6 +2,12 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-27 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[轻薄创纪录 vivo X Fold3 系列旗舰折叠新品正式发布](https://www.photoworld.com.cn/post/176397)|
+|2024-03-27 08:59:04|[摄影世界](https://feedx.net/rss/photoworld.xml)|[尼康发布兼容尼康 Z 卡口系统的高倍率变焦镜头尼克尔 Z 28-400mm f/4-8 VR](https://www.photoworld.com.cn/post/176416)|
+|2024-03-27 10:02:30|[爱范儿](https://www.ifanr.com/feed)|[对话 vivo 产品副总裁黄韬和产品线总经理洪沂：vivo X Fold3 如何打好折叠屏的翻身仗？](https://www.ifanr.com/1579268?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-03-27 08:00:48|[中文信息学报](https://feedpress.me/wx-jcip1986)|[《中文信息学报》新刊概览∣ 2024年第1期（38卷第1期）](http://mp.weixin.qq.com/s?__biz=MzI2NjY1NDE3MQ%3D%3D&mid=2247485632&idx=1&sn=20497b30be209e1bb93f415cf2b298d5)|
+|2024-03-27 09:30:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 系列機模流出？螢幕變大、新增拍照按鍵](https://www.iphonetaiwan.org/2024/03/iphone-16-design-revealed.html)|
+|2024-03-27 08:28:00|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台灣首個自家衛星星系：網路斷線也不成問題！上半年開通](https://www.iphonetaiwan.org/2024/03/taiwan-satellite-communications.html)|
 |2024-03-27 08:05:09|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[带年轻人去星巴克喝了杯油，然后就。。。](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653450975&idx=1&sn=500a3aa7460c8b79a5551c2006ba7601)|
 |2024-03-27 07:12:28|[机核](https://www.gcores.com/rss)|[三星推出“Galaxy Buds 系列”《宝可梦》精灵球主题耳机盒](https://www.gcores.com/articles/179483)|
 |2024-03-27 06:48:57|[机核](https://www.gcores.com/rss)|[Steam走出了危险的一步？](https://www.gcores.com/articles/179480)|
