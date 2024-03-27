@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-26）
+﻿# 每日资讯（2024-03-27）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-27 00:50:05|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果 WWDC24 定档，iOS 18 将迎来大更新/ 雷军谈小米汽车优势/飞书宣布裁员](https://www.ifanr.com/1579186?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-26 16:35:31|[白宦成](https://www.ixiqin.com/feed/)|[CapRover 如何停止服务，并进行硬盘扩容/维护](https://www.ixiqin.com/2024/03/27/how-to-stop-service-and-perform-hard-disk/)|
 |2024-03-26 11:05:56|[Finisky Garden](https://finisky.github.io/atom.xml)|[为什么语言模型的本质是压缩器？](https://finisky.github.io/language-modeling-is-compression-summary/)|
 |2024-03-26 08:02:01|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[小米造车账本](https://dig.chouti.com/link/41928973)|
