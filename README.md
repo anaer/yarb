@@ -2,6 +2,11 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-27 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[卖不动雪糕的不止钟薛高 焦点分析](https://36kr.com/p/2699112447064196)|
+|2024-03-27 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一个人越来越强大的迹象：内核稳定](https://36kr.com/p/2707033557071747)|
+|2024-03-27 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[对话AMD苏姿丰：AI是50年来最具变革性技术，能否引发PC换机潮？](https://36kr.com/p/2706124092733576)|
+|2024-03-27 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[超越Sora极限，120秒超长AI视频模型诞生](https://36kr.com/p/2706575998973825)|
+|2024-03-27 16:05:25|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[35岁时我决定转行：找一门越老越吃香的职业](https://36kr.com/p/2707056879958148)|
 |2024-03-27 08:36:30|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[如何避免在 iPhone 照片中出現不愉快的回憶？](https://applefans.today/2024-how-to-turn-off-iphone-photos-memories-featured/)|
 |2024-03-27 06:37:58|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[行動新戰力！三星 Galaxy Tab S6 Lite 2024 為智慧生活加分](https://applefans.today/2024-03-samsung-galaxy-tab-s6-lite/)|
 |2024-03-27 13:11:34|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[失败一年后，日本推进重启国产客机项目：2035年前后完成开发](https://dig.chouti.com/link/41943563)|
