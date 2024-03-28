@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-27）
+﻿# 每日资讯（2024-03-28）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-03-28 00:05:53|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果新专利可为多设备配备可更换电池/雷军回应小米汽车对标保时捷特斯拉/周鸿祎建议哪吒汽车多向小米学习](https://www.ifanr.com/1579346?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-27 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[卖不动雪糕的不止钟薛高 焦点分析](https://36kr.com/p/2699112447064196)|
 |2024-03-27 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[一个人越来越强大的迹象：内核稳定](https://36kr.com/p/2707033557071747)|
 |2024-03-27 16:05:26|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[对话AMD苏姿丰：AI是50年来最具变革性技术，能否引发PC换机潮？](https://36kr.com/p/2706124092733576)|
