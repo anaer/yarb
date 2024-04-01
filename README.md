@@ -1,7 +1,8 @@
-﻿# 每日资讯（2024-03-31）
+﻿# 每日资讯（2024-04-01）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-04-01 00:01:24|[爱范儿](https://www.ifanr.com/feed)|[早报 小米汽车副总裁回应近期风波/华为 P70 全系入网，或在 4 月亮相/OpenAI 首次展示音频模型](https://www.ifanr.com/1579716?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |2024-03-31 19:12:00|[plus studio](https://studyinglover.com/atom.xml)|[coze+coze-discord-proxy+ChatNextWebUI实现AI自由](https://studyinglover.com/2024/03/31/coze+coze-discord-proxy+ChatNextWebUI%E5%AE%9E%E7%8E%B0AI%E8%87%AA%E7%94%B1/)|
 |2024-03-31 08:30:00|[Pseudoyu](https://www.pseudoyu.com/zh/index.xml)|[周报 #56 - 面基 Randy 与考科目二](https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/)|
 |2024-03-31 07:09:48|[抽屉新热榜](http://dig.chouti.com/feed.xml)|[成功弹射逃生？](https://dig.chouti.com/link/41979274)|
