@@ -10,7 +10,7 @@ def getRss():
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY RANDOM() limit 200
+    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 200
     '''
 
     cur.execute(query_sql)
@@ -32,7 +32,7 @@ def updateRssInvalid(url):
     cur = conn.cursor()
 
     sql = '''
-    update t_rss set status = 2, updated_at = ? where xml_url in (?)
+    update t_rss set sort = sort -1, updated_at = ? where xml_url in (?)
     '''
 
     cur.execute(sql, [datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), url])
@@ -131,7 +131,7 @@ def getArticlesForBot():
     cur = conn.cursor()
 
     cur.execute('''
-    select id, feed_name, feed_url, title, url from t_article where status = 0 order by updated_at desc limit 20
+    select id, feed_name, feed_url, title, url from t_article where status = 0 order by updated_at desc limit 10
     ''')
 
     result = cur.fetchall()
