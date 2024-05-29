@@ -2,6 +2,130 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-29 02:33:58|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 求推荐苹果生态下好用的随想随记笔记软件](https://www.v2ex.com/t/1044956#reply0)|
+|2024-05-29 02:33:12|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 有偿求助， 66471a86f13e563809b67050，求解这串编码加密方式， 11 位数号码 ，私我](https://www.v2ex.com/t/1044955#reply0)|
+|2024-05-29 02:31:45|[V2EX](https://www.v2ex.com/index.xml)|[ 全球工单系统 腾讯电脑管家页面 内部后台管理系统 地址漏出来了，快来修](https://www.v2ex.com/t/1044954#reply0)|
+|2024-05-29 02:26:05|[V2EX](https://www.v2ex.com/index.xml)|[ Python 生成 word 文件的活，需要的联系](https://www.v2ex.com/t/1044952#reply0)|
+|2024-05-29 02:25:49|[V2EX](https://www.v2ex.com/index.xml)|[ Netflix Netflix 针对家庭共享是开始限制登录端了吗？](https://www.v2ex.com/t/1044951#reply0)|
+|2024-05-29 02:25:10|[V2EX](https://www.v2ex.com/index.xml)|[ Swift 大家觉得 Swift 的参数必须按序提供怎么样？](https://www.v2ex.com/t/1044950#reply0)|
+|2024-05-29 02:14:39|[V2EX](https://www.v2ex.com/index.xml)|[ 硬件 4000 左右的游戏主机，求推荐。](https://www.v2ex.com/t/1044948#reply5)|
+|2024-05-29 02:12:45|[V2EX](https://www.v2ex.com/index.xml)|[ ACG 入坑二次元新人，动漫求推荐](https://www.v2ex.com/t/1044946#reply11)|
+|2024-05-29 02:08:08|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 注销联通宽带是一场与客服、营业厅、电信投诉之间的斗智斗勇](https://www.v2ex.com/t/1044945#reply0)|
+|2024-05-29 02:07:15|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家有没有什么能控制情绪的好办法？](https://www.v2ex.com/t/1044944#reply1)|
+|2024-05-29 02:07:02|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小米 14 如何设置未读通知呼吸灯闪烁?](https://www.v2ex.com/t/1044943#reply7)|
+|2024-05-29 02:05:41|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 混元大模型免费了，临时做了个混元 GPT](https://www.v2ex.com/t/1044942#reply0)|
+|2024-05-29 02:03:09|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 dnstrack: golang 实现的基于 bpf 特性的 dns 查询追踪工具](https://www.v2ex.com/t/1044941#reply2)|
+|2024-05-29 01:58:32|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 88VIP 是多钱开的啊 这么多人在出权益](https://www.v2ex.com/t/1044939#reply13)|
+|2024-05-29 01:52:03|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 没人提一提 byd 的秦 L 吗](https://www.v2ex.com/t/1044938#reply7)|
+|2024-05-29 01:51:49|[V2EX](https://www.v2ex.com/index.xml)|[ 微软 腾讯应用宝与 Microsoft Store 达成合作， Windows 可直接运行移动应用](https://www.v2ex.com/t/1044937#reply5)|
+|2024-05-29 01:51:45|[V2EX](https://www.v2ex.com/index.xml)|[ 信息安全 网站挂马 如何根治？](https://www.v2ex.com/t/1044936#reply5)|
+|2024-05-29 01:51:11|[V2EX](https://www.v2ex.com/index.xml)|[ Bitcoin 很少的一点 btc，如何换成人民币呢](https://www.v2ex.com/t/1044935#reply3)|
+|2024-05-29 01:50:45|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 上班 23 公里，准备骑自行车上班了！祝我一切顺利](https://www.v2ex.com/t/1044934#reply23)|
+|2024-05-29 01:49:37|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 新西兰接码神器 skinny 电话卡￥ 76 圆通包邮 无月租后续接近 0 成本保号 现货 ](https://www.v2ex.com/t/1044933#reply0)|
+|2024-05-29 01:45:52|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 fastapi 作者 Sebastián Ramírez 又给我打了一千美金！](https://www.v2ex.com/t/1044930#reply10)|
+|2024-05-29 01:45:41|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 从宝宝两岁能看到长大后的性格吗？来取取经！](https://www.v2ex.com/t/1044929#reply19)|
+|2024-05-29 01:45:29|[V2EX](https://www.v2ex.com/index.xml)|[ Android 安卓现在无障碍是否能够实现, 锁屏下打开应用?](https://www.v2ex.com/t/1044928#reply1)|
+|2024-05-29 01:40:45|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 国外 ip 池推荐](https://www.v2ex.com/t/1044927#reply0)|
+|2024-05-29 01:34:56|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 明年幼升小了，放弃北漂，求城市推荐](https://www.v2ex.com/t/1044926#reply84)|
+|2024-05-29 01:34:37|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如何实现大批量的、不同频率的定时任务？](https://www.v2ex.com/t/1044925#reply3)|
+|2024-05-29 01:33:10|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 国内互联网不互联了](https://www.v2ex.com/t/1044924#reply4)|
+|2024-05-29 01:32:41|[V2EX](https://www.v2ex.com/index.xml)|[ 路由器 有没有稳如狗的 wifi6/7 路由器推荐，顺便吐槽中兴 5400pro+](https://www.v2ex.com/t/1044923#reply10)|
+|2024-05-29 01:29:49|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 北京联通 speedtest 打不开了](https://www.v2ex.com/t/1044922#reply7)|
+|2024-05-29 01:29:19|[V2EX](https://www.v2ex.com/index.xml)|[ 数据库 大量上报信息，是存 InfluxDB 还是存 Doris 中 ？](https://www.v2ex.com/t/1044921#reply6)|
+|2024-05-29 01:26:33|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 冲牙器！冲牙器！有懂行的用过的推荐一下](https://www.v2ex.com/t/1044919#reply22)|
+|2024-05-29 01:24:38|[V2EX](https://www.v2ex.com/index.xml)|[ 加密货币 小白来请教](https://www.v2ex.com/t/1044918#reply7)|
+|2024-05-29 01:24:36|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 小米手环替换 Apple watch 1 个月后的体验分享](https://www.v2ex.com/t/1044917#reply15)|
+|2024-05-29 00:32:00|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[联想集团：将向沙特主权财富基金附属公司发行20亿美元零息可换股债券](https://www.36kr.com/newsflashes/2796269084980096)|
+|2024-05-29 00:26:32|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[马斯克股东大会前亲自下场拉票：邀15名股东参观奥斯汀工厂](https://www.36kr.com/newsflashes/2796257930457992)|
+|2024-05-29 00:25:35|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[上海楼市新政落地首日：询价的人多了，挂牌卖房的人也多了](https://www.36kr.com/newsflashes/2796262782546825)|
+|2024-05-29 00:22:49|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[房地产融资协调机制加速运转，房企融资环境有望持续改善](https://www.36kr.com/newsflashes/2796260060590981)|
+|2024-05-29 00:21:46|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[中信建投：禁止手工补息可能对于M1的影响更为明显](https://www.36kr.com/newsflashes/2796259026873986)|
+|2024-05-29 00:18:26|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[县域金融监管力量增强，金融管理体制改革稳步推进](https://www.36kr.com/newsflashes/2796255754285957)|
+|2024-05-29 00:16:51|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[对冲基金Elliott向德州仪器投资25亿美元，敦促其提升自由现金流](https://www.36kr.com/newsflashes/2796254189482888)|
+|2024-05-29 00:12:07|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[市场监管总局就《优化营商环境重点举措（2024年版）》公开征求意见](https://www.36kr.com/newsflashes/2796249537409923)|
+|2024-05-29 02:07:01|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[外企出走、中资涌入：政治高压下的香港将走向何方](https://cn.nytimes.com/business/20240529/hong-kong-china-politics/)|
+|2024-05-29 01:07:03|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[立法院打架、数万人街头抗议：台湾政治怎么了？](https://cn.nytimes.com/asia-pacific/20240529/taiwan-protest-fight/)|
+|2024-05-29 02:06:03|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[外企出走、中资涌入：政治高压下的香港将走向何方](https://cn.nytimes.com/business/20240529/hong-kong-china-politics/dual)|
+|2024-05-29 01:36:01|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[立法院打架、数万人街头抗议：台湾政治怎么了？](https://cn.nytimes.com/asia-pacific/20240529/taiwan-protest-fight/dual)|
+|2024-05-29 01:40:42|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[外企出走、中资涌入：政治高压下的香港将走向何方](https://cn.nytimes.com/business/20240529/hong-kong-china-politics/?utm_source=RSS)|
+|2024-05-29 00:39:32|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[巴勒斯坦圣战组织发布人质新视频](https://www.zaobao.com/realtime/world/story20240529-3738952)|
+|2024-05-29 01:41:11|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[去哪看《 WWDC 2024 開發者大會 》發表會內容？](https://applefans.today/2024-05-how-to-watch-apple-event-wwdc24/)|
+|2024-05-29 02:30:00|[机核](https://www.gcores.com/rss)|[以《赛博朋克酒保行动》为例，浅谈对白创作中的技巧方法（一）](https://www.gcores.com/articles/180103)|
+|2024-05-29 02:12:00|[机核](https://www.gcores.com/rss)|[手游《学园偶像大师》下载数突破100万，官方发布奖励](https://www.gcores.com/articles/182599)|
+|2024-05-29 01:56:16|[机核](https://www.gcores.com/rss)|[《对马岛之魂》名列前茅：Steam周销量排行榜 2024年5月第3周](https://www.gcores.com/articles/182598)|
+|2024-05-29 01:47:13|[机核](https://www.gcores.com/rss)|[索尼Days of Play庆典今日开启，会免游戏同步揭晓](https://www.gcores.com/articles/182597)|
+|2024-05-29 01:15:00|[36氪](https://plink.anyfeeder.com/36kr)|[这家国际机构，让上市公司又爱又恨 36碳深度](https://36kr.com/p/2786774189163400?f=rss)|
+|2024-05-29 02:18:39|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【科股一线拆解】三部门再提推进大模型加速发展，OpenAI官宣启动下一代前沿模型训练，这一大模型发展方向发生重大变化！](https://www.tmtpost.com/7107058.html)|
+|2024-05-29 02:15:09|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[iPhone Shipments in China Surge 52% in April as Apple Ramps up Promotion](https://www.tmtpost.com/7107053.html)|
+|2024-05-29 02:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[年轻人的新目标：撤离北上广，开个谷子店](https://www.tmtpost.com/7106535.html)|
+|2024-05-29 01:33:08|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“跑偏”的儿童智能手表，正在“绑架”更多的家长和孩子](https://www.tmtpost.com/7106818.html)|
+|2024-05-29 01:32:15|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[China Launches a $47.5 Billion Fund to Bolster AI Chip and other Semiconductor Industry](https://www.tmtpost.com/7106813.html)|
+|2024-05-29 01:34:32|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“情感导师”塑造畸形婚恋观](https://www.huxiu.com/article/3080401.html?f=rss)|
+|2024-05-29 01:30:43|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为什么打工人都跑去新加坡？](https://www.huxiu.com/article/3077312.html?f=rss)|
+|2024-05-29 01:24:40|[虎嗅](https://plink.anyfeeder.com/huxiu)|[西瓜味、草莓味、桃子味饮料，为什么总是那么难喝？](https://www.huxiu.com/article/3078277.html?f=rss)|
+|2024-05-29 02:19:50|[人人都是产品经理](https://www.woshipm.com/feed)|[京东、淘宝暗战618的背后](https://www.woshipm.com/share/6062228.html)|
+|2024-05-29 02:15:21|[人人都是产品经理](https://www.woshipm.com/feed)|[如何提升权限模型的易用性](https://www.woshipm.com/share/6061634.html)|
+|2024-05-29 01:54:57|[人人都是产品经理](https://www.woshipm.com/feed)|[交易模型主导产品设计](https://www.woshipm.com/share/6061631.html)|
+|2024-05-29 01:46:22|[人人都是产品经理](https://www.woshipm.com/feed)|[浅谈零售行业的负卖产品设计](https://www.woshipm.com/pd/6061164.html)|
+|2024-05-29 01:41:29|[人人都是产品经理](https://www.woshipm.com/feed)|[健康体检/检后管理APP分析](https://www.woshipm.com/share/6049728.html)|
+|2024-05-29 01:35:26|[人人都是产品经理](https://www.woshipm.com/feed)|[数字化产品体验设计流程简史（2/3）](https://www.woshipm.com/share/6061499.html)|
+|2024-05-29 01:25:04|[人人都是产品经理](https://www.woshipm.com/feed)|[万字长文：B端互联网产品如何多渠道获客](https://www.woshipm.com/operate/6061752.html)|
+|2024-05-29 01:08:03|[人人都是产品经理](https://www.woshipm.com/feed)|[寻找蓝海，关注长尾需求，市场竞争下企业新的增长方向！](https://www.woshipm.com/share/6061580.html)|
+|2024-05-29 10:34:12|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[迪卡侬遭遇重大数据泄露：据称有 6,600 多名员工的信息被泄露](https://www.anquanke.com/post/id/296889)|
+|2024-05-29 10:28:52|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[黑客声称 美国票务巨头Ticketmaster 数据遭泄露：5.6 亿用户详细信息和信用卡信息面临风险](https://www.anquanke.com/post/id/296886)|
+|2024-05-29 10:23:20|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[RansomHub 声称对佳士得拍卖行的网络攻击负责](https://www.anquanke.com/post/id/296883)|
+|2024-05-29 10:15:37|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[Google Play 商店的 PDF 和二维码阅读器应用中发现了 Anatsa 银行木马](https://www.anquanke.com/post/id/296880)|
+|2024-05-29 01:06:46|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[原OpenAI董事会成员揭露董事会事先并不知道ChatGPT的推出计划](https://m.cnbeta.com.tw/view/1432708.htm)|
+|2024-05-29 01:06:33|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[马斯克股东大会前亲自下场拉票：邀15名股东参观奥斯汀工厂](https://m.cnbeta.com.tw/view/1432707.htm)|
+|2024-05-29 01:06:23|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[纳指历史首次站上17000点 英伟达一晚涨出一个麦当劳](https://m.cnbeta.com.tw/view/1432706.htm)|
+|2024-05-29 01:06:07|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[“木头姐”凯茜·伍德宣布投资xAI](https://m.cnbeta.com.tw/view/1432705.htm)|
+|2024-05-29 01:05:55|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Lucid首席执行官回击马斯克 称特斯拉已“迷失方向”](https://m.cnbeta.com.tw/view/1432704.htm)|
+|2024-05-29 01:05:40|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[拖欠729人薪资，钟薛高创始人开始“卖红薯还债”](https://m.cnbeta.com.tw/view/1432703.htm)|
+|2024-05-29 01:05:28|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[联想宣布与沙特主权财富基金达成战略合作 拟发行20亿美元零息可换股债券](https://m.cnbeta.com.tw/view/1432702.htm)|
+|2024-05-29 01:05:15|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[小红书再现涉嫌违法信息 法律专家：不能只是一删了之 应承担强制报告义务](https://m.cnbeta.com.tw/view/1432701.htm)|
+|2024-05-29 02:12:00|[虎嗅](https://rss.huxiu.com/)|[年轻人的新目标：撤离大城市，开个谷子店](https://www.huxiu.com/article/3078703.html?f=rss)|
+|2024-05-29 02:08:41|[虎嗅](https://rss.huxiu.com/)|[最近开始恢复健身，发现还是得靠它](https://www.huxiu.com/article/3080639.html?f=rss)|
+|2024-05-29 02:03:02|[虎嗅](https://rss.huxiu.com/)|[白酒行业的“人口红利”还在吗？](https://www.huxiu.com/article/3080417.html?f=rss)|
+|2024-05-29 02:00:00|[虎嗅](https://rss.huxiu.com/)|[倾家荡产搞基建，非洲小国如何通过一场豪赌逆转国运](https://www.huxiu.com/article/3074451.html?f=rss)|
+|2024-05-29 01:54:00|[虎嗅](https://rss.huxiu.com/)|[Suno能否改造音乐市场？](https://www.huxiu.com/article/3078704.html?f=rss)|
+|2024-05-29 01:43:50|[虎嗅](https://rss.huxiu.com/)|[AI都有幻觉，可何所有人偏偏狂踩Google AI搜索？](https://www.huxiu.com/article/3079111.html?f=rss)|
+|2024-05-29 02:24:33|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[爱尔眼科 2023 年度股东大会分享](http://xueqiu.com/3439096517/291749594)|
+|2024-05-29 01:03:49|[阮一峰的网络日志](http://feeds.feedburner.com/ruanyifeng)|[分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)|
+|2024-05-29 09:47:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[AI Cloud Application Shield技术架构研究 - 郑瀚Andrew](https://buaq.net/go-242099.html)|
+|2024-05-29 09:03:49|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[分布式数据库入门：以国产数据库 TDSQL 为例](https://buaq.net/go-242098.html)|
+|2024-05-29 08:53:26|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Keylogging in the Windows Kernel with undocumented data structures](https://buaq.net/go-242102.html)|
+|2024-05-29 08:46:39|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Is that It&#x26;#x3f; Finding the Unknown: Correlations Between Honeypot Logs &#x26; PCAPs &#x5b;Guest Diary&#x5d;, Tue, May 28th ](https://buaq.net/go-242101.html)|
+|2024-05-29 08:30:01|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Hunting down the HVCI bug in UEFI](https://buaq.net/go-242103.html)|
+|2024-05-29 01:02:00|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[孩子不爱说话、不合群，就是自闭症？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%AD%A9%E5%AD%90%E4%B8%8D%E7%88%B1%E8%AF%B4%E8%AF%9D%E3%80%81%E4%B8%8D%E5%90%88%E7%BE%A4%EF%BC%8C%E5%B0%B1%E6%98%AF%E8%87%AA%E9%97%AD%E7%97%87%EF%BC%9F)|
+|2024-05-29 01:02:00|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[夏天想要裸睡爽，床上这东西真要好好挑！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%8F%E5%A4%A9%E6%83%B3%E8%A6%81%E8%A3%B8%E7%9D%A1%E7%88%BD%EF%BC%8C%E5%BA%8A%E4%B8%8A%E8%BF%99%E4%B8%9C%E8%A5%BF%E7%9C%9F%E8%A6%81%E5%A5%BD%E5%A5%BD%E6%8C%91%EF%BC%81)|
+|2024-05-29 01:02:00|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[鸡蛋最营养的部分，可能被你丢掉了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%B8%A1%E8%9B%8B%E6%9C%80%E8%90%A5%E5%85%BB%E7%9A%84%E9%83%A8%E5%88%86%EF%BC%8C%E5%8F%AF%E8%83%BD%E8%A2%AB%E4%BD%A0%E4%B8%A2%E6%8E%89%E4%BA%86)|
+|2024-05-29 02:31:46|[IT之家](https://www.ithome.com/rss/)|[消息称微信视频号直播电商团队调整，并入微信开放平台团队](https://www.ithome.com/0/771/443.htm)|
+|2024-05-29 02:31:23|[IT之家](https://www.ithome.com/rss/)|[消息称 vivo X200 系列手机首发天玑 9400 处理器，延续直屏设计](https://www.ithome.com/0/771/442.htm)|
+|2024-05-29 02:30:08|[IT之家](https://www.ithome.com/rss/)|[支持 14 天试玩：极摩客 K6 迷你主机 R7 7840HS 准系统版 1999 元新低](https://www.ithome.com/0/771/441.htm)|
+|2024-05-29 02:26:26|[IT之家](https://www.ithome.com/rss/)|[索尼宣布 5 月 31 日开启“Days of Play”年中大促：PS5 轻薄版 2699~3299 元，国行《麻布仔大冒险》游戏 139 元](https://www.ithome.com/0/771/440.htm)|
+|2024-05-29 02:25:31|[IT之家](https://www.ithome.com/rss/)|[OpenAI “宫斗大戏”拼图，前董事会成员回顾阿尔特曼被罢免风波](https://www.ithome.com/0/771/439.htm)|
+|2024-05-29 02:18:42|[IT之家](https://www.ithome.com/rss/)|[松下承认 LUMIX S9 相机宣传图造假并致歉，已删除相关图片](https://www.ithome.com/0/771/438.htm)|
+|2024-05-29 02:16:50|[IT之家](https://www.ithome.com/rss/)|[迪士尼动画电影《海洋奇缘 2》海报公开，将于 11 月 27 日在北美上映](https://www.ithome.com/0/771/437.htm)|
+|2024-05-29 02:12:00|[IT之家](https://www.ithome.com/rss/)|[Sabrent 推出 EC-NE30 迷你硬盘盒，仅支持 M.2 2230 固态硬盘](https://www.ithome.com/0/771/435.htm)|
+|2024-05-29 02:11:59|[IT之家](https://www.ithome.com/rss/)|[12+256G 京东 2799 元：小米 13 手机限时百亿补贴 6 期免息](https://www.ithome.com/0/771/434.htm)|
+|2024-05-29 02:01:55|[IT之家](https://www.ithome.com/rss/)|[任天堂 Switch 游戏《路易吉洋馆 2 HD》官网上线，6 月 27 日发售](https://www.ithome.com/0/771/432.htm)|
+|2024-05-29 01:55:59|[IT之家](https://www.ithome.com/rss/)|[三星 Galaxy Z Flip6 手机通过 FCC 认证，电池容量比前代增加 200mAh](https://www.ithome.com/0/771/430.htm)|
+|2024-05-29 01:54:21|[IT之家](https://www.ithome.com/rss/)|[Canalys：今年 AI 手机出货占比 16%，预测到 2028 年市场份额将达 54%](https://www.ithome.com/0/771/429.htm)|
+|2024-05-29 01:43:54|[IT之家](https://www.ithome.com/rss/)|[vivo WATCH GT 智能手表细节公布：铝合金中框、快拆表带设计](https://www.ithome.com/0/771/428.htm)|
+|2024-05-29 01:41:42|[IT之家](https://www.ithome.com/rss/)|[电池最高 22.5mAh，三星 Galaxy Ring 智能戒指“证件照”公示](https://www.ithome.com/0/771/427.htm)|
+|2024-05-29 01:41:16|[IT之家](https://www.ithome.com/rss/)|[GPD DUO 双屏 OLED 笔记本亮相：上下翻折多形态，支持 Surface Pen](https://www.ithome.com/0/771/426.htm)|
+|2024-05-29 01:34:50|[IT之家](https://www.ithome.com/rss/)|[大 1 匹新一级能效：小米巨省电 V1A1 空调 1547 元 3 期免息预售](https://www.ithome.com/0/771/425.htm)|
+|2024-05-29 01:33:32|[IT之家](https://www.ithome.com/rss/)|[华为鸿蒙智行首款行政级豪华旗舰轿车，享界 S9 官宣 5 月 31 日揭秘](https://www.ithome.com/0/771/423.htm)|
+|2024-05-29 01:29:27|[IT之家](https://www.ithome.com/rss/)|[vivo X100 Ultra 手机开售 1 小时销售额突破 5 亿元](https://www.ithome.com/0/771/420.htm)|
+|2024-05-29 01:28:13|[IT之家](https://www.ithome.com/rss/)|[工信部规划 1 亿个车联网专用号码，支持智能网联汽车和车联网高质量发展](https://www.ithome.com/0/771/422.htm)|
+|2024-05-29 01:26:42|[IT之家](https://www.ithome.com/rss/)|[广颖电通将参加 2024 台北电脑展，展出 PCIe Gen5 无缓固态硬盘 US85](https://www.ithome.com/0/771/421.htm)|
+|2024-05-29 02:22:51|[TechNews 科技新報](http://technews.tw/feed/)|[車體輕量化材料！中鋼成功開發熱衝壓成形 AO 塗層材汽車用鋼](https://finance.technews.tw/2024/05/29/ao/)|
+|2024-05-29 02:15:01|[TechNews 科技新報](http://technews.tw/feed/)|[iPhone 16 備貨啟動！大立光、玉晶光積極準備中](https://technews.tw/2024/05/29/iphone-16-stock-up/)|
+|2024-05-29 02:00:27|[TechNews 科技新報](http://technews.tw/feed/)|[美國政府報告：巴西磁場異常擴大，恐干擾無線電波](https://technews.tw/2024/05/29/saa-expand/)|
+|2024-05-29 01:45:49|[TechNews 科技新報](http://technews.tw/feed/)|[取代分析師？GPT-4 預測更準確，報酬擊敗市場](https://finance.technews.tw/2024/05/29/gpt-4-is-better-than-humans-at-financial-forecasting/)|
+|2024-05-29 01:35:13|[TechNews 科技新報](http://technews.tw/feed/)|[輝達護城河堅不可摧，專家盼 10 兆美元市值＋庫藏股](https://finance.technews.tw/2024/05/29/nvidia-stock-has-258-percent-upside-as-its-impenetrable-moat-will-propel-it-to-a-10-trillion-valuation-by-2030/)|
+|2024-05-29 01:20:49|[TechNews 科技新報](http://technews.tw/feed/)|[洩密 SK 海力士關鍵資料給華為，中國籍員工遭韓警方逮捕](https://finance.technews.tw/2024/05/29/leaked-key-sk-hynix-information-to-huawei-and-chinese-employees-were-arrested-and-investigated/)|
+|2024-05-29 01:25:16|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[vditor 在vue 2.6中使用，输入内容后，无法通过backspace键删除内容，如何处理？](https://segmentfault.com/q/1010000044920710)|
 |2024-05-29 01:22:00|[V2EX](http://www.v2ex.com/index.xml)|[ 杭州 杭州地铁优惠，没用起来的赶紧看下](https://www.v2ex.com/t/1044915#reply0)|
 |2024-05-29 01:19:24|[V2EX](http://www.v2ex.com/index.xml)|[ 信息安全 由于找不到 ffmpeg.dll，无法继续执行代码。](https://www.v2ex.com/t/1044914#reply0)|
 |2024-05-29 01:17:42|[V2EX](http://www.v2ex.com/index.xml)|[ English 为什么有介词 at+节日的搭配？比如 at Christmas](https://www.v2ex.com/t/1044912#reply0)|
