@@ -1,13 +1,108 @@
-﻿# 每日资讯（2024-05-29）
+﻿# 每日资讯（2024-05-30）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-30 00:36:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[比亚迪，没有对手？](https://m.cnbeta.com.tw/view/1432859.htm)|
+|2024-05-30 00:36:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[欧盟监管机构：欧洲在人工智能竞赛中落后于美国和中国](https://m.cnbeta.com.tw/view/1432858.htm)|
+|2024-05-30 00:36:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[专家称Google AI搜索可能会蚕食自己收入来源](https://m.cnbeta.com.tw/view/1432857.htm)|
+|2024-05-30 00:36:05|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美国最大养老基金反对马斯克薪酬方案 马斯克回应](https://m.cnbeta.com.tw/view/1432856.htm)|
+|2024-05-30 00:35:53|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[新款保时捷911很强 因为它让老款变得更香了](https://m.cnbeta.com.tw/view/1432854.htm)|
+|2024-05-30 00:35:39|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[长城汽车德国公司召开全员大会 宣布关闭办公室 八月底终止所有雇佣合同](https://m.cnbeta.com.tw/view/1432853.htm)|
+|2024-05-30 00:35:26|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[法拉第未来重挫超60% 年产1000辆汽车目标也“黄了”](https://m.cnbeta.com.tw/view/1432852.htm)|
+|2024-05-30 00:35:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[PC销量两年来首次实现增长 惠普Q2营收超预期](https://m.cnbeta.com.tw/view/1432849.htm)|
+|2024-05-30 00:05:13|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[特斯拉反击代理咨询机构 称天价薪酬方案激励马斯克实现非凡增长](https://m.cnbeta.com.tw/view/1432848.htm)|
+|2024-05-30 01:02:43|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[IMF上调对中国经济增长预期，但对其产业政策提出质疑](https://cn.nytimes.com/business/20240530/imf-china-economy/?utm_source=RSS)|
+|2024-05-30 00:45:00|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【科股早餐会】又有两家A股公司退市；国内机票燃油附加费将迎来年内第二次下调；节能降碳行动提出控制氧化铝新增产能，这类企业或受益；资金加码半导体，两大核心环节或受益；铜矿、阴极铜供给紧张，短期价格震荡，中期或呈上行趋势](https://www.tmtpost.com/7108682.html)|
+|2024-05-30 00:09:17|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[音频市场进入AI时代，开放式耳机终于迎来爆发期？](https://www.tmtpost.com/7108087.html)|
+|2024-05-30 01:17:31|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 售后新换的电池异常坚挺](https://www.v2ex.com/t/1045245#reply1)|
+|2024-05-30 01:07:17|[V2EX](https://www.v2ex.com/index.xml)|[ Android 小米 HyperOS Android 13 设备热点和 USB 网络共享不能同时开启获得 IPv6](https://www.v2ex.com/t/1045244#reply0)|
+|2024-05-30 01:01:44|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 想咨询下：没有工作 对办理 HK 银行卡有影响么？](https://www.v2ex.com/t/1045241#reply3)|
+|2024-05-30 00:55:10|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 请问有基于显示器支架的增高杆卖吗？](https://www.v2ex.com/t/1045240#reply2)|
+|2024-05-30 00:54:30|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求 Windows 自带画图的增强平替推荐](https://www.v2ex.com/t/1045239#reply4)|
+|2024-05-30 00:54:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 苹果手机真的信号不好吗？](https://www.v2ex.com/t/1045238#reply35)|
+|2024-05-30 00:53:06|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 什么浏览器支持 intellij 一样的在标签页中前进后退 navigation?](https://www.v2ex.com/t/1045237#reply1)|
+|2024-05-30 00:29:37|[V2EX](https://www.v2ex.com/index.xml)|[ 北京 个人转租 房东直租无中介费 沙河地铁站宏枫攀达小区](https://www.v2ex.com/t/1045236#reply1)|
+|2024-05-30 00:16:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 我做了一个游戏——无尽迷宫](https://www.v2ex.com/t/1045234#reply9)|
+|2024-05-30 00:14:17|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 小游戏开发者出海挣钱的机会来了， Youtube Playables 广告分成](https://www.v2ex.com/t/1045233#reply1)|
+|2024-05-30 07:35:13|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Malicious PyPI Package ‘Pytoileur’ Targets Windows and Leverages Stack Overflow for Distribution](https://buaq.net/go-242370.html)|
+|2024-05-30 07:30:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cybercriminals pose as "helpful" Stack Overflow users to push malware](https://buaq.net/go-242358.html)|
+|2024-05-30 06:31:19|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[NIST expects to clear backlog in vulnerabilities database by end of fiscal year](https://buaq.net/go-242359.html)|
+|2024-05-30 06:30:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Windows 11 KB5037853 update fixes File Explorer issues, 20 bugs](https://buaq.net/go-242360.html)|
+|2024-05-30 05:56:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[How PricewaterhouseCoopers' RWA Tokenization Cohort Offers a Glimpse Into The Tokenized Future](https://buaq.net/go-242362.html)|
+|2024-05-30 00:55:33|[精品MAC应用分享](https://xclient.info/feed)|[Perfectly Clear WorkBench 4.6.1.2662 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html)|
+|2024-05-30 00:11:34|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[结合当下的就业情况，你认为有哪些专业值得推荐？](https://www.zhihu.com/question/656738181/answer/3514414425)|
+|2024-05-30 00:18:03|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[前端中的那些 This vs That](https://juejin.cn/post/7374308419073785865)|
+|2024-05-30 01:00:00|[36氪](https://plink.anyfeeder.com/36kr)|[携手5大科技项目，在供应链升级中抢抓全球机遇｜每日路演回顾](https://36kr.com/p/2796682307169927?f=rss)|
+|2024-05-30 00:06:29|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨钟薛高创始人卖红薯被指“红薯刺客”；小林制药已致5死280余人住院；6月5日起国内机票燃油附加费下调至30/50元](https://36kr.com/p/2797657799242627?f=rss)|
+|2024-05-30 00:51:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[大模型未来三年的十个假设](https://www.huxiu.com/article/3082905.html?f=rss)|
+|2024-05-30 00:45:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[全网都在嗑的顶流恋人，其实渣到不行](https://www.huxiu.com/article/3083335.html?f=rss)|
+|2024-05-30 00:10:29|[虎嗅](https://plink.anyfeeder.com/huxiu)|[我们什么时候才能不加班？](https://www.huxiu.com/article/3082154.html?f=rss)|
+|2024-05-30 00:00:37|[虎嗅](https://plink.anyfeeder.com/huxiu)|[常驻越南1年半后，对越南出海祛魅了](https://www.huxiu.com/article/3081132.html?f=rss)|
+|2024-05-30 00:00:01|[虎嗅](https://plink.anyfeeder.com/huxiu)|[留学生算“留学账” 越算越难](https://www.huxiu.com/article/3082579.html?f=rss)|
+|2024-05-30 00:41:08|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果 WWDC 具体日程安排正式公布/Open AI CEO 及其爱人承诺未来捐出大部分财富/法拉第未来称可能永远无法盈利](https://www.ifanr.com/1587273?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-05-30 01:04:52|[虎嗅](https://rss.huxiu.com/)|[FSD将入华，我们算了算它能帮特斯拉多赚多少钱](https://www.huxiu.com/article/3080684.html?f=rss)|
+|2024-05-30 01:00:13|[虎嗅](https://rss.huxiu.com/)|[AI办报卖咖啡，月入近10万，他是怎么做到的？](https://www.huxiu.com/article/3080890.html?f=rss)|
+|2024-05-30 00:56:55|[虎嗅](https://rss.huxiu.com/)|[当代人困于电量焦虑](https://www.huxiu.com/article/3082915.html?f=rss)|
+|2024-05-30 01:09:50|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何通过 OAuth2.0 的 access_token 限制接口访问权限？](https://segmentfault.com/q/1010000044923418)|
+|2024-05-30 01:02:28|[人人都是产品经理](https://www.woshipm.com/feed)|[我们小公司，哪像华为一样，用得上IPD（集成产品开发）？](https://www.woshipm.com/share/6058530.html)|
+|2024-05-30 01:21:00|[TechNews 科技新報](http://technews.tw/feed/)|[CRM AI 大廠 Salesforce 營收、財測遜預期，盤後跌 15%](https://finance.technews.tw/2024/05/30/salesforce-financial-report-for-the-first-quarter-of-fiscal-year-2025/)|
+|2024-05-30 01:11:22|[TechNews 科技新報](http://technews.tw/feed/)|[搶攻東南亞 MPN 市場！藥華藥新藥 Ropeg 獲新加坡藥證](https://finance.technews.tw/2024/05/30/mpn/)|
+|2024-05-30 01:10:26|[TechNews 科技新報](http://technews.tw/feed/)|[HP 營收夯、看好 AI PC 將占下半年 10% 出貨，盤後漲](https://finance.technews.tw/2024/05/30/hp-2024q2-financial-reporting/)|
+|2024-05-30 01:00:25|[TechNews 科技新報](http://technews.tw/feed/)|[【COMPUTEX 2024】未來移動的明日世界：當車不只是車](https://technews.tw/2024/05/30/computex-2024-future-mobilty/)|
+|2024-05-30 00:59:31|[TechNews 科技新報](http://technews.tw/feed/)|[AI 旺、10 大半導體廠獲利飆 3.6 倍，輝達貢獻逾四成](https://technews.tw/2024/05/30/top-10-semiconductor-factories-make-profits/)|
+|2024-05-30 00:56:06|[TechNews 科技新報](http://technews.tw/feed/)|[三星電子工會 6/7 發起罷工，分析師：工廠運作不受影響](https://technews.tw/2024/05/30/samsung-electronic-strike/)|
+|2024-05-30 00:48:24|[TechNews 科技新報](http://technews.tw/feed/)|[最安靜的消失：有些恆星跳過超新星爆炸階段，直接塌縮成黑洞](https://technews.tw/2024/05/30/binary-system-vfts-243-supernova-black-hole/)|
+|2024-05-30 00:47:04|[TechNews 科技新報](http://technews.tw/feed/)|[消費電子風向球 Best Buy Q1 不妙，營收料連十降](https://finance.technews.tw/2024/05/30/best-buy/)|
+|2024-05-30 00:40:44|[TechNews 科技新報](http://technews.tw/feed/)|[PCE 前殖利率跳高、憂降息難，那指拉回](https://finance.technews.tw/2024/05/30/us-stocks-0530/)|
+|2024-05-30 00:32:16|[TechNews 科技新報](http://technews.tw/feed/)|[電視液晶面板價格續揚，今後關注「夏普影響」](https://technews.tw/2024/05/30/tv-lcd-panel-prices-continue-to-rise-2/)|
+|2024-05-30 00:31:19|[TechNews 科技新報](http://technews.tw/feed/)|[Google 確認 2,500 多頁內部文件外流，SEO 產業掀連鎖反應](https://infosecu.technews.tw/2024/05/30/google-confirms-the-leaked-search-documents-are-real/)|
+|2024-05-30 00:30:55|[TechNews 科技新報](http://technews.tw/feed/)|[接棒 Cortex-X4！Arm 發布最大升級 Cortex-X925，AI 效能增 41%](https://technews.tw/2024/05/30/arm-cortex-x925-css-for-client-and-immortalis-g925/)|
+|2024-05-30 00:30:55|[TechNews 科技新報](http://technews.tw/feed/)|[電價漲十倍？電價成本到底該有多高？](https://finance.technews.tw/2024/05/30/how-high-should-the-cost-of-electricity-be/)|
+|2024-05-30 00:30:22|[TechNews 科技新報](http://technews.tw/feed/)|[狗狗幣拋售潮湧現？若轉投這個新 ICO，它能帶來 1,000% 的收益嗎？](https://technews.tw/2024/05/30/dogeverse/)|
+|2024-05-30 00:20:32|[TechNews 科技新報](http://technews.tw/feed/)|[以「催產素」改善孤獨感，值得深入研究](https://technews.tw/2024/05/30/doctors-administer-oxytocin-nasal-spray-to-lonely-people/)|
+|2024-05-30 00:10:14|[TechNews 科技新報](http://technews.tw/feed/)|[澳洲開始測試基因改造小麥，欲增加 10% 產量](https://technews.tw/2024/05/30/australian-trial-of-gene-edited-wheat-aims-for-10-bigger-yields/)|
+|2024-05-30 00:00:25|[TechNews 科技新報](http://technews.tw/feed/)|[重塑新聞版權，馬斯克的 AI 新聞願景與影響分析](https://technews.tw/2024/05/30/elon-musk-ai-news/)|
+|2024-05-30 01:18:46|[IT之家](https://www.ithome.com/rss/)|[Canalys：Q1 全球可穿戴腕表设备出货量 4120 万台，苹果、小米、华为分列前三](https://www.ithome.com/0/771/684.htm)|
+|2024-05-30 01:16:47|[IT之家](https://www.ithome.com/rss/)|[阿里影业 2024 财年收入 50.36 亿元，同比增长 44%，实现扭亏为盈](https://www.ithome.com/0/771/683.htm)|
+|2024-05-30 01:14:54|[IT之家](https://www.ithome.com/rss/)|[周星驰首部微短剧《金猪玉叶》6 月 2 日上线，24 集 100 多处致敬](https://www.ithome.com/0/771/680.htm)|
+|2024-05-30 01:12:17|[IT之家](https://www.ithome.com/rss/)|[欧盟宣布成立人工智能办公室，对 AI 进行监管](https://www.ithome.com/0/771/682.htm)|
+|2024-05-30 01:12:06|[IT之家](https://www.ithome.com/rss/)|[索尼：PS4 月活玩家 4900 万、占比 50%，仍是公司业务重要组成部分](https://www.ithome.com/0/771/681.htm)|
+|2024-05-30 01:09:05|[IT之家](https://www.ithome.com/rss/)|[Framework 13 模块化笔记本更新，换装英特尔酷睿 Ultra 处理器](https://www.ithome.com/0/771/679.htm)|
+|2024-05-30 01:07:47|[IT之家](https://www.ithome.com/rss/)|[斯巴鲁、丰田、马自达：将开发适应电动汽车时代的新型发动机](https://www.ithome.com/0/771/678.htm)|
+|2024-05-30 01:01:05|[IT之家](https://www.ithome.com/rss/)|[6000M 无线速率：小米 Redmi AX6000 路由器 297 元京东 618 发车](https://www.ithome.com/0/771/677.htm)|
+|2024-05-30 00:58:58|[IT之家](https://www.ithome.com/rss/)|[华为面向北部非洲发布星河 AI 网络产品及解决方案](https://www.ithome.com/0/771/676.htm)|
+|2024-05-30 00:56:50|[IT之家](https://www.ithome.com/rss/)|[微软新研究：利用 AI 保留布局和设计下，将不可编辑的 PDF 文件转换为可编辑文档](https://www.ithome.com/0/771/674.htm)|
+|2024-05-30 00:55:02|[IT之家](https://www.ithome.com/rss/)|[首发价 3699 元：小米全能扫拖机器人 M30 Pro 京东 2965 元 3 期免息](https://www.ithome.com/0/771/673.htm)|
+|2024-05-30 00:54:51|[IT之家](https://www.ithome.com/rss/)|[2499 元 → 1719 元：华凌 HE1 Pro 1.5 匹空调再降新低](https://www.ithome.com/0/771/672.htm)|
+|2024-05-30 00:52:02|[IT之家](https://www.ithome.com/rss/)|[蔚来旗下乐道 L60 白色款实车曝光：预售价 21.99 万元起，9 月上市](https://www.ithome.com/0/771/671.htm)|
+|2024-05-30 00:43:40|[IT之家](https://www.ithome.com/rss/)|[全球首家，台铃氢能源电动车批量下线](https://www.ithome.com/0/771/670.htm)|
+|2024-05-30 00:41:31|[IT之家](https://www.ithome.com/rss/)|[苹果如何测试 iPhone 防水等耐用性？MKBHD 新视频带你揭秘](https://www.ithome.com/0/771/669.htm)|
+|2024-05-30 00:36:56|[IT之家](https://www.ithome.com/rss/)|[登上《自然》封面，清华大学科学家研制出世界首款类脑互补视觉芯片“天眸芯”](https://www.ithome.com/0/771/668.htm)|
+|2024-05-30 00:36:23|[IT之家](https://www.ithome.com/rss/)|[小米米家无线洗车机 2 上市：1.1kg 机身、15 分钟续航，289 元](https://www.ithome.com/0/771/667.htm)|
+|2024-05-30 00:23:17|[IT之家](https://www.ithome.com/rss/)|[消息称 OpenAI 正帮助苹果改善 Siri，微软涌现担忧情绪](https://www.ithome.com/0/771/665.htm)|
+|2024-05-30 00:20:42|[IT之家](https://www.ithome.com/rss/)|[阿里巴巴宣布完成发行 50 亿美元高级可转债](https://www.ithome.com/0/771/664.htm)|
+|2024-05-30 00:20:28|[IT之家](https://www.ithome.com/rss/)|[科技昨夜今晨 0530：国务院：逐步取消各地新能源汽车购买限制；中国消费者诉苹果反垄断案一审宣判，苹果有市场支配地位，但未滥用；自定义 GPT 等功能已向 ChatGPT 全体用户免费开放](https://www.ithome.com/0/771/663.htm)|
+|2024-05-30 00:15:29|[IT之家](https://www.ithome.com/rss/)|[CDPR 将为《赛博朋克 2077》提供 AMD FSR3 技术支持](https://www.ithome.com/0/771/662.htm)|
+|2024-05-30 00:03:51|[IT之家](https://www.ithome.com/rss/)|[发行 6 个月，索尼《漫威蜘蛛侠 2》游戏全球销量已超 1100 万套](https://www.ithome.com/0/771/660.htm)|
+|2024-05-30 00:27:05|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9772763)|
+|2024-05-30 00:27:05|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[汉武帝统治相当折腾，为什么没有亡国？](https://daily.zhihu.com/story/9772751)|
+|2024-05-30 00:27:05|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[只有江苏常州方言中把「带馅的」都叫做馒头吗？](https://daily.zhihu.com/story/9772760)|
+|2024-05-30 00:27:05|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[为什么同一道光通过介质，有的光折射有的光反射？](https://daily.zhihu.com/story/9772762)|
+|2024-05-30 00:27:05|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[为什么空调房里没蚊子？](https://daily.zhihu.com/story/9772746)|
 |2024-05-29 17:08:38|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[以军称已对整个“费城走廊”实现“战术控制”](https://m.thepaper.cn/detail/27552114)|
 |2024-05-29 16:35:49|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[伊朗发布第二份直升机事故调查报告：排除人为破坏可能性](https://m.thepaper.cn/detail/27552111)|
 |2024-05-29 13:01:36|[果壳网 科学人](https://rsshub.app/guokr/scientific)|[漂流甩头加养生馆按摩，让我发现自己脖子上多了2根肋骨](https://www.guokr.com/article/465565/)|
 |2024-05-29 21:55:55|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 微信被公司网关封了，怎么破？](https://www.v2ex.com/t/1045228#reply0)|
 |2024-05-29 21:53:43|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 docker 容器内应用链接远程邮件服务器问题](https://www.v2ex.com/t/1045227#reply0)|
 |2024-05-29 20:41:11|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 请问如何在 macos 上屏蔽软件联网](https://www.v2ex.com/t/1045226#reply1)|
+|2024-05-30 05:32:13|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[NIST Struggles with NVD Backlog as 93% of Flaws Remain Unanalyzed](https://buaq.net/go-242347.html)|
+|2024-05-30 05:31:43|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Ticketmaster Hacked, Personal Data of 560 Million Customers Leaked, ShinyHunters Claim](https://buaq.net/go-242348.html)|
+|2024-05-30 05:30:17|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Windows 10 KB5037849 update released with 9 changes or fixes](https://buaq.net/go-242340.html)|
+|2024-05-30 05:15:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cooler Master hit by data breach exposing customer information](https://buaq.net/go-242341.html)|
+|2024-05-30 05:01:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[North Korea’s ‘Moonstone Sleet’ using fake tank game, custom ransomware in attacks](https://buaq.net/go-242342.html)|
+|2024-05-30 03:46:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Indian police arrest five accused of trafficking people into scam compounds](https://buaq.net/go-242343.html)|
+|2024-05-30 03:45:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Check Point VPN zero-day exploited in attacks since April 30](https://buaq.net/go-242344.html)|
+|2024-05-30 03:44:48|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Scammers Build Fraud Campaigns Around Free Piano Offers](https://buaq.net/go-242349.html)|
 |2024-05-29 06:03:00|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[推荐一台 Windows 笔记本？](https://www.v2ex.com/t/1045031#reply91)|
 |2024-05-29 14:03:49|["库克 苹果" - Google N...](https://news.google.com/news/rss/search/section/q/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C?hl=en&gl=US)|[French publishers ask Tim Cook to abandon forthcoming Web Eraser - AppleInsider](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yNC8wNS8yOS9mcmVuY2gtcHVibGlzaGVycy1hc2stdGltLWNvb2stdG8tYWJhbmRvbi1mb3J0aGNvbWluZy13ZWItZXJhc2Vy0gFwaHR0cHM6Ly9hcHBsZWluc2lkZXIuY29tL2FydGljbGVzLzI0LzA1LzI5L2ZyZW5jaC1wdWJsaXNoZXJzLWFzay10aW0tY29vay10by1hYmFuZG9uLWZvcnRoY29taW5nLXdlYi1lcmFzZXIvYW1wLw?oc=5)|
 |2024-05-29 14:59:07|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[张德芹茅台股东大会首秀：怎么分红、提高分红，大股东和中小股东诉求一致](https://m.thepaper.cn/detail/27551898)|
@@ -41,6 +136,19 @@
 |2024-05-29 16:35:33|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[巴西宣布驻以色列大使改任他职](http://www.news.cn/20240530/b31f9a1155f044c8bee6c791ebb39f06/c.html)|
 |2024-05-29 16:18:34|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[中国代表团：对少数国家在世卫大会就台湾问题发表错误言论表示严正抗议](http://www.news.cn/20240530/cb109cc139074a3e99bf96d74e631304/c.html)|
 |2024-05-29 15:53:15|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[匈牙利外长反对向乌克兰派兵](http://www.news.cn/20240529/314ea0ef5a5b4c3f9e3e46daf3080be6/c.html)|
+|2024-05-30 03:21:12|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Is Your Computer Part of ‘The Largest Botnet Ever?’](https://buaq.net/go-242321.html)|
+|2024-05-30 03:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[USENIX Security ’23 – Dubhe: Succinct Zero-Knowledge Proofs for Standard AES and related Applications](https://buaq.net/go-242331.html)|
+|2024-05-30 02:42:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Retrieving Deleted Files on the Commodore C64 in 1987](https://buaq.net/go-242335.html)|
+|2024-05-30 02:27:44|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Check Point released hotfix for actively exploited VPN zero-day](https://buaq.net/go-242322.html)|
+|2024-05-30 02:22:21|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Going going gone! Ransomware attack grabs Christie’s client data for a steal](https://buaq.net/go-242315.html)|
+|2024-05-30 02:16:26|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Botnet down and administrator arrested in 911 S5 case, FBI says](https://buaq.net/go-242316.html)|
+|2024-05-30 02:15:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Free Piano phish targets American university students, staff](https://buaq.net/go-242317.html)|
+|2024-05-30 02:01:27|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Nurses at Ascension hospital in Michigan raise alarms about safety following ransomware attack](https://buaq.net/go-242318.html)|
+|2024-05-30 01:29:52|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Christie’s Auction House Hacked, Sensitive Data from 500,000 Customers Stolen](https://buaq.net/go-242332.html)|
+|2024-05-30 01:22:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cybercriminals Abuse StackOverflow to Promote Malicious Python Package](https://buaq.net/go-242320.html)|
+|2024-05-30 01:15:17|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[US dismantles 911 S5 botnet used for cyberattacks, arrests admin](https://buaq.net/go-242319.html)|
+|2024-05-30 01:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Randall Munroe’s XKCD ‘Local Group’](https://buaq.net/go-242333.html)|
+|2024-05-30 00:59:06|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[iOS Forensic Toolkit: macOS, Windows, and Linux Editions Explained](https://buaq.net/go-242307.html)|
 |2024-05-29 14:54:42|[异次元软件世界](https://feed.iplaysoft.com)|[酷爆了！全套半透明壳 Game Boy 游戏掌机手机壁纸系列收集打包下载](https://www.iplaysoft.com/gameboy-clear-wallpapers.html)|
 |2024-05-29 16:39:35|[虎嗅](https://plink.anyfeeder.com/huxiu)|[东鹏饮料大股东套现19亿](https://www.huxiu.com/article/3082735.html?f=rss)|
 |2024-05-29 16:31:37|[虎嗅](https://plink.anyfeeder.com/huxiu)|[超大城市转型发展的成都新探索](https://www.huxiu.com/article/3082734.html?f=rss)|
@@ -132,6 +240,10 @@
 |2024-05-29 12:05:38|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[全部解锁最高需要「3200RMB」，如何评价Faker首款名人堂皮肤的定价策略？](https://www.zhihu.com/question/657537563/answer/3514091473)|
 |2024-05-29 11:49:11|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[胖东来「阴影」下的许昌零售业，有的停业倒闭，有的「胖东来化」，胖东来是否因迎合了大众消费而成功？](https://www.zhihu.com/question/657439930/answer/3514072525)|
 |2024-05-29 13:57:00|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[李宁的下一个故事，怎么讲？](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%9D%8E%E5%AE%81%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%95%85%E4%BA%8B%EF%BC%8C%E6%80%8E%E4%B9%88%E8%AE%B2%EF%BC%9F)|
+|2024-05-30 00:32:13|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[New Generative AI category added to Talos reputation services](https://buaq.net/go-242291.html)|
+|2024-05-30 00:31:41|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Germany's cyber ambassador on the response to Russia: 'All of this takes time'](https://buaq.net/go-242292.html)|
+|2024-05-30 00:25:49|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CVE-2024-24919: Check Point Security Gateway Information Disclosure Zero-Day Exploited in the Wild](https://buaq.net/go-242297.html)|
+|2024-05-30 00:16:50|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Out-of-bounds reads in Adobe Acrobat; Foxit PDF Reader contains vulnerability that could lead to SYSTEM-level privileges](https://buaq.net/go-242293.html)|
 |2024-05-29 14:02:00|[人民日报](https://plink.anyfeeder.com/weixin/rmrbwx)|[习近平同埃及总统塞西会谈](http://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E5%A1%9E%E8%A5%BF%E4%BC%9A%E8%B0%88)|
 |2024-05-29 13:28:00|[人民日报](https://plink.anyfeeder.com/weixin/rmrbwx)|[【夜读】每天给自己一个微笑](http://weixin.sogou.com/weixin?type=2&query=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5+%E3%80%90%E5%A4%9C%E8%AF%BB%E3%80%91%E6%AF%8F%E5%A4%A9%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E4%B8%AA%E5%BE%AE%E7%AC%91)|
 |2024-05-29 12:45:43|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[无人播种、自主浇灌、长势监测，上海浦东首个无人农场将这样打造](https://m.thepaper.cn/detail/27548648)|
@@ -161,6 +273,7 @@
 |2024-05-29 13:32:06|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[乌高官：俄军事力量占优势 正试图夺取更多乌国土](https://www.zaobao.com/realtime/world/story20240529-3745601)|
 |2024-05-29 13:02:11|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[以官员称加沙军事行动将再持续七个月](https://www.zaobao.com/realtime/world/story20240529-3745380)|
 |2024-05-29 14:35:18|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Beats Solo Buds将于6月18日开启预购](https://m.cnbeta.com.tw/view/1432822.htm)|
+|2024-05-30 00:08:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Multi-tasking with Minimized Custom Tabs](https://buaq.net/go-242277.html)|
 |2024-05-29 22:58:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Clay Filter AI-人工智能AI照片转粘土动画风格工具](https://buaq.net/go-242255.html)|
 |2024-05-29 22:58:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Brazilian Banks Targeted by New AllaKore RAT Variant Called AllaSenha](https://buaq.net/go-242261.html)|
 |2024-05-29 22:46:20|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Bill would give Commerce Department the ability to ban Chinese-made vehicles](https://buaq.net/go-242258.html)|
