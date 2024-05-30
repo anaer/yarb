@@ -2,6 +2,17 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-30 18:35:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Anthropic AI现在可以让你创建机器人为你工作了](https://m.cnbeta.com.tw/view/1432984.htm)|
+|2024-05-30 17:35:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[传音Tecno Camon 30系列特别版发布：全球首款咖啡渣后壳手机](https://m.cnbeta.com.tw/view/1432983.htm)|
+|2024-05-30 17:35:32|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[起售价超33万 新款大众高尔夫PHEV发布](https://m.cnbeta.com.tw/view/1432982.htm)|
+|2024-05-30 17:35:21|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[吉利硬怼比亚迪油耗数据 这2.9升油耗到底是不是仙界科技？](https://m.cnbeta.com.tw/view/1432981.htm)|
+|2024-05-30 12:09:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Stripe 这么高的抽成比例为什么那么多商家想接入？国内支付千三手续费很多商家都在不停找办法规避，大额都是让客户直接转银行卡。 Stripe 直接翻了 10 倍，而且小商家在 Stripe 一被投诉就会风控](https://www.v2ex.com/t/1045497#reply23)|
+|2024-05-30 19:23:54|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[技术团队，多快好省，是个伪命题吧，很多老板沉迷于此](https://www.v2ex.com/t/1045554#reply1)|
+|2024-05-30 12:58:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[这门给孩子的历史课，我自己听了6遍](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%99%E9%97%A8%E7%BB%99%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AF%BE%EF%BC%8C%E6%88%91%E8%87%AA%E5%B7%B1%E5%90%AC%E4%BA%866%E9%81%8D)|
+|2024-05-30 12:58:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[打工人搞钱最猛的思路，三个字](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%89%93%E5%B7%A5%E4%BA%BA%E6%90%9E%E9%92%B1%E6%9C%80%E7%8C%9B%E7%9A%84%E6%80%9D%E8%B7%AF%EF%BC%8C%E4%B8%89%E4%B8%AA%E5%AD%97)|
+|2024-05-30 16:55:20|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[Flutter开发 -- 使用Bloc管理状态](https://juejin.cn/post/7374661722466844726)|
+|2024-05-30 19:42:46|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 免费 AI 近 50 个 AI 模型 gpt-4o opus gemini 1.5 全部永久免费开放使用](https://www.v2ex.com/t/1045555#reply0)|
+|2024-05-30 14:00:00|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[盼了十年的CP再合作，唉……](https://www.infzm.com/contents/271694)|
 |2024-05-30 12:58:47|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[中国铁物：股东芜湖长茂拟减持不超2%公司股份](https://www.36kr.com/newsflashes/2798380801340292)|
 |2024-05-30 12:54:37|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[平安银行回应“气球贷”：适用个人商住两用房按揭业务](https://www.36kr.com/newsflashes/2798395121479297)|
 |2024-05-30 12:53:01|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[越南Vingroup与三菱商事签署协议，将在可再生能源和汽车等领域合作](https://www.36kr.com/newsflashes/2798408090858377)|
