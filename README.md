@@ -1,7 +1,99 @@
-﻿# 每日资讯（2024-05-30）
+﻿# 每日资讯（2024-05-31）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-05-31 00:30:00|[机核](https://plink.anyfeeder.com/gcores)|[Epic喜加一：原价137元《骑士精神2》免费领](https://www.gcores.com/articles/182732)|
+|2024-05-31 01:13:02|[V2EX](https://www.v2ex.com/index.xml)|[ Spotify 见鬼，安卓可以， ios 不行](https://www.v2ex.com/t/1045578#reply0)|
+|2024-05-31 01:11:16|[V2EX](https://www.v2ex.com/index.xml)|[ Apple Mac Surge 的 HTTPS 解密证书装在哪？](https://www.v2ex.com/t/1045577#reply0)|
+|2024-05-31 01:09:44|[V2EX](https://www.v2ex.com/index.xml)|[ 教育 妹妹马上高考，政审严格吗](https://www.v2ex.com/t/1045576#reply8)|
+|2024-05-31 01:09:07|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 2024 年有什么推荐的笔记本电脑吗](https://www.v2ex.com/t/1045575#reply2)|
+|2024-05-31 01:05:25|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求太极框架最后版本](https://www.v2ex.com/t/1045573#reply0)|
+|2024-05-31 01:04:52|[V2EX](https://www.v2ex.com/index.xml)|[ Surge 求个 surge iOS 车，有的回复](https://www.v2ex.com/t/1045572#reply0)|
+|2024-05-31 01:02:35|[V2EX](https://www.v2ex.com/index.xml)|[ 软件 访问老网站 ERR_CONNECTION_CLOSED](https://www.v2ex.com/t/1045571#reply2)|
+|2024-05-31 01:01:44|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 工信部认定单踏板模式容易导致误操作](https://www.v2ex.com/t/1045570#reply0)|
+|2024-05-31 01:01:34|[V2EX](https://www.v2ex.com/index.xml)|[ 软件 腾讯应用宝 --站起啦~ 在电脑上玩手机 app ](https://www.v2ex.com/t/1045569#reply7)|
+|2024-05-31 01:01:02|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 轻兔推荐上线一周&本周推荐汇总](https://www.v2ex.com/t/1045568#reply0)|
+|2024-05-31 00:59:45|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 文明其精神，野蛮其体魄](https://www.v2ex.com/t/1045566#reply3)|
+|2024-05-31 00:56:26|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 独立开发变现周刊（第 135 期）：简单的网页托管小工具 月收入 1.5 万美金](https://www.v2ex.com/t/1045565#reply0)|
+|2024-05-31 00:55:18|[V2EX](https://www.v2ex.com/index.xml)|[ 京东 买了小米 13，想退了，京东自营拆封激活了还能退吗](https://www.v2ex.com/t/1045564#reply10)|
+|2024-05-31 00:04:16|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 网易云音乐人免费领 VIP 了，已成功领取 93 天](https://www.v2ex.com/t/1045561#reply7)|
+|2024-05-31 00:43:43|[极客公园](https://plink.anyfeeder.com/geekpark)|[OpenAI 或将重组为营利性公司；iOS 18 首个正式版无缘 AI Siri；小米汽车：从未计划收购恒大汽车｜极客早知道](http://www.geekpark.net/news/335913)|
+|2024-05-31 00:05:50|[36氪](https://plink.anyfeeder.com/36kr)|[8点1氪丨海底捞玩具成年人不再能免费领取；小米辟谣收购或控股恒大汽车；韩国宣布将在2032年前登月，2045年前登陆火星](https://36kr.com/p/2799072537310081?f=rss)|
+|2024-05-31 01:20:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[奶茶太多，大学生不够用了](https://www.tmtpost.com/7110275.html)|
+|2024-05-31 01:00:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[被经销商“逼宫”、被小米“反杀”，保时捷为何这么被动？](https://www.tmtpost.com/7109902.html)|
+|2024-05-31 00:48:51|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【科股早餐会】外资唱多中国资产，多家企业目标价被上调；值得关注的里程碑！我国科学家在量子模拟计算领域获重要突破；杭州出台推动大规模设备更新和消费品以旧换新的若干举措；政策助推绿色低碳发展，2024年环保领域这两大主线获受益](https://www.tmtpost.com/7110621.html)|
+|2024-05-31 00:40:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[市值2.8万亿，英伟达股价有泡沫吗？](https://www.tmtpost.com/7110115.html)|
+|2024-05-31 00:21:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[华为、小米发力儿童手表市场，集体挑战小天才？](https://www.tmtpost.com/7110320.html)|
+|2024-05-31 00:17:10|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[库克之后，苹果掌门人后继有谁？](https://www.tmtpost.com/7110028.html)|
+|2024-05-31 00:10:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[钛媒体科股早知道：机构称2024年为AIPC元年，渗透率有望快速提升](https://www.tmtpost.com/7110526.html)|
+|2024-05-31 01:01:16|[虎嗅](https://plink.anyfeeder.com/huxiu)|[进击中Sora](https://www.huxiu.com/article/3085406.html?f=rss)|
+|2024-05-31 01:00:21|[虎嗅](https://plink.anyfeeder.com/huxiu)|[嘉峪关是个怎样的城市？](https://www.huxiu.com/article/3086523.html?f=rss)|
+|2024-05-31 01:00:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[AI大模型+机器人，才是下个风口？](https://www.huxiu.com/article/3083919.html?f=rss)|
+|2024-05-31 00:45:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[带宠物上高铁之前，我们还有多少路要走](https://www.huxiu.com/article/3086225.html?f=rss)|
+|2024-05-31 00:44:00|[虎嗅](https://plink.anyfeeder.com/huxiu)|[养老金并轨，我的退休金会变少吗？](https://www.huxiu.com/article/3081684.html?f=rss)|
+|2024-05-31 00:37:06|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谁能治中国电影的档期迷信](https://www.huxiu.com/article/3084609.html?f=rss)|
+|2024-05-31 00:25:26|[虎嗅](https://plink.anyfeeder.com/huxiu)|[AI后续发展的七个阶段与造富机会](https://www.huxiu.com/article/3085851.html?f=rss)|
+|2024-05-31 00:02:57|[虎嗅](https://plink.anyfeeder.com/huxiu)|[今年的出口，稳了吗？](https://www.huxiu.com/article/3085845.html?f=rss)|
+|2024-05-31 01:11:33|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[React中useMemo的问题，怎么传参无效呢？](https://segmentfault.com/q/1010000044929935)|
+|2024-05-31 00:16:22|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[github action 构建中无法识别 scss 变量?](https://segmentfault.com/q/1010000044929883)|
+|2024-05-31 00:15:44|[爱范儿](https://plink.anyfeeder.com/ifanr)|[早报 字节辟谣 TikTok 曾提议将控制权交给美国/微软对苹果与 OpenAI 合作一事担忧/小米回应收购恒大汽车的传闻](https://www.ifanr.com/1587461?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-05-31 01:20:12|[IT之家](https://www.ithome.com/rss/)|[铭瑄宣布参加 2024 台北电脑展，将展出搭载酷睿 Ultra 处理器的迷你主机](https://www.ithome.com/0/771/972.htm)|
+|2024-05-31 01:16:09|[IT之家](https://www.ithome.com/rss/)|[消息称特斯拉正推动 FSD 在中国落地，计划今年推送并引入订阅制](https://www.ithome.com/0/771/971.htm)|
+|2024-05-31 01:14:00|[IT之家](https://www.ithome.com/rss/)|[2016 元破冰新低：海信食神 510L 双系统十字门冰箱京东 3 期免息](https://www.ithome.com/0/771/969.htm)|
+|2024-05-31 01:13:47|[IT之家](https://www.ithome.com/rss/)|[消息称三星 Galaxy Z Fold6 手机机身宽度 68.1mm，收窄铰链和边框](https://www.ithome.com/0/771/968.htm)|
+|2024-05-31 01:13:31|[IT之家](https://www.ithome.com/rss/)|[上海极目银河数字科技公司被曝突然解散：老板欠 62 亿元跑路，数百人原地失业](https://www.ithome.com/0/771/967.htm)|
+|2024-05-31 01:11:51|[IT之家](https://www.ithome.com/rss/)|[OPPO Reno12 / Pro 手机现已开售：首个能发布实况照片的安卓机，2699 元起](https://www.ithome.com/0/771/966.htm)|
+|2024-05-31 01:06:03|[IT之家](https://www.ithome.com/rss/)|[2K 200Hz：LG 27 英寸显示器 27GS75Q 京东 1299 元 3 期免息](https://www.ithome.com/0/771/965.htm)|
+|2024-05-31 00:59:19|[IT之家](https://www.ithome.com/rss/)|[新增“离线游戏”等功能，微软第一方《红霞岛》上线“最终更新”](https://www.ithome.com/0/771/964.htm)|
+|2024-05-31 00:57:52|[IT之家](https://www.ithome.com/rss/)|[遥测影响安卓版 Firefox 浏览器性能，Mozilla 已初步锁定原因](https://www.ithome.com/0/771/963.htm)|
+|2024-05-31 00:50:41|[IT之家](https://www.ithome.com/rss/)|[Linux 圈“地震”过去 2 个月，压缩工具 XZ 5.6.2 发布：彻底清理后门代码](https://www.ithome.com/0/771/962.htm)|
+|2024-05-31 00:49:09|[IT之家](https://www.ithome.com/rss/)|[荣耀 200 / Pro 手机今日开售：首搭“雅顾光影写真”，售价 2699 元起](https://www.ithome.com/0/771/961.htm)|
+|2024-05-31 00:45:43|[IT之家](https://www.ithome.com/rss/)|[买一得二：京东 PLUS + 芒果 TV 会员年卡限时 98 元 618 再发车](https://www.ithome.com/0/771/959.htm)|
+|2024-05-31 00:42:59|[IT之家](https://www.ithome.com/rss/)|[现有设备 12 月 9 日关停服务后将“变砖”，Spotify 向所有 Car Thing 车载显示器买家退款](https://www.ithome.com/0/771/958.htm)|
+|2024-05-31 00:41:39|[IT之家](https://www.ithome.com/rss/)|[一箭五星！国内民营火箭新纪录！谷神星一号连续两天发射成功](https://www.ithome.com/0/771/957.htm)|
+|2024-05-31 00:40:59|[IT之家](https://www.ithome.com/rss/)|[重大突破！中美科研团队公布迄今最清晰的线粒体蛋白解析图像](https://www.ithome.com/0/771/956.htm)|
+|2024-05-31 00:31:49|[IT之家](https://www.ithome.com/rss/)|[机械师曙光 15 Air 笔记本开售：R7 8845HS + 32G + 512G 售 4499 元起](https://www.ithome.com/0/771/955.htm)|
+|2024-05-31 00:31:27|[IT之家](https://www.ithome.com/rss/)|[最高补贴 1 万元，商务部透露汽车以旧换新提交补贴申请近 2 万份](https://www.ithome.com/0/771/954.htm)|
+|2024-05-31 00:29:28|[IT之家](https://www.ithome.com/rss/)|[2024 款升仕 368D 摩托上市：可调氛围灯、提供 USB-C / A 充电口，售 2.88 万元](https://www.ithome.com/0/771/953.htm)|
+|2024-05-31 00:28:20|[IT之家](https://www.ithome.com/rss/)|[分布式版本控制软件 Git 修复 RCE 远程执行漏洞，官方敦促尽快升级](https://www.ithome.com/0/771/952.htm)|
+|2024-05-31 00:21:12|[IT之家](https://www.ithome.com/rss/)|[含 Lumia“复刻手机”/Fusion 模块化机型，HMD 多款新机售价 / 更多渲染图曝光](https://www.ithome.com/0/771/950.htm)|
+|2024-05-31 00:20:46|[IT之家](https://www.ithome.com/rss/)|[科技昨夜今晨 0531：特斯拉上海车展案宣判；制动系统新国标征求意见稿发布；武汉大学“雷军班”今年首次招生](https://www.ithome.com/0/771/949.htm)|
+|2024-05-31 00:05:38|[IT之家](https://www.ithome.com/rss/)|[酷比魔方 Pad Pro 平板电脑新增配置开售：联发科 G99 + 8G + 128G 售 949 元](https://www.ithome.com/0/771/947.htm)|
+|2024-05-31 00:04:28|[IT之家](https://www.ithome.com/rss/)|[小米米兔儿童手表 S1 开售：支持心率血氧检测、微信等功能，1199 元](https://www.ithome.com/0/771/946.htm)|
+|2024-05-31 00:02:34|[IT之家](https://www.ithome.com/rss/)|[年内开启抢先体验，《流放之路 2》游戏新预告视频公布](https://www.ithome.com/0/771/945.htm)|
+|2024-05-31 00:00:35|[IT之家](https://www.ithome.com/rss/)|[微软加速推进“去控制面板”，Win11 Canary 26227 将“提高指针精确度”等选项迁至设置](https://www.ithome.com/0/771/944.htm)|
+|2024-05-31 00:36:07|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[巴黎世家与支付宝推出联名T恤 一件4700元](https://m.cnbeta.com.tw/view/1433014.htm)|
+|2024-05-31 00:35:54|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[moto razr 50 Ultra入网：全球首款骁龙8s Gen3折叠屏](https://m.cnbeta.com.tw/view/1433013.htm)|
+|2024-05-31 00:35:44|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Google终于为Pixel平板带来了Nest门铃提醒功能](https://m.cnbeta.com.tw/view/1433012.htm)|
+|2024-05-31 00:35:32|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Spotify因车载流媒体设备过早停止支持而面临诉讼 可能被迫退款](https://m.cnbeta.com.tw/view/1433011.htm)|
+|2024-05-31 00:35:17|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[担心技术被转移到中国 美国正减缓NVIDIA和AMD向中东出口AI芯片的速度](https://m.cnbeta.com.tw/view/1433010.htm)|
+|2024-05-31 00:06:32|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[iOS 18首个正式版无缘：曝苹果AI Siri跳票至2025年](https://m.cnbeta.com.tw/view/1433007.htm)|
+|2024-05-31 00:06:18|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[神秘恶意软件在72小时内刷写固件摧毁了一家ISP的60万台路由器](https://m.cnbeta.com.tw/view/1433005.htm)|
+|2024-05-31 00:06:03|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[华为HarmonyOS NEXT Beta招募入口现身官网](https://m.cnbeta.com.tw/view/1433002.htm)|
+|2024-05-31 00:05:48|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[昆仑万维宣布Opera浏览器接入端侧AI大模型](https://m.cnbeta.com.tw/view/1433001.htm)|
+|2024-05-31 00:05:36|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[雷军不是神，别总鼓动他接盘许家印](https://m.cnbeta.com.tw/view/1433000.htm)|
+|2024-05-31 00:05:26|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[特朗普34项重罪裁决震惊华尔街：特朗普媒体盘后一度暴跌15%](https://m.cnbeta.com.tw/view/1432999.htm)|
+|2024-05-31 00:05:16|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[马斯克否认曾与特朗普讨论加密货币](https://m.cnbeta.com.tw/view/1432998.htm)|
+|2024-05-31 01:01:35|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发变现周刊（第 135 期）：简单的网页托管小工具 月收入 1.5 万美金](https://w2solo.com/topics/4655)|
+|2024-05-31 00:42:17|[爱范儿](https://www.ifanr.com/feed)|[比亚迪造了一辆油耗 2.9L 车，为什么还要被骂？](https://www.ifanr.com/1587401?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-05-31 01:09:38|[TechNews 科技新報](http://technews.tw/feed/)|[援助 Rapidus 量產 2 奈米，日本政府傳提供貸款擔保](https://technews.tw/2024/05/31/rapidus-japan-2nm/)|
+|2024-05-31 01:03:37|[TechNews 科技新報](http://technews.tw/feed/)|[收購核能供電園區後，亞馬遜打算 10 年加蓋 15 座資料中心](https://technews.tw/2024/05/31/amazon-talen-energy-cumulus-data-datacenter/)|
+|2024-05-31 00:57:48|[TechNews 科技新報](http://technews.tw/feed/)|[中國擴大電動車出口，Q1 亞洲輸歐貨櫃量創新高](https://technews.tw/2024/05/31/q1-container-volume-from-asia-to-europe/)|
+|2024-05-31 00:52:12|[TechNews 科技新報](http://technews.tw/feed/)|[Salesforce、輝達拖累那指，債券 ETF 逆漲](https://finance.technews.tw/2024/05/31/us-stocks-0530-2/)|
+|2024-05-31 00:44:15|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳宴請供應鏈夥伴，童子賢：AI 可成為護國群山](https://technews.tw/2024/05/31/ai-can-become-the-mountains-that-protect-the-country/)|
+|2024-05-31 00:36:15|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳：IT 產業因 AI 進入新時代，台灣有絕佳機會](https://technews.tw/2024/05/31/the-it-industry-enters-a-new-era-due-to-ai/)|
+|2024-05-31 00:30:04|[TechNews 科技新報](http://technews.tw/feed/)|[國際學生人數大減，英國大學面臨危機](https://finance.technews.tw/2024/05/31/uk-universities-at-risk-as-international-student-numbers-plunge/)|
+|2024-05-31 00:10:42|[TechNews 科技新報](http://technews.tw/feed/)|[美新創公司新引擎測試成功，極音速技術有進展](https://technews.tw/2024/05/31/ursa-major-has-made-progress-in-hypersonic-technology/)|
+|2024-05-31 00:10:01|[TechNews 科技新報](http://technews.tw/feed/)|[日月光推出 powerSiP 創新供電平台，提高 AI 應用能源效率 50%](https://finance.technews.tw/2024/05/31/ase-launches-powersip-innovative-power-supply-platform/)|
+|2024-05-31 00:00:46|[TechNews 科技新報](http://technews.tw/feed/)|[你聽過時薪 2 美元的 AI 工作嗎？人工智慧造就新的網路殖民主義](https://technews.tw/2024/05/31/have-you-heard-about-2-an-hour-ai-jobs-how-artificial-intelligence-is-creating-a-new-form-of-digital-colonialism/)|
+|2024-05-31 00:00:42|[TechNews 科技新報](http://technews.tw/feed/)|[世代交替，鄭平接任台達董事長](https://finance.technews.tw/2024/05/31/delta-new-chairman/)|
+|2024-05-31 00:00:39|[TechNews 科技新報](http://technews.tw/feed/)|[陳立白看好 DRAM 市場發展，對 NAND Flash 則有擴產小擔憂](https://finance.technews.tw/2024/05/31/adata-is-optimistic-about-the-development-of-dram-market/)|
+|2024-05-31 00:11:13|[阮一峰的网络日志](http://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)|
+|2024-05-31 00:27:04|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9772796)|
+|2024-05-31 00:27:04|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[光是粒子还是波？](https://daily.zhihu.com/story/9772770)|
+|2024-05-31 00:27:04|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[唐朝灭亡以后为什么没有形成三国或者南北朝，而是更碎片的五代十国？](https://daily.zhihu.com/story/9772784)|
+|2024-05-31 00:27:04|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[大自然的馈赠——天然染料](https://daily.zhihu.com/story/9772786)|
+|2024-05-31 00:27:04|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[有哪些反直觉的物理现象？](https://daily.zhihu.com/story/9772774)|
 |2024-05-30 16:03:48|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[联合国大会悼念伊朗总统莱希 遭到美国抵制](https://www.zaobao.com/realtime/world/story20240531-3754099)|
 |2024-05-30 18:57:11|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[《庆余年》中有什么值得深扒的人物？](https://www.zhihu.com/question/372103245/answer/3515454262)|
 |2024-05-30 17:01:57|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如何评价电视剧《庆余年第二季》29-30 集？](https://www.zhihu.com/question/657681934/answer/3515426726)|
