@@ -2,6 +2,72 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-02 12:30:00|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[汤家骅：外商不敢为港国安法辩护 担心被指“收共产党钱”](https://www.zaobao.com/realtime/china/story20240602-3765974)|
+|2024-06-02 11:10:00|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[iPhone 15系列价格在中国大跳水](https://www.zaobao.com/realtime/china/story20240602-3765842)|
+|2024-06-02 10:16:00|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[台黄埔建军百年活动舞台倒塌 一人受伤送医](https://www.zaobao.com/realtime/china/story20240602-3765762)|
+|2024-06-02 13:06:48|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[江南已任海南三沙市委副书记](https://m.thepaper.cn/detail/27601066)|
+|2024-06-02 13:03:06|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[香格里拉对话｜“兼爱非攻”，中国能为世界安全贡献什么？](https://m.thepaper.cn/detail/27599203)|
+|2024-06-02 12:52:21|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[澎湃早晚报｜晚安湃·印度：52.3℃高温破纪录](https://m.thepaper.cn/papernews/morningEveningPaper?n=141416)|
+|2024-06-02 12:45:47|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[中国女排0比3不敌意大利，世界排名被日本女排超越](https://m.thepaper.cn/detail/27600203)|
+|2024-06-02 12:34:42|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[余承东谈车企老板扎堆直播：市场很内卷，广告投不起，必须往前走一步](https://m.thepaper.cn/detail/27599831)|
+|2024-06-02 12:32:10|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[魏明被查，曾任中国移动陕西、河南、广东公司董事长](https://m.thepaper.cn/detail/27600722)|
+|2024-06-02 12:28:00|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[上海航海仪器总厂变身艺术建筑，浦东这个沉浸式街区开放](https://m.thepaper.cn/detail/27599893)|
+|2024-06-02 12:26:07|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[上海杨浦一居民楼突发火灾：火情已扑灭，无人员伤亡](https://m.thepaper.cn/detail/27599895)|
+|2024-06-02 12:21:07|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[香格里拉对话｜泽连斯基发表讲话，与美防长讨论F-16联盟](https://m.thepaper.cn/detail/27599860)|
+|2024-06-02 12:20:36|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[余承东：非常乐意与特斯拉FSD竞争，还要做20万元内的车](https://m.thepaper.cn/detail/27599830)|
+|2024-06-02 12:10:05|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[习语｜“泱泱中华，历史何其悠久，文明何其博大”](https://www.peopleapp.com/column/30045143842-500005454883)|
+|2024-06-02 11:11:13|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[王安忆复旦荣休：教写作20年，“我过得非常愉快”](https://m.thepaper.cn/detail/27599850)|
+|2024-06-02 10:46:32|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[当前房地产一线观察：市场反应积极，白名单项目“应贷尽贷”](https://m.thepaper.cn/detail/27599854)|
+|2024-06-02 14:05:20|[V2EX](https://v2ex.com/index.xml)|[ Apple 苹果客服已经确认了关于 facetime 反诈更新的事实](https://www.v2ex.com/t/1046169#reply0)|
+|2024-06-02 14:00:48|[V2EX](https://v2ex.com/index.xml)|[ Linux 联通机顶盒跑 archlinux 开滚....6.9.3...滚远了...](https://www.v2ex.com/t/1046168#reply0)|
+|2024-06-02 13:59:43|[V2EX](https://v2ex.com/index.xml)|[ 酷工作 上海少年游科技招聘，主要方向通用人形机器人！](https://www.v2ex.com/t/1046167#reply1)|
+|2024-06-02 13:39:19|[V2EX](https://v2ex.com/index.xml)|[ 问与答 前端如何找到工资高的工作](https://www.v2ex.com/t/1046166#reply0)|
+|2024-06-02 13:28:40|[V2EX](https://v2ex.com/index.xml)|[ 问与答 RackNerd 的端午节优惠这个 19.88 的值得购买嘛？最近还会不会有更实惠的出来呢？](https://www.v2ex.com/t/1046165#reply0)|
+|2024-06-02 13:26:22|[V2EX](https://v2ex.com/index.xml)|[ 程序员 我在小米平板上看 smarttube next,用小米遥控器控制，有没有什么办法能让平板黑屏播放，并且按后退键时也黑屏？](https://www.v2ex.com/t/1046164#reply0)|
+|2024-06-02 13:20:27|[V2EX](https://v2ex.com/index.xml)|[ 问与答 关于 C 语言的相关问题](https://www.v2ex.com/t/1046163#reply18)|
+|2024-06-02 13:17:23|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求老哥指路：给国外客户开发软件 客户打款到国内银行卡 需要交税吗？](https://www.v2ex.com/t/1046162#reply6)|
+|2024-06-02 13:07:11|[V2EX](https://v2ex.com/index.xml)|[ 问与答 哪位知道怎么在手机浏览器上刷豆瓣广播？](https://www.v2ex.com/t/1046160#reply1)|
+|2024-06-02 12:59:34|[V2EX](https://v2ex.com/index.xml)|[ OpenAI 各位有遇到 chatgpt 网页端无法登录的吗？](https://www.v2ex.com/t/1046159#reply2)|
+|2024-06-02 12:47:58|[V2EX](https://v2ex.com/index.xml)|[ 计算机 618 开始了，求笔记本推荐，预算 7k](https://www.v2ex.com/t/1046158#reply1)|
+|2024-06-02 12:34:39|[V2EX](https://v2ex.com/index.xml)|[ 生活 记录 -2024-06-02 长发时期](https://www.v2ex.com/t/1046157#reply0)|
+|2024-06-02 12:17:58|[V2EX](https://v2ex.com/index.xml)|[ 程序员 6d 扶手是个东西?怎么感觉和 4D 差别不大?而且](https://www.v2ex.com/t/1046155#reply4)|
+|2024-06-02 12:17:14|[V2EX](https://v2ex.com/index.xml)|[ 问与答 用小米 79 元的无线充电器给 airpods pro 充电，有时 airpods pro 会发热，有时则只是温温的，这是什么情况？](https://www.v2ex.com/t/1046154#reply2)|
+|2024-06-02 12:50:43|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[每周鞋报：JACQUEMUS 和 NIKE 的新联名发布、Vans 联手 Proenza Schouler](http://www.toodaylab.com/82848)|
+|2024-06-02 20:30:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[EvilSlackbot - A Slack Bot Phishing Framework For Red Teaming Exercises](https://buaq.net/go-242812.html)|
+|2024-06-02 19:33:57|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Security Affairs newsletter Round 474 by Pierluigi Paganini – INTERNATIONAL EDITION](https://buaq.net/go-242816.html)|
+|2024-06-02 13:10:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[武夷岩茶的尽头是“正岩水仙”？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%AD%A6%E5%A4%B7%E5%B2%A9%E8%8C%B6%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E2%80%9C%E6%AD%A3%E5%B2%A9%E6%B0%B4%E4%BB%99%E2%80%9D%EF%BC%9F)|
+|2024-06-02 13:10:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[当“高考天花板”清北金融系学生，面对“就业降级”](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%BD%93%E2%80%9C%E9%AB%98%E8%80%83%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D%E6%B8%85%E5%8C%97%E9%87%91%E8%9E%8D%E7%B3%BB%E5%AD%A6%E7%94%9F%EF%BC%8C%E9%9D%A2%E5%AF%B9%E2%80%9C%E5%B0%B1%E4%B8%9A%E9%99%8D%E7%BA%A7%E2%80%9D)|
+|2024-06-02 13:10:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[那些追着“郭有才”流量去菏泽的人，后来怎么样了？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%82%A3%E4%BA%9B%E8%BF%BD%E7%9D%80%E2%80%9C%E9%83%AD%E6%9C%89%E6%89%8D%E2%80%9D%E6%B5%81%E9%87%8F%E5%8E%BB%E8%8F%8F%E6%B3%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F)|
+|2024-06-02 11:00:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[为什么人们会为一部剧吵架？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E4%BC%9A%E4%B8%BA%E4%B8%80%E9%83%A8%E5%89%A7%E5%90%B5%E6%9E%B6%EF%BC%9F)|
+|2024-06-02 11:00:00|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[吃了冇? 三联人文风土季河南中牟mapping工作坊招募](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%90%83%E4%BA%86%E5%86%87%3F%20%E4%B8%89%E8%81%94%E4%BA%BA%E6%96%87%E9%A3%8E%E5%9C%9F%E5%AD%A3%E6%B2%B3%E5%8D%97%E4%B8%AD%E7%89%9Fmapping%E5%B7%A5%E4%BD%9C%E5%9D%8A%E6%8B%9B%E5%8B%9F)|
+|2024-06-02 11:12:34|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[DB-Engines 被英国数据库软件开发商 Redgate 收购](https://www.oschina.net/news/295455/db-engines-required-by-redgate)|
+|2024-06-02 12:16:47|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[印度出现极端高温，大选中至少 19 名官员被热死，极端高温出现的原因是什么？还会造成哪些影响？](https://www.zhihu.com/question/657887610/answer/3517672548)|
+|2024-06-02 11:26:16|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[什么样的ppt才是好的ppt？](https://www.zhihu.com/question/298361291/answer/3517973204)|
+|2024-06-02 11:13:51|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[《庆余年》中的影子是谁？](https://www.zhihu.com/question/657025101/answer/3517960072)|
+|2024-06-02 11:11:09|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如何评价杰弗里.萨克斯？](https://www.zhihu.com/question/268155852/answer/3517388688)|
+|2024-06-02 10:18:22|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如何看待蔚来4-5月突然爆单？](https://www.zhihu.com/question/657647048/answer/3517929327)|
+|2024-06-02 07:02:16|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[巴雷特对大宗师真的有用吗？庆余年2叶流云这一下让我十分怀疑？](https://www.zhihu.com/question/657705637/answer/3517764169)|
+|2024-06-02 06:26:28|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[有人能真正读完二十四史吗？](https://www.zhihu.com/question/655502786/answer/3517756516)|
+|2024-06-02 13:55:35|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[](http://xueqiu.com/1102881152/292277028)|
+|2024-06-02 14:01:26|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳：運算通膨將臨 GPU 買越多、省越多](https://technews.tw/2024/06/02/computing-inflation-is-coming-the-more-you-buy-the-more-you-save/)|
+|2024-06-02 13:40:30|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳：GPU 填補運算效能瓶頸，數位人類與 Earth-2 氣候預測成應用亮點](https://finance.technews.tw/2024/06/02/jensen-huang-speech/)|
+|2024-06-02 13:26:24|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳：算力越來越節能與便宜，將催化產業大革命](https://technews.tw/2024/06/02/the-computing-power-is-becoming-more-and-more-energy-saving-and-cheaper-which-will-catalyze-the-industrial-revolution/)|
+|2024-06-02 13:13:33|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳：新的運算時代正在開始，刺激 GPU 需求](https://technews.tw/2024/06/02/a-new-era-of-computing-is-beginning-stimulating-gpu-demand/)|
+|2024-06-02 13:04:59|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳公布最新 Rubin 架構！最強 Rubin Ultra GPU 將配 12 顆 HBM4](https://technews.tw/2024/06/02/jensen-huang-keynote-computex-2024-rubin-ultra/)|
+|2024-06-02 13:35:26|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[中国首个重载铁路加氢站正式投入商业运营 零下25摄氏度仍可工作](https://m.cnbeta.com.tw/view/1433284.htm)|
+|2024-06-02 13:35:16|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[黄仁勋：CPU性能扩展速度下降 处理密集型应用应得到加速](https://m.cnbeta.com.tw/view/1433281.htm)|
+|2024-06-02 07:19:00|[不死鸟 - 分享为王官网](https://iao.su/feed)|[2024 年 6 月 每日分享](https://iui.su/186/)|
+|2024-06-02 14:13:56|[IT之家](https://www.ithome.com/rss/)|[广汽昊铂 Hyper GT 新增“全球款”车型：6 月 6 日推出，智驾不依赖高精地图](https://www.ithome.com/0/772/624.htm)|
+|2024-06-02 14:06:00|[IT之家](https://www.ithome.com/rss/)|[7 英寸屏幕、模块化 360 水冷，同德 Palit 推出 RTX 4090 LYNK+ 概念显卡](https://www.ithome.com/0/772/623.htm)|
+|2024-06-02 14:00:06|[IT之家](https://www.ithome.com/rss/)|[极越汽车首个尊享出行服务中心落地上海虹桥机场，提供“充电 + 维保”新模式售后](https://www.ithome.com/0/772/621.htm)|
+|2024-06-02 13:48:08|[IT之家](https://www.ithome.com/rss/)|[会员 618 合集更新：B站大会员年卡 88 元补贴购，夸克 9 元离线下载 100 次](https://www.ithome.com/0/772/619.htm)|
+|2024-06-02 13:35:38|[IT之家](https://www.ithome.com/rss/)|[长安汽车自主品牌新能源 5 月销量 5.58 万辆，同比增长超 90%](https://www.ithome.com/0/772/618.htm)|
+|2024-06-02 13:34:16|[IT之家](https://www.ithome.com/rss/)|[英伟达推出 SFF-Ready 小尺寸机箱规范：15 家显卡与机箱厂商参与、确保显卡与机箱兼容性](https://www.ithome.com/0/772/617.htm)|
+|2024-06-02 13:33:13|[IT之家](https://www.ithome.com/rss/)|[科大讯飞首家线下旗舰店在上海开业：AI 大模型展示、沙龙课堂讲解](https://www.ithome.com/0/772/616.htm)|
+|2024-06-02 12:58:29|[IT之家](https://www.ithome.com/rss/)|[英伟达预告下一代 Rubin GPU 架构：HBM4 显存、Vera CPU，2026 年推出](https://www.ithome.com/0/772/615.htm)|
+|2024-06-02 12:48:32|[IT之家](https://www.ithome.com/rss/)|[先马推出 XW360-PLUS 二代水冷散热器：可选方 / 圆 LCD 屏幕，649 元起](https://www.ithome.com/0/772/614.htm)|
+|2024-06-02 12:35:51|[IT之家](https://www.ithome.com/rss/)|[英伟达展示华硕 TUF A14 / A16、ProArt PX13 / P16 等四台新款 RTX AI 笔记本，2024 台北电脑展正式发布](https://www.ithome.com/0/772/613.htm)|
+|2024-06-02 12:26:00|[IT之家](https://www.ithome.com/rss/)|[我国首个重载铁路加氢站正式投入商业运营，30 分钟可加满一台氢能动力机车](https://www.ithome.com/0/772/611.htm)|
 |2024-06-02 09:41:00|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[港官员：没有放弃污者自付原则 将扩大社区垃圾回收网络](https://www.zaobao.com/realtime/china/story20240602-3766205)|
 |2024-06-02 09:36:20|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[河南原反贪局长杨建生涉嫌受贿被开除中共党籍](https://www.zaobao.com/realtime/china/story20240602-3766457)|
 |2024-06-02 09:12:00|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[萧美琴：台海巡署会与国际伙伴密切联系确保区域稳定](https://www.zaobao.com/realtime/china/story20240602-3766151)|
