@@ -2,6 +2,80 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-02 00:49:24|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[以确保中国不会填海为由 菲被指在仙宾礁准坐滩](https://www.zaobao.com/realtime/china/story20240602-3764850)|
+|2024-06-02 00:33:00|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[辽宁卫健委原副主任王天宇被查](https://www.zaobao.com/realtime/china/story20240602-3764821)|
+|2024-06-02 02:34:48|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家是如何限制 LLM 输出格式为 JSON](https://www.v2ex.com/t/1046076#reply0)|
+|2024-06-02 02:32:38|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有写过 gpt 版本的文章纠错类产品没 ai 写作助手 ](https://www.v2ex.com/t/1046075#reply0)|
+|2024-06-02 02:18:33|[V2EX](https://www.v2ex.com/index.xml)|[ 求职 上海 服务端开发 求职](https://www.v2ex.com/t/1046074#reply0)|
+|2024-06-02 02:15:43|[V2EX](https://www.v2ex.com/index.xml)|[ macOS MacOS 15 beta 马上要发布了，你希望加入那些功能呢，除了 AI？](https://www.v2ex.com/t/1046073#reply0)|
+|2024-06-02 02:09:52|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 关于 MacBook Pro 16 m1pro 外接 4k 高刷显示器达不到 160hz 的问题。](https://www.v2ex.com/t/1046072#reply0)|
+|2024-06-02 02:02:46|[V2EX](https://www.v2ex.com/index.xml)|[ iOS 求一个圈 X 或者 loon 的美区兑换码](https://www.v2ex.com/t/1046070#reply2)|
+|2024-06-02 01:55:25|[V2EX](https://www.v2ex.com/index.xml)|[ 健康 用无名指来按回车了……](https://www.v2ex.com/t/1046069#reply2)|
+|2024-06-02 01:53:28|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 国外的 speedtest 能用了？](https://www.v2ex.com/t/1046068#reply2)|
+|2024-06-02 01:48:16|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 二手平台除了转转还有哪里](https://www.v2ex.com/t/1046067#reply7)|
+|2024-06-02 01:45:12|[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 重置版 模拟周易占筮的方法生成卦象，然后调用大语言模型进行解卦（目前使用的是通义千问）。欢迎大家再次使用提出宝贵意见](https://www.v2ex.com/t/1046066#reply2)|
+|2024-06-02 01:40:39|[V2EX](https://www.v2ex.com/index.xml)|[ Pixel pixel4 电池鼓包了，求推荐](https://www.v2ex.com/t/1046064#reply2)|
+|2024-06-02 01:37:44|[V2EX](https://www.v2ex.com/index.xml)|[ Google Cloud 如何充值 google one?](https://www.v2ex.com/t/1046063#reply0)|
+|2024-06-02 01:17:23|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 618 有哪些显卡神价格呀](https://www.v2ex.com/t/1046062#reply3)|
+|2024-06-02 01:09:40|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 请同好推荐 Linux 下可用的手柄](https://www.v2ex.com/t/1046061#reply2)|
+|2024-06-02 00:32:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求类似于 Chatbox 的 AI 聊天界面软件，需求是快速切换多个配置源或者模型，或者可以一次提问同时访问多个大模型 api 接口的软件](https://www.v2ex.com/t/1046059#reply6)|
+|2024-06-02 00:19:03|[V2EX](https://www.v2ex.com/index.xml)|[ OpenAI 4o 的多模态怎么还没开放](https://www.v2ex.com/t/1046058#reply5)|
+|2024-06-02 00:18:47|[V2EX](https://www.v2ex.com/index.xml)|[ 汽车 突发奇想自动驾驶如果完美实现可以用来解决临停问题](https://www.v2ex.com/t/1046057#reply5)|
+|2024-06-02 00:11:40|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有人了解麒麟 9000c 吗?](https://www.v2ex.com/t/1046056#reply8)|
+|2024-06-02 01:48:00|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[董军：谁胆敢把台湾从中国分裂出去，必将粉身碎骨、自取灭亡](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E8%91%A3%E5%86%9B%EF%BC%9A%E8%B0%81%E8%83%86%E6%95%A2%E6%8A%8A%E5%8F%B0%E6%B9%BE%E4%BB%8E%E4%B8%AD%E5%9B%BD%E5%88%86%E8%A3%82%E5%87%BA%E5%8E%BB%EF%BC%8C%E5%BF%85%E5%B0%86%E7%B2%89%E8%BA%AB%E7%A2%8E%E9%AA%A8%E3%80%81%E8%87%AA%E5%8F%96%E7%81%AD%E4%BA%A1)|
+|2024-06-02 01:01:00|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[汽车也有专属“手机号”了！和手机卡有啥不一样？](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%B1%BD%E8%BD%A6%E4%B9%9F%E6%9C%89%E4%B8%93%E5%B1%9E%E2%80%9C%E6%89%8B%E6%9C%BA%E5%8F%B7%E2%80%9D%E4%BA%86%EF%BC%81%E5%92%8C%E6%89%8B%E6%9C%BA%E5%8D%A1%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7%EF%BC%9F)|
+|2024-06-02 01:01:00|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[🦖 一 眼 亿 年 🦖](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%F0%9F%A6%96%20%E4%B8%80%20%E7%9C%BC%20%E4%BA%BF%20%E5%B9%B4%20%F0%9F%A6%96)|
+|2024-06-02 01:36:56|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[CISPE 否认即将就与微软的反垄断投诉达成协议](https://m.cnbeta.com.tw/view/1433223.htm)|
+|2024-06-02 01:36:40|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[第七届《银河年度摄影作品集》已经发布](https://m.cnbeta.com.tw/view/1433221.htm)|
+|2024-06-02 01:36:25|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Windows 11在经历了两个月的下滑之后重新夺回了部分流失用户](https://m.cnbeta.com.tw/view/1433220.htm)|
+|2024-06-02 01:36:13|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果新款M2 iPad Air配备9核GPU 与最初的说法不相同](https://m.cnbeta.com.tw/view/1433219.htm)|
+|2024-06-02 01:35:57|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[微信官方发布青少年模式使用手册：一键带娃健康冲浪](https://m.cnbeta.com.tw/view/1433218.htm)|
+|2024-06-02 01:35:44|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为再造爆款车 问界新M7 Ultra上市首日大定破12000台](https://m.cnbeta.com.tw/view/1433217.htm)|
+|2024-06-02 01:35:28|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[iPhone 15官方全系降至历史最低价 最低4553元起](https://m.cnbeta.com.tw/view/1433216.htm)|
+|2024-06-02 01:35:15|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中国铁路部分高铁实行市场化票价 最高涨19% 最低降34%](https://m.cnbeta.com.tw/view/1433215.htm)|
+|2024-06-02 01:06:46|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[闲鱼“小刀”功能上线 不用担心买家拔出屠龙刀了](https://m.cnbeta.com.tw/view/1433214.htm)|
+|2024-06-02 01:06:33|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[中国电动车被美国拒之门外 转而瞄准墨西哥和巴西](https://m.cnbeta.com.tw/view/1433208.htm)|
+|2024-06-02 01:06:17|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[新势力5月销量回暖：理想交付3.5万辆，蔚来、极氪创新高](https://m.cnbeta.com.tw/view/1433207.htm)|
+|2024-06-02 01:06:01|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[英国新纪录片爆料：电商Temu销售的产品含有危险水平有害金属](https://m.cnbeta.com.tw/view/1433206.htm)|
+|2024-06-02 01:05:49|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[谷歌生成式人工智能失败将逐渐削弱用户信任](https://m.cnbeta.com.tw/view/1433205.htm)|
+|2024-06-02 01:05:37|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[分析师预测英伟达市值2024年将超越微软并达到4万亿美元](https://m.cnbeta.com.tw/view/1433204.htm)|
+|2024-06-02 01:05:24|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[索尼：未来三年半导体业务同比减少30%投资](https://m.cnbeta.com.tw/view/1433203.htm)|
+|2024-06-02 01:05:14|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[马斯克：特斯拉全自动驾驶将获得新驾驶模式](https://m.cnbeta.com.tw/view/1433202.htm)|
+|2024-06-02 01:04:04|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[英工党领袖誓减少净移民数量 拟禁违法企业雇外籍工人](https://www.zaobao.com/realtime/world/story20240602-3764862)|
+|2024-06-02 00:10:34|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[科威特国家元首提名前首相萨巴赫为王储](https://www.zaobao.com/realtime/world/story20240602-3764777)|
+|2024-06-02 02:22:28|[IT之家](https://www.ithome.com/rss/)|[突破微软限制：第三方工具 Amperage 让老电脑也能用上 Win11 全新“回顾”功能](https://www.ithome.com/0/772/507.htm)|
+|2024-06-02 02:12:12|[IT之家](https://www.ithome.com/rss/)|[鸿蒙智行问界新 M7 Ultra 车型今日开启交付：华为智驾加持，28.98 万元起](https://www.ithome.com/0/772/506.htm)|
+|2024-06-02 02:06:58|[IT之家](https://www.ithome.com/rss/)|[吉利银河 E8 汽车推出不限品牌 1.5 万元置换补贴，可叠加 1 万元国家补贴](https://www.ithome.com/0/772/505.htm)|
+|2024-06-02 02:02:22|[IT之家](https://www.ithome.com/rss/)|[昔日愚人节玩笑成真：英伟达推出 Project G-Assist，将 AI 助手引入游戏](https://www.ithome.com/0/772/504.htm)|
+|2024-06-02 01:45:07|[IT之家](https://www.ithome.com/rss/)|[苹果官网下架 OtterBox 全部配件，消息称国内代理商“不做了”](https://www.ithome.com/0/772/503.htm)|
+|2024-06-02 01:10:13|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[寻亲的网约车司机变身志愿者，帮助两个家庭找到失散亲人](https://m.thepaper.cn/detail/27597931)|
+|2024-06-02 01:10:03|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[董军：谁胆敢把台湾从中国分裂出去，必将粉身碎骨、自取灭亡](https://m.thepaper.cn/detail/27597921)|
+|2024-06-02 01:04:26|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[为何约谈一心堂？国家医保局：存在较为典型违法违规使用医保基金行为](https://m.thepaper.cn/detail/27597999)|
+|2024-06-02 00:59:44|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[比拼插秧捉泥鳅，田园体验农事民俗之美](https://m.thepaper.cn/detail/27590202)|
+|2024-06-02 00:53:07|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[体育新考，平时的体育课又该怎样上？](https://m.thepaper.cn/detail/27597785)|
+|2024-06-02 00:52:31|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[串换药品、造成医保基金损失，国家医保局约谈一心堂药业](https://m.thepaper.cn/detail/27597833)|
+|2024-06-02 00:35:27|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[第三届“网文青春榜”公布，关注时代经验的表达](https://m.thepaper.cn/detail/27593378)|
+|2024-06-02 00:29:53|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[发现草坪着火，3位少年毫不犹豫救火](https://m.thepaper.cn/detail/27590339)|
+|2024-06-02 00:27:38|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[83岁老太52年免费教上千人跳舞：希望教到一百岁](https://m.thepaper.cn/detail/27576439)|
+|2024-06-02 00:26:20|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[丹麦首相：乌克兰可在其境外使用丹麦武器](https://m.thepaper.cn/detail/27597814)|
+|2024-06-02 00:25:40|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[中国移动广东公司原董事长魏明接受审查调查](https://m.thepaper.cn/detail/27597803)|
+|2024-06-02 00:25:05|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[嫦娥六号落月是怎么落的？如何选择着陆地点？](https://m.thepaper.cn/detail/27597811)|
+|2024-06-02 00:20:54|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[微视频丨文脉华章](https://wap.peopleapp.com/article/7443306/7273051)|
+|2024-06-02 02:29:35|[蓝点网](https://www.landiannews.com/feed)|[ 图文教程 如何从Chrome商店下载扩展程序离线安装包然后手动安装扩展](https://www.landiannews.com/archives/104232.html)|
+|2024-06-02 01:47:45|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[为什么js没办法获取用户电脑的硬件信息？](https://segmentfault.com/q/1010000044933541)|
+|2024-06-02 02:13:39|[人人都是产品经理](https://www.woshipm.com/feed)|[小红书6大爆文模版｜跟着做就行了【行业模版V3.0】](https://www.woshipm.com/operate/6063828.html)|
+|2024-06-02 02:17:00|[虎嗅](https://rss.huxiu.com/)|[图书商为何“仇视”京东618？](https://www.huxiu.com/article/3092343.html?f=rss)|
+|2024-06-02 02:15:00|[虎嗅](https://rss.huxiu.com/)|[稳稳当当，嫦娥六号“高分”着陆月背](https://www.huxiu.com/article/3093507.html?f=rss)|
+|2024-06-02 02:04:00|[虎嗅](https://rss.huxiu.com/)|[元宇宙会让我们进入新的现实吗？](https://www.huxiu.com/article/3093991.html?f=rss)|
+|2024-06-02 02:00:00|[虎嗅](https://rss.huxiu.com/)|[曾经风靡一时的施华洛世奇和潘多拉，为啥不火了？](https://www.huxiu.com/article/3087969.html?f=rss)|
+|2024-06-02 02:00:00|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[国产顶流花露水与防晒衣，正改姓钮祜禄](https://www.infzm.com/contents/272140)|
+|2024-06-02 01:00:00|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[145天，鲸鱼“海棠”重回大海](https://www.infzm.com/contents/272705)|
+|2024-06-02 02:15:54|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【译】Stream Deck 变成了「相见恨晚」的终极生产力伴侣](https://xlrocket.blog/2024/06/02/%e3%80%90%e8%af%91%e3%80%91stream-deck-%e5%8f%98%e6%88%90%e4%ba%86%e3%80%8c%e7%9b%b8%e8%a7%81%e6%81%a8%e6%99%9a%e3%80%8d%e7%9a%84%e7%bb%88%e6%9e%81%e7%94%9f%e4%ba%a7%e5%8a%9b%e4%bc%b4%e4%be%a3/)|
+|2024-06-02 02:30:23|[TechNews 科技新報](http://technews.tw/feed/)|[光轉賣訂位，就能年收 800 萬！合法黃牛？餐廳訂位交易平台為何爆紅](https://technews.tw/2024/06/02/why-is-the-restaurant-reservation-trading-platform-so-popular/)|
+|2024-06-02 02:12:04|[TechNews 科技新報](http://technews.tw/feed/)|[也適用 RCS？iOS 18 將為 iMessage 增加文字效果](https://technews.tw/2024/06/02/ios-18-imessage/)|
+|2024-06-02 02:00:46|[TechNews 科技新報](http://technews.tw/feed/)|[「AI 強國，正讓沒能力開發 AI 國家消失」簡立峰同意黃仁勳觀點，原因為何？](https://technews.tw/2024/06/02/powerful-ai-countries-are-causing-countries-that-are-unable-to-develop-ai-to-disappear/)|
+|2024-06-02 01:44:16|[TechNews 科技新報](http://technews.tw/feed/)|[2024 年將推出的 iPad mini 7 可以期待什麼？](https://technews.tw/2024/06/02/ipad-mini-7-rumors/)|
+|2024-06-02 01:30:15|[TechNews 科技新報](http://technews.tw/feed/)|[少量多樣競爭少，排中製造優勢大，振樺電緊抓三大利基市場推升毛利](https://finance.technews.tw/2024/06/02/posiflex-three-major-niche-markets-drive-up-gross-profit/)|
 |2024-06-02 01:17:23|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 618 有哪些显卡神价格呀](https://www.v2ex.com/t/1046062#reply0)|
 |2024-06-02 01:09:40|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 请同好推荐 Linux 下可用的手柄](https://www.v2ex.com/t/1046061#reply0)|
 |2024-06-02 00:32:01|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求类似于 Chatbox 的 AI 聊天界面软件，需求是快速切换多个配置源或者模型，或者可以一次提问同时访问多个大模型 api 接口的软件](https://www.v2ex.com/t/1046059#reply5)|
