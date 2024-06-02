@@ -2,6 +2,13 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-02 16:58:40|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有哪个商城系统可直接生成 H5 页面下单的？](https://www.v2ex.com/t/1046186#reply2)|
+|2024-06-02 18:19:18|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[马尔代夫政府决定禁止以色列公民入境](http://www.news.cn/20240603/a6aea5a9565e46c4b14006681d05e33e/c.html)|
+|2024-06-02 17:36:59|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[斯里兰卡极端天气造成至少10人死亡](http://www.news.cn/20240603/83985aab34574531abcad100ff155441/c.html)|
+|2024-06-02 17:03:04|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华社快讯：官方计票结果显示，南非执政党非洲人国民大会在议会选举中获得国民议会400个议席中的159席](http://www.news.cn/20240603/b1402a39f34d44a49741425cf88f7c64/c.html)|
+|2024-06-02 16:41:42|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华社快讯：葡萄牙航展两飞机相撞致1死1伤](http://www.news.cn/20240603/c47854562e5c425090f2c536713055c8/c.html)|
+|2024-06-02 18:19:57|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[第77届世界卫生大会闭幕，达成多项决议](https://m.thepaper.cn/detail/27601589)|
+|2024-06-02 17:15:41|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[南非大选结果揭晓，执政党非国大未获超半数议席](https://m.thepaper.cn/detail/27601445)|
 |2024-06-02 17:46:35|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如何看待蔚来4-5月突然爆单？](https://www.zhihu.com/question/657647048/answer/3518228851)|
 |2024-06-02 17:34:37|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[都说美国去工业化了，那美国人都做什么工作啊?](https://www.zhihu.com/question/641603330/answer/3518224894)|
 |2024-06-02 17:07:51|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[也门胡塞武装称再度袭击美「艾森豪威尔」号航母，具体情况如何？将对当地局势带来哪些影响？](https://www.zhihu.com/question/657894205/answer/3518213872)|
