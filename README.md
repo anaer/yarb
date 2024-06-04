@@ -2,6 +2,60 @@
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-04 14:05:42|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[下午察：嘉峪关选调生离职 公务员滤镜碎了？](https://www.zaobao.com/realtime/china/story20240604-3800013)|
+|2024-06-04 14:01:00|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中国4月彩票销售同比增长10.2%](https://www.zaobao.com/realtime/china/story20240604-3793467)|
+|2024-06-04 13:38:00|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[亚洲最大机库在上海开工建设](https://www.zaobao.com/realtime/china/story20240604-3795802)|
+|2024-06-04 17:55:06|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 RouterOS RB750Gr3 ， LAN 内 PC_A，直接访问 WAN IP 捆绑的动态域名:port 此 port 映射到 LAN 内 PC_B 的 SSH ，连接失败，是什么原因呢？](https://www.v2ex.com/t/1046865#reply0)|
+|2024-06-04 17:51:35|[V2EX](https://www.v2ex.com/index.xml)|[ KVM 如何优化 kvm 的硬盘 io](https://www.v2ex.com/t/1046864#reply0)|
+|2024-06-04 16:56:12|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 了解了一点 adguard home 对 dnsmasq 的设置，你看看我说的对不对，请指点。还想请教一下如何适配 openclash](https://www.v2ex.com/t/1046863#reply1)|
+|2024-06-04 23:48:27|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CISOs and Senior Leadership at Odds Over Security](https://buaq.net/go-243304.html)|
+|2024-06-04 23:47:54|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CARV Secures Strategic Investment From NEOWIZ’s Web3 Gaming Platform Intella X Ahead Of Public Node](https://buaq.net/go-243295.html)|
+|2024-06-04 23:46:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Paris Olympics fertile ground for nation-state hackers, researchers warn](https://buaq.net/go-243292.html)|
+|2024-06-04 23:45:17|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Collection agency FBCS ups data breach tally to 3.2 million people](https://buaq.net/go-243293.html)|
+|2024-06-04 23:36:44|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[SNPad Announces Uniswap Listing And Plans To Transform TV Advertising With AI-Powered Platform](https://buaq.net/go-243296.html)|
+|2024-06-04 23:35:56|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Apu Apustaja Memecoin Launches High-Visibility Billboard Campaign In New York City](https://buaq.net/go-243297.html)|
+|2024-06-04 23:33:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Russian Power Companies, IT Firms, and Govt Agencies Hit by Decoy Dog Trojan](https://buaq.net/go-243291.html)|
+|2024-06-04 23:30:12|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Expediting ML Model Readiness: Industry Expert Abhijeet Rajwade’s Insights](https://buaq.net/go-243298.html)|
+|2024-06-04 15:03:33|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[拜登抨击内坦亚胡：拖延加沙战争只为政治自保](https://www.zaobao.com/realtime/world/story20240604-3800670)|
+|2024-06-04 14:28:28|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[印度选举计票接近结束 莫迪赢得微弱优势](https://www.zaobao.com/realtime/world/story20240604-3800447)|
+|2024-06-04 13:37:54|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[美防长奥斯汀访柬埔寨 改善双边关系](https://www.zaobao.com/realtime/world/story20240604-3800237)|
+|2024-06-04 14:59:24|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[七匹狼公子迎娶特步千金，为何闽商热衷“强强联手”？](https://m.thepaper.cn/detail/27619441)|
+|2024-06-04 14:59:16|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[江南大学通报毕业生举报自己及团队学术造假：未发现学术不端](https://m.thepaper.cn/detail/27622647)|
+|2024-06-04 14:57:20|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[光明日报：杭州“麦田CBD”为何走红？](https://m.thepaper.cn/detail/27622641)|
+|2024-06-04 14:54:50|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[山东煤矿突水事故剩余7人全部找到](https://m.thepaper.cn/detail/27622644)|
+|2024-06-04 14:53:58|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[大连一辆电动公交车路上发生自燃，无人员受伤](https://m.thepaper.cn/detail/27622642)|
+|2024-06-04 14:45:26|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[青海互助县一在建隧道发生塌方事故致3人失联](https://m.thepaper.cn/detail/27622633)|
+|2024-06-04 14:44:27|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[诗情画意变吆喝叫卖？东方甄选直播画风遭吐槽，俞敏洪都称“乱七八糟”](https://m.thepaper.cn/detail/27619728)|
+|2024-06-04 14:34:54|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[途牛：第一季度扭亏为盈，上市以来首次一季度单季盈利](https://m.thepaper.cn/detail/27619426)|
+|2024-06-04 14:24:43|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[陕西建工接手原西安恒大文旅城部分地块，将负责出资完成“保交楼”任务](https://m.thepaper.cn/detail/27622510)|
+|2024-06-04 14:17:52|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[印度执政党主导的全国民主联盟在大选中获胜](https://m.thepaper.cn/detail/27622597)|
+|2024-06-04 14:17:32|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[擅用黄渤姓名肖像进行商业活动，陕西秦皇御宴西凤酒营销公司道歉](https://m.thepaper.cn/detail/27622515)|
+|2024-06-04 14:07:39|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[印度大选｜计票过半：莫迪胜幅不如预期，联盟政党或成焦点](https://m.thepaper.cn/detail/27621727)|
+|2024-06-04 14:03:58|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[央广网：浙江两驴友被溪流冲走遇难，谁之责？](https://m.thepaper.cn/detail/27622545)|
+|2024-06-04 13:58:05|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[视频丨菲非法“坐滩”仁爱礁的军舰人员偷走我国渔民渔网](https://m.thepaper.cn/detail/27622525)|
+|2024-06-04 13:47:56|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[结束封训备战泰国倒计时，国足生死战主抓防守和定位球](https://m.thepaper.cn/detail/27622527)|
+|2024-06-04 13:42:46|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[错例都一样！斯坦福学生团队致歉抄袭中国大模型：已撤回，代码作者失联](https://m.thepaper.cn/detail/27619129)|
+|2024-06-04 15:28:52|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[web 项目中，对于依赖的各种 client 初始化](https://www.v2ex.com/t/1046856#reply2)|
+|2024-06-04 12:37:06|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[失业前端开发程序员，怎样加入 Github 公益项目？](https://www.v2ex.com/t/1046809#reply5)|
+|2024-06-04 14:48:19|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[内网搭建 web 端笔记工具，求推荐](https://www.v2ex.com/t/1046852#reply3)|
+|2024-06-04 13:28:00|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[平安信托超7亿产品逾期兑付事件新进展来了](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E5%B9%B3%E5%AE%89%E4%BF%A1%E6%89%98%E8%B6%857%E4%BA%BF%E4%BA%A7%E5%93%81%E9%80%BE%E6%9C%9F%E5%85%91%E4%BB%98%E4%BA%8B%E4%BB%B6%E6%96%B0%E8%BF%9B%E5%B1%95%E6%9D%A5%E4%BA%86)|
+|2024-06-04 13:28:00|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[如何看待2023年贵州出生率全国第二？](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%852023%E5%B9%B4%E8%B4%B5%E5%B7%9E%E5%87%BA%E7%94%9F%E7%8E%87%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%BA%8C%EF%BC%9F)|
+|2024-06-04 13:28:00|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[牛肉价格大跳水，养殖户、屠宰户难捱低谷](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E7%89%9B%E8%82%89%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%8C%E5%85%BB%E6%AE%96%E6%88%B7%E3%80%81%E5%B1%A0%E5%AE%B0%E6%88%B7%E9%9A%BE%E6%8D%B1%E4%BD%8E%E8%B0%B7)|
+|2024-06-04 13:08:00|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[开源日报 DuckDB 1.0.0；电脑死机；操作系统是应用生态的基础；Arm拿下Windows PC；大模型明星公司扎堆找“接盘侠”](https://www.oschina.net/news/295806)|
+|2024-06-04 11:20:46|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[刚被微软砍掉的WSA“整活”了——腾讯接盘、还穿上了马甲「AOW」](https://osc.cool/2QbaSUXj)|
+|2024-06-04 15:47:22|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[2024年 Web 全栈开发路线图](https://juejin.cn/post/7376526544615243813)|
+|2024-06-04 15:45:33|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[代码简洁之道：探究JavaScript对象访问器](https://juejin.cn/post/7376484708547706891)|
+|2024-06-04 15:24:16|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[90% 的开发人员不知道的 10 个 GitHub 仓库](https://juejin.cn/post/7376526544615194661)|
+|2024-06-04 14:47:01|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[Session + Cookie vs JWT（使用 Nest 实现这两种方案）](https://juejin.cn/post/7376526544615145509)|
+|2024-06-04 14:45:00|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[媒体查询的基本使用](https://juejin.cn/post/7376280944981082121)|
+|2024-06-04 12:30:22|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[从根上理解BFC](https://juejin.cn/post/7376280944980787209)|
+|2024-06-04 16:24:28|[虎嗅](https://rss.huxiu.com/)|[这抹绿，从日本回到中国](https://www.huxiu.com/article/3102340.html?f=rss)|
+|2024-06-04 16:35:38|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Fedora 率先用 Valkey 取代 Redis](https://m.cnbeta.com.tw/view/1433580.htm)|
+|2024-06-04 16:35:28|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Nothing CMF Phone 1即将面世 "Nothing Lock"接口可挂接多种配件](https://m.cnbeta.com.tw/view/1433579.htm)|
+|2024-06-04 16:35:16|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[英国准备向肥胖患者提供礼来减肥药](https://m.cnbeta.com.tw/view/1433577.htm)|
+|2024-06-04 17:35:19|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Google AI智能概述能见度下降 仅显示15%的查询](https://m.cnbeta.com.tw/view/1433585.htm)|
+|2024-06-04 12:01:48|[果壳网 科学人](https://rsshub.app/guokr/scientific)|[我的肠胃猛然发出了一声巨响，音效就像是拉长版的“咕~噜~姆”](https://www.guokr.com/article/465581/)|
+|2024-06-04 16:44:07|[IT之家](https://www.ithome.com/rss/)|[全新视觉效果、新增搜索结果可收藏，华为音乐获推 12.11.35.100 众测更新](https://www.ithome.com/0/773/151.htm)|
 |2024-06-04 15:00:00|[机核](https://plink.anyfeeder.com/gcores)|[跨过文明与荒野的边界：拉丁美洲旅行记忆与荒原文化母题](https://www.gcores.com/radios/182810)|
 |2024-06-04 16:11:49|[V2EX](https://v2ex.com/index.xml)|[ 问与答 有大佬搞过电商的促销模型嘛？](https://www.v2ex.com/t/1046861#reply0)|
 |2024-06-04 16:02:52|[V2EX](https://v2ex.com/index.xml)|[ OpenAI poe 订阅直接干没了？](https://www.v2ex.com/t/1046860#reply0)|
