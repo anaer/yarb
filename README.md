@@ -1,7 +1,90 @@
-﻿# 每日资讯（2024-06-03）
+﻿# 每日资讯（2024-06-04）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-04 00:08:56|[虎嗅](https://plink.anyfeeder.com/huxiu)|[它曾遥遥领先SpaceX，如今却成为反面案例](https://www.huxiu.com/article/3099828.html?f=rss)|
+|2024-06-04 00:08:53|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“打工人在7-11吃午饭，丢人吗？”](https://www.huxiu.com/article/3099827.html?f=rss)|
+|2024-06-04 00:07:29|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中国急缺“充电宝”，容量过亿的那种](https://www.huxiu.com/article/3094581.html?f=rss)|
+|2024-06-04 01:20:25|[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 Jobincorner 发现在角落的工作，工作信息聚合网站 — 有个大更新](https://www.v2ex.com/t/1046552#reply0)|
+|2024-06-04 01:18:43|[V2EX](http://www.v2ex.com/index.xml)|[ OpenCV opencv 去除视频中移动的文字](https://www.v2ex.com/t/1046551#reply0)|
+|2024-06-04 01:18:08|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 端午节准备去南京玩，推荐吗？](https://www.v2ex.com/t/1046550#reply0)|
+|2024-06-04 01:16:11|[V2EX](http://www.v2ex.com/index.xml)|[ VPS justmysocks 质量下降了](https://www.v2ex.com/t/1046549#reply1)|
+|2024-06-04 01:14:49|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 分享一下大家做过的善事](https://www.v2ex.com/t/1046548#reply2)|
+|2024-06-04 01:10:50|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 后台学前端用什么技术栈比较好](https://www.v2ex.com/t/1046547#reply6)|
+|2024-06-04 01:09:28|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 端午打算去扬州玩，有什么推荐的景点或攻略吗](https://www.v2ex.com/t/1046545#reply3)|
+|2024-06-04 01:06:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 副总去新公司，让我一个技术和产品经理跟着去，大佬们给给建议](https://www.v2ex.com/t/1046544#reply4)|
+|2024-06-04 01:06:53|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有什么推荐的全封闭高颜值三轮车？](https://www.v2ex.com/t/1046543#reply0)|
+|2024-06-04 01:03:21|[V2EX](http://www.v2ex.com/index.xml)|[ Google Google Gemini API 炸掉了](https://www.v2ex.com/t/1046542#reply3)|
+|2024-06-04 00:46:19|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone iPhone 收到短信强提醒](https://www.v2ex.com/t/1046538#reply16)|
+|2024-06-04 00:42:06|[V2EX](http://www.v2ex.com/index.xml)|[ 酷工作 6 月， 上海 招聘云计算售前工程师，需要有实操能力](https://www.v2ex.com/t/1046536#reply0)|
+|2024-06-04 00:29:44|[V2EX](http://www.v2ex.com/index.xml)|[ OpenAI chatgpt 的朗读的音频怎么下载](https://www.v2ex.com/t/1046535#reply2)|
+|2024-06-04 00:28:47|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 工科大学生入学买什么笔记本电脑？](https://www.v2ex.com/t/1046534#reply37)|
+|2024-06-04 00:11:51|[V2EX](http://www.v2ex.com/index.xml)|[ 推广 AI 女孩生成](https://www.v2ex.com/t/1046531#reply6)|
+|2024-06-04 00:05:23|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[钛媒体科股早知道：事关商业卫星，中国航天科技集团有大动作](https://www.tmtpost.com/7114731.html)|
+|2024-06-04 08:00:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Update: myjson-filter.py version 0.0.6](https://buaq.net/go-243100.html)|
+|2024-06-04 07:59:04|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ 技巧 Windows 11依然可以使用旧版文件资源管理器 而且新旧版可同时使用](https://buaq.net/go-243098.html)|
+|2024-06-04 07:39:42|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Windows 10将在安装本月更新后广泛展示Windows 11全屏升级窗口](https://buaq.net/go-243099.html)|
+|2024-06-04 06:45:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Microsoft India’s X account hijacked in Roaring Kitty crypto scam](https://buaq.net/go-243101.html)|
+|2024-06-04 06:45:15|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Data firm execs convicted for helping fraudsters target the elderly](https://buaq.net/go-243102.html)|
+|2024-06-04 01:10:45|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[北京指英国MI6策反中国公务员夫妇从事间谍活动](https://cn.nytimes.com/china/20240604/china-mi6-espionage-britain-spying/?utm_source=RSS)|
+|2024-06-04 00:57:42|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[哪一个大模型最好私有化部署？](https://segmentfault.com/q/1010000044938268)|
+|2024-06-04 00:24:00|[虎嗅](https://rss.huxiu.com/)|[别再被营销号骗了，安全可不是只看谁的车壳硬](https://www.huxiu.com/article/3097741.html?f=rss)|
+|2024-06-04 00:54:49|[爱范儿](https://www.ifanr.com/feed)|[工信部发文，单踏板被禁？特斯拉首次回应](https://www.ifanr.com/1587935?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-06-04 00:42:54|[爱范儿](https://www.ifanr.com/feed)|[早报 斯坦福某 AI 团队抄袭面壁智能开源大模型/董明珠称「打工人要休闲可以辞职」/百度被《时代》周刊评为全球领导者](https://www.ifanr.com/1587955?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-06-04 01:22:24|[精品MAC应用分享](https://xclient.info/feed)|[Sweet Home 3D 7.4.1 3D室内设计软件](https://xclient.info/s/sweet-home-3d.html)|
+|2024-06-04 01:21:32|[精品MAC应用分享](https://xclient.info/feed)|[Valentina Studio Pro 14.0 数据库管理软件](https://xclient.info/s/valentina-studio-pr.html)|
+|2024-06-04 01:17:40|[蓝点网](https://www.landiannews.com/feed)|[火狐浏览器将内置AI为网站图片生成描述内容 帮助视障用户理解图片](https://www.landiannews.com/archives/104272.html)|
+|2024-06-04 01:02:26|[蓝点网](https://www.landiannews.com/feed)|[ 技巧 Windows 11 24H2版出现Pcasvc.dll 缺少条目 报错的解决方案](https://www.landiannews.com/archives/104275.html)|
+|2024-06-04 00:48:08|[蓝点网](https://www.landiannews.com/feed)|[微软为Word添加快捷审批插件 支持Microsoft 365 F1及以上订阅](https://www.landiannews.com/archives/104273.html)|
+|2024-06-04 00:26:07|[蓝点网](https://www.landiannews.com/feed)|[X/Twitter更新规则正式允许发布成人内容 预计这会吸引更多成人内容创作者](https://www.landiannews.com/archives/104271.html)|
+|2024-06-04 00:12:55|[蓝点网](https://www.landiannews.com/feed)|[绿联NAS因为存在巨量问题而道歉 同时相关新品已经从京东商城下架](https://www.landiannews.com/archives/104270.html)|
+|2024-06-04 01:06:45|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[OpenAI正与Helion Energy洽谈购买大量聚变能源](https://m.cnbeta.com.tw/view/1433463.htm)|
+|2024-06-04 01:06:31|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[英伟达和AMD争夺人工智能控制权](https://m.cnbeta.com.tw/view/1433462.htm)|
+|2024-06-04 01:06:19|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[伯克希尔A类股一度跌近100% 股价仅185.1美元 所有错误交易将被视为无效](https://m.cnbeta.com.tw/view/1433461.htm)|
+|2024-06-04 01:06:09|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Business Insider：微软将对Azure云部门裁员数百人](https://m.cnbeta.com.tw/view/1433460.htm)|
+|2024-06-04 01:05:56|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[福特CEO称其电动汽车业务几年后才可能盈利](https://m.cnbeta.com.tw/view/1433459.htm)|
+|2024-06-04 01:05:41|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[业绩担忧消退 苹果股价年内累计转涨](https://m.cnbeta.com.tw/view/1433458.htm)|
+|2024-06-04 01:05:31|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[微软确认将在混合现实部门裁员 但将继续销售HoloLens2头显](https://m.cnbeta.com.tw/view/1433457.htm)|
+|2024-06-04 01:05:17|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[消息称Google在云计算部门裁员至少100人](https://m.cnbeta.com.tw/view/1433456.htm)|
+|2024-06-04 00:28:00|[异次元软件世界](https://feed.iplaysoft.com)|[100+ 款软件激活码打折信息整理！看有无你需要的？低至 5 折起](https://www.iplaysoft.com/news/6170)|
+|2024-06-04 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9772914)|
+|2024-06-04 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[既然公交车的上客门设计在车的最头，为什么下客门不设计在最末尾？](https://daily.zhihu.com/story/9772890)|
+|2024-06-04 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[有哪些你以为很干净，实际很脏的东西？](https://daily.zhihu.com/story/9772898)|
+|2024-06-04 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[什么是「奥利给」不等式？](https://daily.zhihu.com/story/9772908)|
+|2024-06-04 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[植物大战僵尸中为什么大多数人喜欢都把向日葵放在最左侧一排，第二排再放豌豆射手？](https://daily.zhihu.com/story/9772889)|
+|2024-06-04 00:41:58|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【科股早餐会】又一地在车路云协同方面有大动作；5G-A新时代即将开启，这一元器件或迎来新机会；英伟达将推出百万卡互联的智算中心，产业链两大需求有望提升；AI高速率时代，这一产业链或迎成长机遇](https://www.tmtpost.com/7114819.html)|
+|2024-06-04 00:30:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[出入境游热浪将至](https://www.tmtpost.com/7114390.html)|
+|2024-06-04 01:20:35|[TechNews 科技新報](http://technews.tw/feed/)|[黃仁勳：輝達 5 年內在台興建大型設計中心](https://technews.tw/2024/06/04/nvidia-big-design-center-taiwan-5-years/)|
+|2024-06-04 01:12:06|[TechNews 科技新報](http://technews.tw/feed/)|[AI PC 雷聲大雨點小？IDC 估今年 PC 銷量與去年持平](https://technews.tw/2024/06/04/idc-estimates-pc-sales-this-year-will-be-the-same-as-last-year/)|
+|2024-06-04 01:00:52|[TechNews 科技新報](http://technews.tw/feed/)|[迎戰 AI 與永續浪潮，宇瞻 COMPUTEX 展期秀最強戰力](https://technews.tw/2024/06/04/apacer-computex-2024/)|
+|2024-06-04 00:52:37|[TechNews 科技新報](http://technews.tw/feed/)|[股民失望，NYSE：波克夏 A 股暴跌 99% 錯價成交無效](https://finance.technews.tw/2024/06/04/nyse-class-a/)|
+|2024-06-04 00:46:52|[TechNews 科技新報](http://technews.tw/feed/)|[NYSE 出包、製造業軟，道瓊摔；輝達逆漲](https://finance.technews.tw/2024/06/04/us-stocks-0603/)|
+|2024-06-04 00:30:49|[TechNews 科技新報](http://technews.tw/feed/)|[現代起亞集團為何持續逆風推出電動車，不懼市場衰退？](https://technews.tw/2024/06/04/why-hyundai-and-kia-still-working-on-ev-since-the-market-decline/)|
+|2024-06-04 00:30:46|[TechNews 科技新報](http://technews.tw/feed/)|[魏哲家接台積董事長，日經亞洲：地緣政治成最大挑戰](https://technews.tw/2024/06/04/c-c-wei-tsmc/)|
+|2024-06-04 00:24:50|[TechNews 科技新報](http://technews.tw/feed/)|[地熱子法完善申設法規，土地限制需跨部會協調](https://technews.tw/2024/06/04/geothermal-sub-law-improves-application-and-construction-regulations/)|
+|2024-06-04 00:20:44|[TechNews 科技新報](http://technews.tw/feed/)|[馬斯克腦機介面公司首位「使用者」：80% 設備脫落，生活被顛覆](https://technews.tw/2024/06/04/neuralink-noland-arbaugh/)|
+|2024-06-04 00:10:15|[TechNews 科技新報](http://technews.tw/feed/)|[Anthropic Claude AI 推新「AI 代理」新功能，能串接外部 API 幫你買鞋、讀信](https://technews.tw/2024/06/04/anthropics-ai-now-lets-you-create-bots-to-work-for-you/)|
+|2024-06-04 00:00:40|[TechNews 科技新報](http://technews.tw/feed/)|[蘋果晶片並不是什麼「神話」](https://technews.tw/2024/06/04/apple-chips-are-not-a-myth/)|
+|2024-06-04 01:16:42|[极客公园](http://www.geekpark.net/rss)|[纽交所故障，巴菲特股票暴跌 99%；苹果 WWDC 直播邀请曝光；Twitter 正式允许成人内容存在](http://www.geekpark.net/news/336085)|
+|2024-06-04 01:19:48|[IT之家](https://www.ithome.com/rss/)|[微软推出 Word“审批”加载项：轻松创建和管理工作审批流程](https://www.ithome.com/0/772/944.htm)|
+|2024-06-04 01:12:01|[IT之家](https://www.ithome.com/rss/)|[消息称游戏《歧路旅人 II》本月内登陆微软 Xbox 平台，首发加入 XGP 服务](https://www.ithome.com/0/772/942.htm)|
+|2024-06-04 01:10:22|[IT之家](https://www.ithome.com/rss/)|[嫦娥六号拍摄月背系列影像图公布，含着陆点彩色全景图像](https://www.ithome.com/0/772/941.htm)|
+|2024-06-04 01:07:19|[IT之家](https://www.ithome.com/rss/)|[网易生存掠夺射击游戏《萤火突击》开启预下载：枪械改装玩法、实时天气地图](https://www.ithome.com/0/772/940.htm)|
+|2024-06-04 01:06:26|[IT之家](https://www.ithome.com/rss/)|[适用于 AMD Zen 5 处理器，华擎 X870 / X870E 系列主板全阵容亮相](https://www.ithome.com/0/772/939.htm)|
+|2024-06-04 01:00:35|[IT之家](https://www.ithome.com/rss/)|[“猫扇”加持，海韵展出 Prime TX-1600 Noctua Edition 钛金电源](https://www.ithome.com/0/772/938.htm)|
+|2024-06-04 00:56:19|[IT之家](https://www.ithome.com/rss/)|[WinRAR CD 实体光盘宣布停产](https://www.ithome.com/0/772/937.htm)|
+|2024-06-04 00:53:15|[IT之家](https://www.ithome.com/rss/)|[消息称腾讯将以 7000 万美元收购泰国娱乐公司 GMM Music 10% 的股份](https://www.ithome.com/0/772/936.htm)|
+|2024-06-04 00:48:43|[IT之家](https://www.ithome.com/rss/)|[Win11 留“后门”！无需繁琐操作即可轻松打开旧版文件资源管理器](https://www.ithome.com/0/772/935.htm)|
+|2024-06-04 00:47:24|[IT之家](https://www.ithome.com/rss/)|[Linux Mint 五月报告：软件管理器默认禁用未认证的 Flatpaks](https://www.ithome.com/0/772/933.htm)|
+|2024-06-04 00:38:28|[IT之家](https://www.ithome.com/rss/)|[Win11 24H2 装机 OOBE 要求登录微软账号：邮件绕过方案创建本地账号已失效](https://www.ithome.com/0/772/932.htm)|
+|2024-06-04 00:33:15|[IT之家](https://www.ithome.com/rss/)|[微软 Xbox 实体游戏外盒风格焕新：淡化主机型号差异、整体更简洁](https://www.ithome.com/0/772/931.htm)|
+|2024-06-04 00:22:43|[IT之家](https://www.ithome.com/rss/)|[微软宣布对混合现实部门进行裁员，HoloLens 2 将继续销售](https://www.ithome.com/0/772/930.htm)|
+|2024-06-04 00:20:40|[IT之家](https://www.ithome.com/rss/)|[科技昨夜今晨 0604：日本多家车企被曝集体造假，丰田中国称在华销售车型与事件无关；AMD 锐龙 9000 桌面处理器发布；斯坦福团队被曝抄袭清华系大模型](https://www.ithome.com/0/772/929.htm)|
+|2024-06-04 00:18:54|[IT之家](https://www.ithome.com/rss/)|[Linux 发行版需要杀软吗？卡巴斯基推出免费 Linux 版 KVRT 病毒扫描清理工具](https://www.ithome.com/0/772/928.htm)|
+|2024-06-04 00:17:26|[IT之家](https://www.ithome.com/rss/)|[消息称任天堂将把 NGC 平台经典游戏《星际火狐：突击》搬上 Switch 2](https://www.ithome.com/0/772/927.htm)|
+|2024-06-04 00:11:21|[IT之家](https://www.ithome.com/rss/)|[自适应大灯可更好地照亮弯道，特斯拉发布 2024.20 软件更新](https://www.ithome.com/0/772/926.htm)|
+|2024-06-04 00:07:45|[IT之家](https://www.ithome.com/rss/)|[曾号称“可让用户手机变身 POS 机”，华为钱包 App 下线 POS 业务](https://www.ithome.com/0/772/925.htm)|
+|2024-06-04 00:07:41|[IT之家](https://www.ithome.com/rss/)|[预判了对手的预判，三星先发制人起诉 Oura：Galaxy Ring 智能戒指未侵犯其 5 项专利](https://www.ithome.com/0/772/924.htm)|
 |2024-06-03 18:07:05|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[联合国20多名专家呼吁所有国家承认巴勒斯坦国](https://m.thepaper.cn/detail/27610387)|
 |2024-06-03 18:01:22|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[阿联酋等五国外长呼吁实现加沙永久停火](https://m.thepaper.cn/detail/27610386)|
 |2024-06-03 17:45:40|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[皇家马德里宣布姆巴佩加盟球队](https://m.thepaper.cn/detail/27610384)|
@@ -21,6 +104,14 @@
 |2024-06-03 15:42:45|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[35岁出来创业算晚吗？](https://www.zhihu.com/question/656959828/answer/3519246623)|
 |2024-06-03 15:33:57|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[希望在生活中「能有个人拯救自己」，这种想法正常吗？](https://www.zhihu.com/question/657597001/answer/3519237551)|
 |2024-06-03 21:58:41|[IT之家](https://www.ithome.com/rss/)|[比 M1 仍提速近 50%，苹果回应 M2 iPad Air 图形芯片 10 核变 9 核：性能参数正确](https://www.ithome.com/0/772/903.htm)|
+|2024-06-04 05:25:52|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Analysis of Mics and Mic Sounds Used by Podcasters](https://buaq.net/go-243086.html)|
+|2024-06-04 05:15:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cox fixed an API auth bypass exposing millions of modems to attacks](https://buaq.net/go-243081.html)|
+|2024-06-04 04:24:24|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cybersecurity Automation in Healthcare Program Launched by HHS Agency](https://buaq.net/go-243088.html)|
+|2024-06-04 04:00:18|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[361 million stolen accounts leaked on Telegram added to HIBP](https://buaq.net/go-243082.html)|
+|2024-06-04 03:41:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Emotional Intelligence for Cyber Leaders - James Doggett, Jessica Hoffman, Sivan Tehila - BSW #352](https://buaq.net/go-243085.html)|
+|2024-06-04 03:37:55|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Telegram Combolists and 361M Email Addresses](https://buaq.net/go-243084.html)|
+|2024-06-04 03:31:21|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cyberattack on telecom giant Frontier claimed by RansomHub](https://buaq.net/go-243083.html)|
+|2024-06-04 03:10:03|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Telegram Combolists - 361,468,099 breached accounts](https://buaq.net/go-243080.html)|
 |2024-06-03 15:38:42|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[美副总统哈里斯将赴瑞士 参加乌克兰和平峰会](https://www.zaobao.com/realtime/world/story20240603-3782224)|
 |2024-06-03 15:08:30|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[联合国卫星分析：加沙逾半数建筑遭战争破坏](https://www.zaobao.com/realtime/world/story20240603-3782091)|
 |2024-06-03 14:18:25|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[大选结果未定 英政府拟7月24日起遣送寻求庇护者](https://www.zaobao.com/realtime/world/story20240603-3781843)|
@@ -55,6 +146,13 @@
 |2024-06-03 13:39:00|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[日本夏普公司计划建大规模人工智能数据中心](http://www.news.cn/20240603/3d352cf6e8f54dc8a7d9c658a0f7111f/c.html)|
 |2024-06-03 13:31:10|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[从“Shanghai Pass”到“做一天上海人” 上海入境旅游体验更多元更便捷](http://www.news.cn/20240603/bea3626d72da4c82a53a8712eac8a3f4/c.html)|
 |2024-06-03 13:29:14|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[审慎实施不可靠实体清单 坚定捍卫国家主权——访商务部研究院贸易与投资安全研究所所长程慧](http://www.news.cn/20240603/2ebdf93a46454fffa22d7611853a02d0/c.html)|
+|2024-06-04 03:00:18|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Azure Service Tags tagged as security risk, Microsoft disagrees](https://buaq.net/go-243070.html)|
+|2024-06-04 02:45:43|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cyberattack Risks Keep Small Business Security Teams on Edge](https://buaq.net/go-243074.html)|
+|2024-06-04 02:29:03|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CISA adds Oracle WebLogic Server flaw to its Known Exploited Vulnerabilities catalog](https://buaq.net/go-243073.html)|
+|2024-06-04 02:14:55|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Google Hates Ad Blockers: Manifest V3 Push Starts Today](https://buaq.net/go-243075.html)|
+|2024-06-04 02:00:23|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Exploit for critical Progress Telerik auth bypass released, patch now](https://buaq.net/go-243071.html)|
+|2024-06-04 01:36:09|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Conducting a CMMC 2.0 Readiness Assessment](https://buaq.net/go-243076.html)|
+|2024-06-04 01:31:42|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Hungary's ruling party skips parliamentary session on disputed Russian cyberattack](https://buaq.net/go-243072.html)|
 |2024-06-03 16:15:31|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[内塔尼亚胡称以色列将坚持消灭哈马斯](https://m.thepaper.cn/detail/27610370)|
 |2024-06-03 16:12:54|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[国际观察：首位女总统将给墨西哥带来哪些变化](https://m.thepaper.cn/detail/27610368)|
 |2024-06-03 15:24:11|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[媒体：别把乡村建成城里人需要的“网红景点”](https://m.thepaper.cn/detail/27610359)|
@@ -91,6 +189,9 @@
 |2024-06-03 14:22:11|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[下午察：“养臭水”风靡中国校园 该禁还是不该禁？](https://www.zaobao.com/realtime/china/story20240603-3781454)|
 |2024-06-03 14:13:00|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[网民造谣周杰伦长沙演唱会遭黄牛大量倒卖被拘留三天](https://www.zaobao.com/realtime/china/story20240603-3778067)|
 |2024-06-03 13:00:00|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[插电混动续航大于2500公里震惊业界：激烈竞争驱动中国汽车产业迅猛发展丨快评](https://www.infzm.com/contents/272798)|
+|2024-06-04 01:24:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Introducing Shared Memory Versioning to improve slow interactions](https://buaq.net/go-243051.html)|
+|2024-06-04 00:01:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Live Nation confirms Ticketmaster breach after hackers hawk stolen info of 560 million](https://buaq.net/go-243053.html)|
+|2024-06-04 00:00:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Limit Cloud Data Costs with MinIO on Equinix](https://buaq.net/go-243057.html)|
 |2024-06-03 23:56:38|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[【情报实战】美军艾森豪威尔航母在哪里？是否被袭击（含视频）](https://buaq.net/go-243066.html)|
 |2024-06-03 23:56:18|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[EDR Internals for macOS and Linux](https://buaq.net/go-243052.html)|
 |2024-06-03 23:45:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cybersecurity e intelligenza artificiale: una nuova era nella difesa digitale](https://buaq.net/go-243054.html)|
