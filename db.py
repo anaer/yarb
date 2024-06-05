@@ -114,7 +114,7 @@ def getArticlesForReadme():
     toDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=1), datetime.time.min)
 
     cur.execute('''
-    select feed_name, feed_url, title, url, published_at from t_article where published_at >= ? and published_at < ? order by updated_at desc
+    select feed_name, feed_url, title, url, published_at, updated_at from t_article where published_at >= ? and published_at < ? order by updated_at desc
     ''', [
         fromDate.strftime('%Y-%m-%d'),
         toDate.strftime('%Y-%m-%d')
