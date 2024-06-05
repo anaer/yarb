@@ -43,13 +43,13 @@ def update_today():
 
     data = getArticlesForReadme()
     with open(today_path, 'w+', encoding='utf-8-sig') as f1:
-        content = f'# 每日资讯（{today}）\n\n'
-        content += f'|来源|标题|更新时间|\n'
-        content += f'|---|---|---|\n'
+        content = f'# {today}\n\n'
+        content += f'|来源|标题|\n'
+        content += f'|---|---|\n'
         for (feed, link, title, url, published_at, updated_at) in data:
             newfeed = truncate_string(replace_brackets_with_space(feed))
             newtitle = replace_brackets_with_space(title)
-            content += f'|[{newfeed}]({link})|[{newtitle}]({url})|{updated_at}|\n'
+            content += f'|[{newfeed}]({link})|[{newtitle}]({url})|\n'
         f1.write(content)
 
     data = getArticles()
