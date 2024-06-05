@@ -2,6 +2,25 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 能不能保留套餐换手机号？](https://www.v2ex.com/t/1047185#reply1)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[中方期待联合国调查组尽早向伊拉克移交“伊斯兰国”犯罪证据](http://www.news.cn/20240606/9d0233007a3c4ee6a651571b59998435/c.html)|
+||[以军袭击加沙地带中部造成至少75人死亡](http://www.news.cn/20240606/24b28fd5cb204c4dbfeea546ccdceca6/c.html)|
+||[国际油价5日上涨](http://www.news.cn/20240606/a1cc277149b94e53a2851d13245947b8/c.html)|
+||[美元指数5日上涨](http://www.news.cn/20240606/4912ae9574764f0e953198cefa98d674/c.html)|
+||[英国威尔士首席大臣未能通过不信任投票](http://www.news.cn/20240606/0e2115a09d354bbfb75fa6b5a913648a/c.html)|
+||[摩洛哥发生假酒中毒事件致8人死亡](http://www.news.cn/20240606/757db474b067470ea6ecb04568ff7132/c.html)|
+||[伦敦股市5日上涨](http://www.news.cn/20240606/62531a5004664d1383d15cf1ab937b28/c.html)|
+||[美国波音“星际客机”进行首次载人试飞](http://www.news.cn/20240606/4ce049d8ff8e4b81b1566cb6897856ef/c.html)|
+||[新华社快讯：英国威尔士地方政府首席大臣沃恩·格辛5日未能通过地方议会不信任投票](http://www.news.cn/20240606/a7b007ae4d6342e48b064f2f11f2674b/c.html)|
+||[坦桑尼亚西南部一交通事故致14人死亡](http://www.news.cn/20240606/f27fba4b183b4444b7eb1bb677c4ed98/c.html)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[全球气温连续12个月刷新高 联合国秘书长吁采取措施](https://www.zaobao.com/realtime/world/story20240606-3821903)|
+||[泽连斯基访卡塔尔 谈论双边经济和安全问题](https://www.zaobao.com/realtime/world/story20240605-3821832)|
+||[铭记牺牲士兵 英国举行诺曼底登陆80周年纪念仪式](https://www.zaobao.com/realtime/world/story20240605-3821711)|
+||[以法院维持禁令 不准半岛电视台运营35天](https://www.zaobao.com/realtime/world/story20240605-3821603)|
+||[民调：仅6%西欧人认为美国未来10年可保欧洲安全](https://www.zaobao.com/realtime/world/story20240605-3821495)|
+||[与工党党魁展开首场辩论 民调显示英首相苏纳克险胜](https://www.zaobao.com/realtime/world/story20240605-3821405)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[在人生寂静了29年之后，我鼓起勇气重新倾听世界](https://www.guokr.com/article/465583/)|
+||[吃甘肃小吃前必学黑话：呱呱、捞捞、削削、皮皮、坨坨……](https://www.guokr.com/article/465582/)|
 |[V2EX](https://v2ex.com/index.xml)|[ .NET 我想重构我这个项目的前端，有什么好的建议？](https://www.v2ex.com/t/1047183#reply1)|
 ||[ 宽带症候群 有什么办法让代理走指定网口？](https://www.v2ex.com/t/1047182#reply2)|
 ||[ 宽带症候群 公寓楼 Wi-Fi 方案请教各位。。。](https://www.v2ex.com/t/1047181#reply4)|
