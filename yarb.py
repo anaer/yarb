@@ -124,9 +124,14 @@ def parseThread(url: str, proxy_url=''):
             beginTime = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
             tomorrow = datetime.datetime.today() + datetime.timedelta(1)
 
+            # 过滤v2ex零回复发帖
+            if entry.link.endswith("#reply0"):
+                continue
+
             if pubday > beginTime and pubday < tomorrow:
                 result.append(entry)
                 continue
+            
             # 因rss一般是按时间新->旧排序, 当遇到一条发布时间不满足的情况, 基本可以确定后续都不满足, 直接跳出循环
             break
         Color.print_success(f'[+] {title}\t{url}\t{len(result)}/{len(r.entries)}')
