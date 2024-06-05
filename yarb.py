@@ -46,10 +46,15 @@ def update_today():
         content = f'# {today}\n\n'
         content += f'|来源|标题|\n'
         content += f'|---|---|\n'
+        prefeed = ''
         for (feed, link, title, url, published_at, updated_at) in data:
             newfeed = truncate_string(replace_brackets_with_space(feed))
             newtitle = replace_brackets_with_space(title)
-            content += f'|[{newfeed}]({link})|[{newtitle}]({url})|\n'
+            if(prefeed != newfeed):
+                content += f'|[{newfeed}]({link})|[{newtitle}]({url})|\n'
+                prefeed = newfeed
+            else:
+                content += f'||[{newtitle}]({url})|\n'
         f1.write(content)
 
     data = getArticles()
