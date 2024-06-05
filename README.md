@@ -1,7 +1,95 @@
-﻿# 每日资讯（2024-06-04）
+﻿# 每日资讯（2024-06-05）
 
 |时间|来源|标题|
 |---|---|---|
+|2024-06-05 01:21:49|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 你们会整理相册吗？](https://www.v2ex.com/t/1046888#reply0)|
+|2024-06-05 01:16:59|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 证券开户，支持 API 下单量化交易接口， Python](https://www.v2ex.com/t/1046887#reply0)|
+|2024-06-05 01:10:24|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 家里有一个网瘾少女， 618 想组个台式，各位大佬掌掌眼](https://www.v2ex.com/t/1046886#reply3)|
+|2024-06-05 01:08:34|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 该不该去新公司](https://www.v2ex.com/t/1046884#reply7)|
+|2024-06-05 01:07:22|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 关于公网环境下内网穿透的问题，求指导](https://www.v2ex.com/t/1046883#reply6)|
+|2024-06-05 01:06:23|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 孩子取名求助](https://www.v2ex.com/t/1046882#reply8)|
+|2024-06-05 01:05:06|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想问问大家有什么能做图片转换的开源服务](https://www.v2ex.com/t/1046881#reply1)|
+|2024-06-05 01:02:20|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 小白请教在 vps 上搭建 caddy 反代 https 服务器的问题](https://www.v2ex.com/t/1046880#reply4)|
+|2024-06-05 00:54:54|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 淘宝网页端产品设计是彻底放弃了吗，手机 PC 订单不同步](https://www.v2ex.com/t/1046877#reply0)|
+|2024-06-05 00:50:14|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大街上各种摄像头到底有多少是好的](https://www.v2ex.com/t/1046876#reply13)|
+|2024-06-05 00:49:22|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 大家使用鼠标，会贴膜么？](https://www.v2ex.com/t/1046875#reply6)|
+|2024-06-05 00:36:40|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助大佬们，前端统计播放时长有没有好的设计思路](https://www.v2ex.com/t/1046874#reply2)|
+|2024-06-05 00:33:38|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 有没收益较高风险较小的理财产品推荐？](https://www.v2ex.com/t/1046873#reply12)|
+|2024-06-05 00:30:13|[V2EX](https://www.v2ex.com/index.xml)|[ iPad 求一个 iPad 21pro 11 寸，咸鱼水太深了](https://www.v2ex.com/t/1046872#reply12)|
+|2024-06-05 00:15:16|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 数据中台目前都是怎么的技术架构](https://www.v2ex.com/t/1046871#reply12)|
+|2024-06-05 00:10:30|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 最近几天分别有一台 hk 和 us 的节点被墙了](https://www.v2ex.com/t/1046870#reply13)|
+|2024-06-05 06:15:17|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Australian mining company discloses breach after BianLian leaks data](https://buaq.net/go-243348.html)|
+|2024-06-05 06:13:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Gold Pressed Latinum, VBScript, ORBS, Rockwell, Chrome, SKY, Aaran Leyland, and More - SWN #389](https://buaq.net/go-243350.html)|
+|2024-06-05 06:00:19|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[TikTok fixes zero-day bug used to hijack high-profile accounts](https://buaq.net/go-243349.html)|
+|2024-06-05 05:45:25|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[$10M for Founders, AI Agents, and More. Plus, Can AI Outperform Human Therapists?](https://buaq.net/go-243352.html)|
+|2024-06-05 00:50:09|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【科股早餐会】国家能源局公开征求《电力市场注册基本规则》意见；证监会将发布资本市场相关政策举措；5月百城二手住宅跌幅收窄，后续地产股波动性和个股分化可能加大；江西峡江水电站月发电量连续破亿，水电二季度来水情况或迎边际改善](https://www.tmtpost.com/7116489.html)|
+|2024-06-05 00:46:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[两月跌去20%，传音控股需要走出舒适区](https://www.tmtpost.com/7116081.html)|
+|2024-06-05 00:39:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[亚马逊云，不想失去云计算的“铁王座”](https://www.tmtpost.com/7116091.html)|
+|2024-06-05 00:26:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中国顾客撒手，轻奢挨个扑街](https://www.tmtpost.com/7116109.html)|
+|2024-06-05 00:16:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[走向精品化，大厂游戏疯狂卷“质量”](https://www.tmtpost.com/7116113.html)|
+|2024-06-05 00:09:00|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[杨幂、刘诗诗等85花回归，“IP+流量”的古偶剧撑得住吗？](https://www.tmtpost.com/7116148.html)|
+|2024-06-05 00:06:06|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[钛媒体科股早知道：美光HBM产能预计明年将增加三到四倍](https://www.tmtpost.com/7116395.html)|
+|2024-06-05 00:28:15|[爱范儿](https://www.ifanr.com/feed)|[早报 曝苹果正在与中国移动洽谈，Apple TV+ 有望入华/理想汽车召回部分被裁员工/斯坦福 AI 团队作者道歉](https://www.ifanr.com/1588156?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|2024-06-05 00:40:40|[虎嗅](https://plink.anyfeeder.com/huxiu)|[那不勒斯四部曲：女性友谊与战争](https://www.huxiu.com/article/3101950.html?f=rss)|
+|2024-06-05 00:21:47|[虎嗅](https://plink.anyfeeder.com/huxiu)|[特朗普审判之后：美国政治大戏如何演下去？](https://www.huxiu.com/article/3099030.html?f=rss)|
+|2024-06-05 00:21:32|[虎嗅](https://plink.anyfeeder.com/huxiu)|[工信部帮特斯拉踩刹车](https://www.huxiu.com/article/3102479.html?f=rss)|
+|2024-06-05 00:05:28|[虎嗅](https://plink.anyfeeder.com/huxiu)|[花9000买了套房后，我在云南隐居了](https://www.huxiu.com/article/3102888.html?f=rss)|
+|2024-06-05 00:04:12|[虎嗅](https://plink.anyfeeder.com/huxiu)|[百万年薪金融男兼职开出租：看到香港社会的贫富差距](https://www.huxiu.com/article/3101259.html?f=rss)|
+|2024-06-05 01:13:38|[IT之家](https://www.ithome.com/rss/)|[Meta Quest 3 迎 v66 重磅更新：大幅改善透视时画面扭曲问题，后台音频功能上线](https://www.ithome.com/0/773/184.htm)|
+|2024-06-05 01:12:04|[IT之家](https://www.ithome.com/rss/)|[深圳理工大学正式设立：14 名院士加持，今年首次按计算机科学与技术大类招生](https://www.ithome.com/0/773/183.htm)|
+|2024-06-05 01:08:54|[IT之家](https://www.ithome.com/rss/)|[京东前 AI 掌门人创立公司被曝高层动荡：创始人或淡出，合伙人及多名高管离职](https://www.ithome.com/0/773/182.htm)|
+|2024-06-05 01:04:37|[IT之家](https://www.ithome.com/rss/)|[微软停止开发并废弃 NTLM 协议，Win11 24H2 和 Server 2025 仍保留使用](https://www.ithome.com/0/773/181.htm)|
+|2024-06-05 00:58:08|[IT之家](https://www.ithome.com/rss/)|[比尔・盖茨明年将出版回忆录，讲述其鲜为人知的成长故事](https://www.ithome.com/0/773/180.htm)|
+|2024-06-05 00:57:54|[IT之家](https://www.ithome.com/rss/)|[李想也吃“后悔药”？消息称理想汽车正召回部分关键岗位被裁员工](https://www.ithome.com/0/773/179.htm)|
+|2024-06-05 00:56:20|[IT之家](https://www.ithome.com/rss/)|[作价 110 亿美元，英特尔宣布向 Apollo 出售爱尔兰 Fab34 晶圆厂 49% 股权](https://www.ithome.com/0/773/177.htm)|
+|2024-06-05 00:50:15|[IT之家](https://www.ithome.com/rss/)|[微软预告 Teams 共享屏幕新特性：自由移动 Presenter 工具栏、视频播放一键优化](https://www.ithome.com/0/773/176.htm)|
+|2024-06-05 00:36:18|[IT之家](https://www.ithome.com/rss/)|[iPod nano 附体，苹果带触控屏 AirPods 专利公示：可控音频、支持旋转手势](https://www.ithome.com/0/773/175.htm)|
+|2024-06-05 00:32:28|[IT之家](https://www.ithome.com/rss/)|[奥地利隐私组织投诉微软侵犯儿童隐私：涉嫌非法追踪学生数据](https://www.ithome.com/0/773/174.htm)|
+|2024-06-05 00:30:13|[IT之家](https://www.ithome.com/rss/)|[目标实现水冷级解热但无漏液风险，猫头鹰展示热虹吸散热器原型](https://www.ithome.com/0/773/173.htm)|
+|2024-06-05 00:27:26|[IT之家](https://www.ithome.com/rss/)|[2025 QS 世界大学排名发布：麻省理工学院 13 连冠，北大清华跻身前 20](https://www.ithome.com/0/773/172.htm)|
+|2024-06-05 00:20:47|[IT之家](https://www.ithome.com/rss/)|[科技昨夜今晨 0605：高铁新增“优选一等座”，票价介于商务座和一等座之间；五星红旗在月背升起；斯坦福团队为抄袭清华系 AI 模型道歉](https://www.ithome.com/0/773/171.htm)|
+|2024-06-05 00:18:01|[IT之家](https://www.ithome.com/rss/)|[微软 Edge 浏览器截图工具升级：可截取整个屏幕，支持马赛克功能](https://www.ithome.com/0/773/170.htm)|
+|2024-06-05 00:10:16|[IT之家](https://www.ithome.com/rss/)|[让钢化膜厂商头疼，消息称苹果 iPhone 16 Pro Max 屏幕黑边 1.153 毫米](https://www.ithome.com/0/773/168.htm)|
+|2024-06-05 00:09:05|[IT之家](https://www.ithome.com/rss/)|[谷歌首席隐私官将离职：任职 13 年，职位无人接替](https://www.ithome.com/0/773/167.htm)|
+|2024-06-05 01:14:04|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[Docker Compose 部署 MySQL 报错，如何解决？](https://segmentfault.com/q/1010000044941593)|
+|2024-06-05 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9772942)|
+|2024-06-05 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[食肉目·猫型亚目](https://daily.zhihu.com/story/9772920)|
+|2024-06-05 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[除了 π，e，0.618，还有没有其他一些有特殊意义的数？](https://daily.zhihu.com/story/9772929)|
+|2024-06-05 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[物理和化学中有些哪些好玩儿的随机过程？](https://daily.zhihu.com/story/9772933)|
+|2024-06-05 00:27:03|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[为什么有的字形可以「打出字」，有的不可以？](https://daily.zhihu.com/story/9772915)|
+|2024-06-05 00:28:39|[极客公园](https://plink.anyfeeder.com/geekpark)|[传苹果正洽谈 Apple TV+ 入华；马斯克调整1万块 H100 给 xAI；瑞士公司研发生物活体处理器 极客早知道](http://www.geekpark.net/news/336132)|
+|2024-06-05 01:08:01|[虎嗅](https://rss.huxiu.com/)|[大模型的电力经济学：中国AI需要多少电力？](https://www.huxiu.com/article/3102723.html?f=rss)|
+|2024-06-05 00:21:32|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[工信部帮特斯拉踩刹车](http://www.huxiu.com/article/3102479.html?f=wangzhan)|
+|2024-06-05 01:20:42|[TechNews 科技新報](http://technews.tw/feed/)|[台海若衝突產能移美？魏哲家：不可能完全移出台灣](https://technews.tw/2024/06/05/semiconductor-move-out-of-taiwan-no-possible/)|
+|2024-06-05 01:19:17|[TechNews 科技新報](http://technews.tw/feed/)|[x86 還無法取代！Pat Gelsinger 不畏高通、Windows on Arm 競爭：會贏喔](https://technews.tw/2024/06/05/pat-gelsinger-keynote-qa/)|
+|2024-06-05 01:10:13|[TechNews 科技新報](http://technews.tw/feed/)|[美通膨將回來？拜登固票限縮非法移民庇護](https://finance.technews.tw/2024/06/05/biden-solidifies-votes-to-limit-asylum-for-illegal-immigrants/)|
+|2024-06-05 01:05:50|[TechNews 科技新報](http://technews.tw/feed/)|[WSJ：紐約擬限制社群媒體以演算法自動推播給未成年人](https://technews.tw/2024/06/05/wsj-ny-new-laws/)|
+|2024-06-05 00:56:33|[TechNews 科技新報](http://technews.tw/feed/)|[雲端資安服務商 CrowdStrike 財報財測優，盤後大漲](https://finance.technews.tw/2024/06/05/crowdstrike-financial-report-for-the-first-quarter-of-fiscal-year-2025/)|
+|2024-06-05 00:49:00|[TechNews 科技新報](http://technews.tw/feed/)|[職缺減引衰退疑慮，標普略漲、美債 ETF 嗨](https://finance.technews.tw/2024/06/05/us-stocks-0604/)|
+|2024-06-05 00:44:21|[TechNews 科技新報](http://technews.tw/feed/)|[上市櫃永續報告書加強審閱，重大揭露缺失最重罰百萬](https://finance.technews.tw/2024/06/05/enhanced-review-of-listed-cabinet-sustainability-reports/)|
+|2024-06-05 00:40:32|[TechNews 科技新報](http://technews.tw/feed/)|[輝達加碼設研發中心，經濟部：中南部綠電土地成本較低](https://finance.technews.tw/2024/06/05/green-power-land-costs-are-lower-in-central-and-southern-taiwan/)|
+|2024-06-05 00:34:58|[TechNews 科技新報](http://technews.tw/feed/)|[童子賢：台灣電力消費將直線上升，得提升能源效率](https://finance.technews.tw/2024/06/05/taiwans-electricity-consumption-will-skyrocket/)|
+|2024-06-05 00:30:23|[TechNews 科技新報](http://technews.tw/feed/)|[提前嗅 AI 商機！宜鼎由工控出發、強勢躍升，以高強度研發與客製化優勢，在各垂直市場啟動智慧轉型](https://technews.tw/2024/06/05/innodisk-from-industrial-control-system-to-ai-computex-2024/)|
+|2024-06-05 00:30:16|[TechNews 科技新報](http://technews.tw/feed/)|[日本科學家為提高酵母菌生產酒精的效能找解方](https://technews.tw/2024/06/05/a-promising-solution-to-boosting-ethanol-production/)|
+|2024-06-05 00:29:37|[TechNews 科技新報](http://technews.tw/feed/)|[童子賢：台灣供應鏈具影響力，為全球 AI 支柱](https://technews.tw/2024/06/05/taiwans-supply-chain-is-influential/)|
+|2024-06-05 00:20:35|[TechNews 科技新報](http://technews.tw/feed/)|[「地球最大基因體」換人做看看！太平洋島矮小蕨類寫下新紀錄](https://technews.tw/2024/06/05/largest-genome-on-earth-revealed/)|
+|2024-06-05 00:10:04|[TechNews 科技新報](http://technews.tw/feed/)|[科技巨頭微軟的綠能大單來了！誰是用電大戶？科技業如何備戰 AI 的能源需求？](https://technews.tw/2024/06/05/how-is-the-tech-industry-preparing-for-the-energy-needs-of-ai/)|
+|2024-06-05 00:09:58|[TechNews 科技新報](http://technews.tw/feed/)|[ASML 攜 Imec 合建實驗室，供客戶測試最新 High NA EUV 設備](https://technews.tw/2024/06/05/asml-and-imec-open-high-na-euv-laboratory/)|
+|2024-06-05 00:00:51|[TechNews 科技新報](http://technews.tw/feed/)|[未來十年財政風險，美國經濟能否承受這一沉重負擔？](https://finance.technews.tw/2024/06/05/u-s-fiscal-risks-in-the-next-decade/)|
+|2024-06-05 05:37:24|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Sitefinity 15.0 Cross Site Scripting](https://buaq.net/go-243336.html)|
+|2024-06-05 05:37:12|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[FreePBX 16 Remote Code Execution](https://buaq.net/go-243337.html)|
+|2024-06-05 05:37:01|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[WBCE CMS 1.6.2 Remote Code Execution](https://buaq.net/go-243338.html)|
+|2024-06-05 05:36:49|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Dotclear 2.29 Remote Code Execution](https://buaq.net/go-243340.html)|
+|2024-06-05 05:36:30|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Serendipity 2.5.0 Remote Code Execution](https://buaq.net/go-243341.html)|
+|2024-06-05 05:13:50|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[SecOps Teams Shift Strategy as AI-Powered Threats, Deepfakes Evolve](https://buaq.net/go-243345.html)|
+|2024-06-05 04:45:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[FBI warns of fake remote work ads used for cryptocurrency fraud](https://buaq.net/go-243329.html)|
+|2024-06-05 04:31:21|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[TikTok warns of exploit aimed at 'high-profile accounts’](https://buaq.net/go-243330.html)|
+|2024-06-05 04:30:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[ARRL says it was hacked by an "international cyber group"](https://buaq.net/go-243331.html)|
+|2024-06-05 04:16:19|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Belarusian hackers target Ukraine’s Ministry of Defence in new espionage campaign](https://buaq.net/go-243332.html)|
+|2024-06-05 04:10:44|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Attack Techniques: Trojaned Clipboard](https://buaq.net/go-243328.html)|
+|2024-06-05 03:39:58|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[UL NO. 435: Making New Things is Post-AI Safety](https://buaq.net/go-243339.html)|
+|2024-06-05 03:31:21|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Suspected state-sponsored hackers hit 22 Canadian provincial government inboxes](https://buaq.net/go-243333.html)|
+|2024-06-05 03:30:17|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Microsoft announces first Windows 10 Beta build since 2021](https://buaq.net/go-243334.html)|
 |2024-06-04 22:12:04|[V2EX](https://v2ex.com/index.xml)|[ 问与答 原生安卓 14，安装无权限 APK 有风险吗？](https://www.v2ex.com/t/1046866#reply0)|
 |2024-06-04 20:28:06|[光明日报](https://plink.anyfeeder.com/guangmingribao)|[01版头版 - 【人民需要这样的科学家③】与国际权威“叫板”](https://epaper.gmw.cn/gmrb/html/2024-06/05/nw.D110000gmrb_20240605_1-01.htm)|
 |2024-06-04 20:28:06|[光明日报](https://plink.anyfeeder.com/guangmingribao)|[01版头版 - 习近平向墨西哥当选总统辛鲍姆致贺电](https://epaper.gmw.cn/gmrb/html/2024-06/05/nw.D110000gmrb_20240605_2-01.htm)|
@@ -77,6 +165,15 @@
 |2024-06-04 15:03:00|[首页头条--人民网](https://plink.anyfeeder.com/people)|[莫迪宣布执政党主导的全国民主联盟赢得印度大选](http://world.people.com.cn/n1/2024/0604/c1002-40250239.html)|
 |2024-06-04 14:19:00|[首页头条--人民网](https://plink.anyfeeder.com/people)|[印度总理莫迪宣布,执政党印度人民党主导的全国民主联盟在大选中获胜](http://world.people.com.cn/n1/2024/0604/c1002-40250238.html)|
 |2024-06-04 12:22:00|[首页头条--人民网](https://plink.anyfeeder.com/people)|[京港沪港直通车升级为夕发朝至高铁 5日起售票](http://hm.people.com.cn/n1/2024/0604/c42272-40250229.html)|
+|2024-06-05 03:11:14|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Russian Threat Groups Turn Eyes to the Paris Olympic Games](https://buaq.net/go-243319.html)|
+|2024-06-05 02:52:28|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[The Role of DevSecOps in Enhancing CNAPP Efficiency](https://buaq.net/go-243320.html)|
+|2024-06-05 02:11:09|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Life in the Swimlane with Emily Spector, Senior SDR](https://buaq.net/go-243321.html)|
+|2024-06-05 02:02:35|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[RansomHub gang claims the hack of the telecommunications giant Frontier Communications](https://buaq.net/go-243314.html)|
+|2024-06-05 01:57:00|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[BCNF, Azure, Roaring Kitty, Hugging Face, Okta, Linux, Oracle, Josh Marpet... - SWN #390](https://buaq.net/go-243313.html)|
+|2024-06-05 01:52:09|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[One Phish Two Phish, Red Teams Spew Phish](https://buaq.net/go-243317.html)|
+|2024-06-05 01:51:50|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[NIST 2.0: Securing Workload Identities and Access](https://buaq.net/go-243322.html)|
+|2024-06-05 01:31:42|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cyberattack disrupts operations of supermarkets across Russia](https://buaq.net/go-243310.html)|
+|2024-06-05 01:30:31|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Zyxel issues emergency RCE patch for end-of-life NAS devices](https://buaq.net/go-243311.html)|
 |2024-06-04 02:16:48|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[做了这样一款 APP 有可能会违法吗?](https://www.v2ex.com/t/1046589#reply106)|
 |2024-06-04 17:55:06|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 RouterOS RB750Gr3 ， LAN 内 PC_A，直接访问 WAN IP 捆绑的动态域名:port 此 port 映射到 LAN 内 PC_B 的 SSH ，连接失败，是什么原因呢？](https://www.v2ex.com/t/1046865#reply2)|
 |2024-06-04 16:24:29|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华社快讯：俄罗斯首都莫斯科东北部4日发生一起枪击事件，造成两人受伤](http://www.news.cn/20240605/ffa9a21c2a4a4fd583f584a9ab665951/c.html)|
@@ -107,6 +204,13 @@
 |2024-06-04 17:55:06|[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 RouterOS RB750Gr3 ， LAN 内 PC_A，直接访问 WAN IP 捆绑的动态域名:port 此 port 映射到 LAN 内 PC_B 的 SSH ，连接失败，是什么原因呢？](https://www.v2ex.com/t/1046865#reply0)|
 |2024-06-04 17:51:35|[V2EX](https://www.v2ex.com/index.xml)|[ KVM 如何优化 kvm 的硬盘 io](https://www.v2ex.com/t/1046864#reply0)|
 |2024-06-04 16:56:12|[V2EX](https://www.v2ex.com/index.xml)|[ OpenWrt 了解了一点 adguard home 对 dnsmasq 的设置，你看看我说的对不对，请指点。还想请教一下如何适配 openclash](https://www.v2ex.com/t/1046863#reply1)|
+|2024-06-05 00:53:09|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Cybercriminals attack banking customers in EU with V3B phishing kit – PhotoTAN and SmartID supported.](https://buaq.net/go-243294.html)|
+|2024-06-05 00:35:32|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Was the Ticketmaster Leak Snowflake’s Fault?](https://buaq.net/go-243303.html)|
+|2024-06-05 00:30:33|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Major London hospitals disrupted by Synnovis ransomware attack](https://buaq.net/go-243286.html)|
+|2024-06-05 00:15:16|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Major London hospitals disrupted by Synnovis cyberattack](https://buaq.net/go-243287.html)|
+|2024-06-05 00:01:27|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Mix of federal cyber laws hurts security and competitiveness, businesses tell White House](https://buaq.net/go-243288.html)|
+|2024-06-05 00:01:26|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Privacy abuses will meet ‘full force of the law’ from new Texas unit, attorney general says](https://buaq.net/go-243289.html)|
+|2024-06-05 00:00:20|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Microsoft deprecates Windows NTLM authentication protocol](https://buaq.net/go-243290.html)|
 |2024-06-04 23:48:27|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CISOs and Senior Leadership at Odds Over Security](https://buaq.net/go-243304.html)|
 |2024-06-04 23:47:54|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[CARV Secures Strategic Investment From NEOWIZ’s Web3 Gaming Platform Intella X Ahead Of Public Node](https://buaq.net/go-243295.html)|
 |2024-06-04 23:46:22|[unSafe.sh - 不安全](https://buaq.net/rss.xml)|[Paris Olympics fertile ground for nation-state hackers, researchers warn](https://buaq.net/go-243292.html)|
