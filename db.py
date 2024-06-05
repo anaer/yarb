@@ -109,12 +109,12 @@ def getArticlesForReadme():
     cur = conn.cursor()
 
     # 有些源返回数据是0时区, 所以统一前推8小时
-    fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(hours=-8), datetime.time.min)
-    # fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    # fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(hours=-8), datetime.time.min)
+    fromDate = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     toDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=1), datetime.time.min)
 
     cur.execute('''
-    select feed_name, feed_url, title, url, published_at, updated_at from t_article where published_at >= ? and published_at < ? order by updated_at desc
+    select feed_name, feed_url, title, url, published_at, updated_at from t_article where updated_at >= ? and updated_at < ? order by updated_at desc
     ''', [
         fromDate.strftime('%Y-%m-%d'),
         toDate.strftime('%Y-%m-%d')
