@@ -2,6 +2,134 @@
 
 |来源|标题|
 |---|---|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[Golden Goose拟IPO；家乐氏小黄人联名产品京东首发；喜茶发布宣言倡导科学控糖；优衣库姊妹品牌GU首进深圳｜消研所日报](https://www.tmtpost.com/7117527.html)|
+||[【日日龙虎榜】半导体走强，三连板协和电子龙虎榜净卖出690余万元；车联网概念继续表现，游资抢筹连板股金溢科技；中公教育龙虎榜净卖出近7700万元](https://www.tmtpost.com/7117925.html)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[NBA接近与NBC、ESPN和亚马逊达成760亿美元电视交易](https://www.36kr.com/newsflashes/2806903806211464)|
+||[麦当劳在“巨无霸”商标争议中败诉](https://www.36kr.com/newsflashes/2806901345351299)|
+||[中国宝安：副总裁因涉嫌内幕交易拟被证监会处罚](https://www.36kr.com/newsflashes/2806900904375684)|
+||[热门中概股美股盘前多数上涨，网易、微博涨超3%](https://www.36kr.com/newsflashes/2806900145157511)|
+||[美股大型科技股盘前普涨，英伟达涨超1%](https://www.36kr.com/newsflashes/2806892071908741)|
+||[知乎任命孙斌为CTO，李大海继续担任公司董事](https://www.36kr.com/newsflashes/2806873451820423)|
+||[ChatGPT昨日宕机期间，谷歌Gemini搜索量骤增60%](https://www.36kr.com/newsflashes/2806867739948679)|
+||[欲20亿套现长鑫存储股权？碧桂园回应](https://www.36kr.com/newsflashes/2806864040425091)|
+||[航天机电：子公司拟2700万欧元转让埃斯创卢森堡100%股权](https://www.36kr.com/newsflashes/2806857867654789)|
+||[“法保网”完成数千万元A+轮融资](https://www.36kr.com/newsflashes/2806857388012937)|
+||[Alphabet任命Anat Ashkenazi为CFO](https://www.36kr.com/newsflashes/2806854724056710)|
+||[豪恩汽电：正积极关注L4级别的自动驾驶产品研发](https://www.36kr.com/newsflashes/2806854330234505)|
+||[特斯拉最大股东之一支持马斯克560亿美元薪酬方案](https://www.36kr.com/newsflashes/2806850331260544)|
+||[中泰股份：电动车行业的发展对公司目前整体销气量影响甚微](https://www.36kr.com/newsflashes/2806849846572679)|
+||[招商蛇口：拟聘请毕马威华振担任公司2024年度会计师事务所](https://www.36kr.com/newsflashes/2806841806960256)|
+||[OpenAI员工发表公开信，警示人工智能监管缺失风险](https://www.36kr.com/newsflashes/2806837290415752)|
+||[万科A：香港子公司全额偿还6.02亿美元中期票据本息](https://www.36kr.com/newsflashes/2806814029919623)|
+||[大众中国：未来三年实现人员降本20%，不等于裁员](https://www.36kr.com/newsflashes/2806809986397577)|
+||[富时中国A50指数纳入中远海控、中国中车](https://www.36kr.com/newsflashes/2806804586919300)|
+||[淘宝面向企业家推出直播全托管服务](https://www.36kr.com/newsflashes/2806797457127041)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sony 2024 BRAVIA 全新系列登台 在家享受劇院級魔法](https://applefans.today/2024-06-sony-2024-bravia-press-release/)|
+|[机器之心](http://plink.anyfeeder.com/weixin/almosthuman2014)|[腾讯混元、北大发现Scaling law「浪涌现象」，解决学习率调参难题](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%E3%80%81%E5%8C%97%E5%A4%A7%E5%8F%91%E7%8E%B0Scaling%20law%E3%80%8C%E6%B5%AA%E6%B6%8C%E7%8E%B0%E8%B1%A1%E3%80%8D%EF%BC%8C%E8%A7%A3%E5%86%B3%E5%AD%A6%E4%B9%A0%E7%8E%87%E8%B0%83%E5%8F%82%E9%9A%BE%E9%A2%98)|
+||[嘴炮王者Tyler1化身免费AI陪玩，帮你在英雄联盟中打爆三路，轻松上分](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E5%98%B4%E7%82%AE%E7%8E%8B%E8%80%85Tyler1%E5%8C%96%E8%BA%AB%E5%85%8D%E8%B4%B9AI%E9%99%AA%E7%8E%A9%EF%BC%8C%E5%B8%AE%E4%BD%A0%E5%9C%A8%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E6%89%93%E7%88%86%E4%B8%89%E8%B7%AF%EF%BC%8C%E8%BD%BB%E6%9D%BE%E4%B8%8A%E5%88%86)|
+||[央国企需求场景发布，共议 AI 赋能产业融通，尽在WAIC这场论坛](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E5%A4%AE%E5%9B%BD%E4%BC%81%E9%9C%80%E6%B1%82%E5%9C%BA%E6%99%AF%E5%8F%91%E5%B8%83%EF%BC%8C%E5%85%B1%E8%AE%AE%20AI%20%E8%B5%8B%E8%83%BD%E4%BA%A7%E4%B8%9A%E8%9E%8D%E9%80%9A%EF%BC%8C%E5%B0%BD%E5%9C%A8WAIC%E8%BF%99%E5%9C%BA%E8%AE%BA%E5%9D%9B)|
+||[黎曼猜想显著突破！陶哲轩强推MIT、牛津新论文，37岁菲尔兹奖得主参与](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%98%BE%E8%91%97%E7%AA%81%E7%A0%B4%EF%BC%81%E9%99%B6%E5%93%B2%E8%BD%A9%E5%BC%BA%E6%8E%A8MIT%E3%80%81%E7%89%9B%E6%B4%A5%E6%96%B0%E8%AE%BA%E6%96%87%EF%BC%8C37%E5%B2%81%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%8F%82%E4%B8%8E)|
+||[GLM-4开源版本终于来了：超越Llama3，多模态比肩GPT4V，MaaS平台也大升级](http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+GLM-4%E5%BC%80%E6%BA%90%E7%89%88%E6%9C%AC%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%EF%BC%9A%E8%B6%85%E8%B6%8ALlama3%EF%BC%8C%E5%A4%9A%E6%A8%A1%E6%80%81%E6%AF%94%E8%82%A9GPT4V%EF%BC%8CMaaS%E5%B9%B3%E5%8F%B0%E4%B9%9F%E5%A4%A7%E5%8D%87%E7%BA%A7)|
+|[华尔街见闻](https://plink.anyfeeder.com/weixin/wallstreetcn)|[“风口浪尖”的百亿私募，抛出“史上最大激励计划”](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E2%80%9C%E9%A3%8E%E5%8F%A3%E6%B5%AA%E5%B0%96%E2%80%9D%E7%9A%84%E7%99%BE%E4%BA%BF%E7%A7%81%E5%8B%9F%EF%BC%8C%E6%8A%9B%E5%87%BA%E2%80%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92%E2%80%9D)|
+||[王兴冲进了新战场](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E7%8E%8B%E5%85%B4%E5%86%B2%E8%BF%9B%E4%BA%86%E6%96%B0%E6%88%98%E5%9C%BA)|
+||[大选生变！对印度经济意味着什么？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E5%A4%A7%E9%80%89%E7%94%9F%E5%8F%98%EF%BC%81%E5%AF%B9%E5%8D%B0%E5%BA%A6%E7%BB%8F%E6%B5%8E%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F)|
+||[在618集中上新，蕉下、VVC们为何押注拼多多？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E5%9C%A8618%E9%9B%86%E4%B8%AD%E4%B8%8A%E6%96%B0%EF%BC%8C%E8%95%89%E4%B8%8B%E3%80%81VVC%E4%BB%AC%E4%B8%BA%E4%BD%95%E6%8A%BC%E6%B3%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%EF%BC%9F)|
+||[新政后，二手房变天了](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E6%96%B0%E6%94%BF%E5%90%8E%EF%BC%8C%E4%BA%8C%E6%89%8B%E6%88%BF%E5%8F%98%E5%A4%A9%E4%BA%86)|
+|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[天大、南大发布LPSNet：无透镜成像下的人体三维姿态与形状估计 CVPR 2024](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E5%A4%A9%E5%A4%A7%E3%80%81%E5%8D%97%E5%A4%A7%E5%8F%91%E5%B8%83LPSNet%EF%BC%9A%E6%97%A0%E9%80%8F%E9%95%9C%E6%88%90%E5%83%8F%E4%B8%8B%E7%9A%84%E4%BA%BA%E4%BD%93%E4%B8%89%E7%BB%B4%E5%A7%BF%E6%80%81%E4%B8%8E%E5%BD%A2%E7%8A%B6%E4%BC%B0%E8%AE%A1%20%7C%20CVPR%202024)|
+||[AI「末日」突然来临，公司同事集体变蠢！只因四大聊天机器人同时宕机](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+AI%E3%80%8C%E6%9C%AB%E6%97%A5%E3%80%8D%E7%AA%81%E7%84%B6%E6%9D%A5%E4%B8%B4%EF%BC%8C%E5%85%AC%E5%8F%B8%E5%90%8C%E4%BA%8B%E9%9B%86%E4%BD%93%E5%8F%98%E8%A0%A2%EF%BC%81%E5%8F%AA%E5%9B%A0%E5%9B%9B%E5%A4%A7%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8C%E6%97%B6%E5%AE%95%E6%9C%BA)|
+||[OpenAI前员工预测：2027年AGI降临！GPT智商飙升，4年从幼儿园蹿到高中生](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+OpenAI%E5%89%8D%E5%91%98%E5%B7%A5%E9%A2%84%E6%B5%8B%EF%BC%9A2027%E5%B9%B4AGI%E9%99%8D%E4%B8%B4%EF%BC%81GPT%E6%99%BA%E5%95%86%E9%A3%99%E5%8D%87%EF%BC%8C4%E5%B9%B4%E4%BB%8E%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%B9%BF%E5%88%B0%E9%AB%98%E4%B8%AD%E7%94%9F)|
+||[陶哲轩力推36岁菲尔兹奖得主新论文，指向黎曼猜想重大突破！](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E9%99%B6%E5%93%B2%E8%BD%A9%E5%8A%9B%E6%8E%A836%E5%B2%81%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E6%96%B0%E8%AE%BA%E6%96%87%EF%BC%8C%E6%8C%87%E5%90%91%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81)|
+||[1毛钱1百万token，写2遍红楼梦！国产大模型下一步还想卷什么？](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+1%E6%AF%9B%E9%92%B11%E7%99%BE%E4%B8%87token%EF%BC%8C%E5%86%992%E9%81%8D%E7%BA%A2%E6%A5%BC%E6%A2%A6%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%BF%98%E6%83%B3%E5%8D%B7%E4%BB%80%E4%B9%88%EF%BC%9F)|
+|[央视财经](https://plink.anyfeeder.com/weixin/cctvyscj)|[接近1万亿美元？这一行业，收入或创历史新高→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F+%E6%8E%A5%E8%BF%911%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%9F%E8%BF%99%E4%B8%80%E8%A1%8C%E4%B8%9A%EF%BC%8C%E6%94%B6%E5%85%A5%E6%88%96%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E2%86%92)|
+||[涉案超3亿元！韩国抓捕超30人→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F+%E6%B6%89%E6%A1%88%E8%B6%853%E4%BA%BF%E5%85%83%EF%BC%81%E9%9F%A9%E5%9B%BD%E6%8A%93%E6%8D%95%E8%B6%8530%E4%BA%BA%E2%86%92)|
+||[全球生态系统面临威胁！联合国发布报告！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F+%E5%85%A8%E7%90%83%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E9%9D%A2%E4%B8%B4%E5%A8%81%E8%83%81%EF%BC%81%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%B8%83%E6%8A%A5%E5%91%8A%EF%BC%81)|
+||[多预警发布！停课！停工！暴雨！洪水！这些地方注意→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F+%E5%A4%9A%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83%EF%BC%81%E5%81%9C%E8%AF%BE%EF%BC%81%E5%81%9C%E5%B7%A5%EF%BC%81%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%B4%AA%E6%B0%B4%EF%BC%81%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%B3%A8%E6%84%8F%E2%86%92)|
+||[5年增长超10倍！这一行业，成新亮点→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F+5%E5%B9%B4%E5%A2%9E%E9%95%BF%E8%B6%8510%E5%80%8D%EF%BC%81%E8%BF%99%E4%B8%80%E8%A1%8C%E4%B8%9A%EF%BC%8C%E6%88%90%E6%96%B0%E4%BA%AE%E7%82%B9%E2%86%92)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[香港企业要保自己家底，不然香港遗址](https://www.reddit.com/r/LOOK_CHINA/comments/1d8q1q4/香港企业要保自己家底不然香港遗址/)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[2024 年 NAS 机箱求推荐](https://www.v2ex.com/t/1047094#reply13)|
+||[实现一个纯 Web 界面的端到端加密临时聊天对话思路是否可行？](https://www.v2ex.com/t/1046959#reply40)|
+||[618 到了想买台云服务器，有推荐的吗大佬们](https://www.v2ex.com/t/1047127#reply2)|
+||[请问大家一个关于转发怎么获取真实 IP 的运维的问题](https://www.v2ex.com/t/1047150#reply4)|
+||[落幕了，刚刚和 HRBP 确认完 last day](https://www.v2ex.com/t/1047034#reply19)|
+||[写了解析 har 文件的工具,求 star 和建议](https://www.v2ex.com/t/1047102#reply9)|
+||[Go 里面的 map 数据初始化应该怎么做，这代码太丑陋了](https://www.v2ex.com/t/1047093#reply17)|
+||[AIO 形态选择](https://www.v2ex.com/t/1047136#reply5)|
+||[微软将在 11 号对所有区域为中国的 windows 系统推送 windows 管家🐶](https://www.v2ex.com/t/1047023#reply61)|
+||[有什么低成本备份 NAS 的方法](https://www.v2ex.com/t/1047081#reply16)|
+||[为什么要在 sdk 里面写一个和其他 jar 包完全一样的类（指类名）？](https://www.v2ex.com/t/1047106#reply8)|
+||[想问问大伙 NAS 备份照片的方案](https://www.v2ex.com/t/1047017#reply37)|
+||[数据中台目前都是怎么的技术架构](https://www.v2ex.com/t/1046871#reply52)|
+||[关于机场安全性问题求助](https://www.v2ex.com/t/1046978#reply38)|
+|[蓝点网](https://www.landiannews.com/feed)|[讯飞输入法服务器疑似崩溃 竟然无法离线使用 本地输入都会闪退](https://www.landiannews.com/archives/104314.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ Apple TV Appletv4k 一代出租屋配个什么电视？](https://www.v2ex.com/t/1047155#reply1)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Apple Watch和AirPods虽在市场上节节败退 但仍统治着可穿戴设备市场](https://m.cnbeta.com.tw/view/1433716.htm)|
+||[Firefox nightly版本在最新更新中获得标签预览功能](https://m.cnbeta.com.tw/view/1433715.htm)|
+||[当偏远部落的原住民遇上Starlink带来的改变](https://m.cnbeta.com.tw/view/1433714.htm)|
+||[Archer航空公司获得运营电动空中出租服务的许可](https://m.cnbeta.com.tw/view/1433712.htm)|
+||[Android版Google Gemini应用登陆英国和欧盟市场](https://m.cnbeta.com.tw/view/1433710.htm)|
+||[Apple Watch帮助旅客证明行李被盗 迫使精神航空公司向其支付赔偿](https://m.cnbeta.com.tw/view/1433709.htm)|
+||[病理实验室遭遇勒索软件攻击 伦敦数家医院被迫取消手术](https://m.cnbeta.com.tw/view/1433708.htm)|
+||[Alphabet迎来新任首席财务官Anat Ashkenazi 曾长期供职于礼来公司](https://m.cnbeta.com.tw/view/1433706.htm)|
+||[恩智浦和世界先进将在新加坡建造价值78亿美元的芯片晶圆厂](https://m.cnbeta.com.tw/view/1433705.htm)|
+||[被黑客攻击的日本交易所将筹资3.2亿美元购买比特币以补偿受影响客户](https://m.cnbeta.com.tw/view/1433704.htm)|
+||[ASML将于今年向台积电交付价值3.8亿美元的芯片制造设备](https://m.cnbeta.com.tw/view/1433703.htm)|
+||[iPhone 16 Pro 和 iPhone 16 Pro Max 的完整机身尺寸曝光](https://m.cnbeta.com.tw/view/1433701.htm)|
+||[消息称iOS 18 AI生成功能可能会是一种可选启动的服务](https://m.cnbeta.com.tw/view/1433700.htm)|
+||[“全地形”版奔驰E级官图发布 约54.9万起比GLE还贵](https://m.cnbeta.com.tw/view/1433699.htm)|
+||[3850吨B24 中国最大单船用生物燃料油加注成功](https://m.cnbeta.com.tw/view/1433698.htm)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[中国电影市场，等资本风来](https://www.infzm.com/contents/272842)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[垄断又蛮横，为什么“苹果税”就是告不倒？](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E5%9E%84%E6%96%AD%E5%8F%88%E8%9B%AE%E6%A8%AA%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%8B%B9%E6%9E%9C%E7%A8%8E%E2%80%9D%E5%B0%B1%E6%98%AF%E5%91%8A%E4%B8%8D%E5%80%92%EF%BC%9F)|
+||[蹭不上AIGC，宜搜科技上市没有“溢价”](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E8%B9%AD%E4%B8%8D%E4%B8%8AAIGC%EF%BC%8C%E5%AE%9C%E6%90%9C%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E6%B2%A1%E6%9C%89%E2%80%9C%E6%BA%A2%E4%BB%B7%E2%80%9D)|
+||[毕业第一次崩溃，从租房开始](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%AF%95%E4%B8%9A%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B4%A9%E6%BA%83%EF%BC%8C%E4%BB%8E%E7%A7%9F%E6%88%BF%E5%BC%80%E5%A7%8B)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[新中式女装商家，“倒”在淘金前夜](https://www.huxiu.com/article/3105318.html?f=rss)|
+||[中国哪个省，痔疮比例最高?](https://www.huxiu.com/article/3105341.html?f=rss)|
+||[“撇火药单间”里住着谁？](https://www.huxiu.com/article/3104790.html?f=rss)|
+||[深圳“天空之城”雄心](https://www.huxiu.com/article/3104813.html?f=rss)|
+||[东瀛往事：奢侈品公司在日50年](https://www.huxiu.com/article/3105353.html?f=rss)|
+||[来义乌搞钱，真能年入百万吗？](https://www.huxiu.com/article/3105336.html?f=rss)|
+||[企业客户太多，广东、上海茅台自营店暂停新申购](https://www.huxiu.com/article/3105352.html?f=rss)|
+|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[关于鲁迅，你可能只读懂了他的1%](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%85%B3%E4%BA%8E%E9%B2%81%E8%BF%85%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%8F%AA%E8%AF%BB%E6%87%82%E4%BA%86%E4%BB%96%E7%9A%841%25)|
+||[在一幅壁画里穿越南北朝](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%9C%A8%E4%B8%80%E5%B9%85%E5%A3%81%E7%94%BB%E9%87%8C%E7%A9%BF%E8%B6%8A%E5%8D%97%E5%8C%97%E6%9C%9D)|
+||[为什么年轻人再次爱上了鲁迅？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%86%8D%E6%AC%A1%E7%88%B1%E4%B8%8A%E4%BA%86%E9%B2%81%E8%BF%85%EF%BC%9F)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[大润发放弃小润发](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E5%A4%A7%E6%B6%A6%E5%8F%91%E6%94%BE%E5%BC%83%E5%B0%8F%E6%B6%A6%E5%8F%91)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[IoTOS v1.6.3 设备刷机停网！卡板设备双限速！](https://www.oschina.net/news/295968/iotos-updated)|
+|[南方周末](https://plink.anyfeeder.com/weixin/nanfangzhoumo)|[写小说，给了普通人重活一次的机会](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E5%86%99%E5%B0%8F%E8%AF%B4%EF%BC%8C%E7%BB%99%E4%BA%86%E6%99%AE%E9%80%9A%E4%BA%BA%E9%87%8D%E6%B4%BB%E4%B8%80%E6%AC%A1%E7%9A%84%E6%9C%BA%E4%BC%9A)|
+||[换车或补1万元，央地财政百亿补贴汽车以旧换新](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E6%8D%A2%E8%BD%A6%E6%88%96%E8%A1%A51%E4%B8%87%E5%85%83%EF%BC%8C%E5%A4%AE%E5%9C%B0%E8%B4%A2%E6%94%BF%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0)|
+||[探路碳普惠：一场基于全民数字低碳的武汉实验](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E6%8E%A2%E8%B7%AF%E7%A2%B3%E6%99%AE%E6%83%A0%EF%BC%9A%E4%B8%80%E5%9C%BA%E5%9F%BA%E4%BA%8E%E5%85%A8%E6%B0%91%E6%95%B0%E5%AD%97%E4%BD%8E%E7%A2%B3%E7%9A%84%E6%AD%A6%E6%B1%89%E5%AE%9E%E9%AA%8C)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[Next.js 项目接入 AI 的利器 —— Vercel AI SDK](https://juejin.cn/post/7376622203301969959)|
+||[Deno 1.44：私有 npm 注册表、改进的 Node.js 兼容性和性能提升](https://juejin.cn/post/7376860165322080308)|
+||[实践分享：如何用小程序里的小组件做应用开发？](https://juejin.cn/post/7376821583049883700)|
+||[图形学初识--透视修正](https://juejin.cn/post/7376477309321265162)|
+||[Web IDE 在线编辑器综合实践（Web IDE 技术探索 三）](https://juejin.cn/post/7376812564860108826)|
+||[离线环境下运行Vue项目](https://juejin.cn/post/7376827589909053466)|
+||[JS包装类：为什么循环中为什么建议用变量存储str.length进行循环判断？](https://juejin.cn/post/7376821583049785396)|
+||[详解利用闭包实现防抖与节流的原理与应用](https://juejin.cn/post/7376779004089761801)|
+||[《webpack》配置详解及原理分享](https://juejin.cn/post/7376821583049490484)|
+||[导入地址表钩取技术解析](https://juejin.cn/post/7376595796672397321)|
+||[精简CSS代码，提升前端性能:实战优化技巧](https://juejin.cn/post/7376558991454011428)|
+||[Canvas 画布：图形的选中和移动 上 ](https://juejin.cn/post/7376779004089221129)|
+||[【译】图片优化：在不牺牲质量的情况下自动减小图像尺寸](https://juejin.cn/post/7376827072708411446)|
+||[【vue3+vite应用从0到1】4.登录 微信公众号下 ](https://juejin.cn/post/7376558991453552676)|
+||[面试官：你知道 ES6 的 生成器 Generator 吗？小明：说起 Generator，还得从我上次去餐馆点餐开始说起](https://juejin.cn/post/7376635991605477428)|
+||[递归思想和数组扁平化](https://juejin.cn/post/7376812564859322394)|
+||[Vue.js Live 2024尤雨溪分享Vue.js的10年回顾展](https://juejin.cn/post/7376812564859240474)|
+||[vue3首屏速度优化](https://juejin.cn/post/7376827589907742746)|
+||[如何向开源项目提交PR（pull rquest）](https://juejin.cn/post/7376821583048409140)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[使用qiankun主应用，想把vue3+vite 项目做成子应用，有一些问题？](https://segmentfault.com/q/1010000044944099)|
+|[书伴](https://feeds.feedburner.com/bookfere)|[ 2024.06.05 Kindle 阅读器固件升级至 5.16.9](https://bookfere.com/post/1111.html)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[不想打工了!!](https://w2solo.com/topics/4673)|
+|[IT之家](https://www.ithome.com/rss/)|[结合一体式与分体式水冷特点，EK 推出 Nexe 系列水冷散热器](https://www.ithome.com/0/773/400.htm)|
+||[智云写趣 CM15 全彩口袋灯上市：141g、15W 全彩 RGB 灯效，首发价 285 元](https://www.ithome.com/0/773/399.htm)|
+||[8499 元：联想 YOGA Air 14 新增“在桃公主”配色，6 月 8 日开售](https://www.ithome.com/0/773/398.htm)|
+||[不止有机箱，分形工艺推出首款电竞椅 Refine 与 Scape 游戏耳机等新品](https://www.ithome.com/0/773/397.htm)|
+||[讯飞输入法崩了，官方回应：端午节活动配置出现 Bug，升级新版本即可恢复](https://www.ithome.com/0/773/395.htm)|
+||[英特尔推出 AI Playground 应用，旨在帮助 AI 新手快速入门](https://www.ithome.com/0/773/394.htm)|
+||[“企业家 IP”成香饽饽，淘宝直播宣布推出“0 门槛”全托管服务](https://www.ithome.com/0/773/393.htm)|
+||[《命运 2：终焉之形》今日正式上线，Bungie 向遇到服务器连接问题的玩家道歉](https://www.ithome.com/0/773/392.htm)|
+||[Remedy 预告《心灵杀手 2》付费 DLC“夜春镇”将于 6 月 8 日亮相夏日游戏节](https://www.ithome.com/0/773/391.htm)|
+||[谷歌 Alphabet 任命礼来首席财务官 Anat Ashkenazi 为新任 CFO，7 月 31 日上任](https://www.ithome.com/0/773/390.htm)|
+||[苹果将在 iOS 17.5.2 中修复屏幕使用时间漏洞，防止儿童绕过家长控制](https://www.ithome.com/0/773/389.htm)|
+|[虎嗅](https://rss.huxiu.com/)|[年轻人患空心病，表面正常却走向自杀](https://www.huxiu.com/article/3105760.html?f=rss)|
 |[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[拜登移民政策逆转，限制寻求庇护者入境美国](https://cn.nytimes.com/usa/20240605/biden-migrants-trump/dual)|
 |[首页头条--人民网](https://plink.anyfeeder.com/people)|[外交部:中方祝贺印度人民党主导的全国民主联盟赢得大选](http://world.people.com.cn/n1/2024/0605/c1002-40251155.html)|
 |[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[我在俄罗斯卖中国车](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%88%91%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%96%E4%B8%AD%E5%9B%BD%E8%BD%A6)|
