@@ -2,6 +2,55 @@
 
 |来源|标题|
 |---|---|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[刮刮乐，年轻人的第一款理财课](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E5%88%AE%E5%88%AE%E4%B9%90%EF%BC%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E7%90%86%E8%B4%A2%E8%AF%BE)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[越南国会批准司法部长黎成龙任政府副总理](https://www.zaobao.com/realtime/world/story20240606-3839809)|
+||[美与16国吁以哈双方接受停火方案 结束战争](https://www.zaobao.com/realtime/world/story20240606-3839784)|
+||[泰当局促好莱坞《侏罗纪世界》剧组 勿破坏泰国自然环境](https://www.zaobao.com/realtime/world/story20240606-3839624)|
+||[北约秘书长：无在乌克兰部署军队计划](https://www.zaobao.com/realtime/world/story20240606-3839469)|
+||[周四美市盘前几乎持平 重点谈运动服饰连锁集团Lululemon季度业绩](https://www.zaobao.com/realtime/world/story20240606-3837605)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[主播说联播 独属2024年高考考生的宇宙级祝福，请查收！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%BB%E6%92%AD%E8%AF%B4%E8%81%94%E6%92%AD%20%7C%20%E7%8B%AC%E5%B1%9E2024%E5%B9%B4%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E7%9A%84%E5%AE%87%E5%AE%99%E7%BA%A7%E7%A5%9D%E7%A6%8F%EF%BC%8C%E8%AF%B7%E6%9F%A5%E6%94%B6%EF%BC%81)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星 Galaxy Watch7 和 Galaxy Watch Ultra 参数与细节泄露](https://m.cnbeta.com.tw/view/1433885.htm)|
+||[去年中国对欧洲直接投资的44%去往匈牙利](https://m.cnbeta.com.tw/view/1433884.htm)|
+||[新的AMD RDNA 3.5 GPU对应条目"GFX1152"出现在开源Linux驱动程序中](https://m.cnbeta.com.tw/view/1433882.htm)|
+||[联合国秘书长呼吁媒体停止接受化石燃料广告资金 但没有得到任何回应](https://m.cnbeta.com.tw/view/1433881.htm)|
+||[Grubhub宣布将与星巴克合作 从本月开始为美国客户配送饮料和食品](https://m.cnbeta.com.tw/view/1433880.htm)|
+||[Ubuntu 23.10 下月起将不再提供安全更新 用户需要尽快升级系统](https://m.cnbeta.com.tw/view/1433879.htm)|
+||[今年6·18 最抽象的竟是闲鱼](https://m.cnbeta.com.tw/view/1433878.htm)|
+||[华为联合中山眼科发布ChatZOC眼科大模型 效率暴增75%](https://m.cnbeta.com.tw/view/1433875.htm)|
+||[通过 RCS 发送 911 短信的功能将登陆Google Messages](https://m.cnbeta.com.tw/view/1433874.htm)|
+||[Google开发新工具 希望借助人工智能拯救珊瑚礁](https://m.cnbeta.com.tw/view/1433873.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Elasticsearch 一个月写了一个 ES GUI 客户端（笑）](https://www.v2ex.com/t/1047534#reply1)|
+||[ Tesla 买车纠结 Ing](https://www.v2ex.com/t/1047532#reply1)|
+||[ V2EX WARP 被电信墙了？](https://www.v2ex.com/t/1047530#reply3)|
+||[ 上海 被裁员后失业三个月了...投简历面试到崩溃，想找些朋友认识](https://www.v2ex.com/t/1047528#reply3)|
+||[ 问与答 深夜，搬家有感](https://www.v2ex.com/t/1047525#reply8)|
+||[ 奇思妙想 这个网站创意怎么样？](https://www.v2ex.com/t/1047524#reply3)|
+||[ Android 曝光这家无良公司！制作假冒 App 还上架到了应用商店](https://www.v2ex.com/t/1047522#reply11)|
+||[ 职场话题 研二快结束了，焦虑抑郁，没有论文，换导师又失败，哎呀，难过呀](https://www.v2ex.com/t/1047521#reply17)|
+||[ Google 谷歌广告终于又满 100 美元打款门槛了](https://www.v2ex.com/t/1047520#reply8)|
+||[ 宽带症候群 南京联通查上行流量吗？](https://www.v2ex.com/t/1047518#reply2)|
+||[ 问与答 家宽使用 wireguard 和云服务器组网是不会被 QoS 吗？](https://www.v2ex.com/t/1047517#reply2)|
+||[ 职场话题 gap 半年了，晚上经常睡不着](https://www.v2ex.com/t/1047514#reply8)|
+||[ 程序员 cloudflare tunnel 开机不自启，是哪里的问题](https://www.v2ex.com/t/1047513#reply4)|
+||[ macOS reeder 阅读器支持翻译吗？](https://www.v2ex.com/t/1047512#reply5)|
+||[ 硬件 咨询各位大佬们，请教下 24 寸和 27 寸的显示器分别距离人眼多远会比较舒服？](https://www.v2ex.com/t/1047511#reply5)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Epic 游戏《漫威暗夜之子》 Windows ￥199→0 ](https://free.apprcn.com/get-epic-game-marvels-midnight-suns-for-free/)|
+||[免费获取 Xbox 游戏 Fallout 76 美区 Xbox ](https://free.apprcn.com/get-xbox-game-fallout-76-for-free-2/)|
+||[免费获取 Steam 游戏 Fight till the End! Windows ](https://free.apprcn.com/get-steam-game-fight-till-the-end-for-free/)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最近想买一个 mac book 用于个人开发](https://www.v2ex.com/t/1047287#reply55)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[警方通报学生与醉汉冲突被刑拘案「系防卫过当，涉嫌故意伤害罪」，正当防卫和防卫过当的界限如何划分？](https://www.zhihu.com/question/658250775/answer/3522452105)|
+||[领导逼你主动辞职怎么办?](https://www.zhihu.com/question/658012258/answer/3522539354)|
+||[星舰第四次试飞取得成功，本体在印度洋溅落，本次试飞有哪些突破？](https://www.zhihu.com/question/657852759/answer/3522351308)|
+||[如何在人生低谷中重拾信心？](https://www.zhihu.com/question/608661462/answer/3522538171)|
+|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[最近的北漂，流行去保定富养自己](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%9C%80%E8%BF%91%E7%9A%84%E5%8C%97%E6%BC%82%EF%BC%8C%E6%B5%81%E8%A1%8C%E5%8E%BB%E4%BF%9D%E5%AE%9A%E5%AF%8C%E5%85%BB%E8%87%AA%E5%B7%B1)|
+||[高分爆笑美剧“一集一案”：中年“怪阿姨”破案为何让人着迷？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%AB%98%E5%88%86%E7%88%86%E7%AC%91%E7%BE%8E%E5%89%A7%E2%80%9C%E4%B8%80%E9%9B%86%E4%B8%80%E6%A1%88%E2%80%9D%EF%BC%9A%E4%B8%AD%E5%B9%B4%E2%80%9C%E6%80%AA%E9%98%BF%E5%A7%A8%E2%80%9D%E7%A0%B4%E6%A1%88%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%BA%BA%E7%9D%80%E8%BF%B7%EF%BC%9F)|
+|[南方周末](https://plink.anyfeeder.com/weixin/nanfangzhoumo)|[从有风的地方来，到零碳的未来去](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E4%BB%8E%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E6%9D%A5%EF%BC%8C%E5%88%B0%E9%9B%B6%E7%A2%B3%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%8E%BB)|
+||[趟过高考这条河，驶向属于自己的星辰大海](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E8%B6%9F%E8%BF%87%E9%AB%98%E8%80%83%E8%BF%99%E6%9D%A1%E6%B2%B3%EF%BC%8C%E9%A9%B6%E5%90%91%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[功能问题：如何防止接口重复请求？](https://juejin.cn/post/7377208894551261193)|
+||[【项目实践】vue + vite 图标导入总结](https://juejin.cn/post/7377191678862475301)|
+||[资源描述框架的用途及实际应用解析](https://juejin.cn/post/7377214316545245221)|
+||[NextJs的app文件和路由简介](https://juejin.cn/post/7377214316545196069)|
+||[Vuex 4与状态管理实战指南](https://juejin.cn/post/7377217883305426982)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[美国重型运载火箭“星舰”6日实施第四次试验发射](https://www.36kr.com/newsflashes/2808335957379587)|
 ||[​上交所终止瀚天天成科创板IPO审核](https://www.36kr.com/newsflashes/2808289098216832)|
 ||[比亚迪千店联动交付秦L DM-i，秦家族总销量已突破150万辆](https://www.36kr.com/newsflashes/2808327412975874)|
