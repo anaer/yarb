@@ -2,6 +2,132 @@
 
 |来源|标题|
 |---|---|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[交通不只是交通：公共運輸讓你的時間更有價值](https://taiwan.chtsai.org/2024/06/06/jiaotong_buzhishi_jiaotong/)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[2024 年第一季度 IT 威胁演变趋势分析](https://www.4hou.com/posts/qpP0)|
+||[Check Point 发布AI 市场调研结果：生成式 AI 在网络安全防护中发挥着关键作用](https://www.4hou.com/posts/AXJ3)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[Any idea when this Regulus' skin will be dropped?](https://www.reddit.com/r/Reverse1999/comments/1d97t8j/any_idea_when_this_regulus_skin_will_be_dropped/)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[跨国企业调查：2024年美政治两级分化 比2020年严重](https://www.zaobao.com/realtime/world/story20240606-3823694)|
+||[五眼联盟：中国继续招募西方退役飞行员训练空军](https://www.zaobao.com/realtime/world/story20240606-3822600)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[人类能否创造出有意识的AI？](https://www.huxiu.com/article/3107172.html?f=rss)|
+||[智算中心：十年风云，AI新纪元](https://www.huxiu.com/article/3105334.html?f=rss)|
+||[不进编的教师，意味着什么？](https://www.huxiu.com/article/3107439.html?f=rss)|
+||[盈利不是问题的结束，而是新问题的开始](https://www.huxiu.com/article/3098414.html?f=rss)|
+||[高端专业店店主，“心里越来越没底了”](https://www.huxiu.com/article/3107188.html?f=rss)|
+||[当我们群嘲日系车造假时，其实在嘲笑什么？](https://www.huxiu.com/article/3105771.html?f=rss)|
+||[400亿的基金，关张了](https://www.huxiu.com/article/3107429.html?f=rss)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国不再是德国车企的康庄大道](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%B7%E5%9B%BD%E8%BD%A6%E4%BC%81%E7%9A%84%E5%BA%B7%E5%BA%84%E5%A4%A7%E9%81%93-92b92b0f)|
+||[莫迪连任后需要开辟统治印度新路线](https://cn.wsj.com/amp/articles/%E8%8E%AB%E8%BF%AA%E8%BF%9E%E4%BB%BB%E5%90%8E%E9%9C%80%E8%A6%81%E5%BC%80%E8%BE%9F%E7%BB%9F%E6%B2%BB%E5%8D%B0%E5%BA%A6%E6%96%B0%E8%B7%AF%E7%BA%BF-51c65cf6)|
+||[美欧终究会走上相同经济轨道](https://cn.wsj.com/amp/articles/%E7%BE%8E%E6%AC%A7%E7%BB%88%E7%A9%B6%E4%BC%9A%E8%B5%B0%E4%B8%8A%E7%9B%B8%E5%90%8C%E7%BB%8F%E6%B5%8E%E8%BD%A8%E9%81%93-72bd41de)|
+||[台积电持股公司拟与恩智浦半导体在新加坡合资建厂](https://cn.wsj.com/amp/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%8C%81%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8B%9F%E4%B8%8E%E6%81%A9%E6%99%BA%E6%B5%A6%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%90%88%E8%B5%84%E5%BB%BA%E5%8E%82-5bf313de)|
+||[英伟达市值突破3万亿美元，超过苹果公司](https://cn.wsj.com/amp/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E8%BE%BE%E5%88%B03%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83-%E8%B6%85%E8%BF%87%E8%8B%B9%E6%9E%9C-75618e6f)|
+||[乌克兰用美国制造的导弹袭击俄罗斯境内](https://cn.wsj.com/amp/articles/%E4%B9%8C%E5%85%8B%E5%85%B0%E7%94%A8%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E4%BF%84%E7%BD%97%E6%96%AF%E5%A2%83%E5%86%85-ba7a0609)|
+||[波音Starliner首次搭载宇航员发射升空，曾经历多次挫折和延误](https://cn.wsj.com/amp/articles/%E6%B3%A2%E9%9F%B3starliner%E9%A6%96%E6%AC%A1%E6%90%AD%E8%BD%BD%E5%AE%87%E8%88%AA%E5%91%98%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA-%E6%9B%BE%E7%BB%8F%E5%8E%86%E5%A4%9A%E6%AC%A1%E6%8C%AB%E6%8A%98%E5%92%8C%E5%BB%B6%E8%AF%AF-d8e757bc)|
+||[马斯克的xAI计划在孟菲斯建造大型超级计算机](https://cn.wsj.com/amp/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84xai%E8%AE%A1%E5%88%92%E5%9C%A8%E5%AD%9F%E8%8F%B2%E6%96%AF%E5%BB%BA%E9%80%A0%E5%A4%A7%E5%9E%8B%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA-5045f449)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[梳理今年5个月爆火文旅IP，平均寿命只有25天](https://www.tmtpost.com/7118474.html)|
+|[极客公园](http://www.geekpark.net/rss)|[AI 创业者，需要怎样的 AI 算力？](http://www.geekpark.net/news/336211)|
+||[英伟达市值破 3 万亿，超越苹果；iPhone 16 Pro 完整尺寸曝光；比亚迪电池拿下特斯拉储能订单](http://www.geekpark.net/news/336194)|
+|[IT之家](https://www.ithome.com/rss/)|[谷歌 Chrome 浏览器再提速 5%：cookie 重复请求减少 80%、访问速度快 60%](https://www.ithome.com/0/773/515.htm)|
+||[狙击《魔兽世界》国服？腾讯游戏《塔瑞斯世界》宣布反向跳票至 6 月 12 日上线](https://www.ithome.com/0/773/513.htm)|
+||[长安汽车董事长朱华荣：汽车行业卷出中国品牌新高度，卷出了四个老汉](https://www.ithome.com/0/773/512.htm)|
+||[英伟达仍未放弃 Win7 / Win8.1 平台，为其发布 475.06 图形驱动](https://www.ithome.com/0/773/511.htm)|
+||[环保优势凸显：研究称在美国大部分地区驾驶电动汽车的排放低于燃油车](https://www.ithome.com/0/773/510.htm)|
+||[微信体积 11 年膨胀 575 倍，调查称平均每部手机安装了 80 个不同 App](https://www.ithome.com/0/773/509.htm)|
+||[《剑网 3 无界》开放预下载：三端数据继承互通，6 月 13 日开启公测](https://www.ithome.com/0/773/499.htm)|
+||[法拉利 12Cilindri 跑车上市：6.5 升 V12 发动机 / 零百 2.9 秒，598.8 万元起](https://www.ithome.com/0/773/498.htm)|
+||[火狐 Firefox Nightly 浏览器更新：默认启用标签页预览](https://www.ithome.com/0/773/497.htm)|
+||[红魔首款游戏本预热：航空铝合金机身、一体化工艺，本月发布](https://www.ithome.com/0/773/495.htm)|
+||[三星 Galaxy Z Fold6 手机宣传海报曝光：更方正、相机更凸起](https://www.ithome.com/0/773/493.htm)|
+||[行驶中自动切换至空挡！部分 2024 款路虎揽胜在美被召回](https://www.ithome.com/0/773/492.htm)|
+||[蓝宝石重振电源产品线，展出 NITRO+、Pulse 系列 ATX3.0 电源](https://www.ithome.com/0/773/491.htm)|
+||[迟到 8 个月，微软 Win11 新版 Outlook 本月将支持离线模式](https://www.ithome.com/0/773/490.htm)|
+||[里程碑：特斯拉得州超级工厂第 5000 万枚 4680 电池下线](https://www.ithome.com/0/773/489.htm)|
+||[《梦魇卡丁车》PC 游戏免费发布：《血源诅咒》同人作品改版，Steam 好评如潮](https://www.ithome.com/0/773/488.htm)|
+||[广汽丰田 5 月销量 69545 辆环比增长 33.1%，锋兰达月销破 2 万辆](https://www.ithome.com/0/773/487.htm)|
+||[qdc 联名 FitEar 无线耳机“SUPERIOR EX”首销：10mm 单动圈、铝合金外壳，1360 元](https://www.ithome.com/0/773/485.htm)|
+||[佳能发布 SPEEDLITE EL-10 闪光灯：GN.40、多功能靴接口，249.99 美元](https://www.ithome.com/0/773/484.htm)|
+||[40℃单体制冷：黑鲨冰封制冷背夹 4 Pro 磁吸版 157 元赠磁吸片](https://www.ithome.com/0/773/483.htm)|
+||[微软 Win11 将深度融合 Teams：任务栏可显示、切换其静音状态](https://www.ithome.com/0/773/482.htm)|
+||[PD 3.1 + UFCS 协议：酷态科 15 号 140W 氮化镓充电器 137 元再降价](https://www.ithome.com/0/773/481.htm)|
+||[富士康英伟达建立尖端计算中心，欲在电动汽车等领域为前者带来巨变](https://www.ithome.com/0/773/479.htm)|
+||[特斯拉推送 FSD v12.4.1，马斯克放豪言：很快将做到全年无接管](https://www.ithome.com/0/773/478.htm)|
+||[12 年 3 个阶段，微软回顾 Surface 固件更新发展历程](https://www.ithome.com/0/773/477.htm)|
+||[镰刀推出 SHURIKEN 3 下压式风冷散热器：高 39mm，搭载半框风扇](https://www.ithome.com/0/773/475.htm)|
+|[虎嗅](https://rss.huxiu.com/)|[串串房之苦：有多少人在替房东吸甲醛？](https://www.huxiu.com/article/3100912.html?f=rss)|
+||[日本经济失去30年，为何失业率还这么低？](https://www.huxiu.com/article/3106428.html?f=rss)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[“空中的士”广州首飞，打飞的时代要来了？](https://www.infzm.com/contents/271615)|
+||[青春版《牡丹亭》二十周年：视听飨宴赏牡丹 人来人往](https://www.infzm.com/contents/272866)|
+|[TechNews 科技新報](http://technews.tw/feed/)|[Fed 降息前景樂觀，全年可能降兩次、每次 1 碼](https://finance.technews.tw/2024/06/06/fed-to-cut-rates-twice-this-year-starting-september/)|
+||[油、銅等大宗商品持續走跌，分析師憂景氣有壓](https://technews.tw/2024/06/06/commodities-continue-to-fall/)|
+||[楊金龍：全球股市熱絡助台股創高，但要居高思危](https://finance.technews.tw/2024/06/06/taiwan-stocks-hit-highs-cautious-of-risks-while-staying-high/)|
+||[表面上 iPhone 安全更新年限少於三星、Google 手機，但實際上呢？](https://technews.tw/2024/06/06/iphone-security-updates/)|
+||[電池瑕疵恐釀火災！Humane 警告 Ai Pin 用戶：立即停用充電盒](https://ccc.technews.tw/2024/06/06/stop-using-charging-case/)|
+||[實體多點助攻！美而快 5 月營收重返 3 億元創九個月新高](https://finance.technews.tw/2024/06/06/ur-living/)|
+||[台積電改變想法？ASML 證實年底交貨 High-NA EUV 曝光機](https://finance.technews.tw/2024/06/06/asml-confirms-delivery-of-high-na-euv-exposure-machine-before-year-end/)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[世界各地旅游时，你都吃到过哪些有当地特色的甜点？](https://www.zhihu.com/question/657329865)|
+||[怎样缓解高三妈妈的「焦虑」情绪？](https://www.zhihu.com/question/658020036)|
+||[天气热、蚊虫多，但是风景好；夏季徒步登山，到底是值得推荐还是实名劝退？](https://www.zhihu.com/question/656703005)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[经常看屏幕，小心一种病找上门](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%BB%8F%E5%B8%B8%E7%9C%8B%E5%B1%8F%E5%B9%95%EF%BC%8C%E5%B0%8F%E5%BF%83%E4%B8%80%E7%A7%8D%E7%97%85%E6%89%BE%E4%B8%8A%E9%97%A8)|
+||[妈呀！这次真得把牛排圈卷死了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A6%88%E5%91%80%EF%BC%81%E8%BF%99%E6%AC%A1%E7%9C%9F%E5%BE%97%E6%8A%8A%E7%89%9B%E6%8E%92%E5%9C%88%E5%8D%B7%E6%AD%BB%E4%BA%86)|
+||[一年中哪个季节近视增加最慢？打赌你会猜错](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E5%B9%B4%E4%B8%AD%E5%93%AA%E4%B8%AA%E5%AD%A3%E8%8A%82%E8%BF%91%E8%A7%86%E5%A2%9E%E5%8A%A0%E6%9C%80%E6%85%A2%EF%BC%9F%E6%89%93%E8%B5%8C%E4%BD%A0%E4%BC%9A%E7%8C%9C%E9%94%99)|
+||[虾背里的黑线真的很脏么？这么吃虾才正确](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%99%BE%E8%83%8C%E9%87%8C%E7%9A%84%E9%BB%91%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%BE%88%E8%84%8F%E4%B9%88%EF%BC%9F%E8%BF%99%E4%B9%88%E5%90%83%E8%99%BE%E6%89%8D%E6%AD%A3%E7%A1%AE)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[NSA：建议用户每周重新启动一次手机](https://www.freebuf.com/news/402825.html)|
+||[专家警告：恶意软件能够窃取 Windows Recall 工具收集的数据](https://www.freebuf.com/news/402814.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在antd design pro脚手架中向打包后的index.html添加自定义DOM元素？](https://segmentfault.com/q/1010000044945083)|
+||[使用Datav中的轮播表组件，实现文字溢出换行？](https://segmentfault.com/q/1010000044944948)|
+||[el-tree 节点如何实现节点中的数量不跟随横向滚动，但要跟随垂直滚动？](https://segmentfault.com/q/1010000044944807)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[网文里的「直播」情节怎么设计？](https://www.woshipm.com/share/6066088.html)|
+||[产品设计——一见复杂先分层](https://www.woshipm.com/share/6066086.html)|
+||[流量的效果被高估了](https://www.woshipm.com/share/6066080.html)|
+||[数字农业商业模式图分享](https://www.woshipm.com/it/6066078.html)|
+||[销售归因的几个方法](https://www.woshipm.com/share/6066040.html)|
+||[30秒教你计算小红书投产盈亏线！](https://www.woshipm.com/operate/6066034.html)|
+||[TOB用户运营 SDR基础工作， 一对一怎么聊](https://www.woshipm.com/share/6065972.html)|
+||[深度：不转行，就失业。](https://www.woshipm.com/zhichang/6065945.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[Apple TV+联手中国移动入华，但还是打不过优爱腾](https://36kr.com/p/2806838032341895)|
+||[去“董宇辉化”后，俞敏洪心态崩了，又给东方甄选搞了个大负面？](https://36kr.com/p/2806474003094402)|
+||[8点1氪丨周大福有员工称收到N+3赔偿；东方甄选客服回应“嚎叫式直播”；于东来称大多数企业家不懂得生命的意义](https://36kr.com/p/2807559228470914)|
+||[OpenAI员工们开始反抗了](https://36kr.com/p/2806911513696646)|
+||[“Ilya究竟看到了什么？”泄密被OpenAI解雇的前员工长文爆料：2030年超级人工智能将至](https://36kr.com/p/2806612774499715)|
+||[“我做养老经纪人，月入十万”](https://36kr.com/p/2806400309205380)|
+|[蓝点网](https://www.landiannews.com/feed)|[火狐浏览器终于要支持选项卡预览功能 现已在Firefox Nightly中测试](https://www.landiannews.com/archives/104335.html)|
+||[美光为显卡和AI加速器推出GDDR7内存芯片 带宽较GDDR6提升60%](https://www.landiannews.com/archives/104334.html)|
+||[微软发布Windows 11 USB4连接的相关支持文档 帮助用户使用时排除故障](https://www.landiannews.com/archives/104333.html)|
+||[新版Outlook 基于WebView 将在本月底前添加离线功能 可以离线撰写等](https://www.landiannews.com/archives/104318.html)|
+||[Microsoft Teams新增任务栏麦克风图标 你可以快速将麦克风静音避免翻车](https://www.landiannews.com/archives/104317.html)|
+||[这就尴尬了！Windows 11系统级的超分辨率 ASR 仅支持Copilot+AI PC](https://www.landiannews.com/archives/104316.html)|
+|[海交史](https://www.haijiaoshi.com/feed)|[数据库 英国外交部档案系列数据库](https://www.haijiaoshi.com/archives/11726?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2595%25b0%25e6%258d%25ae%25e5%25ba%2593-%25e8%258b%25b1%25e5%259b%25bd%25e5%25a4%2596%25e4%25ba%25a4%25e9%2583%25a8%25e6%25a1%25a3%25e6%25a1%2588%25e7%25b3%25bb%25e5%2588%2597%25e6%2595%25b0%25e6%258d%25ae%25e5%25ba%2593)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[奔驰将采用Momenta轻图城区方案，CLA车型搭载，明年4月落地｜独家](https://36kr.com/p/2805495652382344?f=rss)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[前端生成海报图技术选型与问题解决](https://juejin.cn/post/7376930495004983333)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[远程控制软件RealVNC将在6月17日删除免费的家庭版 但还有个免费版可用](https://m.cnbeta.com.tw/view/1433778.htm)|
+||[“光伏茅”隆基绿能现状：降价裁员 工厂关停](https://m.cnbeta.com.tw/view/1433776.htm)|
+||[马斯克称FSD进展神速 很快将做到全年无干预](https://m.cnbeta.com.tw/view/1433774.htm)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3519297838?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3515393489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最近想买一个 mac book 用于个人开发](https://www.v2ex.com/t/1047287#reply14)|
+||[求解：本地开发连接阿里云服务器上自建 mysql 数据库，链接断开问题](https://www.v2ex.com/t/1047299#reply6)|
+||[有没有觉得 gradle 用起来比较慢的同学？](https://www.v2ex.com/t/1047196#reply10)|
+||[celery 库的问题](https://www.v2ex.com/t/1047304#reply2)|
+||[windows 昨天更新了什么](https://www.v2ex.com/t/1047227#reply11)|
+||[想白嫖点大模型的 api](https://www.v2ex.com/t/1047281#reply4)|
+||[现在有了 chatGPT，还要啥开箱即用](https://www.v2ex.com/t/1047237#reply12)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ macOS 最近很多帖子都在说 Bartender5 有安全漏洞，我用的 4 没问题吧？](https://www.v2ex.com/t/1047311#reply2)|
+||[ 问与答 自由职业税务问题，机构如何确定申报的工资是准确的呢？](https://www.v2ex.com/t/1047309#reply2)|
+||[ 问与答 觉得自己精神和身体陷入了囚徒状态，怎么办](https://www.v2ex.com/t/1047308#reply7)|
+||[ 教育 为什么今年的高考存在感那么低？](https://www.v2ex.com/t/1047305#reply1)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[“五眼联盟”警告前战斗机飞行员不要帮助培训解放军](https://cn.nytimes.com/world/20240606/us-china-pilots-allies/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[募资砍半、募投项目砍半，军信股份将迎来今年深交所重组委“第一审”](https://www.tmtpost.com/7117984.html)|
+||[欠债31亿后痛失“所爱”，“苏宁太子”还能翻盘吗？](https://www.tmtpost.com/7118531.html)|
+||[特步和七匹狼世纪联姻，家族身价超600亿元？](https://www.tmtpost.com/7117289.html)|
+||[英特尔发布至强6处理器，CEO基辛格：如果美国加大制裁，中国就必须生产自己的芯片｜硅基世界](https://www.tmtpost.com/7118663.html)|
+||[瑞士清洁科技公司Composite Recycling开发静态热解工艺与后处理技术，回收玻璃纤维增强塑料中的玻璃纤维 瑞士创新100强](https://www.tmtpost.com/7118375.html)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[不敢表达攻击性，活该你当“替罪羊”？](http://www.huxiu.com/article/3104821.html?f=wangzhan)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[飞天茅台终端价格下跌，茅台暂停部分省份直营团购供应](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E7%BB%88%E7%AB%AF%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B7%8C%EF%BC%8C%E8%8C%85%E5%8F%B0%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E7%9C%81%E4%BB%BD%E7%9B%B4%E8%90%A5%E5%9B%A2%E8%B4%AD%E4%BE%9B%E5%BA%94)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[老公要家人出游，我热心规划，临出行委婉劝我不要去，最后他带公婆和儿子出行，我该生气么？](https://www.zhihu.com/question/657891970/answer/3521623034)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[碧桂园5月销售额暴跌逾七成 拟出售长鑫存储股份](https://www.zaobao.com/realtime/china/story20240606-3823917)|
+||[山东省政协原副主席孙述涛被判无期](https://www.zaobao.com/realtime/china/story20240606-3823776)|
+||[罗奇称香港需捍卫独特性 港府：论点忽视香港优势](https://www.zaobao.com/realtime/china/story20240606-3823487)|
+||[赖清德发文贺连任 莫迪：期待台印建立更紧密关系](https://www.zaobao.com/realtime/china/story20240606-3823224)|
+||[乌克兰副外长呼吁中国出席瑞士和平会议](https://www.zaobao.com/realtime/china/story20240606-3823056)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[半导体板块开盘领涨，中晶科技2连板](https://www.36kr.com/newsflashes/2807649975334274)|
 ||[A股三大指数集体高开，英伟达产业链大涨](https://www.36kr.com/newsflashes/2807648057177473)|
 ||[方正证券：船型需求有望轮动，看好造船市场景气度延续](https://www.36kr.com/newsflashes/2807626587256455)|
