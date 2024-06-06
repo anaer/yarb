@@ -2,6 +2,8 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 急求助！有 iPad Pro2018 插卡版的进来！](https://www.v2ex.com/t/1047538#reply1)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求助, 如何在 windows 上实时收集浏览器发送的通知?](https://www.v2ex.com/t/1047494#reply3)|
 |[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[2024高考今日开考，1342万考生赶赴考场](https://m.thepaper.cn/detail/27651224)|
 ||[王小洪同美国国土安全部部长马约卡斯视频通话](https://m.thepaper.cn/detail/27651212)|
 ||[前线快评｜伊万科维奇昏招频出，中国足球再遭人祸](https://m.thepaper.cn/detail/27651210)|
