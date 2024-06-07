@@ -2,7 +2,45 @@
 
 |来源|标题|
 |---|---|
-|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中国高铁静音车厢服务拓展至92列动车](https://www.zaobao.com/realtime/china/story20240607-3852951)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 求一个 golang 的 headless cms，顺便后端会不会失业？](https://www.v2ex.com/t/1047857#reply2)|
+||[ iPhone 支付宝支持 iPhone NFC 了](https://www.v2ex.com/t/1047855#reply3)|
+||[ 程序员 为什么 pc 上的软件基本不使用 mpi 实现多核并行而使用多线程居多](https://www.v2ex.com/t/1047854#reply1)|
+||[ Docker 一夜之间，全国所有 Docker 镜像加速站全部 take down](https://www.v2ex.com/t/1047853#reply5)|
+||[ 问与答 国内所有 Docker 的镜像服务器必须全部下架。后续包括 GithubCDN 镜像， NPM， Python PIP,OpenWrtOPKG 是真的吗？](https://www.v2ex.com/t/1047850#reply5)|
+||[ 问与答 香港家用网络访问国内网络是否有限制？](https://www.v2ex.com/t/1047849#reply4)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[癫了一年多的马斯克 终于把X弄成了LSP天堂](https://m.cnbeta.com.tw/view/1434007.htm)|
+||[特斯拉中国销售刷单盛行 有人每月自掏5000元刷单](https://m.cnbeta.com.tw/view/1434005.htm)|
+||[华硕推出ROG Mjolnir移动电源 配备768Wh LFP电池](https://m.cnbeta.com.tw/view/1434004.htm)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[抗衰赛道内卷升级，基因定制会是新方向吗？](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E6%8A%97%E8%A1%B0%E8%B5%9B%E9%81%93%E5%86%85%E5%8D%B7%E5%8D%87%E7%BA%A7%EF%BC%8C%E5%9F%BA%E5%9B%A0%E5%AE%9A%E5%88%B6%E4%BC%9A%E6%98%AF%E6%96%B0%E6%96%B9%E5%90%91%E5%90%97%EF%BC%9F)|
+||[民生银行董事会变阵](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E6%B0%91%E7%94%9F%E9%93%B6%E8%A1%8C%E8%91%A3%E4%BA%8B%E4%BC%9A%E5%8F%98%E9%98%B5)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[蓝领岗位需求大，部分城市快递外卖员平均月薪超八千元 ，是否会成为一种趋势？](https://www.zhihu.com/question/658298820/answer/3523659716)|
+||[有哪些旅行地，让你感受到了独特的「中式美学」？](https://www.zhihu.com/question/657660395/answer/3523660546)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[欧盟：乌克兰摩尔多瓦符合启动加入谈判的标准](https://www.zaobao.com/realtime/world/story20240607-3855739)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[心相近｜让中美青年“相知相近”——习近平主席复信美国肯恩大学校长鼓舞美国教育界交流合作热情](http://www.news.cn/20240608/1c98276ffbf04c14986984a85a900950/c.html)|
+||[微视频｜向海而行](http://www.news.cn/20240608/9158987c15864c7282f57fc7d48fce74/c.html)|
+||[新华社快讯：第78届联合国大会协商一致通过中国提出的设立文明对话国际日决议](http://www.news.cn/20240607/1badea6f6fc444b9979315d54ed8d181/c.html)|
+||[胡塞武装称美英再次空袭萨那等地](http://www.news.cn/20240607/8586db7111d14806a2c78ecbce1d2763/c.html)|
+||[乌克兰空军说乌关键基础设施遭空袭](http://www.news.cn/20240607/d80464ea22f34bf5bb18f08b1e1213ad/c.html)|
+||[热点问答｜这个选举年，欧美为何总被政治暴力困扰](http://www.news.cn/20240607/e831a780e44141c89c247496c93ce1a3/c.html)|
+||[香港首届“中华文化节”开幕](http://www.news.cn/20240607/8e3c01d18e2e442eaa5607d5f16fcf4d/c.html)|
+||[习近平总书记关切事｜用科技创新点燃“蓝色引擎”——深耕“蓝色国土”新实践之二](http://www.news.cn/20240607/4d641958087e4e32a32961445f779657/c.html)|
+||[李强同巴基斯坦总理夏巴兹会谈](http://www.news.cn/20240607/957fe722ccc142f48d2d4659cf1e9c2e/c.html)|
+||[金砖国家智库专家热议现代化发展道路](http://www.news.cn/20240607/e5a45cf0a0e54a0f91a3eaa5101ef591/c.html)|
+||[到2027年我国美丽海湾建成率要达到40%左右](http://www.news.cn/20240607/6c55a43e47364e95ab1dc268797a8e5b/c.html)|
+||[美国5月失业率升至4%](http://www.news.cn/20240607/30664850a00b473abab620eef8cf1d35/c.html)|
+||[刘建超会见古巴国家主席特使、古共中央政治局委员、外交部长罗德里格斯](http://www.news.cn/20240607/8687828082cd4395909609b035da8bc8/c.html)|
+||[中央广播电视总台研究院成立](http://www.news.cn/20240607/049bed3cad4a4bdba67dd5a3a2c1d51f/c.html)|
+||[新华时评丨最好的保护是保持竞争力](http://www.news.cn/20240607/e74b258728ca413b92f358258888331e/c.html)|
+||[俄央行将基准利率维持在16%不变](http://www.news.cn/20240607/916d8610df0f48b3b73693b26fb6f6e3/c.html)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[360 浏览器也太恶心了](https://www.v2ex.com/t/1047771#reply26)|
+|[书伴](https://feeds.feedburner.com/bookfere)|[Kindle Paperwhite 和入门版 Kindle 我应该买哪个？](https://bookfere.com/post/1113.html)|
+|[IT之家](https://www.ithome.com/rss/)|[翻新款苹果 M3 MacBook Air 上架美国官网，价格立减 170~200 美元](https://www.ithome.com/0/773/917.htm)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[天津孩子，反内耗的顶配人设](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E5%A4%A9%E6%B4%A5%E5%AD%A9%E5%AD%90%EF%BC%8C%E5%8F%8D%E5%86%85%E8%80%97%E7%9A%84%E9%A1%B6%E9%85%8D%E4%BA%BA%E8%AE%BE)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[台州溯溪事故：野生景区担不起原罪](https://www.huxiu.com/article/3114162.html?f=rss)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[主播说联播 “打开”今年高考作文题，康辉来了一段小作文](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%BB%E6%92%AD%E8%AF%B4%E8%81%94%E6%92%AD%20%7C%20%E2%80%9C%E6%89%93%E5%BC%80%E2%80%9D%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%EF%BC%8C%E5%BA%B7%E8%BE%89%E6%9D%A5%E4%BA%86%E4%B8%80%E6%AE%B5%E5%B0%8F%E4%BD%9C%E6%96%87)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Werewolf Party Windows ](https://free.apprcn.com/get-steam-game-werewolf-party-for-free/)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[中共青海省委书记：要认识到违规吃喝复杂性艰巨性长期性](https://www.zaobao.com/realtime/china/story20240607-3850507)|
+||[中国高铁静音车厢服务拓展至92列动车](https://www.zaobao.com/realtime/china/story20240607-3852951)|
 ||[下午察：嫦娥六号背后的中国太空梦](https://www.zaobao.com/realtime/china/story20240607-3848042)|
 ||[港民主思路召集人：望“一国两制”下有更多政制改革空间](https://www.zaobao.com/realtime/china/story20240607-3852475)|
 ||[李强主持国常会 要求认识房地产市场供求关系新变化](https://www.zaobao.com/realtime/china/story20240607-3854884)|
