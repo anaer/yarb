@@ -2,6 +2,26 @@
 
 |来源|标题|
 |---|---|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[实验室带你过假期：2024.6.8 - 6.10 成都篇](http://www.toodaylab.com/82859)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 分享一下油管刷到的 nb 课程 How To Build A Complete Distributed File Storage In Golang ](https://www.v2ex.com/t/1047861#reply1)|
+|[虎嗅](https://rss.huxiu.com/)|[拼二胎的00后](https://www.huxiu.com/article/3107159.html?f=rss)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[国际油价7日下跌](http://www.news.cn/20240608/89e09656f9284e508dddd5d1f08983e2/c.html)|
+||[美元指数7日大幅上涨](http://www.news.cn/20240608/6495a48d06ec458582a7d6547b00bb71/c.html)|
+||[中国主张对日本福岛核污染水排海实施严格独立有效的长期国际监督](http://www.news.cn/20240608/2e449892c0b34f748a320a8f28b48da2/c.html)|
+||[中方欢迎更多国家支持并加入中国、巴西关于解决乌克兰危机的共识](http://www.news.cn/20240608/f43acf9cae46457c815186b91765d107/c.html)|
+||[普京：俄愿就乌克兰问题基于商定条件和当前现实进行谈判](http://www.news.cn/20240608/379bf0bf885b4e5fa4000b2c78547e29/c.html)|
+||[乌兰巴托对话会聚焦东北亚安全与多边合作等议题](http://www.news.cn/20240608/ee16683de28246a4806044318407b89d/c.html)|
+||[第78届联合国大会协商一致通过中国提出的设立文明对话国际日决议](http://www.news.cn/20240608/ef52e37570ec44d18cec8f6bf6120443/c.html)|
+||[伦敦股市7日下跌](http://www.news.cn/20240608/793bc9f2b15e49c98856bf5dd74375fe/c.html)|
+||[国际观察｜对话解决南海问题是东盟国家主流声音](http://www.news.cn/20240608/67f6ac98e4524d2381893e08c9e70ead/c.html)|
+|[IT之家](https://www.ithome.com/rss/)|[微软发布 Win11 Dev 26120.770 预览版：更新截图工具](https://www.ithome.com/0/773/923.htm)|
+||[标准版 268 元、豪华版 328 元，《黑神话：悟空》游戏开启预购：8 月 20 日上线 PS5 / PC](https://www.ithome.com/0/773/922.htm)|
+||[微软发布 Win11 Beta 22635.3720 预览版：优化讲述人、改进搜索 / 分享体验](https://www.ithome.com/0/773/921.htm)|
+||[2025 年发行，多人在线合作动作游戏《CUFFBUST》官宣](https://www.ithome.com/0/773/920.htm)|
+||[8 年等待终见续作，《文明 7》游戏官宣明年发行：完整玩法今年 8 月揭晓](https://www.ithome.com/0/773/919.htm)|
+||[乐高携手索尼，官宣年底前发行《Lego Horizon Adventures》游戏](https://www.ithome.com/0/773/918.htm)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如果你是刘封，关羽大意失荆州，你会去救他吗？](https://www.zhihu.com/question/658210923/answer/3522973833)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[就今晚！马斯克的大火箭第四次挑战太空，速来围观](https://www.guokr.com/article/465595/)|
 |[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[LG高管关注英特尔Lunar Lake CPU供应 担心会比高通和AMD慢半年](https://m.cnbeta.com.tw/view/1434015.htm)|
 ||[iPhone 16 电池部件更多图像泄露 金属外壳特写显示L形部分](https://m.cnbeta.com.tw/view/1434013.htm)|
 ||[微软准备在八月公布第二批 Copilot+ PC](https://m.cnbeta.com.tw/view/1434012.htm)|
