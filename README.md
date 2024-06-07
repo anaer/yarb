@@ -2,6 +2,40 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[LG高管关注英特尔Lunar Lake CPU供应 担心会比高通和AMD慢半年](https://m.cnbeta.com.tw/view/1434015.htm)|
+||[iPhone 16 电池部件更多图像泄露 金属外壳特写显示L形部分](https://m.cnbeta.com.tw/view/1434013.htm)|
+||[微软准备在八月公布第二批 Copilot+ PC](https://m.cnbeta.com.tw/view/1434012.htm)|
+||[微软让步 宣布将"Recall"设为"可选加入"功能 并推出新的隐私保护措施](https://m.cnbeta.com.tw/view/1434010.htm)|
+||[传iOS 18的改版控制中心将允许多页面操作](https://m.cnbeta.com.tw/view/1434009.htm)|
+||[苹果开始销售翻新的 M3 MacBook Air 机型](https://m.cnbeta.com.tw/view/1434008.htm)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[有意思周报｜为了抗议奥运会，法国人打算往塞纳河里拉屎;为提升生育率，日本推出一款“承诺结婚”约会App](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%9C%89%E6%84%8F%E6%80%9D%E5%91%A8%E6%8A%A5%EF%BD%9C%E4%B8%BA%E4%BA%86%E6%8A%97%E8%AE%AE%E5%A5%A5%E8%BF%90%E4%BC%9A%EF%BC%8C%E6%B3%95%E5%9B%BD%E4%BA%BA%E6%89%93%E7%AE%97%E5%BE%80%E5%A1%9E%E7%BA%B3%E6%B2%B3%E9%87%8C%E6%8B%89%E5%B1%8E%3B%E4%B8%BA%E6%8F%90%E5%8D%87%E7%94%9F%E8%82%B2%E7%8E%87%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E4%B8%80%E6%AC%BE%E2%80%9C%E6%89%BF%E8%AF%BA%E7%BB%93%E5%A9%9A%E2%80%9D%E7%BA%A6%E4%BC%9AApp)|
+||[更“卷”的比亚迪，如何影响行业格局？](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%9B%B4%E2%80%9C%E5%8D%B7%E2%80%9D%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%8C%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%A1%8C%E4%B8%9A%E6%A0%BC%E5%B1%80%EF%BC%9F)|
+||[拜登的算盘，打不了多久了](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%8B%9C%E7%99%BB%E7%9A%84%E7%AE%97%E7%9B%98%EF%BC%8C%E6%89%93%E4%B8%8D%E4%BA%86%E5%A4%9A%E4%B9%85%E4%BA%86)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[经济和市场综述-20240608 - 三个问题](https://www.huxiu.com/article/3114330.html?f=rss)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[云南省镇雄县一煤矿发生事故：已造成1死3伤，还有2人失联](https://m.thepaper.cn/detail/27665830)|
+||[第78届联合国大会协商一致通过中国提出的设立文明对话国际日决议](https://m.thepaper.cn/detail/27665816)|
+||[湖北安陆市中职技校将印刷费转嫁给学生，被罚款1万](https://m.thepaper.cn/detail/27664950)|
+||[热点问答：这个选举年，欧美为何总被政治暴力困扰](https://m.thepaper.cn/detail/27665803)|
+||[苏州跟进景区取消实名预约制，江门车管所也宣布取消线上预约](https://m.thepaper.cn/detail/27665658)|
+||[90后田周鹏获公示拟提名为江西宜春市级群团组织正职人选](https://m.thepaper.cn/detail/27665679)|
+||[拜登当面道歉声称“不会抛弃乌克兰”，泽连斯基托腮不语](https://m.thepaper.cn/detail/27665600)|
+||[海南考试局就高考语文卷未发条形码致歉：不影响答题卡识别、评阅](https://m.thepaper.cn/detail/27665746)|
+||[扬州：住房公积金贷款最高可贷202万元，契税补贴范围不限新房套数](https://m.thepaper.cn/detail/27662073)|
+||[见证月背交会对接过程的“全能之眼”什么样？上海航天揭秘](https://m.thepaper.cn/detail/27665690)|
+||[112项重点工作，中共一大纪念馆 “党的诞生地”三年守护工程启动](https://m.thepaper.cn/detail/27664410)|
+||[技术创新推动新一轮找矿突破！云南省红河州发现超大规模离子吸附型稀土矿](https://m.thepaper.cn/detail/27665059)|
+||[高考第一天，全国多位市委书记带队“巡考场”](https://m.thepaper.cn/detail/27664224)|
+||[澎湃AI晚新闻丨2024年6月7日](https://m.thepaper.cn/detail/27665319)|
+|[V2EX](https://v2ex.com/index.xml)|[ OpenAI chatgpt-4o 生成文件后无法下载，提示找不到文件](https://www.v2ex.com/t/1047859#reply2)|
+||[ 问与答 这个给我整不会了？](https://www.v2ex.com/t/1047858#reply1)|
+||[ 问与答 求一个 golang 的 headless cms，顺便后端会不会失业？](https://www.v2ex.com/t/1047857#reply3)|
+||[ iPhone 支付宝支持 iPhone NFC 了](https://www.v2ex.com/t/1047855#reply4)|
+||[ 程序员 为什么 pc 上的软件基本不使用 mpi 实现多核并行而使用多线程居多](https://www.v2ex.com/t/1047854#reply3)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家公司的生产级别代码，对于密码等敏感数据的安全储存一般是怎么操作的？](https://www.v2ex.com/t/1047843#reply5)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[降价潮背后：大模型落地门槛真的降了吗？](https://www.leiphone.com/category/industrycloud/YHosHJ5iU6roneGY.html)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[封装一个强大的追加或更新多个Query参数并自动刷新的JS方法，附加Query参数获取](https://juejin.cn/post/7377598548920369191)|
+||[仪表板展示｜DataEase看中国：2024年高考数据前瞻](https://juejin.cn/post/7377589884188164106)|
+|[果壳网 科学人](https://rsshub.app/guokr/scientific)|[端午“核”武器要来了！从耳鼻喉到肛肠科医生都闻之色变](https://www.guokr.com/article/465593/)|
 |[V2EX](https://v2ex.com/index.xml)|[ 问与答 求一个 golang 的 headless cms，顺便后端会不会失业？](https://www.v2ex.com/t/1047857#reply2)|
 ||[ iPhone 支付宝支持 iPhone NFC 了](https://www.v2ex.com/t/1047855#reply3)|
 ||[ 程序员 为什么 pc 上的软件基本不使用 mpi 实现多核并行而使用多线程居多](https://www.v2ex.com/t/1047854#reply1)|
