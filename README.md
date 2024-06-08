@@ -2,6 +2,161 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[海口交警通报“小米SU7致1死3伤”：驾驶员操作不当已被刑拘](https://www.zaobao.com/realtime/china/story20240608-3863019)|
+||[民进党称复议是民主诺曼底登陆 吁国民党勿螳臂当车](https://www.zaobao.com/realtime/china/story20240608-3863243)|
+||[中国教育部专家评高考理综卷：服务拔尖创新人才培养](https://www.zaobao.com/realtime/china/story20240608-3864306)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[澎湃AI晚新闻丨2024年6月8日](https://m.thepaper.cn/detail/27677350)|
+||[实现“海面软着陆”，SpaceX“星舰”迈了多大一步？](https://m.thepaper.cn/detail/27677355)|
+||[去考场踩点遗落身份证和准考证，考生考前求助民警十分钟找回](https://m.thepaper.cn/detail/27660356)|
+||[学校为高三学子办“壮行宴”，准备蛋糕、粽子寓意高中](https://m.thepaper.cn/detail/27644929)|
+||[高考落下帷幕，四川仁寿县消防用消防车为考生搭起“水门”](https://m.thepaper.cn/detail/27676786)|
+||[餐馆老板做盒饭喊过路高考生免费就餐：吃好喝好，好好考](https://m.thepaper.cn/detail/27675420)|
+||[粗心考生忘带身份证，民警5分钟解燃眉之急](https://m.thepaper.cn/detail/27677020)|
+||[大家随笔｜我的美食记忆](https://m.thepaper.cn/detail/27677279)|
+||[重温书信，感受习近平总书记心系文化和自然遗产保护](https://h.xinhuaxmt.com/vh512/share/12047329?homeshow=1&newstype=1001)|
+||[江西大余“爱心送考”再出发，为梦保驾护航](https://m.thepaper.cn/detail/27675346)|
+||[高考期间柯基主人手动让狗子静音](https://m.thepaper.cn/detail/27675497)|
+||[爸爸眼含热泪记录儿子进考场瞬间：意义特殊，留下回忆](https://m.thepaper.cn/detail/27675733)|
+||[个人养老金开户人数已超6000万](https://m.thepaper.cn/detail/27675484)|
+||[退休人员基本养老金翻番！社保待遇稳步提升](https://m.thepaper.cn/detail/27675498)|
+||[澎湃早晚报｜晚安湃·鼓浪屿宰客一条龙被曝光](https://m.thepaper.cn/papernews/morningEveningPaper?n=141659)|
+||[街采丨80后家长加入送考队伍，听听他们怎么说](https://m.thepaper.cn/detail/27676603)|
+||[直击上海高考｜这对“80后”父母，带着鲜花、蛋糕和小狗在考场外等待女儿](https://m.thepaper.cn/detail/27675426)|
+||[直击上海高考｜高考+端午，老师送考生粽子香囊祝高“粽”](https://m.thepaper.cn/detail/27675567)|
+||[多地省级党委科技委亮相：吉林省委书记、省长双双担任主任](https://m.thepaper.cn/detail/27675494)|
+||[以军空袭加沙地带中部，已致超80人死亡](https://m.thepaper.cn/detail/27675491)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[以色列在加沙中部救出四名人质](https://www.zaobao.com/realtime/world/story20240608-3866558)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Telegram TG 登录无法接受验证码，陷入死循环了。](https://www.v2ex.com/t/1048009#reply3)|
+||[ 分享创造 我家 65 寸的红米电视已经卡的快没法用了](https://www.v2ex.com/t/1048008#reply4)|
+||[ 生活 寄存柜退押金后续](https://www.v2ex.com/t/1048007#reply1)|
+||[ iCloud Quantumult X 的 ICloud](https://www.v2ex.com/t/1048006#reply3)|
+||[ iPhone 14pm 换 15pro 值得吗](https://www.v2ex.com/t/1048002#reply6)|
+||[ 问与答 远程访问 ipv6 家庭服务器，连接断断续续的，是什么原因](https://www.v2ex.com/t/1048001#reply1)|
+||[ Windows 有什么轻量级 office 查看器？](https://www.v2ex.com/t/1047999#reply9)|
+||[ Windows 想换台新的适合移动办公的笔记本](https://www.v2ex.com/t/1047997#reply5)|
+||[ Java 也谈 spring security 复杂度](https://www.v2ex.com/t/1047996#reply5)|
+||[ Adobe 只需要 adobe PR ME，想单独买，这个里面包括 Media Encoder 吗？](https://www.v2ex.com/t/1047995#reply1)|
+||[ 程序员 WordPress 部署所需服务器要求](https://www.v2ex.com/t/1047993#reply6)|
+||[ 全球工单系统 vivo 办公套件相册部分的 bug 好多...](https://www.v2ex.com/t/1047989#reply1)|
+||[ Apple 回家看到我爸用的 iPhone8 上有这个通知。](https://www.v2ex.com/t/1047988#reply1)|
+||[ 问与答 建立一个垂直领域社区平台，如何将用户从零做到 XXX？](https://www.v2ex.com/t/1047983#reply3)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价那英在《歌手 2024》第五期演唱的《灿烂的你》？](https://www.zhihu.com/question/658344390)|
+||[努力到底有什么用呢？](https://www.zhihu.com/question/658346356)|
+||[为什么年轻人越来越喜欢买黄金，这一现象透露了哪些信息？](https://www.zhihu.com/question/658392772)|
+||[美国登月的月球车，其电池在 -100℃低温中仍正常运行，需要使用到哪些技术？](https://www.zhihu.com/question/655872456)|
+||[如果我穿越到九十年代下围棋，但是每步棋都是绝艺一选，动不动让职业棋手两三个子，棋坛会怎么看我？](https://www.zhihu.com/question/604880965)|
+||[部分中小学的孩子们热衷于「养臭水」，作为家长应该怎样对待？](https://www.zhihu.com/question/658114973)|
+||[为什么云上五骁相识几十年，共患难了的关系会以悲剧收场？](https://www.zhihu.com/question/654946756)|
+||[端午节在不同地区的习俗有哪些差异？](https://www.zhihu.com/question/658082721)|
+||[如何评价刘亦菲的新剧《玫瑰的故事》？](https://www.zhihu.com/question/620702199)|
+||[「聪明药能帮考试提分」引热议，律师指出私自服用聪明药或涉嫌吸毒，如何看待此事？有真正的聪明药吗？](https://www.zhihu.com/question/658235212)|
+||[我们为什么要保护海洋？假如你是海洋里的鱼，你想对人类说什么？](https://www.zhihu.com/question/657556100)|
+||[有什么办法能「硬控」孩子的视力一个暑假，打破开学必换眼镜的魔咒？](https://www.zhihu.com/question/658044924)|
+||[张学友因感染呼吸道合胞病毒，临时取消演唱会，成人感染 RSV 可能有哪些原因？](https://www.zhihu.com/question/658343420)|
+||[如何评价肖央主演的喜剧犯罪电影《扫黑·绝不放弃》？](https://www.zhihu.com/question/656302873)|
+||[芙宁娜为什么不讨厌旅行者？](https://www.zhihu.com/question/635778637)|
+||[苏联是靠什么方式吸引别人为他们效力与宣传的？](https://www.zhihu.com/question/658237973)|
+||[端午节的民间传说和故事有哪些？](https://www.zhihu.com/question/658082816)|
+||[如何评价 2024 高考英语题，难度如何？](https://www.zhihu.com/question/658407049)|
+||[美联储降息预期下降，黄金、白银期现货均大跌，中国央行结束十八连增，5 月暂停增持黄金，哪些信息值得关注？](https://www.zhihu.com/question/658384830)|
+||[科学家称可能存在一个反宇宙，与我们的宇宙发生量子纠缠，怎样看待这一观点？](https://www.zhihu.com/question/658379919)|
+||[《英雄联盟》还有比重做后的蝎子更超模的英雄吗？](https://www.zhihu.com/question/657979760)|
+||[如何评价电影《谈判专家》?](https://www.zhihu.com/question/425576987)|
+||[C 罗的头球能力在历史上处于一个什么地位？](https://www.zhihu.com/question/268354558)|
+||[车里放个什么东西，既能防身，又不违法，看着还吓人的？](https://www.zhihu.com/question/632563155)|
+||[为什么黄霄云参加《我是歌手》时，没有像邓紫棋一样一炮而红呢？](https://www.zhihu.com/question/643026728)|
+||[3 岁半刚上幼儿园的孩子每天最晚 6 点 50 起床，车程 30 分钟会太辛苦吗？](https://www.zhihu.com/question/658093782)|
+||[如何评价庄达菲、陈昊宇主演的电影《我才不要和你做朋友呢》？](https://www.zhihu.com/question/657791137)|
+||[有哪些文学短句陪你走过颠沛流离的日子？](https://www.zhihu.com/question/658354579)|
+||[如何评价 2024 高考新课标 I 卷数学题，难度如何？](https://www.zhihu.com/question/658324801)|
+||[如何评价《黑神话》典藏版售价与推荐配置？](https://www.zhihu.com/question/658336973)|
+||[有哪些李白的经典古诗词？](https://www.zhihu.com/question/431061642)|
+||[有哪个瞬间曾让你难以抑制的想哭？](https://www.zhihu.com/question/21781757)|
+||[诸葛亮自古以来人气那么高，为什么《诸葛亮集》却流失了呢？](https://www.zhihu.com/question/657008030)|
+||[如何评价杨超越在《墨雨云间》饰演的姜梨一角，演技是否有进步？](https://www.zhihu.com/question/658054730)|
+||[多地跟进！房地产融资「白名单」项目密集落地，此事意味着什么？将给房地产市场带来哪些影响？](https://www.zhihu.com/question/658243456)|
+||[夏天有哪些开胃又简单的菜？](https://www.zhihu.com/question/544547522)|
+||[山西一景区女厕装有读秒计时器，网友「如厕感觉被监视」，景区这个做法合理吗？](https://www.zhihu.com/question/658328004)|
+||[高考后抓紧时间提升自己还是彻底放飞自我，张朝阳直播建议「放飞自我，高考太累对自己好点」，你会如何选择？](https://www.zhihu.com/question/658425742)|
+||[540 万粉丝汽车自媒体「小牛说车」账号被封，此前曾被蔚来、小鹏起诉，并赔款致歉，哪些信息值得关注？](https://www.zhihu.com/question/658385839)|
+||[如何评价《鸣潮》吟霖卡池在第二日持久力不足？](https://www.zhihu.com/question/658314005)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[花不是为花店而开，人有各自的月亮](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E8%8A%B1%E4%B8%8D%E6%98%AF%E4%B8%BA%E8%8A%B1%E5%BA%97%E8%80%8C%E5%BC%80%EF%BC%8C%E4%BA%BA%E6%9C%89%E5%90%84%E8%87%AA%E7%9A%84%E6%9C%88%E4%BA%AE)|
+|[华尔街见闻](https://plink.anyfeeder.com/weixin/wallstreetcn)|[美债收益率飙升，为何美股坚挺？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87%EF%BC%8C%E4%B8%BA%E4%BD%95%E7%BE%8E%E8%82%A1%E5%9D%9A%E6%8C%BA%EF%BC%9F)|
+||[“新美联储通讯社”重磅长文详解：为什么美国经济还没有衰退？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E2%80%9C%E6%96%B0%E7%BE%8E%E8%81%94%E5%82%A8%E9%80%9A%E8%AE%AF%E7%A4%BE%E2%80%9D%E9%87%8D%E7%A3%85%E9%95%BF%E6%96%87%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%B0%E9%80%80%EF%BC%9F)|
+||[5月非农：多年来最诡异的一次？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+5%E6%9C%88%E9%9D%9E%E5%86%9C%EF%BC%9A%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%9C%80%E8%AF%A1%E5%BC%82%E7%9A%84%E4%B8%80%E6%AC%A1%EF%BC%9F)|
+||[蓝莓价格大跳水，多地“十元三盒”！](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%8C%E5%A4%9A%E5%9C%B0%E2%80%9C%E5%8D%81%E5%85%83%E4%B8%89%E7%9B%92%E2%80%9D%EF%BC%81)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[四川大学为何难以维持一家书店](https://www.huxiu.com/article/3116985.html?f=rss)|
+||[央美毕设：突破艺术边界的审美碰撞](https://www.huxiu.com/article/3116980.html?f=rss)|
+||[港城莞奖学金风波](https://www.huxiu.com/article/3116977.html?f=rss)|
+||[上海土拍重回“价高者得”](https://www.huxiu.com/article/3116976.html?f=rss)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[以色列宣布从加沙地带解救4名被扣押人员](http://www.news.cn/20240608/7ccd8e9d7e674aafbf41c5763fdc8d88/c.html)|
+||[高质量发展调研行｜挖好数字“新富矿”——资源型城市徐州推动绿色转型见闻](http://www.news.cn/20240608/256013cd42534c69883d4c31622f3210/c.html)|
+||[新闻分析 实现“海面软着陆”，“星舰”迈了多大一步](http://www.news.cn/20240608/0de870ce7fef46908f4b4513be9ae0aa/c.html)|
+||[甘肃现存廊桥20座](http://www.news.cn/20240608/4db6a930ac5d476c8b8cd2f95f3ce1e6/c.html)|
+||[微纪录片 美美与共：茶道万里 茗香千年](http://www.news.cn/20240608/6e35bf03eef546a5b2ea0182824a71e3/c.html)|
+||[巴黎奥运会 奥运五环点缀埃菲尔铁塔](http://www.news.cn/20240608/325a68d89b7f4352953c3635ec660e43/c.html)|
+||[新华社消息｜我国海洋生态状况总体稳定](http://www.news.cn/20240608/89a1b34971064596ba8e79b07f52e35e/c.html)|
+||[王勇应邀赴俄罗斯出席第二十七届圣彼得堡国际经济论坛](http://www.news.cn/20240608/7290fb914ea14079a42341909de68263/c.html)|
+||[中央财政下达汽车以旧换新补贴资金64.4亿元](http://www.news.cn/20240608/bc369698dcbe4a5eb6134c11485752b6/c.html)|
+||[刚果（金）东部两个村庄遭袭 至少50名平民丧生](http://www.news.cn/20240608/a741e4ee23c14cd4b2dc397674a534ad/c.html)|
+||[5月份非制造业商务活动指数保持扩张](http://www.news.cn/20240608/2a32ab7b5e5343ab8147adbc1e29d5b0/c.html)|
+||[指尖有绝技｜古漆新韵 ：“不描、不画、不刻”见风华](http://www.news.cn/20240608/f60bb0ab3eb847ccb5a8f4b736157b89/c.html)|
+||[秀我中国｜东北花木兰“遇上”小哥张起灵](http://www.news.cn/20240608/bac7b108d5dc473db7e475da7a3cad57/c.html)|
+||[云南通报3起违规收送礼品礼金典型问题](http://www.news.cn/20240608/e505e512c82945c4adbb6e1f44e21720/c.html)|
+||[内蒙古岱海进入2024年补水季](http://www.news.cn/20240608/263a3581aad84b4f8bb6d943d1023866/c.html)|
+||[5月份我国城市轨道交通完成客运量27.9亿人次](http://www.news.cn/20240608/507ea7b5c486444180778f54b81de6ad/c.html)|
+||[新华社消息｜9个台风新名发布](http://www.news.cn/20240608/665f076f83b74168ac8df66ac4a5cc58/c.html)|
+||[新华时评丨中文何以全球“圈粉”](http://www.news.cn/20240608/9a2c83998b2f4f9b8fb27283eea392a8/c.html)|
+||[“共赴两河之约 同享水城之美”——海峡两岸记者聊城行侧记](http://www.news.cn/20240608/519a22806d304199b757c0a9413126cd/c.html)|
+||[新华鲜报丨从“黄河之都”到千年敦煌，多国外交官盛赞中华文明魅力](http://www.news.cn/20240608/83f5fa76ca5241739850ef6b9d3920f0/c.html)|
+||[新华社快讯：刚果（金）东部多地遭袭，至少50名平民丧生](http://www.news.cn/20240608/871bd1a525fd46da934c263099d93af7/c.html)|
+||[退休人员基本养老金翻番！社保待遇稳步提升](http://www.news.cn/20240608/edd4cd16b1af4bcd983ba81a0e4923d7/c.html)|
+||[联合国报告：2022年全球水产养殖产量首次超过捕捞渔业](http://www.news.cn/20240608/1011f2db333441b8a7eabcb7a35765ea/c.html)|
+||[个人养老金开户人数已超6000万](http://www.news.cn/20240608/cf64e1f71373488c8a80cfd857ad7bef/c.html)|
+||[高质量发展调研行丨做配件也能“站C位”——江苏泰州“专精特新”企业走访见闻](http://www.news.cn/20240608/77c22f8687244838849473e0bd65e559/c.html)|
+||[新华全媒+｜16年时间，这群师生潜海绿化2万余亩海底](http://www.news.cn/20240608/9e480deef9b243cca121d1f18f3bf12b/c.html)|
+|[白宦成](https://www.ixiqin.com/feed/)|[什么是 Hackathon 以及在 Hackathon 当中取得更好的名次的小技巧](https://www.ixiqin.com/2024/06/09/what-is-hackathon-and-some-tips-on-how-to-achieve-better/)|
+|[虎嗅](https://rss.huxiu.com/)|[语音AI爆火，我快分不清真人了](https://www.huxiu.com/article/3117180.html?f=rss)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[地产人离开内地谋生：去东南亚、非洲](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E5%9C%B0%E4%BA%A7%E4%BA%BA%E7%A6%BB%E5%BC%80%E5%86%85%E5%9C%B0%E8%B0%8B%E7%94%9F%EF%BC%9A%E5%8E%BB%E4%B8%9C%E5%8D%97%E4%BA%9A%E3%80%81%E9%9D%9E%E6%B4%B2)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Boilsoft Video Joiner – 视频合并软件 Windows、macOS $29.95→0 ](https://free.apprcn.com/boilsoft-video-joiner-4/)|
+|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[一生要强的东亚父母，难以对孩子说出“对不起”](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E7%94%9F%E8%A6%81%E5%BC%BA%E7%9A%84%E4%B8%9C%E4%BA%9A%E7%88%B6%E6%AF%8D%EF%BC%8C%E9%9A%BE%E4%BB%A5%E5%AF%B9%E5%AD%A9%E5%AD%90%E8%AF%B4%E5%87%BA%E2%80%9C%E5%AF%B9%E4%B8%8D%E8%B5%B7%E2%80%9D)|
+||[普通人如何成为小说家？他们的写作秘诀都在这了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%B0%8F%E8%AF%B4%E5%AE%B6%EF%BC%9F%E4%BB%96%E4%BB%AC%E7%9A%84%E5%86%99%E4%BD%9C%E7%A7%98%E8%AF%80%E9%83%BD%E5%9C%A8%E8%BF%99%E4%BA%86)|
+||[BBC纪录片：扳倒性犯罪者“李胜利们”，“具荷拉们”的勇气与代价](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+BBC%E7%BA%AA%E5%BD%95%E7%89%87%EF%BC%9A%E6%89%B3%E5%80%92%E6%80%A7%E7%8A%AF%E7%BD%AA%E8%80%85%E2%80%9C%E6%9D%8E%E8%83%9C%E5%88%A9%E4%BB%AC%E2%80%9D%EF%BC%8C%E2%80%9C%E5%85%B7%E8%8D%B7%E6%8B%89%E4%BB%AC%E2%80%9D%E7%9A%84%E5%8B%87%E6%B0%94%E4%B8%8E%E4%BB%A3%E4%BB%B7)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[在职场上，产品经理如何不背锅](https://www.woshipm.com/share/6067203.html)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[不停的上班真的会有钱嘛？](https://www.zhihu.com/question/658145304/answer/3524406608)|
+||[如何看待比亚迪最新公开的员工奖励机制？你认为职场上怎样的奖励机制比较合理？](https://www.zhihu.com/question/658395708/answer/3524407936)|
+||[张学友因感染呼吸道合胞病毒，临时取消演唱会，成人感染 RSV 可能有哪些原因？](https://www.zhihu.com/question/658343420/answer/3524407225)|
+||[努力到底有什么用呢？](https://www.zhihu.com/question/658346356/answer/3524401975)|
+||[2024 夏日游戏节中，《崩坏：星穹铁道》三月七的新形态，符合你的预期么？](https://www.zhihu.com/question/658381758/answer/3524065227)|
+||[美联储降息预期下降，黄金、白银期现货均大跌，中国央行结束十八连增，5月暂停增持黄金，哪些信息值得关注？](https://www.zhihu.com/question/658384830/answer/3524351323)|
+||[苏联是靠什么方式吸引别人为他们效力与宣传的？](https://www.zhihu.com/question/658237973/answer/3524353862)|
+||[为什么感觉近年对高考的关注度比前些年下降了？](https://www.zhihu.com/question/658292714/answer/3524326801)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[喜茶推出新茶饮新名茶计划](https://www.36kr.com/newsflashes/2811028576160006)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[国产AI大战高考作文](https://36kr.com/p/2809827496839681)|
+||[俞敏洪道歉了](https://36kr.com/p/2810606928742656)|
+||[帮考生报志愿月入10万，「张雪峰们」赚麻了](https://36kr.com/p/2810455555377417)|
+||[最强开源大模型一夜易主](https://36kr.com/p/2809827742648834)|
+||[取长补短：计划者与行动者可以从对方身上学到什么](https://36kr.com/p/2529160674387465)|
+||[奥特曼百万年薪挖角谷歌TPU人才，欲砸7万亿实现「芯片自由」？](https://36kr.com/p/2810744264526087)|
+||[11位AI考生，正在埋头苦写2024年高考作文……](https://36kr.com/p/2810667347790085)|
+|[TechNews 科技新報](http://technews.tw/feed/)|[TESS-Keck 巡天系外行星出新目錄了](https://technews.tw/2024/06/09/astronomers-create-catalog-of-exotic-exoplanets/)|
+||[「加熱」身體有助對抗憂鬱症，可能與免疫調節有關](https://technews.tw/2024/06/09/whole-body-hyperthermia/)|
+|[IT之家](https://www.ithome.com/rss/)|[英特尔和 AMD 移动 CPU 路线图泄露：Arrow Lake-HX 和 X3D 版 Fire Range 处理器明年登场](https://www.ithome.com/0/774/085.htm)|
+||[英伟达 RTX 50 系列移动 GPU 曝光：最高 16GB GDDR7 显存，6 款型号明年强势登场](https://www.ithome.com/0/774/084.htm)|
+||[OpenAI 阿尔特曼百万年薪挖角谷歌 TPU 人才，欲砸 7 万亿实现“芯片自由”](https://www.ithome.com/0/774/083.htm)|
+||[理想 L6 车型累计交付破 2 万台，6 月产能也将突破 20000 台](https://www.ithome.com/0/774/081.htm)|
+||[年内无望？消息称 AMD、英特尔下一代 GPU 均定于 2025 年初面世，英伟达 RTX 50 系列显卡最快年底官宣](https://www.ithome.com/0/774/079.htm)|
+||[内置毫秒级毫米波雷达 / 支持苹果 HomeKit，绿米 Aqara 人体传感器 FP1E 开启 349 元预售](https://www.ithome.com/0/774/078.htm)|
+||[开源装机工具 Ventoy 更新 1.0.99 版本：更新 EFI 启动文件，修复 Linux 安装 Bug](https://www.ithome.com/0/774/077.htm)|
+||[1.5 匹新一级能效：小米巨省电空调 1501 元 12 期免息](https://www.ithome.com/0/774/076.htm)|
+||[微软 Visual Studio 将支持 Windows Update 自动更新，告别手动升级烦恼](https://www.ithome.com/0/774/075.htm)|
+||[已掌握超 7000 条密钥，执法部门“解密”LockBit 黑客组织勒索软件获新进展](https://www.ithome.com/0/774/074.htm)|
+||[八位堂猎户座 X-Pro 手柄 6 月 13 日开售：搭载霍尔摇杆 / 扳机，299 元](https://www.ithome.com/0/774/073.htm)|
+||[《DOTA2》TI13 赛事定于 9 月在丹麦举行，现场门票 6 月 10 日正式开售](https://www.ithome.com/0/774/072.htm)|
+||[腾讯会议国际版 VooV Meeting 宣布 7 月 31 日推出全新 Pro 版，实行付费订阅模式](https://www.ithome.com/0/774/071.htm)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Silicon Motion SM2508将于第四季度上市 取代 Phison成为顶级SSD控制器](https://m.cnbeta.com.tw/view/1434083.htm)|
+||[AMD 预测其 3D V-Cache 技术将迎来更强升级](https://m.cnbeta.com.tw/view/1434082.htm)|
+|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[《墓地邂逅》：探灵节目组，夜探废弃精神病院，这回算是捅了恶鬼窝了！](https://www.ximalaya.com/sound/733699245)|
 |[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[考进士和上清北，哪个难？](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E8%80%83%E8%BF%9B%E5%A3%AB%E5%92%8C%E4%B8%8A%E6%B8%85%E5%8C%97%EF%BC%8C%E5%93%AA%E4%B8%AA%E9%9A%BE%EF%BC%9F)|
 |[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[上市未果的乡村基被卷入加盟潮](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E4%B8%8A%E5%B8%82%E6%9C%AA%E6%9E%9C%E7%9A%84%E4%B9%A1%E6%9D%91%E5%9F%BA%E8%A2%AB%E5%8D%B7%E5%85%A5%E5%8A%A0%E7%9B%9F%E6%BD%AE)|
 ||[小米SU7冲出停车场致一死三伤，海口交警通报](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E5%B0%8F%E7%B1%B3SU7%E5%86%B2%E5%87%BA%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%89%E4%BC%A4%EF%BC%8C%E6%B5%B7%E5%8F%A3%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5)|
