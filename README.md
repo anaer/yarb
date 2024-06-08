@@ -2,6 +2,104 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://v2ex.com/index.xml)|[ 推广 贺 WWDC！抽两位送我所有的 App ：《One Markdown》、《MWeb》、《MWeb Pro》 的终身版兑换码！另外这些 App 也在 5 折起促销中。](https://www.v2ex.com/t/1047951#reply1)|
+||[ Windows 有拓展性比较好的 windows 笔记本吗](https://www.v2ex.com/t/1047946#reply2)|
+||[ 问与答 比起厕所抽烟，我更讨厌的是擦完屁股的纸扔篓子里](https://www.v2ex.com/t/1047945#reply2)|
+||[ 分享创造 基于 gpt4 做了个没多大用的东西（垃圾分类）](https://www.v2ex.com/t/1047944#reply1)|
+||[ Apple Mac 端的 applemusic 同步资料库以后会丢失 100 多首歌 这是什么新 BUG 吗](https://www.v2ex.com/t/1047943#reply2)|
+||[ VPS 老师们，搬瓦工 19.99 刀的套餐还有必要续约吗](https://www.v2ex.com/t/1047939#reply2)|
+||[ PayPal 有没有代收 paypal 的服务?](https://www.v2ex.com/t/1047938#reply2)|
+||[ 奇思妙想 内推相关的平台为啥做的很好的?](https://www.v2ex.com/t/1047935#reply5)|
+||[ 智能家电 有没有大佬玩过 homeassistant 的 API 接口控制空调呀？](https://www.v2ex.com/t/1047931#reply1)|
+||[ NAS 群晖 IPv6 外网无法访问](https://www.v2ex.com/t/1047928#reply7)|
+||[ iPad iPad pro 播放 netflix 杜比视界时，右上角会点亮吗？](https://www.v2ex.com/t/1047926#reply3)|
+||[ 程序员 USTC 中科大镜像站无法访问](https://www.v2ex.com/t/1047924#reply18)|
+||[ 编程 我有没有办法在 iPhone 上使用浏览器观看 Netflix 视频，而非 Netflix App](https://www.v2ex.com/t/1047923#reply2)|
+||[ Apple 发现之前 Apple 笔记本一直有的一项技术规格忽然消失了](https://www.v2ex.com/t/1047920#reply3)|
+||[ 宽带症候群 上海联通 6 月特惠套餐以及高速套餐办理](https://www.v2ex.com/t/1047919#reply8)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[国民党从台南市开启全台宣讲立院改革](https://www.zaobao.com/realtime/china/story20240608-3862507)|
+||[港律政司长：香港在谋求发展勿忘维护国安重要性](https://www.zaobao.com/realtime/china/story20240608-3860761)|
+||[吉利汽车董事长：简单粗暴价格战是造假售假导火线](https://www.zaobao.com/realtime/china/story20240608-3860483)|
+||[联合国大会协商通过中国提出的文明对话国际日决议](https://www.zaobao.com/realtime/china/story20240608-3860121)|
+||[被指涉强迫劳动 宁德时代：指控毫无根据](https://www.zaobao.com/realtime/china/story20240608-3860086)|
+||[中国银行调整普华永道审计服务安排 费用锐减](https://www.zaobao.com/realtime/china/story20240608-3859770)|
+||[港珠澳大桥测试造假 涉案承包商总监被判监30个月](https://www.zaobao.com/realtime/china/story20240608-3859326)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[厦门鼓浪屿“宰客”成“灰色产业链”？总台记者暗访调查→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%8E%A6%E9%97%A8%E9%BC%93%E6%B5%AA%E5%B1%BF%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%E6%88%90%E2%80%9C%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%E2%80%9D%EF%BC%9F%E6%80%BB%E5%8F%B0%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E8%B0%83%E6%9F%A5%E2%86%92)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[文化遗产日｜各国专家探讨文博机构在非遗保护传承中的作用](https://m.thepaper.cn/detail/27674379)|
+||[父亲在考场外陪考：女儿高考，我紧张得一星期没睡好觉](https://m.thepaper.cn/detail/27662521)|
+||[今年高考文综全国卷有何特点？权威专家解析来了](https://m.thepaper.cn/detail/27674491)|
+||[新疆巴州：人社部今年首期特培专家服务团活动启动](https://m.thepaper.cn/detail/27674388)|
+||[“大汉文明看海昏”全国摄影大赛征稿，旅游摄影协会会员免门票](https://m.thepaper.cn/detail/27674403)|
+||[公安部：五年来公安破获电诈案194.5万起](https://m.thepaper.cn/detail/27674359)|
+||[国家医保局刊文：研究显示集采仿制药替代原研药，患者健康获益无差异](https://m.thepaper.cn/detail/27674442)|
+||[视频丨加拿大航空一波音客机起飞时发动机冒火光](https://m.thepaper.cn/detail/27674492)|
+||[东南亚产线关停及百亿募资风波后，隆基绿能回应市场质疑](https://m.thepaper.cn/detail/27674437)|
+||[橘子摊老板街头请高考学子吃橘子，“好好考就是最大的回报”](https://m.thepaper.cn/detail/27674368)|
+||[沙画师用沙子、粉笔在地上画出锦鲤，为高考学子加油](https://m.thepaper.cn/detail/27674364)|
+||[现实版长嫂如母，新郎三岁起由长嫂带大，结婚当天向嫂子下跪](https://m.thepaper.cn/detail/27674357)|
+||[为救孩子“二级烧伤”的端油锅大叔，获见义勇为奖](https://m.thepaper.cn/detail/27662272)|
+||[昨日凌晨上海7人吃炭火烧烤一氧化碳中毒，接受高压氧舱治疗](https://m.thepaper.cn/detail/27674440)|
+||[游戏论｜《职场浮生记》：现实主义视域下的职场模拟养成](https://m.thepaper.cn/detail/27605679)|
+||[浙江江山：购房最高给予3万元契税补贴，鼓励国企收购存量商品房用作保障房](https://m.thepaper.cn/detail/27674057)|
+||[价格周报｜本周生猪周均价超18元/公斤，创近18个月来新高](https://m.thepaper.cn/detail/27673245)|
+||[为确保种子队，世预赛韩国队或将全主力出战国足](https://m.thepaper.cn/detail/27674384)|
+||[交警通报小米SU7冲出停车场致1死3伤：驾驶员操作不当，被刑拘](https://m.thepaper.cn/detail/27674355)|
+||[专访｜刘国恩：气候变化对人类健康的影响是“温水煮青蛙”](https://m.thepaper.cn/detail/27674211)|
+||[南宁通报8斤称出18斤“榴莲鬼秤”：摊主承认缺斤少两](https://m.thepaper.cn/detail/27673341)|
+||[专家评高考理综全国卷：突出科学教育，服务拔尖创新人才培养](https://m.thepaper.cn/detail/27674055)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[小票是如何成为大票的定价基准的？](https://www.huxiu.com/article/3115962.html?f=rss)|
+||[广东龙舟，不止速度与激情](https://www.huxiu.com/article/3115594.html?f=rss)|
+||[农行分红737亿，国有大行开始“发钱”](https://www.huxiu.com/article/3115945.html?f=rss)|
+||[多地推房贷“先息后本”，月供本金低至1元](https://www.huxiu.com/article/3115944.html?f=rss)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[FML-0.5.9 版本发布](https://www.oschina.net/news/296408/fml-0-5-9-released)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[uniapp，如何在打包时分割vendor文件?](https://segmentfault.com/q/1010000044950364)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[三星Galaxy Z Fold6、Z Flip6和其他产品在发布前的马赛克图片中亮相](https://m.cnbeta.com.tw/view/1434066.htm)|
+||[三星、美光和SK海力士均提供GDDR7内存样品 GDDR 7大战即将拉开序幕](https://m.cnbeta.com.tw/view/1434065.htm)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如何看待比亚迪高管回怼余承东?](https://www.zhihu.com/question/658270359/answer/3524111819)|
+||[山西一景区女厕装有读秒计时器，网友「如厕感觉被监视」，如何看待厕所装计时器？](https://www.zhihu.com/question/658328004/answer/3524109636)|
+||[如何评价OMG上单选手Cube眼红陪玩收入，未和俱乐部沟通的情况下连夜离队？](https://www.zhihu.com/question/658380258/answer/3524061930)|
+||[Canalys 报告称Q1 国内 600 美元以上手机销量荣耀增 67%小米降 43%，如何看待此事？](https://www.zhihu.com/question/658297093/answer/3524092009)|
+|[新智元](https://plink.anyfeeder.com/weixin/AI_era)|[To Believe or Not to Believe？DeepMind新研究一眼看穿LLM幻觉](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+To%20Believe%20or%20Not%20to%20Believe%EF%BC%9FDeepMind%E6%96%B0%E7%A0%94%E7%A9%B6%E4%B8%80%E7%9C%BC%E7%9C%8B%E7%A9%BFLLM%E5%B9%BB%E8%A7%89)|
+||[奥特曼百万年薪挖角谷歌TPU人才，欲砸7万亿实现「芯片自由」？OpenAI自研芯片最新进展曝光](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E6%8C%96%E8%A7%92%E8%B0%B7%E6%AD%8CTPU%E4%BA%BA%E6%89%8D%EF%BC%8C%E6%AC%B2%E7%A0%B87%E4%B8%87%E4%BA%BF%E5%AE%9E%E7%8E%B0%E3%80%8C%E8%8A%AF%E7%89%87%E8%87%AA%E7%94%B1%E3%80%8D%EF%BC%9FOpenAI%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E6%9B%9D%E5%85%89)|
+||[Llama3-8B秒杀700亿巨兽？北大博士生等全新「BoT」框架推理暴涨70倍，24点图形推理一步成神](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+Llama3-8B%E7%A7%92%E6%9D%80700%E4%BA%BF%E5%B7%A8%E5%85%BD%EF%BC%9F%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%AD%89%E5%85%A8%E6%96%B0%E3%80%8CBoT%E3%80%8D%E6%A1%86%E6%9E%B6%E6%8E%A8%E7%90%86%E6%9A%B4%E6%B6%A870%E5%80%8D%EF%BC%8C24%E7%82%B9%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86%E4%B8%80%E6%AD%A5%E6%88%90%E7%A5%9E)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[文化和自然遗产日：“寻宝广胜寺”系列——广胜寺，究竟藏着多少珍宝？](http://www.news.cn/20240608/d5f13cdf79ae49e796c1eddfb1910073/c.html)|
+||[中非专利审查高速路试点启动](http://www.news.cn/20240608/7e9ea1dc9dcb4ae2bab5ff8754e860a0/c.html)|
+||[最高检：持续加大文物和文化遗产公益诉讼办案力度](http://www.news.cn/20240608/1565f69540854bc896932d2abc62b12a/c.html)|
+||[特写：端午粽香沁宝岛](http://www.news.cn/20240608/b86f83a99a004004bca917e372df6520/c.html)|
+||[国家知识产权局与阿联酋经济部签署知识产权领域合作谅解备忘录](http://www.news.cn/20240608/28ba04a7ab92453bb86c1e0db76fd96f/c.html)|
+||[全国认证机构去年营业收入总额503亿元](http://www.news.cn/20240608/38fc219ccfad42d08a571a6bca965739/c.html)|
+||[追光 想夺奥运奖牌？中国女篮需过“三关”](http://www.news.cn/20240608/d45e692b8133422ba8ad5fa22b67cd30/c.html)|
+||[文化中国行｜长城焕新记](http://www.news.cn/20240608/ad7aecfb4aaa4ebfbd16d090c59f0bf6/c.html)|
+||[国家网信办开展整治涉企侵权信息乱象专项行动并通报典型案例](http://www.news.cn/20240608/896d77d5ff634850b1012a13869a9da1/c.html)|
+||[司法行政戒毒系统部署开展2024年国际禁毒日主题宣教活动](http://www.news.cn/20240608/cceae4a9508e4b298efd51c65abe7117/c.html)|
+||[星空有约｜端午晚11点可赏“飞龙在天”](http://www.news.cn/20240608/aa3d45dc73cc46bbbb23fb22b2e794a6/c.html)|
+||[节令之美｜端午竟有20多种不同叫法，你知道几种？](http://www.news.cn/20240608/e5fe8bafb940490dbf7bd4313dee13b0/c.html)|
+||[综述丨车企造假事件恐重创日本经济](http://www.news.cn/20240608/747e1b26257d4bfd86864d84ac9be09d/c.html)|
+||[新华全媒+丨60秒看海上大国重器](http://www.news.cn/20240608/7a6c25f5d28746a88b3cd940360fc91f/c.html)|
+||[我在现场·照片背后的故事丨我眼中的非遗“守艺人”](http://www.news.cn/20240608/0c7239b77ded44aab4f432baecf83d15/c.html)|
+||[我国世界自然遗产、文化和自然双遗产数量居世界首位](http://www.news.cn/20240608/d24a9a7b71d848abbd07e12f5081d371/c.html)|
+||[新华视点｜“数字敦煌”守护千年传奇](http://www.news.cn/20240608/926f1d4b821a47bb8d77f97a25bfbcd5/c.html)|
+||[跟着总书记探寻中华文明｜巍巍城垣 古都焕新](http://www.news.cn/20240608/4dac461c1ccb46249053a83752060f89/c.html)|
+||[秀我中国｜来齐齐哈尔看动物“网红”](http://www.news.cn/20240608/286a4f249e58477794dd3e458126d4d1/c.html)|
+||[图文故事 总书记这样引领海洋强国建设](http://www.news.cn/20240608/15a9d0f85e304861a8222f682e34cca5/c.html)|
+||[微视频｜文脉千年 物载华章](http://www.news.cn/20240608/914074eba4f948558ae5122e81fddb77/c.html)|
+||[云南一煤矿发生事故致1人死亡2人失联](http://www.news.cn/20240608/fe6ddb6648e44d0b801848ba138c0f11/c.html)|
+||[看完这个视频，你会明白，张桂梅为什么离不开这群孩子](http://www.news.cn/20240608/0c8db4d65b814121a82dd37514903b3a/c.html)|
+||[综述｜中国经验值得借鉴——多国专家点赞中国海洋生态文明建设](http://www.news.cn/20240608/dde1c5ddf3c14b56bb2e7fc594474886/c.html)|
+||[国家电投在巴西首座光伏电站投产](http://www.news.cn/20240608/0f0694fa226f4124a37f31834c50807a/c.html)|
+|[IT之家](https://www.ithome.com/rss/)|[内外纯黑配色，沃尔沃 XC40“极夜黑版”车型上市售 32.08 万元起](https://www.ithome.com/0/774/044.htm)|
+||[微信输入法 Windows 1.2.0.585 版本内测 AI 功能：输入内容后按“=”可直接获取 AI 回答](https://www.ithome.com/0/774/041.htm)|
+||[全汉展示新款 2500W Cannon Pro 电源及 U700-B 机箱，可同时驾驭 4 张 RTX 4090 显卡](https://www.ithome.com/0/774/039.htm)|
+||[微星确认 Lunar Lake 版 Claw 掌机定价与现有产品相近，也将推出 7 英寸款](https://www.ithome.com/0/774/038.htm)|
+||[4K 160Hz Fast IPS，优派海外推出“VX2759-4K-Pro”27 英寸显示器](https://www.ithome.com/0/774/037.htm)|
+||[理想智驾副总裁郎咸朋确认部门裁员结束：“再走一个人，优先走的那个人是我”](https://www.ithome.com/0/774/036.htm)|
+||[不只有 79 万 MPV，极氪汽车成立光辉事业部进行产品线扩充及高级定制服务](https://www.ithome.com/0/774/034.htm)|
+||[特斯拉 FSD 12.4.1 重磅升级：改用摄像头取代方向盘监测系统，时刻关注驾驶员注意力是否集中](https://www.ithome.com/0/774/032.htm)|
+||[522 欧元起，零售商确认“复刻诺基亚 Lumia”外观 HMD Skyline 手机即将推出](https://www.ithome.com/0/774/031.htm)|
+||[利民展示风冷散热器矩阵，多款未上市新品亮相](https://www.ithome.com/0/774/030.htm)|
+||[哪吒 L 前机盖在周鸿祎直播中被坐瘪，官方回应：引擎盖材料具有一定弹性，极端情况减少对行人的伤害](https://www.ithome.com/0/774/028.htm)|
+||[2K 260Hz，AOC 海外推出“Q27G10ZE”27 英寸显示器](https://www.ithome.com/0/774/027.htm)|
+|[虎嗅](https://rss.huxiu.com/)|[AI 变革下的 Windows PC 竞争，消费者受益](https://www.huxiu.com/article/3116291.html?f=rss)|
 |[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[ThinkPad X1 carbon 值得入手吗？想入手一款轻薄本出差+日常办公](https://www.v2ex.com/t/1047871#reply50)|
 ||[自建 Docker Hub 镜像服务](https://www.v2ex.com/t/1047891#reply16)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ NAS 群晖 IPv6 外网无法访问](https://www.v2ex.com/t/1047928#reply3)|
