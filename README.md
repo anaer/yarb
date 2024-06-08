@@ -2,6 +2,118 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[我国多地发布高温预警信号 局地可达40℃以上](https://www.36kr.com/newsflashes/2810988540660224)|
+||[山东：多部门协同探索海洋生态环境监测新途径](https://www.36kr.com/newsflashes/2810976057035016)|
+||[浙江江山：购房最高给予3万元契税补贴 鼓励国企收购存量商品房用作保障房](https://www.36kr.com/newsflashes/2810956108565000)|
+||[富途成为天星银行第二大股东](https://www.36kr.com/newsflashes/2810941867460872)|
+||[全国首个国家海洋大数据服务平台发布](https://www.36kr.com/newsflashes/2810921167669506)|
+||[7个城市承担数据标注基地建设任务](https://www.36kr.com/newsflashes/2810905226610952)|
+||[上海2024年绿色电力证书交易量已突破1500万张](https://www.36kr.com/newsflashes/2810882051426824)|
+||[全国认证机构去年营收总额503亿元](https://www.36kr.com/newsflashes/2810859788536322)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 求推荐聚合对接各家大模型接口的项目](https://www.v2ex.com/t/1047961#reply4)|
+||[ 程序员 网站加速工具 Sheas Cealer 人家的学名其实叫 SNI 伪造工具啦 ](https://www.v2ex.com/t/1047955#reply7)|
+||[ 推广 贺 WWDC！抽两位送我所有的 App ：《One Markdown》、《MWeb》、《MWeb Pro》 的终身版兑换码！另外这些 App 也在 5 折起促销中。](https://www.v2ex.com/t/1047951#reply24)|
+||[ VXNA ssshooter.com 申请收录](https://www.v2ex.com/t/1047947#reply1)|
+||[ Windows 有拓展性比较好的 windows 笔记本吗](https://www.v2ex.com/t/1047946#reply4)|
+||[ 问与答 比起厕所抽烟，我更讨厌的是擦完屁股的纸扔篓子里](https://www.v2ex.com/t/1047945#reply12)|
+||[ 分享创造 基于 gpt4 做了个没多大用的东西（垃圾分类）](https://www.v2ex.com/t/1047944#reply2)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[港官员：公务员发表意见须避免被视为官方立场](https://www.zaobao.com/realtime/china/story20240608-3862346)|
+||[朱立伦促台经长勿被意识形态绑架 愿共推核电延役政策](https://www.zaobao.com/realtime/china/story20240608-3864507)|
+||[中国高速动车组首次进入欧洲 明年底在匈塞铁路投入使用](https://www.zaobao.com/realtime/china/story20240608-3863076)|
+||[李家超吁投资者放胆赴港投资兴业](https://www.zaobao.com/realtime/china/story20240608-3864043)|
+||[给顾客喝“二手饮品” 海底捞致歉并处置责任人](https://www.zaobao.com/realtime/china/story20240608-3864606)|
+||[湖北女子举报从银行退休的前公公有大量不明财产](https://www.zaobao.com/realtime/china/story20240608-3863843)|
+||[江西警方：当地交通事故致死孕妇 涉事司机已被刑拘](https://www.zaobao.com/realtime/china/story20240608-3863574)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[热评丨越是火爆，越不能low爆！微短剧不能野蛮生长](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%83%AD%E8%AF%84%E4%B8%A8%E8%B6%8A%E6%98%AF%E7%81%AB%E7%88%86%EF%BC%8C%E8%B6%8A%E4%B8%8D%E8%83%BDlow%E7%88%86%EF%BC%81%E5%BE%AE%E7%9F%AD%E5%89%A7%E4%B8%8D%E8%83%BD%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF)|
+||[“高考是一个很好玩的项目呀，妈妈祝你玩得开心！”](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E2%80%9C%E9%AB%98%E8%80%83%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BE%88%E5%A5%BD%E7%8E%A9%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%91%80%EF%BC%8C%E5%A6%88%E5%A6%88%E7%A5%9D%E4%BD%A0%E7%8E%A9%E5%BE%97%E5%BC%80%E5%BF%83%EF%BC%81%E2%80%9D)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[经常在脸书批评越南政府 两知名人士被捕](https://www.zaobao.com/realtime/world/story20240608-3863109)|
+||[泰国严打网络诈骗 逮捕1万4000多名骗子](https://www.zaobao.com/realtime/world/story20240608-3861743)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[幼儿园转行“托老所”](https://www.infzm.com/contents/273041)|
+||[护航高考但不过度关注，更有助于考生发挥丨快评](https://www.infzm.com/contents/273051)|
+|[虎嗅](https://rss.huxiu.com/)|[铜价上涨：矿山赚钱，全行业亏损](https://www.huxiu.com/article/3116742.html?f=rss)|
+||[光伏企业承压](https://www.huxiu.com/article/3116310.html?f=rss)|
+||[帮考生报志愿月入10万，“张雪峰们”赚麻了](https://www.huxiu.com/article/3115964.html?f=rss)|
+||[100亿，一家潮牌正式卖身](https://www.huxiu.com/article/3115597.html?f=rss)|
+||[野生测试可以休矣](https://www.huxiu.com/article/3115225.html?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[Jetbrains的Webstorm（其他也一样）为什么我用没有 Full Line Code 智能补全？](https://segmentfault.com/q/1010000044950511)|
+||[如何活用element-plus这一类组件库?](https://segmentfault.com/q/1010000044950424)|
+|[IT之家](https://www.ithome.com/rss/)|[多平台战略加速：消息称微软六款第一方游戏将登陆索尼 PS5](https://www.ithome.com/0/774/055.htm)|
+||[CPU-Z 跑分曝光：AMD 锐龙 AI 9 HX 370 ES 处理器比 54W 的 R9 7940HS 快 12.9~25%](https://www.ithome.com/0/774/054.htm)|
+||[“赶不上年底新机潮”，消息称魅族暂未采购骁龙 8 Gen 4 / 天玑 9400 处理器](https://www.ithome.com/0/774/053.htm)|
+||[科赋展示多款白色马甲内存以及 PCIe Gen5 固态硬盘 GENUINE G560](https://www.ithome.com/0/774/052.htm)|
+||[谷歌 Chrome 隐藏功能曝光，AI 助你轻松搜索历史记录](https://www.ithome.com/0/774/051.htm)|
+||[折叠包装盒式设计，几何未来展出 Model 0 Flamingo 核显 ITX 机箱](https://www.ithome.com/0/774/050.htm)|
+||[美科推出“首款国产 L 卡口自动对焦镜头”AF85mm F1.8，售 1299 元](https://www.ithome.com/0/774/049.htm)|
+||[乔布斯好不容易取消的物理键盘，又被这家公司加回来了](https://www.ithome.com/0/774/048.htm)|
+||[断网、收手机、禁游戏，困在“高中化管理”中的大学生](https://www.ithome.com/0/774/046.htm)|
+||[开源虚拟机软件 NanaBox 更新支持 TPM 2.0，完美适配微软 Win11](https://www.ithome.com/0/774/045.htm)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[大涨后的美团，危险解除了吗？](https://www.tmtpost.com/7121535.html)|
+||[打破《原神》封锁，《鸣潮》写下二游的另一个答案](https://www.tmtpost.com/7121509.html)|
+||[85后以30万元启动，干出了年入10亿的3D打印品牌](https://www.tmtpost.com/7121587.html)|
+||[美团最新财报：学拼多多的低价，遇到阿里的“账面压力”](https://www.tmtpost.com/7121742.html)|
+||[张小泉原董事长仍被“限高”，90后上位，市值缩水超六成](https://www.tmtpost.com/7121835.html)|
+||[淘宝直播全托管，能否复制“罗永浩”？](https://www.tmtpost.com/7121987.html)|
+||[硅谷AI精英人均“百万美元”薪酬，业界标配还是谣言？](https://www.tmtpost.com/7122031.html)|
+||[天价微短剧，谁在操控流量密码？](https://www.tmtpost.com/7122085.html)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自建 Docker Hub 镜像服务](https://www.v2ex.com/t/1047891#reply29)|
+|[南方周末](https://plink.anyfeeder.com/weixin/nanfangzhoumo)|[大型真香现场！口感鲜嫩，糟香浓郁，这只糟鸡，真的绝了](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E5%A4%A7%E5%9E%8B%E7%9C%9F%E9%A6%99%E7%8E%B0%E5%9C%BA%EF%BC%81%E5%8F%A3%E6%84%9F%E9%B2%9C%E5%AB%A9%EF%BC%8C%E7%B3%9F%E9%A6%99%E6%B5%93%E9%83%81%EF%BC%8C%E8%BF%99%E5%8F%AA%E7%B3%9F%E9%B8%A1%EF%BC%8C%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86)|
+||[前儿媳举报前公公大量财产收入不明，最新通报](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E5%89%8D%E5%84%BF%E5%AA%B3%E4%B8%BE%E6%8A%A5%E5%89%8D%E5%85%AC%E5%85%AC%E5%A4%A7%E9%87%8F%E8%B4%A2%E4%BA%A7%E6%94%B6%E5%85%A5%E4%B8%8D%E6%98%8E%EF%BC%8C%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)|
+||[新高考十年：转向大文大理？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E6%96%B0%E9%AB%98%E8%80%83%E5%8D%81%E5%B9%B4%EF%BC%9A%E8%BD%AC%E5%90%91%E5%A4%A7%E6%96%87%E5%A4%A7%E7%90%86%EF%BC%9F)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[又一难点！JavaScript中的this关键字](https://juejin.cn/post/7377626328895291392)|
+||[多语言构建和测试系统：并行、快速、可扩展 开源日报 No.273](https://juejin.cn/post/7377595015046840331)|
+||[大文件上传：文件切片](https://juejin.cn/post/7377626328895242240)|
+||[一键掌控视频播放速度,滑动调节轻松实现！！](https://juejin.cn/post/7377664582730219539)|
+||[前端使用 Konva 实现可视化设计器（13）- 折线 - 最优路径应用【思路篇】](https://juejin.cn/post/7377644162827419657)|
+||[性能优化：必先利其器](https://juejin.cn/post/7377557326638088211)|
+||[TypeScript 5.5 RC（候选版本）发布公告](https://juejin.cn/post/7377557326638055443)|
+||[深入浅出JavaScript类型转换：Number &String ](https://juejin.cn/post/7377576183771938855)|
+||[Git stash 使用](https://juejin.cn/post/7377664582730088467)|
+||[实体（Entity）](https://juejin.cn/post/7377626328895111168)|
+||[2024年如何通过完善的工程化，从0到1手把手建立个人 react 组件库](https://juejin.cn/post/7377632288677462031)|
+||[Rust 1.78发布，对OpenHarmony支持升级](https://juejin.cn/post/7377557326637907987)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[9个台风新名发布 台风名字都咋来的？](http://www.news.cn/20240608/b2ec28ae52e347d289ed05daea3eb88e/c.html)|
+||[世界海洋日｜向“海”争“风”：广东汕头风电产业按下“加速键”](http://www.news.cn/20240608/0c86729d086a40f58172d3b5c5d16a48/c.html)|
+||[新华全媒+｜嫦娥六号在月背展示的国旗是用岩石“绣”出来的？](http://www.news.cn/20240608/11b058ee480b4f568ee798a9fd70203e/c.html)|
+||[保护老街古韵 留住城市记忆](http://www.news.cn/20240608/04849b07041b4ec2877aaeb6d6dbb940/c.html)|
+||[甘肃增设长城（田野文物）巡护员乡村公益性岗位](http://www.news.cn/20240608/d94ce1d387314251b18bd97d685e883e/c.html)|
+||[大范围高温“卡点”上线 今年热得更早了？](http://www.news.cn/20240608/f09b70d7b4f74bd7987f2a444994fba3/c.html)|
+||[新华社消息｜全国铁路迎来端午小长假出行客流高峰](http://www.news.cn/20240608/95f2cdda06b349358b8e4966ae2b283f/c.html)|
+||[新华社快讯：以军轰炸加沙地带中部，至少15人死亡](http://www.news.cn/20240608/f6bf5b4a23424b5ca2a489174b74829a/c.html)|
+||[特稿｜向海而生 中非携手走向深蓝](http://www.news.cn/20240608/8b87ed9389c849f081e9d33b530f1467/c.html)|
+||[感受中医药文化魅力 近百外宾“‘香’约端午”活动](http://www.news.cn/20240608/3ba92e845553400eb8fb62675d7f79cd/c.html)|
+||[山东：多部门协同探索海洋生态环境监测新途径](http://www.news.cn/20240608/9641b005ad564386aea601a6ac93ffcf/c.html)|
+||[新华社消息｜以色列寻求在加沙组建替代哈马斯的政府](http://www.news.cn/20240608/f4668791eae44e0f96b35c4465fa5d1b/c.html)|
+||[新华全媒+丨逐梦深蓝——天津市推进海洋装备制造高端化](http://www.news.cn/20240608/6dcfb04d01194a538cc3e8b83e566034/c.html)|
+||[立陶宛专家：看似美丽的鲁冰花会危害当地生物多样性](http://www.news.cn/20240608/0be10b5e50ef495884c439447958bace/c.html)|
+||[重温书信，感受习近平总书记心系文化和自然遗产保护](http://www.news.cn/20240608/8d4f690bd106465eb764f963e39d391c/c.html)|
+||[时光相册丨树守着山，他们守着树](http://www.news.cn/20240608/31df83228fc64473b3498facc4d9f0df/c.html)|
+||[综述丨降息预期延后致美股走低](http://www.news.cn/20240608/595eba8b04a640638229c0e9faa00235/c.html)|
+||[国家宝藏（启蒙奠基）金银纪念币正式发行](http://www.news.cn/20240608/6d395ad4645746a38d084c6c414a9e7f/c.html)|
+||[专访丨“中国将海洋生态系统的健康放在优先地位”——访联合国环境规划署高级官员卡瓦略](http://www.news.cn/20240608/66799c9c9eb84c938d573db651f7595c/c.html)|
+||[新时代中国调研行之看区域·中部篇｜记者观察：引江济淮 泽被一方](http://www.news.cn/20240608/3777056f97f04246b1bfc4f3069f7d72/c.html)|
+||[秀我中国丨潮汕双拼粽子：咸甜两种口味，一次满足！](http://www.news.cn/20240608/dc34d293a0d84997ab29dd49c0670aaa/c.html)|
+||[江苏南通：追“绿”逐“蓝” 向海而兴](http://www.news.cn/20240608/114c60b18633497a85da0fb16c65e2d0/c.html)|
+||[全国首个国家海洋大数据服务平台发布](http://www.news.cn/20240608/c9aa0bb8ecea43bf9c02b1701b7aa0f8/c.html)|
+||[我国海洋生态状况总体稳定](http://www.news.cn/20240608/fdc57b45b6844ef7874caab86ae2b830/c.html)|
+||[创意海报｜“未来之城”赓续历史文脉](http://www.news.cn/20240608/ff856dee9cc540ba9652c4de36c2e10a/c.html)|
+||[海南：向海图强力争再造一个“海上海南”](http://www.news.cn/20240608/341b54b326ff4c259e439e279afb9897/c.html)|
+||[我国将开展为期三年的拉网式海洋垃圾清理行动](http://www.news.cn/20240608/dc84a6033bae49ff83a60eb4fe46d6ad/c.html)|
+||[走进克孜尔千佛洞：守护石窟瑰宝](http://www.news.cn/20240608/ae84d07a482a4169a81a3b4f6faaa553/c.html)|
+||[2024年文化和自然遗产日主场城市活动在辽宁沈阳举行](http://www.news.cn/20240608/22f8659b89cd4df0b05d3ad4564a8898/c.html)|
+||[世界海洋日丨“蓝色循环”：渔民把海洋废塑料变成宝](http://www.news.cn/20240608/3971a3dd03464579b6d938872e21e313/c.html)|
+||[AIGC“港”你知丨当非遗遇到AI 化身可爱手办玩偶！](http://www.news.cn/20240608/cfc6c7cef20a44b1b21084238512de1c/c.html)|
+||[探密文化保护“魔法实验室”丨木刀水韵染江南](http://www.news.cn/20240608/d32eae79dbe34cc3b5c45dd1b56d60a2/c.html)|
+||[以媒：以色列寻求在加沙组建替代哈马斯的政府](http://www.news.cn/20240608/de8b2634ecbf41da8aff3f1b3ab09fb4/c.html)|
+||[新华全媒+丨“一张脸”穿越千年 见证科技赋能文化遗产保护](http://www.news.cn/20240608/167e93cc688d4fdc864a45a811f13d6b/c.html)|
+||[文化新观察｜“打卡”中国遗产地，看五千年文明之美](http://www.news.cn/20240608/7bc27e8625f24b93933a3a71187b2506/c.html)|
+||[端午节吃粽子 “糖友们”如何控糖？](http://www.news.cn/20240608/263c2877c3234734bc302266cb4f5dc9/c.html)|
+||[新华社消息丨我国世界自然遗产、文化和自然双遗产数量居世界首位](http://www.news.cn/20240608/740650d766c64c0cadfd826c325d974e/c.html)|
+||[俄罗斯外贸银行副总裁：人民币国际地位正在增强](http://www.news.cn/20240608/bf24fd709da749108017075c44894488/c.html)|
+||[全国铁路迎来端午小长假出行客流高峰](http://www.news.cn/20240608/6e9db4110f7b4174a1371325f2b7c614/c.html)|
+||[新时代中国调研行之看区域·中部篇｜“水陆空天”看河南 产业发展谱新篇](http://www.news.cn/20240608/0787f6b1b0b2447388d17cdebce8c1a7/c.html)|
+||[上海2024年绿色电力证书交易量已突破1500万张](http://www.news.cn/20240608/18c59d4161dd48789da9cbd3d4ded8aa/c.html)|
+||[最高人民法院发布2023年全国海事审判典型案例](http://www.news.cn/20240608/02499d78c1e249c99230080bc4b5129c/c.html)|
+||[7个城市承担数据标注基地建设任务](http://www.news.cn/20240608/53fb215409d54b39acd12d32f5966862/c.html)|
 |[V2EX](https://v2ex.com/index.xml)|[ 推广 贺 WWDC！抽两位送我所有的 App ：《One Markdown》、《MWeb》、《MWeb Pro》 的终身版兑换码！另外这些 App 也在 5 折起促销中。](https://www.v2ex.com/t/1047951#reply1)|
 ||[ Windows 有拓展性比较好的 windows 笔记本吗](https://www.v2ex.com/t/1047946#reply2)|
 ||[ 问与答 比起厕所抽烟，我更讨厌的是擦完屁股的纸扔篓子里](https://www.v2ex.com/t/1047945#reply2)|
