@@ -2,6 +2,72 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[雅诗兰黛旗下品牌倩碧发布《2024光电返黑人群稳白书》](https://www.36kr.com/newsflashes/2811284103809284)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[哈马斯谴责以军袭击难民营，称已确认美国参与其中](https://m.thepaper.cn/detail/27677487)|
+||[强降雨致云南曲靖市区内涝，警方发紧急提示称多路段积水严重](https://m.thepaper.cn/detail/27677473)|
+||[殴打丹麦首相的男子被判处12天监禁](https://m.thepaper.cn/detail/27677469)|
+||[德力西集团总裁：电气制造仍是核心主业，电气化释放新机遇](https://m.thepaper.cn/detail/27677408)|
+||[以军袭击加沙中部难民营，已致210死超400伤](https://m.thepaper.cn/detail/27677416)|
+||[中华人民共和国和巴基斯坦伊斯兰共和国联合声明（全文）](https://m.thepaper.cn/detail/27677407)|
+||[斯维亚特克实现法网女单三连冠](https://m.thepaper.cn/detail/27677413)|
+||[专家评北京高考英语：试题分布由易到难，试卷难度总体上稳定](https://m.thepaper.cn/detail/27677356)|
+||[文化遗产日｜在长宁沪剧艺术馆感受“上海非遗”的火热](https://m.thepaper.cn/detail/27675495)|
+||[文化遗产日｜去宛平剧院感受“非遗戏韵·游园会”](https://m.thepaper.cn/detail/27675504)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[港口绩效指数：南非三大港口为“全球最差港口”](https://www.zaobao.com/realtime/world/story20240609-3866995)|
+||[马克龙：迫切需缓解以色列和真主党紧张关系](https://www.zaobao.com/realtime/world/story20240608-3866991)|
+||[慕尤丁来届党选将不受挑战续掌土团党](https://www.zaobao.com/realtime/world/story20240608-3866938)|
+||[朝鲜再次向韩国投放垃圾气球](https://www.zaobao.com/realtime/world/story20240608-3866865)|
+||[丹麦首相遇袭后取消欧盟选举活动 袭击者或无政治动机](https://www.zaobao.com/realtime/world/story20240608-3866840)|
+||[菲律宾：菲在南中国海执行补给任务无须他国许可](https://www.zaobao.com/realtime/world/story20240608-3866810)|
+||[日本各地机场缺油 影响国际航线增班](https://www.zaobao.com/realtime/world/story20240608-3866718)|
+||[土耳其将对所有从中国进口汽车加征40％关税](https://www.zaobao.com/realtime/world/story20240608-3866680)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[联合国报告：2022年全球水产养殖产量首次超过捕捞渔业](https://m.cnbeta.com.tw/view/1434092.htm)|
+||[酷热天气让印度变得不宜人居](https://m.cnbeta.com.tw/view/1434091.htm)|
+||[《纽约时报》的源代码和数据于2024年1月从GitHub库中遭窃并被披露](https://m.cnbeta.com.tw/view/1434090.htm)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中国多部门联合打击检测报告弄虚作假](https://www.zaobao.com/realtime/china/story20240608-3862919)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[跟着阮一峰老师学Typescript 认识any，unknow，never类型！！！](https://juejin.cn/post/7377595015047381003)|
+||[js类型判断的底层剖析typeof/instanceof以及call底层原理](https://juejin.cn/post/7377741132823904292)|
+|[澎湃新闻](https://plink.anyfeeder.com/weixin/thepapernews)|[计算机程序Bug，还真和这种虫子有关](http://weixin.sogou.com/weixin?type=2&query=%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB+%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8FBug%EF%BC%8C%E8%BF%98%E7%9C%9F%E5%92%8C%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E6%9C%89%E5%85%B3)|
+||[12岁“小孩哥”参加高考，目标中科大少年班](http://weixin.sogou.com/weixin?type=2&query=%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB+12%E5%B2%81%E2%80%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E2%80%9D%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%EF%BC%8C%E7%9B%AE%E6%A0%87%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD)|
+||[预测准确！多地高考结束，“李华”又双叒叕返场了](http://weixin.sogou.com/weixin?type=2&query=%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB+%E9%A2%84%E6%B5%8B%E5%87%86%E7%A1%AE%EF%BC%81%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%EF%BC%8C%E2%80%9C%E6%9D%8E%E5%8D%8E%E2%80%9D%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E8%BF%94%E5%9C%BA%E4%BA%86)|
+||[突发！以军袭击，“超80人死亡”](http://weixin.sogou.com/weixin?type=2&query=%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB+%E7%AA%81%E5%8F%91%EF%BC%81%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%EF%BC%8C%E2%80%9C%E8%B6%8580%E4%BA%BA%E6%AD%BB%E4%BA%A1%E2%80%9D)|
+||[“长江边发现鳄鱼”，武汉多部门回应](http://weixin.sogou.com/weixin?type=2&query=%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB+%E2%80%9C%E9%95%BF%E6%B1%9F%E8%BE%B9%E5%8F%91%E7%8E%B0%E9%B3%84%E9%B1%BC%E2%80%9D%EF%BC%8C%E6%AD%A6%E6%B1%89%E5%A4%9A%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[如何评价《黑神话》典藏版售价与推荐配置？](https://www.zhihu.com/question/658336973/answer/3524543329)|
+||[余承东「比亚迪卷价格华为卷价值」，比亚迪高管回怼「技术好产品好价格又好才叫好价值」，如何看两人的言论？](https://www.zhihu.com/question/658270359/answer/3524523939)|
+||[如何评价 2024 高考新课标 I 卷数学题，难度如何？](https://www.zhihu.com/question/658324801/answer/3524497538)|
+||[如何评价刘亦菲的新剧《玫瑰的故事》？](https://www.zhihu.com/question/620702199/answer/3507956633)|
+||[高考后抓紧时间提升自己还是彻底放飞自我，张朝阳直播建议「放飞自我，高考太累对自己好点」，你会如何选择？](https://www.zhihu.com/question/658425742/answer/3524494008)|
+||[车里放个什么东西，既能防身，又不违法，看着还吓人的？](https://www.zhihu.com/question/632563155/answer/3486424931)|
+||[如何评价《鸣潮》吟霖卡池在第二日持久力不足？](https://www.zhihu.com/question/658314005/answer/3524431015)|
+||[科学家称可能存在一个反宇宙，与我们的宇宙发生量子纠缠，怎样看待这一观点？](https://www.zhihu.com/question/658379919/answer/3524427872)|
+||[如何评价杨超越在《墨雨云间》饰演的姜梨一角，演技是否有进步？](https://www.zhihu.com/question/658054730/answer/3524424995)|
+||[C罗的头球能力在历史上处于一个什么地位？](https://www.zhihu.com/question/268354558/answer/3524401860)|
+||[如何评价电影《谈判专家》?](https://www.zhihu.com/question/425576987/answer/3524389573)|
+||[端午节的民间传说和故事有哪些？](https://www.zhihu.com/question/658082816/answer/3524388270)|
+||[如何评价庄达菲、陈昊宇主演的电影《我才不要和你做朋友呢》？](https://www.zhihu.com/question/657791137/answer/3524376453)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[USTC 中科大镜像站无法访问](https://www.v2ex.com/t/1047924#reply30)|
+||[也谈 spring security 复杂度](https://www.v2ex.com/t/1047996#reply7)|
+||[有什么轻量级 office 查看器？](https://www.v2ex.com/t/1047999#reply11)|
+||[自建 Docker Hub 镜像服务](https://www.v2ex.com/t/1047891#reply35)|
+||[ThinkPad X1 carbon 值得入手吗？想入手一款轻薄本出差+日常办公](https://www.v2ex.com/t/1047871#reply65)|
+||[群晖 IPv6 外网无法访问](https://www.v2ex.com/t/1047928#reply14)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[中华人民共和国和巴基斯坦伊斯兰共和国联合声明（全文）](http://www.news.cn/20240609/c7210fa7bcb74816aa1b0dfb09cbcf7a/c.html)|
+||[回顾与展望：香港举办论坛研讨国安法律体系发展](http://www.news.cn/20240608/d544f4ba67944247b57018e574e0a8ec/c.html)|
+||[我国“蓝色朋友圈”日益扩大](http://www.news.cn/20240608/9e5af58110c2493eb2740a58d954faf3/c.html)|
+||[问记者丨壳丘头遗址揭示了南岛语族什么密码？](http://www.news.cn/20240608/524ba328c8be46c49ca4b6cb70ef6954/c.html)|
+||[新华社快讯 斯维亚特克实现法网女单三连冠](http://www.news.cn/20240608/47007b4ea16346519233f4959696d311/c.html)|
+||[新华社快讯：以军轰炸加沙地带中部地区，至少210人死亡](http://www.news.cn/20240608/10fbccaaca884e8fa33bc8837ecc3fd0/c.html)|
+||[加快打造人才高地——广东人才发展一线见闻](http://www.news.cn/20240608/b5a7894d9a9b430c9c60c6bb1496a209/c.html)|
+||[中国市场仍然机遇广阔——外资企业“内蒙古行”观察](http://www.news.cn/20240608/e4d2e59efe934630b6d8e9744e852792/c.html)|
+||[创造历史 朱珍珍获法网轮椅网球女单亚军](http://www.news.cn/20240608/61060b7245c84baa9c17ced244369fcc/c.html)|
+||[Vlog：在“上海国际碳博会”打卡“可持续的一天”](http://www.news.cn/20240608/d2b70df7e537453092a704acdb87d182/c.html)|
+||[离家三千里，刈麦忙且暖](http://www.news.cn/20240608/2678aabdcace4a58ba803e65e53647f1/c.html)|
+||[全国首个国家海洋大数据服务平台发布](http://www.news.cn/20240608/7288afbe7fd44ac18823dbf58fb6356d/c.html)|
+||[贵州石阡：“稻油轮作”走出强村富民新路子](http://www.news.cn/20240608/1ddff01d70354200aa4eaf690c8ea256/c.html)|
+||[南水北调东线调蓄工程官路水库围坝基本全线合龙](http://www.news.cn/20240608/a02d18dfa967443f8c30a6ff6fc67075/c.html)|
+|[南方周末](https://plink.anyfeeder.com/weixin/nanfangzhoumo)|[南宁通报“8斤榴莲称出18斤”：没收违法所得，罚款2000元](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E5%8D%97%E5%AE%81%E9%80%9A%E6%8A%A5%E2%80%9C8%E6%96%A4%E6%A6%B4%E8%8E%B2%E7%A7%B0%E5%87%BA18%E6%96%A4%E2%80%9D%EF%BC%9A%E6%B2%A1%E6%94%B6%E8%BF%9D%E6%B3%95%E6%89%80%E5%BE%97%EF%BC%8C%E7%BD%9A%E6%AC%BE2000%E5%85%83)|
+||[为什么她是国内最被低估的作家之一？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B9%E6%98%AF%E5%9B%BD%E5%86%85%E6%9C%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%BD%9C%E5%AE%B6%E4%B9%8B%E4%B8%80%EF%BC%9F)|
+||[报考人数激增多年，高考日语迎变局？](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0%E6%BF%80%E5%A2%9E%E5%A4%9A%E5%B9%B4%EF%BC%8C%E9%AB%98%E8%80%83%E6%97%A5%E8%AF%AD%E8%BF%8E%E5%8F%98%E5%B1%80%EF%BC%9F)|
 |[首页头条--人民网](https://plink.anyfeeder.com/people)|[最高检:持续加大文物和文化遗产公益诉讼办案力度](http://society.people.com.cn/n1/2024/0608/c1008-40253145.html)|
 ||[司法行政戒毒系统部署开展2024年国际禁毒日主题宣教活动](http://society.people.com.cn/n1/2024/0608/c1008-40253143.html)|
 ||[国家网信办开展整治涉企侵权信息乱象专项行动并通报典型案例](http://finance.people.com.cn/n1/2024/0608/c1004-40253142.html)|
