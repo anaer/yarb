@@ -2,6 +2,10 @@
 
 |来源|标题|
 |---|---|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华社快讯：9日欧洲议会选举结束后，法国总统马克龙当晚宣布解散国民议会](http://www.news.cn/20240610/b1ee7ca7f79b4db8874b96920be73c49/c.html)|
+||[新华社快讯：以色列战时内阁成员甘茨宣布退出战时内阁](http://www.news.cn/20240610/425aac0b44da401c9226530fb0ca0bc2/c.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 论 facetime 反诈更新到底更新了什么](https://www.v2ex.com/t/1048186#reply2)|
+||[ 支付宝 支付宝 NFC 支付线下商场体验](https://www.v2ex.com/t/1048185#reply2)|
 |[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[乌称俄一架苏-57战机遇袭受损，俄方否认](https://m.thepaper.cn/detail/27684350)|
 ||[哈马斯称以军打死3名被扣押人员，包括1名美国人](https://m.thepaper.cn/detail/27684346)|
 ||[福建大田县：买144平米以下新建商品住宅，每平米补贴200元](https://m.thepaper.cn/detail/27673335)|
