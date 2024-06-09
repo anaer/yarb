@@ -2,6 +2,73 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[泰国首相社德他取消300泰铢旅游入境费](https://www.zaobao.com/realtime/world/story20240609-3877224)|
+||[以总理内坦亚胡下月访美 白宫拒透露是否会见拜登](https://www.zaobao.com/realtime/world/story20240609-3877152)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[中国上市公司协会：4月末制造业上市公司数量为3632家](http://finance.people.com.cn/n1/2024/0609/c1004-40253453.html)|
+||[中国中信集团有限公司党委委员、副总经理徐佐接受纪律审查和监察调查](http://politics.people.com.cn/n1/2024/0609/c1001-40253452.html)|
+||[我国科学家首次获取青藏高原对流层大气廓线连续观测数据](http://finance.people.com.cn/n1/2024/0609/c1004-40253445.html)|
+||[4月证券期货经营机构共备案私募资管产品759只](http://finance.people.com.cn/n1/2024/0609/c1004-40253446.html)|
+|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[大城市奋斗的年轻人，为什么都在向往小城生活？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%A5%8B%E6%96%97%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%9C%A8%E5%90%91%E5%BE%80%E5%B0%8F%E5%9F%8E%E7%94%9F%E6%B4%BB%EF%BC%9F)|
+||[贝多芬《第九交响曲》：为何而颂？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%B4%9D%E5%A4%9A%E8%8A%AC%E3%80%8A%E7%AC%AC%E4%B9%9D%E4%BA%A4%E5%93%8D%E6%9B%B2%E3%80%8B%EF%BC%9A%E4%B8%BA%E4%BD%95%E8%80%8C%E9%A2%82%EF%BC%9F)|
+||[马斯克星舰试飞成功，送百万人“上天”要成真了？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E8%88%B0%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F%EF%BC%8C%E9%80%81%E7%99%BE%E4%B8%87%E4%BA%BA%E2%80%9C%E4%B8%8A%E5%A4%A9%E2%80%9D%E8%A6%81%E6%88%90%E7%9C%9F%E4%BA%86%EF%BC%9F)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[相亲背后的感情和生意](https://www.infzm.com/contents/272927)|
+||[透过100则相亲对象分析视频，窥见101种欲望｜记者手记](https://www.infzm.com/contents/273089)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[你当年是如何庆祝高考结束的？](https://www.zhihu.com/question/658238537/answer/3525435004)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[广西房屋倒塌致二死 三人被采取刑事强制措施](https://www.zaobao.com/realtime/china/story20240609-3875516)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[主播说联播 今天，从“闪耀太空的中国红”说起](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%BB%E6%92%AD%E8%AF%B4%E8%81%94%E6%92%AD%20%7C%20%E4%BB%8A%E5%A4%A9%EF%BC%8C%E4%BB%8E%E2%80%9C%E9%97%AA%E8%80%80%E5%A4%AA%E7%A9%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E2%80%9D%E8%AF%B4%E8%B5%B7)|
+||[一年一端午，一岁一安康](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%80%E5%B9%B4%E4%B8%80%E7%AB%AF%E5%8D%88%EF%BC%8C%E4%B8%80%E5%B2%81%E4%B8%80%E5%AE%89%E5%BA%B7)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[外交部副部长孙卫东在东亚合作系列高官会后接受媒体采访](http://www.news.cn/20240610/df3214a9603343e5851e102bb55afcd5/c.html)|
+||[印尼羽毛球公开赛国羽获四冠](http://www.news.cn/20240610/abbac9e2eba4400bb346aec176dece28/c.html)|
+||[莫迪宣誓就任印度总理](http://www.news.cn/20240610/0347be1451d94861a7aa7434855a4e02/c.html)|
+||[香港举行首届“中华文化节”之“多彩华艺”嘉年华](http://www.news.cn/20240609/49bdb0f98d354ddc8941d84370c691e8/c.html)|
+||[伊朗公布6名总统候选人名单](http://www.news.cn/20240609/8d00b1001277463aacdd7dc6b3adf8a4/c.html)|
+||[新疆是个好地方——透视天山南北文旅热](http://www.news.cn/20240609/394480703f6b43eb995a1dcf99d73e4f/c.html)|
+||[强降雨持续 广西5条河流5个站出现超警洪水](http://www.news.cn/20240609/27b0a9a75cd7439b82e37bb696b4b4be/c.html)|
+||[乌克兰国防部称俄一架苏-57战机遇袭受损](http://www.news.cn/20240609/2510db7e01e84603b685a2dcba7b68bb/c.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Docker OrbStack 是不是也 G 了](https://www.v2ex.com/t/1048183#reply1)|
+||[ DNS 能不能用 AdGuard Home 屏蔽微信的视频号？如果可以的话求一下准确域名](https://www.v2ex.com/t/1048182#reply1)|
+||[ 问与答 昨日还憧憬人生的无限可能，今朝却骤然得知寿命只余二十载](https://www.v2ex.com/t/1048181#reply9)|
+||[ Apple 各位 V2 来预测一下 WWDC 上 Apple 发布的 iOS 18 上的 Ai 你有什么期待？](https://www.v2ex.com/t/1048178#reply3)|
+||[ Surge surge 模块， stash 覆写， qx 引用重写执行速度的差异对比](https://www.v2ex.com/t/1048176#reply2)|
+||[ Apple 有没有在 MAC 上用圈 X 的小伙伴?](https://www.v2ex.com/t/1048173#reply1)|
+||[ 浏览器 百度智能云是开了啥反去广告的武器吗……](https://www.v2ex.com/t/1048170#reply3)|
+||[ 酷工作 付费寻找精通 React Native、Android 和 iOS 的大佬](https://www.v2ex.com/t/1048169#reply4)|
+||[ 问与答 向各位老哥请教一个关于 tp6 读取数据中文乱码的问题](https://www.v2ex.com/t/1048168#reply1)|
+||[ 问与答 有没有那种出名又好看的美剧？](https://www.v2ex.com/t/1048167#reply9)|
+||[ 问与答 使用双目相机，两个 video 输入，传入自己训练的 yolo 模型，然后对比判定识别结果，这样的创新点可以发文章吗？双非硕士用来毕业够不够呀。](https://www.v2ex.com/t/1048165#reply2)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[可否推荐一个 windows 下的桌面软件, 支持日历和 todo 合并管理的?](https://www.v2ex.com/t/1048136#reply10)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[荷兰警方考虑在毒品实验室突搜中使用机器狗](https://www.solidot.org/story?sid=78394)|
+|[南方周末](https://plink.anyfeeder.com/weixin/nanfangzhoumo)|[谈谈“情绪劳动”：家庭交流要避免概念碾压](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E8%B0%88%E8%B0%88%E2%80%9C%E6%83%85%E7%BB%AA%E5%8A%B3%E5%8A%A8%E2%80%9D%EF%BC%9A%E5%AE%B6%E5%BA%AD%E4%BA%A4%E6%B5%81%E8%A6%81%E9%81%BF%E5%85%8D%E6%A6%82%E5%BF%B5%E7%A2%BE%E5%8E%8B)|
+||[中国电影市场，等资本风来](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB+%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%EF%BC%8C%E7%AD%89%E8%B5%84%E6%9C%AC%E9%A3%8E%E6%9D%A5)|
+|[IT之家](https://www.ithome.com/rss/)|[《微软模拟飞行 2024》官宣 11 月 19 日发售，首发加入 XGP](https://www.ithome.com/0/774/210.htm)|
+||[B 社《星空》游戏首个故事资料片“破碎空间”公布，年内推出](https://www.ithome.com/0/774/209.htm)|
+||[《潜龙谍影 Δ：食蛇者》首个正式预告片公开，原作经典场景复刻](https://www.ithome.com/0/774/208.htm)|
+||[《龙腾世纪：影障守护者》游戏公布角色宣传预告，今年秋季发售](https://www.ithome.com/0/774/207.htm)|
+||[多人合作打丧尸游戏《腐烂国度 3》全新宣传片公开](https://www.ithome.com/0/774/206.htm)|
+||[《毁灭战士：黑暗纪元》游戏 2025 年登陆 PC 和 Xbox，首发加入微软 XGP](https://www.ithome.com/0/774/205.htm)|
+||[动视《使命召唤：黑色行动 6》游戏官宣 10 月 25 日发售，首发加入微软 XGP](https://www.ithome.com/0/774/204.htm)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[《亲爱的》原型孙卓完成高考，其父：孩子表示“发挥得很好”](https://m.thepaper.cn/detail/27683501)|
+||[135位基金经理离任！谁在接任？](https://m.thepaper.cn/detail/27684269)|
+||[端午假期海派文旅大餐：国际友人过中国节、非遗传承人齐亮相](https://m.thepaper.cn/detail/27682960)|
+||[郑州郑东新区一居民小区发生火灾，造成4人遇难](https://m.thepaper.cn/detail/27683891)|
+||[工地里挖到“出土文物” ？制售假文物团伙被济南警方抓获](https://m.thepaper.cn/detail/27645784)|
+||[两名男子假冒僧人推销“开光符”，群众识破骗局举报](https://m.thepaper.cn/detail/27644585)|
+||[“纯金”项链里面竟是白银，一犯罪团伙诈骗90多万元](https://m.thepaper.cn/detail/27634302)|
+||[最高法拟规定：这些预付式消费“霸王条款”无效](https://m.thepaper.cn/detail/27644500)|
+||[交警手势大比武，提升素质树形象](https://m.thepaper.cn/detail/27631070)|
+||[学习卡丨这位伟大人物的精神，总书记曾多次提到](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=8160333397941634370&toc_style_id=feeds_default&track_id=9C0223FC-620D-4328-9DDB-EED6B122E66A_739584227831&share_to=copy_url)|
+||[安徽芜湖探索购房人购买房屋部分产权：可租赁使用剩余产权，租金可抵购房款](https://m.thepaper.cn/detail/27682045)|
+||[人物｜莫迪3.0：审时度势的“神派”不败之人走下神坛](https://m.thepaper.cn/detail/27682683)|
+||[乌军称首次击毁俄罗斯苏-57隐身战机，俄官方暂无回应](https://m.thepaper.cn/detail/27682916)|
+||[铜陵20多年房龄楼房，为何未老先衰？](https://m.thepaper.cn/detail/27682063)|
+|[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[维斯特卢1超星团 - June 9, 2024](https://m.idai.ly/se/9e59oS)|
+||[美法发布合作路线图 - June 9, 2024](https://m.idai.ly/se/9b0ziM)|
+||[第10届欧洲议会选举 - June 9, 2024](https://m.idai.ly/se/129y3x)|
+||[2024年世界海洋日 - June 9, 2024](https://m.idai.ly/se/63fV0z)|
+||[富士山拍照点设围栏 - June 9, 2024](https://m.idai.ly/se/030sER)|
+||[法国修复柬埔寨佛像 - June 9, 2024](https://m.idai.ly/se/63az86)|
+||[重庆大熊猫过端午 - June 9, 2024](https://m.idai.ly/se/57bkNK)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[这一次，法国没有投降](https://m.cnbeta.com.tw/view/1434153.htm)|
 |[反斗限免](http://free.apprcn.com/feed/)|[免费获取字体包 Mega Cute Font Collection Bundle Windows、macOS $780→0 ](https://free.apprcn.com/get-mega-cute-font-collection-bundle-for-free-2/)|
 |[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[龙舟上高原：传统文化激起传承的浪花](http://www.news.cn/20240609/1e5fa7cb9f1b47dd9bd4e4ad4d45471f/c.html)|
 ||[以军袭击加沙地带中部难民营已致274人死亡](http://www.news.cn/20240609/f5f3c27b946f4f7cba684c1c31de1c5a/c.html)|
