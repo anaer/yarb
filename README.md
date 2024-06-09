@@ -2,6 +2,100 @@
 
 |来源|标题|
 |---|---|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取字体包 Mega Cute Font Collection Bundle Windows、macOS $780→0 ](https://free.apprcn.com/get-mega-cute-font-collection-bundle-for-free-2/)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[龙舟上高原：传统文化激起传承的浪花](http://www.news.cn/20240609/1e5fa7cb9f1b47dd9bd4e4ad4d45471f/c.html)|
+||[以军袭击加沙地带中部难民营已致274人死亡](http://www.news.cn/20240609/f5f3c27b946f4f7cba684c1c31de1c5a/c.html)|
+||[新华鲜报丨2024年高考题“上新”！有啥不一样？](http://www.news.cn/20240609/6d3018c2538e49478cbe869901b1179d/c.html)|
+||[新华社消息丨常泰长江大桥顺利合龙](http://www.news.cn/20240609/89ee635f50754caaa75b900db12903be/c.html)|
+||[新华全媒+丨“粽”享艾香国风浓 ——看端午消费“新三样”](http://www.news.cn/20240609/117ab386c3d7450e824d8431910c6278/c.html)|
+||[郑州一小区发生火灾致4人遇难](http://www.news.cn/20240609/aed5881d9b804e51bcda3998e50e28c5/c.html)|
+||[国家电网多措并举服务新能源汽车端午假期出行](http://www.news.cn/20240609/45eeab9503264274b490d5115ba87520/c.html)|
+||[新华时评｜端午节，感受连接世界的文化纽带](http://www.news.cn/20240609/f7cde65f5ab1402ea3047ac248fc6f79/c.html)|
+||[东北虎吃“肉粽子”过端午](http://www.news.cn/20240609/488e33e637e1454ebd80658d0ea453ab/c.html)|
+||[乡村振兴丨湖北省恩施土店子村：“绿电”催生乡村旅游新景观](http://www.news.cn/20240609/1b8e3a0f09bc46c0b8f65a8acb4568fa/c.html)|
+||[杭州余杭：“满天幛”龙舟盛装登场迎端午](http://www.news.cn/20240609/161501c170714a8f8ca7cd9575211b27/c.html)|
+||[品读屈原：“求索”精神的时代回响](http://www.news.cn/20240609/696ba53af08a4d4586d62ddc458ebfe8/c.html)|
+||[新华社消息｜端午假期首日全社会跨区域人员流动量超2亿人次](http://www.news.cn/20240609/ccc63f91088348608509b079d3c97dc8/c.html)|
+||[以军袭击加沙地带中部难民营已致274人死亡](http://www.news.cn/20240609/052336e558b4495b9eaed33779aea869/c.html)|
+||[新华社消息｜“国宝”曾侯乙尊盘有了“数字分身”](http://www.news.cn/20240609/bb1c751e20ad485d87d18704ae2e135a/c.html)|
+||[指尖有绝技｜古景新生：徽州古村“盘”活盆景变前景](http://www.news.cn/20240609/f7f15c284cd14f7ca61ad4c710a88f9d/c.html)|
+||[夏收vlog｜在“开镰”现场感受火热夏收](http://www.news.cn/20240609/f1d27b51bcb0406a9ff3030420a49169/c.html)|
+||[联合国“海洋十年”进校园联盟在中山大学成立](http://www.news.cn/20240609/f14599e8aca54852900ca8b2fbc08e98/c.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 浏览器 百度智能云是开了啥反去广告的武器吗……](https://www.v2ex.com/t/1048170#reply2)|
+||[ 酷工作 付费寻找精通 React Native、Android 和 iOS 的大佬](https://www.v2ex.com/t/1048169#reply3)|
+||[ 问与答 有没有那种出名又好看的美剧？](https://www.v2ex.com/t/1048167#reply5)|
+||[ 问与答 使用双目相机，两个 video 输入，传入自己训练的 yolo 模型，然后对比判定识别结果，这样的创新点可以发文章吗？双非硕士用来毕业够不够呀。](https://www.v2ex.com/t/1048165#reply1)|
+||[ 程序员 整了一个 tiktok 视频下载站，大家给点建议](https://www.v2ex.com/t/1048162#reply4)|
+||[ 程序员 不知有没有对 微信机器人 有研究的，我们项目合作方提了个需求，微信群内的那种机器人，今天试了几个方案均不太好使，有搞通的朋友，可以付费咨询。一番尝试后 倾向于 wxhelper-docker 方案，但是也无法用](https://www.v2ex.com/t/1048159#reply9)|
+||[ Linux 请问 Linux server（ubunut20.04 server）下有什么工具可以查看运行程序的网络访问流量和对外访问的 ip 地址](https://www.v2ex.com/t/1048158#reply1)|
+||[ 信息安全 用了参数化查询，还是被 SQL 注入了，上线 3 天几十个用户反馈账号被盗余额被刷完，求助怎么解决？](https://www.v2ex.com/t/1048156#reply10)|
+||[ 问与答 Macbook pro m1 2020 有啥好用的外接拓展坞](https://www.v2ex.com/t/1048155#reply9)|
+||[ 问与答 各位彦祖，你们是怎样说服老婆准备二胎的？](https://www.v2ex.com/t/1048153#reply29)|
+||[ 问与答 有人遇到过手机平板充不上电的情况吗？](https://www.v2ex.com/t/1048152#reply2)|
+||[ 程序员 爬虫 请教大家爬取小红书、抖音的内容（包括图片、视频）的方法](https://www.v2ex.com/t/1048151#reply10)|
+||[ 汽车 在 zeekr 极氪 001 上安装第三方应用程序的新手指南](https://www.v2ex.com/t/1048149#reply1)|
+||[ 职场话题 你工作有压力别影响到家人](https://www.v2ex.com/t/1048148#reply19)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[求推荐一手安卓旗舰直屏](https://www.v2ex.com/t/1048132#reply14)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[基因疗法恢复了遗传性耳聋患者的听力和音乐欣赏能力](https://www.solidot.org/story?sid=78393)|
+||[上海交大下架 Docker Hub 镜像](https://www.solidot.org/story?sid=78392)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[usmile失去想象力](https://36kr.com/p/2809782080932100)|
+||[花3万买个大厂实习？起底付费内推产业链](https://36kr.com/p/2810592856459781)|
+||[40亿，今年最大芯片融资诞生了](https://36kr.com/p/2810686216407299)|
+||[8家消费公司拿到新钱;胖东来首次上榜连锁百强;便利店总数超32万家｜创投大视野](https://36kr.com/p/2809828024961539)|
+||[这门“端午”生意火了，一把“草”上百元，有商家月入百万](https://36kr.com/p/2811112411859206)|
+||[俞敏洪该给东方甄选找新CEO了](https://36kr.com/p/2812102910888454)|
+||[100亿，一家潮牌正式卖身](https://36kr.com/p/2810858647685637)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[工作后，我的出租屋成了亲友们的临时酒店](https://www.infzm.com/contents/273065)|
+||[基金发售“冰火两重天”，“逆向销售”难在哪？](https://www.infzm.com/contents/273085)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[“世界铜王”遇到对手](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E2%80%9C%E4%B8%96%E7%95%8C%E9%93%9C%E7%8E%8B%E2%80%9D%E9%81%87%E5%88%B0%E5%AF%B9%E6%89%8B)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[抢着回家的“全职儿女”，如今排队找工作](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E6%8A%A2%E7%9D%80%E5%9B%9E%E5%AE%B6%E7%9A%84%E2%80%9C%E5%85%A8%E8%81%8C%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%8C%E5%A6%82%E4%BB%8A%E6%8E%92%E9%98%9F%E6%89%BE%E5%B7%A5%E4%BD%9C)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[美的VS格力VS海尔VS海信VS四家合并（上篇）](http://xueqiu.com/7608175162/293190330)|
+||[万字长文！碧桂园服务股东大会文字纪要](http://xueqiu.com/1057622343/293176815)|
+||[如何看待贵金属](http://xueqiu.com/1686401828/293084737)|
+||[](http://xueqiu.com/1344684945/293118537)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[羡慕第一次见到与父母同住的成年人](https://www.huxiu.com/article/3119485.html?f=rss)|
+|[TechNews 科技新報](http://technews.tw/feed/)|[一種奇特的水形式，可能有助於解釋天王星混亂的磁場](https://technews.tw/2024/06/10/uranuss-chaotic-magnetic-field/)|
+||[以色列研究表明，線上談話治療可有效改善憂鬱症](https://technews.tw/2024/06/10/hebrew-university-found-that-online-therapy-can-treat-depression/)|
+|[IT之家](https://www.ithome.com/rss/)|[因电动座椅有起火风险，起亚在美国召回近 46.3 万辆 Telluride 汽车](https://www.ithome.com/0/774/202.htm)|
+||[先马推出“小坚果”M-ATX 台式机箱：黑白双色、自带提手，售 59.9 元](https://www.ithome.com/0/774/201.htm)|
+||[HKC“G25H4”24.5 英寸显示器今起首销：2K 240Hz，1699 元](https://www.ithome.com/0/774/199.htm)|
+||[“PC 不属于游戏机分类”，苹果 iOS 平台 App Store 拒绝 UTM 模拟器上架申请](https://www.ithome.com/0/774/198.htm)|
+||[成都：预计本月在天府国际机场等区域开行低空载人航线](https://www.ithome.com/0/774/197.htm)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[汽车行业会一直这么卷下去吗？](https://www.zhihu.com/question/649928383)|
+||[失业后去摆摊可以吗？](https://www.zhihu.com/question/658199565)|
+||[为什么大家都在骂忌炎逃兵，难道没人觉得哥舒冒进？](https://www.zhihu.com/question/658358210)|
+||[中年夫妻，没有感情了，应该怎么办？](https://www.zhihu.com/question/654086885)|
+||[以色列或寻求在加沙组建替代哈马斯的政府，这意味着什么？会对局势带来哪些影响？](https://www.zhihu.com/question/658465813)|
+||[武大中法数学拔尖班时隔 30 年重启，这对培养国际化人才有何意义？](https://www.zhihu.com/question/657835503)|
+||[听到哪首歌会让你瞬间回到高中？](https://www.zhihu.com/question/658013795)|
+||[如何看待《Mind the game》18 年骑士队本可以赢下总决赛但却受到判罚影响”这段话？](https://www.zhihu.com/question/658392709)|
+||[为什么克洛琳德和她专武的突破材料全是枫丹早期版本材料？而且和龙王几乎一模一样?](https://www.zhihu.com/question/658326490)|
+||[高考作文题中提到：「每个人都要学习与他人相处」有什么深意？家庭教育中如何引导提升孩子社交能力？](https://www.zhihu.com/question/658394911)|
+||[如何评价 ign《鸣潮》7 分？](https://www.zhihu.com/question/658429403)|
+||[有没有哪个瞬间，被咸蛋黄的美味深深戳到？](https://www.zhihu.com/question/657329856)|
+||[你当年是如何庆祝高考结束的？](https://www.zhihu.com/question/658238537)|
+||[为什么人在生病发烧时对咸味的感知会下降，而甜味却能正常品尝到？](https://www.zhihu.com/question/657329978)|
+||[还记得高考结束后的那天晚上，你做了什么吗？](https://www.zhihu.com/question/658013745)|
+||[如何评价孙楠在《歌手 2024》第五期演唱的《悬崖》？](https://www.zhihu.com/question/658344549)|
+||[听说线性代数能够降维打击高中数学，是否有必要学？如何学？](https://www.zhihu.com/question/548143447)|
+||[去医院生孩子只有自己和老公两个人够吗？](https://www.zhihu.com/question/658203122)|
+||[《周处除三害》如果九发子弹都卡弹，陈桂林会放过尊者吗？](https://www.zhihu.com/question/650888065)|
+||[如何评价刘亦菲、佟大为主演的电视剧《玫瑰的故事》？](https://www.zhihu.com/question/658439215)|
+||[如何看待《黑神话悟空》宣布延期登陆 Xbox 平台的跳票行为？](https://www.zhihu.com/question/658427063)|
+||[贾母为何说尤二姐是个齐全孩子？](https://www.zhihu.com/question/656700090)|
+||[以军轰炸加沙，超 80 名平民死亡，冲突爆发至今加沙地带 GDP 减少 83.5%，目前当地情况如何？](https://www.zhihu.com/question/658432707)|
+||[电视剧《步步惊心》中若曦的悲剧是怎么酿成的？](https://www.zhihu.com/question/570676607)|
+||[高考考的不太好怎么办?](https://www.zhihu.com/question/658435454)|
+||[国足的球员们到底是不是中国技术最好的球员？](https://www.zhihu.com/question/377434385)|
+||[关于屈原，我们了解多少?](https://www.zhihu.com/question/658436365)|
+||[如何看待广汽曾庆洪与比亚迪王传福之间「卷不卷」的争论？](https://www.zhihu.com/question/658385273)|
+||[为什么年轻人月薪两万却不敢在商场买衣服?](https://www.zhihu.com/question/656174706)|
+||[有哪些非常好看影响最深刻的书推荐？](https://www.zhihu.com/question/657269449)|
+||[如何看待《庆余年》海棠朵朵和和范闲之间的情感？](https://www.zhihu.com/question/378227150)|
+||[2024 高考大作文挑战｜如果让你来写新课标 II 卷「未知之境」，你会怎么写？](https://www.zhihu.com/question/658352117)|
+||[以色列解救 4 名被扣押人员，美方参与其中，造成加沙上百人伤亡，哪些信息需要关注？](https://www.zhihu.com/question/658469924)|
+||[为什么现在很多二游都学习使用类似《原神》的抽卡机制？](https://www.zhihu.com/question/658271982)|
+||[反对政府医改，韩国医协宣布自 18 日起集体停诊，将带来哪些影响？韩国医改将走向何方？](https://www.zhihu.com/question/658473496)|
 |[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[高考结束的那一晚](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E9%82%A3%E4%B8%80%E6%99%9A)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 用了参数化查询，还是被 SQL 注入了，上线 3 天几十个用户反馈账号被盗余额被刷完，求助怎么解决？](https://www.v2ex.com/t/1048156#reply1)|
 ||[ 问与答 Macbook pro m1 2020 有啥好用的外接拓展坞](https://www.v2ex.com/t/1048155#reply2)|
