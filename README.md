@@ -2,6 +2,55 @@
 
 |来源|标题|
 |---|---|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[乌称俄一架苏-57战机遇袭受损，俄方否认](https://m.thepaper.cn/detail/27684350)|
+||[哈马斯称以军打死3名被扣押人员，包括1名美国人](https://m.thepaper.cn/detail/27684346)|
+||[福建大田县：买144平米以下新建商品住宅，每平米补贴200元](https://m.thepaper.cn/detail/27673335)|
+||[烧穿金属：以色列使用的白磷弹有多可怕？](https://m.thepaper.cn/detail/27684337)|
+||[朝鲜称通过气球向韩国投放废纸7.5吨](https://m.thepaper.cn/detail/27684335)|
+||[25人徒步吊罗山林区被困1人坠亡，海南保亭通报](https://m.thepaper.cn/detail/27684304)|
+||[多地发布端午假期旅游数据，传统景区依然后劲十足](https://m.thepaper.cn/detail/27684299)|
+||[直击上海高考｜80后家长说对成绩要求不高，旅行被列入考后“心愿清单”](https://m.thepaper.cn/detail/27684271)|
+||[第十五届丘成桐大学生数学竞赛结果揭晓，清华揽获29个奖项](https://m.thepaper.cn/detail/27684292)|
+||[解释城市｜哪些城市更愿意“抱团”发展](https://m.thepaper.cn/detail/27684273)|
+||[今年高考北京思想政治卷试题有何特点？专家评析来了](https://m.thepaper.cn/detail/27684272)|
+||[著名中东问题专家殷罡因突发心梗逝世，享年73岁](https://m.thepaper.cn/detail/27684293)|
+||[澎湃AI晚新闻丨2024年6月9日](https://m.thepaper.cn/detail/27684268)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[报告认为“Apple Intelligence”是下一代苹果硬件和服务的核心](https://m.cnbeta.com.tw/view/1434161.htm)|
+||[赢家不只有NVIDIA 博通也靠AI赚的盆满钵满](https://m.cnbeta.com.tw/view/1434159.htm)|
+||[车圈大佬们在重庆吵起来了：李书福开炮降价助长偷工减料 广汽掌门呼吁国家干涉](https://m.cnbeta.com.tw/view/1434157.htm)|
+||[奇瑞国际总经理：零公里二手车平行出口百害而无一利](https://m.cnbeta.com.tw/view/1434155.htm)|
+||[Shein可能不符合纳入英国富时100指数的条件](https://m.cnbeta.com.tw/view/1434154.htm)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[欧洲议会选举出口民意调查 奥地利极右翼政党领先](https://www.zaobao.com/realtime/world/story20240609-3877803)|
+||[以色列空袭救四人质 哈马斯称过程中有三人质被杀](https://www.zaobao.com/realtime/world/story20240609-3877783)|
+||[10亿元逃税团伙包括新加坡人 新马警方料合作抓人](https://www.zaobao.com/realtime/world/story20240609-3877748)|
+||[禁令延长45天 以色列不准半岛电视台运营](https://www.zaobao.com/realtime/world/story20240609-3877610)|
+||[伊朗公布总统候选人名单 确定六人参选](https://www.zaobao.com/realtime/world/story20240609-3877553)|
+||[美国料在G7会议向中国小型银行发严厉警告](https://www.zaobao.com/realtime/world/story20240609-3877345)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[有哪些非常能够治愈你的句子？](https://www.zhihu.com/question/658438806/answer/3525494092)|
+||[一个女人的最大底气是什么？](https://www.zhihu.com/question/657481037/answer/3525491587)|
+||[为什么现在很多二游都学习使用类似《原神》的抽卡机制？](https://www.zhihu.com/question/658271982/answer/3525491015)|
+||[一个当代高中生穿越回古希腊，大概能混成什么水平的哲学家?](https://www.zhihu.com/question/658418162/answer/3525422033)|
+||[文笔挑战：“遗憾的是__________”你会怎么接？](https://www.zhihu.com/question/657212866/answer/3525455633)|
+||[以色列解救 4 名被扣押人员，美方参与其中，造成加沙上百人伤亡，哪些信息需要关注？](https://www.zhihu.com/question/658469924/answer/3525433918)|
+||[官方通报「18 斤榴莲复秤仅 8 斤」，罚款 2000 元，缺斤少两事件频发，什么原因？如何有效治理？](https://www.zhihu.com/question/658409330/answer/3525423986)|
+||[高考考的不太好怎么办?](https://www.zhihu.com/question/658435454/answer/3525373934)|
+||[如何评价孙楠在《歌手 2024》第五期演唱的《悬崖》？](https://www.zhihu.com/question/658344549/answer/3525365073)|
+||[听到哪首歌会让你瞬间回到高中？](https://www.zhihu.com/question/658013795/answer/3524766449)|
+||[高考结束后建议做些什么？](https://www.zhihu.com/question/658436834/answer/3525221339)|
+|[V2EX](https://v2ex.com/index.xml)|[ Apple 论 facetime 反诈更新到底更新了什么](https://www.v2ex.com/t/1048186#reply1)|
+||[ 支付宝 支付宝 NFC 支付线下商场体验](https://www.v2ex.com/t/1048185#reply1)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[历时一个多月，拿了3个offer上岸了！](https://juejin.cn/post/7378028569689473065)|
+||[node爬............虫与sequelize使用（为什么一提爬虫就是豆瓣）](https://juejin.cn/post/7377925587039633449)|
+|[IT之家](https://www.ithome.com/rss/)|[《暗黑破坏神 4》首个资料片“憎恨之躯”10 月 8 日发售，游戏开场 CG 公布](https://www.ithome.com/0/774/215.htm)|
+||[育碧《刺客信条：影》日本背景游戏首个实机宣传片公开](https://www.ithome.com/0/774/214.htm)|
+||[微软 Xbox Series X / S 游戏机 1TB 白色无光驱版发布，还有 2TB 特别版](https://www.ithome.com/0/774/213.htm)|
+||[《战争机器：E-Day》游戏首支预告片亮相，讲述兽人入侵起源故事](https://www.ithome.com/0/774/212.htm)|
+||[国产单机游戏《明末：渊虚之羽》明年发售，首发加入微软 XGP](https://www.ithome.com/0/774/211.htm)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[不知有没有对 微信机器人 有研究的，我们项目合作方提了个需求，微信群内的那种机器人，今天试了几个方案均不太好使，有搞通的朋友，可以付费咨询。一番尝试后 倾向于 wxhelper-docker 方案，但是也无法用](https://www.v2ex.com/t/1048159#reply11)|
+||[整了一个 tiktok 视频下载站，大家给点建议](https://www.v2ex.com/t/1048162#reply5)|
+||[用了参数化查询，还是被 SQL 注入了，上线 3 天几十个用户反馈账号被盗余额被刷完，求助怎么解决？](https://www.v2ex.com/t/1048156#reply20)|
+|[马小帮](https://www.maxiaobang.com/feed)|[植物大战僵尸PVZ杂交版v2.0.88 — 毁童年的游戏，但真的好玩！](https://www.maxiaobang.com/17505.html)|
+|[异次元软件世界](https://feed.iplaysoft.com)|[LANDrop 2 局域网文件传输工具 - 手机电脑不限速发送照片视频文字 跨平台 ](https://www.iplaysoft.com/landrop.html)|
 |[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[泰国首相社德他取消300泰铢旅游入境费](https://www.zaobao.com/realtime/world/story20240609-3877224)|
 ||[以总理内坦亚胡下月访美 白宫拒透露是否会见拜登](https://www.zaobao.com/realtime/world/story20240609-3877152)|
 |[首页头条--人民网](https://plink.anyfeeder.com/people)|[中国上市公司协会：4月末制造业上市公司数量为3632家](http://finance.people.com.cn/n1/2024/0609/c1004-40253453.html)|
