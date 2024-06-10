@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 果子的使用体验真的像是屎](https://www.v2ex.com/t/1048367#reply3)|
+||[ Android 用的一加手机, Clash 梯子开了之后推特 X 就无法收到通知是什么原因?](https://www.v2ex.com/t/1048366#reply2)|
+||[ Apple Vision Pro 有个非常不尴不尬的锁区](https://www.v2ex.com/t/1048362#reply2)|
+||[ Apple 有时候感觉苹果产品的定价太活在自己的世界里了，有点脱离用户...](https://www.v2ex.com/t/1048361#reply14)|
+||[ 硬件 需要一台墨水屏替代 kindle 看书，看 pdf，需微信读书，求推荐](https://www.v2ex.com/t/1048360#reply2)|
+||[ Apple 对 m4ipad 来说 ipados 18 这是更新了个寂寞啊](https://www.v2ex.com/t/1048359#reply1)|
+||[ 宽带症候群 一月不到跑了 20tb 上行 会不会把我公网 ip 回收啊](https://www.v2ex.com/t/1048358#reply2)|
+||[ 问与答 为何 Apple Intelligence（AI）只支持 A17 和 M1 以上的芯片](https://www.v2ex.com/t/1048357#reply6)|
+||[ Apple iOS18 加入了通话录音？](https://www.v2ex.com/t/1048356#reply7)|
+||[ Apple 好失望，苹果也没有逃离聊天机器人的魔爪](https://www.v2ex.com/t/1048355#reply5)|
+||[ iOS ios 正式接入 gpt4o](https://www.v2ex.com/t/1048354#reply5)|
+||[ Apple Apple 重新发明 AI（Apple Intelligence）震撼全球](https://www.v2ex.com/t/1048353#reply15)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[哈马斯：美国建造的临时码头未对缓解加沙人道危机“作出任何重要贡献”](http://www.news.cn/20240611/1687c353608240b6bea445d06875ff4c/c.html)|
+||[国际油价10日上涨](http://www.news.cn/20240611/7dfc9dc7a58442f0b8e637b0d936f885/c.html)|
+||[美元指数10日上涨](http://www.news.cn/20240611/e415ae9effa04b7595724a8c1d13eb3c/c.html)|
+||[天津滨海新区一公交车发生碰撞事故造成1死8伤](http://www.news.cn/20240611/c0d357333a7c40c5b9e53abefcb3be8f/c.html)|
+||[王毅会见巴西外长维埃拉](http://www.news.cn/20240611/3112abccba554e878f51d113abb94c16/c.html)|
+||[新华社快讯：新疆巴音郭楞州尉犁县发生5.0级地震，震源深度20公里](http://www.news.cn/20240611/5bb103403fe94bb0aac49aed862a1e73/c.html)|
+||[马拉维副总统飞机失联](http://www.news.cn/20240611/3ac3b546e35440fe86c57608cc50ca5b/c.html)|
+||[王毅会见埃塞俄比亚外长塔耶](http://www.news.cn/20240611/894880070bf0413d98afcbd2a4bc4bab/c.html)|
+||[伦敦股市10日下跌](http://www.news.cn/20240611/40f2fd92c7644ee8a5d40cff2bcabfb1/c.html)|
+||[缅甸警方在仰光缴获40公斤冰毒](http://www.news.cn/20240611/a692a8bf4fe84effbda5a7741b38663e/c.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果全新的 Apple Intelligence 重新定義智慧裝置的操作體驗](https://applefans.today/2024-06-apple-intelligence/)|
+||[WWDC 2024 懶人包 ：iOS 18、iPadOS 18 正式登場](https://applefans.today/wwdc2024-ios-18-ipados-18/)|
+|[IT之家](https://www.ithome.com/rss/)|[iPhone 终于自带通话录音：苹果 iOS 18 全新 AI 功能秋季上线，还能转录文字摘要](https://www.ithome.com/0/774/354.htm)|
+||[育碧《刺客信条：影》13 分钟深度实机演示公布，可扮演武士与忍者](https://www.ithome.com/0/774/353.htm)|
+||[苹果 iOS 18 合作 OpenAI 惹怒马斯克：他们将出卖用户数据，考虑在公司禁止苹果设备](https://www.ithome.com/0/774/351.htm)|
+||[跳票 4 次后，育碧《波斯王子：时之沙》重制版游戏官宣 2026 年发售](https://www.ithome.com/0/774/350.htm)|
+||[iPhone 15 / Pro 系列独占，苹果 iOS 18 引入 85%、90%、95% 充电限制选项](https://www.ithome.com/0/774/349.htm)|
+||[全球市值第二高公司，英伟达股票 1 拆 10 力求继续增长](https://www.ithome.com/0/774/348.htm)|
+||[苹果 AirPods Pro 2 固件 7A5220e 发布：测试点头接听 / 摇头挂断来电等 iOS 18 功能](https://www.ithome.com/0/774/347.htm)|
+||[育碧《星球大战：亡命之徒》游戏 10 分钟实机演示预告片发布](https://www.ithome.com/0/774/346.htm)|
+||[25 年安全保障再出发，苹果推出 Passwords 独立密码管理应用：将登陆 Win10 / Win11 平台](https://www.ithome.com/0/774/345.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在server component里面嵌入client component?](https://segmentfault.com/q/1010000044952932)|
+|[TechNews 科技新報](http://technews.tw/feed/)|[WWDC24 懶人包：蘋果 AI、iOS 18、iPadOS 18、watchOS 11、macOS Sequoia、visionOS](https://technews.tw/2024/06/11/wwdc24-2/)|
+|["库克 苹果" - Google N...](https://news.google.com/news/rss/search/section/q/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C?hl=en&gl=US)|[Can Apple catch up with its rivals in the AI race? - Financial Times](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzM0NmExOGUxLThjOGMtNDQ5NS1iYWZhLWE0NGQwYmU1N2MyYtIBAA?oc=5)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[美股的"高估"陷阱](http://xueqiu.com/8431147782/293225228)|
+||[今年养牛的都赔惨了](http://xueqiu.com/1830902728/293237312)|
+||[](http://xueqiu.com/3393395193/293238571)|
 |[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[联合国安理会将对拜登加沙三阶段停火方案进行表决](https://www.zaobao.com/realtime/world/story20240610-3894902)|
 ||[法国提前大选引发对巴黎奥运会的担忧](https://www.zaobao.com/realtime/world/story20240610-3894806)|
 |[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 一月不到跑了 20tb 上行 会不会把我公网 ip 回收啊](https://www.v2ex.com/t/1048358#reply1)|
