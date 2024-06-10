@@ -2,6 +2,84 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[联合国安理会将对拜登加沙三阶段停火方案进行表决](https://www.zaobao.com/realtime/world/story20240610-3894902)|
+||[法国提前大选引发对巴黎奥运会的担忧](https://www.zaobao.com/realtime/world/story20240610-3894806)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 宽带症候群 一月不到跑了 20tb 上行 会不会把我公网 ip 回收啊](https://www.v2ex.com/t/1048358#reply1)|
+||[ 问与答 为何 Apple Intelligence（AI）只支持 A17 和 M1 以上的芯片](https://www.v2ex.com/t/1048357#reply4)|
+||[ Apple iOS18 加入了通话录音？](https://www.v2ex.com/t/1048356#reply6)|
+||[ Apple 好失望，苹果也没有逃离聊天机器人的魔爪](https://www.v2ex.com/t/1048355#reply4)|
+||[ iOS ios 正式接入 gpt4o](https://www.v2ex.com/t/1048354#reply4)|
+||[ Apple Apple 重新发明 AI（Apple Intelligence）震撼全球](https://www.v2ex.com/t/1048353#reply13)|
+||[ Apple 等了整整 4 年的 iPhone 镜像功能终于来到 Mac，遥遥领先](https://www.v2ex.com/t/1048352#reply2)|
+||[ Apple MacOS 添加了 iPhone Mirroring 功能 多屏协同 掏空鸿蒙！](https://www.v2ex.com/t/1048351#reply17)|
+||[ Twitter X 的推荐系统怎么这么垃圾？](https://www.v2ex.com/t/1048349#reply1)|
+||[ Apple vision pro 6 月 28 号中国上市](https://www.v2ex.com/t/1048348#reply3)|
+||[ 问与答 Gist 放一些私有的东西安全吗？比如 clash 的配置文件。](https://www.v2ex.com/t/1048346#reply3)|
+||[ 宽带症候群 打算家里使用奶昔机场，但是问题是， 1000 多的价格只限制 2 设备怎么解决，我要扔路由器里](https://www.v2ex.com/t/1048345#reply9)|
+|[IT之家](https://www.ithome.com/rss/)|[有史以来最大更新，苹果 iOS 18 照片应用 UI 大改、引入背景元素清除 AI 工具](https://www.ithome.com/0/774/344.htm)|
+||[苹果牌“AI”仍在开发中：今夏推出、今秋公测，部分功能延至明年](https://www.ithome.com/0/774/343.htm)|
+||[苹果 visionOS 1.2 全新登场：增强设备管理、Persona 改进发型和妆容](https://www.ithome.com/0/774/342.htm)|
+||[苹果 watchOS 11 开发者预览版 Beta 发布](https://www.ithome.com/0/774/341.htm)|
+||[苹果 visionOS 2 开发者预览版 Beta 发布](https://www.ithome.com/0/774/340.htm)|
+||[苹果 iOS / iPadOS 18 开发者预览版 Beta 发布，依然支持 iPhone XR / XS / XS Max](https://www.ithome.com/0/774/338.htm)|
+||[全新 iPhone 镜像功能，苹果 macOS 15 Sequoia 开发者预览版 Beta 发布](https://www.ithome.com/0/774/339.htm)|
+||[育碧《刺客信条：影》11 月 15 日登陆苹果 Mac / iPad 平台](https://www.ithome.com/0/774/337.htm)|
+||[苹果 iOS 18 Genmoji 解锁表情新玩法：听你指令 AI 生成定制 Emoji](https://www.ithome.com/0/774/336.htm)|
+||[苹果 iOS 18 / iPadOS 18 / watchOS 11 / macOS 15 支持机型一览，部分老设备将无法升级](https://www.ithome.com/0/774/335.htm)|
+||[苹果携手 OpenAI 共同探索 AI，iOS 18 Siri 将整合 ChatGPT](https://www.ithome.com/0/774/334.htm)|
+||[苹果 Vision Pro 国行上架官网：售价 29999 元起，6 月 28 日发售](https://www.ithome.com/0/774/333.htm)|
+||[苹果 iOS 18 邮件应用青出于蓝：比 Gmail 更懂你，帮你排序、过滤邮件内容](https://www.ithome.com/0/774/332.htm)|
+||[苹果发布“Image Playground”：设备端人工智能图片生成器](https://www.ithome.com/0/774/331.htm)|
+||[更智能更懂你，苹果 Siri 迎来重大升级：拥有屏幕感知能力，可与 App 深度交互](https://www.ithome.com/0/774/330.htm)|
+||[苹果牌“AI”登场：帮你管理通知、总结邮件等，iPhone 15 Pro / Max 以及 M 系列 iPad / Mac 专享](https://www.ithome.com/0/774/329.htm)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[华为否认曾对柔宇科技有投资计划](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E5%8D%8E%E4%B8%BA%E5%90%A6%E8%AE%A4%E6%9B%BE%E5%AF%B9%E6%9F%94%E5%AE%87%E7%A7%91%E6%8A%80%E6%9C%89%E6%8A%95%E8%B5%84%E8%AE%A1%E5%88%92)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【公告精选】利好！又有多家公司摘帽；锁定面值退市后，这家公司被立案；交易对价逾55亿元，这家公司发布重大资产购买预案；斥资超5亿，一电网公司拟投建新型电力系统智能终端项目；这些上市公司终止收购计划](https://www.tmtpost.com/7123025.html)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华社快讯：马拉维总统和内阁办公室10日发布消息说，马拉维副总统奇利马当天搭乘的飞机失联](http://www.news.cn/20240611/f0fa97f92da944bf9ab1d354907a8906/c.html)|
+||[土耳其竞争委员会对谷歌处以罚款](http://www.news.cn/20240610/9b2ccb4d4554484694a8584c2975e4a8/c.html)|
+||[新华时评｜众望所归的时代倡议——设立文明对话国际日的时代意义系列评论之一](http://www.news.cn/20240610/81b36ae1af2f4e28ab1499744da90677/c.html)|
+||[全国龙舟、独竹漂比赛在贵州开赛](http://www.news.cn/20240610/cebb94eeac3b44c8b1a14b553b44365f/c.html)|
+||[微视频｜总书记看望过的三户人家的新生活](http://www.news.cn/20240610/c3d9f4898a444f219d600106310e7031/c.html)|
+||[香港大澳举办龙舟游涌活动迎端午](http://www.news.cn/20240610/0bc9b48805bc4f5aae324bc600beb766/c.html)|
+||[粽韵飘香赛龙夺锦——澳门端午集锦](http://www.news.cn/20240610/936c3b998d7a49f5b1a1a05a041f6ff4/c.html)|
+||[王毅会见俄罗斯外长拉夫罗夫](http://www.news.cn/20240610/43c24233bca64659ac5725d4b59c0038/c.html)|
+||[王毅出席金砖国家外长会晤](http://www.news.cn/20240610/cc615c82472c473293ac7a0b2050611d/c.html)|
+||[挥桨争流度佳节——台湾各地端午龙舟赛扫描](http://www.news.cn/20240610/8d880d82648d4f8985a3d1357fb1338b/c.html)|
+||[“非遗+”焕新出圈 文旅消费释放新活力](http://www.news.cn/20240610/28f15a1e0d83413890fcd0cf86efd781/c.html)|
+||[新华全媒+丨缅怀·传承·弘扬——多地端午节庆活动扫描](http://www.news.cn/20240610/1c11face12e2499aa99d7d139d5d4595/c.html)|
+||[共话中国经济新机遇｜中吉乌铁路将为地区互联互通开辟新通途](http://www.news.cn/20240610/f6d5ad270eab4e2c8966dd98e8db5e57/c.html)|
+||[王毅会见伊朗代外长巴盖里](http://www.news.cn/20240610/3833812376904c58a183c47c12bbb894/c.html)|
+||[2024年高考落幕：崭新开始 无限可能](http://www.news.cn/20240610/4b7334140d804b62aa6b2153dffd60dc/c.html)|
+||[香港举办无人机表演庆端午](http://www.news.cn/20240610/fb54f2acae014c2d94ac464cdd535485/c.html)|
+||[共话中国经济新机遇｜俄滨海边疆区积极发展对华合作](http://www.news.cn/20240610/adae330691f14ee7a9253aee0d29c77a/c.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[pixijs 中 用mousemove 跟新Sprite位置和大小信息，app内的ticker跟新有问题?](https://segmentfault.com/q/1010000044952864)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[为什么说现今高考往往就是一考定终身了？](https://www.zhihu.com/question/658381443/answer/3526378213)|
+||[如何评价Apple WWDC24，有哪些看点值得关注？](https://www.zhihu.com/question/658577702/answer/3526259408)|
+||[中东问题专家殷罡因突发心梗去世，如何看待其学术成就？](https://www.zhihu.com/question/658563995/answer/3526356725)|
+||[中国博主欧冠决赛后被皇马球迷种族歧视后续，已得到涉事球迷父亲道歉，如何评价这份回应？](https://www.zhihu.com/question/658550049/answer/3526355440)|
+||[U19国青2-0韩国U19夺四国赛冠军，刘诚宇梅开二度，如何评价本场比赛？](https://www.zhihu.com/question/658576152/answer/3526344654)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果宣布推出Apple Intelligence生成式人工智能产品](https://m.cnbeta.com.tw/view/1434270.htm)|
+||[14年后 苹果终于推出iPad原生计算器应用](https://m.cnbeta.com.tw/view/1434269.htm)|
+||[苹果发布macOS Sequoia 加入iPhone镜像功能和新密码应用](https://m.cnbeta.com.tw/view/1434268.htm)|
+||[苹果发布iPadOS 18 新增计算器应用等功能](https://m.cnbeta.com.tw/view/1434267.htm)|
+||[苹果发布watchOS 11 新增健康统计和训练模式](https://m.cnbeta.com.tw/view/1434266.htm)|
+||[OpenAI聘请前Nextdoor CEO担任首席财务官 并任命新的产品主管](https://m.cnbeta.com.tw/view/1434265.htm)|
+||[苹果为AirPods加入头部动作识别功能：点头接听来电 摇头挂断](https://m.cnbeta.com.tw/view/1434264.htm)|
+||[苹果公司终于将 RCS 引入 iPhone](https://m.cnbeta.com.tw/view/1434263.htm)|
+||[微软降低Copilot Pro的吸引力 移除ChatGPT的GPT Builder](https://m.cnbeta.com.tw/view/1434262.htm)|
+|[蓝点网](https://www.landiannews.com/feed)|[苹果推出AI功能「苹果智能」支持多种AI功能和操作 但仅支持最新款iPhone](https://www.landiannews.com/archives/104409.html)|
+||[苹果重新设计iOS 18的控制中心 支持不同类别的控制中心并支持第三方应用](https://www.landiannews.com/archives/104408.html)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[美国周末发生多起大规模枪击事件，已致5死34伤](https://m.thepaper.cn/detail/27690006)|
+||[U19男足四国赛：中国队2:0击败韩国夺冠](https://m.thepaper.cn/detail/27690002)|
+||[丁宁当选亚奥理事会运动员委员会主席](https://m.thepaper.cn/detail/27689996)|
+||[马拉维副总统搭乘的飞机失联，搜寻仍在进行](https://m.thepaper.cn/detail/27689995)|
+||[中国工会代表当选国际劳工组织工人正理事](https://m.thepaper.cn/detail/27689992)|
+||[沈阳通报“榴莲商贩缺斤短两”：退还钱款，取消该商贩在市场经营资质](https://m.thepaper.cn/detail/27689949)|
+||[上海持续优化文旅场所开放服务，3000余家文旅场所免预约](https://m.thepaper.cn/detail/27689948)|
+||[云南香格里拉上演马背上的“速度与激情”](https://m.thepaper.cn/detail/27689940)|
+||[全国各地高考结束，这些信息值得考生关注](https://m.thepaper.cn/detail/27689925)|
+||[王毅会见伊朗代外长巴盖里](https://m.thepaper.cn/detail/27689946)|
+||[专家评北京高考生物卷：稳中求新，做好学科教育的“加减法”](https://m.thepaper.cn/detail/27689927)|
+|[JerryQu 的博客](https://imququ.com/rss.html)|[2024 上半年我买了啥](https://imququ.com/post/good-things-2024h1.html)|
 |[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[港中大研发手机应用协助评估抑郁症](https://www.zaobao.com/realtime/china/story20240610-3889352)|
 |[V2EX](http://www.v2ex.com/index.xml)|[ Apple MacOS 添加了 iPhone Mirroring 功能 多屏协同 掏空鸿蒙！](https://www.v2ex.com/t/1048351#reply7)|
 ||[ Apple vision pro 6 月 28 号中国上市](https://www.v2ex.com/t/1048348#reply1)|
