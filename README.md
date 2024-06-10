@@ -2,6 +2,75 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[港中大研发手机应用协助评估抑郁症](https://www.zaobao.com/realtime/china/story20240610-3889352)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Apple MacOS 添加了 iPhone Mirroring 功能 多屏协同 掏空鸿蒙！](https://www.v2ex.com/t/1048351#reply7)|
+||[ Apple vision pro 6 月 28 号中国上市](https://www.v2ex.com/t/1048348#reply1)|
+||[ 问与答 Gist 放一些私有的东西安全吗？比如 clash 的配置文件。](https://www.v2ex.com/t/1048346#reply2)|
+||[ 宽带症候群 打算家里使用奶昔机场，但是问题是， 1000 多的价格只限制 2 设备怎么解决，我要扔路由器里](https://www.v2ex.com/t/1048345#reply6)|
+||[ 分享创造 添加电影票/演唱会票/门票/行程票... 到 Apple Wallet 中（ Swift Version）](https://www.v2ex.com/t/1048344#reply1)|
+||[ 分享创造 写了个 “Random” 相关的聚合导航网站， random everything](https://www.v2ex.com/t/1048343#reply1)|
+||[ Docker 也好，不要用国内的 docker 源了，不靠谱](https://www.v2ex.com/t/1048342#reply1)|
+||[ 问与答 巴斯夫 E27 灯泡 4000k，从京东的三个不同的网店分别下单，到货以后，我乐了，绷不住了。](https://www.v2ex.com/t/1048339#reply8)|
+||[ 问与答 闲鱼上便宜一半的硬盘有什么猫腻吗](https://www.v2ex.com/t/1048338#reply5)|
+||[ 问与答 家里长辈需要台电脑看股市，求推荐台 amd 的主机](https://www.v2ex.com/t/1048336#reply4)|
+||[ 分享发现 闭鱼骗钱的真的不少吗？](https://www.v2ex.com/t/1048335#reply6)|
+||[ 问与答 有没有变白的方法？虽然都说男人黑点没什么，但是看到自己美颜后，皮肤白了两个档次后确实顺眼了很多。所以有没有变白的方案，医美或者美白产品有靠谱的方案吗？还是说美白都是智商税。](https://www.v2ex.com/t/1048334#reply5)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[《楚辞》，心中永远的清流](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E3%80%8A%E6%A5%9A%E8%BE%9E%E3%80%8B%EF%BC%8C%E5%BF%83%E4%B8%AD%E6%B0%B8%E8%BF%9C%E7%9A%84%E6%B8%85%E6%B5%81)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[2015只“生态杀手”引发的诉讼，中国首例](https://www.infzm.com/contents/273117)|
+||[河南已经被热“红”了](https://www.infzm.com/contents/273128)|
+||[郭有才与“郭有才”们](https://www.infzm.com/contents/273126)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[想折腾一下 Linux ,请大家推荐个桌面发行版。](https://www.v2ex.com/t/1048210#reply75)|
+||[这两天火星了一件事， Android 不喜欢 fork /exec ](https://www.v2ex.com/t/1048280#reply8)|
+||[j1800 跑虚拟机够用吗](https://www.v2ex.com/t/1048220#reply31)|
+||[接口防重放 是不是存粹的脱了裤子放屁？](https://www.v2ex.com/t/1048255#reply25)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[苹果发布iOS 18 带来更多定制选项及面对面支付功能](https://m.cnbeta.com.tw/view/1434261.htm)|
+||[苹果推出 VisionOS 2 进一步深化"沉浸式体验"](https://m.cnbeta.com.tw/view/1434259.htm)|
+||[苹果终于在美国以外地区推出Vision Pro 包括中国](https://m.cnbeta.com.tw/view/1434260.htm)|
+||[苹果商店在 WWDC 2024主题演讲开场前暂停服务](https://m.cnbeta.com.tw/view/1434258.htm)|
+||[iPhone Fold 的设计可能类似于华为Mate Xs 2](https://m.cnbeta.com.tw/view/1434256.htm)|
+||[英国和加拿大监管部门正在调查 23andMe 数据泄露事件](https://m.cnbeta.com.tw/view/1434255.htm)|
+||[Raspberry Pi 的首次公开募股已获得多倍超额认购](https://m.cnbeta.com.tw/view/1434254.htm)|
+||[美国市场一些电动汽车现在比普通汽油车更实惠](https://m.cnbeta.com.tw/view/1434253.htm)|
+||[英特尔称誓要通过面向客户的开放生态系统巩固其与NVIDIA的竞争地位](https://m.cnbeta.com.tw/view/1434250.htm)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[有没有超励志的句子？](https://www.zhihu.com/question/658510076/answer/3526314884)|
+||[2024年，高考临床医学还值得报考吗?](https://www.zhihu.com/question/658097190/answer/3526307461)|
+||[能不能在孩子面前说，这个东西太贵了，不划算，我们去网上买？](https://www.zhihu.com/question/658295562/answer/3526296777)|
+||[女子称邻居点蚊香致全家集体中毒，蚊香有小孩胳膊粗，具体情况如何？日常使用蚊香对人体有危害吗？](https://www.zhihu.com/question/658563457/answer/3526083650)|
+||[如何让自己的心情好起来呢？](https://www.zhihu.com/question/655943290/answer/3526286442)|
+||[公司让我向部门员工传达信息，他们总是不理解，该怎么办？](https://www.zhihu.com/question/658347722/answer/3526257403)|
+||[实木家具有味道是甲醛吗？哪些品牌的家具比较安全？](https://www.zhihu.com/question/658001766/answer/3526256077)|
+||[当年高考还记得爸妈在考场外等待的场景么？](https://www.zhihu.com/question/658381322/answer/3526211489)|
+||[理想汽车CEO李想说上次大裁员，因为不需要养几千人研究corner case，你怎么看?](https://www.zhihu.com/question/658535849/answer/3526208147)|
+||[中东问题专家殷罡因突发心梗去世，如何看待其学术成就？](https://www.zhihu.com/question/658563995/answer/3526029139)|
+||[2024 LPL 夏季赛BLG 2:0 LGD，如何评价这场比赛？](https://www.zhihu.com/question/658570633/answer/3526195331)|
+|[蓝点网](https://www.landiannews.com/feed)|[iOS 18支持对任意应用加锁需额外验证 同时还可以隐藏某些应用程序](https://www.landiannews.com/archives/104407.html)|
+||[神似安卓：苹果在iOS 18中改进屏幕主页 图标支持任意排序和调整任意颜色](https://www.landiannews.com/archives/104406.html)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[大气二氧化碳水平比以往任何时候更快上升](https://www.solidot.org/story?sid=78397)|
+||[大模型没有幻觉，它只是喜欢胡说八道](https://www.solidot.org/story?sid=78396)|
+||[Linux nftables 漏洞正被活跃利用](https://www.solidot.org/story?sid=78395)|
+|[IT之家](https://www.ithome.com/rss/)|[今年秋季上线，苹果确认 iOS 18 将支持 RCS / 5G 消息](https://www.ithome.com/0/774/328.htm)|
+||[苹果 macOS 15 Sequoia 发布：全新 iPhone 镜像功能，独立密码应用等](https://www.ithome.com/0/774/327.htm)|
+||[苹果 iOS / iPadOS 18、macOS 15 等新系统开发者测试版今日发布，公开预览版下月推送](https://www.ithome.com/0/774/326.htm)|
+||[苹果 iPadOS 18 发布：定制主屏幕，初代发布至今 14 年自带计算器终于登场](https://www.ithome.com/0/774/325.htm)|
+||[苹果 watchOS 11 发布：新增“训练负荷”功能，推出全新健康数据应用“活力”](https://www.ithome.com/0/774/324.htm)|
+||[苹果 tvOS 18 发布：引入 InSight、扩充“增强对话”、新增史努比屏保等](https://www.ithome.com/0/774/323.htm)|
+||[苹果 iOS 18 引入游戏模式，欲将 iPhone 打造成“游戏机”](https://www.ithome.com/0/774/322.htm)|
+||[点头 Yes 摇头 No：苹果宣布为 AirPods Pro 带来更多头部手势，《极品飞车手游》首发支持个性化空间音频](https://www.ithome.com/0/774/321.htm)|
+||[苹果 iOS 18 正式发布：主屏幕自定义，控制中心改版，卫星短信等重磅功能来袭](https://www.ithome.com/0/774/320.htm)|
+||[EOS R7 + 双摄相机镜头可拍 3D 视频，苹果佳能合作共建“空间视频”生态](https://www.ithome.com/0/774/318.htm)|
+||[苹果 iOS 18 拥抱个性化：像 2008 年以来安卓系统一样定制主屏幕](https://www.ithome.com/0/774/317.htm)|
+||[苹果 Apple Vision Pro 官宣 6 月 28 日登陆中国等市场](https://www.ithome.com/0/774/316.htm)|
+||[苹果 visionOS 2 发布：改进 Mac 虚拟屏，旅行模式支持火车](https://www.ithome.com/0/774/315.htm)|
+||[7 月 2 日上架，《生化危机 7》游戏将登陆 iPhone 15 Pro / Max，以及 M 系列 iPad / Mac](https://www.ithome.com/0/774/314.htm)|
+||[满足 5G 消息需求，新文件确认苹果 iPhone 支持 2.4 版 RCS 标准](https://www.ithome.com/0/774/313.htm)|
+||[iOS 18、Apple Intelligence 等即将亮相，苹果在线商店下线维护](https://www.ithome.com/0/774/312.htm)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[“屎到临头”，留学韩国撞上朝鲜垃圾气球](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E2%80%9C%E5%B1%8E%E5%88%B0%E4%B8%B4%E5%A4%B4%E2%80%9D%EF%BC%8C%E7%95%99%E5%AD%A6%E9%9F%A9%E5%9B%BD%E6%92%9E%E4%B8%8A%E6%9C%9D%E9%B2%9C%E5%9E%83%E5%9C%BE%E6%B0%94%E7%90%83)|
+||[AI总结性产品是不是鸡肋？](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+AI%E6%80%BB%E7%BB%93%E6%80%A7%E4%BA%A7%E5%93%81%E6%98%AF%E4%B8%8D%E6%98%AF%E9%B8%A1%E8%82%8B%EF%BC%9F)|
+||[去奥森跑步的年轻人，被班味儿呛到](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E5%8E%BB%E5%A5%A5%E6%A3%AE%E8%B7%91%E6%AD%A5%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%8C%E8%A2%AB%E7%8F%AD%E5%91%B3%E5%84%BF%E5%91%9B%E5%88%B0)|
+||[躺平之后的我缺席了高考，妈妈进了灵修班](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E8%BA%BA%E5%B9%B3%E4%B9%8B%E5%90%8E%E7%9A%84%E6%88%91%E7%BC%BA%E5%B8%AD%E4%BA%86%E9%AB%98%E8%80%83%EF%BC%8C%E5%A6%88%E5%A6%88%E8%BF%9B%E4%BA%86%E7%81%B5%E4%BF%AE%E7%8F%AD)|
+||[这个千元T恤品牌，年赚9亿](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E8%BF%99%E4%B8%AA%E5%8D%83%E5%85%83T%E6%81%A4%E5%93%81%E7%89%8C%EF%BC%8C%E5%B9%B4%E8%B5%9A9%E4%BA%BF)|
+|[马小帮](https://www.maxiaobang.com/feed)|[植物大战僵尸外挂辅助工具！v3.1，自动收集资源，玩的更爽！](https://www.maxiaobang.com/17521.html)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[FlutterWidget-ThemeData主题-Jinkey](https://juejin.cn/post/7378352842115203123)|
 |[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[布林肯出访中东促停火 称以色列已接受新停火协议](https://www.zaobao.com/realtime/world/story20240610-3894544)|
 ||[欧洲议会选举中惨败 朔尔茨：不会提前举行选举](https://www.zaobao.com/realtime/world/story20240610-3894252)|
 ||[欧盟预计本周公布对中国电动车征收的关税](https://www.zaobao.com/realtime/world/story20240610-3893999)|
