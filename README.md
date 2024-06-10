@@ -2,6 +2,51 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 哔哩哔哩 很奇怪，近期 B 站审核尺度有明显放宽](https://www.v2ex.com/t/1048326#reply1)|
+||[ 汽车 汽车前挡玻璃 这种污渍如何除去](https://www.v2ex.com/t/1048311#reply3)|
+||[ 程序员 独立开发周记 69：日下载量从 8000 暴跌到 800](https://www.v2ex.com/t/1048309#reply5)|
+||[ Apple 海鲜市场 200 一支的 pencil 一代靠谱吗？](https://www.v2ex.com/t/1048308#reply1)|
+||[ 程序员 求大佬相助 wvp 项目](https://www.v2ex.com/t/1048305#reply2)|
+||[ 问与答 开发 AirPlay 应用，需要苹果授权吗？](https://www.v2ex.com/t/1048303#reply1)|
+||[ 编程 如何找到编程的乐趣呢，想听听 V 友们的想法](https://www.v2ex.com/t/1048302#reply2)|
+||[ 问与答 话说 V2EX 哪个节点人最多呢 ?](https://www.v2ex.com/t/1048300#reply4)|
+||[ 问与答 WeChat 搜索有生成式 AI 功能了？](https://www.v2ex.com/t/1048298#reply1)|
+||[ git master 分支包含未开发完成的功能，线上版本出现严重 bug 需要修复，你们一般在 master 分支还是 prod 分支上创建 hotfix 分支？能详细说下为什么吗](https://www.v2ex.com/t/1048297#reply12)|
+||[ 程序员 工作选择疑惑](https://www.v2ex.com/t/1048296#reply4)|
+||[ 生活 我是不是请了个“仇富”的钟点工阿姨？](https://www.v2ex.com/t/1048293#reply26)|
+||[ 职场话题 破防了， jym，为什么那种 0-20 人的小公司也要求统招计算机](https://www.v2ex.com/t/1048292#reply23)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息人士再度确认iOS 18将兼容这些iPhone机型](https://m.cnbeta.com.tw/view/1434227.htm)|
+||[iPadOS 18 将放弃对这些 iPad 型号的支持](https://m.cnbeta.com.tw/view/1434226.htm)|
+||[自主海洋垃圾吞噬船Clearbot现在也能对付入侵杂草](https://m.cnbeta.com.tw/view/1434225.htm)|
+||[HMD Atlas泄露：配备SD 4 Gen 2和5500mAh电池的5G中端手机](https://m.cnbeta.com.tw/view/1434224.htm)|
+||[韩国罕见展出500年前王室印玺 乌龟造型被称国宝](https://m.cnbeta.com.tw/view/1434223.htm)|
+||[消息称华为Mate 70系列最快10月登场：首发纯血鸿蒙](https://m.cnbeta.com.tw/view/1434222.htm)|
+||[华为澄清：未有投资柔宇科技的计划](https://m.cnbeta.com.tw/view/1434221.htm)|
+||[折叠屏手机全球出货量数据：国产厂商销量激增 华为与荣耀领跑](https://m.cnbeta.com.tw/view/1434220.htm)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[刘姝威再谈柔宇科技：曾拒绝华为投资，错失拯救公司的机会](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E5%88%98%E5%A7%9D%E5%A8%81%E5%86%8D%E8%B0%88%E6%9F%94%E5%AE%87%E7%A7%91%E6%8A%80%EF%BC%9A%E6%9B%BE%E6%8B%92%E7%BB%9D%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%B5%84%EF%BC%8C%E9%94%99%E5%A4%B1%E6%8B%AF%E6%95%91%E5%85%AC%E5%8F%B8%E7%9A%84%E6%9C%BA%E4%BC%9A)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 69：日下载量从 8000 暴跌到 800](https://w2solo.com/topics/4684)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取游戏 Beautiful Lands Windows $5→0 ](https://free.apprcn.com/get-game-beautiful-lands-for-free/)|
+|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[老龄化、生育率、家庭关系……“东亚”为何格外受关注？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%80%81%E9%BE%84%E5%8C%96%E3%80%81%E7%94%9F%E8%82%B2%E7%8E%87%E3%80%81%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB%E2%80%A6%E2%80%A6%E2%80%9C%E4%B8%9C%E4%BA%9A%E2%80%9D%E4%B8%BA%E4%BD%95%E6%A0%BC%E5%A4%96%E5%8F%97%E5%85%B3%E6%B3%A8%EF%BC%9F)|
+||[谢天谢地，我的孩子没有“口音羞耻”](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%B0%A2%E5%A4%A9%E8%B0%A2%E5%9C%B0%EF%BC%8C%E6%88%91%E7%9A%84%E5%AD%A9%E5%AD%90%E6%B2%A1%E6%9C%89%E2%80%9C%E5%8F%A3%E9%9F%B3%E7%BE%9E%E8%80%BB%E2%80%9D)|
+||[当代年轻人为何爱上了抬头“观鸟”？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E4%BA%86%E6%8A%AC%E5%A4%B4%E2%80%9C%E8%A7%82%E9%B8%9F%E2%80%9D%EF%BC%9F)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[偶像的黄昏](https://www.huxiu.com/article/3122159.html?f=rss)|
+||[中国高考第一大省，到底有多卷？](https://www.huxiu.com/article/3122160.html?f=rss)|
+|[IT之家](https://www.ithome.com/rss/)|[每天可处理 5600 吨原油，亚洲首艘圆筒型浮式生产储卸油装置“海葵一号”完成安装](https://www.ithome.com/0/774/307.htm)|
+||[诺基亚公布世界上首个“沉浸式 3D 语音通信”技术，打电话也能“空间音频”](https://www.ithome.com/0/774/305.htm)|
+||[为避免欧盟关税影响，沃尔沃 EX30、EX90 车型被曝由中国转产比利时](https://www.ithome.com/0/774/304.htm)|
+||[并未放弃英特尔芯片，苹果 macOS 15 系统硬件要求曝光](https://www.ithome.com/0/774/303.htm)|
+||[三星 Galaxy Watch 7 系列手表通过印度 BIS 认证，将提供 4 种型号](https://www.ithome.com/0/774/302.htm)|
+||[BiliBiliWorld 2024 定档 7 月 12 日 - 14 日举行，《暗喻幻想》《影之刃零》等游戏亮相](https://www.ithome.com/0/774/301.htm)|
+||[124 元起，游戏《极限竞速：地平线 5》Steam 国区迎 5 折史低](https://www.ithome.com/0/774/300.htm)|
+||[纽约时报 GitHub 存储库凭据泄露，黑客窃走 270GB 内部机密 IT 文件](https://www.ithome.com/0/774/299.htm)|
+||[超百万人预约，《黑神话：悟空》PC 实体豪华 / 收藏版首批预售“秒罄”](https://www.ithome.com/0/774/298.htm)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[“李老师不是你老师”：从一名普通留学生到中国网络审查者的劲敌](https://www.bbc.com/zhongwen/simp/chinese-news-69105862)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[24年4月全球运力统计数据（Alphaliner）](http://xueqiu.com/3638220949/293222604)|
+||[怎么理解港股医药的持续低迷？](http://xueqiu.com/3770558188/293224211)|
+||[A股投资生态发生重大变化](http://xueqiu.com/9742512811/293226912)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在小程序中模拟Vite的 import.meta.glob特性？](https://segmentfault.com/q/1010000044952755)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[英伟达股价20个月涨10倍 苹果+微软+英伟达三家公司市值=整个A股](https://m.cnbeta.com.tw/view/1434234.htm)|
+||[诺基亚CEO打通全球首个“身临其境”的高音质电话](https://m.cnbeta.com.tw/view/1434233.htm)|
 |[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中科院内设机构调整：新设前沿科学与基础研究局等](https://www.zaobao.com/realtime/china/story20240610-3886869)|
 ||[台湾18岁男性平均身高下降1.2公分](https://www.zaobao.com/realtime/china/story20240610-3892085)|
 ||[上海港完成首次散装船LNG锚地加注作业](https://www.zaobao.com/realtime/china/story20240610-3892391)|
