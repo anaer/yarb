@@ -2,6 +2,192 @@
 
 |来源|标题|
 |---|---|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[经验分享＿苹果与安卓哪个更适合独立开发](https://www.v2ex.com/t/1048475#reply8)|
+||[学习 AI 开发的第一天，大家一起来学习！](https://www.v2ex.com/t/1048599#reply3)|
+||[自己用 postfix mailu 搭建的邮件服务器，怎么避免发出的邮件进入 gmail 垃圾箱](https://www.v2ex.com/t/1048606#reply1)|
+||[请教 web3 开发相关事情](https://www.v2ex.com/t/1048431#reply33)|
+||[大家是否在本地环境安装数据库服务](https://www.v2ex.com/t/1048388#reply55)|
+||[最近在绿联 4800Plus、群晖 DS224+、DS423+三个里很纠结不知道选哪个，求指导。](https://www.v2ex.com/t/1048528#reply31)|
+||[安卓平板如何通过有线连接至随身 WiFi（Type-C 口）？](https://www.v2ex.com/t/1048588#reply2)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[北京最大电竞中心即将亮相](https://www.36kr.com/newsflashes/2814913383729416)|
+||[贵州茅台：已注意到股价波动，会实时关注产品市场价变化](https://www.36kr.com/newsflashes/2814908032387591)|
+||[现代汽车印度子公司据悉计划6月在印申请IPO](https://www.36kr.com/newsflashes/2814896087910657)|
+||[小鹏汽车：MONA系列首款产品命名“小鹏M03”](https://www.36kr.com/newsflashes/2814886384060936)|
+||[新加坡加大力度整顿家族理财室、避险基金](https://www.36kr.com/newsflashes/2814881877215745)|
+||[香港恒生指数午间休盘跌1.67%，恒生科技指数跌1.24%](https://www.36kr.com/newsflashes/2814881561201154)|
+||[中科通量完成RISC-V等多个架构信创芯片的产品兼容性认证](https://www.36kr.com/newsflashes/2814868455475460)|
+||[小米提交8个折叠屏相关商标申请](https://www.36kr.com/newsflashes/2814860252416513)|
+||[《魔兽世界》服务器短暂宕机离线，目前已重启完成](https://www.36kr.com/newsflashes/2814856952941063)|
+||[A股三大指数午间休盘集体下跌，半导体产业链逆势走强](https://www.36kr.com/newsflashes/2814848384616712)|
+||[礼来阿尔茨海默病新药赢得FDA独立顾问组支持](https://www.36kr.com/newsflashes/2814836612450560)|
+||[日本国土交通省将对违规操作的车企进行行政处罚](https://www.36kr.com/newsflashes/2814827291887877)|
+||[端午节期间575.2万人次出入境，最高峰出现在6月8日](https://www.36kr.com/newsflashes/2814824678754567)|
+||[科创50指数涨超1%，半导体产业链持续拉升](https://www.36kr.com/newsflashes/2814824186841352)|
+||[万有引力：JX007芯片流片成功并点亮，已与某XR头部企业达成合作项目](https://www.36kr.com/newsflashes/2814823615318528)|
+||[茅台批价持续下跌，旗下“巽风酒”将暂停数字藏品合成行权](https://www.36kr.com/newsflashes/2814819905325320)|
+||[杭州：2024年“3+N”杭州产业基金集群新增基金规模400亿元](https://www.36kr.com/newsflashes/2814819075623424)|
+||[杭州：2024—2027年每年设立总额2.5亿元“算力券”](https://www.36kr.com/newsflashes/2814818736032258)|
+||[恒指、恒生科技指数均跌超2%](https://www.36kr.com/newsflashes/2814792735836417)|
+||[全国铁路1-5月完成固定资产投资2284.7亿元，同比增长10.8%](https://www.36kr.com/newsflashes/2814788383967752)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[大熊猫能“拯救”中美关系吗](https://cn.nytimes.com/opinion/20240611/panda-china-us-zoo/dual)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[大熊猫能“拯救”中美关系吗](https://cn.nytimes.com/opinion/20240611/panda-china-us-zoo/)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国电动汽车生产商股价下跌，投资者担心更多国家加征关税](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E4%BA%A7%E5%95%86%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%85%E5%BF%83%E6%9B%B4%E5%A4%9A%E5%9B%BD%E5%AE%B6%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E-c27af095)|
+||[揭秘高风险初创企业获取巨额融资的“捷径”](https://cn.wsj.com/amp/articles/%E6%8F%AD%E7%A7%98%E9%AB%98%E9%A3%8E%E9%99%A9%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E8%8E%B7%E5%8F%96%E5%B7%A8%E9%A2%9D%E8%9E%8D%E8%B5%84%E7%9A%84-%E6%8D%B7%E5%BE%84-0752732d)|
+|[界面](https://plink.anyfeeder.com/weixin/wowjiemian)|[民政部通报中华儿慈会有关问题调查处理情况](http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E6%B0%91%E6%94%BF%E9%83%A8%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%8D%8E%E5%84%BF%E6%85%88%E4%BC%9A%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5)|
+|[V2EX](https://v2ex.com/index.xml)|[ 创业组队 有无一起做项目的 V 友，远程/本地均可。](https://www.v2ex.com/t/1048613#reply1)|
+||[ iPhone 新的控制中心的添加快捷指令功能如何使用?](https://www.v2ex.com/t/1048612#reply2)|
+||[ 分享发现 京东养车按个行车记录仪要求拍车架号和仪表盘](https://www.v2ex.com/t/1048610#reply2)|
+||[ Apple tvos 18 更新后遇到的问题分享](https://www.v2ex.com/t/1048609#reply1)|
+|[三联生活周刊](https://plink.anyfeeder.com/weixin/lifeweek)|[25岁，我开始“假装”有工作](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+25%E5%B2%81%EF%BC%8C%E6%88%91%E5%BC%80%E5%A7%8B%E2%80%9C%E5%81%87%E8%A3%85%E2%80%9D%E6%9C%89%E5%B7%A5%E4%BD%9C)|
+||[一个40+女性的20年相亲史](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E4%B8%AA40%2B%E5%A5%B3%E6%80%A7%E7%9A%8420%E5%B9%B4%E7%9B%B8%E4%BA%B2%E5%8F%B2)|
+||[彝族妈妈，不用走出大山](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%BD%9D%E6%97%8F%E5%A6%88%E5%A6%88%EF%BC%8C%E4%B8%8D%E7%94%A8%E8%B5%B0%E5%87%BA%E5%A4%A7%E5%B1%B1)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Steam 游戏 City Siege: Faction Island Windows ](https://free.apprcn.com/get-steam-game-city-siege-faction-island-for-free/)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[比海底捞出道还早的呷哺呷哺，被凑凑拖垮了？](http://www.huxiu.com/article/3124433.html?f=wangzhan)|
+|[少数派](https://sspai.com/feed)|[认清需求再下手，面向大众的 NAS 选购与折腾指南](https://sspai.com/post/89214)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[硅谷投资人：明天的计算机就是今天的新闻学](https://www.tmtpost.com/7123984.html)|
+||[德翔海运：业绩断崖式下滑，毛利率“血崩”，依旧现金分红4亿美元｜IPO观察](https://www.tmtpost.com/7123662.html)|
+||[21世纪什么最贵？人才！ 钛赞了视频周榜第144期](https://www.tmtpost.com/7123806.html)|
+||[6月11日A股分析：三大指数涨跌不一，两市合计成交7029.28亿元，资金流入最多的行业板块为半导体、电子元件](https://www.tmtpost.com/7123894.html)|
+||[世界真的变了](https://www.tmtpost.com/7123330.html)|
+||[安踏定向“收割”新中产？](https://www.tmtpost.com/7123594.html)|
+||[一个灵感值一亿，AI硬件会是2024年的财富密码吗？](https://www.tmtpost.com/7123822.html)|
+||[“文旅+游戏”，何以出位不出圈？](https://www.tmtpost.com/7123839.html)|
+||[Apple Partners With OpenAI During Launching New Artificial Intelligence System](https://www.tmtpost.com/7123850.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[iOS 18带来了大量新壁纸 现在已经可以下载它们了](https://m.cnbeta.com.tw/view/1434326.htm)|
+||[小米提交8个折叠屏相关商标申请：小米大折、小米小折都来了](https://m.cnbeta.com.tw/view/1434324.htm)|
+||[大众进军入门级电车市场 ID.2将于年底亮相 售价2.7万美元](https://m.cnbeta.com.tw/view/1434323.htm)|
+||[国产AI大模型高考成绩单出炉：讯飞星火获得综合第一](https://m.cnbeta.com.tw/view/1434322.htm)|
+||[苹果AI被指缺乏“杀手级功能” 供应商股价集体下跌](https://m.cnbeta.com.tw/view/1434321.htm)|
+||[德国专家劝说台积电：给德厂员工开两倍工资](https://m.cnbeta.com.tw/view/1434320.htm)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[高考结束了，是去旅游还是打工好？](https://www.zhihu.com/question/658532903/answer/3526954258)|
+||[拒绝被家务内耗，有哪些清洁技巧或者家务神器值得入手？](https://www.zhihu.com/question/655160354/answer/3526953313)|
+||[为什么说西方偷了《永乐大典》才发生工业革命？](https://www.zhihu.com/question/619099369/answer/3526926775)|
+||[开始上班后，我该怎么提高自己的决策能力？](https://www.zhihu.com/question/657945047/answer/3526917385)|
+||[职场中不能与同事交朋友的言论是不是太极端了?](https://www.zhihu.com/question/657966001/answer/3526916860)|
+||[上海 12 岁小孩哥参加高考，初中生如何才能拿到「高考体验券」？你支持孩子尽早体验高考吗？](https://www.zhihu.com/question/658567808/answer/3526894270)|
+||[什么样的游戏本配置可以畅玩《黑神话:悟空》?](https://www.zhihu.com/question/658619857/answer/3526811467)|
+||[新手学化妆求指点建议?](https://www.zhihu.com/question/656448014/answer/3526841339)|
+||[移动支付时代，越来越多的孩子不认识钱了，是否会对消费观带来影响？需要警惕哪些问题？](https://www.zhihu.com/question/657954587/answer/3526823580)|
+||[苹果与 OpenAI 合作惹怒马斯克，指责苹果出卖用户数据，真的存在安全风险吗？马斯克为何急了？](https://www.zhihu.com/question/658607099/answer/3526816388)|
+||[孩子马上上小学一年级，性格比较活泼，想法比较多，适合严厉一点的老师吗？](https://www.zhihu.com/question/657897061/answer/3526787707)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[ip api免费接口推荐（速度请说明一下，感谢），有没有不限次数的？](https://segmentfault.com/q/1010000044954652)|
+||[生命周期执行顺序?](https://segmentfault.com/q/1010000044954531)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[架构师（2024 年第二季）](https://www.infoq.cn/article/ELSdXorhp1D738Y03sET)|
+||[复旦邱锡鹏教授讲述MOSS 2 研发进展：如何实现世界模型？](https://www.infoq.cn/article/wpuQwSLaDd8zI7IpQp4J)|
+||[发布即被山寨？字节跳动推出语音生成模型数小时后就被“盗版”，作者直呼离谱！](https://www.infoq.cn/article/40fuFXufgETiAuDu8Ntd)|
+||[Kubernetes十年回顾：从云原生走向AI时代](https://www.infoq.cn/article/pMrR6PFgF9dNWhQNcMrM)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[智界首款轿跑SUV公布，预计售价30-40万元 ｜ 最前线](https://36kr.com/p/2814983921928710?f=rss)|
+||[用药贵、用药难，罕见病患者如何与药企共寻出路？ 行业观察](https://36kr.com/p/2814834825546246?f=rss)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[需求驱动的产品规划：产品经理方法论](https://www.woshipm.com/share/6067892.html)|
+||[如何面对研发人员找你改需求？教你四招巧妙应对！](https://www.woshipm.com/zhichang/6067528.html)|
+||[转型AI产品经理（7）：“格式塔原则”如何应用在Chatbot产品中](https://www.woshipm.com/share/6067138.html)|
+||[当领导说“这个需求明天我就要上线”时，你该怎么办？](https://www.woshipm.com/share/6067840.html)|
+||[一文讲透，SaaS企业产品运营人员沦为打杂工的两大致命问题](https://www.woshipm.com/zhichang/6067604.html)|
+||[6000字长文丨微信读书中4个结合AI能力提升体验的案例分析](https://www.woshipm.com/evaluating/6067639.html)|
+||[关于完整性的思考](https://www.woshipm.com/share/6067650.html)|
+||[利润表原理及设计要点](https://www.woshipm.com/share/6067619.html)|
+||[B2B与B2C商业模式的不同策略和盈利能力](https://www.woshipm.com/share/6067587.html)|
+||[震惊！（AI）烂大街combo会导致的七大风险！](https://www.woshipm.com/share/6067500.html)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[长江上游航道瓶颈现象突出，“五省市论坛”上专家建议提升三峡过闸能力](https://m.thepaper.cn/detail/27693291)|
+||[俄罗斯一架苏-34战机坠毁，机组人员遇难](https://m.thepaper.cn/detail/27693425)|
+||[观债｜5月商业银行发债3155亿元同比增逾46%，TLAC非资本债券首次发行](https://m.thepaper.cn/detail/27686748)|
+||[想象的南方｜作家宥予：植物随随便便就活了，还活得那么狂妄](https://m.thepaper.cn/detail/27645726)|
+||[陈恒评《从中国出发的全球史》｜从反思到行动：当代中国史家的作为与地位](https://m.thepaper.cn/detail/27686637)|
+||[端午“龙舟经济”激发酒店、餐饮等文旅消费新活力](https://m.thepaper.cn/detail/27693107)|
+||[陈奕迅因中暑晕倒下巴缝了三十多针，重庆演唱会延期](https://m.thepaper.cn/detail/27693121)|
+||[端午假期全社会跨区域人员流动量预计超6亿人次](https://m.thepaper.cn/detail/27692848)|
+||[万人说新疆丨吐鲁番木卡姆：丝路乐章传响千年](https://m.thepaper.cn/detail/27631212)|
+||[直播预告 从“新”知识到“新”内容表达](https://m.thepaper.cn/detail/27693104)|
+||[直播预告 漫画乳腺健康](https://m.thepaper.cn/detail/27693081)|
+||[“替父追债被判寻衅滋事案”最新进展：检方因证据不足撤诉，法院准许](https://m.thepaper.cn/detail/27692975)|
+||[欧洲议会选举极右翼收获不大，但对欧盟影响是多方面且长远的](https://m.thepaper.cn/detail/27692950)|
+||[荷兰海军舰载直升机侵权挑衅，国防部：东部战区战机予以外逼驱离](https://m.thepaper.cn/detail/27693105)|
+||[成都青羊一小学被网民细数“三差”，曾有一年仅4名户籍学生报读](https://m.thepaper.cn/detail/27693026)|
+||[全球前瞻｜七国集团峰会本周召开，伊朗总统竞选活动明日开启](https://m.thepaper.cn/detail/27692969)|
+||[时政微周刊丨总书记的一周（6月3日—6月9日）](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7573483370904583965&toc_style_id=feeds_default&track_id=D5E5A564-FC25-4301-B887-A41838F5A88B_739694127927&share_to=wechat)|
+||[鹰潭中院一副院长硕士论文被律师举报，南京大学回应：存在抄袭](https://m.thepaper.cn/detail/27692860)|
+||[日本国土交通省将对违规操作的车企进行行政处罚](https://m.thepaper.cn/detail/27692958)|
+||[避免“无脑刷屏、错失恐惧症”，欧美重拾“笨手机”](https://m.thepaper.cn/detail/27692288)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[苹果公司推出个人智能系统“苹果智能”](http://www.news.cn/20240611/5c776a31cf2d422a889b8b57a25ee125/c.html)|
+||[俄罗斯一架苏-34战机坠毁 机组人员遇难](http://www.news.cn/20240611/1b7e7587f9f64325b0252831084fd366/c.html)|
+||[山西：一群老师“搞”农业 闲置窑洞发新芽](http://www.news.cn/20240611/3b0f5229d3be421c8bd3254cb88bf6e1/c.html)|
+||[我国深水油气田设施安装能力获新突破](http://www.news.cn/20240611/862a68df7cd44fef82f0b1bce0197fef/c.html)|
+||[新华社消息丨联合国教科文组织：跨文化对话对实现可持续未来至关重要](http://www.news.cn/20240611/530e4c6859264ce991de4167e0425ab7/c.html)|
+||[气象专家：印度正经历“持续时间最长热浪”](http://www.news.cn/20240611/88525ad773b249dbb294f08457f7bfa1/c.html)|
+||[新华社消息｜联合国安理会通过决议呼吁在加沙地带实现停火](http://www.news.cn/20240611/d9d7325a170f4a3eb7857e1ae4f9698f/c.html)|
+||[人民币市场汇价（6月11日）](http://www.news.cn/20240611/39381548ea5c4a788509170eeb6c18d7/c.html)|
+||[期待！明天就能见到福宝了](http://www.news.cn/20240611/64260ad6a5e24ad983a6f3a064be9699/c.html)|
+||[中匈文明交流互鉴合作研究中心揭牌](http://www.news.cn/20240611/41b84ce1ab59485fb7bd2eabd9c03f0c/c.html)|
+|[TechNews 科技新報](http://technews.tw/feed/)|[第三隻腳助攻！台泥 5 月營收年增 44% 再創歷史新高](https://finance.technews.tw/2024/06/11/oyak-cimpor/)|
+||[良維5月營收月減2.4%](https://finance.technews.tw/2024/06/11/longwell-6290-202405-financial-report/)|
+||[宣德5月營收月減10.0%](https://finance.technews.tw/2024/06/11/speed-tech-5457-202405-financial-report/)|
+||[台灣供電短缺對半導體企業產生隱憂，CNBC 指對全球將造成影響](https://finance.technews.tw/2024/06/11/taiwans-power-supply-shortage-poses-hidden-worries-to-semiconductor-companies/)|
+||[日月光投控5月營收474.93 億元](https://finance.technews.tw/2024/06/11/aseh-3711-202405-financial-report/)|
+||[宏碁5月營收211.30 億元](https://finance.technews.tw/2024/06/11/acer-2353-202405-financial-report/)|
+||[中環5月營收月減9.8%](https://finance.technews.tw/2024/06/11/cmc-2323-202405-financial-report/)|
+||[歐洲議會右傾，第一槍喊廢 2035 年汽柴油車禁令](https://technews.tw/2024/06/11/european-far-right-politics-plans-to-lift-ban-on-fuel-vehicles/)|
+||[搶攻汰換商機！東元攜西門子在台生產 24KV 無氟潔淨氣體絕緣開關設備](https://finance.technews.tw/2024/06/11/24kv/)|
+||[奇景光電全數認購上詮私募，整合雙方晶圓級奈米光學與共同封裝光學](https://finance.technews.tw/2024/06/11/himax-fully-subscribes-to-foci-private-placement/)|
+||[AI 行情熱，美「百萬富翁」去年激增 50 萬人](https://finance.technews.tw/2024/06/11/ai-stocks-add-500000-millionaires-in-the-us/)|
+||[仁寶5月營收月增0.0%](https://finance.technews.tw/2024/06/11/compal-2324-202405-financial-report/)|
+||[記憶體堆疊路線卡死！三星：16 層以上 HBM 需採 Hybrid bonding](https://technews.tw/2024/06/11/samsung-hbm-16h-hybrid-bonding/)|
+||[嘉晶5月營收月增3.5%](https://finance.technews.tw/2024/06/11/epi-3016-202405-financial-report/)|
+||[台達電5月營收月增4.6%](https://finance.technews.tw/2024/06/11/delta-2308-202405-financial-report/)|
+||[「人間煉獄」要用在哪？美印太司令：台灣海峽](https://technews.tw/2024/06/11/new-indopacom-chief-wants-to-use-hellscape-in-taiwan-strait/)|
+||[星星電力成台灣大哥大最大綠電供應商，共同成立綠能平台](https://technews.tw/2024/06/11/hdre-twm-green-energy/)|
+||[世芯-KY5月營收月增9.0%](https://finance.technews.tw/2024/06/11/alchip-3661-202405-financial-report/)|
+|[央视新闻](https://plink.anyfeeder.com/weixin/cctvnewscenter)|[他们为何被称为“极地特种部队”？](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E2%80%9C%E6%9E%81%E5%9C%B0%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E2%80%9D%EF%BC%9F)|
+||[多地最高气温或破历史同期极值！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A4%9A%E5%9C%B0%E6%9C%80%E9%AB%98%E6%B0%94%E6%B8%A9%E6%88%96%E7%A0%B4%E5%8E%86%E5%8F%B2%E5%90%8C%E6%9C%9F%E6%9E%81%E5%80%BC%EF%BC%81)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[吉林北山公园：美国康奈尔学院四名大学交换教师在中国被刺伤](https://www.bbc.com/zhongwen/simp/chinese-news-69108429)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[爸妈为了我坚持30年痛苦婚姻？我：早点离](https://www.huxiu.com/article/3125255.html?f=rss)|
+||[被玷污的“世界药房”还能续写传奇吗？](https://www.huxiu.com/article/3125250.html?f=rss)|
+||[苹果重新定义AI？确实重新定义了](https://www.huxiu.com/article/3124734.html?f=rss)|
+||[校园欺凌，为什么屡禁不止？](https://www.huxiu.com/article/3122024.html?f=rss)|
+||[土耳其，怎么就在AI应用赛道“遥遥领先”了？](https://www.huxiu.com/article/3099021.html?f=rss)|
+||[抓考勤背后的冲突](https://www.huxiu.com/article/3125240.html?f=rss)|
+||[东北的博物馆，晚点关门又何妨？](https://www.huxiu.com/article/3124746.html?f=rss)|
+||[比海底捞出道还早的呷哺呷哺，被凑凑拖垮了？](https://www.huxiu.com/article/3124433.html?f=rss)|
+||[苹果发布会的AI 悬念：很多草台班子将被摧毁](https://www.huxiu.com/article/3124749.html?f=rss)|
+||[圆真真败局复盘：把茶百道当对手，却把能犯的错全犯了](https://www.huxiu.com/article/3124426.html?f=rss)|
+|[IT之家](https://www.ithome.com/rss/)|[雷柏 VT3 系列游戏鼠标开售：原相 3398 / 3950、中大手人体工学，229 元起](https://www.ithome.com/0/774/497.htm)|
+||[20:00 限量 299 元：罗技 MX Master 3S 旗舰鼠标京东补贴购](https://www.ithome.com/0/774/491.htm)|
+||[东风日产探陆“两驱 6 座”车型正式上市，限时“诚意价”21.98 万起](https://www.ithome.com/0/774/490.htm)|
+||[149 元起，微软第一方游戏《Forza Motorsport 极限竞速》Steam 国区迎 5 折史低](https://www.ithome.com/0/774/488.htm)|
+||[消息称台积电 3nm 订单已排至 2026 年，苹果 iPhone 16 系列备货 9200-9500 万台：同比增长 5%](https://www.ithome.com/0/774/487.htm)|
+||[宏碁 2024 年 5 月营收同比增长 16.8%，连续 11 个月增长](https://www.ithome.com/0/774/485.htm)|
+||[定位“水墨风修仙题材卡牌游戏”，《鬼谷八荒》工作室新作《代号：河图》上架 Steam](https://www.ithome.com/0/774/483.htm)|
+||[HKC“GS49UK”49 英寸带鱼屏显示器 6 月 17 日开售：双 2K 240Hz QD-OLED，6499 元](https://www.ithome.com/0/774/481.htm)|
+||[系列最快新纪录，卡普空《生化危机：村庄》游戏累计销量突破 1000 万份](https://www.ithome.com/0/774/480.htm)|
+||[努比亚红魔电竞鼠标 1S 上架预售：原相 3395 + 有线 8K 回报率，售 369 元](https://www.ithome.com/0/774/479.htm)|
+||[郭明錤：苹果 Apple Intelligence 对用户很实用，但对投资人只是锦上添花](https://www.ithome.com/0/774/478.htm)|
+||[中国无人机在海外大卖特卖，大疆“老家”深圳前 4 月出口暴增 42.1%](https://www.ithome.com/0/774/472.htm)|
+||[专为 XDNA / XDNA2 NPU 设计，AMD 发布 Peano 开源 LLVM 编译器](https://www.ithome.com/0/774/476.htm)|
+||[努比亚红魔机械键盘 1S 开启预售：Gasket 结构 + 屏显，649 元](https://www.ithome.com/0/774/475.htm)|
+||[摆脱手机依赖、回归简单生活，欧美开始流行“笨手机”](https://www.ithome.com/0/774/473.htm)|
+||[比亚迪宋 L DM-i 汽车官宣，口号“大宋来了”](https://www.ithome.com/0/774/471.htm)|
+||[苹果 WWDC24 官宣 Mac 移植游戏，含《生化危机》、《幻兽帕鲁》、《鸣潮》等](https://www.ithome.com/0/774/469.htm)|
+||[R5-5560U 准系统 + 30 天免费试玩：零刻 SER5 迷你主机 987 元探新低](https://www.ithome.com/0/774/468.htm)|
+||[苹果发布 2.0 版游戏移植工具包：改善 Win10 / Win11 兼容性、扩充开发工具](https://www.ithome.com/0/774/467.htm)|
+||[收费 API 终遭三大主机厂放弃，任天堂 Switch 获 18.1.0 固件更新不再接入 X 平台](https://www.ithome.com/0/774/465.htm)|
+||[苹果 Vision Pro 同款人眼显示效果，万有引力 JX007 芯片流片成功并点亮](https://www.ithome.com/0/774/461.htm)|
+||[澜起发布第六代津逮能效核 CPU，基于英特尔至强 6 能效核处理器](https://www.ithome.com/0/774/460.htm)|
+||[苹果“Apple ID”将成历史，新名称“Apple 账户”已实装 iOS / iPadOS 18 开发者预览版](https://www.ithome.com/0/774/458.htm)|
+||[199 元，小米蓝牙音箱 Mini 夏季限定“浅咖”新增配色今起首销](https://www.ithome.com/0/774/457.htm)|
+||[新游戏太贵？卡普空教你省钱：五年后白菜价就能买到](https://www.ithome.com/0/774/456.htm)|
+||[冷头可显示 CPU 温度，超频三推出“巨浪”DA360 PRO ARGB 数显版一体式水冷散热器](https://www.ithome.com/0/774/455.htm)|
+||[骁龙 X Elite 和 Linux“搭台唱戏”，Tuxedo 展示 Drako 笔记本原型：年底前发布](https://www.ithome.com/0/774/454.htm)|
+|[虎嗅](https://rss.huxiu.com/)|[寻找国产“县城剧”](https://www.huxiu.com/article/3124743.html?f=rss)|
+||[非洲经济，现状如何？](https://www.huxiu.com/article/3125242.html?f=rss)|
+||[《被讨厌的勇气》为什么被讨厌了？](https://www.huxiu.com/article/3125262.html?f=rss)|
+||[一口气看完李林甫，庆余年林相原型，口蜜腹剑的奸相](https://www.huxiu.com/article/3122015.html?f=rss)|
+||[3分钟看完苹果WWDC，最智能的Siri来了？](https://www.huxiu.com/article/3124735.html?f=rss)|
+|[蓝点网](https://www.landiannews.com/feed)|[美国金融服务企业Robinhood以2亿美元收购知名比特币交易所Bitstamp](https://www.landiannews.com/archives/104388.html)|
+||[继拼多多后百度网盘也利用iPhone灵动岛投放广告 违反苹果的使用规则](https://www.landiannews.com/archives/104413.html)|
+||[苹果确实在和谷歌洽谈并计划将Google Gemini模型也纳入苹果智能AI中](https://www.landiannews.com/archives/104412.html)|
+||[英伟达上周推出的550.90.07版显卡驱动导致Linux随机崩溃 附临时解决办法](https://www.landiannews.com/archives/104385.html)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[visionOS 2 為 Apple Vision Pro 帶來全新空間運算體驗](https://www.iphonetaiwan.org/2024/06/visionos2-update-features.html)|
+||[蘋果家庭 App 體驗大升級：tvOS 18 帶來全新劇院級體驗](https://www.iphonetaiwan.org/2024/06/apple-home-app-update.html)|
+||[Apple Vision Pro 將於6/28全球發售！台灣開賣快了](https://www.iphonetaiwan.org/2024/06/apple-vision-pro-global-launch_01293998437.html)|
 |[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[女子龙舟队：煮好饭，去划船](https://www.infzm.com/contents/273162)|
 ||[黄志忠：每一个角色我都还是小心谨慎](https://www.infzm.com/contents/273142)|
 ||[医用同位素钼-99，国产化加速了丨科创要闻](https://www.infzm.com/contents/273140)|
