@@ -2,6 +2,86 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 刚更新了 macos sequoia 体验了 passport app 一言难尽](https://www.v2ex.com/t/1048735#reply2)|
+||[ 数据库 运维人员应该如何系统地学习数据库](https://www.v2ex.com/t/1048734#reply1)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[是我错觉吗？感觉 CSDN 上很多广告文章，官方故意的？还有很多评论是机器人](https://www.v2ex.com/t/1048682#reply23)|
+||[吐槽一下国产银河麒麟系统](https://www.v2ex.com/t/1048414#reply62)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[西上海：拟4000万元—8000万元回购股份](https://www.36kr.com/newsflashes/2815343646689796)|
+||[海利生物：拟购买瑞盛生物55%股权](https://www.36kr.com/newsflashes/2815357130361344)|
+||[Mistral AI获6亿欧元融资，估值接近60亿欧元](https://www.36kr.com/newsflashes/2815372443912710)|
+||[ST航高：公司内外部经营环境未发生重大变化](https://www.36kr.com/newsflashes/2815364287449601)|
+||[泰达股份：控股子公司泰达环保拟引入投资者继续实施市场化债转股](https://www.36kr.com/newsflashes/2815393033947393)|
+||[腾讯控股：今日耗资10.03亿港元回购269万股公司股份](https://www.36kr.com/newsflashes/2815390610786563)|
+||[志特新材：控股股东拟协议转让公司5%股份](https://www.36kr.com/newsflashes/2815374536280326)|
+||[热门中概股美股盘前多数下跌，极氪涨超5%](https://www.36kr.com/newsflashes/2815383056763395)|
+||[美股大型科技股盘前多数下跌，Meta跌0.3%](https://www.36kr.com/newsflashes/2815380515326472)|
+||[海南多家银行下调房贷利率](https://www.36kr.com/newsflashes/2815371882645761)|
+||[第一创业：公司副总裁朱剑锋因个人原因辞职](https://www.36kr.com/newsflashes/2815370426452489)|
+||[国盾量子：向特定对象发行A股股票申请获上交所受理](https://www.36kr.com/newsflashes/2815362633632003)|
+||[上汽大众：1-5月累计销量43万辆，同比增长5.6%](https://www.36kr.com/newsflashes/2815361121569030)|
+||[西班牙央行上调该国今年经济增长预期至2.3%](https://www.36kr.com/newsflashes/2815359504222726)|
+||[豪赚超2亿元，中谷物流拟高价出售2艘集装箱船](https://www.36kr.com/newsflashes/2815358978967809)|
+||[华为、中兴通讯中标中国移动试验星试制项目](https://www.36kr.com/newsflashes/2815355681523971)|
+||[欧佩克月报：全球经济今年有望进一步改善](https://www.36kr.com/newsflashes/2815342515309062)|
+||[东风日产探陆新车型正式上市](https://www.36kr.com/newsflashes/2815348394494466)|
+||[沪硅产业：拟约132亿元投建集成电路用300mm硅片产能升级项目](https://www.36kr.com/newsflashes/2815332908288519)|
+||[IPO去库存加速，终止审查207家](https://www.36kr.com/newsflashes/2815331315616005)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[法国凡尔赛宫短暂失火](https://m.thepaper.cn/detail/27698901)|
+||[三亚快艇把身体不适游客直接丢海里？官方：视频内容失实](https://m.thepaper.cn/detail/27698896)|
+||[美国陪审团裁定亨特·拜登三项枪支重罪指控全部成立](https://m.thepaper.cn/detail/27698891)|
+||[王毅会见泰国外长玛里：中方愿同泰方加快推进中泰铁路等大项目](https://m.thepaper.cn/detail/27698884)|
+||[波罗的海三国将于2025年2月9日接入欧洲电网](https://m.thepaper.cn/detail/27698878)|
+||[媒体评“囤旅游”纠纷：让规则更明确，让消费者更省心](https://m.thepaper.cn/detail/27698835)|
+||[火线快评｜侥幸晋级18强赛，为何说国足好死不如赖活](https://m.thepaper.cn/detail/27698872)|
+||[河南省启动水旱灾害防御（抗旱）四级应急响应](https://m.thepaper.cn/detail/27698834)|
+||[“创造中的她”中国女性电影人峰会将举办，许鞍华戴锦华出席](https://m.thepaper.cn/detail/27698718)|
+||[132亿元！沪硅产业拟投建300mm硅片产能升级项目，产能实现翻番](https://m.thepaper.cn/detail/27698210)|
+||[泰国队3比1战胜新加坡队，国足晋级18强赛](https://m.thepaper.cn/detail/27698832)|
+||[逃出生天！泰国队3比1击败新加坡，国足靠胜负关系出线](https://m.thepaper.cn/detail/27698370)|
+||[今晚上海白蚁“史诗级别”大爆发？飞到家里咋办？如何防治？](https://m.thepaper.cn/detail/27698719)|
+||[汇总｜各地公布高考成绩查询时间，多省份25日左右“放榜”](https://m.thepaper.cn/detail/27697884)|
+||[朱婷重归首发！3比0轻取保加利亚，中国女排巩固积分优势](https://m.thepaper.cn/detail/27695884)|
+||[非洲这国传噩耗！马拉维副总统飞机坠毁，机上10人无一生还](https://m.thepaper.cn/detail/27696440)|
+||[多图丨“福宝”新家曝光，位于神树坪基地熊猫幼儿园2号馆](https://m.thepaper.cn/detail/27695810)|
+||[观察｜“苹果智能”接入GPT，能否从AI竞赛中胜出](https://m.thepaper.cn/detail/27694129)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[开源日报 Apple Intelligence技术架构；配备骁龙X Elite的Linux笔记本；Xcode 16引入AI编程助手；SUN是它的那个时代最成功的雅皮士公司](https://www.oschina.net/news/296773)|
+|[虎嗅](https://rss.huxiu.com/)|[云南白药股东大会8分钟 新华都推荐新董事当选](https://www.huxiu.com/article/3126927.html?f=rss)|
+||[马尔克斯和他的革命魔幻人设](https://www.huxiu.com/article/3126926.html?f=rss)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[让面试官眼前一亮的防抖](https://juejin.cn/post/7379053389248626703)|
+||[视频弹幕案例：JavaScript 类与 canvas 的应用](https://juejin.cn/post/7379092541025353780)|
+||[react项目中时区功能的实现](https://juejin.cn/post/7379059228105048116)|
+||[前端流式下载两种方式](https://juejin.cn/post/7379053389248282639)|
+||[新增多种图表类型，新增视频、流媒体、跑马灯组件，DataEase开源数据可视化分析工具v2.7.0发布](https://juejin.cn/post/7379055493270290451)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[勒索软件黑帮采取日益暴力的策略](https://www.solidot.org/story?sid=78408)|
+||[火星上发现晨霜](https://www.solidot.org/story?sid=78407)|
+||[强制重返办公室是秘密裁员计划的一部分](https://www.solidot.org/story?sid=78406)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[共享机遇,同绘蓝图——广东高质量建设粤港澳大湾区综述](http://hm.people.com.cn/n1/2024/0611/c42272-40254554.html)|
+||[中国男足晋级美加墨世界杯亚洲区18强赛](http://ent.people.com.cn/n1/2024/0611/c1012-40254552.html)|
+||[马拉维副总统所乘军机上人员全部遇难](http://world.people.com.cn/n1/2024/0611/c1002-40254549.html)|
+||[哈马斯表示接受联合国安理会加沙停火最新决议](http://world.people.com.cn/n1/2024/0611/c1002-40254545.html)|
+||[1至5月全国铁路完成固定资产投资同比增长10.8%](http://finance.people.com.cn/n1/2024/0611/c1004-40254531.html)|
+||[外交部谈国际社会一致支持设立文明对话国际日](http://world.people.com.cn/n1/2024/0611/c1002-40254529.html)|
+|[虎嗅网](https://plink.anyfeeder.com/weixin/huxiu_com)|[一家造车公司宣布倒闭](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E4%B8%80%E5%AE%B6%E9%80%A0%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%AE%A3%E5%B8%83%E5%80%92%E9%97%AD)|
+||[超长干货！11种通过涨停发现投资机会的方法](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E8%B6%85%E9%95%BF%E5%B9%B2%E8%B4%A7%EF%BC%8111%E7%A7%8D%E9%80%9A%E8%BF%87%E6%B6%A8%E5%81%9C%E5%8F%91%E7%8E%B0%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E7%9A%84%E6%96%B9%E6%B3%95)|
+||[咖啡价格战卷向6块6，Tims的日子有点难？](http://weixin.sogou.com/weixin?type=2&query=%E8%99%8E%E5%97%85%E7%BD%91+%E5%92%96%E5%95%A1%E4%BB%B7%E6%A0%BC%E6%88%98%E5%8D%B7%E5%90%916%E5%9D%976%EF%BC%8CTims%E7%9A%84%E6%97%A5%E5%AD%90%E6%9C%89%E7%82%B9%E9%9A%BE%EF%BC%9F)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[RTX 50五大核心集体偷跑：居然有两个缩水了](https://m.cnbeta.com.tw/view/1434374.htm)|
+||[特斯拉称埃隆·马斯克希望获得公司25%的投票控制权是为了"保护人类免受AI威胁"](https://m.cnbeta.com.tw/view/1434373.htm)|
+||[Pixel Watch 2 现在可以检测用户是否遭遇车祸](https://m.cnbeta.com.tw/view/1434372.htm)|
+||[市场调查：Temu吸引的回头客超过eBay 给亚马逊带来压力](https://m.cnbeta.com.tw/view/1434371.htm)|
+||[NVIDIA数据中心GPU出货量在2023年超400万片 占市场份额的98%](https://m.cnbeta.com.tw/view/1434370.htm)|
+||[718万元的国产车天花板 全新红旗国礼上市](https://m.cnbeta.com.tw/view/1434369.htm)|
+||[微软的Outlook安全政策变更将影响与第三方邮件服务的整合](https://m.cnbeta.com.tw/view/1434367.htm)|
+||[树莓派现已成为一家上市公司](https://m.cnbeta.com.tw/view/1434366.htm)|
+||[AlmaLinux 现可用于 Raspberry Pi 5](https://m.cnbeta.com.tw/view/1434365.htm)|
+||[三星Galaxy Z Flip6和Fold6的机身颜色有所变化 部分色泽只在线上供应](https://m.cnbeta.com.tw/view/1434364.htm)|
+||[苹果公司公布WWDC举办前夕运行iOS 17的iPhone采用率](https://m.cnbeta.com.tw/view/1434363.htm)|
+||[活动人士在苹果总部集会 要求恢复儿童安全保护措施](https://m.cnbeta.com.tw/view/1434362.htm)|
+||[如何在 iOS 18 中调整手电筒的焦距和光束形状](https://m.cnbeta.com.tw/view/1434361.htm)|
+|[蓝点网](https://www.landiannews.com/feed)|[ 下载 微软发布Windows 11 21H2 KB5039213更新 修复系统无法从休眠状态恢复](https://www.landiannews.com/archives/104433.html)|
+||[ 下载 微软发布Windows 11 22H2/23H2 KB5039212更新 修复任务栏卡死和消失](https://www.landiannews.com/archives/104432.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[感谢新加坡队，国足惊险晋级世预赛18强赛](https://www.infzm.com/contents/273212)|
+||[夜校为什么多年之后重新变热？](https://www.infzm.com/contents/273202)|
+||[七城“限牌”，网约车会不会驶上数量管制老路？](https://www.infzm.com/contents/273186)|
 |[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[国产车称霸俄罗斯 5月销量前十中国汽车占了九席](https://m.cnbeta.com.tw/view/1434360.htm)|
 ||[维权or讹诈？ 360回应AI创作者10倍“索赔”](https://m.cnbeta.com.tw/view/1434359.htm)|
 ||[贝索斯超越LV老板 再次问鼎全球首富](https://m.cnbeta.com.tw/view/1434358.htm)|
