@@ -2,6 +2,99 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Tim Cook表示尽管研发取得了进展 也不敢说苹果智能不会产生幻觉](https://m.cnbeta.com.tw/view/1434382.htm)|
+||[通用汽车向Cruise注资8.5亿美元 以维持陷入困境的公司运营](https://m.cnbeta.com.tw/view/1434381.htm)|
+||[微软发布Windows 11 22H2/23H2 KB5039212更新 修复任务栏卡死和消失](https://m.cnbeta.com.tw/view/1434380.htm)|
+||[iOS 18添加了按下iPhone侧边按钮时弹出边框的动画效果](https://m.cnbeta.com.tw/view/1434378.htm)|
+||[Apple Watch 的心率监测功能也可用于狮子身（舌头）上](https://m.cnbeta.com.tw/view/1434377.htm)|
+||[体验了一整天iOS 18：我竟然觉得它挺值得升级](https://m.cnbeta.com.tw/view/1434376.htm)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[js中的数据类型、数据类型判断、数据类型转换，一篇全搞定！](https://juejin.cn/post/7379092541025452084)|
+||[原生dialog对话框使用](https://juejin.cn/post/7379092280575983653)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[Champion 被母公司以 12 亿美元卖掉，“百年老店”又要迎来新的开始了](http://www.toodaylab.com/82866)|
+|[经济日报](https://plink.anyfeeder.com/jingjiribao)|[01版要闻 - 发布新修订的《军队审计条例》](http://paper.ce.cn/pc/content/202406/12/content_295940.html)|
+||[01版要闻 - 夯实新质生产力的人才基础](http://paper.ce.cn/pc/content/202406/12/content_295941.html)|
+||[01版要闻 - 完善中国特色现代企业制度 建设具有全球竞争力的科技创新开放环境](http://paper.ce.cn/pc/content/202406/12/content_295942.html)|
+||[01版要闻 - 图片新闻](http://paper.ce.cn/pc/content/202406/12/content_295943.html)|
+||[02版要闻 - 节能标准亟待升级扩面](http://paper.ce.cn/pc/content/202406/12/content_295945.html)|
+||[02版要闻 - 李强致电祝贺莫迪连任印度总理](http://paper.ce.cn/pc/content/202406/12/content_295946.html)|
+||[02版要闻 - 李强将访问新西兰、澳大利亚、马来西亚](http://paper.ce.cn/pc/content/202406/12/content_295947.html)|
+||[02版要闻 - 图片新闻](http://paper.ce.cn/pc/content/202406/12/content_295948.html)|
+||[02版要闻 - 天津宝坻加快建设产城融合示范区](http://paper.ce.cn/pc/content/202406/12/content_295949.html)|
+||[02版要闻 - 2024年百日千万招聘专项行动启动](http://paper.ce.cn/pc/content/202406/12/content_295950.html)|
+||[02版要闻 - 为完善社会主义市场经济体制贡献力量](http://paper.ce.cn/pc/content/202406/12/content_295951.html)|
+||[03版综合 - 新业态劳动者权益保障还需加力](http://paper.ce.cn/pc/content/202406/12/content_295953.html)|
+||[03版综合 - 日照港 走好传统码头升级路](http://paper.ce.cn/pc/content/202406/12/content_295954.html)|
+||[03版综合 - 图片新闻](http://paper.ce.cn/pc/content/202406/12/content_295955.html)|
+||[03版综合 - 科学把握发展新兴产业和改造传统产业的辩证关系](http://paper.ce.cn/pc/content/202406/12/content_295956.html)|
+||[03版综合 - 精准服务优质外贸企业](http://paper.ce.cn/pc/content/202406/12/content_295957.html)|
+||[04版国际 - 越南控通胀面临挑战](http://paper.ce.cn/pc/content/202406/12/content_295959.html)|
+||[04版国际 - 欧洲央行降息余波未了](http://paper.ce.cn/pc/content/202406/12/content_295960.html)|
+||[04版国际 - 农业科技合作惠及佛得角](http://paper.ce.cn/pc/content/202406/12/content_295961.html)|
+||[05版时评 - 化解堵点提升居民消费意愿](http://paper.ce.cn/pc/content/202406/12/content_295963.html)|
+||[05版时评 - 把“一件事”办成政务服务亮丽名片](http://paper.ce.cn/pc/content/202406/12/content_295964.html)|
+||[05版时评 - 做强品牌需拼硬实力下慢功夫](http://paper.ce.cn/pc/content/202406/12/content_295965.html)|
+||[05版时评 - 积极发展第三支柱养老保险](http://paper.ce.cn/pc/content/202406/12/content_295966.html)|
+||[05版时评 - 理性看待引导城市流量](http://paper.ce.cn/pc/content/202406/12/content_295967.html)|
+||[05版时评 - 多措并举促就业提质扩容](http://paper.ce.cn/pc/content/202406/12/content_295968.html)|
+||[06版产经 - 发展智慧水务大有可为](http://paper.ce.cn/pc/content/202406/12/content_295970.html)|
+||[06版产经 - 加快推进城市“三大工程”建设](http://paper.ce.cn/pc/content/202406/12/content_295971.html)|
+||[06版产经 - 5G商用拓展融合创新广阔空间](http://paper.ce.cn/pc/content/202406/12/content_295972.html)|
+||[06版产经 - 打造新时代社区理论宣讲强阵地](http://paper.ce.cn/pc/content/202406/12/content_295973.html)|
+||[07版财金 - 财务公司助金融服务实体经济](http://paper.ce.cn/pc/content/202406/12/content_295975.html)|
+||[07版财金 - 完善财务造假追责体系](http://paper.ce.cn/pc/content/202406/12/content_295976.html)|
+||[07版财金 - 消费金融惠及新市民群体](http://paper.ce.cn/pc/content/202406/12/content_295977.html)|
+||[08版地方 - 抓住数字乡村发展新机遇](http://paper.ce.cn/pc/content/202406/12/content_295979.html)|
+||[08版地方 - 辽宁做强滨海文体旅产业带](http://paper.ce.cn/pc/content/202406/12/content_295980.html)|
+||[08版地方 - 新材料牵起京津冀协同创新链](http://paper.ce.cn/pc/content/202406/12/content_295981.html)|
+||[08版地方 - 万亩茶园富百姓](http://paper.ce.cn/pc/content/202406/12/content_295982.html)|
+||[09版调查 - 啃下万里风沙线上“硬骨头”](http://paper.ce.cn/pc/content/202406/12/content_295984.html)|
+||[10版智库 - 深入推进数字经济创新发展](http://paper.ce.cn/pc/content/202406/12/content_295986.html)|
+||[10版智库 - 构筑自立自强的数字技术创新体系](http://paper.ce.cn/pc/content/202406/12/content_295987.html)|
+||[11版关注 - 挖潜增效应对用电高峰](http://paper.ce.cn/pc/content/202406/12/content_295989.html)|
+||[11版关注 - 培育人才打造非遗“年轻态”](http://paper.ce.cn/pc/content/202406/12/content_295990.html)|
+||[11版关注 - 放开银保合作数量限制影响几何](http://paper.ce.cn/pc/content/202406/12/content_295991.html)|
+||[11版关注 - 图片新闻](http://paper.ce.cn/pc/content/202406/12/content_295992.html)|
+||[12版视觉 - 黑陶焕新](http://paper.ce.cn/pc/content/202406/12/content_295994.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 目前有关 imessage， facetime， homekit 等服务在国内出现网络问题的信息](https://www.v2ex.com/t/1048737#reply4)|
+||[ Apple 刚更新了 macos sequoia 体验了 passport app 一言难尽](https://www.v2ex.com/t/1048735#reply3)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[国际油价11日上涨](http://www.news.cn/20240612/f126888fbc114041b637f8ba7d20c476/c.html)|
+||[美元指数11日上涨](http://www.news.cn/20240612/aa9b21876315486e817f9a6b26dda091/c.html)|
+||[美国总统之子亨特·拜登被裁定非法持枪](http://www.news.cn/20240612/675e25962cff435b8fb75323bb35250b/c.html)|
+||[新华社快讯：哈马斯表示已向调解方提交对停火提议的回应](http://www.news.cn/20240612/1c39d663eae4482394a20d4cc42301bf/c.html)|
+||[加沙紧急人道主义应对会议在约旦举行](http://www.news.cn/20240612/00005b0dca15418285c9556db59e2412/c.html)|
+||[伦敦股市11日下跌](http://www.news.cn/20240612/b6ec8439b34d4ee899a453c56adbb154/c.html)|
+||[第六期尼泊尔旅游人才汉语培训班开班](http://www.news.cn/20240612/7d7fc6d0a98746688fae4e474eb581f4/c.html)|
+||[世预赛｜国足客场负韩国 惊险晋级18强赛](http://www.news.cn/20240611/d4ec532c7bce47a191ec54084d141740/c.html)|
+||[中国女排3:0击败保加利亚队](http://www.news.cn/20240611/99471676610946748038617f568f3147/c.html)|
+||[法国凡尔赛宫短暂失火](http://www.news.cn/20240611/e17be3f7aa2e44509e1f88d714bb818f/c.html)|
+||[龙舟竞、赛风流——贵州镇远全民狂欢赛龙舟](http://www.news.cn/20240611/387dcf620fdd41a0bf3bb27e6d8d5fe6/c.html)|
+||[王毅会见泰国外长玛里](http://www.news.cn/20240611/a35f4587969f4ceb82779a1dfdd86fb2/c.html)|
+||[专访｜奇异果见证中国和新西兰的友谊与共赢——访佳沛大中华区公共事务副总裁金世理](http://www.news.cn/20240611/fed1180503f94d7a9a0706a70f2ddb3e/c.html)|
+||[金砖国家同发展中国家举行外长对话会](http://www.news.cn/20240611/047ddf9c0f354f3ea3ebd6c40362065b/c.html)|
+||[共享机遇，同绘蓝图——广东高质量建设粤港澳大湾区综述](http://www.news.cn/20240611/404715efb02f4be68e929037d9028e8d/c.html)|
+||[越南国家主席苏林：越南将发展对华关系作为头等优先](http://www.news.cn/20240611/03b9ec1cf06c4f89b3a93a697a514ba9/c.html)|
+||[金砖国家同发展中国家举行外长对话会](http://www.news.cn/20240611/635afa5d28194126aa404e059cc67c7e/c.html)|
+||[北京将对高温作业用工开展联合检查](http://www.news.cn/20240611/98130a240aab4873bbcb35aa3375dfa5/c.html)|
+||[一场活力四射的“双向奔赴”——“长江-密西西比河”中美青年交流活动侧记](http://www.news.cn/20240611/6587701dccec41998e2d44e4657dff6f/c.html)|
+||[河南省启动水旱灾害防御（抗旱）四级应急响应](http://www.news.cn/20240611/a1608176e54342c18be8b9162db2faff/c.html)|
+||[新华社推出七集系列片《跟着总书记探寻中华文明》](http://www.news.cn/20240611/9855dbd338924acb98dcd4ee42ed1118/c.html)|
+||[联合国教科文组织前总干事：文明对话是人类文明的重要推动力](http://www.news.cn/20240611/f938a2e72870481d98a2f453c03668e5/c.html)|
+||[端午假期释放国内消费活力](http://www.news.cn/20240611/e2d95d81005a4408979a97054a3ac333/c.html)|
+||[“机遇湾区”“机遇香港”“机遇澳门”主题采访活动在广州启动](http://www.news.cn/20240611/09ee9343c52b48f29c54daea6fba3c41/c.html)|
+||[秀我中国｜用微缩摄影打开夏日重庆](http://www.news.cn/20240611/d81df2fd273d4a3fb93bdfcc047543ad/c.html)|
+||[世界女排联赛中国香港站：中国女排3比0保加利亚女排](http://www.news.cn/20240611/bde4972b35c449eb8bca0b090e4abbcb/c.html)|
+||[中国内地端午档票房不及预期 寄望新片提振暑期票房](http://www.news.cn/20240611/6ac334511768426aaa05c9890bae2fd8/c.html)|
+||[天津出现入夏以来最强高温天气](http://www.news.cn/20240611/892846ff6f8b4ab6910f504447f13ad1/c.html)|
+|[爱范儿](https://www.ifanr.com/feed)|[被马斯克炮轰的 Apple 智能，为什么更接近理想的 AI 形态？](https://www.ifanr.com/1588884?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[异次元软件世界](https://feed.iplaysoft.com)|[iOS 18 新功能总结汇总 + 上手视频！苹果 AI 也要来了…](https://www.iplaysoft.com/p/ios18-features)|
+|[蓝点网](https://www.landiannews.com/feed)|[ 下载 微软向Windows 10受支持版本发布最新补丁 附更新日志和离线包下载地址](https://www.landiannews.com/archives/104434.html)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[泰国 3-1 战胜新加坡，但净胜关系不敌国足，国足惊险晋级 18 强赛，怎样看待国足未来比赛的前景？](https://www.zhihu.com/question/658671091/answer/3527408482)|
+||[如果可以回到高三，你会不会珍惜机会，考个好大学?](https://www.zhihu.com/question/657830041/answer/3527495826)|
+||[大约 20 名朝鲜军人 9 日越过朝鲜半岛军事分界线，在韩方鸣枪警告后马上退回，哪些信息值得关注？](https://www.zhihu.com/question/658664189/answer/3527411420)|
+||[「原谅」真的能减轻原生家庭带给我们的伤痛吗？](https://www.zhihu.com/question/657943580/answer/3527408612)|
+||[如何评价崩坏星穹铁道千星纪游pv：《此刻，在同一片星空下》?](https://www.zhihu.com/question/658624382/answer/3527393259)|
+||[死里逃生！世预赛国足 0-1 韩国，相互战绩优势力压泰国，晋级 18 强赛，如何评价本场比赛？](https://www.zhihu.com/question/658635911/answer/3527297239)|
+||[去哪些旅行地时，你曾感觉「此刻置身于历史中」？](https://www.zhihu.com/question/658212019/answer/3527329780)|
 |[V2EX](http://www.v2ex.com/index.xml)|[ Apple 刚更新了 macos sequoia 体验了 passport app 一言难尽](https://www.v2ex.com/t/1048735#reply2)|
 ||[ 数据库 运维人员应该如何系统地学习数据库](https://www.v2ex.com/t/1048734#reply1)|
 |[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[是我错觉吗？感觉 CSDN 上很多广告文章，官方故意的？还有很多评论是机器人](https://www.v2ex.com/t/1048682#reply23)|
