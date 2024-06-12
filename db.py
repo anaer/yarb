@@ -6,11 +6,14 @@ import datetime
 import time
 
 def getRss():
+    '''
+    随机获取300条rss站源
+    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY RANDOM() limit 300
+    SELECT title, xml_url FROM t_rss WHERE status = 1 and sort >= -10 ORDER BY RANDOM() limit 300
     '''
 
     cur.execute(query_sql)
@@ -28,6 +31,9 @@ def getRss():
     return list
 
 def updateRssInvalid(url):
+    '''
+    降低失效源的排序
+    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
@@ -47,6 +53,9 @@ def toDate(d):
     return datetime.datetime.now()
 
 def addArticles(list):
+    '''
+    记录文章, 用于推送和展示
+    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
@@ -67,7 +76,7 @@ def addArticles(list):
                     ])
 
             cur.execute('''
-            update t_rss set article_num = (select count(*) from t_article b where b.feed_url = ?), updated_at = ?
+            update t_rss set article_num = (select count(*) from t_article b where b.feed_url = ?), sort = sort + 1, updated_at = ?
             where xml_url = ?
             ''', [
                 link,
@@ -84,6 +93,9 @@ def addArticles(list):
 
 
 def getArticles():
+    '''
+    存档目录文章
+    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
@@ -105,6 +117,9 @@ def getArticles():
     return result
 
 def getArticlesForReadme():
+    '''
+    首页文章展示
+    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
@@ -127,6 +142,9 @@ def getArticlesForReadme():
     return result
 
 def getArticlesForBot():
+    '''
+    获取待推送文章列表
+    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 

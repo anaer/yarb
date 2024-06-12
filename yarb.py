@@ -13,7 +13,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from bot import *
 from utils import Color, Pattern
-from db import getRss, updateRssInvalid, addArticles, getArticles, getArticlesForReadme
+from db import *
 
 import requests
 requests.packages.urllib3.disable_warnings()
