@@ -2,6 +2,104 @@
 
 |来源|标题|
 |---|---|
+|[36氪](https://plink.anyfeeder.com/36kr)|[今日明星“端到端”，能否撑起智能驾驶的未来？｜OpenTalk 回顾](https://36kr.com/p/2815269766842633?f=rss)|
+||[「北极雄芯」获云晖资本投资，将构建可独立销售的Chiplet产品库丨36氪首发](https://36kr.com/p/2814735718828297?f=rss)|
+||[多款多功能肽进入中美临床试验，麦科奥特加速BD及商业化进程 36氪专访](https://36kr.com/p/2785585385538697?f=rss)|
+||[《墨雨云间》会是优酷的爽文故事吗？](https://36kr.com/p/2815276841634313?f=rss)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AI 解决了大家的什么问题](https://www.v2ex.com/t/1048780#reply13)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[跨国铁路助力经济特区腾飞](https://www.huxiu.com/article/3128002.html?f=rss)|
+||[木头姐最新分享：马斯克的560亿薪酬包、美国经济形势研判](https://www.huxiu.com/article/3127969.html?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[US Reported to Mull Further Curb on AI Chip Exports to China](https://www.tmtpost.com/7125035.html)|
+||[​等一个肝癌治疗困境的“破局者”](https://www.tmtpost.com/7124480.html)|
+||[AI时代，跨境支付场景的重塑](https://www.tmtpost.com/7124901.html)|
+||[变形的极简主义，正在催生新的消费主义](https://www.tmtpost.com/7124350.html)|
+||[Geely's EV Unit Zeekr Shares Tumble 6.5% Despite Over 70% of Revenue Growth](https://www.tmtpost.com/7124930.html)|
+||[都要冲量和普及智驾，但华为和小鹏选了不同的道路](https://www.tmtpost.com/7124385.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 你为什么喜欢无线电？](https://www.v2ex.com/t/1048800#reply1)|
+||[ Apple 关于苹果 AI 入华的猜测，感觉没必要那么悲观](https://www.v2ex.com/t/1048799#reply1)|
+||[ 买买买 买十块钱的东西也要凑个 290 的大件后再秒退。](https://www.v2ex.com/t/1048793#reply5)|
+||[ Docker 群晖 Docker/Container Manager 拉取镜像使用代理加速](https://www.v2ex.com/t/1048790#reply5)|
+||[ 问与答 如何优雅地不备案使用一台国内的 vps](https://www.v2ex.com/t/1048789#reply4)|
+||[ 生活 各位过来人能不能给一个普通家庭的孩子提供一些靠谱的高考志愿建议。](https://www.v2ex.com/t/1048787#reply24)|
+||[ 酷工作 阿里全职子公司 内包 值得去吗？毁简历吗？大佬们给点建议](https://www.v2ex.com/t/1048783#reply3)|
+||[ 问与答 老哥们,如果我骑电动然后有个音响放李志的天空之城,这种会有风险吗](https://www.v2ex.com/t/1048781#reply11)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[字符串格式不匹配时，如何避免DateTimeParseException异常？](https://segmentfault.com/q/1010000044956223)|
+||[Fabric.js怎么设置色阶？](https://segmentfault.com/q/1010000044956094)|
+|[极客公园](https://plink.anyfeeder.com/geekpark)|[对话李开复：价格战烧不出 AI 超级应用，好模型有贵的道理](http://www.geekpark.net/news/336394)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[谋划、突袭、交火与死亡：还原以色列营救人质行动](https://cn.nytimes.com/world/20240612/israel-hostage-rescue-gaza/?utm_source=RSS)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch 活動挑戰賽：6 月 21 日做瑜伽就有獎勵](https://applefans.today/2024-06-apple-watch-yoga-day-challenge/)|
+|[TechNews 科技新報](http://technews.tw/feed/)|[紅海復航露曙光？專家估運費恐腰斬，運能四週增 4%](https://finance.technews.tw/2024/06/12/container-lines-shares-tumble-on-possible-easing-of-red-sea-hostilities/)|
+||[挪威藏「全歐最大」稀土礦，有望打破中國壟斷地位](https://technews.tw/2024/06/12/norway-discovers-europes-largest-deposit-of-rare-earth-metals/)|
+||[每年訂單上看 4,500 公噸！中鋼成功開發「電動車馬達用極薄板電磁鋼」](https://finance.technews.tw/2024/06/12/extremely-thin-plate/)|
+||[同為股東行動主義舉旗者！外資股東力挺可成對鐿鈦發起五大提案](https://finance.technews.tw/2024/06/12/shareholder-action/)|
+||[AI 應用將拉高用電量，第一太陽能漲 5% 逼近歷史高點](https://technews.tw/2024/06/12/can-u-s-energy-industry-keep-up-with-ais-thirst-for-electricity/)|
+||[中國長鑫存儲遭房地產海嘯牽連，碧桂園出售持股換 20 億人民幣](https://finance.technews.tw/2024/06/12/china-changxin-storage-shares-sold/)|
+||[中國大撒幣無效，台積電輾壓中芯股價差距近 20 年最大](https://finance.technews.tw/2024/06/12/tsmcs-premium-over-smic-shows-challenges-for-chinas-chip-fund/)|
+||[彭博：美國考慮擴大限制中國取得 AI 晶片](https://technews.tw/2024/06/12/us-weighs-more-limits-on-chinas-access-to-chips-needed-for-ai/)|
+||[美晶片法受惠對象再加一，火箭實驗室獲逾 7.7 億補助](https://technews.tw/2024/06/12/back-rocket-lab-signs-preliminary-terms-to-receive-up-to-23-9m/)|
+||[宏達電 HTC U24 pro 正式亮相，最高 512GB 容量 18,900 元起開賣](https://ccc.technews.tw/2024/06/12/htc-u24-pro-officially-unveiled/)|
+||[製鞋新兵來億-KY 掛牌上市！首日上演蜜月行情大漲近 80%](https://finance.technews.tw/2024/06/12/shoemaking/)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[业务“防坑”指南](https://www.woshipm.com/zhichang/6058293.html)|
+||[金融产品设计：CRM系统与智能外呼/智能问答的融合实践](https://www.woshipm.com/share/6067854.html)|
+||[产品经理的竞品分析报告怎么写？（下）](https://www.woshipm.com/share/6065010.html)|
+||[为什么我推荐B端产品经理都来用大模型](https://www.woshipm.com/share/6068061.html)|
+||[品牌正在调整沟通语境](https://www.woshipm.com/share/6068097.html)|
+||[HIS产品设计手册-检查开单](https://www.woshipm.com/pd/6067844.html)|
+||[无代码平台盘点：简道云、草料二维码、轻流等](https://www.woshipm.com/share/6067692.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[苹果高管称正努力将Apple Intelligence引入中国市场](https://m.cnbeta.com.tw/view/1434412.htm)|
+||[一个大型环保组织正在斥资数百万美元寻找人为主动冷却地球的方式](https://m.cnbeta.com.tw/view/1434411.htm)|
+||[Android的最新防盗功能正在巴西市场测试中](https://m.cnbeta.com.tw/view/1434410.htm)|
+||[巴西聘用OpenAI人工智能以削减近年来明显增高法庭诉讼费用](https://m.cnbeta.com.tw/view/1434409.htm)|
+||[Linus Torvalds掷下重锤：Linux 6.11中的可扩展调度程序sched_ext](https://m.cnbeta.com.tw/view/1434408.htm)|
+||[拜登政府希望向火箭实验室提供2400万美元 以促进太空级太阳能电池的生产](https://m.cnbeta.com.tw/view/1434407.htm)|
+||[超级环线高铁即将发车 横跨三省一市 里程超1200公里](https://m.cnbeta.com.tw/view/1434406.htm)|
+||[FTC主席Lina Khan表示该机构正在打击大科技公司中的"黑帮老大"](https://m.cnbeta.com.tw/view/1434405.htm)|
+||[马斯克再被起诉内幕交易特斯拉股票 高位套现数十亿美元](https://m.cnbeta.com.tw/view/1434402.htm)|
+||[大疆在珠穆朗玛峰完成全球首次无人机运输测试 可携带15公斤重量进行往返](https://m.cnbeta.com.tw/view/1434401.htm)|
+||[SUSE 正在为 Raspberry Pi 5 开发上游 RP1 南桥 Linux 驱动程序](https://m.cnbeta.com.tw/view/1434400.htm)|
+||[iOS 18 全面改版了 iCloud 账户管理界面](https://m.cnbeta.com.tw/view/1434399.htm)|
+||[macOS Sequoia 包含采用经典Mac图形的怀旧壁纸](https://m.cnbeta.com.tw/view/1434398.htm)|
+||[iOS 18 的电池设置界面会告诉你什么时候使用了慢速充电器](https://m.cnbeta.com.tw/view/1434397.htm)|
+||[令人惊叹的垂直涡轮风力发电机墙Airiva今年将进入客户试用阶段](https://m.cnbeta.com.tw/view/1434396.htm)|
+||[iPad终于有了计算器应用程序 它能做些什么？](https://m.cnbeta.com.tw/view/1434395.htm)|
+||[高通：部分骁龙 X Elite笔记本电脑将配备5G调制解调器](https://m.cnbeta.com.tw/view/1434394.htm)|
+||[开始刷圈了 小米SU7现身纽北赛道 一身彩装太吸睛](https://m.cnbeta.com.tw/view/1434393.htm)|
+||[中央气象台连发6天高温预警 多地超40℃](https://m.cnbeta.com.tw/view/1434392.htm)|
+||[需求低于预期 通用汽车下调2024年电动汽车销量预测](https://m.cnbeta.com.tw/view/1434390.htm)|
+||[拜登政府正在考虑进一步限制中国获得用于AI的芯片技术](https://m.cnbeta.com.tw/view/1434389.htm)|
+||[苹果大涨超7% 今年首次创新高 分析师高呼iPhone超级周期来了](https://m.cnbeta.com.tw/view/1434388.htm)|
+||[马斯克撤销对OpenAI及奥特曼诉讼](https://m.cnbeta.com.tw/view/1434387.htm)|
+||[消息称三星聘苹果前高管领导北美AI中心](https://m.cnbeta.com.tw/view/1434386.htm)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[Apple Intelligence能做什么？解析苹果全面整合AI的战略](https://cn.wsj.com/amp/articles/apple-intelligence%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88-%E8%A7%A3%E6%9E%90%E8%8B%B9%E6%9E%9C%E5%85%A8%E9%9D%A2%E6%95%B4%E5%90%88ai%E7%9A%84%E6%88%98%E7%95%A5-3dbe3499)|
+||[美国因强迫劳动将三家中国公司加入禁止进口黑名单](https://cn.wsj.com/amp/articles/%E7%BE%8E%E5%9B%BD%E5%9B%A0%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E5%B0%86%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8A%A0%E5%85%A5%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E9%BB%91%E5%90%8D%E5%8D%95-47f852a9)|
+||[通胀数据和美联储决定前，标普500指数再创新高](https://cn.wsj.com/amp/articles/%E9%80%9A%E8%83%80%E6%95%B0%E6%8D%AE%E5%92%8C%E7%BE%8E%E8%81%94%E5%82%A8%E5%86%B3%E5%AE%9A%E5%89%8D-%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-c7151281)|
+||[亨特·拜登在持枪案中被裁定有罪](https://cn.wsj.com/amp/articles/%E4%BA%A8%E7%89%B9-%E6%8B%9C%E7%99%BB%E5%9C%A8%E6%8C%81%E6%9E%AA%E6%A1%88%E4%B8%AD%E8%A2%AB%E8%A3%81%E5%AE%9A%E6%9C%89%E7%BD%AA-d48aa0f8)|
+||[马斯克撤回对OpenAI和阿尔特曼的诉讼](https://cn.wsj.com/amp/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%92%A4%E5%9B%9E%E5%AF%B9openai%E5%92%8C%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E7%9A%84%E8%AF%89%E8%AE%BC-6b77111b)|
+||[雷石东家族公司结束与Skydance的谈判](https://cn.wsj.com/amp/articles/%E9%9B%B7%E7%9F%B3%E4%B8%9C%E5%AE%B6%E6%97%8F%E5%85%AC%E5%8F%B8%E7%BB%93%E6%9D%9F%E4%B8%8Eskydance%E7%9A%84%E8%B0%88%E5%88%A4-4e7057e9)|
+||[WeWork表示已摆脱破产，并任命新CEO](https://cn.wsj.com/amp/articles/wework%E8%A1%A8%E7%A4%BA%E5%B7%B2%E6%91%86%E8%84%B1%E7%A0%B4%E4%BA%A7-%E5%B9%B6%E4%BB%BB%E5%91%BD%E6%96%B0ceo-46cae069)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[运动 30 分钟以上才能减脂？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%90%E5%8A%A8%2030%20%E5%88%86%E9%92%9F%E4%BB%A5%E4%B8%8A%E6%89%8D%E8%83%BD%E5%87%8F%E8%84%82%EF%BC%9F)|
+||[哇塞，这牛排也太绝了吧！（价格打下来了）](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%93%87%E5%A1%9E%EF%BC%8C%E8%BF%99%E7%89%9B%E6%8E%92%E4%B9%9F%E5%A4%AA%E7%BB%9D%E4%BA%86%E5%90%A7%EF%BC%81%EF%BC%88%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%EF%BC%89)|
+||[鼻炎真的不能拖，不然会后悔！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%BC%BB%E7%82%8E%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E6%8B%96%EF%BC%8C%E4%B8%8D%E7%84%B6%E4%BC%9A%E5%90%8E%E6%82%94%EF%BC%81)|
+||[吃够它，真的对眼睛好！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%83%E5%A4%9F%E5%AE%83%EF%BC%8C%E7%9C%9F%E7%9A%84%E5%AF%B9%E7%9C%BC%E7%9D%9B%E5%A5%BD%EF%BC%81)|
+|[IT之家](https://www.ithome.com/rss/)|[无需动手，特斯拉 Model X 自动开门功能回归](https://www.ithome.com/0/774/621.htm)|
+||[再降 50 元：小米 13 Ultra 手机 4227 元起 6 期免息赠耳机](https://www.ithome.com/0/774/620.htm)|
+||[消息称 OpenAI 阿尔特曼和三星李在镕首次单独会面，讨论合作 AI 芯片](https://www.ithome.com/0/774/619.htm)|
+||[3.0GHz 骁龙 8+，荣耀首款小折叠手机 Magic V Flip 跑分曝光](https://www.ithome.com/0/774/617.htm)|
+||[2K 200Hz：LG 27 英寸显示器 27GS75Q 京东 1072 元 3 期免息再降价](https://www.ithome.com/0/774/616.htm)|
+||[英国格拉斯哥大学哲学研究人员谈“AI 幻觉”：用“胡说八道”来形容更准确](https://www.ithome.com/0/774/615.htm)|
+||[全新宝马 MINI Cooper 五门版掀背车发布：品牌最后一款仅提供燃油动力的车型](https://www.ithome.com/0/774/613.htm)|
+||[日本 Rapidus 宣布将同 IBM 开发 2nm 制程芯粒封装量产技术](https://www.ithome.com/0/774/612.htm)|
+||[800 万像素全彩录像：360 云台摄像机 9 Pro AI 版 157 元赠 64G 存储卡](https://www.ithome.com/0/774/610.htm)|
+||[炮轰苹果与 OpenAI 合作后，马斯克称造手机并非不可能](https://www.ithome.com/0/774/609.htm)|
+||[腾讯 MMORPG 游戏《塔瑞斯世界》今日上线，移动端、PC 端开启下载](https://www.ithome.com/0/774/608.htm)|
+||[青岛：力争到 2026 年全市算力总规模达 12EFLOPS，存储总量达 10EB](https://www.ithome.com/0/774/606.htm)|
+||[双核 AMD R1600：群晖 DS923+ 四盘位 NAS 存储 3489 元再降价](https://www.ithome.com/0/774/605.htm)|
+||[我国电动汽车充电安全要求新国标将至，覆盖直流交流](https://www.ithome.com/0/774/604.htm)|
+||[大幅缩短研发时间，科学家利用 AI 造出世界最强铁基超导磁体](https://www.ithome.com/0/774/603.htm)|
+||[微软发布 6 月 Win11 累积更新 KB5039212 / KB5039213](https://www.ithome.com/0/774/602.htm)|
+||[比亚迪腾势全新 SUV 谍照曝光：有望为新车“N9”，对标理想 L9 / 问界 M9](https://www.ithome.com/0/774/601.htm)|
+||[SK 海力士将于 2025 年一季度量产 GDDR7 显存](https://www.ithome.com/0/774/600.htm)|
+||[be quiet! 德商德静界推出 Dark Rock 5 单塔静音风冷散热器](https://www.ithome.com/0/774/599.htm)|
 |[V2EX](https://v2ex.com/index.xml)|[ Mac mini 买 M4 Mac mini 还是买 M2 Pro Mac mini？](https://www.v2ex.com/t/1048753#reply1)|
 ||[ macOS mac 用户目录下有一堆看不到的 mp3 文件，这个正常吗？](https://www.v2ex.com/t/1048748#reply3)|
 ||[ 问与答 今天早上去了个 24H 的健身房，练完后直接去上班，换下来的脏衣服丢车里，到下班的时候味道不敢想象，大家有什么办法](https://www.v2ex.com/t/1048746#reply21)|
