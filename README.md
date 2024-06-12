@@ -2,6 +2,30 @@
 
 |来源|标题|
 |---|---|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[乘联分会 5 月汽车销量榜：比亚迪遥遥领先，特斯拉中国 55215 辆低于吉利位列第三](https://www.ithome.com/0/774/709.htm)|
+||[国家网信办发布第六批深度合成服务算法备案信息，腾讯、阿里、快手等在列](https://www.ithome.com/0/774/706.htm)|
+||[传音将研究东南亚地区人像肤色，TECNO 与南洋理工大学 ACRC 达成合作](https://www.ithome.com/0/774/704.htm)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[中国大陆快艇闯台北淡水河口 台湾防卫出现破口引发批评](https://www.bbc.com/zhongwen/simp/chinese-news-69111402)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[周面包: @无聊图](http://i.jandan.net/t/5696641)|
+||[周面包: @无聊图](http://i.jandan.net/t/5696638)|
+||[万寿无疆: @无聊图 单身的lady gaga](http://i.jandan.net/t/5696558)|
+||[万寿无疆: @无聊图](http://i.jandan.net/t/5696557)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5696545)|
+||[ABXY: @无聊图](http://i.jandan.net/t/5696508)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5696461)|
+||[loooook: @无聊图](http://i.jandan.net/t/5696434)|
+|[少数派](http://sspai.me/feed)|[80 后到 00 后，他们在用 PiPods 听……](https://sspai.com/post/78464)|
+|[晓空blog](https://blog.moeworld.tech/feed/)|[近况 · 五月底/六月初](https://blog.moeworld.tech/2024/06/12/%e8%bf%91%e5%86%b5-%c2%b7-%e4%ba%94%e6%9c%88%e5%ba%95-%e5%85%ad%e6%9c%88%e5%88%9d/)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[韦伯望远镜在早期星系中发现碳](https://www.solidot.org/story?sid=78412)|
+||[非洲大象能给彼此起名](https://www.solidot.org/story?sid=78411)|
+||[荷兰政府官员称中国黑客感染了 2 万台 Fortinet VPN](https://www.solidot.org/story?sid=78410)|
+||[树莓派成为上市公司](https://www.solidot.org/story?sid=78409)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[ARC奖：价值100万美元以上开放式AGI竞赛](https://www.jdon.com/74116.html)|
+||[先知：AI将在一两年内超过人类语言能力](https://www.jdon.com/74110.html)|
+||[从通用人工智能到超级智能：智能爆炸](https://www.jdon.com/74109.html)|
+||[从 GPT-4 到 AGI：计算OOM](https://www.jdon.com/74108.html)|
+||[Spring Boot中从自定义Logback访问Spring Bean三种方法](https://www.jdon.com/74107.html)|
+|[初之音](https://www.himiku.com/feed)|[4月追番日记](https://www.himiku.com/archives/2024-4-bangumi.html)|
 |[V2EX](http://www.v2ex.com/index.xml)|[ Apple 什么时候 AppleWatch 有血糖血压功能](https://www.v2ex.com/t/1048951#reply4)|
 ||[  WATCH 最近手表续航雪崩](https://www.v2ex.com/t/1048949#reply1)|
 ||[ 微信 有个微信小程序外包有人做么？](https://www.v2ex.com/t/1048944#reply1)|
