@@ -2,6 +2,30 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://v2ex.com/index.xml)|[ Apple Apple Vision 可能锁区？以及后续猜想](https://www.v2ex.com/t/1048992#reply0)|
+||[ 求职 2 年 Java 开发，已读不回](https://www.v2ex.com/t/1048990#reply0)|
+||[ 生活 充电宝冰箱里放了一礼拜还能用么](https://www.v2ex.com/t/1048989#reply7)|
+||[ 分享发现 docker 国内源没法用了，后面 npm 也有可能没法用了](https://www.v2ex.com/t/1048988#reply0)|
+||[ VPS 溢价收瓦工$19](https://www.v2ex.com/t/1048986#reply0)|
+||[ 问与答 mac RDP win 没有按键映射怎么办？小拇指按 CTRL 很难受啊！](https://www.v2ex.com/t/1048985#reply0)|
+||[ 求职 求职: 11 年一线开发经验, Java /golang 后端开发/初级架构师 base 成都或远程工作](https://www.v2ex.com/t/1048984#reply0)|
+||[ 酷工作 💰 招靠谱的远程兼职，发一条评论 4 元，日结](https://www.v2ex.com/t/1048983#reply0)|
+||[ 远程工作 远程接单 大厂离职，在线接单（可提供个税证明，可开对公发票，有软著资质）](https://www.v2ex.com/t/1048982#reply0)|
+||[ 全球工单系统 避雷！请不要购买阿里云 RDS PostgreSQL， PostgreSQL 是个好数据库，奈何遇到阿里云](https://www.v2ex.com/t/1048981#reply0)|
+||[ 问与答 大家有没有好的 promote 聚合类网站推荐](https://www.v2ex.com/t/1048980#reply0)|
+||[ 酷工作 帕西尼感知科技 招 Nodejs 开发-薪资 open](https://www.v2ex.com/t/1048977#reply0)|
+||[ 职场话题 接了个前端线下的外包的零散活, 心态有点崩](https://www.v2ex.com/t/1048976#reply8)|
+||[ Apple Little Snitch 5 与 Quantumult X 一起使用网速变慢，有解决方法吗？](https://www.v2ex.com/t/1048975#reply0)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[有人知道这个小程序模版 哪里能下到或者买到吗](https://www.v2ex.com/t/1048915#reply6)|
+||[极空间 Nas 有线而 apple tv 通过无线连接，影响电影播放效果吗？](https://www.v2ex.com/t/1048823#reply6)|
+||[闲来无事做了一个证件照的小程序](https://www.v2ex.com/t/1048901#reply7)|
+||[Visual Studio Code 中的 Python – 2024 年 6 月版本 REPL 具有 Intellisense 和语法突出显示、测试重写中的 Pytest 改进](https://www.v2ex.com/t/1048928#reply0)|
+||[给 Unity 开发者提个醒， OpenUPM-CN 关站了，相关包依赖出问题记得排查一下](https://www.v2ex.com/t/1048824#reply1)|
+||[zabbix](https://www.v2ex.com/t/1048749#reply5)|
+||[手游的游戏盒子，这类程序好不好](https://www.v2ex.com/t/1048742#reply7)|
+||[同一个 feed 源,freshrss 和 tinyrss 显示不一样](https://www.v2ex.com/t/1048806#reply0)|
+||[ipython 报错“Shell is already running a gui event loop for tk.”](https://www.v2ex.com/t/1048795#reply0)|
+||[关于 aplay 报错 aplay: main:722: audio open error: Resource busy 的问题](https://www.v2ex.com/t/1048890#reply0)|
 |[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[远程工作自由职业者的宝藏网站合集来啦！](https://w2solo.com/topics/4687)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[中国长城：下属企业开展AIPC相关产品的研发工作，目前已发布Gbook14 笔记本电脑](https://www.36kr.com/newsflashes/2816515669379591)|
 ||[东方电热：在消费类锂电池材料领域已有批量交付使用](https://www.36kr.com/newsflashes/2816514446707203)|
