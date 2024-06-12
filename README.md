@@ -2,6 +2,59 @@
 
 |来源|标题|
 |---|---|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[Nexus3搭建Docker Hub镜像服务 via 荒岛 author: LALA ](https://t.me/liyuans/46793)|
+||[Cheap VDS Starting from $8/Month + 50% Discount with Coupon Code! via Offers — LowEndTalk author: mustafamw3 ](https://t.me/liyuans/46792)|
+|[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[JWST 观测超新星 - June 12, 2024](https://m.idai.ly/se/5des7U)|
+||[英国国王肖像遭恶搞抗议 - June 12, 2024](https://m.idai.ly/se/56300S)|
+||[金砖扩员后首次外长会 - June 12, 2024](https://m.idai.ly/se/962L88)|
+||[德国举办乌克兰复兴会议 - June 12, 2024](https://m.idai.ly/se/10662o)|
+||[俄白启动战术核力量演习 - June 12, 2024](https://m.idai.ly/se/53e5PV)|
+||[加沙地带37164人死亡 - June 12, 2024](https://m.idai.ly/se/42a73S)|
+||[英国皇家艺术研究院夏季展 - June 12, 2024](https://m.idai.ly/se/ee6r4q)|
+||[曼谷宠物市集发生火灾 - June 12, 2024](https://m.idai.ly/se/4beCu8)|
+||[墨尔本霸王龙主题展 - June 12, 2024](https://m.idai.ly/se/586NNO)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[从早到晚都在赶时间：孩子应该有一个怎样的童年？](https://www.infzm.com/contents/273182)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[体验了一整天iOS 18，我竟然觉得它挺值得升](https://36kr.com/p/2816087624436233)|
+||[华为越沉默，台积电越害怕](https://36kr.com/p/2816257989937413)|
+||[字节盯上了“回头草”](https://36kr.com/p/2816564765133064)|
+||[达利欧：美国在衰退期边缘，中国艰难](https://36kr.com/p/2816267115841796)|
+||[茅台价格大跌，2400元/瓶无人愿收，黄牛急了，有“撸货群”连夜跑路](https://36kr.com/p/2816184398530825)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[JavaScript的前世今生](https://juejin.cn/post/7379446118990676005)|
+||[在 Flutter 中正确处理文本缩放](https://juejin.cn/post/7379416139976179775)|
+||[Nest 实现接口多版本管理](https://juejin.cn/post/7379509948902473779)|
+||[就在上周，文档知识引擎Nocode/WEP又新增了3大炸裂功能！](https://juejin.cn/post/7379296086538305548)|
+||[Nest 实现国际化](https://juejin.cn/post/7379496229725257767)|
+||[跟着阮一峰老师学Typescript ts的类型系统。](https://juejin.cn/post/7379446193141301275)|
+||[博客构建性能优化笔记 提速 3 倍](https://juejin.cn/post/7379416139975999551)|
+||[【转载】这里有一份《客户端日志打印规范》呈现给您！](https://juejin.cn/post/7379431208429207561)|
+||[用 Stylus 优化你的 CSS](https://juejin.cn/post/7379446118990233637)|
+||[React 19 总览](https://juejin.cn/post/7379416139975721023)|
+||[uni-app上下级页面数据双向通信](https://juejin.cn/post/7379416139975688255)|
+||[深入理解柯里化与闭包](https://juejin.cn/post/7379446118989922341)|
+||[前端不使用任何插件导出excel，你是否知道？](https://juejin.cn/post/7379437165485785125)|
+||[vue3+vite项目自动转换 px 为 rem](https://juejin.cn/post/7379160957753802793)|
+||[学习笔记丨嵌入式BI分析的12个关键功能](https://juejin.cn/post/7379423024556163107)|
+||[React Router v6 实践](https://juejin.cn/post/7379262453727870991)|
+||[从零开始掌握函数柯里化：面试必备技能](https://juejin.cn/post/7379431978813685772)|
+||[openlayers 绘图功能，编辑多边形，modify组件的使用（三）](https://juejin.cn/post/7379420157669687332)|
+||[实战案例：前端滚动加载的两种实现方式](https://juejin.cn/post/7379446118989676581)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[你会怀念你的高中生活吗？](https://www.zhihu.com/question/657072603/answer/3528590153)|
+||[特斯拉被指库存积压严重「停车场堆满库存车，从太空都能看到」，哪些信息值得关注？](https://www.zhihu.com/question/658671001/answer/3528568467)|
+||[蜜雪冰城客服回应员工在水池洗脚：系脚被烫伤，故用冷水应急处理，你可以接受该解释吗？如何对涉事门店追责？](https://www.zhihu.com/question/658618742/answer/3528550138)|
+||[亚马孙原始部落通网后年轻人沉迷上网不干活，甚至还在群聊中分享色情视频，如何辩证看待互联网的利与弊？](https://www.zhihu.com/question/658633531/answer/3528559975)|
+||[你对刘亦菲36岁演22岁女大学生怎么看？](https://www.zhihu.com/question/658507089/answer/3526539403)|
+||[欧盟披露对中国产电动汽车加征临时关税水平，最高 38.1%，商务部、外交部回应，哪些信息值得关注？](https://www.zhihu.com/question/658733692/answer/3528532361)|
+||[女子在家中被捅伤致死，其母称案发时保安在场，质疑物业不作为，此案物业和保安应承担哪些法律责任？](https://www.zhihu.com/question/658642255/answer/3528528144)|
+||[中国晋级世界杯亚洲区18强赛了，18强赛什么样的分组对中国队最有利？](https://www.zhihu.com/question/658711275/answer/3528471627)|
+||[有什么原因能两天不回消息呢？](https://www.zhihu.com/question/658574129/answer/3528464116)|
+||[男朋友家给了彩礼，嫌我家什么嫁妆还没给，我很生气，我的做法对吗？](https://www.zhihu.com/question/657482588/answer/3528430764)|
+||[2023 年韩国人均国民总收入超 3.6 万美元，首次超过日本，背后有哪些原因？](https://www.zhihu.com/question/658670999/answer/3528426174)|
+||[2024 LPL 夏季赛LNG 1:2 RA，如何评价这场比赛？](https://www.zhihu.com/question/658729341/answer/3528397739)|
+|[先知安全技术社区](https://xz.aliyun.com/feed)|[【翻译】使用 Windows API 行为检测键盘记录程序,保护您的设备免受信息盗窃](https://xz.aliyun.com/t/14790)|
+||[阅读论文"用于车联网安全车载通信的机器学习技术"的学习笔记](https://xz.aliyun.com/t/14827)|
+||[R3CTF2024-web-R3PHP复现学习](https://xz.aliyun.com/t/14826)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[B端弹窗设计｜如何科学定义弹窗的尺寸规范？](https://www.woshipm.com/ucd/6068739.html)|
+||[客户体验：拼多多“仅退款”，玩的是博弈论高端局！](https://www.woshipm.com/pd/6068733.html)|
 |[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[Mozilla 应俄罗斯要求从扩展商店移除了规避审查的扩展](https://www.solidot.org/story?sid=78416)|
 ||[英国警方逮捕了两名使用自制手机信号塔进行短信钓鱼的嫌疑人](https://www.solidot.org/story?sid=78415)|
 ||[硅谷的薪酬在下降](https://www.solidot.org/story?sid=78414)|
