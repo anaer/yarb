@@ -2,6 +2,82 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[信息差和认知真的会迫害很多人。 最近在河南做市场，不开玩笑，做完这两个月我需要去找心理医生了。 很多家长在报志愿的时候用免费/几十块几百块的系统，一问到...](https://m.okjike.com/originalPosts/66696b30f9d452fbbcb15567)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[热门中概股美股盘前涨跌不一，知乎涨超3%](https://www.36kr.com/newsflashes/2816816232335620)|
+||[美股大型科技股盘前多数上涨，英伟达、Meta涨超1%](https://www.36kr.com/newsflashes/2816814245611780)|
+||[美凯龙：第二大股东红星控股申请重整](https://www.36kr.com/newsflashes/2816811986274824)|
+||[互换合约显示，市场预计美联储11月降息25个基点的可能性达到100%](https://www.36kr.com/newsflashes/2816801003211008)|
+||[美国5月CPI同比上升3.3%，环比持平](https://www.36kr.com/newsflashes/2816800080103939)|
+||[英诺赛科向港交所递交上市申请](https://www.36kr.com/newsflashes/2816788277037321)|
+||[百事公司西北首家食品生产基地正式动工，总投资约13亿元](https://www.36kr.com/newsflashes/2816784110193160)|
+||[超1500只A股年内已实施回购，金额超930亿元，创历史同期新高](https://www.36kr.com/newsflashes/2816779244997127)|
+||[西安：适当降低乘用车贷款首付比例](https://www.36kr.com/newsflashes/2816773978376457)|
+||[超讯通信回应媒体报道：公司与外协供应商不存在关联关系](https://www.36kr.com/newsflashes/2816765841328389)|
+||[消息称懂车帝将独立IPO，公司回应：有确切消息会对外披露](https://www.36kr.com/newsflashes/2816758123858441)|
+||[妙可蓝多：拟4.48亿元现金收购蒙牛奶酪100%股权](https://www.36kr.com/newsflashes/2816742940756484)|
+||[普华永道持续丢单损失近5亿元](https://www.36kr.com/newsflashes/2816727413180931)|
+||[上工申贝：参与ICON破产重整不存在迎合市场概念的情况，该交易已出现其他竞争者参与竞买](https://www.36kr.com/newsflashes/2816726346304006)|
+||[摩根士丹利：DRAM将迎供需失衡“超级周期”，明年标准型DRAM供应缺口高达23%](https://www.36kr.com/newsflashes/2816724234668547)|
+||[网传两大券商军工首席被带走，光大证券、长江证券双双否认：“人在岗”](https://www.36kr.com/newsflashes/2816708258826758)|
+||[贝恩公司：2023年中国企业出海资金量同比增长11%，企业数量增长23%](https://www.36kr.com/newsflashes/2816707497838855)|
+||[招商轮船：拟分拆子公司重组上市](https://www.36kr.com/newsflashes/2816704669337860)|
+||[联邦快递将在欧洲裁员2000人，预计每年节省1.75亿美元成本](https://www.36kr.com/newsflashes/2816704091048452)|
+||[深圳机场：5月旅客吞吐量478.83万人次，同比增长9.52%](https://www.36kr.com/newsflashes/2816675932473856)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[复旦大学 NLP 实验室发布大模型高考数学测评结果，国内 AI 大模型成绩超 GPT-4o，如何看待这一结果？](https://www.zhihu.com/question/658712554)|
+||[像进入怪圈一样「反反复复的想」是一种什么思维或心态？它是怎么形成的？](https://www.zhihu.com/question/658368065)|
+||[喜欢跑步，但感觉跑步准备工作要做很多，如何减少一些步骤让每次跑步更轻松省时？](https://www.zhihu.com/question/658422549)|
+||[当下形势看，是学金融好，还是学经济学好？](https://www.zhihu.com/question/324234585)|
+||[TI13 中国区预选赛 LGD 0:2 不敌 TURTLE，十年来首次无缘 TI，对此你有什么想说的？](https://www.zhihu.com/question/658719295)|
+||[2024 年 6 月上海房子值得入手吗？](https://www.zhihu.com/question/657437969)|
+||[踢足球造成他人受伤是否应具有负罪感?](https://www.zhihu.com/question/654111595)|
+||[有什么原因能两天不回消息呢？](https://www.zhihu.com/question/658574129)|
+||[需要加 5.67 升机油的车，机油加到 5 升的时候启动了，会不会造成磨损拉缸？](https://www.zhihu.com/question/656080007)|
+||[还记得听到高考最后一场广播「考试结束，请考生立刻停笔」，你是什么感受吗？](https://www.zhihu.com/question/656586275)|
+||[2023 年韩国人均国民总收入超 3.6 万美元，首次超过日本，背后有哪些原因？](https://www.zhihu.com/question/658670999)|
+||[白领丈夫在家乡失业，她辞编重回上海加入考公大军，为什么现在考公竞争愈发激烈？公务员真的是铁饭碗吗?](https://www.zhihu.com/question/658615414)|
+||[黑客会不会入侵高考打印机来窃取高考题呢？](https://www.zhihu.com/question/657166296)|
+||[网友评出 19 个「最差」大学专业，你认可吗？](https://www.zhihu.com/question/654522668)|
+||[韩国人真的相信他们所谓的「历史」吗？](https://www.zhihu.com/question/644296605)|
+||[SpaceX 星舰试射明年加载载荷只有 40~50 吨是怎么误传 150~250 吨的?](https://www.zhihu.com/question/658625083)|
+||[电子竞技不看脸，但假如说有一位天才少年极有天赋，但面部有残疾导致相貌很可怕，能有机会打职业么?](https://www.zhihu.com/question/657595392)|
+||[为什么以前公路自行车上的横把刹车现在完全没有了?](https://www.zhihu.com/question/658533083)|
+||[160 个来自黎巴嫩的「发射物」射向以色列，当地具体情况如何？是否意味着巴以冲突的再次升级？](https://www.zhihu.com/question/658730686)|
+||[预算一万以内求推荐手表？](https://www.zhihu.com/question/656191861)|
+||[如何缓解考试后「等待分数」阶段的焦虑感和紧张感？](https://www.zhihu.com/question/658169344)|
+||[含有「袅袅」的诗词有哪些？](https://www.zhihu.com/question/658623267)|
+||[都说儿子的智商更多来自于母亲，请问你身边正面案例多还是反面案例多？](https://www.zhihu.com/question/658345591)|
+||[苹果 WWDC 大会放大招股价却跌了，市值蒸发 580 亿美元，这是为什么？你看好苹果 AI 系统吗？](https://www.zhihu.com/question/658632987)|
+||[你会怀念你的高中生活吗？](https://www.zhihu.com/question/657072603)|
+||[男朋友家给了彩礼，嫌我家什么嫁妆还没给，我很生气，我的做法对吗？](https://www.zhihu.com/question/657482588)|
+||[有哪些已经被毁掉的文物珍宝？](https://www.zhihu.com/question/284979676)|
+||[你对刘亦菲 36 岁演 22 岁女大学生怎么看？](https://www.zhihu.com/question/658507089)|
+||[「考试焦虑」是一种怎样的情绪或状态呢？如何有效缓解？](https://www.zhihu.com/question/658169314)|
+||[句句不提励志，但句句都是励志的诗词有哪些?](https://www.zhihu.com/question/658675165)|
+||[新加坡门将椰浆饭摊位地址曝光，本人回应「感谢中国球迷支持」，为何如此受中国粉丝喜爱？](https://www.zhihu.com/question/658706612)|
+||[什么话让你一下子感受到文字的力量？](https://www.zhihu.com/question/639336442)|
+||[女子西湖落水「躺平」等来救援，落水后的「躺平式」自救有用吗？还有哪些自救方式？](https://www.zhihu.com/question/658606516)|
+||[与「糖」有关的烹饪方式都有什么？不同的形态、质感、风味下，糖发生了哪些变化？](https://www.zhihu.com/question/657329884)|
+||[国足晋级 18 强赛，有什么想说的？](https://www.zhihu.com/question/658671161)|
+||[如何看待《英雄联盟》已经近半年没有上线新英雄？](https://www.zhihu.com/question/657926473)|
+||[蜜雪冰城客服回应员工在水池洗脚，称「系脚被烫伤，故用冷水应急处理」，你可以接受该解释吗？如何对涉事门店追责？](https://www.zhihu.com/question/658618742)|
+||[特斯拉被指库存积压严重「停车场堆满库存车，从太空都能看到」，哪些信息值得关注？](https://www.zhihu.com/question/658671001)|
+||[中国晋级世界杯亚洲区 18 强赛了，18 强赛什么样的分组对中国队最有利？](https://www.zhihu.com/question/658711275)|
+||[2024 LPL 夏季赛 LNG 1:2 RA，如何评价这场比赛？](https://www.zhihu.com/question/658729341)|
+|[异次元软件世界](http://feed.iplaysoft.com/)|[苹果 macOS Sequoia 15 最新 Beta 测试版下载 - Mac 原版系统 ISO 镜像 网盘地址 ](https://www.iplaysoft.com/macos-sequoia.html)|
+|[拾月](https://www.skyue.com/feed/)|[从弃用Memos说说开源项目](https://www.skyue.com/24061300.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ DNS 高校里面自建的 DNS 服务器是怎么弄的](https://www.v2ex.com/t/1049071#reply15)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[聊聊蒙牛的估值，低估？高估？合理？](http://xueqiu.com/6180156458/293448460)|
+||[从业内的角度独家披露海油还能卖油100年？](http://xueqiu.com/8421794231/293453343)|
+||[通过格栅思维获得智慧](http://xueqiu.com/9927088462/293465596)|
+||[建设银行2023年度财报全方面深度解读](http://xueqiu.com/1707706450/293405607)|
+||[白酒是少数派](http://xueqiu.com/7913104177/293406399)|
+|[少数派](http://sspai.me/feed)|[捧读、Miraa 开发者周楷雯都装了啥？](https://sspai.com/prime/story/zhuanglesha-240612)|
+||[2024 德国欧洲杯观赛指南](https://sspai.com/post/89490)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Train Simulator Classic 2024 DLC Chatham Main Line - London-Gillingham Route Add-On Windows ￥116→0 ](https://free.apprcn.com/get-steam-game-train-simulator-classic-2024-dlc-chatham-main-line-london-gillingham-route-add-on-for-free/)|
+||[免费获取半年 IObit Uninstaller 13 Pro 授权 Windows $14.99→0 ](https://free.apprcn.com/get-6-months-iobit-uninstaller-13-pro-license-for-free-6/)|
+|[虎嗅](https://rss.huxiu.com/)|[长江电力“无动力滑翔”](https://www.huxiu.com/article/3119486.html?f=rss)|
+||[苹果跟OpenAI搞一起，马斯克怎么就破防了？](https://www.huxiu.com/article/3130477.html?f=rss)|
+||[长三角不必模仿大湾区](https://www.huxiu.com/article/3130476.html?f=rss)|
 |[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[Nexus3搭建Docker Hub镜像服务 via 荒岛 author: LALA ](https://t.me/liyuans/46793)|
 ||[Cheap VDS Starting from $8/Month + 50% Discount with Coupon Code! via Offers — LowEndTalk author: mustafamw3 ](https://t.me/liyuans/46792)|
 |[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[JWST 观测超新星 - June 12, 2024](https://m.idai.ly/se/5des7U)|
