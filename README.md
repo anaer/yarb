@@ -2,6 +2,56 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[阿联酋部长称美国对中东成为中国AI代理的担忧是合理的](https://m.cnbeta.com.tw/view/1434482.htm)|
+||[韩国人工智能芯片开发商 Rebellions 和 Sapeon 将合并](https://m.cnbeta.com.tw/view/1434481.htm)|
+||[功耗直接做到0W 三星彩色电子纸显示屏首秀](https://m.cnbeta.com.tw/view/1434480.htm)|
+||[特斯拉陶琳为马斯克拉票：马斯克对公司实现宏伟目标至关重要](https://m.cnbeta.com.tw/view/1434479.htm)|
+||[郭明錤解密Apple Intelligence：端侧模型对DRAM需求约为2GB或更低](https://m.cnbeta.com.tw/view/1434478.htm)|
+||[农夫山泉，想靠冰杯干掉瑞幸](https://m.cnbeta.com.tw/view/1434476.htm)|
+||[台积电回应涨价传闻：定价以策略而非机会为导向 持续与客户紧密合作](https://m.cnbeta.com.tw/view/1434475.htm)|
+||[澳大利亚一学校约50名女生“裸照”在网上传播 校方称由AI生成](https://m.cnbeta.com.tw/view/1434473.htm)|
+||[创作者质疑360AI发布会盗图 360回应：超出认知 法庭见](https://m.cnbeta.com.tw/view/1434472.htm)|
+||[图解特斯拉VS比亚迪全球工厂分布及产能对比](https://m.cnbeta.com.tw/view/1434471.htm)|
+||[SK hynix悄然升级消费级Platinum P51 Gen5 SSD 速度达到惊人的14GB/s](https://m.cnbeta.com.tw/view/1434470.htm)|
+||[澜起科技将英特尔至强6E"Sierra Forest"系列改名C6E在国内市场销售](https://m.cnbeta.com.tw/view/1434468.htm)|
+||[SK海力士计划2025Q1量产GDDR7 传输速度达40Gbps](https://m.cnbeta.com.tw/view/1434467.htm)|
+||[中国商务部政策要求大规模扩大中国的跨境电子商务产业](https://m.cnbeta.com.tw/view/1434466.htm)|
+||[2024新财富500创富榜揭晓：钟睒睒再夺中国首富 王健林王思聪父子重回前十](https://m.cnbeta.com.tw/view/1434465.htm)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[发现对面有一只波奇🤭](https://www.wikimoe.com/post/t8hf4yia)|
+|[澳大利亚广播公司](https://plink.anyfeeder.com/abc/cn)|[塔利班欲重振旅游业：那些不顾劝阻到阿富汗度假的澳洲人](https://newsapp.abc.net.au/newsapp//chinese/2024-06-12/australians-are-holidaying-in-afghanistan-despite-taliban-rul/103965572)|
+||[美国教师中国被刺：美国大使深感愤怒和不安 北京强调为“偶发”](https://newsapp.abc.net.au/newsapp//chinese/2024-06-12/four-us-instructors-stabbed-in-northeast-china/103966948)|
+|[IT之家](https://www.ithome.com/rss/)|[雷克沙 NM1090 PCIe 5.0 固态硬盘上市：读速 12000MB/s、RGB 灯效，1599 元起](https://www.ithome.com/0/774/736.htm)|
+||[14.98 万元起，奇瑞 iCAR 03 四驱智能版型汽车发布：472km 续航、大疆智驾 L2++](https://www.ithome.com/0/774/735.htm)|
+||[传输速率至高 512GB/s，Synopsys 推出业界首个 PCIe 7.0 完整 IP 解决方案](https://www.ithome.com/0/774/734.htm)|
+||[马斯克被曝与 SpaceX 多名员工有染](https://www.ithome.com/0/774/733.htm)|
+||[为啥高考完，学了三年的东西立马忘干净了](https://www.ithome.com/0/774/732.htm)|
+||[电脑上的平行视界：兆懿 12.1 更新骈窗智览、无限分身、桌面扫描、文件互通等功能](https://www.ithome.com/0/774/731.htm)|
+||[字节跳动火山方舟大模型平台向个人开发者开放，提供 50 万 tokens 免费推理额度](https://www.ithome.com/0/774/730.htm)|
+||[定格动画电影《鬼妈妈》3D 重制版公开新海报，今年 8 月重映](https://www.ithome.com/0/774/728.htm)|
+||[LG 推出 14kg 觅境洗衣机：三变频动力，首发 7999 元](https://www.ithome.com/0/774/727.htm)|
+||[九州风神冰立方 AK620 数显专业版风冷散热器上架，顶盖可同时显示四项数据](https://www.ithome.com/0/774/726.htm)|
+||[609.99 美元，EK 推出 ROG Maximus Z790 Extreme 主板专用 Quantum Momentum² 冷头](https://www.ithome.com/0/774/725.htm)|
+||[知乎 2024 年一季度营收 9.609 亿元同比下滑 3%，亏损 1.658 亿元同比收窄 7.4%](https://www.ithome.com/0/774/723.htm)|
+||[【IT之家开箱】联想 ThinkCentre M 大师系列台式机图赏：经典设计，内稳外成](https://www.ithome.com/0/774/722.htm)|
+||[违反《位置信息保护法》，苹果和谷歌等 188 家公司被韩国监管机构罚款](https://www.ithome.com/0/774/721.htm)|
+||[企业微信宣布严打“外挂”行为，涉及账号多开、无限群发消息、自动模拟用户手动操作等等](https://www.ithome.com/0/774/720.htm)|
+||[创造多项世界纪录：世界最大库盆填筑工程上水库正式蓄水，缓解苏南供电紧缺](https://www.ithome.com/0/774/719.htm)|
+||[广汽埃安被指解约应届生，官方回应称情况属实](https://www.ithome.com/0/774/718.htm)|
+||[2024 款瑞虎 8 鲲鹏版汽车上市： 1.6T 发动机、5/7 座中型 SUV，12.79 万元](https://www.ithome.com/0/774/717.htm)|
+||[「树莓派」上市，一块「板子」的逆袭之路](https://www.ithome.com/0/774/716.htm)|
+||[仅退款功能的退款金额无上限？阿里 1688 回应：信息不实](https://www.ithome.com/0/774/714.htm)|
+||[波音“星际客机”意外不断，NASA 宣布飞船返航时间推迟至 6 月 18 日以后](https://www.ithome.com/0/774/713.htm)|
+||[多彩图案设计、18 个月续航，罗技 M340 Collection 无线鼠标售价 19.99 美元](https://www.ithome.com/0/774/712.htm)|
+||[《黑神话：悟空》PC 实体豪华 / 收藏版开启第二轮预约，6 月 17 日晚开抢](https://www.ithome.com/0/774/711.htm)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[Python 定义类或函数都没有用大括号，格式岂不是很容易乱掉？](https://www.v2ex.com/t/1048930#reply33)|
+||[各位程序员目前怎么跟踪业界技术动态？](https://www.v2ex.com/t/1048919#reply20)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI 在用 免费！Adobe一分钟生成火柴人搞笑动画，视频、配音一锅出](https://www.jiqizhixin.com/articles/2024-06-12-5)|
+||[「思谋科技」获香港投资管理集团首笔投资，香港政府AI战略正式拉开](https://www.jiqizhixin.com/articles/2024-06-12-4)|
+||[探索大脑中语言理解机制，香港理工大学研究登Science子刊](https://www.jiqizhixin.com/articles/2024-06-12-3)|
+||[22个任务超越SOTA，43个任务媲美SOTA，Google推出医学治疗通用大模型](https://www.jiqizhixin.com/articles/2024-06-12-2)|
+||[院士领衔、百余位专家到场、数十家产业链企业齐聚！2024中国人形机器人开发者大会暨第三届张江机器人全球生态峰会在张江科学会堂举办](https://www.jiqizhixin.com/articles/2024-06-12)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[阿里云学生认证领300元抵扣金无门槛使用](https://www.cheshirex.com/8396.html)|
+|[极客公园](http://www.geekpark.net/rss)|[「树莓派」上市，一块「板子」的逆袭之路](http://www.geekpark.net/news/336408)|
 |[知乎热榜](https://rsshub.app/zhihu/hotlist)|[要想畅爽夏日，选购空调该如何平衡「智能」和「性能」这档子事？](https://www.zhihu.com/question/658639978/answer/3528086211)|
 ||[高考已经结束了，大家跟喜欢的人表白了吗？](https://www.zhihu.com/question/658568009/answer/3528069464)|
 ||[苹果iOS18终于支持通话录音了，对此你有什么看法？](https://www.zhihu.com/question/658610278/answer/3528050552)|
