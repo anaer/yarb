@@ -2,6 +2,56 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[Mozilla 应俄罗斯要求从扩展商店移除了规避审查的扩展](https://www.solidot.org/story?sid=78416)|
+||[英国警方逮捕了两名使用自制手机信号塔进行短信钓鱼的嫌疑人](https://www.solidot.org/story?sid=78415)|
+||[硅谷的薪酬在下降](https://www.solidot.org/story?sid=78414)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ DNS 高校里面自建的 DNS 服务器是怎么弄的](https://www.v2ex.com/t/1049071#reply14)|
+||[ 宽带症候群 求鼠标推荐](https://www.v2ex.com/t/1049041#reply12)|
+||[ 问与答 为什么没有 Linux 模拟器？](https://www.v2ex.com/t/1049021#reply19)|
+||[ 日本 有兄弟在日本工作的吗？给点意见](https://www.v2ex.com/t/1049015#reply24)|
+|[触乐](http://www.chuapp.com/feed)|[触乐夜话：无法原谅的人](http://www.chuapp.com/article/290024.html)|
+||[游戏UI的困境：既不可或缺，又不受重视](http://www.chuapp.com/article/290025.html)|
+|[乌托邦软件](https://www.rdonly.com/?feed=rss2)|[遇见夏天-一个干净的树洞聊天 App](https://www.rdonly.com/archives/7482)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[下午察：新加坡门将拯救中国男足之后](https://www.zaobao.com/realtime/china/story20240612-3918781)|
+||[港环境局：两年内实现一公屋一厨余桶目标](https://www.zaobao.com/realtime/china/story20240612-3916545)|
+||[韩国有城市望开展大熊猫合作 中国称有严格评估标准](https://www.zaobao.com/realtime/china/story20240612-3916152)|
+||[蜜雪冰城北京门店员工在水池洗脚 涉事门店被责令闭店](https://www.zaobao.com/realtime/china/story20240612-3915964)|
+||[王毅：加快推进中泰铁路 实现中老泰联通发展构想](https://www.zaobao.com/realtime/china/story20240612-3915703)|
+||[台民进党呼吁在野党冷静看待行政院复议案七理由](https://www.zaobao.com/realtime/china/story20240612-3915540)|
+||[台陆委会：赴港澳风险升高](https://www.zaobao.com/realtime/china/story20240612-3916949)|
+||[新加坡门将助中国男足出线 中国球迷爆买他名下椰浆饭](https://www.zaobao.com/realtime/china/story20240612-3916685)|
+||[民进党高层称用手机讯号分析民众个资 蓝委爆资料来自民进党会议](https://www.zaobao.com/realtime/china/story20240612-3916237)|
+||[美国生物安全法案生变？药明康德等股大涨](https://www.zaobao.com/realtime/china/story20240612-3916377)|
+||[欧盟据报下月对中国电车加征关税 中国外交部：典型保护主义](https://www.zaobao.com/realtime/china/story20240612-3916551)|
+||[胡歌与上海台办主任抵台 话题登微博热搜](https://www.zaobao.com/realtime/china/story20240612-3916168)|
+||[港保安局长：市民付费订阅潜逃者社交平台均属违法](https://www.zaobao.com/realtime/china/story20240612-3915793)|
+||[中国证监会：欢迎中东国家在内外国金融机构扩大对华投资](https://www.zaobao.com/realtime/china/story20240612-3915705)|
+||[澳洲4月对华葡萄酒出口猛增](https://www.zaobao.com/realtime/china/story20240612-3915740)|
+||[国台办评黄仁勋“台湾国家论”：希望他好好补补课](https://www.zaobao.com/realtime/china/story20240612-3915084)|
+||[阿迪达斯中国区高管被举报收受回扣和职场霸凌等](https://www.zaobao.com/realtime/china/story20240612-3914928)|
+||[台工研院：今年半导体产值或首破5万亿新台币大关](https://www.zaobao.com/realtime/china/story20240612-3914408)|
+||[澳国库部长：澳洲对澳中关系“并不天真”](https://www.zaobao.com/realtime/china/story20240612-3915224)|
+||[石宇奇登上羽球男单世界排名榜首](https://www.zaobao.com/realtime/china/story20240612-3913758)|
+||[大陆男乘快艇抵台 国台办：纯属个人行为](https://www.zaobao.com/realtime/china/story20240612-3914180)|
+||[台新竹舰现身夏威夷 台媒：外界怀疑参加环太平洋军演](https://www.zaobao.com/realtime/china/story20240612-3914839)|
+||[恒大汽车天津厂被地方政府要求停产停售](https://www.zaobao.com/realtime/china/story20240612-3913189)|
+||[国台办谈胡歌赴台：两岸同胞喜闻乐见的好事](https://www.zaobao.com/realtime/china/story20240612-3913987)|
+|[IT之家](https://www.ithome.com/rss/)|[微软发布 Xbox 2024 年 6 月更新：个性化动态背景、存储 Wi-Fi 数量提至 10 个](https://www.ithome.com/0/774/781.htm)|
+||[《怪物猎人：崛起》《孤岛惊魂 4》等游戏本月加入索尼 PS+ Extra](https://www.ithome.com/0/774/782.htm)|
+||[谷歌 Pixel Watch 3 XL 手表渲染图首曝：1.45 英寸屏幕、直径 45mm、厚度 13.89mm](https://www.ithome.com/0/774/780.htm)|
+||[蔚来回应欧盟拟对华电动车加征关税：不利于全球环保和可持续发展](https://www.ithome.com/0/774/779.htm)|
+||[小米智能摄像机 C300 双摄版众筹上线：一机双画面，众筹价 269 元](https://www.ithome.com/0/774/778.htm)|
+||[部分采用台积电 N3B 工艺，英特尔 Arrow Lake-U / H / HX 移动处理器现身海关数据](https://www.ithome.com/0/774/777.htm)|
+||[芝奇 DDR5 6400 CL32 皇家戟 RGB 内存条正式上市：双 32GB 套装 2149 元](https://www.ithome.com/0/774/776.htm)|
+||[非 AI PC 无法使用，微软画图 Cocreator 最低要求 40 TOPS 算力](https://www.ithome.com/0/774/775.htm)|
+||[网件 Orbi 770 三频 Wi-Fi 7 无线路由器发布：BE11000 规格，三只套装价 999 美元](https://www.ithome.com/0/774/774.htm)|
+||[轻薄“铝坨坨”699 元起，IQUNIX MG65 系列矮轴机械键盘发布](https://www.ithome.com/0/774/773.htm)|
+||[微软“砍刀部”继续发力，Windows 远程连接功能 DirectAccess 宣布弃用](https://www.ithome.com/0/774/772.htm)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[AICon 全球人工智能开发与应用大会（上海） 2024 启动筹备，众多热点专题诚征演讲嘉宾](https://www.infoq.cn/article/Zvimp8MvEFT0GtPEk7jL)|
+||[MaaS是伪命题吗？超级对齐本质是什么？顶级专家云集探讨大模型最新趋势](https://www.infoq.cn/article/HjFQ3QWKz7KDebEiMPsR)|
+||[基于Ascend C的FlashAttention算子性能优化最佳实践](https://www.infoq.cn/article/07ae0707164d0aae23f329024)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[对话产品经理丨极氪 MIX 杨大成：如何把一台概念车做到量产？](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517110&idx=2&sn=33d272ff931a88b92c6ed927b84995df)|
+||[制造光刻机 40 年，一本新书重新发现了 ASML 成功的秘密](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517110&idx=1&sn=5a345ff1859fd68e1d313b68866cf45a)|
 |[林小鹿英语精读 的 bilibili...](https://rsshub.app/bilibili/user/dynamic/483301783)|[外刊精读 《华盛顿邮报》 为什么现在年轻人热衷于搞副业？ 北大硕士精读 考研英语 四级 六级 托福雅思 专四专八](https://t.bilibili.com/942140165139202098)|
 |[Aemon's Blog](https://aemoncao.github.io/rss2.xml)|[榨干这台 NAS 第 005 话-外网访问之 Tailscale](https://aemoncao.github.io/2024/06/12/%E6%A6%A8%E5%B9%B2%E8%BF%99%E5%8F%B0NAS%E7%AC%AC005%E8%AF%9D-%E5%A4%96%E7%BD%91%E8%AE%BF%E9%97%AE%E4%B9%8BTailscale/)|
 |[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[友情推荐一下，有营业执照，代理记账还有社保代缴需求的老板们。 我选了一周，找到个靠谱的营业执照代理，价格已经打下来了，应该是全网最低，附赠各种公司经营...](https://m.okjike.com/originalPosts/666939d3020bdd6bf875736a)|
