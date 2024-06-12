@@ -142,7 +142,7 @@ def parseThread(url: str, proxy_url=''):
             tomorrow = datetime.datetime.today() + datetime.timedelta(1)
 
             # 过滤v2ex回复较少的发帖
-            if check_reply_number(entry.link):
+            if not check_reply_number(entry.link):
                 continue
 
             if pubday > beginTime and pubday < tomorrow:
