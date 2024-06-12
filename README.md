@@ -2,6 +2,53 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[要想畅爽夏日，选购空调该如何平衡「智能」和「性能」这档子事？](https://www.zhihu.com/question/658639978/answer/3528086211)|
+||[高考已经结束了，大家跟喜欢的人表白了吗？](https://www.zhihu.com/question/658568009/answer/3528069464)|
+||[苹果iOS18终于支持通话录音了，对此你有什么看法？](https://www.zhihu.com/question/658610278/answer/3528050552)|
+||[应该选择退学复读再拼一把还是规规矩矩地过完一生？](https://www.zhihu.com/question/658581846/answer/3528042630)|
+||[高考时哪一科最让你意难平？](https://www.zhihu.com/question/658459907/answer/3528023023)|
+||[如何缓解考试后「等待分数」阶段的焦虑感和紧张感？](https://www.zhihu.com/question/658169344/answer/3528011863)|
+||[特斯拉被指库存积压严重，今年一季度销量「遇冷」，什么原因？特斯拉汽车卖不动了吗？](https://www.zhihu.com/question/658698446/answer/3528001200)|
+||[如何看待《黑神话：悟空》被吧友破解，点击启动游戏将自动播放蓝光修复版 86 版《西游记》？](https://www.zhihu.com/question/658573383/answer/3527988219)|
+||[有没有哪句话对你影响很大?](https://www.zhihu.com/question/658630955/answer/3527985196)|
+||[各位面试官觉得「线上」和「线下」面试效果真的有区别吗？](https://www.zhihu.com/question/657960041/answer/3527970167)|
+||[《大主宰》中，如果浮屠古族硬是镇压甚至击杀药尘和林貉，林动和萧炎会不会为了大局暂时放下仇恨？](https://www.zhihu.com/question/658256767/answer/3527955903)|
+||[像高中一样起早贪黑的努力三年，收入达到一百万年薪，你愿意吃这个苦吗？](https://www.zhihu.com/question/657962522/answer/3527920227)|
+||[国足还是如愿晋级了18强赛，这也是件喜事，为何很多国足球迷都高兴不起来?](https://www.zhihu.com/question/658670234/answer/3527911183)|
+||[曼联最终决定让滕哈赫留下继续担任主教练，滕哈赫能否引进新时代的曼联走上复兴之路？](https://www.zhihu.com/question/658697999/answer/3527862031)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[苹果iOS 18大测评：33项+更新，附Bug汇总、续航跑分测试](https://www.coolapk.com/feed/56686944?shareKey=MjFlMjdmMWYxMGE3NjY2OTNmM2Q~)|
+||[Pura70Ultra x100pro 一加12摄影对比](https://www.coolapk.com/feed/56686654?shareKey=ZDg5MmYwMTcwNGNmNjY2OTNmM2Q~)|
+||[狗东自营购入，传说顶级翻车](https://www.coolapk.com/feed/56686481?shareKey=NTQxNGE2ZGE4MGVmNjY2OTNmM2Q~)|
+||[为环保做一份贡献，旧手机别再扔了](https://www.coolapk.com/feed/56684871?shareKey=ZDQwODUxYTBmOGE2NjY2OTNmM2Q~)|
+||[去伪存真——如何辨别真假消息](https://www.coolapk.com/feed/56685713?shareKey=MTQ5OWNlNzU3YTI2NjY2OTNmM2Q~)|
+||[刚到的黑赛博和银钢方舟](https://www.coolapk.com/feed/56685941?shareKey=Njg4ZjI3Mjc1MzNhNjY2OTNmM2Q~)|
+||[今日壁纸＆](https://www.coolapk.com/feed/56685819?shareKey=MGJlMmY4ZDQwN2VmNjY2OTNmM2Q~)|
+||[小米 14 关于 usb 接口网速测试](https://www.coolapk.com/feed/56685785?shareKey=MDJjNTc1ZTU2NWZiNjY2OTNmM2Q~)|
+||[华北电力大学动力工程813传热学](https://www.coolapk.com/feed/56684932?shareKey=YWIyOTA0NDhmMjk3NjY2OTNmM2Q~)|
+||[因为几个问题，最终还是换回了苹果](https://www.coolapk.com/feed/56684483?shareKey=ODBjYWU1Y2UwYjA4NjY2OTNmM2Q~)|
+||[夏日小清新主题《开心一夏日全局》](https://www.coolapk.com/feed/56683186?shareKey=ZjIxZDY4Y2MzYzM3NjY2OTNmM2Q~)|
+||[什么，我被商家起诉了？](https://www.coolapk.com/feed/56682676?shareKey=MTM0ZTcwZmQwYjE3NjY2OTNmM2Q~)|
+||[对color OS15的妄想](https://www.coolapk.com/feed/56682233?shareKey=ODNjZjdhNDMzM2NlNjY2OTNmM2Q~)|
+||[小米平板1在2024年还能干什么](https://www.coolapk.com/feed/56676831?shareKey=NzFiM2ExNjZkMDM3NjY2OTNmM2Q~)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[Vue3 对象内部修改自身属性值后，如何触发响应式？](https://segmentfault.com/q/1010000044958007)|
+||[如何将 HTML5 Canvas 转换为带文字层的 PDF？](https://segmentfault.com/q/1010000044957616)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[内有川普，外有欧洲极右翼：拜登的“结盟策略”面临双重考验](https://cn.wsj.com/amp/articles/%E5%86%85%E6%9C%89%E5%B7%9D%E6%99%AE-%E5%A4%96%E6%9C%89%E6%AC%A7%E6%B4%B2%E6%9E%81%E5%8F%B3%E7%BF%BC-%E6%8B%9C%E7%99%BB%E7%9A%84-%E7%BB%93%E7%9B%9F%E7%AD%96%E7%95%A5-%E9%9D%A2%E4%B8%B4%E5%8F%8C%E9%87%8D%E8%80%83%E9%AA%8C-29de9735)|
+||[苹果与OpenAI结盟对四大科技巨头意味着什么？](https://cn.wsj.com/amp/articles/%E8%8B%B9%E6%9E%9C%E4%B8%8Eopenai%E7%BB%93%E7%9B%9F%E5%AF%B9%E5%9B%9B%E5%A4%A7%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-45444582)|
+||[重要导弹试验场如何不被巨浪淹没？美军要与时间赛跑](https://cn.wsj.com/amp/articles/%E9%87%8D%E8%A6%81%E5%AF%BC%E5%BC%B9%E8%AF%95%E9%AA%8C%E5%9C%BA%E5%A6%82%E4%BD%95%E4%B8%8D%E8%A2%AB%E5%B7%A8%E6%B5%AA%E6%B7%B9%E6%B2%A1-%E7%BE%8E%E5%86%9B%E8%A6%81%E4%B8%8E%E6%97%B6%E9%97%B4%E8%B5%9B%E8%B7%91-460f9f0b)|
+||[苹果市值增加2,150亿美元，数年来首次领涨标普500指数](https://cn.wsj.com/amp/articles/%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E5%A2%9E%E5%8A%A02-150%E4%BA%BF%E7%BE%8E%E5%85%83-%E6%95%B0%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E9%A2%86%E6%B6%A8%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0-4364e711)|
+||[恒大汽车被要求退还各项奖励及补贴，股价重挫](https://cn.wsj.com/amp/articles/%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E8%A2%AB%E8%A6%81%E6%B1%82%E9%80%80%E8%BF%98%E5%90%84%E9%A1%B9%E5%A5%96%E5%8A%B1%E5%8F%8A%E8%A1%A5%E8%B4%B4-%E8%82%A1%E4%BB%B7%E9%87%8D%E6%8C%AB-f85894af)|
+||[亚马逊将在台湾投资建设云计算基础设施](https://cn.wsj.com/amp/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B0%86%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%8A%95%E8%B5%84%E5%BB%BA%E8%AE%BE%E4%BA%91%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD-d8908eaa)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[AI 解决了大家的什么问题](https://www.v2ex.com/t/1048780#reply92)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[2024年中国互联网发展创新与投资大赛（开源）报名进入倒计时](https://www.infoq.cn/article/q0rhfYGPDEVkrtI717aV)|
+|[36氪](http://36kr.com/feed)|[集中式长租公寓TOP30开业房源已达114.2万间](https://36kr.com/p/2816548786702593?f=rss)|
+||[管理620亿港元的港投公司首次出手，选中思谋科技](https://36kr.com/p/2816541769533954?f=rss)|
+||[市场日报丨沪指震荡回暖收涨0.31%；传媒板块全天强势；苹果概念爆发；电力、煤炭板块大幅走强](https://36kr.com/p/2816391761938697?f=rss)|
+||[百亿眼镜产业，等待一个“龙头”｜深圳龙岗](https://36kr.com/p/2816532413401607?f=rss)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[危害不亚于毒蘑菇，夏季吃海鲜小心贝类中毒](https://www.infzm.com/contents/273224)|
+||[6月23日起多地高考出分](https://www.infzm.com/contents/273242)|
+||[“网约车不应该进行数量管制，应该交给市场”](https://www.infzm.com/contents/273222)|
+|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Jun.2 - Jun.8](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240608/)|
+|[4K影视屋 分屋）-蓝光无损电影 -...](https://rsshub.app/telegram/channel/dianying4K)|[🖼 美国内战 Civil War 2024 影片讲述美国在不久的将来，爆发了影响全国的内战。在资深战地摄影师李·史密斯（克斯汀·邓斯特 Kirsten Dunst 饰）的带领下，...](https://t.me/dianying4K/206)|
 |[V2EX](https://v2ex.com/index.xml)|[ Apple Apple Vision 可能锁区？以及后续猜想](https://www.v2ex.com/t/1048992#reply0)|
 ||[ 求职 2 年 Java 开发，已读不回](https://www.v2ex.com/t/1048990#reply0)|
 ||[ 生活 充电宝冰箱里放了一礼拜还能用么](https://www.v2ex.com/t/1048989#reply7)|
