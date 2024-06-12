@@ -2,6 +2,37 @@
 
 |来源|标题|
 |---|---|
+|[林小鹿英语精读 的 bilibili...](https://rsshub.app/bilibili/user/dynamic/483301783)|[外刊精读 《华盛顿邮报》 为什么现在年轻人热衷于搞副业？ 北大硕士精读 考研英语 四级 六级 托福雅思 专四专八](https://t.bilibili.com/942140165139202098)|
+|[Aemon's Blog](https://aemoncao.github.io/rss2.xml)|[榨干这台 NAS 第 005 话-外网访问之 Tailscale](https://aemoncao.github.io/2024/06/12/%E6%A6%A8%E5%B9%B2%E8%BF%99%E5%8F%B0NAS%E7%AC%AC005%E8%AF%9D-%E5%A4%96%E7%BD%91%E8%AE%BF%E9%97%AE%E4%B9%8BTailscale/)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[友情推荐一下，有营业执照，代理记账还有社保代缴需求的老板们。 我选了一周，找到个靠谱的营业执照代理，价格已经打下来了，应该是全网最低，附赠各种公司经营...](https://m.okjike.com/originalPosts/666939d3020bdd6bf875736a)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[ AkileCloud Large bandwidth KVM VPS Hongkong 1C 1G 5Gbps 1000G VPS only costs $1/mon via Offers — LowEndTalk author: AkileCloud ](https://t.me/liyuans/46791)|
+||[NohaVPS VPS Intel Xeon E5 1 GB RAM / 20 GB SSD $2.50/mo Dallas TX AS63025 via Offers — LowEndTalk author: jordi ](https://t.me/liyuans/46790)|
+||[noez.de dedicated server + VPS + VPN + IP-Lease and more Frankfurt, Germany via Offers — LowEndTalk author: noezde ](https://t.me/liyuans/46789)|
+||[NEW! China Premium Network from $29.99/year via Offers — LowEndTalk author: SoftShellWeb ](https://t.me/liyuans/46788)|
+||[Slovakia VPS from $8,66, Fast install, RDNS in panel, New payment gateways via Offers — LowEndTalk author: profvds ](https://t.me/liyuans/46787)|
+||[torchbyte - DDoS Protected Special LET VPS, Feedback Request and Colocation in Bucharest, Romania via Offers — LowEndTalk author: torchbyte ](https://t.me/liyuans/46786)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[年轻人“瞄”上老破小，月供比租金贵600元](https://36kr.com/p/2816935689242887?f=rss)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[中国人应该如何看WWDC2024？苹果的全球开发者大会上，AI功能的加入，引起了Elon Musk的反感。而这些功能，哪些在中国可以用上呢？GPT-4o在国内，会变成百度文心一言吗？](http://lukefan.com/2024/06/12/%e4%b8%ad%e5%9b%bd%e4%ba%ba%e5%ba%94%e8%af%a5%e5%a6%82%e4%bd%95%e7%9c%8bwwdc2024%ef%bc%9f%e8%8b%b9%e6%9e%9c%e7%9a%84%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%e4%b8%8a%ef%bc%8cai/)|
+|[智朋的个人博客](https://coffeelize.top/atom.xml)|[Mermaid 甘特图](https://coffeelize.top/posts/24061221.html)|
+|[果壳网 科学人](https://rsshub.app/guokr/scientific)|[让英特尔胆寒，让苹果微软高通氪金，何方神圣要革PC的命？](https://www.guokr.com/article/465605/)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[Chinese people very good at technology and stuff](https://www.reddit.com/r/Asia_irl/comments/1de919i/chinese_people_very_good_at_technology_and_stuff/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[鹰潭中院副院长被认定论文抄袭，因“占坑辩护”被举报](https://www.infzm.com/contents/273254)|
+||[家住阿勒泰，超百万名网友在保护它们](https://www.infzm.com/contents/273226)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美国小提琴家卡罗尔去世，文革中“破冰”访华](https://cn.nytimes.com/obits/20240612/norman-carol-dead/)|
+||[5亿包辛拉面和H Mart们的崛起：亚洲超市如何重塑美国](https://cn.nytimes.com/usa/20240612/asian-grocery-stores-america/)|
+|[雪猫社](https://www.yukicat.net/feed/)|[通过Docker快速架设TeamSpeak服务器](https://www.yukicat.net/3107/)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[2023 年韩国人均国民总收入超 3.6 万美元，首次超过日本，背后有哪些原因？](https://www.zhihu.com/question/658670999/answer/3528435836)|
+||[为什么高考要定在六月份？](https://www.zhihu.com/question/658320016/answer/3528386625)|
+||[160 个来自黎巴嫩的「发射物」射向以色列，当地具体情况如何？是否意味着巴以冲突的再次升级？](https://www.zhihu.com/question/658730686/answer/3528311550)|
+||[孙浩宁凭借 734 分成为高考 47 年来裸分最高的考生，难度有多大？高分考生主要是靠天赋还是努力？](https://www.zhihu.com/question/658564066/answer/3528169027)|
+||[国足为什么炒了扬科维奇?没扬科维奇（2:1泰国）国足能进18强吗？](https://www.zhihu.com/question/658674845/answer/3527549890)|
+||[预算一万以内求推荐手表？](https://www.zhihu.com/question/656191861/answer/3528153482)|
+||[女生高考结束后「一睡不起」，陷入 30 多小时深度睡眠，是压力释放还是身心俱疲？高考后如何释放压力？](https://www.zhihu.com/question/658705122/answer/3528150016)|
+||[复旦大学NLP实验室发布大模型高考数学测评结果，国内AI大模型成绩超GPT-4o，如何看待这一结果？](https://www.zhihu.com/question/658712554/answer/3527905742)|
+||[看了电影《机动战士高达 SEED 剧场版》你有何感受？](https://www.zhihu.com/question/561404925/answer/3528086780)|
+||[2024年6月上海房子值得入手吗？](https://www.zhihu.com/question/657437969/answer/3527954061)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[掌管500人微信群，教退休人员玩手机，这个老人有点“潮”](http://www.huxiu.com/article/3124403.html?f=wangzhan)|
+||[小米之家变小米网吧，雷军率先拿下年轻人？](http://www.huxiu.com/article/3129104.html?f=wangzhan)|
 |[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[寂寞山海，静对繁华，担杆岛的日与夜](https://www.infzm.com/contents/273178)|
 ||[柔宇科技破产清算获受理，职工薪资或优先清偿](https://www.infzm.com/contents/273252)|
 ||[甘肃省政府原党组成员、副省长杨子兴接受审查调查](https://www.infzm.com/contents/273250)|
