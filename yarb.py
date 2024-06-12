@@ -94,6 +94,23 @@ def update_rss(rss: dict, proxy_url=''):
 
     return result
 
+def check_reply_number(text):
+    # 使用正则表达式查找#reply及其后面的数字
+    match = re.search(r'#reply(\d+)', text)
+    
+    # 如果找到了匹配项
+    if match:
+        # 获取匹配的数字
+        number = int(match.group(1))
+        
+        # 判断数字是否大于10
+        if number > 10:
+            return True
+        else:
+            return False
+    else:
+        # 如果未找到匹配项，返回True
+        return True
 
 def parseThread(url: str, proxy_url=''):
     """获取文章线程"""
@@ -124,8 +141,8 @@ def parseThread(url: str, proxy_url=''):
             beginTime = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
             tomorrow = datetime.datetime.today() + datetime.timedelta(1)
 
-            # 过滤v2ex零回复发帖
-            if entry.link.endswith("#reply0"):
+            # 过滤v2ex回复较少的发帖
+            if check_reply_number(entry.link):
                 continue
 
             if pubday > beginTime and pubday < tomorrow:
