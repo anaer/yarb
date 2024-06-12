@@ -2,6 +2,30 @@
 
 |来源|标题|
 |---|---|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[三星S23-S24体验](https://www.coolapk.com/feed/56694515?shareKey=YTI1ZjU1MTljOGYxNjY2OTk0OTI~)|
+||[vivo X Fold3 Pro 折叠屏续航测试](https://www.coolapk.com/feed/56696478?shareKey=MjExYWUwYTcyN2ZhNjY2OTk0OTI~)|
+||[500大洋购入一台12+256G顶配完美屏且充新的iQOO5 Pro](https://www.coolapk.com/feed/56696202?shareKey=YTUwZjY3YzhiOTg1NjY2OTk0OTI~)|
+||[人像三要素，给它懂完了 vivo S19 Pro使用体验报告](https://www.coolapk.com/feed/56696046?shareKey=ZjgxYjExY2NlNGY3NjY2OTk0OTI~)|
+||[记一个由于 Package Installer 中 Flag 缺失导致更新应用时闪退的 Issue 及其解决办法](https://www.coolapk.com/feed/56695163?shareKey=ZTQ0YzY4ODU5Y2EzNjY2OTk0OTI~)|
+||[五年（初二到高三）中学，能用多少支小米巨能写？](https://www.coolapk.com/feed/56695719?shareKey=ZTI4OGRiOGFlNTRlNjY2OTk0OTI~)|
+||[iOS 18 更新概览（附图）&一小段使用体验](https://www.coolapk.com/feed/56695680?shareKey=OTc5MDZiNzc5MGM3NjY2OTk0OTI~)|
+||[从神机iphone xr换到神机红米note12turbo 的纯主观感受与对比](https://www.coolapk.com/feed/56695600?shareKey=NzRhZTQyMWFjYTBjNjY2OTk0OTI~)|
+||[HTC U11 ✖️ 2024](https://www.coolapk.com/feed/56695577?shareKey=YWU5NmZlMzc3NDFjNjY2OTk0OTI~)|
+||[iOS18 Beta 1 体验报告](https://www.coolapk.com/feed/56695353?shareKey=ZTU4MDc3ZDI2M2NjNjY2OTk0OTI~)|
+||[小米手机自带的翻译](https://www.coolapk.com/feed/56694702?shareKey=YjUzNDgyNTdhYjIwNjY2OTk0OTI~)|
+||[Car+不断优化，不负期望](https://www.coolapk.com/feed/56694099?shareKey=ZDk2ZWE4YWNlZGFiNjY2OTk0OTI~)|
+||[【五年酷安 三年数码】第七届Coolapk数码知识竞赛 参考答案与解析](https://www.coolapk.com/feed/56693822?shareKey=NjNhMmE1NmQwZDA1NjY2OTk0OTI~)|
+||[玩客云+随身WiFi](https://www.coolapk.com/feed/56693701?shareKey=YmU5Y2ZhYTQ5ZDNlNjY2OTk0OTI~)|
+||[［全网首发］有道词典笔S6改无线充电+有线充电两用](https://www.coolapk.com/feed/56693514?shareKey=MDI2OGI4OGYyODU0NjY2OTk0OTI~)|
+||[OPPO K9s&K10活力版&realme Q3s深度测试秒过](https://www.coolapk.com/feed/56693115?shareKey=ZDgwOWQ1NWU1MTVmNjY2OTk0OTI~)|
+||[日常随拍求建议](https://www.coolapk.com/feed/56692662?shareKey=ODVjMGUzMDhlMDgxNjY2OTk0OTI~)|
+||[一块玻璃的艺术之旅](https://www.coolapk.com/feed/56692451?shareKey=NzYzMTNlYWVhMWM5NjY2OTk0OTI~)|
+|[华山感染](https://feedpress.me/wx-hsinfect)|[日本报告的链球菌中毒性休克综合征创新高！你需要知道的都在这里了→](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503249&idx=1&sn=b13795823910835f294af1f3a991ed8c)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[日本通过新法防止 IT 巨头垄断手机 APP 市场](https://www.solidot.org/story?sid=78413)|
+|[TecHug](https://www.techug.com/feed)|[Oracle 再夺 Java 命？大公司用 Java 要小心了！](https://www.techug.com/post/oracle-takes-java-s-life-again-big-companies-need-to-be-careful-when-using-java-f070ef/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 日本 有兄弟在日本工作的吗？给点意见](https://www.v2ex.com/t/1049015#reply18)|
+||[ 生活 充电宝冰箱里放了一礼拜还能用么](https://www.v2ex.com/t/1048989#reply15)|
+||[ 生活 家用直饮水大家如何解决？](https://www.v2ex.com/t/1048974#reply21)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[阿联酋部长称美国对中东成为中国AI代理的担忧是合理的](https://m.cnbeta.com.tw/view/1434482.htm)|
 ||[韩国人工智能芯片开发商 Rebellions 和 Sapeon 将合并](https://m.cnbeta.com.tw/view/1434481.htm)|
 ||[功耗直接做到0W 三星彩色电子纸显示屏首秀](https://m.cnbeta.com.tw/view/1434480.htm)|
