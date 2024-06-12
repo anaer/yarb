@@ -2,6 +2,90 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[寂寞山海，静对繁华，担杆岛的日与夜](https://www.infzm.com/contents/273178)|
+||[柔宇科技破产清算获受理，职工薪资或优先清偿](https://www.infzm.com/contents/273252)|
+||[甘肃省政府原党组成员、副省长杨子兴接受审查调查](https://www.infzm.com/contents/273250)|
+||[诺基亚开售排长队，二十多年前的老年机要卷土重来了？](https://www.infzm.com/contents/272685)|
+||[异种器官移植，处在重大突破边缘](https://www.infzm.com/contents/273248)|
+|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[我在新疆很想你](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454617&idx=1&sn=68d872422d95918d207ae528d398d05d)|
+|[晓空blog](https://blog.moeworld.tech/feed/)|[驾照那些事 Ver.科目三](https://blog.moeworld.tech/2024/06/12/%e9%a9%be%e7%85%a7%e9%82%a3%e4%ba%9b%e4%ba%8b-ver-%e7%a7%91%e7%9b%ae%e4%b8%89/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[辰韬资本联合三方重磅发布《端到端自动驾驶行业研究报告》](https://www.jiqizhixin.com/articles/2024-06-12-6)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[这下中国人了](https://www.reddit.com/r/LOOK_CHINA/comments/1de77m2/这下中国人了/)|
+||[这下中国人了](https://www.reddit.com/r/real_China_irl/comments/1de5ih4/这下中国人了/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[EaseUS VoiceWave - 音频变声器 Windows ](https://free.apprcn.com/easeus-voicewave-3/)|
+||[Exiland Backup Standard – 文件自动备份工具 Windows $35→0 ](https://free.apprcn.com/exiland-backup-standard-12/)|
+||[IM-Magic Partition Resizer Pro – 分区空间调整软件 Windows $59.99→0 ](https://free.apprcn.com/im-magic-partition-resizer-pro-43/)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[港投公司与「港产独角兽」思谋科技今签定战略合作协议](https://www.leiphone.com/category/ai/28zX8M2p7uxH9u1x.html)|
+||[早鸟倒计时3天丨院士领衔、重磅嘉宾云集！中国大模型大会（CLM2024）诚邀您共同探索中国大模型之路！详细日程公开](https://www.leiphone.com/category/ai/Jph3Enxm58VrDp3h.html)|
+||[专访联想集团 CTO 芮勇：智能体是具身智能的基础｜具身智能十人谈](https://www.leiphone.com/category/ai/d9vyQ5xprgralO4W.html)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[开源日报 “树莓派”上市；开源Wi-Fi芯片毫无意义；iOS走安卓的路；马斯克撤诉；MistralAI融资6.4亿](https://www.oschina.net/news/296934)|
+||[RAG 与长文本，此消彼长还是相辅相成？](https://my.oschina.net/u/6852546/blog/11208995)|
+||[全球销量6000万的开发板：“树莓派”上市了——曾坐马斯克的大火箭上太空](https://osc.cool/zkcETcNH)|
+||[学习笔记丨嵌入式 BI 分析的 12 个关键功能](https://www.oschina.net/news/296923)|
+||[微软将于下月停用 GPTs 功能，并删除相关数据](https://www.oschina.net/news/296909/gpt-builder-is-being-retired)|
+||[AIGC 生图的自动化质量评估](https://my.oschina.net/u/4662964/blog/11206697)|
+||[腾讯混元发布开源加速库，生图时间缩短 75%](https://www.oschina.net/news/296887)|
+||[Rust 高性能模块打包工具 Rspack 0.7.1 发布，JS 解析性能提升 10%-15%](https://www.oschina.net/news/296878/rspack-0-7-1-released)|
+||[特斯拉自动驾驶软件负责人：马斯克的技术直觉无与伦比](https://www.oschina.net/news/296875)|
+||[6月22日，上海源创会，云技术专场](https://www.oschina.net/event/2332088)|
+||[苹果称 Swift 是 C++ 的最佳继任者](https://www.oschina.net/news/296866/apple-swift-the-best-choice-to-succeed-c-plus-plus)|
+||[openKylin 社区全新论坛上线！招募版主啦~](https://www.oschina.net/news/296863)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[【評測影片】百靈 5 系列 Pro 電動刮鬍刀](https://applefans.today/2024-06-braun-pro-reviews/)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[人生在世，只有身体是自己的](https://www.jianshu.com/p/c9a9a542ab9a)|
+||[雨夜心伞](https://www.jianshu.com/p/d366d8fbce01)|
+||[我看《庆余年》](https://www.jianshu.com/p/2e3252cb6f3d)|
+||[莫名其妙的念头](https://www.jianshu.com/p/a86d312c7154)|
+||[豪富200年的焦桥袁氏家族](https://www.jianshu.com/p/d49195171030)|
+||[夜晚散步](https://www.jianshu.com/p/751300dd69a4)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[20:00 骰子猜大小：蹲点速领京东至高 10 元加码红包，全场无门槛可用](https://www.ithome.com/0/774/743.htm)|
+||[荣登智能家居金榜！华为智能门锁系列 618 至高优惠 500 元！](https://www.ithome.com/0/774/741.htm)|
+|[36氪](https://www.36kr.com/feed)|[最前线 星竞威武集团美股公开递表，“中国电竞第一股”有望诞生](https://36kr.com/p/2816822541027844?f=rss)|
+||[AI手机熄火，苹果救市？｜氪金 · 大事件](https://36kr.com/p/2816666433489416?f=rss)|
+||[寻求智慧城市板块并购标的；求购上海微电子股份｜资情留言板第139期](https://36kr.com/p/2816376053762568?f=rss)|
+||[36氪晚报｜日本单月企业破���数时隔11年再超千家；一季度日本超50%半导体制造设备流向中国；美推迟波音“星际客机”飞船返回地球时间](https://36kr.com/p/2816672385272325?f=rss)|
+|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[信创银河麒麟高级服务器操作系统 V10 安装无头浏览器 Chromium](https://www.imaegoo.com/2024/kylin-chromium/)|
+|[虎嗅](https://rss.huxiu.com/)|[中国需要更多的出海生命线](https://www.huxiu.com/article/3130095.html?f=rss)|
+||[九万港人北上养老](https://www.huxiu.com/article/3130230.html?f=rss)|
+||[被“催熟”的孩子，正在逃离亲密关系](https://www.huxiu.com/article/3130226.html?f=rss)|
+||[思辨力，吵架中获胜的关键](https://www.huxiu.com/article/3129393.html?f=rss)|
+||[大浪淘沙，这座百年渔村有“黄金”](https://www.huxiu.com/article/3130102.html?f=rss)|
+||[如何破除数字经济发展中的“内卷现象”？](https://www.huxiu.com/article/3129864.html?f=rss)|
+||[苹果AI被存储卡脖子？](https://www.huxiu.com/article/3129840.html?f=rss)|
+||[深圳老牌地产公司3小时裁员几乎全员](https://www.huxiu.com/article/3130076.html?f=rss)|
+||[在印度路测自动驾驶，《走近科学》都不敢这么拍](https://www.huxiu.com/article/3130071.html?f=rss)|
+||[中国队在网上跑得比谁都快](https://www.huxiu.com/article/3129818.html?f=rss)|
+||[全球市场迎两大经济事件：CPI报告与美联储利率决策](https://www.huxiu.com/article/3129811.html?f=rss)|
+||[苹果公布自研模型细节：没有GPT-4o也能打？](https://www.huxiu.com/article/3129845.html?f=rss)|
+||[新疆迎来“泼天富贵”：布局30年，中吉乌铁路即将开建](https://www.huxiu.com/article/3129828.html?f=rss)|
+||[为了争夺电视广告费，YouTube究竟有多鸡贼](https://www.huxiu.com/article/3129409.html?f=rss)|
+||[被打假的大厂内推，到底是怎样的生意？](https://www.huxiu.com/article/3129369.html?f=rss)|
+||[这个端午节，游客不爱去中小景区了？](https://www.huxiu.com/article/3129395.html?f=rss)|
+||[韩国教育内卷：每天睡3个小时，补习费月均2300元](https://www.huxiu.com/article/3129800.html?f=rss)|
+||[掌管500人微信群，教退休人员玩手机，这个老人有点“潮”](https://www.huxiu.com/article/3124403.html?f=rss)|
+||[为什么骂人要用“妈”和“娘”？](https://www.huxiu.com/article/3129385.html?f=rss)|
+||[牵手AI之后，苹果手机还能买吗？](https://www.huxiu.com/article/3129813.html?f=rss)|
+||[苹果发布智能新品，ChatGPT中国用户暂时无缘](https://www.huxiu.com/article/3129833.html?f=rss)|
+||[四年砸下650亿美金，台积电困在美国](https://www.huxiu.com/article/3128674.html?f=rss)|
+||[上海迪士尼年卡降价入园天数减少的原因](https://www.huxiu.com/article/3129816.html?f=rss)|
+||[中国制造如何在国外打造品牌、搭建渠道？](https://www.huxiu.com/article/3128666.html?f=rss)|
+||[荣耀，为什么是华为回归的最大对手？](https://www.huxiu.com/article/3128016.html?f=rss)|
+||[去日本买房，3年涨2倍，会是泡沫狂欢吗？](https://www.huxiu.com/article/3129372.html?f=rss)|
+||[小米之家变小米网吧，雷军率先拿下年轻人？](https://www.huxiu.com/article/3129104.html?f=rss)|
+||[lululemon还能吸引中产消费者吗？](https://www.huxiu.com/article/3128669.html?f=rss)|
+||[分析2223部短剧后，我们找到了财富密码](https://www.huxiu.com/article/3129364.html?f=rss)|
+||[沉重负债的年轻人，是怎么生活的？](https://www.huxiu.com/article/3125515.html?f=rss)|
+||[李惟一：把非洲人从非洲手里拯救出来？](https://www.huxiu.com/article/3129381.html?f=rss)|
+||[筷子夹火箭？星舰成功溅落后，马斯克的下个目标更大胆](https://www.huxiu.com/article/3129100.html?f=rss)|
+||[咖啡馆：思想与文化的自由空间](https://www.huxiu.com/article/3127968.html?f=rss)|
+||[虎嗅【作·嗅之星】周榜第212期](https://www.huxiu.com/article/3129368.html?f=rss)|
+||[地心世界真的存在吗？](https://www.huxiu.com/article/3128448.html?f=rss)|
+||[日本年轻人正用辞职掀起革命](https://www.huxiu.com/article/3129360.html?f=rss)|
+||[薪酬谈判，最怕“通知式”陷阱](https://www.huxiu.com/article/3129366.html?f=rss)|
+|[迷途小书童的Note](https://xugaoxiang.com/feed)|[快手可灵文生视频大模型](https://xugaoxiang.com/2024/06/12/klingai/)|
+||[敢叫印钞机加速器的AI，你确定不来试试？](https://xugaoxiang.com/2024/06/12/moneyprinterturbo/)|
+||[手把手AI实战 二 古诗词教学视频](https://xugaoxiang.com/2024/06/12/ai-project-2/)|
+||[手把手AI实战 一 治愈系动画视频](https://xugaoxiang.com/2024/06/12/ai-project-1/)|
+||[ChatGPT越狱](https://xugaoxiang.com/2024/06/12/chatgpt-jailbreak/)|
 |[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[三星S23-S24体验](https://www.coolapk.com/feed/56694515?shareKey=YTI1ZjU1MTljOGYxNjY2OTk0OTI~)|
 ||[vivo X Fold3 Pro 折叠屏续航测试](https://www.coolapk.com/feed/56696478?shareKey=MjExYWUwYTcyN2ZhNjY2OTk0OTI~)|
 ||[500大洋购入一台12+256G顶配完美屏且充新的iQOO5 Pro](https://www.coolapk.com/feed/56696202?shareKey=YTUwZjY3YzhiOTg1NjY2OTk0OTI~)|
