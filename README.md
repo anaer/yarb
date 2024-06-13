@@ -2,6 +2,95 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[美国 CPI 降温仍猛砍降息预期，美联储维持利率不变，预计今年仅降息一次，纳指、标普创新高，如何解读？](https://www.zhihu.com/question/658791639/answer/3529047896)|
+||[土耳其拟对中国进口汽车征收 40 % 的额外关税，加征关税后会对中国车企产生什么影响？释放了什么信号？](https://www.zhihu.com/question/658619432/answer/3529047386)|
+||[女孩喊物业劝离门外陌生人，保安到场后女孩与陌生人争执被捅死，死者母亲指保安不作为，如何从法律角度解读？](https://www.zhihu.com/question/658758852/answer/3528584031)|
+||[23-24 赛季 NBA凯尔特人 106:99 独行侠，如何评价这场比赛？](https://www.zhihu.com/question/658785569/answer/3529044605)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[被数据崇拜杀死的K-Pop](https://www.huxiu.com/article/3131708.html?f=rss)|
+||[全球灯塔网络：快速大规模采用人工智能](https://www.huxiu.com/article/3131994.html?f=rss)|
+||[制造光刻机40年，ASML成功的秘密](https://www.huxiu.com/article/3131112.html?f=rss)|
+||[从欧洲右转，到雍正爆火](https://www.huxiu.com/article/3131990.html?f=rss)|
+||[Q1财报复盘：互联网广告增长中的“5个信号”](https://www.huxiu.com/article/3131709.html?f=rss)|
+||[8个免费超牛的AI学习资源推荐，让你迅速入门编程](https://www.huxiu.com/article/3128461.html?f=rss)|
+||[爱上“鼠男”：发现中等丑陋的独特魅力](https://www.huxiu.com/article/3131702.html?f=rss)|
+||[一线卷不动后，餐饮品牌们盯上了县城](https://www.huxiu.com/article/3131684.html?f=rss)|
+||[30毫升能卖1000元，“防晒”这门生意水有多深？](https://www.huxiu.com/article/3131312.html?f=rss)|
+||[身心灵疗愈，薅上裸辞去大理的人](https://www.huxiu.com/article/3131318.html?f=rss)|
+||[今年可能只降息1次，美联储的底牌是啥？](https://www.huxiu.com/article/3131687.html?f=rss)|
+||[会员充值产品遭下架，苹果加码封堵](https://www.huxiu.com/article/3131682.html?f=rss)|
+||[背背佳如何拿捏90后焦虑的一生？](https://www.huxiu.com/article/3109067.html?f=rss)|
+||[大国博弈的秘密武器，陪伴人类走过万年历程](https://www.huxiu.com/article/3131676.html?f=rss)|
+||[AIGC概念股狂飙一年：谁在裸泳，谁在冲刺？](https://www.huxiu.com/article/3131695.html?f=rss)|
+||[Shake Shack：高攀不起的网红汉堡店](https://www.huxiu.com/article/3128665.html?f=rss)|
+||[NBA标志原型去世，湖人传奇不会被忘记](https://www.huxiu.com/article/3131679.html?f=rss)|
+||[一个员工瞎忙，比闲着没事干更可怕](https://www.huxiu.com/article/3131689.html?f=rss)|
+||[银行开始招催收员后，我结束了5年催收生涯](https://www.huxiu.com/article/3131308.html?f=rss)|
+||[银行试水“先息后本”，吸引力或有限](https://www.huxiu.com/article/3131685.html?f=rss)|
+||[东方甄选活成了俞敏洪最讨厌的样子？](https://www.huxiu.com/article/3129855.html?f=rss)|
+||[江西猪王，成功“摘帽”](https://www.huxiu.com/article/3131678.html?f=rss)|
+||[未来城市的想象与实践](https://www.huxiu.com/article/3131675.html?f=rss)|
+||[围堵中国光伏十多年，美国补贴出一个“全球第一”](https://www.huxiu.com/article/3131310.html?f=rss)|
+||[张雪峰天价课被抢爆背后，是中国家长的焦虑](https://www.huxiu.com/article/3131284.html?f=rss)|
+||[不相信女性的，不止电子竞技](https://www.huxiu.com/article/3111967.html?f=rss)|
+||[耐心资本，究竟是什么？](https://www.huxiu.com/article/3131285.html?f=rss)|
+||[苹果AI来了，压力给到华米OV](https://www.huxiu.com/article/3131128.html?f=rss)|
+||[一张最贵卖千元，烟卡成学生“新宠”？](https://www.huxiu.com/article/3129404.html?f=rss)|
+||[游戏UI的困境：既不可或缺，又不受重视](https://www.huxiu.com/article/3130250.html?f=rss)|
+||[文科生或成人工智能时代幸存者](https://www.huxiu.com/article/3131316.html?f=rss)|
+||[暗度陈仓，资本对决，中国老赖大战美国华尔街秃鹫？](https://www.huxiu.com/article/3129807.html?f=rss)|
+||[提前还款潮再涌，存量房贷的利率能否迎来下调？](https://www.huxiu.com/article/3131280.html?f=rss)|
+||[三本学生，扎堆考公](https://www.huxiu.com/article/3131278.html?f=rss)|
+||[泰坦号潜水器失败：缺陷与傲慢的代价](https://www.huxiu.com/article/3131282.html?f=rss)|
+||[论文致谢是卧龙凤雏的藏身之地吗？](https://www.huxiu.com/article/3131281.html?f=rss)|
+||[法国大公鸡走到十字路口](https://www.huxiu.com/article/3130107.html?f=rss)|
+||[估值33亿的低浓度制药公司即将IPO](https://www.huxiu.com/article/3131277.html?f=rss)|
+||[一夜之间，AI视频生成格局大变天？](https://www.huxiu.com/article/3131120.html?f=rss)|
+||[美联储继续按兵不动，预计今年仅降息一次](https://www.huxiu.com/article/3131124.html?f=rss)|
+||[退学12年，我的人生不是轨道](https://www.huxiu.com/article/3131114.html?f=rss)|
+|[happy xiao](https://happyxiao.com/feed)|[如何提高睡眠时的 HRV](https://happyxiao.com/hrv/)|
+|[葉開三言兩語](https://qq.md/feed/)|["心情如天气，如旋律"叶开新动态](https://qq.md/post/734)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[提锂工程师：从盐湖提取“白色石油”，1毫克都不能浪费｜钛媒体纪录片「产业观察·动力中国」](https://www.tmtpost.com/7106429.html)|
+||[国内智能手机市场回暖，丘钛科技5月摄像头模组销量同增35.8%，公司股价连涨两天](https://www.tmtpost.com/7127310.html)|
+||[When a Chinese Consumer Decides to Blacklist Stores that Use AI Customer Service](https://www.tmtpost.com/7127323.html)|
+||[重要子公司接连停产，实控人套现20亿离场，ST爱康27个跌停已锁定“面值退市”](https://www.tmtpost.com/7127156.html)|
+||[6月13日A股分析：三大股指集体收跌，贵金属、养殖板块领跌，科创板次新股逆势大涨](https://www.tmtpost.com/7127191.html)|
+||[银行开始招催收员后，我结束了5年催收生涯](https://www.tmtpost.com/7126878.html)|
+||[车圈“价值战”不会比“价格战”更好打](https://www.tmtpost.com/7126726.html)|
+||[企业家入淘直播，“真还传”故事可以复制吗？](https://www.tmtpost.com/7126599.html)|
+||[韩国2024医改现状](https://www.tmtpost.com/7126875.html)|
+||[苹果AI来了，压力给到华米OV](https://www.tmtpost.com/7126595.html)|
+||[欧美AI法案先后出台，治理向左，发展向右｜财经风云对话](https://www.tmtpost.com/7127134.html)|
+|[CHEGVA](https://chegva.com/feed/)|[​易经总纲《易之雅》](https://chegva.com/6080.html)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[互联网产品经理岗位的门槛到底有多低？](https://www.woshipm.com/share/6069029.html)|
+||[支付引擎详解](https://www.woshipm.com/pd/6068831.html)|
+||[专注于解决学生写作的app–纸条](https://www.woshipm.com/share/6068871.html)|
+||[这样写项目汇报，领导想给你加工资！](https://www.woshipm.com/share/6069170.html)|
+||[2024，B端企业不再需要新媒体运营！](https://www.woshipm.com/operate/6068862.html)|
+||[企业专业号长期流量太低，怎么判断原因？](https://www.woshipm.com/operate/6069117.html)|
+||[9000字 聊一聊「向上管理」思维](https://www.woshipm.com/zhichang/6068777.html)|
+||[7000字复盘：时尚帝国lululemon的崛起与危机](https://www.woshipm.com/marketing/6069114.html)|
+||[创业者要忽略小数点后的努力](https://www.woshipm.com/chuangye/6068992.html)|
+||[请企业家向「企业家IP」说“不”，并修好真正“必修课”！](https://www.woshipm.com/it/6068794.html)|
+||[国内10款大语言模型测评-竞品分析](https://www.woshipm.com/share/6068786.html)|
+||[架构师是什么样的存在？](https://www.woshipm.com/share/6068987.html)|
+||[淘宝一系列大招，正释放重要信号](https://www.woshipm.com/it/6068752.html)|
+||[私域营销之所以做不好，是因为没有掌握系统的定价方法论！](https://www.woshipm.com/marketing/6067849.html)|
+||[产品经理别在盯着PRD了](https://www.woshipm.com/share/6068767.html)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[526 mW/cm panel from China - Taobao](https://www.reddit.com/r/redlighttherapy/comments/1depr7b/526_mwcm_panel_from_china_taobao/)|
+|[36氪](http://36kr.com/feed)|[CEO锦囊丨【专精特新特辑】之揭秘CEO的用人之道](https://36kr.com/p/2817619899910661?f=rss)|
+||[用生物菌即时降解油漆喷涂危废 ，「波态生物」完成数千万元Pre-A轮融资 36氪首发](https://36kr.com/p/2815580695267591?f=rss)|
+|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手教你打造一个AI智能体](https://xugaoxiang.com/2024/06/13/ai-agent-builder/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[「AI+物理先验知识」，浙大、中国科学院通用蛋白质-配体相互作用评分方法登Nature子刊](https://www.jiqizhixin.com/articles/2024-06-13-8)|
+||[晶泰科技在港交所主板挂牌上市， AI+机器人打造18C第一股](https://www.jiqizhixin.com/articles/2024-06-13-7)|
+||[深蓝G318配置超值，比硬派车多几分舒适比城市SUV多几分硬核](https://www.jiqizhixin.com/articles/2024-06-13-6)|
+||[快手「可灵」爆火：海外AI圈巨震，中国版Sora一号难求](https://www.jiqizhixin.com/articles/2024-06-13-5)|
+||[苹果智能背后模型公布：3B模型优于Gemma-7B，服务器模型媲美GPT-3.5-Turbo](https://www.jiqizhixin.com/articles/2024-06-13-4)|
+||[重磅！2024智源大会完整日程公布——全球大模型先锋集结](https://www.jiqizhixin.com/articles/2024-06-13-3)|
+||[改变传统，吴恩达开源了一个机器翻译智能体项目](https://www.jiqizhixin.com/articles/2024-06-13-2)|
+||[打通智能体「自我进化」全流程！复旦推出通用智能体平台AgentGym](https://www.jiqizhixin.com/articles/2024-06-13)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[美国宣布新金融制裁措施，旨在切断中俄技术联系](https://cn.nytimes.com/usa/20240613/us-russia-china-sanctions-g7/)|
+||[欧盟宣布对中国电动汽车征收额外关税，最高达38%](https://cn.nytimes.com/business/20240613/eu-china-ev-tariffs/)|
+||[美国已不是世界老大](https://cn.nytimes.com/opinion/20240613/america-leadership-gaza-ukraine/)|
 |[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[欧盟宣布对中国电动汽车征收额外关税，最高达38%](https://cn.nytimes.com/business/20240613/eu-china-ev-tariffs/dual)|
 ||[美国已不是世界老大](https://cn.nytimes.com/opinion/20240613/america-leadership-gaza-ukraine/dual)|
 |[少数派](https://sspai.com/feed)|[Windows 设计史 03 Windows XP：摆脱机械，拥抱自然](https://sspai.com/post/88722)|
