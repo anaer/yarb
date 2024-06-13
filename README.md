@@ -2,6 +2,103 @@
 
 |来源|标题|
 |---|---|
+|[甜欣屋](https://tcxx.info/feed)|[苹果宣布整合ChatGPT！盘点硅谷大厂的AI策略](https://tcxx.info/diary/1060.html)|
+|[小众软件](http://feeds.appinn.com/appinns)|[KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用](https://www.appinn.com/kinestop/)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[气温变化和人类狩猎导致了长毛犀牛的灭绝](https://www.solidot.org/story?sid=78423)|
+||[Adobe 澄清它不会使用客户的作品训练 AI](https://www.solidot.org/story?sid=78422)|
+||[ChromeOS 将基于 Android 构建](https://www.solidot.org/story?sid=78421)|
+||[中国展开规模庞大无人驾驶试验](https://www.solidot.org/story?sid=78420)|
+||[盖茨的核电公司开始动工建造首座反应堆](https://www.solidot.org/story?sid=78419)|
+||[欧盟对中国电动汽车征收最高 38% 的关税](https://www.solidot.org/story?sid=78418)|
+|[如有乐享](https://51.ruyo.net/feed)|[国内无法访问下载Docker镜像的多种解决方案](https://51.ruyo.net/18687.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[临近出成绩，心情十分焦虑，严重影响到了日常状态，怎么缓解？](https://www.zhihu.com/question/658169318)|
+||[俄护卫舰核潜艇抵近美国佛罗里达州，美军紧密监视，如何解读这一动向？](https://www.zhihu.com/question/658746252)|
+||[明明没啥活，到点了办公室同事都不下班，我该不该走？不走，可以干些什么?](https://www.zhihu.com/question/658338424)|
+||[真正的文人风骨是怎样的？](https://www.zhihu.com/question/560396374)|
+||[一句话说不到媳妇心坎上，她就扇了我一巴掌，如何让她认识到自己的问题？](https://www.zhihu.com/question/658171434)|
+||[复读一年比前一年还差，还要不要继续复读?](https://www.zhihu.com/question/658522703)|
+||[美国 CPI 降温仍猛砍降息预期，美联储维持利率不变，预计今年仅降息一次，纳指、标普创新高，如何解读？](https://www.zhihu.com/question/658791639)|
+||[当年星舰项目启动的时候如果中国能及时跟进是否现在也接近成功了？](https://www.zhihu.com/question/658459967)|
+||[为什么现在的汽车都自带导航，有的人还要用手机导航?](https://www.zhihu.com/question/657904317)|
+||[「哈基米」在日本可能增加「猫咪」的意思吗？](https://www.zhihu.com/question/658206349)|
+||[如何评价新一代的国产可信 Docker 镜像中心 Atomhub?](https://www.zhihu.com/question/658717880)|
+||[什么叫做真正的碾压？](https://www.zhihu.com/question/657532077)|
+||[如何看待 90% 医疗众筹用户无法筹集到目标金额？普通人可以采取哪些手段为健康兜底？](https://www.zhihu.com/question/658734185)|
+||[请问明朝时守城最厉害的将领是哪一位？](https://www.zhihu.com/question/658119411)|
+||[外国人来中国有什么感受？](https://www.zhihu.com/question/323129774)|
+||[不懂就问，为什么叫向佐继承亿万家产，叫向家是豪门?](https://www.zhihu.com/question/402175804)|
+||[享受当下 VS 延迟满足，当代年轻人怎么选才能过上期待的好生活？](https://www.zhihu.com/question/658750970)|
+||[《黑神话: 悟空》首批发售渠道将不包含实体光盘，对于单机游戏来说，发售实体光盘的收益是不是越来越小？](https://www.zhihu.com/question/658644121)|
+||[龙珠 Z 中沙鲁的再生是不是存在一个 bug？](https://www.zhihu.com/question/30794118)|
+||[以后会不会再出现一门语言，后来居上，比英语更加强势。甚至碾压英语这门语言？](https://www.zhihu.com/question/584899431)|
+||[腾竞发布 LPL 联赛处罚报告「GALA 选手在游戏中触发已告知的禁用装备」能否实锤其利用 BUG？](https://www.zhihu.com/question/658734880)|
+||[在《大明王朝 1566》中，最聪明的是谁？](https://www.zhihu.com/question/53893903)|
+||[为什么《西游记》里的女妖精都能变成完整的人，而男妖精却都还有原型的特征？](https://www.zhihu.com/question/658507245)|
+||[如何评价《崩坏星穹铁道》的「「超距通讯」流萤三日电话」活动？](https://www.zhihu.com/question/658748634)|
+||[为什么现代人的音乐水平远低于几百年前？](https://www.zhihu.com/question/613350011)|
+||[紫英石号事件，如果英军换成大和号以当时解放军的炮火，能击沉大和号吗？](https://www.zhihu.com/question/644303135)|
+||[高中是主要靠努力还是靠天赋？](https://www.zhihu.com/question/658568595)|
+||[2024 LPL 夏季赛 TES 2:0 OMG，如何评价这场比赛？](https://www.zhihu.com/question/658742406)|
+||[23-24 赛季 NBA 凯尔特人 106:99 独行侠，如何评价这场比赛？](https://www.zhihu.com/question/658785569)|
+||[周杰伦发文，表示因为感冒药的空瓶子，写了一首跟感冒无关的歌，你期待吗？](https://www.zhihu.com/question/658698273)|
+||[27 岁女孩在家门口被捅死，曾被保送北外，死者母亲指保安不作为，真实情况如何？如何从法律角度解读？](https://www.zhihu.com/question/658758852)|
+||[为什么国外商务人士极少穿短袖衬衫？](https://www.zhihu.com/question/21158197)|
+||[小米汽车销量继续下跌，约 0.21 万辆，暂列新势力第八，为何会出现这种情况？小米汽车面临哪些问题？](https://www.zhihu.com/question/658744622)|
+||[陆游爱国心那么重，为什么不像辛弃疾一样带头冲锋呢？](https://www.zhihu.com/question/575707622)|
+||[报道称「一小学班上一半孩子没见过 1 元纸币」，白岩松评「这课得补」，如何看待此事？](https://www.zhihu.com/question/658631453)|
+|[触乐](http://www.chuapp.com/feed)|[触乐夜话：情感支持](http://www.chuapp.com/article/290028.html)|
+||[“玩出真三国”又有新高度：坏了，这群玩家开始结盟了](http://www.chuapp.com/article/290026.html)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[理解长三角丨“江苏的安吉”，为何是金湖](https://m.thepaper.cn/detail/27720089)|
+||[站外等候风吹日晒体验不佳？上海地铁9号线泗泾站外撑起“大伞”](https://m.thepaper.cn/detail/27720288)|
+||[商业银行或将被禁止代销私募基金？影响几何？](https://m.thepaper.cn/detail/27705860)|
+||[中国城市发展日报丨江西晋级双万亿之省；锦州难容网约车](https://m.thepaper.cn/morningEveningPaper?n=141832&newsType=1)|
+||[江南华南强降雨、黄淮海干旱，国家防总启动防汛、抗旱四级应急响应](https://m.thepaper.cn/detail/27720192)|
+||[跟着档案Citywalk丨杨浦滨江“变身记 ” ，百年工业遗存焕新颜（下）](https://m.thepaper.cn/detail/27565303)|
+||[火焰山实时地表温度已达75℃](https://m.thepaper.cn/detail/27719087)|
+||[国家防总同时启动防汛、抗旱四级应急响应](https://m.thepaper.cn/detail/27720291)|
+||[男生高考后亲手制作曲奇饼干，送给老师同学当毕业礼物](https://m.thepaper.cn/detail/27720183)|
+||[九岁独臂男孩立志成为残奥会冠军，练习到走不动也不放弃](https://m.thepaper.cn/detail/27719107)|
+||[“别人家的班主任”，高考后兑现诺言带学生去潜江吃小龙虾](https://m.thepaper.cn/detail/27719971)|
+||[“沪九条”落地后市场反馈积极！九大焦点追问，权威解读在这里](https://m.thepaper.cn/detail/27719842)|
+||[【社论】应对干旱和高温的双重考验](https://m.thepaper.cn/detail/27720100)|
+||[新西兰将被纳入中方单方面免签国家范围，相关搜索同比增长65%](https://m.thepaper.cn/detail/27719249)|
+||[未来十天高温持续，农业农村部派工作组赴7省指导抗旱保夏播](https://m.thepaper.cn/detail/27719695)|
+||[南海西北陆坡一号二号沉船分布范围已探明，提取文物928件套](https://m.thepaper.cn/detail/27719279)|
+||[时政微观察丨“培育更多世界一流企业”](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=4211379582722571352)|
+||[这事儿｜“银发的哥”来了：多地上调从业年限至65岁](https://m.thepaper.cn/detail/27658933)|
+||[中朝两国领导人今年是否计划安排会晤，外交部回应](https://m.thepaper.cn/detail/27718711)|
+||[中国载人航天工程的开创者、工程院首批院士王永志逝世](https://m.thepaper.cn/detail/27718717)|
+||[黄循财访问马来西亚：对重启新马高铁持开放态度](https://m.thepaper.cn/detail/27717492)|
+|[obaby@mars](https://h4ck.org.cn/feed/)|[琐碎小事](https://h4ck.org.cn/2024/06/17308)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[❤Three.js的安装使用](https://juejin.cn/post/7379627430992642048)|
+||[喝洗脚水的同时给大伙总结下js数据类型（包括类型判断、类型转换）](https://juejin.cn/post/7379792320156876840)|
+||[typescript中泛型的工作原理 – 通过示例解释](https://juejin.cn/post/7379627430992510976)|
+||[面试官：请你写一个add函数并尝试将它柯里化](https://juejin.cn/post/7379667550504091659)|
+||[🚀前端性能优化：使用 Web Workers 实现轮询](https://juejin.cn/post/7379780178291228726)|
+||[传统前后端如何引入AI成为AI全栈项目？一个demo让你彻底理解](https://juejin.cn/post/7379806770363711515)|
+||[如何在3天内开发一个鸿蒙app](https://juejin.cn/post/7379521155286843404)|
+||[❤追本溯源篇-林太白](https://juejin.cn/post/7379569983129845775)|
+||[js 浮点运算及 toFixed 的问题](https://juejin.cn/post/7379599360944472101)|
+||[零 js 为你的网站开启原生一样的酷炫动画](https://juejin.cn/post/7379544162797305875)|
+||[CSS 实现3d轮播图的一些思路 掘金一周 6.13](https://juejin.cn/post/7379502040139710518)|
+||[Vue中的动态组件：灵活多变的前端利器](https://juejin.cn/post/7379544162797142035)|
+||[什么是拷贝？我：Ctrl + C ...](https://juejin.cn/post/7379599360944177189)|
+||[WebGL渲染引擎优化方向 -- 内存管理的优化](https://juejin.cn/post/7379526934995763251)|
+||[离职前同事将下载大文件功能封装成了npm包，赚了145块钱](https://juejin.cn/post/7379524605104848946)|
+||[揭秘Vue中的pathRewrite：跨域难题的神奇钥匙与路径重写的艺术](https://juejin.cn/post/7379514285536575488)|
+||[SSE原理及实现流程](https://juejin.cn/post/7379569983128977423)|
+||[开发提效之npm私服搭建（verdaccio）](https://juejin.cn/post/7379569983128944655)|
+||[Nuxt3项目工程化、环境变量、SEO配置](https://juejin.cn/post/7379521155285843980)|
+||[常见逻辑漏洞复现合集（上）](https://juejin.cn/post/7379544459149541403)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[深入解析 Apple Intelligence：蘋果最新 AI 功能詳解](https://www.iphonetaiwan.org/2024/06/apple-intelligence-ai-release.html)|
+||[watchOS 11 Vitals app：健康數據分析的革命性工具](https://www.iphonetaiwan.org/2024/06/watchos11-vitals-app-health.html)|
+||[Capcom《惡靈古堡7》下月登陸 iPhone、iPad 及 Mac](https://www.iphonetaiwan.org/2024/06/resident-evil-7-ios-macos-release.html)|
+||[iOS 18 照片管理再進化！輕鬆搜尋二維條碼、收據和插圖](https://www.iphonetaiwan.org/2024/06/ios-18-photo-app-new-features.html)|
+||[蘋果拒絕PC模擬器UTM上架！iPhone 無法跑 Windows XP](https://www.iphonetaiwan.org/2024/06/apple-blocks-pc-emulator-ios.html)|
+||[iOS 18 全新 iCloud 改版：更智慧、更安全的帳號管理](https://www.iphonetaiwan.org/2024/06/ios18-icloud-management-update.html)|
+||[iOS 18 新增 T9 撥號、通話錄音及無縫 SIM 卡切換](https://www.iphonetaiwan.org/2024/06/ios18-t9-dialing-feature.html)|
+||[Apple Intelligence：蘋果如何捍衛 AI 隱私與品質標準](https://www.iphonetaiwan.org/2024/06/apple-intelligence-privacy-quality-cook.html)|
+||[蘋果 Swift 迎來 AI 編程時代：Xcode 16 引入人工智慧助手](https://www.iphonetaiwan.org/2024/06/xcode-16-swift-assist-ai.html)|
 |[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Variational Autoencoder](https://leimao.github.io/blog/PyTorch-Variational-Autoencoder/)|
 |[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[美副国务卿：中国决心确保中美关系稳定](https://www.zaobao.com/realtime/china/story20240613-3921947)|
 ||[中国外交部提醒公民谨慎赴帕劳旅游](https://www.zaobao.com/realtime/china/story20240613-3921236)|
