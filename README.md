@@ -2,6 +2,145 @@
 
 |来源|标题|
 |---|---|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[ambiphone 在线白噪音网站，可以播放雨声、风声、流水、篝火、海鸥、鲸鱼、咖啡馆等声音，类型很丰富，并且可以相互组合，适合睡眠和工作等场景，打开即用，无需...](https://m.okjike.com/originalPosts/666aa1dbf3b608c67dce8cbe)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[受权发布丨公平竞争审查条例](http://www.news.cn/20240613/88f483259d41416dafa03fe22acd24c1/c.html)|
+||[受权发布丨中华人民共和国国务院令 第783号](http://www.news.cn/20240613/49689e3bdbc742938b7478504eb6b6f6/c.html)|
+||[李强签署国务院令 公布《公平竞争审查条例》](http://www.news.cn/20240613/1ffb720848244fef9637c8d7a3ab3c30/c.html)|
+||[青岛男童被武术教练殴打致死案一审宣判](http://www.news.cn/20240613/a53124da8fc54d328f75559932736645/c.html)|
+||[星空有约｜我国首颗探日卫星“羲和号”又有新发现](http://www.news.cn/20240613/29d0dd8f898c40eea9bbad2eaab53944/c.html)|
+||[新时代中国调研行之看区域·中部篇｜江西南昌：智慧农场助力农业提质增效](http://www.news.cn/20240613/8e05021dbbf240c28fc5b48e2398fc22/c.html)|
+||[繁花似锦，不虚此行——大陆演员胡歌讲述“宝总”与宝岛的故事](http://www.news.cn/20240613/0fdff9dd7b0f41deb704610d405374db/c.html)|
+||[汽油、柴油价格下调](http://www.news.cn/20240613/0943db4f4e7f4e16907f21d89fa6f3c1/c.html)|
+||[新华社消息｜南海西北陆坡沉船遗址提取文物900余件套](http://www.news.cn/20240613/f8c7832b42d34ab1a21c4bac1b7ebbfa/c.html)|
+||[外交部：敦促欧方倾听各界理性声音 停止将经贸问题政治化](http://www.news.cn/20240613/7f7a1d4d43b94531aba193bd26c2f9b5/c.html)|
+||[京味儿话剧《坤伶·元年》展现京剧人的坚守和求新](http://www.news.cn/20240613/70571a2e95a54ca4a7c7ce63bc7c7c7c/c.html)|
+||[高温下的劳动者｜河北孟村：中药汤剂送清凉 呵护户外劳动者](http://www.news.cn/20240613/d028843b752d433b9b15ba656c2f5174/c.html)|
+||[酷暑中“送凉”保供——天津高温天气一线观察](http://www.news.cn/20240613/54203d5296054a95bfee9b9045f4d549/c.html)|
+||[共青团中央开展青春建功主题活动服务区域重大战略](http://www.news.cn/20240613/3c0fbcc9529a4c2f9167a3630bc0ccba/c.html)|
+||[国际观察｜布林肯中东行何以“屡行屡败”](http://www.news.cn/20240613/20272572d592410b96c7d7eeeaf8dbee/c.html)|
+||[新时代新征程高质量推进党政领导班子建设的指导性文件——中央组织部负责人就《全国党政领导班子建设规划纲要（2024－2028年）》答记者问](http://www.news.cn/20240613/f2eb6ceb4fe4457c930c3382def1fd2d/c.html)|
+||[中共中央办公厅印发《全国党政领导班子建设规划纲要（2024－2028年）》](http://www.news.cn/20240613/a34369836c3e4be6a56724017118f12e/c.html)|
+||[我国成为全球能耗强度降低最快的国家之一](http://www.news.cn/20240613/7daba03ab48841238b0a2e33c298453c/c.html)|
+||[文化中国行｜西藏“琪”遇VLOG ：绝美！直击纳木错开湖节](http://www.news.cn/20240613/d87afe2bc2c84488a20a75e6ac439e6f/c.html)|
+||[秀我中国｜炎炎夏日 尽享“鹤城”清凉](http://www.news.cn/20240613/406f2430569e45688600e3ba171f41db/c.html)|
+||[“中华好主播”两岸青年主播培训营在杭州启动](http://www.news.cn/20240613/90f0ea1bf3aa40b19ae8b86699e56792/c.html)|
+||[2024年全国劳模疗休养活动在京启动](http://www.news.cn/20240613/f9a4080904b142c0bd96328cc112b2af/c.html)|
+||[新闻分析：近期强对流天气为何这么多？](http://www.news.cn/20240613/93512ecf8a48419d97eb14bf7dd6c4ee/c.html)|
+||[港股13日涨0.97% 收报18112.63点](http://www.news.cn/20240613/40fd9d8f9f7e4aa6869709bf529c5bfa/c.html)|
+||[镜观·回响｜发展现代化大农业，筑牢“中部粮仓”](http://www.news.cn/20240613/fc2b22a52c8b4e9eb3674524e04369fd/c.html)|
+||[山西安泽发生山火 多支力量投入扑救](http://www.news.cn/20240613/bf8b15120382468086d87b7293deaae7/c.html)|
+||[新华社消息｜习近平《深化合作，继往开来 推动中阿命运共同体建设跑出加速度——在中阿合作论坛第十届部长级会议开幕式上的主旨讲话》单行本出版](http://www.news.cn/20240613/86b4384bd10e44bd911802469a17cae9/c.html)|
+||[通讯｜整装待发，来自“金字塔之巅”的文物将亮相上海](http://www.news.cn/20240613/1de8e16e71b640c398a5263e1c1b8589/c.html)|
+||[福建将防暴雨应急响应提升至Ⅲ级](http://www.news.cn/20240613/fa99133d298148e289ab502a74a1a304/c.html)|
+||[新华社权威快报丨南海西北陆坡沉船遗址提取文物900余件套](http://www.news.cn/20240613/905a561be7314ba5a4cfa94ff0d87cc3/c.html)|
+||[新华全媒+｜遇见长白山之“小哥”赴约](http://www.news.cn/20240613/8f7a8c31b02b4a13941cf98d07c63298/c.html)|
+||[新研究借助人工智能“解码”狗叫声](http://www.news.cn/20240613/2c01e79daa734a96a958c4233c064edb/c.html)|
+||[新华全媒+｜河南多措并举应对高温天气](http://www.news.cn/20240613/b5e02f9ca1284b039b095679bf30df20/c.html)|
+||[新华视点｜巧手匠心 经典永传](http://www.news.cn/20240613/110a87f410c44ab3b2c2c842c6841a5b/c.html)|
+||[河南：高温来袭 专家提醒注意防暑降温](http://www.news.cn/20240613/7e4b7ae840b6498a869add3b9a5d0963/c.html)|
+||[应勇：持续推进习近平法治思想的检察实践](http://www.news.cn/20240613/84fd3af7dfb94e07ba7000cf4bc9e644/c.html)|
+||[公安部交管局：更高质效服务美好交通出行](http://www.news.cn/20240613/418d8d0582a040f0a520bed4c3ba4c97/c.html)|
+||[最高检：依法、充分、规范开展立案和侦查活动监督](http://www.news.cn/20240613/37d8839a05204451bc5a921f4ddbe8b3/c.html)|
+||[王沪宁会见越南共产党代表团](http://www.news.cn/20240613/919aa5f77ab341df965ef7dc6ef06e39/c.html)|
+||[湖北省通报5起省属国企分、子公司“靠企吃企”典型案例](http://www.news.cn/20240613/f4e98743d9614c7cade6cea40d3ceb79/c.html)|
+||[中国电动车企亮相伦敦科技周引关注](http://www.news.cn/20240613/aaad4f8e0e50410489201ccbc7f7d3c8/c.html)|
+||[追光｜“大学体测难吗？”这群小学生申请出战！](http://www.news.cn/20240613/7826be2dfae441f19ce398fb742aaa0f/c.html)|
+||[创新发展新引擎——60秒看活力中部](http://www.news.cn/20240613/e9564a8392a74f97ae92a09ad7d0548e/c.html)|
+||[东京股市小幅下跌](http://www.news.cn/20240613/96df0817a835468bb2048ad1368eb111/c.html)|
+||[国际能源署：到2030年全球石油供应将严重过剩](http://www.news.cn/20240613/fa847253c5e14171aa0d2e4ec16e6355/c.html)|
+||[伊拉克埃尔比勒一炼油厂失火](http://www.news.cn/20240613/7b021e5becb64849a56564e35ec49742/c.html)|
+||[俄罗斯舰艇编队访问古巴 美国“密切关注”](http://www.news.cn/20240613/beda64716cf344adb542d2efb564b080/c.html)|
+||[推动高质量发展·权威发布丨2023年甘肃脱贫地区农村居民人均可支配收入12107元](http://www.news.cn/20240613/93f1262ede6a4cb4b924c4120f68323d/c.html)|
+||[习近平《深化合作，继往开来 推动中阿命运共同体建设跑出加速度——在中阿合作论坛第十届部长级会议开幕式上的主旨讲话》单行本出版](http://www.news.cn/20240613/4c4c585890c7490b9e3d07a53777728f/c.html)|
+||[推动高质量发展·权威发布丨甘肃：三方面持续发力 把资源大省打造成文旅强省](http://www.news.cn/20240613/d374c7a39cde4a40bbe59fa731886c7b/c.html)|
+||[公安部公布打击整治非法制售“特供酒”犯罪典型案例](http://www.news.cn/20240613/fe042b0ff2da4c39a5564fca6732f7f5/c.html)|
+||[沈白高铁控制性工程长青隧道顺利贯通](http://www.news.cn/20240613/8755943cc95a4195ac6d544d6f80c60e/c.html)|
+||[各级工会积极推动职工帮扶服务工作](http://www.news.cn/20240613/270ae7a89dd34314b282730f594d5f9b/c.html)|
+||[人工智能摄像头有助识别严重感染](http://www.news.cn/20240613/d506316011e14e7199cf95c2ff031724/c.html)|
+||[中外合伙人携手成长见证中国机遇](http://www.news.cn/20240613/f971b2b78022497cadf6a529aebf55bb/c.html)|
+||[“茶和天下·雅集”活动在巴拿马举行](http://www.news.cn/20240613/d23c0a34bbb94b8ab26305ce8f4ef674/c.html)|
+||[时光相册｜从盐汽水到文创雪糕，来看舌尖上的凉爽变迁](http://www.news.cn/20240613/bbdf2c000d644d358525ead6cc09238d/c.html)|
+||[李强同新西兰总理拉克森会谈](http://www.news.cn/20240613/5d653895ae954166b1eea9bd0747256c/c.html)|
+||[公安部推出8项公安交管便民利企改革新措施](http://www.news.cn/20240613/0c0fb4e3dc0647079fd3eeaf85373fd4/c.html)|
+||[新华社消息｜8项公安交管便民利企改革新措施7月1日起实施](http://www.news.cn/20240613/64c0102ad48845ce960fb0c23b4131f0/c.html)|
+||[李强会见新西兰总督基罗](http://www.news.cn/20240613/e5fb46666c9845d3a98e2966319adbcb/c.html)|
+||[推动高质量发展·权威发布丨甘肃经济增速连续7个季度保持在全国第一方阵](http://www.news.cn/20240613/d675c1de3fcc47ec8920c57211a50442/c.html)|
+||[健康我来说｜除了吃药缓解痛经，还有其他办法吗？](http://www.news.cn/20240613/f399b56ac0ee4f74b0775f1d72c37bb0/c.html)|
+||[中部粮仓｜晒粮：“晋南粮仓”金黄遍地美如画](http://www.news.cn/20240613/8bacb1e138df4dad85f7bf8bba5056d1/c.html)|
+||[吐鲁番迎来持续高温天气](http://www.news.cn/20240613/f1dd92529b824be78dd46269e7855758/c.html)|
+||[台湾三三会组团来大陆参访 期冀加强两岸产业合作](http://www.news.cn/20240613/130511f945d34884af9c9d1f14269242/c.html)|
+||[新华社消息丨联合国贸发会议举办成立60周年庆祝活动](http://www.news.cn/20240613/894c68e4e24c45a38f5a8fb90a484846/c.html)|
+||[南非报告首例猴痘死亡病例](http://www.news.cn/20240613/5417fe3c1a9242ada37179cf36cc0891/c.html)|
+||[调查显示：2024年端午档影片喜剧元素丰富 观众满意度良好](http://www.news.cn/20240613/93e313936c414f13b021f4c1569edc80/c.html)|
+||[“中比动漫文化周”在布鲁塞尔开幕](http://www.news.cn/20240613/afee70eb4e954f3088674721bbfd106c/c.html)|
+||[新质生产力一线观察丨明阳智能：自主创新吹动“绿色新风”](http://www.news.cn/20240613/941779ac9fbe4ca2a6ab6f258bd1fef1/c.html)|
+||[武汉“绘城者” 画出城市文化故事](http://www.news.cn/20240613/8beefa69123c40369406cf9ce95d45fa/c.html)|
+||[可可爱爱 看移轴镜头下插秧画卷](http://www.news.cn/20240613/422c5c2854c84963b9c4d8509aaf0df7/c.html)|
+||[马斯克撤回针对OpenAI的诉讼](http://www.news.cn/20240613/972d6adc87c548efac732293768ee63a/c.html)|
+||[涉案金额达50亿元 内蒙古侦破一起医药领域特大虚开增值税发票案](http://www.news.cn/20240613/d4c3ff669fe64b26996c5e83dc808704/c.html)|
+||[我在现场·照片背后的故事｜远山的呼唤](http://www.news.cn/20240613/ca66d02b5f4847aba6a03b4c9edcb018/c.html)|
+||[人民币市场汇价（6月13日）](http://www.news.cn/20240613/0248fefd15044152849fa39616294292/c.html)|
+||[新华社消息丨哈马斯官员称没有对停火提议提出新的修改意见](http://www.news.cn/20240613/9b787550206543ef8e0459e09184cc20/c.html)|
+||[关于中澳关系，听听“Z世代”怎么说](http://www.news.cn/20240613/2d255bff27274a39acc63c3f6d0a5d4d/c.html)|
+||[新华社权威快报丨8项公安交管便民利企改革新措施7月1日起实施](http://www.news.cn/20240613/376c753d8b564de08e4df51613dc2e76/c.html)|
+|[IT之家-24 小时最热](https://rsshub.app/ithome/ranking/24h)|[考古修复“辛追夫人”3D 数字人被质疑是复原专家自己，官方人员否认](https://www.ithome.com/0/774/956.htm)|
+||[史上首位中专生，17 岁女学生姜萍冲进 2024 阿里巴巴全球数学竞赛决赛](https://www.ithome.com/0/774/931.htm)|
+||[华为鸿蒙 HarmonyOS 首超苹果 iOS！成 2024 年 Q1 中国第二大手机操作系统](https://www.ithome.com/0/774/895.htm)|
+||[酷态科发布 10 号充电器 CP 超级闪充块 120W：18 分钟充满小米 14 Pro ，149 元](https://www.ithome.com/0/774/885.htm)|
+||[骁龙 8 Gen 4 旗舰处理器要来了！高通骁龙峰会 2024 定档 10 月 21~23 日](https://www.ithome.com/0/774/867.htm)|
+||[“小爱同学”接入字节跳动豆包大模型，小米 SU7 已搭载](https://www.ithome.com/0/774/840.htm)|
+||[《黑神话：悟空》主创杨奇试戴实体豪华版紧箍，黄铜材质 1:1 还原](https://www.ithome.com/0/774/819.htm)|
+||[官方下场最可怕，苹果 iOS 18 今年又要“逼死”一批第三方应用](https://www.ithome.com/0/774/804.htm)|
+|[36氪](https://www.36kr.com/feed)|[首都互联网协会第五届会员大会第二次会议暨第五届理事会第二次会议召开](https://36kr.com/p/2818280867301889?f=rss)|
+||[最前线｜上海迪士尼度假区去年接待超1300万人次，老年游客有明显增长](https://36kr.com/p/2818084684744964?f=rss)|
+||[云九资本投资企业晶泰科技登陆港交所，以人工智能和机器人驱动药物研发](https://36kr.com/p/2818044043430152?f=rss)|
+||[安永：新“国九条”的执行情况将成A股市场关键](https://36kr.com/p/2818031102740992?f=rss)|
+||[氪星晚报｜字节关停多个互动剧业务，看点余额将折算退款；舍得酒业成立酒业新公司；Meta据悉考虑减少副总裁人数](https://36kr.com/p/2818043158563330?f=rss)|
+||[新加坡开了场亚洲AI大会，来了群中文互联网搜不到的公司](https://36kr.com/p/2815319088417025?f=rss)|
+||[市场日报 “科特估”行情火热，半导体、苹果概念持续大涨；胖东来出手，中百集团直奔涨停；贵州茅台价格、股价双跌](https://36kr.com/p/2817586576787968?f=rss)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[阳台上的角落](https://www.jianshu.com/p/def5afd24679)|
+||[做向上好青年，科大，我们来啦！](https://www.jianshu.com/p/f5da479f0f34)|
+||[五芳斋爆料饭团产品定位解析](https://www.jianshu.com/p/08c43dba6f4b)|
+||[菜园小记52——期待中茄](https://www.jianshu.com/p/a6e3b763ec5e)|
+||[珍惜才是拥有，今天你们所拥有的都是因为你们珍惜，你们才没有失去。珍惜身边的亲人，珍惜你们拥有的一切，好好地活着。](https://www.jianshu.com/p/1ccb3b10d854)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[实验室带你过周末：2024.6.15 - 6.16 北京篇](http://www.toodaylab.com/82869)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[各级工会积极推动职工帮扶服务工作](http://society.people.com.cn/n1/2024/0613/c1008-40255884.html)|
+||[2025年苏迪曼杯将在厦门举行 比赛时间已确定](http://ent.people.com.cn/n1/2024/0613/c1012-40255894.html)|
+||[公安部推出8项公安交管便民利企改革新措施](http://society.people.com.cn/n1/2024/0613/c1008-40255791.html?)|
+||[“衢州烂柯杯”中国围棋冠军赛首轮战罢 上届冠亚军及杨鼎新等晋级](http://ent.people.com.cn/n1/2024/0613/c1012-40255744.html)|
+||[农业高温干旱风险预警发布 多地科学抗旱保障夏种夏管顺利开展](http://finance.people.com.cn/n1/2024/0613/c1004-40255596.html)|
+||[全民健康素养宣传月:"三减"饮食怎么减?](http://health.people.com.cn/n1/2024/0613/c14739-40255582.html)|
+||[数读中国 消费市场亮点纷呈 我国假日经济活力足](http://finance.people.com.cn/n1/2024/0613/c1004-40255548.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[中资闯荡欧洲足坛：疯狂布局、剧烈收缩与高昂学费](https://www.infzm.com/contents/273330)|
+||[“根本就没有古希腊古罗马古埃及”：黄河清和他眼中的“西方伪史论”](https://www.infzm.com/contents/273315)|
+||[今晚油价下调，加一箱92号汽油将少花2.5元](https://www.infzm.com/contents/273334)|
+||[《黑神话·悟空》连遭攻击：西方“政治正确”机构沦为敲诈勒索团伙？丨快评](https://www.infzm.com/contents/273298)|
+||[近期牛肉价格为何持续下跌？](https://www.infzm.com/contents/273278)|
+||[自媒体时代不能“易粪而食”：谈谈社交平台愈演愈烈的信息污染问题](https://www.infzm.com/contents/273276)|
+||[原来盖·里奇拍“手撕鬼子”，也能这么摆烂啊](https://www.infzm.com/contents/272520)|
+||[此刻是你童年向往的人生吗？](https://www.infzm.com/contents/273028)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[数字化助推绿色转型：发改委大力推进四个行业节能减碳](https://www.infoq.cn/article/1a1Ya6GNJqUC5O4wHB3t)|
+||[推动数字化+低碳化的软件利器：施耐德电气推出“融平台”解决方案](https://www.infoq.cn/article/ZgqWkBRA47gb5b0LEprV)|
+||[越来越多企业采用AI，工业、药物研发、零售等行业加速转型](https://www.infoq.cn/article/UAboZWAP114wzq39JYiA)|
+||[一次性裁掉 50 多名副总裁！小扎的冷血管理哲学：高管也是打工人](https://www.infoq.cn/article/UftP2CSO2LaqaTy9vhIz)|
+||[两度入选CVPR，海量视频数据+AI大模型加持，快手KVQ打造视频质量评价“黄金眼”](https://www.infoq.cn/article/gc3oNgtmlcZTr0cAqr9y)|
+||[店匠科技自研引擎：加速品牌出海，共塑跨境电商新纪元](https://www.infoq.cn/article/waHdUoQy5wVPId2H3Rgq)|
+||[喜发新模型，却被众嘲是破产“前兆”！Stability AI “最强”模型人形绘制太“阴间”，网友：因为研发太讲武德](https://www.infoq.cn/article/29AtySiZV6MB129O6Xxe)|
+|[爱范儿](https://plink.anyfeeder.com/ifanr)|[影石 Insta360 GO 3S 发布：实拍 50 分钟不过热，最小的 4K 相机](https://www.ifanr.com/1589047?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[苹果 CEO 库克专访：首次回应退休传言，联手 OpenAI 是当下的最佳之选](https://www.ifanr.com/1589040?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[木途美端午忙，平台争斗哪家强？](https://www.woshipm.com/it/6069031.html)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[独家丨蚂蚁集团副总裁蒋国飞离职](https://www.leiphone.com/category/fintech/2MY6zyClmQJcqCy6.html)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[开源日报 下一个AI之城；ChromeOS“安卓化”；HarmonyOS超越iOS；Stable Diffusion 3 Medium开源；计算机专业还值得报考吗？](https://www.oschina.net/news/297137)|
+||[Stable Diffusion 3 Medium 正式开源](https://www.oschina.net/news/297103/stable-diffusion-3-medium)|
+||[半导体行业先驱 Lynn Conway 因心脏病去世](https://www.oschina.net/news/297089)|
+||[小米字节联手，小爱同学接入豆包大模型](https://www.oschina.net/news/297086)|
+||[Oracle 是否无意中扼杀了开源 MySQL？](https://www.oschina.net/news/297078/is-oracle-finally-killing-mysql)|
+||[专为手机设计的最强高速推理引擎 PowerInfer-2，每秒 11.68 token，比其它最强快 22 倍，来自上海交通大学 IPADS](https://www.oschina.net/news/297053/powerinfer-2)|
+||[蚂蚁集团：2023 年研发投入 211.9 亿元](https://www.oschina.net/news/297048)|
+||[ChromeOS 逐渐“安卓化”](https://www.oschina.net/news/297021/chromeos-android-under-the-hood)|
+||[谷歌借鉴 Android 来改进 ChromeOS](https://www.oschina.net/news/297020/chromeos-android)|
+||[极氪与 Zadig 共创平台工程：引领智能汽车数智化转型](https://my.oschina.net/koderover/blog/11209025)|
+||[酷暑骄阳，热情似火丨deepin 校园联盟走进湖北大学，共话开源新篇章](https://www.oschina.net/news/297009)|
 |[甜欣屋](https://tcxx.info/feed)|[苹果宣布整合ChatGPT！盘点硅谷大厂的AI策略](https://tcxx.info/diary/1060.html)|
 |[小众软件](http://feeds.appinn.com/appinns)|[KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用](https://www.appinn.com/kinestop/)|
 |[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[气温变化和人类狩猎导致了长毛犀牛的灭绝](https://www.solidot.org/story?sid=78423)|
