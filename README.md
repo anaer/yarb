@@ -2,6 +2,39 @@
 
 |来源|标题|
 |---|---|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[欧盟宣布对中国电动汽车征收额外关税，最高达38%](https://cn.nytimes.com/business/20240613/eu-china-ev-tariffs/dual)|
+||[美国已不是世界老大](https://cn.nytimes.com/opinion/20240613/america-leadership-gaza-ukraine/dual)|
+|[少数派](https://sspai.com/feed)|[Windows 设计史 03 Windows XP：摆脱机械，拥抱自然](https://sspai.com/post/88722)|
+||[派早报：HTC 推出 U24 Pro 手机、Android 测试防盗功能等](https://sspai.com/post/89560)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[美国宣布新金融制裁措施，旨在切断中俄技术联系](https://cn.nytimes.com/usa/20240613/us-russia-china-sanctions-g7/?utm_source=RSS)|
+||[欧盟宣布对中国电动汽车征收额外关税，最高达38%](https://cn.nytimes.com/business/20240613/eu-china-ev-tariffs/?utm_source=RSS)|
+||[美国已不是世界老大](https://cn.nytimes.com/opinion/20240613/america-leadership-gaza-ukraine/?utm_source=RSS)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[男童被武术教练殴打致死案一审宣判：两人获刑无期 一人获缓刑](https://www.infzm.com/contents/273274)|
+||[李仙花：对于汉剧，我是忘我而执着的](https://www.infzm.com/contents/273019)|
+||[户外活动频有参与者死亡：不要以轻佻的态度对待自然丨快评](https://www.infzm.com/contents/273256)|
+|[一起偷偷观察 DIYgod - Te...](https://rsshub.app/telegram/channel/awesomeDIYgod)|[🐦 #DIYgod的Twitter更新 I don't need Elon Musk to decide how I should protect my privacy 传送门](https://t.me/awesomeDIYgod/6416)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Music 音樂下載並轉檔成 MP3 借助 UkeySoft Apple Music 轉檔器一鍵完成！](https://applefans.today/2024-06-ukeysoft-apple-music-converter/)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[🌍分享一个我特别喜欢的宝藏网站：https://chineseposters.net/ 💡网站收集了7000多副不同时期的宣传画，德国艺术家斯特凡・兰斯伯格（Stefan Landsberger）...](https://m.okjike.com/originalPosts/666a6b0e0a5cbfb896317fa9)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[中通客车“掐表涨停”背后，ESG表现如何？](https://www.tmtpost.com/7125882.html)|
+||[“天灾”之后麻烦不断，金迪克迫不得已卷入四价流感疫苗“价格战”](https://www.tmtpost.com/7127045.html)|
+||[中国需要更多的出海生命线](https://www.tmtpost.com/7126232.html)|
+||[贾玲救得了Prada吗？](https://www.tmtpost.com/7126477.html)|
+||[嘉实基金颜伟鹏：“动态安全边际”两头不讨好，主动管理沦为指数复现 钛媒体焦点](https://www.tmtpost.com/7120683.html)|
+||[【大事件必读】华为将举办重磅大会，这两大看点备受市场关注](https://www.tmtpost.com/7127011.html)|
+||[Which Corporate Culture is the One for Chinese Workers? – a Clan Culture or a Wolf Culture?](https://www.tmtpost.com/7126946.html)|
+||[大模型产品化，不过是三支舞](https://www.tmtpost.com/7126269.html)|
+||[网易《七日世界》登顶Steam新品节，主机渠道宣传能否成为游戏品质保障？](https://www.tmtpost.com/7126323.html)|
+||[智界S7、小米SU7放弃标配HUD，原因不只是“八字不合”](https://www.tmtpost.com/7126346.html)|
+||[Oracle四季度125亿美元销售合同背后：OpenAI用上Oracle云，模型推理或是关键](https://www.tmtpost.com/7126750.html)|
+||[re:Inforce 2024：在生成式AI尚未获得收益前，先考虑下怎么设计安全防护](https://www.tmtpost.com/7125846.html)|
+||[碳纤维还得降](https://www.tmtpost.com/7126237.html)|
+||[3年从500家到57家，佛系的小眷村已不适合这个时代](https://www.tmtpost.com/7126250.html)|
+||[European Auto Giants Push Back Extra EU Tariffs on Chinese EVs](https://www.tmtpost.com/7126803.html)|
+|[36氪](https://36kr.com/feed)|[半年冒出近百家新公司，「具身智能」也有春天 36氪新风向](https://36kr.com/p/2817741712754949?f=rss)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[BAT云销售，涌入火山引擎](https://www.leiphone.com/category/industrynews/3Pi5j68fq5yTJM5a.html)|
+||[明星智驾公司的生死倒计时：禾多的财务与内耗迷云](https://www.leiphone.com/category/transportation/wrAUirgGuPcPJ1no.html)|
+||[深圳老牌公司全员解散，三小时内开除全体员工、不做任何交接；闲鱼回应多用户未经本人允许挂售同事；钟睒睒再夺中国首富丨雷峰早报](https://www.leiphone.com/category/zaobao/pBiPnwd9ku3PdWrT.html)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[早餐别乱买这类面包，热量比炸鸡还高！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%97%A9%E9%A4%90%E5%88%AB%E4%B9%B1%E4%B9%B0%E8%BF%99%E7%B1%BB%E9%9D%A2%E5%8C%85%EF%BC%8C%E7%83%AD%E9%87%8F%E6%AF%94%E7%82%B8%E9%B8%A1%E8%BF%98%E9%AB%98%EF%BC%81)|
 |[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[中方呼吁各方避免任何可能导致半岛局势紧张升级的言行](http://www.news.cn/20240613/e04867f9095149929763a8e079d5f9bb/c.html)|
 ||[新华社消息丨莫斯科证券交易所宣布停止使用美元和欧元交易](http://www.news.cn/20240613/2dacf7866c6246328581c5ab4d10b5df/c.html)|
 ||[国际奥委会执委会提议法国阿尔卑斯和美国盐湖城为2030年和2034年冬奥会举办地](http://www.news.cn/20240613/de37cbede84f49db9d376d049114b5dd/c.html)|
