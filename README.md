@@ -2,6 +2,116 @@
 
 |来源|标题|
 |---|---|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[PyTorch Variational Autoencoder](https://leimao.github.io/blog/PyTorch-Variational-Autoencoder/)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[美副国务卿：中国决心确保中美关系稳定](https://www.zaobao.com/realtime/china/story20240613-3921947)|
+||[中国外交部提醒公民谨慎赴帕劳旅游](https://www.zaobao.com/realtime/china/story20240613-3921236)|
+||[台湾大学今年招生缺额1.16万 七年来次高](https://www.zaobao.com/realtime/china/story20240613-3921011)|
+||[李强：中国和新西兰要避免关系出现鸿沟](https://www.zaobao.com/realtime/china/story20240613-3921330)|
+||[前港官员：国安法是定海神针 政府商界应多宣传](https://www.zaobao.com/realtime/china/story20240613-3920948)|
+||[青岛武术馆8岁男童遭打死 教练被判无期](https://www.zaobao.com/realtime/china/story20240613-3920816)|
+||[中国外汇管理局：坚决维护外汇市场稳定](https://www.zaobao.com/realtime/china/story20240613-3920750)|
+||[中国驻泰使馆吁留学人员提防涉奖学金求职诈骗](https://www.zaobao.com/realtime/china/story20240613-3920540)|
+||[甘肃省原副省长杨子兴被查](https://www.zaobao.com/realtime/china/story20240613-3920560)|
+||[取款2万人民币以上要派出所同意 吉林银行：防电信诈骗](https://www.zaobao.com/realtime/china/story20240613-3920521)|
+||[台国防部：一架解放军无人机飞近花莲](https://www.zaobao.com/realtime/china/story20240613-3920325)|
+||[澳门地标大三巴牌坊疑被雷劈掉落石块](https://www.zaobao.com/realtime/china/story20240613-3920317)|
+||[彭博：中企从俄购买2000吨精炼铜 迄今下落不明](https://www.zaobao.com/realtime/china/story20240613-3920134)|
+||[中国央行：支持地方国企收购已建成存量商品房](https://www.zaobao.com/realtime/china/story20240613-3920092)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[时尚帝国lululemon的崛起与危机](https://www.tmtpost.com/7126902.html)|
+||[一线卷不动后，餐饮品牌们盯上了县城](https://www.tmtpost.com/7126994.html)|
+||[EHA观察：来自中国口头报告里的CAR-T新趋势](https://www.tmtpost.com/7126916.html)|
+||[秦L上市不到半月收获百万订单？比亚迪李云飞：暂时不公布，担心引起行业震动](https://www.tmtpost.com/7127274.html)|
+||[试水不到一年，字节关停多个互动剧业务](https://www.tmtpost.com/7126901.html)|
+||[东昂科技：遭大客户砍单，供应商“倒贴” ｜IPO观察](https://www.tmtpost.com/7127329.html)|
+||[官宣一亿玩家，三国SLG升温、激变，头部游戏护城河有多深？](https://www.tmtpost.com/7126829.html)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[国内白帽子的海外第一单，750刀](https://www.freebuf.com/news/403509.html)|
+||[我在甲方安全岗带薪摸鱼，竟被领导夸奖……](https://www.freebuf.com/fevents/403458.html)|
+||[被黑客大规模攻击，边缘服务和基础安全设备脆弱性曝光](https://www.freebuf.com/news/403455.html)|
+||[头部旅游类App乱象：未经允许收集数据，索取手机权限](https://www.freebuf.com/news/403449.html)|
+||[建议立即删除！谷歌 EmailGPT 曝零日漏洞](https://www.freebuf.com/news/403414.html)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[俄罗斯在战术核演习中演练电子导弹发射](https://www.zaobao.com/realtime/world/story20240613-3921928)|
+||[美众议院通过决议 认定司法部长加兰藐视国会](https://www.zaobao.com/realtime/world/story20240613-3921356)|
+||[联合国：全球流离失所者达1.17亿 创历史新高](https://www.zaobao.com/realtime/world/story20240613-3920934)|
+||[墨西哥干旱致湖泊干涸 鱼群死亡](https://www.zaobao.com/realtime/world/story20240613-3920680)|
+||[乌克兰总统突访沙特 行程细节未公布](https://www.zaobao.com/realtime/world/story20240613-3920519)|
+||[涉在东京澡堂偷拍 新加坡前外交官将在日本面控](https://www.zaobao.com/realtime/world/story20240613-3920341)|
+||[科技巨头苹果公司 短暂抢回市值第一桂冠](https://www.zaobao.com/realtime/world/story20240613-3920168)|
+||[马国六岁自闭儿扎恩命案 小死者父母被控](https://www.zaobao.com/realtime/world/story20240613-3920194)|
+||[美媒：马斯克以性为目的追求SpaceX女员工](https://www.zaobao.com/realtime/world/story20240613-3920039)|
+||[美扩大对俄制裁 打击液化天然气项目和晶片采购](https://www.zaobao.com/realtime/world/story20240613-3919965)|
+||[美联储维持利率不变 料年内最多降息一次](https://www.zaobao.com/realtime/world/story20240613-3919815)|
+||[哈马斯促美国向以色列施压 以达成停火](https://www.zaobao.com/realtime/world/story20240613-3919721)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[HeHeDa: @无聊图](http://i.jandan.net/t/5697408)|
+||[非必要不中出: @无聊图](http://i.jandan.net/t/5697362)|
+||[两面包夹芝士: @无聊图](http://i.jandan.net/t/5697358)|
+||[曲嗷嗷: @无聊图](http://i.jandan.net/t/5697354)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5697353)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5697313)|
+||[托马斯小火车: @无聊图](http://i.jandan.net/t/5697297)|
+||[嗜奶: @无聊图 纵使利润率不如阿里和拼多多，但是外包也给五险一金](http://i.jandan.net/t/5697281)|
+||[大姨胶布: @无聊图](http://i.jandan.net/t/5697278)|
+||[万寿无疆: @无聊图](http://i.jandan.net/t/5697257)|
+||[Tyu: @无聊图](http://i.jandan.net/t/5697245)|
+||[ovo: @无聊图 再试最后一次](http://i.jandan.net/t/5697241)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5697228)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5697227)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5697225)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5697223)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5697222)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5697221)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5697219)|
+||[骸客地瓜: @无聊图](http://i.jandan.net/t/5697205)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5697194)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5697191)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5697189)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5697188)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5697182)|
+||[泡菜米粉: @无聊图 那个给男票买了游戏妹子！ 你看，这是2022年时候。我给男票在steam deck 连夜预约的第2批掌机，什么美服账号什么转运啥也不会，我扒着电脑学...](http://i.jandan.net/t/5697140)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[中国在南美新建巨型港口，令美国后背发凉](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E7%BE%8E%E6%96%B0%E5%BB%BA%E5%B7%A8%E5%9E%8B%E6%B8%AF%E5%8F%A3-%E4%BB%A4%E7%BE%8E%E5%9B%BD%E5%90%8E%E8%83%8C%E5%8F%91%E5%87%89-5c043ced)|
+||[谷歌、高盛争当全球“最聪明公司”——走近世界企业国际象棋锦标赛](https://cn.wsj.com/amp/articles/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%9B%9B%E4%BA%89%E5%BD%93%E5%85%A8%E7%90%83-%E6%9C%80%E8%81%AA%E6%98%8E%E5%85%AC%E5%8F%B8-%E7%9B%AE%E6%A0%87%E9%A2%86%E5%9F%9F%E5%8D%B4%E6%98%AF%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B-c6a62a43)|
+||[在中国股票交易平台上炒股是种什么体验？](https://cn.wsj.com/amp/articles/%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%82%92%E8%82%A1%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C-27f327bf)|
+||[微软CEO纳德拉锐意打造AI帝国，OpenAI只是开始](https://cn.wsj.com/amp/articles/%E5%BE%AE%E8%BD%AFceo%E7%BA%B3%E5%BE%B7%E6%8B%89%E9%94%90%E6%84%8F%E6%89%93%E9%80%A0ai%E5%B8%9D%E5%9B%BD-openai%E5%8F%AA%E6%98%AF%E5%BC%80%E5%A7%8B-0f0eb4a1)|
+||[腾讯支持的AI药物研发公司晶泰科技香港上市首日大涨](https://cn.wsj.com/amp/articles/%E8%85%BE%E8%AE%AF%E6%94%AF%E6%8C%81%E7%9A%84ai%E8%8D%AF%E7%89%A9%E7%A0%94%E5%8F%91%E5%85%AC%E5%8F%B8%E6%99%B6%E6%B3%B0%E7%A7%91%E6%8A%80%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8-cb3ac061)|
+||[失去西方市场，中国的出口机器还能继续运转吗？](https://cn.wsj.com/amp/articles/%E5%A4%B1%E5%8E%BB%E8%A5%BF%E6%96%B9%E5%B8%82%E5%9C%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%87%BA%E5%8F%A3%E6%9C%BA%E5%99%A8%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E8%BF%90%E8%BD%AC%E5%90%97-4990d33e)|
+||[吃一堑长一智，美联储这次要稳扎稳打](https://cn.wsj.com/amp/articles/%E5%90%83%E4%B8%80%E5%A0%91%E9%95%BF%E4%B8%80%E6%99%BA-%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%99%E6%AC%A1%E8%A6%81%E7%A8%B3%E6%89%8E%E7%A8%B3%E6%89%93-5106d241)|
+||[哈马斯强化立场，针对美国停火方案提出新要求](https://cn.wsj.com/amp/articles/%E5%93%88%E9%A9%AC%E6%96%AF%E5%BC%BA%E5%8C%96%E7%AB%8B%E5%9C%BA-%E9%92%88%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%81%9C%E7%81%AB%E6%96%B9%E6%A1%88%E6%8F%90%E5%87%BA%E6%96%B0%E8%A6%81%E6%B1%82-8c3ba0fd)|
+||[Zyn尼古丁袋是什么？为何风靡全美？](https://cn.wsj.com/amp/articles/zyn%E5%B0%BC%E5%8F%A4%E4%B8%81%E8%A2%8B%E6%98%AF%E4%BB%80%E4%B9%88-%E4%B8%BA%E4%BD%95%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%BE%8E-bb53cb9f)|
+||[苹果设备十大最受欢迎新功能预览](https://cn.wsj.com/amp/articles/%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E5%8D%81%E5%A4%A7%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E6%96%B0%E5%8A%9F%E8%83%BD%E9%A2%84%E8%A7%88-1d393959)|
+|[Tinyfool的个人网站](https://codechina.org/feed/)|[《玫瑰的故事》是不是高配版玛丽苏？](https://codechina.org/2024/06/rose/)|
+|[我不是咕咕鸽](https://blog.laoda.de/rss.xml)|[趁着618，分享一下自己常用的工具](https://blog.laoda.de/archives/the-tool-i-used-in-2024)|
+|[极客公园](http://feeds.geekpark.net/)|[蔚来触底反弹，靠的竟然是曾被看衰的「换电」](http://www.geekpark.net/news/336466)|
+|[虎嗅](https://rss.huxiu.com/)|[周鸿祎演示360 AI惹侵权风波，独家对话当事人](https://www.huxiu.com/article/3131710.html?f=rss)|
+||[日本电影的沉没时代](https://www.huxiu.com/article/3132493.html?f=rss)|
+||[普通人如何在人工智能浪潮中站稳脚跟？](https://www.huxiu.com/article/3132464.html?f=rss)|
+||[卷不动的年轻人，开始去县城“飘”](https://www.huxiu.com/article/3132456.html?f=rss)|
+||[比特币司法执行的困境与对策](https://www.huxiu.com/article/3132488.html?f=rss)|
+||[数字遗产：当我“死”于数字时代](https://www.huxiu.com/article/3132453.html?f=rss)|
+||[中概互联，复苏“无人问津”时](https://www.huxiu.com/article/3131988.html?f=rss)|
+||[穿戴甲出海月入百万，真有这么好赚钱吗？](https://www.huxiu.com/article/3128658.html?f=rss)|
+||[“一年账面十几亿流水，我们不缺钱”](https://www.huxiu.com/article/3132435.html?f=rss)|
+||[什么是广西？](https://www.huxiu.com/article/3131707.html?f=rss)|
+||[对话冷狗儿：从农村全职妈妈厂工变成百万粉网红](https://www.huxiu.com/article/3132000.html?f=rss)|
+||[投资人开会，都在聊霸王茶姬](https://www.huxiu.com/article/3131992.html?f=rss)|
+||[近乎癫狂的学习软件，多邻国如何让你对学习上瘾？](https://www.huxiu.com/article/3129097.html?f=rss)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[为什么大语言模型能将我们带入AGI？](https://www.jdon.com/74161.html)|
+||[Restate：支持JavaScript/Java的Rust低延迟持久工作流](https://www.jdon.com/74148.html)|
+||[拜托：不要像鲍勃大叔那样重构](https://www.jdon.com/74147.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 chrome126 更新后字体变小是我的错觉吗？](https://www.v2ex.com/t/1049293#reply17)|
+||[ Apple 航旅纵横的替代品有推荐的吗](https://www.v2ex.com/t/1049292#reply33)|
+||[ 问与答 同志们，失业码农想开发一个 APP，解决一个痛点，请问你最想开发什么](https://www.v2ex.com/t/1049288#reply31)|
+||[ 投资 现在买美股，有啥好股票推荐](https://www.v2ex.com/t/1049287#reply16)|
+||[ 问与答 各位，请问恐高能克服消除的吗？](https://www.v2ex.com/t/1049281#reply11)|
+||[ 问与答 想问下这样的女朋友可以结婚吗？](https://www.v2ex.com/t/1049275#reply133)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[经常腰痛的人，建议听听这个](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%BB%8F%E5%B8%B8%E8%85%B0%E7%97%9B%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%BB%BA%E8%AE%AE%E5%90%AC%E5%90%AC%E8%BF%99%E4%B8%AA)|
+||[家里天天用的洗衣机，竟然这么脏！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%AE%B6%E9%87%8C%E5%A4%A9%E5%A4%A9%E7%94%A8%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%EF%BC%8C%E7%AB%9F%E7%84%B6%E8%BF%99%E4%B9%88%E8%84%8F%EF%BC%81)|
+||[一件你常做的事，会悄悄伤害你的膝盖](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%BB%B6%E4%BD%A0%E5%B8%B8%E5%81%9A%E7%9A%84%E4%BA%8B%EF%BC%8C%E4%BC%9A%E6%82%84%E6%82%84%E4%BC%A4%E5%AE%B3%E4%BD%A0%E7%9A%84%E8%86%9D%E7%9B%96)|
+||[一个阻止你变瘦的原因，很多人都不知道](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%B8%AA%E9%98%BB%E6%AD%A2%E4%BD%A0%E5%8F%98%E7%98%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93)|
+||[性生活不和谐，该怎么办？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%80%A7%E7%94%9F%E6%B4%BB%E4%B8%8D%E5%92%8C%E8%B0%90%EF%BC%8C%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[WWDC24 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/89541)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[东半球网络安全顶赛开幕在即，“矩阵杯”这些这些内容值得关注](https://www.4hou.com/posts/2qz1)|
+||[netty内存马探究](https://www.4hou.com/posts/1pxV)|
+||[漏洞预警丨XAMPP在PHP-CGI模式下远程代码执行漏洞 CVE-2024-4577 ](https://www.4hou.com/posts/ZGqw)|
+||[盛邦安全携DayDayMap闪耀CERNET学术会议](https://www.4hou.com/posts/YYoM)|
 |[知乎热榜](https://rsshub.app/zhihu/hotlist)|[美国 CPI 降温仍猛砍降息预期，美联储维持利率不变，预计今年仅降息一次，纳指、标普创新高，如何解读？](https://www.zhihu.com/question/658791639/answer/3529047896)|
 ||[土耳其拟对中国进口汽车征收 40 % 的额外关税，加征关税后会对中国车企产生什么影响？释放了什么信号？](https://www.zhihu.com/question/658619432/answer/3529047386)|
 ||[女孩喊物业劝离门外陌生人，保安到场后女孩与陌生人争执被捅死，死者母亲指保安不作为，如何从法律角度解读？](https://www.zhihu.com/question/658758852/answer/3528584031)|
