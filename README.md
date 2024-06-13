@@ -2,6 +2,73 @@
 
 |来源|标题|
 |---|---|
+|[V2方圆](https://v2fy.com/feed/)|[104 JensenHuang_黄仁勋 🧩_BQB](https://v2fy.com/p/104%20jensenhuang_%e9%bb%84%e4%bb%81%e5%8b%8b%20%f0%9f%a7%a9_bqb/)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[端午出行：Car+车联14.3.30版本体验](https://www.coolapk.com/feed/56731916?shareKey=NzBhYzRlYThhNjIwNjY2YjNmNzY~)|
+||[关于我1400元捡到高性能主机这件事](https://www.coolapk.com/feed/56731478?shareKey=ZDczYjk1YTg4MTAyNjY2YjNmNzY~)|
+||[小菜腿的入门，千元骑行](https://www.coolapk.com/feed/56731013?shareKey=OTEwNzkxOGU4NDM5NjY2YjNmNzY~)|
+||[K40游戏增强版改装散热](https://www.coolapk.com/feed/56730644?shareKey=M2Q4N2ViMTc5ZWIyNjY2YjNmNzY~)|
+||[【美出东方，追光之作】vivo S19Pro 体验简评](https://www.coolapk.com/feed/56730494?shareKey=MTMxZWRkZjg2YWU5NjY2YjNmNzY~)|
+||[【音乐播放器】一个音乐播放器 v1.0.4](https://www.coolapk.com/feed/56729857?shareKey=ZmU3MWNiNTcwOWFjNjY2YjNmNzY~)|
+||[【TTML 歌词】歌词搜索器 v1.0.5 将搜索到的流媒体歌词转换为 TTML 格式的工具](https://www.coolapk.com/feed/56729359?shareKey=M2Q1MGNkMjE3YjNkNjY2YjNmNzY~)|
+||[徕芬电动牙刷半年使用体验分享](https://www.coolapk.com/feed/56729254?shareKey=YjJlYTYzYjNiYzM3NjY2YjNmNzY~)|
+||[今日水印相机旧版本自定义验真分享](https://www.coolapk.com/feed/56728877?shareKey=MGNmMjgzZDYyMTU0NjY2YjNmNzY~)|
+||[iQOO13备选方案渲染图](https://www.coolapk.com/feed/56728837?shareKey=MmMyNjU1NDFkYzhiNjY2YjNmNzY~)|
+||[6动铁，罕见的丝滑 —— 谈Campfire Audio的Fathom“英寻”](https://www.coolapk.com/feed/56728444?shareKey=MzA4NDIyMDU1MTI0NjY2YjNmNzY~)|
+||[出索为尼，降级apsc定焦党轻量化路线](https://www.coolapk.com/feed/56728047?shareKey=ODIwZDg4MzNiYmZlNjY2YjNmNzY~)|
+||[iOS18主要更新](https://www.coolapk.com/feed/56727621?shareKey=YzE5MzM1MDY1MjM5NjY2YjNmNzY~)|
+||[夜晚港口随拍](https://www.coolapk.com/feed/56727326?shareKey=YjEwODRjYTA2ZDg3NjY2YjNmNzY~)|
+||[本人使用一天的续航表现](https://www.coolapk.com/feed/56727281?shareKey=MWFiYzBhZmEyMjM4NjY2YjNmNzY~)|
+||[隔壁超市售价19.9的“国产”初音未来积木](https://www.coolapk.com/feed/56726534?shareKey=MjFlYTVkMmM5MjFiNjY2YjNmNzY~)|
+||[华为原生软件——阅读](https://www.coolapk.com/feed/56726508?shareKey=OTViZjEwM2MyYmVjNjY2YjNmNzY~)|
+||[【行业资讯】首发价10338元，山灵EM7香槟金限量版重磅上市](https://www.coolapk.com/feed/56725981?shareKey=MjFhMjk5ZDA5MTE1NjY2YjNmNzY~)|
+|[Leonn的博客](https://rsshub.app/wechat/tgchannel/liyuans)|[Offers — LowEndTalk](https://lowendtalk.com/discussion/195512/are-you-tired-of-tiny-vps-syndrome-new-oplink-net-ryzen-plans-w-50tb-data)|
+||[@ZaiHuaPd](https://t.me/ZaiHuaPd)|
+|[极客公园](http://www.geekpark.net/rss)|[韬光三年，领克有了自己的「001」](http://www.geekpark.net/news/336469)|
+|[新浪专栏-创事记](https://plink.anyfeeder.com/sina/csj)|[鸣鸣很忙的「万店」和三重启示](https://finance.sina.com.cn/tech/csj/2024-06-12/doc-inaynata8048665.shtml)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 23 岁，感觉生活要望到头了，想转码行吗](https://www.v2ex.com/t/1049378#reply19)|
+||[ Windows 怎么干掉 win11 的无效右键一级菜单](https://www.v2ex.com/t/1049374#reply11)|
+||[ Docker Docker 源挂了 大家都是怎么办的](https://www.v2ex.com/t/1049366#reply11)|
+||[ 问与答 想问下，我这样的的人还有机会能改变吗](https://www.v2ex.com/t/1049347#reply13)|
+||[ 生活 我发现网上大家都很喜欢讨论彩礼和女朋友之类的话题](https://www.v2ex.com/t/1049345#reply11)|
+||[ Windows 现在笔记本 CPU 是不是普遍过剩？](https://www.v2ex.com/t/1049342#reply36)|
+||[ Apple 用 Alfred 的推荐使用 Grid View](https://www.v2ex.com/t/1049336#reply14)|
+||[ Apple 苹果官方的密码管理软件 Passwords 已上架 iOS18 Appstore](https://www.v2ex.com/t/1049333#reply19)|
+||[ MacBook Pro 2w 选 m1max 还是 m2max](https://www.v2ex.com/t/1049331#reply14)|
+||[ 生活 需要一些积极的消息](https://www.v2ex.com/t/1049328#reply27)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[奥运之年成大考之年，阿迪达斯中国高管被指身陷灰色风波](https://www.tmtpost.com/7126343.html)|
+||[市值近200亿！腾讯收获一个AI超级IPO，晶泰科技登陆港交所｜钛媒体AGI](https://www.tmtpost.com/7127645.html)|
+||[下一个万亿蓝海市场，波态生物完成数千万元Pre-A轮融资](https://www.tmtpost.com/7127864.html)|
+||[智驾走到十字路口，城市NOA的“大饼”能实现吗？](https://www.tmtpost.com/7127238.html)|
+||[实时公交APP“车来了”能否顺利驶向港交所？](https://www.tmtpost.com/7127151.html)|
+||[海外品牌败走，国货美妆反攻](https://www.tmtpost.com/7126897.html)|
+||[追觅科技郭人杰：品牌全球化之路，要做高端化而不是性价比 T-EDGE@CTIS](https://www.tmtpost.com/7127435.html)|
+||[雷鸟创新创始人兼CEO李宏伟：下一个“iPhone时刻”，由AI+AR创造 T-EDGE@CTIS](https://www.tmtpost.com/7127386.html)|
+||[游戏+学习，多邻国狂揽9760万月活的秘密](https://www.tmtpost.com/7126906.html)|
+||[追踪创新“最前沿”，CTIS最佳科技创新奖榜单重磅出炉 T-EDGE@CTIS](https://www.tmtpost.com/7127227.html)|
+||[《中国人工智能城市竞争力排行研究报告》重磅发布：北京、深圳、上海多项指标全国领先](https://www.tmtpost.com/7127550.html)|
+||[涨价贵过Apple music，Spotify的底气在哪里？](https://www.tmtpost.com/7127666.html)|
+||[独家对话IQAir CEO Frank：空气净化器的存在价值与“戒烟”一样](https://www.tmtpost.com/7127690.html)|
+||[油价迎来今年第四次下调，创年内第二大降幅](https://www.tmtpost.com/7126468.html)|
+||[被数据崇拜杀死的K-Pop](https://www.tmtpost.com/7127069.html)|
+||[中国汽车出海面临“地狱模式”](https://www.tmtpost.com/7127124.html)|
+|[海交史](https://www.haijiaoshi.com/feed)|[马光 近代中国进口替代问题再探——以广东土洋鸦片之争为例](https://www.haijiaoshi.com/archives/11775?utm_source=rss&utm_medium=rss&utm_campaign=%25e9%25a9%25ac%25e5%2585%2589%25e8%25bf%2591%25e4%25bb%25a3%25e4%25b8%25ad%25e5%259b%25bd%25e8%25bf%259b%25e5%258f%25a3%25e6%259b%25bf%25e4%25bb%25a3%25e9%2597%25ae%25e9%25a2%2598%25e5%2586%258d%25e6%258e%25a2-%25e4%25bb%25a5%25e5%25b9%25bf%25e4%25b8%259c%25e5%259c%259f%25e6%25b4%258b%25e9%25b8%25a6)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[G7首脑达成政治协议 拟用俄罗斯被冻结资产收益援乌](https://www.zaobao.com/realtime/world/story20240613-3924344)|
+||[南非确认第二例猴痘死亡病例](https://www.zaobao.com/realtime/world/story20240613-3924156)|
+||[公报草案：G7领导人对以黎边境局势深感担忧](https://www.zaobao.com/realtime/world/story20240613-3924088)|
+||[北约官员：盟国“轻松超额”完成部署30万人军队](https://www.zaobao.com/realtime/world/story20240613-3923927)|
+||[黎巴嫩真主党向以色列北部发射数十枚火箭弹](https://www.zaobao.com/realtime/world/story20240613-3923852)|
+||[日媒：偷拍事件新加坡前参赞被罚2500多新元](https://www.zaobao.com/realtime/world/story20240613-3923639)|
+||[周四美市盘前起落不一 重点谈特斯拉首席执行官马斯克560亿美元薪酬配套](https://www.zaobao.com/realtime/world/story20240613-3921084)|
+||[韩政府密切关注普京访朝准备工作](https://www.zaobao.com/realtime/world/story20240613-3923133)|
+||[气温飙升至43度 希腊雅典多个景点临时关闭](https://www.zaobao.com/realtime/world/story20240613-3923060)|
+||[北约秘书长：无论谁胜选 望法国继续忠实于北约](https://www.zaobao.com/realtime/world/story20240613-3922974)|
+||[彭博：美联储虽按兵不动 降息两次可能性仍在](https://www.zaobao.com/realtime/world/story20240613-3922550)|
+||[欧盟八国外长：应禁止俄外交官在欧盟境内自由行动](https://www.zaobao.com/realtime/world/story20240613-3922522)|
+||[报告：到2030年全球石油市场恐面临严重供应过剩](https://www.zaobao.com/realtime/world/story20240613-3922351)|
+||[G7元首拟就使用俄冻结资金收益援乌达成协议](https://www.zaobao.com/realtime/world/story20240613-3922232)|
+||[美国人对利率和通胀之忧 达两年来最严重程度](https://www.zaobao.com/realtime/world/story20240613-3922146)|
+||[美98岁老人去世捐献肝脏 或为全美最高龄器官捐献者](https://www.zaobao.com/realtime/world/story20240613-3922075)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[一次投票赢回 500 亿美元，马斯克天价薪酬案的来龙去脉](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517186&idx=1&sn=221ea0c273aa2bd406b9294d5ed99a19)|
 |[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[YouTube 测试服务器端的广告植入](https://www.solidot.org/story?sid=78426)|
 ||[父亲也能影响新生儿的微生物群](https://www.solidot.org/story?sid=78425)|
 ||[微软告密者称公司将商业利益置于安全之上](https://www.solidot.org/story?sid=78424)|
