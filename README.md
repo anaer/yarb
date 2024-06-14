@@ -2,6 +2,54 @@
 
 |来源|标题|
 |---|---|
+|[happy xiao](https://happyxiao.com/feed)|[是否应该活在当下](https://happyxiao.com/in-the-moment/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 打算再工作一年左右，去留个学，然后润出去，这样可行吗](https://www.v2ex.com/t/1049501#reply14)|
+||[ NAS 准备 DIY 一台 NAS，求推荐主板和 CPU](https://www.v2ex.com/t/1049487#reply14)|
+||[ 问与答 v2er 人均年薪百万纳税不心疼吗](https://www.v2ex.com/t/1049484#reply16)|
+||[ 分享发现 微信被封了一个星期的群聊&朋友圈，猜测是因为讨论 docker hub 的事](https://www.v2ex.com/t/1049478#reply12)|
+||[ Apple 求推荐一个 Mac 好用的鼠标，已有妙控，个人觉得不好用，至于触控板，总有需要用鼠标的时候](https://www.v2ex.com/t/1049474#reply13)|
+||[ 问与答 28 了转开发还来得及吗？](https://www.v2ex.com/t/1049464#reply21)|
+||[ 生活 分享一些积极的消息](https://www.v2ex.com/t/1049461#reply20)|
+|[少数派](https://sspai.com/feed)|[X-T50 使用体验：富士的最后一个爆款？](https://sspai.com/post/89599)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[【心得感悟】：说见你就欢喜](https://www.jianshu.com/p/35410fb81dfa)|
+||[21. 集合](https://www.jianshu.com/p/0ba7f398fe25)|
+||[06. Z字形变换](https://www.jianshu.com/p/fc377aaa6a48)|
+|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[不借助 mirror 仓库，为docker engine daemon添加 proxy 访问 docker hub，解决国内公开的docker mirror 仓库不再可用了的问题](https://hellodk.cn/post/1168)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[2024 年，师范类专业还值得推荐吗？](https://www.zhihu.com/question/656737851/answer/3529956629)|
+||[河北河南山东局地突破40℃ ，近来北方地区为何这么热，人类应该如何应对高温天气？](https://www.zhihu.com/question/658699854/answer/3529955266)|
+||[我们是异地恋，小测完想让男朋友给我个奖励，给我点了杯奶茶，他说我这个行为做的不对，感情是否继续下去？](https://www.zhihu.com/question/658701646/answer/3529949125)|
+||[你只管善良一定会有回报么？](https://www.zhihu.com/question/658586955/answer/3529948893)|
+||[高考 700 分和 700 万人民币你选哪一个？](https://www.zhihu.com/question/656599498/answer/3529942536)|
+||[根据央视财经报道，东莞透明陶瓷打破国外技术垄断，如何评价这一材料创新？](https://www.zhihu.com/question/658649812/answer/3529941137)|
+||[为什么《黑神话悟空》只提供up主闭门体验？](https://www.zhihu.com/question/658762667/answer/3529902493)|
+||[今麦郎被曝「魔训」管培生，负重徒步 60 公里，半天深蹲几百个，找陌生人讨钱吃饭，具体情况如何？](https://www.zhihu.com/question/658813139/answer/3529550350)|
+||[如果沙特一直不续签安保条约，会影响美元霸权根基吗？美国会亲自动手打沙特吗？](https://www.zhihu.com/question/658693399/answer/3529880370)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[外国首席执行官对在华业务信心略有上升](https://www.zaobao.com/realtime/china/story20240614-3925230)|
+||[英国制裁五家中国实体 中使馆批火上浇油](https://www.zaobao.com/realtime/china/story20240614-3925129)|
+||[上海市长会面美驻华大使：望为促中美地方友好交流增活力](https://www.zaobao.com/realtime/china/story20240614-3925087)|
+||[中国官媒：业界已申请对欧盟猪肉进行反倾销调查](https://www.zaobao.com/realtime/china/story20240614-3925034)|
+||[王毅：中国印尼要着力打造雅万高铁这一金字招牌](https://www.zaobao.com/realtime/china/story20240614-3925030)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Dracula's Library Windows ](https://free.apprcn.com/get-steam-game-draculas-library-for-free-3/)|
+||[免费获取 Epic 游戏 Redout 2 红视 2 Windows ￥79→0 ](https://free.apprcn.com/get-epic-game-redout-2-for-free/)|
+|[极客公园](http://feeds.geekpark.net/)|[马斯克 560 亿美元薪酬方案获通过；OpenAI 年化营收达34亿美元；传苹果集成 ChatGPT 无需支付费用](http://www.geekpark.net/news/336497)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[华为余承东：暂时不考虑推出 20 万元以下汽车，鸿蒙智行 30 万元以下的基本都亏损](https://www.ithome.com/0/775/115.htm)|
+||[全网 618 第三阶段即将开启：淘宝第二阶段无门槛红包 24 点过期，勿忘领用](https://www.ithome.com/0/775/114.htm)|
+||[华为路由器获京东天猫双平台销售额第一！再度领跑 618 大促](https://www.ithome.com/0/775/103.htm)|
+||[“国家队”出手！中汽中心将搭建汽车极端测试国标体系，华为余承东、江汽、北汽、奇瑞等力挺](https://www.ithome.com/0/775/096.htm)|
+||[受最新“反垄断”法律影响，Epic 移动商城及《堡垒之夜》明年登陆日本 iOS 平台](https://www.ithome.com/0/775/088.htm)|
+||[支持 iPhone 15 / Pro 系列，苹果推出 Adaptive HDR 标准：向后兼容 SDR](https://www.ithome.com/0/775/084.htm)|
+||[小米汽车：截至 6 月 13 日，小米 SU7 累计交付已突破 20000 台](https://www.ithome.com/0/775/083.htm)|
+||[苹果 Vision Pro 头显国行版开启试用预约：可体验 30 分钟左右，需出示身份证](https://www.ithome.com/0/775/079.htm)|
+||[《魔兽世界》负责人 John Hight 宣布离职，已在暴雪工作 12 年](https://www.ithome.com/0/775/074.htm)|
+||[迪士尼《海洋奇缘》真人电影女主角选定，和巨石强森搭档拍摄](https://www.ithome.com/0/775/069.htm)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[IDC最新报告，7大维度11家大模型厂商比拼，唯一全优是谁？](https://www.jiqizhixin.com/articles/2024-06-14-5)|
+||[被《AIGC体验派》硬控25分钟，大模型落地还能这么玩？](https://www.jiqizhixin.com/articles/2024-06-14-4)|
+||[万字综述大模型高效推理：无问芯穹与清华、上交最新联合研究全面解析大模型推理优化](https://www.jiqizhixin.com/articles/2024-06-14-3)|
+||[又一Sora级选手来炸街！我们拿它和Sora、可灵PK了下](https://www.jiqizhixin.com/articles/2024-06-14-2)|
+||[ACL 2024｜PsySafe：跨学科视角下的Agent系统安全性研究](https://www.jiqizhixin.com/articles/2024-06-14)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[国家能源局印发《电力网络安全事件应急预案》（附全文）](https://www.4hou.com/posts/4vEV)|
+||[Ticketmaster 确认发生大规模泄露事件，其数据被盗并用于网上售票](https://www.4hou.com/posts/0oly)|
+||[以“数”赋新 以“智”提质 商用密码展暨密码应用与创新发展大会精彩亮相第十届上交会](https://www.4hou.com/posts/5wJK)|
 |[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[特朗普将重返国会山，为国会骚乱以来首次](https://cn.wsj.com/amp/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%87%8D%E8%BF%94%E5%9B%BD%E4%BC%9A%E5%B1%B1-%E4%B8%BA%E5%9B%BD%E4%BC%9A%E9%AA%9A%E4%B9%B1%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1-2db37cd3)|
 ||[一男子承认窃取美国电动汽车公司商业机密，并在中国兜售产品](https://cn.wsj.com/amp/articles/%E4%B8%80%E7%94%B7%E5%AD%90%E6%89%BF%E8%AE%A4%E7%AA%83%E5%8F%96%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86-%E5%B9%B6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%9C%E5%94%AE%E4%BA%A7%E5%93%81-6b94dc02)|
 ||[特斯拉股东投票支持马斯克的薪酬方案](https://cn.wsj.com/amp/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E6%8A%95%E7%A5%A8%E6%94%AF%E6%8C%81%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88-3ed3ee79)|
