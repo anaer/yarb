@@ -2,6 +2,74 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[经过这一轮降薪，公务员和教师这种有编制的岗位都特别困难 困难成啥样呢？ 比如夫妻两个人合计月薪2w，1w还房贷，另外1w是生活费；现在变成了1w还房贷，生活费只...](https://m.okjike.com/originalPosts/666bb97338472b1ee3f5ede9)|
+||[大家都在感慨江苏中专姜萍以第十二名的成绩进入2024阿里巴巴全球数学竞赛决赛。 我去搜了下她的老师，天赋很重要，伯乐也很重要。 姜萍的老师王闰秋本来就是数学...](https://m.okjike.com/originalPosts/666b8ea868022b36ce5c7cee)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[无人机+卫星通信+红外夜视：仰望U8「越野玩家版」展示三大黑科技](https://www.jiqizhixin.com/articles/2024-06-14-6)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[在“中国的后院”，美国放低姿态加强与盟友合作](https://cn.nytimes.com/world/20240614/us-changing-role-asia-pacific/dual)|
+||[美国会议员就微软在华业务质询该公司总裁](https://cn.nytimes.com/technology/20240614/microsoft-house-hearing-security/dual)|
+||[中国的无人驾驶汽车安全吗？我试乘了几辆](https://cn.nytimes.com/business/20240614/china-driverless-car-safety/dual)|
+|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[尽快更新，Pixel 设备曝出零日漏洞](https://www.freebuf.com/news/403559.html)|
+||[细思极恐，知名汽车经销商使用用户数据训练AI大模型](https://www.freebuf.com/news/403553.html)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[家里人觉得大专没有用怎么办?](https://www.zhihu.com/question/658869383/answer/3530181625)|
+||[为什么在高考数学试卷测试结果中，国内的AI能完胜国外GPT？未来AI将会发展到什么程度？](https://www.zhihu.com/question/658842522/answer/3530170927)|
+||[青岛 8 岁男童被武术教练殴打致死案一审宣判，两人获刑无期，一人获缓刑，哪些信息值得关注？](https://www.zhihu.com/question/658793264/answer/3530169716)|
+||[美国与乌克兰签署为期十年的双边安全协议，该协议有何意义？将对俄乌局势产生什么影响？](https://www.zhihu.com/question/658873127/answer/3530162397)|
+||[携程创始人梁建章关于居家办公「有益」的研究发表在 Nature，这一论文的学术水平如何？](https://www.zhihu.com/question/658843034/answer/3530075515)|
+||[男朋友被前任伤的很重，以致于没有办法对我完全信任怎么办?](https://www.zhihu.com/question/319082678/answer/3530140816)|
+||[根据央视财经报道，东莞透明陶瓷打破国外技术垄断，如何评价这一材料创新？](https://www.zhihu.com/question/658649812/answer/3530129083)|
+||[如何评价日本4月经常项目顺差逾2.05万亿日元?](https://www.zhihu.com/question/658623447/answer/3530121669)|
+||[如何看待盗版游戏网站回应玩家白嫖《黑神话:悟空》「国产游戏发展不易，有米的伙伴能支持国产的多多支持」？](https://www.zhihu.com/question/658718702/answer/3530099668)|
+||[为什么英国近代一直能够压制欧洲大陆各国列强，而日本却始终无法吞并一个积贫积弱的中国？](https://www.zhihu.com/question/658694508/answer/3530094011)|
+||[不入耳开放式耳机是当前最适合运动的耳机形态吗？为什么跑马拉松经常见到选手带这种耳机？](https://www.zhihu.com/question/658828236/answer/3530078994)|
+||[天猫 618 给爸爸买礼物，还有人人都能领到的大红包？趁机会有哪些父亲节礼物推荐购买？](https://www.zhihu.com/question/658337407/answer/3530079200)|
+||[2023 届本科生月均收入 6050 元，仅 7% 收入过万，怎样解读这一数字？你毕业时薪资是多少？](https://www.zhihu.com/question/658834118/answer/3530078050)|
+||[你更喜欢消费还是更喜欢存钱？](https://www.zhihu.com/question/658571176/answer/3530045316)|
+||[如果国际空间站突然严重损坏，中国国际空间站能紧急救助国际空间站的宇航员吗？会紧急援助国际空间站吗？](https://www.zhihu.com/question/658202435/answer/3530031507)|
+||[假设比亚迪现在平移到了美国，是美国本土企业，原样复制到美国，会怎么样？](https://www.zhihu.com/question/658788695/answer/3530021772)|
+||[美国多个商业地产大幅跌价，房地产巨头不到五千万美元甩卖旗下办公楼，比购入价暴跌近 70%，发生了什么？](https://www.zhihu.com/question/658813117/answer/3529971824)|
+||[闯入 2024 阿里全球数学竞赛决赛的 17 岁中专女生姜萍，有可能被保送到大学数学系深造吗？](https://www.zhihu.com/question/658830623/answer/3529874206)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[半年冒出近百家新公司，「具身智能」也有春天 36氪新风向](https://36kr.com/p/2817741712754949)|
+||[苹果 Apple Intelligence 玩了一个文字游戏，也掩饰了 AI 的本质](https://36kr.com/p/2817634714323457)|
+||[马斯克4000亿元天价薪酬即将到账](https://36kr.com/p/2818051920333059)|
+||[逃离一线，花10万，我回县城开了一家便利店](https://36kr.com/p/2817653575228292)|
+||[卷不动的年轻人，开始去县城“飘”](https://36kr.com/p/2817983047617024)|
+||[8点1氪丨王健林王思聪父子重回创富榜前十；马斯克被曝要求女高管为其生孩子；iPhone 15系列电量耗尽仍能显示时间](https://36kr.com/p/2818896554150404)|
+||[余承东，又要战斗了](https://36kr.com/p/2818116319676935)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/9887656769/293742544)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[白天突然变黑夜，强对流天气为何这么多？](https://www.infzm.com/contents/273370)|
+||[“这些学者的意见，在学术上没有任何指标意义”：高峰枫谈“西方伪史论”](https://www.infzm.com/contents/273317)|
+|[windsong](https://www.windsong.top/atom.xml)|[小狗钱钱-1](https://windsong.top/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1/)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9773157)|
+||[你是如何修改文章的？](https://daily.zhihu.com/story/9773139)|
+||[为啥宁可航空遇难死亡率 100%，也不给乘客自主选择跳伞机会？](https://daily.zhihu.com/story/9773141)|
+||[12 岁女孩因撸猫被感染住进 ICU ，医生称严重可致死亡 ，撸猫该注意什么？猫立克次体有哪些症状？](https://daily.zhihu.com/story/9773149)|
+||[宇航员在月亮上为什么跳着走？](https://daily.zhihu.com/story/9773137)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[js事件循环机制和实例讲解 Event Loop ](https://juejin.cn/post/7380009750924722202)|
+||[浅学 View Transitions API](https://juejin.cn/post/7379963420118089765)|
+||[前端新手指南：如何解决JavaScript导出CSV文件不完整的问题](https://juejin.cn/post/7379884876722028584)|
+||[为什么String跟JSON不是同个东西？](https://juejin.cn/post/7379884568579555355)|
+||[一文读懂midjourney的iw、sref和cref](https://juejin.cn/post/7379823758419607604)|
+||[【Hooks系列3】useState是干啥的？有哪些坑？](https://juejin.cn/post/7379897208534122550)|
+||[react-router-dom（6.23.1）最新最全指南](https://juejin.cn/post/7379897208534073398)|
+||[清新优雅&高颜值!一个基于Vue3实现的后台管理模板](https://juejin.cn/post/7379865729023721484)|
+||[echarts学习：使用dataset管理数据](https://juejin.cn/post/7379875772523626505)|
+||[学习Nest装饰器实现原理](https://juejin.cn/post/7379875772523577353)|
+||[微信小程序uniapp+vue3+高德地图sdk获取用户当前位置信息](https://juejin.cn/post/7379896952038948890)|
+||[什么是Promise呢？怎么聊它会更好一点？](https://juejin.cn/post/7379897208533860406)|
+||[vite+vue2项目中使用tinymce的记录](https://juejin.cn/post/7379884876721405992)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[探索加密货币：打造Web3项目与企业的新篇章](https://www.jianshu.com/p/5daf9bbfa5e4)|
+||[面试](https://www.jianshu.com/p/fe069940b81d)|
+||[三大国脚休战养伤，三大国脚将与球队会合，山东泰山兵发梅州！](https://www.jianshu.com/p/35bfce26cfe1)|
+||[宝贵的自由](https://www.jianshu.com/p/3c2664ea8036)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 深圳 科兴科学园腾讯员工必胜客强行要求散客让位](https://www.v2ex.com/t/1049533#reply31)|
+||[ Apple 有什么途径购买 macbook 比较实惠](https://www.v2ex.com/t/1049528#reply13)|
+||[ macOS 求助 mac 升级了 macos15 版本 目前 option + D,option+A option 相关快捷键失效](https://www.v2ex.com/t/1049523#reply11)|
+||[ 程序员 关于 ai 程序猿,程序猿这个岗位要进入倒计时了](https://www.v2ex.com/t/1049518#reply24)|
+||[ 生活 年龄 35+的离职北漂程序员，想带着全家换个城市生活了。想看看大家的建议与看法](https://www.v2ex.com/t/1049516#reply13)|
+||[ Apple Apple Vision Pro 6 月 14 日（星期五）上午 9 点开始可以在 Apple Store App 预约体验](https://www.v2ex.com/t/1049508#reply16)|
+||[ Apple 家人们家人们，准备和朋友开黑， m1 怎么玩 lol 国服](https://www.v2ex.com/t/1049502#reply16)|
+||[ 程序员 打算再工作一年左右，去留个学，然后润出去，这样可行吗](https://www.v2ex.com/t/1049501#reply39)|
+||[ 问与答 到底是谁不停的在我的剪贴板插入京东的广告啊？](https://www.v2ex.com/t/1049495#reply12)|
 |[happy xiao](https://happyxiao.com/feed)|[是否应该活在当下](https://happyxiao.com/in-the-moment/)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 打算再工作一年左右，去留个学，然后润出去，这样可行吗](https://www.v2ex.com/t/1049501#reply14)|
 ||[ NAS 准备 DIY 一台 NAS，求推荐主板和 CPU](https://www.v2ex.com/t/1049487#reply14)|
