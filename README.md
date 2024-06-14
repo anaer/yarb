@@ -2,6 +2,107 @@
 
 |来源|标题|
 |---|---|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[关于 ai 程序猿,程序猿这个岗位要进入倒计时了](https://www.v2ex.com/t/1049518#reply64)|
+||[准备 DIY 一台 NAS，求推荐主板和 CPU](https://www.v2ex.com/t/1049487#reply56)|
+|[张洪Heo](https://blog.zhheo.com/rss.xml)|[是时候去体验下 Apple Vision Pro 了](https://blog.zhheo.com/p/802d5b6b.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[微软将投资66.9亿欧元在阿拉贡地区建设西班牙数据中心](https://m.cnbeta.com.tw/view/1434799.htm)|
+||[欧盟征收关税，中国车企撤退还是应对？](https://m.cnbeta.com.tw/view/1434797.htm)|
+||[一加Ace 3 Pro包装盒泄露 首发宁德新能源6100mAh超大电池](https://m.cnbeta.com.tw/view/1434796.htm)|
+||[Silicon Motion展示低功耗PCIe 5.0 SSD控制器SM2508](https://m.cnbeta.com.tw/view/1434795.htm)|
+||[Rambus推出前沿PCIe 7.0 IP产品组合 聚焦人工智能应用](https://m.cnbeta.com.tw/view/1434794.htm)|
+||[Brave搜索引擎将搜索结果与Leo人工智能助手整合在一起](https://m.cnbeta.com.tw/view/1434793.htm)|
+||[Arm/Qualcomm资助开发人员两年工作 以改善对Linux笔记本电脑的兼容性](https://m.cnbeta.com.tw/view/1434789.htm)|
+||[全球销量最好的25款车型排名出炉 比亚迪3款上榜 特斯拉Model Y第一](https://m.cnbeta.com.tw/view/1434787.htm)|
+||[可口可乐有望重返俄罗斯市场 已提交注册多个商标申请](https://m.cnbeta.com.tw/view/1434786.htm)|
+||[苏姿丰回忆IBM工作经历 曾参与PS3 Cell处理器开发](https://m.cnbeta.com.tw/view/1434785.htm)|
+||[董宇辉俞敏洪合体 为东方甄选灭火](https://m.cnbeta.com.tw/view/1434784.htm)|
+||[市场“倒逼”星巴克加入价格战？屡推优惠券 单杯价格低至15元](https://m.cnbeta.com.tw/view/1434783.htm)|
+||[AI“带飞”韩国半导体：5月芯片出口价格创纪录上涨](https://m.cnbeta.com.tw/view/1434782.htm)|
+||[董宇辉，你为什么不开心](https://m.cnbeta.com.tw/view/1434781.htm)|
+||[耶伦：美国半导体、清净能源产业丧失国际竞争力](https://m.cnbeta.com.tw/view/1434780.htm)|
+||[巴菲特所持苹果股票价值1690亿美元 高于标普500公司中的455家](https://m.cnbeta.com.tw/view/1434779.htm)|
+||[姜萍因家庭条件放弃读高中：曾考上当地重点高中](https://m.cnbeta.com.tw/view/1434778.htm)|
+||[华为客服回应牛肉卖断货：需要等待几天](https://m.cnbeta.com.tw/view/1434777.htm)|
+||[知名路由器品牌TP-Link面临禁售 被美国认定侵权](https://m.cnbeta.com.tw/view/1434774.htm)|
+||[中专数学天才拿下全球12名的题目有多难：看你能做出几道](https://m.cnbeta.com.tw/view/1434773.htm)|
+||[比亚迪：迄今减碳相当于种植10亿棵树 能塞满整个韩国](https://m.cnbeta.com.tw/view/1434772.htm)|
+||[余承东演讲故意回避“那四个字”](https://m.cnbeta.com.tw/view/1434771.htm)|
+||[小米通报反腐案件：西欧和拉美两位总经理涉嫌贪腐被辞退](https://m.cnbeta.com.tw/view/1434770.htm)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[经典回溯，从一个老面试题 LazyMan 中学到的知识](https://juejin.cn/post/7380221367823712265)|
+||[NestJS实战之开发短链服务（一）](https://juejin.cn/post/7380221367823646729)|
+||[Angular 服务](https://juejin.cn/post/7380241307115962378)|
+||[不要再说搞不清 React 架构了（上）](https://juejin.cn/post/7379958792724676627)|
+||[Taro 源码揭秘 - 2. 揭开整个架构的插件系统的秘密](https://juejin.cn/post/7380195796208205824)|
+||[封装WebSocket消息推送，干翻Ajax轮询方式](https://juejin.cn/post/7380222254196326412)|
+|[est の 输入输出](https://blog.est.im/rss)|[如何删除 C:\Windows\WinSxS 文件](https://blog.est.im/2024/stdout-08)|
+|[IT之家](https://www.ithome.com/rss/)|[苹果被曝将成为首家面临欧盟 DMA 法案指控的科技巨头](https://www.ithome.com/0/775/309.htm)|
+||[《艾尔登法环》DLC“黄金树幽影”PC 配置需求公布：最低 GTX 1060 3GB 显卡](https://www.ithome.com/0/775/307.htm)|
+||[微软 Edge 浏览器更新 126 稳定版：引入 AI 主题生成器等功能](https://www.ithome.com/0/775/306.htm)|
+||[捷豹 F-Type 燃油车成为绝唱，加速驶进纯电市场](https://www.ithome.com/0/775/304.htm)|
+||[吉利诉威马技术侵权案终审获赔 6.4 亿元，创我国知识产权侵权诉讼判赔数额历史新高](https://www.ithome.com/0/775/303.htm)|
+||[延迟又延迟，波音“星际客机”飞船计划于 6 月 22 日返回地球](https://www.ithome.com/0/775/302.htm)|
+||[一加手机 Ace 系列全新 LOGO 揭幕：性能猛兽，下周见](https://www.ithome.com/0/775/301.htm)|
+||[复兴号智能动车组技术提升版 CR400AF-BS 列车上线运行：设优选一等座，定员 1347 人](https://www.ithome.com/0/775/300.htm)|
+||[三星 Galaxy Z Flip6 手机主要规格曝光：骁龙 8 Gen 3 芯片、4000mAh 电池](https://www.ithome.com/0/775/299.htm)|
+||[36500 元，富士 GFX100SⅡ 无反相机 6 月 16 日正式开售：搭载 102MP 中画幅传感器](https://www.ithome.com/0/775/298.htm)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ iPhone iOS 17.5/17.5.1 在室内仅使用蜂窝数据网络时，定位服务失效。](https://www.v2ex.com/t/1049676#reply11)|
+||[ 职场话题 关于互联网转行航空航天/军工](https://www.v2ex.com/t/1049656#reply13)|
+||[ 程序员 手里安卓机和老 iPhoneX 的性能相比，也差一大截！](https://www.v2ex.com/t/1049642#reply11)|
+||[ 程序员 求解, 今日热榜数据是怎么批量爬取的?动态网页用 Puppeteer 不仅性能慢还超时报错](https://www.v2ex.com/t/1049638#reply12)|
+||[ 生活 V 友们里面有没有懂一点电工的朋友呀](https://www.v2ex.com/t/1049634#reply13)|
+||[ 云计算 有没有考虑自建服务器而不购买云服务器的老哥？](https://www.v2ex.com/t/1049630#reply28)|
+||[ 程序员 如何防止微信被飞连监控？](https://www.v2ex.com/t/1049621#reply61)|
+||[ 职场话题 拿到 offer 提离职，涨薪挽留，怎么选？](https://www.v2ex.com/t/1049617#reply40)|
+||[ NAS 寻找一个简单易用的数据分享服务](https://www.v2ex.com/t/1049615#reply18)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[种田能手: @无聊图](http://i.jandan.net/t/5698354)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5698327)|
+||[剑胆: @无聊图](http://i.jandan.net/t/5698281)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5698168)|
+||[思覺失調: @无聊图](http://i.jandan.net/t/5698132)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5698130)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5698119)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5698111)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5698109)|
+||[不喜请下划: @无聊图](http://i.jandan.net/t/5698098)|
+||[坟图王: @无聊图](http://i.jandan.net/t/5698095)|
+||[嗜奶: @无聊图](http://i.jandan.net/t/5698086)|
+||[bba34: @无聊图](http://i.jandan.net/t/5698073)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5698071)|
+||[司马当活马医: @无聊图](http://i.jandan.net/t/5698045)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5697996)|
+||[好骚啊: @无聊图](http://i.jandan.net/t/5697991)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5697981)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5697979)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5697948)|
+|[喷嚏-70](https://plink.anyfeeder.com/pentitugua)|[【喷嚏图卦20240614】两个被上帝关上门的人，帮彼此打开了窗](https://www.dapenti.com/blog/more.asp?name=xilei&id=179238)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[华为否认是中国最大牛肉进口商](https://www.zaobao.com/realtime/china/story20240614-3926505)|
+||[下午察：中专生的逆袭？](https://www.zaobao.com/realtime/china/story20240614-3929181)|
+||[台官员：今年1000万人次赴台旅游目标有挑战性](https://www.zaobao.com/realtime/china/story20240614-3927628)|
+||[台立院副院长江启臣：台美在安全和经济上需要更多合作](https://www.zaobao.com/realtime/china/story20240614-3927440)|
+||[香港中联办批岑耀信沦为外部势力破坏安全稳定马前卒](https://www.zaobao.com/realtime/china/story20240614-3926829)|
+||[台防长：台湾须参与美国印太战略协同性吓阻](https://www.zaobao.com/realtime/china/story20240614-3926217)|
+||[德国据报尝试阻止欧盟对中国电动车关税生效](https://www.zaobao.com/realtime/china/story20240614-3927703)|
+||[丁薛祥下周赴中欧环境与气候高层对话](https://www.zaobao.com/realtime/china/story20240614-3927460)|
+||[李家超：香港仍将面临外来干扰](https://www.zaobao.com/realtime/china/story20240614-3926868)|
+||[中国国产C919大飞机沪广快线首飞](https://www.zaobao.com/realtime/china/story20240614-3927212)|
+||[中企正在调查俄罗斯精炼铜失踪案](https://www.zaobao.com/realtime/china/story20240614-3926858)|
+||[台蓝绿就立院改革修法攻防 柯文哲主张举办电视辩论](https://www.zaobao.com/realtime/china/story20240614-3926756)|
+||[菲律宾抓博彩园区中国嫌犯 中使馆：坚决反对借题污蔑抹黑](https://www.zaobao.com/realtime/china/story20240614-3927092)|
+||[中国代表吁美国立即取消单边强制措施](https://www.zaobao.com/realtime/china/story20240614-3926454)|
+||[土耳其对中国汽车加征关税 中国商务部：得不偿失](https://www.zaobao.com/realtime/china/story20240614-3926605)|
+||[中国最高法与港律政司建立恒常对接平台](https://www.zaobao.com/realtime/china/story20240614-3926755)|
+||[宁波一家化工企业被要求补税后经营困难发停产公告](https://www.zaobao.com/realtime/china/story20240614-3926253)|
+||[中国官媒公号：中国或提高汽油车及白兰地关税反制欧盟](https://www.zaobao.com/realtime/china/story20240614-3926010)|
+||[网民尾随辱骂专家 中国熊猫中心：熊猫被虐待信息不实](https://www.zaobao.com/realtime/china/story20240614-3925682)|
+||[中国据报在瑞士乌克兰峰会前 游说各国支持自身和平方案](https://www.zaobao.com/realtime/china/story20240614-3926394)|
+||[中国驻港公署称对潜逃者实行禁令程序正当不容指摘](https://www.zaobao.com/realtime/china/story20240614-3925235)|
+||[中国规定政策措施不得含有限制市场准入退出内容](https://www.zaobao.com/realtime/china/story20240614-3925158)|
+||[赖清德称马英九曾提“两岸互不隶属” 马办：两国与两岸是不同概念](https://www.zaobao.com/realtime/china/story20240614-3925103)|
+||[学生反映食堂饭菜问题被做思想教育？当地教育局：已成立调查组](https://www.zaobao.com/realtime/china/story20240614-3925437)|
+|[乌托邦软件](https://www.rdonly.com/?feed=rss2)|[humanize-免费在线人性化AI文本](https://www.rdonly.com/archives/7498)|
+||[开搜AI](https://www.rdonly.com/archives/7495)|
+||[texttospeech](https://www.rdonly.com/archives/7491)|
+||[LM Studio](https://www.rdonly.com/archives/7487)|
 |[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[夜莺 v7.beta11 发版，优化钉钉、企微、飞书通知](https://www.oschina.net/news/297290/nightingale-v7-beta11-released)|
 ||[PicList 2.9.0 发布 图床管理和上传工具 性能优化](https://www.oschina.net/news/297273/piclist-2-9-0-released)|
 ||[1Panel 应用推荐：Memos 笔记服务](https://www.oschina.net/news/297249)|
