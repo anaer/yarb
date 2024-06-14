@@ -2,6 +2,58 @@
 
 |来源|标题|
 |---|---|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[夜莺 v7.beta11 发版，优化钉钉、企微、飞书通知](https://www.oschina.net/news/297290/nightingale-v7-beta11-released)|
+||[PicList 2.9.0 发布 图床管理和上传工具 性能优化](https://www.oschina.net/news/297273/piclist-2-9-0-released)|
+||[1Panel 应用推荐：Memos 笔记服务](https://www.oschina.net/news/297249)|
+||[魔豆文库 moredoc v3.2.0 发布，优化全文搜索，提升用户体验，并提供docker部署方案](https://www.oschina.net/news/297244/moredoc-3-2-0-released)|
+||[RediSearch 2.8.14 发布，高性能全文搜索引擎](https://www.oschina.net/news/297234/redisearch-2-8-14-released)|
+||[API Testing v0.0.17 发布，新增 11 位 contributor](https://www.oschina.net/news/297225/api-testing-0-0-17-released)|
+||[renren-security v5.4 发布，轻量级权限管理系统](https://www.oschina.net/news/297213/renren-security-5-4-released)|
+||[Elasticsearch 7.17.22 发布](https://www.oschina.net/news/297212/elasticsearch-7-17-22-released)|
+||[ApiCat v2.10.5 已经发布，基于 AI 技术的 API 开发工具](https://www.oschina.net/news/297201/apicat-2-10-5-released)|
+||[店滴云重大升级：模型类继承修复强化微服务架构效能](https://www.oschina.net/news/297200/ddiot-updated)|
+||[🔥🔥🔥好用的免脚本跨平台编译 go 项目小工具 gobuilder 发布 v0.1.5](https://www.oschina.net/news/297199/gobuilder-0-1-5-released)|
+||[《灯灯》多租户快速开发平台 4.19.1 版本发布，新版前端 UI 正式发布](https://www.oschina.net/news/297190/lamp-cloud-4-19-1-released)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[雪崩、冰瀑和死亡阴影：在喜马拉雅，夏尔巴人用生命谋生](https://cn.nytimes.com/world/20240614/sherpa-mountain-climber-record/)|
+||[在“中国的后院”，美国放低姿态加强与盟友合作](https://cn.nytimes.com/world/20240614/us-changing-role-asia-pacific/)|
+||[美国会议员就微软在华业务质询该公司总裁](https://cn.nytimes.com/technology/20240614/microsoft-house-hearing-security/)|
+||[中国的无人驾驶汽车安全吗？我试乘了几辆](https://cn.nytimes.com/business/20240614/china-driverless-car-safety/)|
+|[触乐](http://www.chuapp.com/feed)|[触乐夜话：活到老，嗑到老](http://www.chuapp.com/article/290030.html)|
+||[想在SLG脱颖而出，抓住“年轻人”是关键](http://www.chuapp.com/article/290027.html)|
+||[异美、热脉达成调解，《海沙风云》官司落定](http://www.chuapp.com/article/290029.html)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（一）](http://www.seis-jun.xyz/paper-reading-1)|
+||[如何让大脑保持敏锐？](http://www.seis-jun.xyz/how-to-make-the-brain-sharp)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[马哥欲求五百亿，再投一次也枉然](https://www.huxiu.com/article/3137485.html?f=rss)|
+||[今晚，喝汤](https://www.huxiu.com/article/3137481.html?f=rss)|
+||[宝盈基金股权或生变25%股权被挂牌转让](https://www.huxiu.com/article/3137480.html?f=rss)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[有个漂亮的妈妈是个什么样的体验？](https://www.zhihu.com/question/497012780/answer/3530870584)|
+||[职业规划很重要，但是要规划到什么程度呢？](https://www.zhihu.com/question/657549192/answer/3530869023)|
+||[余承东称优秀企业全程掌控做到低成本，我们不是不想卖便宜，还没能力卖便宜，不然亏死了，如何看待这一表态？](https://www.zhihu.com/question/658929429/answer/3530861997)|
+||[如果充电达到了2-3元每度，100度电池包的充满费用也需要200-300元的时候电车还有人觉得省么？](https://www.zhihu.com/question/658392561/answer/3530833589)|
+||[苹果市值一夜蒸发 4213 亿元，这背后的原因有哪些？](https://www.zhihu.com/question/658629428/answer/3530818034)|
+||[儿子文化课 292 分，上不了高中了，我好迷茫与崩溃，是砸锅卖铁让他借读民办高中，还是上职高？](https://www.zhihu.com/question/656486083/answer/3530569483)|
+||[如何评价汪苏泷在《歌手》第六期演唱《奢香夫人》？](https://www.zhihu.com/question/658831196/answer/3530804119)|
+||[浙大招生办回应姜萍梦想到浙大就读，称「不好回答，我们都是按规定办事」，你认为浙大应该破格录取姜萍吗？](https://www.zhihu.com/question/658907381/answer/3530760720)|
+||[准大一生想买一个平板大家有什么推荐吗?](https://www.zhihu.com/question/658433780/answer/3530798130)|
+||[杭州市中心 140 万元以下「老破小」几乎抢光，为何会出现这一现象？是否能够延伸出新的商机？](https://www.zhihu.com/question/658812835/answer/3530611052)|
+||[华为紧急辟谣「是国内最大的牛肉进口商」，具体情况如何？](https://www.zhihu.com/question/658899083/answer/3530793305)|
+||[董宇辉在山西永乐宫直播引发网友争议，工作人员称「已申报」，如何看待此事？](https://www.zhihu.com/question/658848581/answer/3530775514)|
+||[如果有一天，你变成了你原来看不起的人，怎么办？](https://www.zhihu.com/question/656923693/answer/3530745363)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Calctan - 科学计算器 iOS 内购限免 ](https://free.apprcn.com/calctan-3/)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[还能抽签吗](https://www.reddit.com/r/iwanttorun/comments/1dfsbhd/还能抽签吗/)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[被解雇的 IT 员工删除了雇主的虚拟服务器](https://www.solidot.org/story?sid=78433)|
+||[Clearview AI 收集美国人脸部照片，现在所有美国人都可以得到它的股份](https://www.solidot.org/story?sid=78432)|
+||[研究发现热浪影响政客的语言复杂性](https://www.solidot.org/story?sid=78431)|
+||[缺觉的影响无法弥补](https://www.solidot.org/story?sid=78430)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[星竞威武集团拟于美国纳斯达克上市：何猷君持股 14.2%，股票代码“NIPG”](https://www.ithome.com/0/775/297.htm)|
+||[红杉中国创始合伙人沈南鹏退任美团非执行董事一职](https://www.ithome.com/0/775/294.htm)|
+||[抖音与央视总台达成合作，成为 2024 巴黎奥运会持权转播商](https://www.ithome.com/0/775/290.htm)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[读名人名言](https://www.jianshu.com/p/65bb36c370f1)|
+||[推荐 6 个 yyds 的开源 Python Web 框架](https://www.jianshu.com/p/43a9a35503de)|
+||[《风会记得一朵花的香》10](https://www.jianshu.com/p/4acadd8909c0)|
+||[家里挂画，是一种温馨](https://www.jianshu.com/p/25fdb473acdf)|
+||[《大话西游》观后感](https://www.jianshu.com/p/7cc2886f8549)|
+||[好文章的标准是什么](https://www.jianshu.com/p/e6048f91faac)|
 |[南方周末-新闻](https://rsshub.app/infzm/2)|[50年期超长期特别国债问世，个人可自由买卖](https://www.infzm.com/contents/273400)|
 ||[首份全国层面发展农村养老服务总体性部署出台](https://www.infzm.com/contents/273372)|
 ||[国务院办公厅转发教育部等部门《教育部直属师范大学本研衔接师范生公费教育实施办法》](https://www.infzm.com/contents/273392)|
