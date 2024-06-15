@@ -2,6 +2,55 @@
 
 |来源|标题|
 |---|---|
+|[乔克叔叔的床边故事](https://lifeodyssey.github.io/atom.xml)|[Clean Code, Refactoring and Test-Driven Development](https://lifeodyssey.github.io/posts/5ffd7c75.html)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[也来凑个热闹，初学乍练，多提意见](https://www.coolapk.com/feed/56780416?shareKey=ZmRiYTJkMjY0OWQ4NjY2ZDljN2U~)|
+||[xperia 1 M7 7代设计图曝光](https://www.coolapk.com/feed/56780317?shareKey=ODM3NzcyMGI1NGM0NjY2ZDljN2U~)|
+||[高性价比F50转网线加散热方案](https://www.coolapk.com/feed/56779540?shareKey=Mjc1YTRiZWIzOTMyNjY2ZDljN2U~)|
+||[pdd桶子鸡刷机教程](https://www.coolapk.com/feed/56779480?shareKey=ODU2ZmViZmJjZWNmNjY2ZDljN2U~)|
+||[#vivoXFold3# #是时候换折叠屏了](https://www.coolapk.com/feed/56778921?shareKey=ZTNiMWMxYmI1ZmNjNjY2ZDljN2U~)|
+||[为什么推荐买原厂固态，黑片白片又是什么？](https://www.coolapk.com/feed/56778838?shareKey=Y2U4NTU1OWY1MzY3NjY2ZDljN2U~)|
+||[荣耀畅玩6X BLN-AL20 玩机指南（二）刷GSI+Magisk Alpha+LSPosed_mod](https://www.coolapk.com/feed/56778297?shareKey=ZTZlYTVlMTI5ZTk4NjY2ZDljN2U~)|
+||[首发ADC自适应快充2.0，酷态科10号超级闪充块「CP」简评](https://www.coolapk.com/feed/56777895?shareKey=MTU2ZjQ4MGJiYTUzNjY2ZDljN2U~)|
+||[提车8000公里](https://www.coolapk.com/feed/56777806?shareKey=ZjkwMGQ4MzUwMmU1NjY2ZDljN2U~)|
+||[硬件跃级，软件蹦极，真我12pro+体验](https://www.coolapk.com/feed/56777291?shareKey=YmU4NThmMzYxOTkxNjY2ZDljN2U~)|
+||[iPhone15ProMax最佳贴膜](https://www.coolapk.com/feed/56776893?shareKey=NDY5YmVlZjNmNWZhNjY2ZDljN2U~)|
+||[#vivoXFold3Pro# #是时候换折叠屏了](https://www.coolapk.com/feed/56777383?shareKey=ZjM5OTNlOGE0NTlhNjY2ZDljN2U~)|
+||[近五千年来千元机最好的屏幕](https://www.coolapk.com/feed/56776973?shareKey=M2MxZTdiMTYyYjIxNjY2ZDljN2U~)|
+||[有人喜欢我这个状态栏和图标的吗？](https://www.coolapk.com/feed/56776267?shareKey=YmMyMGQ4ZTYxYTFiNjY2ZDljN2U~)|
+||[「亦说 TECH」2024 年 6 月（618）手机推荐](https://www.coolapk.com/feed/56776049?shareKey=NTA1YjkzYmQzNjY1NjY2ZDljN2U~)|
+||[三星自定义表盘——功能清蓝液晶](https://www.coolapk.com/feed/56776009?shareKey=ZGEwMmI0MGRiMDY2NjY2ZDljN2U~)|
+||[三星自定义表盘——甜橙卡其](https://www.coolapk.com/feed/56775927?shareKey=Y2NkZmE4OGRhYWFkNjY2ZDljN2U~)|
+||[旧华为优化](https://www.coolapk.com/feed/56775750?shareKey=MzZjNGVmZmI5ZDYzNjY2ZDljN2U~)|
+|[太隐](https://wangyurui.com/feed.xml)|[棱镜通讯 No.111 巴拉巴西 （Barabási）](https://wangyurui.com/posts/leng-jing-tong-xun-no-111-ba-la-ba-xi-barabasi-a996bcab)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何避免Java中的StackOverflowError错误？](https://segmentfault.com/q/1010000044966382)|
+||[如何优化以下js代码，通过缩进来获取路径的层级？](https://segmentfault.com/q/1010000044966269)|
+|[喷嚏-70](https://plink.anyfeeder.com/pentitugua)|[【喷嚏图卦20240615】明显感觉这两年的学生与从前不一样](https://www.dapenti.com/blog/more.asp?name=xilei&id=179249)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[3000 年前，人类自然科学知识十分有限的情况下，周文王（或其身边人）为何能写出《易经》这样的著作？](https://www.zhihu.com/question/658496840)|
+||[河北邯郸宣布购买新房给予 1 % 购房补贴，多孩家庭公积金贷款额最高 100 万元 ，透露了哪些信息？](https://www.zhihu.com/question/658896273)|
+||[孩子说过什么让你震惊的话？](https://www.zhihu.com/question/656902454)|
+||[如何看待张忠祥教授提议「大量增加自然青年项目和面上项目、砍掉重大项目、维持少量重点项目」？](https://www.zhihu.com/question/658821567)|
+||[中国历史上有哪些封神的战役？](https://www.zhihu.com/question/657995273)|
+||[为什么德国在两次世界大战削弱后人口仍比法国高很多？](https://www.zhihu.com/question/652982266)|
+||[唐高宗为什么废杀王皇后和萧淑妃？](https://www.zhihu.com/question/370298968)|
+||[2024 年 6 月 15 日，阿根廷友谊赛 4：1 战胜危地马拉，梅西一传两射，如何评价这场比赛？](https://www.zhihu.com/question/658969393)|
+||[今天人人都能领到天猫 618 史上最大折扣力度的大红包，怎么拿？你拿到了多少？](https://www.zhihu.com/question/658337523)|
+||[高中女生控诉十岁寄宿时被性侵，遭涉事老师威胁「不要告诉任何人，否则打死」，该老师要承担哪些刑事责任？](https://www.zhihu.com/question/658613968)|
+||[什么是喜欢，什么是爱，爱和喜欢的本质是什么？](https://www.zhihu.com/question/656297096)|
+||[作为爸爸，你有哪些向孩子表达爱的独特方式？](https://www.zhihu.com/question/658618804)|
+||[李林甫不逝世安史之乱还会发生吗？](https://www.zhihu.com/question/658674116)|
+||[诸葛亮和刘备在阴间遇到死去的刘禅，会怎样对他？](https://www.zhihu.com/question/628920381)|
+||[独行侠总决赛 1：3 落后凯尔特人，能像 2016 年那样大翻盘吗?](https://www.zhihu.com/question/658970981)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[我的手机号「没有注册某个网站」这一事实算不算隐私？](https://www.v2ex.com/t/1049803#reply11)|
+||[苹果开发者账号越来越难申请了](https://www.v2ex.com/t/1049723#reply14)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[劝老人体检难过高考？不如先了解一下他们需要的这些细节](https://sspai.com/post/89624)|
+||[跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相](https://sspai.com/post/89248)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[飞天茅台价格逼近2200，高端白酒的量价逻辑要变了？](https://www.tmtpost.com/7130147.html)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[Rust 1.79.0发布](https://www.jdon.com/74237.html)|
+||[Javascript与Python之间的进程间通信](https://www.jdon.com/74236.html)|
+||[读脑术：脑机接口+AI能预测老鼠神经活动](https://www.jdon.com/74226.html)|
+||[遥遥领先？库克解释苹果AI迟到的原因](https://www.jdon.com/74225.html)|
+||[本周17个github有趣项目Teo等](https://www.jdon.com/74224.html)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[在成都开出首家 Z 世代快闪店，lululemon 释放出了什么信号？](http://www.toodaylab.com/82874)|
 |[南方周末-新闻](https://rsshub.app/infzm/2)|[公安部再设反恐专员，多个省级党委成立科技委丨时政周报](https://www.infzm.com/contents/273432)|
 |[简书首页](https://plink.anyfeeder.com/jianshu/home)|[幸福的味道](https://www.jianshu.com/p/e3ef66ae571a)|
 ||[阮郎归 旧香残粉似当初 宋·晏几道](https://www.jianshu.com/p/1dca5af20c3a)|
