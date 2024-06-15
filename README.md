@@ -2,6 +2,62 @@
 
 |来源|标题|
 |---|---|
+|[孤岛客](http://www.huangjiwei.com/blog/?feed=rss2)|[医生说的话丨一周语文（2424）](https://www.huangjiwei.com/blog/?p=12166)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[为什么很多人认为电动汽车没有燃油车安全？](https://daily.zhihu.com/story/9773174)|
+||[鸡和鸭的共同祖先被找到了，它的名字叫「神奇鸡」。](https://daily.zhihu.com/story/9773179)|
+||[历史上，周代的「曾国」与「随国」这两个名称究竟是怎样一种关系？](https://daily.zhihu.com/story/9773187)|
+||[非常神奇的数学结论有哪些？](https://daily.zhihu.com/story/9773192)|
+||[如果月球上突然有了大气层，你认为会对地球产生哪些影响？](https://daily.zhihu.com/story/9773165)|
+|[Leonn的博客](https://rsshub.app/wechat/tgchannel/liyuans)|[miaoyun.link](http://miaoyun.link/)|
+|[乌托邦软件](https://www.rdonly.com/?feed=rss2)|[代码小抄-简单易用的代码分享工具](https://www.rdonly.com/archives/7502)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[HAPPY NEW YEAR 50% OFF with iizyhost: 4vCore, 4GB DDR4 MEM, 200GB SSD, 5GE WAN from 8,33€/m LIFETIME via Offers — LowEndTalk author: iizyhost ](https://t.me/liyuans/46809)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 不懂金融，关于为什么人民币不能直接出境必须换汇，网上查了好久几乎没有相关的资料](https://www.v2ex.com/t/1049740#reply17)|
+||[ 分享发现 我的 tony 老师又跑路了🤣，没办法逼着延展了自己的边界，发现真香，一定要分享出来！](https://www.v2ex.com/t/1049738#reply14)|
+||[ 职场话题 公司裁员不给补偿，求建议](https://www.v2ex.com/t/1049735#reply11)|
+||[ 问与答 广东这边有什么好一点的筷子推荐么？ 最近天天下雨，感觉筷子容易霉](https://www.v2ex.com/t/1049721#reply15)|
+||[ 问与答 推荐一个提高电视使用率的方法： B 站官方客户端](https://www.v2ex.com/t/1049718#reply12)|
+||[ 职场话题 求对比下 shopee 和字节的 offer](https://www.v2ex.com/t/1049712#reply21)|
+||[ 程序员 来推荐推荐自己的开源项目和经验吧](https://www.v2ex.com/t/1049702#reply16)|
+||[ 分享创造 想开发一个代理内核，有什么建议吗？](https://www.v2ex.com/t/1049697#reply35)|
+||[ 生活 困惑 感觉和环境冲突不断](https://www.v2ex.com/t/1049694#reply14)|
+||[ Apple 带 watch 睡觉后发现血氧经常跑到 90](https://www.v2ex.com/t/1049689#reply23)|
+||[ 问与答 6 千块配了台无 GPU 的开发用 PC, 大佬们帮我把把关](https://www.v2ex.com/t/1049688#reply46)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[FLYING 2024旗舰办公发布会](https://www.coolapk.com/feed/56767030?shareKey=NTI4MzM5MjkxZmQwNjY2ZDFkMDE~)|
+||[vivo x100s 华为Pura70Pro+ 一加12 影像对比](https://www.coolapk.com/feed/56766587?shareKey=OWZjZTk5NDMzMjU1NjY2ZDFkMDE~)|
+||[今日壁纸＆](https://www.coolapk.com/feed/56766418?shareKey=NTNlZmEzOTE1ZTU1NjY2ZDFkMDE~)|
+||[华为pura70与iPhone15pro简单对比](https://www.coolapk.com/feed/56766109?shareKey=YWVjYWQ3M2MwYWMxNjY2ZDFkMDE~)|
+||[iQOO 12使用报告](https://www.coolapk.com/feed/56766008?shareKey=OWU3YjMzMzc0M2ZkNjY2ZDFkMDE~)|
+||[壁纸分享cgghs](https://www.coolapk.com/feed/56765514?shareKey=MDQ0MGU5MzA3MGE3NjY2ZDFkMDE~)|
+||[出神赵动皮大宝公公5000浆糊](https://www.coolapk.com/feed/56765535?shareKey=MmVkODcyMWVjMTZmNjY2ZDFkMDE~)|
+||[国漫女神 美杜莎 原创](https://www.coolapk.com/feed/56764977?shareKey=MTUwODEyMzU4ZTRlNjY2ZDFkMDE~)|
+||[AirPods pro2 2h体验](https://www.coolapk.com/feed/56764702?shareKey=NGQwMjUyZTM1ZWMxNjY2ZDFkMDE~)|
+||[iOS18细节更新](https://www.coolapk.com/feed/56764597?shareKey=YWYwNTU2MTgyNjUxNjY2ZDFkMDE~)|
+||[龙珠皮卡丘](https://www.coolapk.com/feed/56764565?shareKey=NWJmZjY5OTdmM2I0NjY2ZDFkMDE~)|
+||[贴着小绿球的sony手机](https://www.coolapk.com/feed/56764564?shareKey=N2UwOWI2YzYwZjA1NjY2ZDFkMDE~)|
+||[开放世界赛车](https://www.coolapk.com/feed/56763947?shareKey=MDdhOTk2NTg4MDdiNjY2ZDFkMDE~)|
+||[开放世界地图](https://www.coolapk.com/feed/56763806?shareKey=Zjg2ZWI1M2U5NGFiNjY2ZDFkMDE~)|
+||[影腾 5G L70MB 改散热最终版](https://www.coolapk.com/feed/56763543?shareKey=NmQ2YTBiNjU4ZGE3NjY2ZDFkMDE~)|
+||[壁纸分享788885](https://www.coolapk.com/feed/56763496?shareKey=NmE0YWRjOGZhZmViNjY2ZDFkMDE~)|
+||[HKC G27H1对比AOC 27G4测试：差价130元，你会选谁？](https://www.coolapk.com/feed/56763195?shareKey=YzdmYTUyZjgzYWU5NjY2ZDFkMDE~)|
+||[从未发布的世界上第一款国产折叠屏？小米mix u1项目的前世今生](https://www.coolapk.com/feed/56763091?shareKey=NThlMDU2Y2RlNTM4NjY2ZDFkMDE~)|
+||[可爱的流浪咪](https://www.coolapk.com/feed/56762829?shareKey=MDUwZjg1ZWQxYjMxNjY2ZDFkMDE~)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[智源推出大模型全家桶及全栈开源技术基座新版图](https://www.infoq.cn/article/YYBJGK4C07VM7KjcHt34)|
+||[AI 让编程效率提高 100 倍？顺丰用 AI 管理 40w 小哥？ArchSummit 深圳首日热点来袭](https://www.infoq.cn/article/iVpWrIzMbUfsGR1tGRAL)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[做对这三步，跨省看病也能用医保](https://www.infzm.com/contents/273390)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[泽连斯基拒绝普京的和谈建议，俄方称其「剥夺乌公民的和平机会」，目前俄乌局势如何？双方最终能否和谈？](https://www.zhihu.com/question/658965283/answer/3531221388)|
+||[四部门公布网络暴力信息治理规定，不得利用网暴事件蹭炒热度推广引流，还有哪些内容值得关注？](https://www.zhihu.com/question/658932466/answer/3531211744)|
+||[哪位神仙能传授一下面试技巧？](https://www.zhihu.com/question/648653364/answer/3531206789)|
+||[23-24 赛季 NBA凯尔特人 84:122 独行侠，如何评价这场比赛？](https://www.zhihu.com/question/658966384/answer/3531179202)|
+||[余承东称优秀企业全程掌控做到低成本，我们不是不想卖便宜，还没能力卖便宜，不然亏死了，如何看待这一表态？](https://www.zhihu.com/question/658929429/answer/3531200542)|
+||[17 岁中专生姜萍闯进全球数赛 12 强，江苏大学喊话「来江大和你的老师做校友」，她真的能上江大吗？](https://www.zhihu.com/question/658901962/answer/3531107272)|
+||[有媒体称沙特、美国 50 年石油美元协议终结，沙特不续约，这是真的吗？具体情况如何？](https://www.zhihu.com/question/658914744/answer/3531082786)|
+||[知情人称 17 岁中专女孩姜萍中考成绩考了 600 多分，但放弃高中选择了中专，怎样看待她的选择？](https://www.zhihu.com/question/658931654/answer/3531161609)|
+||[数学老师王闰秋说姜萍「不属于天才型，而是属于勤奋型选手」，在数学竞赛中天赋和勤奋哪个更重要？](https://www.zhihu.com/question/658889523/answer/3531130148)|
+||[今天人人都能领到天猫 618 史上最大折扣力度的大红包，怎么拿？你拿到了多少？](https://www.zhihu.com/question/658337523/answer/3531129672)|
+||[你看好阿里巴巴全球数学竞赛12强女孩姜萍在决赛中夺奖吗？她未来最好的出路在哪里？](https://www.zhihu.com/question/658897187/answer/3531111188)|
+||[河北邯郸宣布购买新房给予 1 % 购房补贴，多孩家庭公积金贷款额最高 100 万元 ，透露了哪些信息？](https://www.zhihu.com/question/658896273/answer/3531093675)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[git如何查只看分支上的开发记录？](https://segmentfault.com/q/1010000044965699)|
+||[关于软件更新的一些问题？](https://segmentfault.com/q/1010000044965650)|
 |[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读](http://www.seis-jun.xyz/paper-reading)|
 ||[文献阅读（二）](http://www.seis-jun.xyz/paper-reading-2)|
 |[LIHAI 分享 - Telegra...](https://rsshub.app/telegram/channel/lihaiba)|[📄 2024 德国欧洲杯赛程.pdf - 3.6 MB 2024 德国欧洲杯赛程.png - 8.7 MB](https://t.me/lihaiba/6809)|
