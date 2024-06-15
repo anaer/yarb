@@ -2,6 +2,138 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[G7 发表联合公报要求俄向乌赔偿超 4860 亿美元损失，此举有何意图？俄方接下来会如何应对？](https://www.zhihu.com/question/658986669/answer/3531485357)|
+||[大陆对台 134 项关税减让今起中止，「台湾中小企业将受冲击」，如何解读？](https://www.zhihu.com/question/658981280/answer/3531460795)|
+||[武松找的仵作为什么什么都交代了，不怕西门庆等人报复吗？](https://www.zhihu.com/question/646889838/answer/3531459744)|
+||[文笔挑战：“老夫已作天涯客”开头，下一句怎么接？](https://www.zhihu.com/question/658940263/answer/3531407898)|
+||[为什么德国在两次世界大战削弱后人口仍比法国高很多？](https://www.zhihu.com/question/652982266/answer/3531519182)|
+||[李林甫不逝世安史之乱还会发生吗？](https://www.zhihu.com/question/658674116/answer/3531461705)|
+||[沈阳一大学生代表学校备战拳击赛，39 天减重近 20 斤后「猝死」，原因可能是什么？学校该担责吗？](https://www.zhihu.com/question/658988409/answer/3531482730)|
+||[数学老师王闰秋说姜萍「不属于天才型，而是属于勤奋型选手」，在数学竞赛中天赋和勤奋哪个更重要？](https://www.zhihu.com/question/658889523/answer/3531472271)|
+||[独行侠总决赛1：3落后凯尔特人，能像2016年那样大翻盘吗?](https://www.zhihu.com/question/658970981/answer/3531452897)|
+||[如何评价汤普森即将离开勇士？](https://www.zhihu.com/question/658976468/answer/3531424429)|
+||[如何评价孙楠在《歌手2024》第六期演唱的《人是_》？](https://www.zhihu.com/question/658934618/answer/3531385307)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[一种白血病药物可能对“渐冻症”有疗效](http://www.news.cn/20240615/5c69128f51df4d35a6cde1c9a1f8852e/c.html)|
+||[高质量发展调研行｜探访选矿“黑灯工厂”](http://www.news.cn/20240615/e98d15fe351e4d469ffd7bbab7eff688/c.html)|
+||[两岸青年厦门共话中医药传承发展](http://www.news.cn/20240615/106ebd14df334b8e945b6aad69df2fa3/c.html)|
+||[加速构筑开放高地 “成都造”走向全球](http://www.news.cn/20240615/7a7f4c838ad4456ba336cf1d4b4d5051/c.html)|
+||[汇聚“海峡正能量”：两岸最大规模民间交流活动登场](http://www.news.cn/20240615/3a19607312f04ac1ad7e000022ba232a/c.html)|
+||[特写：故宫里来了群美国“00后”](http://www.news.cn/20240615/51a5b6bfcbe446b3a6f8d814d89d92f3/c.html)|
+||[新华鲜报丨40余位驻华使节参访上海：“中国的创造力令人惊叹”](http://www.news.cn/20240615/88972ebe78ee417ea9aab40907ac05fc/c.html)|
+||[新研究：高温会降低人们使用语言的复杂性](http://www.news.cn/20240615/47c32cd165c14fa792200e3f7b6754cc/c.html)|
+||[2024中欧商业高峰论坛呼吁欧盟与中方加强沟通](http://www.news.cn/20240615/45cca7a9b7b841799b2899f6d9d93ef9/c.html)|
+||[新华社消息丨夕发朝至！京港、沪港间首开高铁动卧列车](http://www.news.cn/20240615/15d89cf8f5b74cbc89727d7380f71c3c/c.html)|
+||[新加坡圣淘沙岛多个海滩因油料泄漏关闭](http://www.news.cn/20240615/f4a367f58b1344f9bde5af7c34a1b831/c.html)|
+||[综合消息｜“汉语桥”中文比赛在多国举行](http://www.news.cn/20240615/d4379a818e994b799db366188745f3e9/c.html)|
+||[瑞典称一架俄罗斯战机“入侵”其领空](http://www.news.cn/20240615/b40a3cd3cc0a40a6b6161e104f6ef7cc/c.html)|
+||[“在台湾，多数人不支持‘台独’”——访中国国民党副主席连胜文](http://www.news.cn/20240615/a40bfe87e71943408f9b1fbef488bf17/c.html)|
+||[首次展出！国宝级文物曲裾素纱单衣真品亮相新展](http://www.news.cn/20240615/286e5f3732e64a82815309593d88eab8/c.html)|
+||[文化中国行｜西藏“琪”遇：体验《文成公主》实景演出的魅力](http://www.news.cn/20240615/eb0f5e64459542f1a62057136d012e1a/c.html)|
+||[新华社与美国媒体和战略学术界交流对话会在华盛顿举行](http://www.news.cn/20240615/4c488875ddec4cb8b08e9ac60dc34002/c.html)|
+||[新华全媒+｜京广高铁全线实现复兴号动车组列车时速350公里运营](http://www.news.cn/20240615/0c8bd93b85f9430eb0a75e2eb16ebfa6/c.html)|
+||[夕发朝至！京港、沪港间开行高铁动卧列车](http://www.news.cn/20240615/9b428b92dccc45c5ae73073cbd2095e2/c.html)|
+||[新华鲜报丨更快！看中国高铁“新动作”](http://www.news.cn/20240615/6c795c40ebf748018230f03751a4b26d/c.html)|
+||[新华社权威快报丨夕发朝至！京港、沪港间首开高铁动卧列车](http://www.news.cn/20240615/0afa6560effe460aa1689d1d9c19a5c1/c.html)|
+||[镜观·回响丨从内河港口看中部地区内畅外联](http://www.news.cn/20240615/82d80b2a331d43f591ef3eb85e29b8fe/c.html)|
+||[这双布满老茧的双手 写下陪伴父亲的“散文诗”](http://www.news.cn/20240615/ef222bae90f1411eb4b379ef1b22090d/c.html)|
+||[中国奥委会2024年奥林匹克日活动线上率先启动](http://www.news.cn/20240615/edc92a95bf53409fa489cec355f4bbc3/c.html)|
+||[微纪录｜“红绿灯爷爷”](http://www.news.cn/20240615/7efe75bb4b6643128cbff45da52a107f/c.html)|
+||[高温下的劳动者｜马踏湖里的踩藕人](http://www.news.cn/20240615/55308cf95cc24e098ac1a9ea4932e13c/c.html)|
+||[珠江流域西江发生2024年第1号洪水](http://www.news.cn/20240615/ab56caeaacf244b196ba53707e6fb0e5/c.html)|
+||[京港夕发朝至高铁动卧列车正式通车](http://www.news.cn/20240615/cda58e84846647de8bf79be9fc5977b0/c.html)|
+||[新华时评丨彰显两岸主流民意 守护中华民族共同家园](http://www.news.cn/20240615/6860a8d836434ebbb046eb4c11fe3da8/c.html)|
+||[全国武术之乡武术套路高手在登封“过招”](http://www.news.cn/20240615/22d705d50f6a404fbb9733ee365a222a/c.html)|
+||[京通铁路换梁后实现全面提速](http://www.news.cn/20240615/3f7abe1a17f94e6b9ccf412cfbadeb55/c.html)|
+||[重庆首开全程时刻表中欧班列 高效直通德国杜伊斯堡](http://www.news.cn/20240615/b3f29b2399ee47e9bdd33db70737f279/c.html)|
+||[黑龙江大庆一起交通事故造成5人死亡](http://www.news.cn/20240615/e1957c8b1b5746aa983205cd0269c4af/c.html)|
+||[汩汩渠水润农田——河南确山抗旱保苗一线见闻](http://www.news.cn/20240615/0a54655040b949ef834a2f788b4e9648/c.html)|
+||[科摩罗卫生部长：感谢中国支持科改善卫生体系](http://www.news.cn/20240615/163894f9b4bb449687d38af2c07f0802/c.html)|
+||[第十六届海峡论坛大会在厦门举行 王沪宁出席并致辞](http://www.news.cn/20240615/5899bac307644db39e405adb289f93f3/c.html)|
+||[新华全媒+｜闻“汛”而动 南方多地构筑汛期安全“堤坝”](http://www.news.cn/20240615/200b6733ad174cf9ae18f72d606051cf/c.html)|
+||[非遗看中国｜琵琶制作](http://www.news.cn/20240615/7c0f4dd393ac4f58ad9c4012d36f4fda/c.html)|
+||[新华视点｜魅力新都市 文化传千年](http://www.news.cn/20240615/a119c39b6be84143b4cce5804af9a8d7/c.html)|
+||[新华全媒+丨探访高考评卷现场：一张试卷的分数怎样“出炉”](http://www.news.cn/20240615/0f11449a9dbc4e9b9bf0d39edb1dfd73/c.html)|
+||[刘国中在河北调研时强调 切实保障灌溉用水 精心做好抗旱保夏播](http://www.news.cn/20240615/8eda0bc8e24148949028065bfe6070a4/c.html)|
+||[中国故事丨科幻作家刘慈欣：总要有人敢去做这样的梦](http://www.news.cn/20240615/2ca1d43f40fd4f2dbd9fd30528032759/c.html)|
+||[通讯丨“订单不断，忙得不行”——澳大利亚葡萄酒业深耕中国市场](http://www.news.cn/20240615/5dfa45a61d8240ac973d945b8098bba9/c.html)|
+||[浙江丽水：“政电银”联动助力打造便民生活圈](http://www.news.cn/20240615/f918b132a4f04440b9869ece5234e43d/c.html)|
+||[新华全媒+｜战高温 护粮仓——北方多地抗旱保农扫描](http://www.news.cn/20240615/bd63fc6728954957aaeefb38df1da999/c.html)|
+||[李强抵达阿德莱德开始对澳大利亚进行正式访问](http://www.news.cn/20240615/af6d497ff81a44d1bf37ad251711bb99/c.html)|
+||[我国超三成3岁以下婴幼儿家庭有入托需求](http://www.news.cn/20240615/884b54c598a4486398340fab9257dd25/c.html)|
+||[关注三夏｜江苏：淮北地区出现气象干旱 多举措抗旱保灌“解渴”](http://www.news.cn/20240615/8a146883e1514a618c512b81d3b5a5a2/c.html)|
+||[高温下的劳动者｜京沪高铁线上的“钢轨医生”](http://www.news.cn/20240615/edf55bd5a1fb4135a099c77ed3c25362/c.html)|
+||[广西下达2.61亿元资金支持推进生态保护修复](http://www.news.cn/20240615/96bc76c99ab54868be89ac2a727736e8/c.html)|
+||[新华全媒+｜上合组织农业技术交流培训示范基地设立5周年推动区域合作升级](http://www.news.cn/20240615/3325cf61257940e19b80a3a5fd993901/c.html)|
+||[新华社消息｜《求是》杂志发表习近平总书记重要文章《开创我国高质量发展新局面》](http://www.news.cn/20240615/01f4686dc52e4c7fa6d1bc4a8e61c53d/c.html)|
+||[扩张型心肌病发病机制研究获新进展](http://www.news.cn/20240615/a64c113952204116b56bbdcb38f4cb1e/c.html)|
+||[山东推动数实融合为产业发展插上“数字翅膀”](http://www.news.cn/20240615/b950d403c9904950815895ebfe40ced6/c.html)|
+||[“这是全球合作道路上的退步”——欧盟拟对中国电动汽车加税引广泛担忧](http://www.news.cn/20240615/0507940660f14fc5a192bb94a4d1346a/c.html)|
+||[跟着总书记探寻中华文明｜殷墟探源 文脉绵长](http://www.news.cn/20240615/d50c8b463b41447d838f26bd6bdd5b5c/c.html)|
+||[新华社消息｜京广高铁全线实现复兴号动车组列车时速350公里运营](http://www.news.cn/20240615/0f82070ab15142959174ce6475ea062b/c.html)|
+||[承载荣光 踏上新途——走进香港国际金融中心“引擎”港交所](http://www.news.cn/20240615/7271044f498841a39f3cce80e43db7e6/c.html)|
+||[通讯｜“你们只有七个，我们是八十亿人”——欧洲民众抗议七国集团峰会与世界割裂](http://www.news.cn/20240615/5809949f1e084cd69bf6ded67d4b9837/c.html)|
+||[习近平：开创我国高质量发展新局面](http://www.news.cn/20240615/6f57080c8ea144b1ae9ecf23310e6579/c.html)|
+||[新华社消息｜从上海到上海，首条长三角列车“环线”开行](http://www.news.cn/20240615/bc83b24bd8ab444583c039475a8c0083/c.html)|
+||[《求是》杂志发表习近平总书记重要文章《开创我国高质量发展新局面》](http://www.news.cn/20240615/11c00e086ad64dcbb5f25ca510e840e3/c.html)|
+||[在心手相牵中走亲走近——第十二届两岸公益论坛观察](http://www.news.cn/20240615/18d3481cb4584c8bae150377d2d990fa/c.html)|
+||[秀我中国丨成都彭州：低空经济从“起飞”到“腾飞”](http://www.news.cn/20240615/050aae5aed414adab803c6fdf0a22f75/c.html)|
+||[欧锦赛五问](http://www.news.cn/20240615/b85bbf4aefdb46d4804a94c68a76d63b/c.html)|
+||[中国在高质量发展中继续创造绿色增长奇迹](http://www.news.cn/20240615/691feb81a5564f42a77bf1a95920cda4/c.html)|
+||[西南地区最大动车所初步投用](http://www.news.cn/20240615/e078271d72c54d27a09f95617903df7c/c.html)|
+||[奥运限时“通票”助力法兰西岛大区迎交通“大考”](http://www.news.cn/20240615/885c20067fe146a0b6c05633e58a02c3/c.html)|
+||[中部粮仓｜增粮：安徽做好“粮头食尾”大文章](http://www.news.cn/20240615/14f7fc0994b241e7a94ca322dc1ccb69/c.html)|
+||[我国科研人员破译昆虫嗅觉“密码”](http://www.news.cn/20240615/6f63c01addb3455e8cef2fbef9e7cbfe/c.html)|
+||[国家二级保护野生植物阴生桫椤孢子克隆成功](http://www.news.cn/20240615/2adf0283f44943b8a0d79cea0b41c8af/c.html)|
+||[综述｜拉马福萨连任南非总统 未来执政面临多重任务](http://www.news.cn/20240615/d2ed8e7bbd574324b17cd8f54e4ce0f0/c.html)|
+||[3岁警娃想见爸爸的愿望终于在父亲节前实现了](http://www.news.cn/20240615/0f2096acc0f1432094e02a4ae71a833d/c.html)|
+||[为推动文物事业高质量发展提供有力支撑——《教育部 国家文物局关于推动新时代文物职业教育改革发展的实施意见》解读](http://www.news.cn/20240615/efc969655b4a4b18864dfda96d870b80/c.html)|
+||[新华社消息丨中国代表呼吁国际社会倡导文明对话](http://www.news.cn/20240615/62241f059f134e8196f6181e5230c8e3/c.html)|
+||[新华社消息丨习近平致电祝贺拉马福萨当选连任南非总统](http://www.news.cn/20240615/64a2bc9de0804df7867b796b7a0e083f/c.html)|
+||[新闻调查丨探究日本车企认证欺诈的制度根源](http://www.news.cn/20240615/a448d1522d9c4a05a58e04d7430a6045/c.html)|
+||[新华全媒＋丨遇见长白山之野生“萌宠”](http://www.news.cn/20240615/06e36d1805fa4885a9a7f36004a969b4/c.html)|
+||[京广高铁全线实现复兴号动车组列车时速350公里运营](http://www.news.cn/20240615/24cb674727ea4cb0b09c4b9858f8df62/c.html)|
+||[高温持续 中医支招炎夏养生](http://www.news.cn/20240615/b667ca8e92474d4c9cf5eb10935eba80/c.html)|
+||[追光丨又飒又美！四川峨眉派“女子功夫团”彰显中华武术魂](http://www.news.cn/20240615/d4ecdf3e5e9844dea861330df85f2a63/c.html)|
+||[沙洲植绿记丨“以光锁沙”——治沙里的“双碳”目标](http://www.news.cn/20240615/4d0f59c7e34a4472b56b40ff0b2eb1ea/c.html)|
+||[从上海到上海，首条长三角列车“环线”开行](http://www.news.cn/20240615/1a0ddc15ed4e406784f1dcabf934ec86/c.html)|
+||[热爱可克万难——贵州村民集资在山洞建球场](http://www.news.cn/20240615/191cde83b3d442fdba01aa8e87ee4dba/c.html)|
+||[习近平致电祝贺拉马福萨当选连任南非总统](http://www.news.cn/20240615/fd6bef7c89a6415eb1b17d816d14bf95/c.html)|
+||[医“声”｜高温天气，谨防儿童患上“空调病”](http://www.news.cn/20240615/2b3b62daa4904cf6a5e5d89a94a896e6/c.html)|
+||[国际奥委会执委会提议举办电竞奥运会](http://www.news.cn/20240615/56bb3584ee36442aa6de718708377067/c.html)|
+||[北约防长会：北约拟接管对乌军援协调工作](http://www.news.cn/20240615/dd2d534688574614b46fc2138bb60585/c.html)|
+||[新华社消息｜三大流域控制性水库全面进入抗旱调度模式](http://www.news.cn/20240615/56d6f0b3d3cd434aa2bf66c52d0ff28b/c.html)|
+||[闽赣两省遭遇强降雨 四条铁路线路停运](http://www.news.cn/20240615/401d8b106fb94716a6ee67b54d584f95/c.html)|
+||[广西升级发布洪水黄色预警](http://www.news.cn/20240615/f8a042e4b2364b9990edf16db585dad9/c.html)|
+||[何立峰在湖南调研时指出 坚定不移扩大高水平对外开放 持续用力打造内陆地区改革开放高地](http://www.news.cn/20240615/448de1eb857946a5ae4f1dddbbdd0a65/c.html)|
+||[长白山世界地质公园揭牌 打造全球旅游新地标](http://www.news.cn/20240615/8cd54d3e22384600866e95866d75ab31/c.html)|
+||[新华社快讯：习近平致电祝贺拉马福萨当选连任南非总统](http://www.news.cn/20240615/6b6dd4915b9d4fc2ba5c3d2b57396432/c.html)|
+||[新华社消息丨拉马福萨再次当选南非总统](http://www.news.cn/20240615/78259f9b444b49289ca5109a2efce649/c.html)|
+||[李强同新西兰总理拉克森共同参观恒天然集团总部](http://www.news.cn/20240615/e1ee7b46c9af4bf7be914182c1ac3d6e/c.html)|
+||[凉夜、温情与热血](http://www.news.cn/20240615/26bd4d40964a4e37ad37be2eb8657081/c.html)|
+||[瞭望·治国理政纪事｜高标准高质量建设“雄安样板”](http://www.news.cn/20240615/ac50fc00ec3548c48899b997dbfa3535/c.html)|
+||[欧锦赛开幕式激动人心 德国队完美“起航”](http://www.news.cn/20240615/957980abfaa744c5bf03fbe41801e5e6/c.html)|
+||[短视频 100秒瞰神州夏收之美](http://www.news.cn/20240615/373388b269a94695b562f5da3b39b5b0/c.html)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[美西南航空一架波音737 Max 8型客机在高空发生“荷兰滚”现象](https://m.cnbeta.com.tw/view/1434862.htm)|
+||[微软、苹果、英伟达跻身3万亿美元市值俱乐部 谁才是“美股一哥”？](https://m.cnbeta.com.tw/view/1434861.htm)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[来推荐推荐自己的开源项目和经验吧](https://www.v2ex.com/t/1049702#reply37)|
+||[请问一下 安卓手机目前 能刷机的机器 是不是只能刷他们品牌下面的国外版系统，比如小米只能刷欧版，但是本质上还是 miui，如果我想给小米刷成原生安卓或者一加的系统，能刷吗？](https://www.v2ex.com/t/1049797#reply19)|
+||[我的手机号「没有注册某个网站」这一事实算不算隐私？](https://www.v2ex.com/t/1049803#reply12)|
+||[找一款记忆中的安卓手机，之前在本站刷到过，好像说是小众品牌，一直默默无闻，可以随意刷机，没广告，忘记是系统还是手机了，大佬们能否帮我找回记忆](https://www.v2ex.com/t/1049782#reply21)|
+||[恕我直言，闲鱼是在抹黑 flutter](https://www.v2ex.com/t/1049849#reply11)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[vue2、vue3以及react在项目的表现上有什么区别吗？](https://segmentfault.com/q/1010000044966452)|
+|[闲趣](https://xqrp.com/feed)|[一点感触：多做增加获得感和成就感的事](https://xqrp.com/661398.html)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（三）](http://www.seis-jun.xyz/paper-reading-3)|
+|[IT之家-24 小时最热](https://rsshub.app/ithome/ranking/24h)|[消息称“某直板旗舰手机”将采用侧边电容指纹技术](https://www.ithome.com/0/775/417.htm)|
+||[3 年冷饭再炒，高通确认骁龙 6s Gen 3 芯片为增强版 695：提升 CPU、GPU 和 AI 性能](https://www.ithome.com/0/775/349.htm)|
+||[2TB 仅 858 元：致态 TiPlus 7100 固态硬盘近期新低（7000 MB/s读取）](https://www.ithome.com/0/775/346.htm)|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[湾区汽车轮胎频繁被钉子扎](https://leimao.github.io/essay/%E6%B9%BE%E5%8C%BA%E6%B1%BD%E8%BD%A6%E8%BD%AE%E8%83%8E%E9%A2%91%E7%B9%81%E8%A2%AB%E9%92%89%E5%AD%90%E6%89%8E/)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[虾酱追剧 高清电影_影视短剧 https://www.xiajiangzj.top/](https://m.okjike.com/originalPosts/666cdb1a3d6d07a7bbd4a60c)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[勒索软件攻击者迅速利用最近曝光的 PHP 9.8/10 漏洞](https://www.solidot.org/story?sid=78440)|
+||[卫星数据揭示了 2023 年土耳其大地震前的异常情况](https://www.solidot.org/story?sid=78439)|
+||[太阳磁场即将反转](https://www.solidot.org/story?sid=78438)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[GEORGE DATACENTER: VPS KVM NVME LOS ANGELES FREE DOUBLE RAM via Offers — LowEndTalk author: georgedatacenter ](https://t.me/liyuans/46815)|
+||[UK AMD EPYC Genoa 9454 VPS 2 vCPU, 2GB, 32GB NVMe £29.99 / $39.99 per YEAR GIVEAWAY INSIDE. via Offers — LowEndTalk author: AllHost_Rep ](https://t.me/liyuans/46814)|
+||[ 618/Mid-Year Flash Sale ★TYO/LAX★Giveaway/OpenStack/$11.26 per Year via Offers — LowEndTalk author: SiliCloud ](https://t.me/liyuans/46813)|
 |[乔克叔叔的床边故事](https://lifeodyssey.github.io/atom.xml)|[Clean Code, Refactoring and Test-Driven Development](https://lifeodyssey.github.io/posts/5ffd7c75.html)|
 |[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[也来凑个热闹，初学乍练，多提意见](https://www.coolapk.com/feed/56780416?shareKey=ZmRiYTJkMjY0OWQ4NjY2ZDljN2U~)|
 ||[xperia 1 M7 7代设计图曝光](https://www.coolapk.com/feed/56780317?shareKey=ODM3NzcyMGI1NGM0NjY2ZDljN2U~)|
