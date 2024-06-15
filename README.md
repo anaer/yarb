@@ -2,6 +2,31 @@
 
 |来源|标题|
 |---|---|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读](http://www.seis-jun.xyz/paper-reading)|
+||[文献阅读（二）](http://www.seis-jun.xyz/paper-reading-2)|
+|[LIHAI 分享 - Telegra...](https://rsshub.app/telegram/channel/lihaiba)|[📄 2024 德国欧洲杯赛程.pdf - 3.6 MB 2024 德国欧洲杯赛程.png - 8.7 MB](https://t.me/lihaiba/6809)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[茅台的数据整理，风韵可犹存？](http://xueqiu.com/2132668406/293751412)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中共中央政法委召开扫黑会议：深挖彻查关系网保护伞](https://www.zaobao.com/realtime/china/story20240615-3930565)|
+||[中国代表傅聪：一些国家社会撕裂政治极化问题突出要深刻反思](https://www.zaobao.com/realtime/china/story20240615-3930487)|
+||[中国除北上深其余城市均已取消房贷利率下限](https://www.zaobao.com/realtime/china/story20240615-3930451)|
+|[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[在四川省成都市郫都区发生惊险一幕：一辆宝马轿车落入河中](http://www.dapenti.com/blog/more.asp?name=xilei&id=179247)|
+||[姜萍回应:数学就像我的朋友](http://www.dapenti.com/blog/more.asp?name=xilei&id=179246)|
+||[【喷嚏优选第1037期】连咖啡鲜萃、多威跑鞋](http://www.dapenti.com/blog/more.asp?name=xilei&id=179245)|
+||[在我生命中的每一天-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179244)|
+||[人类真的有很宽广的爱-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179243)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[假如你的孩子长了一张老天爷追着喂饭的脸，你支持孩子进入娱乐圈吗？](https://www.zhihu.com/question/637543471)|
+||[天猫 618 还剩最后几天，听说最后一波还有惊喜大红包，做好哪些攻略能一省到底？](https://www.zhihu.com/question/658337492)|
+||[有哪些可以推荐的心理学书籍？](https://www.zhihu.com/question/654037021)|
+|[少数派](https://sspai.com/feed)|[WWDC24 开幕式，该聊还是得聊两句](https://sspai.com/post/89581)|
+|[爱范儿](https://www.ifanr.com/feed)|[被 App Store 多次推荐的 AI 日记，好用在哪](https://www.ifanr.com/1589174?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 来推荐推荐自己的开源项目和经验吧](https://www.v2ex.com/t/1049702#reply13)|
+||[ 分享创造 想开发一个代理内核，有什么建议吗？](https://www.v2ex.com/t/1049697#reply26)|
+||[ 生活 困惑 感觉和环境冲突不断](https://www.v2ex.com/t/1049694#reply13)|
+||[ Apple 带 watch 睡觉后发现血氧经常跑到 90](https://www.v2ex.com/t/1049689#reply15)|
+||[ 问与答 6 千块配了台无 GPU 的开发用 PC, 大佬们帮我把把关](https://www.v2ex.com/t/1049688#reply43)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[壁纸分享985855](https://www.coolapk.com/feed/56762114?shareKey=OGZiMjQwM2Q1ODFkNjY2Y2YxMTY~)|
+||[Vivo新手机，值得推荐](https://www.coolapk.com/feed/56761760?shareKey=M2Q1OTQ2ZTNiYzgxNjY2Y2YxMTY~)|
+||[ 搬运 ROM OFFICIAL BlackIron V4.5 Raphael ](https://www.coolapk.com/feed/56761555?shareKey=MThlOGExNjE3YmMzNjY2Y2YxMTY~)|
 |[虎嗅](https://plink.anyfeeder.com/huxiu)|[苹果牵手OpenAI，马斯克：“封杀”苹果](https://www.huxiu.com/article/3132845.html?f=rss)|
 ||[高考志愿万元圆梦卡：高价代偿，不如前置规划](https://www.huxiu.com/article/3137220.html?f=rss)|
 ||[不到10万就能买房，他找到了更宜居的“鹤岗”](https://www.huxiu.com/article/3138123.html?f=rss)|
