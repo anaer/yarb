@@ -2,6 +2,38 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[首笔科技创新贷款已发放，激励金融机构更大力度投早投小投硬科技](https://www.36kr.com/newsflashes/2820814330219014)|
+||[西部证券高层调整：总助赵英华分管资管、研究业务，殷涛升任财富管理部总经理](https://www.36kr.com/newsflashes/2820873362753795)|
+||[科大讯飞：手机上大模型技术合作已经在持续对接开展中](https://www.36kr.com/newsflashes/2820857252628745)|
+||[数据更稳更实，金融支持实体经济质效提升](https://www.36kr.com/newsflashes/2820807270893824)|
+||[隆基绿能：Hi-MO 9市场表现超预期，储备订单规模超5GW](https://www.36kr.com/newsflashes/2820805772446217)|
+||[张勇：哪吒8月将发布一款新车，9月大批量交付](https://www.36kr.com/newsflashes/2820801095682566)|
+||[新希望：目前全行业总体来说对复产扩产比较谨慎](https://www.36kr.com/newsflashes/2820798127426053)|
+|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[高分佳作《骡子》：90岁老人贩毒10年未落网，创单次运毒纪录，由真实事件改编！](https://www.ximalaya.com/sound/735077067)|
+|[频率](https://pinlyu.com/atom.xml)|[低空经济重塑城市格局，粤港澳大湾区领跑](https://pinlyu.com/posts/88/)|
+||[第一次刷酸体验](https://pinlyu.com/posts/87/)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[每周一书：西川荣明《名椅图典》](http://www.toodaylab.com/82862)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谷歌和微软们结盟，结果就是为了种个树？](https://www.huxiu.com/article/3140192.html?f=rss)|
+|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[女性需要表达本我的机会 评论: 玫瑰的故事 ](https://movie.douban.com/review/15997787/)|
+||[一种看老戏骨飙戏的踏实感！张颂文、成泰燊、郭柯宇，几位狂飙演技真的封神！ 评论: 看不见影子的少年 ](https://movie.douban.com/review/15998514/)|
+||[时代的一粒沙，落在一个人身旁，佯装成一个家 评论: 狗阵 ](https://movie.douban.com/review/15998013/)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[如何评价姜萍事件？](https://www.zhihu.com/question/658942660/answer/3531758972)|
+||[为什么德国在两次世界大战削弱后人口仍比法国高很多？](https://www.zhihu.com/question/652982266/answer/3531756680)|
+||[比亚迪掀起的价格战，谁最受伤？](https://www.zhihu.com/question/658588333/answer/3531751586)|
+||[独行侠总决赛1：3落后凯尔特人，能像2016年那样大翻盘吗?](https://www.zhihu.com/question/658970981/answer/3531736692)|
+||[A 股再现 00 后高管，24岁女生获聘上市公司总裁，身家上亿，26岁哥哥是董事长，哪些信息值得关注？](https://www.zhihu.com/question/658969479/answer/3531653249)|
+||[你看过迪丽热巴哪些作品，她演的什么人物让你印象深刻？](https://www.zhihu.com/question/658812830/answer/3531635143)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 油管已经穷疯了吗？](https://www.v2ex.com/t/1049851#reply20)|
+||[ 程序员 恕我直言，闲鱼是在抹黑 flutter](https://www.v2ex.com/t/1049849#reply16)|
+||[ 职场话题 家里老人重病，还被公司安排去外地驻场，怎么破](https://www.v2ex.com/t/1049843#reply24)|
+||[ Apple 买 Apple 的设备非国行是不是首先考虑的范围？](https://www.v2ex.com/t/1049837#reply22)|
+||[ 广州 老家发小借钱不还，玩人间失踪。难道成熟的过程就是要把曾经一点点掐灭吗？](https://www.v2ex.com/t/1049832#reply20)|
+||[ 宽带症候群 奶昔机场居然没有 STEAM 的分流，现在更新 steam 都是默认走代理耗我流量，怎么把 steam 直连](https://www.v2ex.com/t/1049831#reply12)|
+||[ 生活 小县城有给五十多岁人做的工作吗?](https://www.v2ex.com/t/1049823#reply13)|
+||[ 数学 考下 V 友的数学: 同事一起储值餐厅会员卡, 消费时遇到的一个金额平摊问题](https://www.v2ex.com/t/1049818#reply28)|
+||[  WATCH Apple Watch Ultra 2 升级 Beta 版本续航雪崩了 😂](https://www.v2ex.com/t/1049812#reply12)|
+||[ 问与答 GPT 是不是和我理解的不太一样？](https://www.v2ex.com/t/1049810#reply17)|
+|[文艺数学君](https://mathpretty.com/feed/)|[北邮人论坛十大_2024_06_15](https://mathpretty.com/17210.html)|
 |[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[腾讯 QQ 整治“网络戾气”问题，已处置违规账号 1.32 万个、封禁违规群组 891 个](https://www.ithome.com/0/775/468.htm)|
 ||[发给马斯克 560 亿美元，特斯拉为什么还涨了](https://www.ithome.com/0/775/432.htm)|
 ||[今晚 20:00 全网 618 加码再放水：两分钟速读高潮秒杀攻略，iPhone 15 系列立减 2200 元，](https://www.ithome.com/0/775/415.htm)|
