@@ -2,6 +2,53 @@
 
 |来源|标题|
 |---|---|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[孕期被裁员工起诉马斯克脑机公司 Neuralink：强迫与带病毒猴子一同工作](https://www.ithome.com/0/775/363.htm)|
+||[通信电源系统的守护者：锂离子电池](https://www.ithome.com/0/775/358.htm)|
+||[四月全球大尺寸显示面板出货报告：京东方占 34.4%，是第二名群创光电的 2.4 倍](https://www.ithome.com/0/775/352.htm)|
+||[中国移动上线高频骚扰电话亲情防护功能：子女设定，父母同步](https://www.ithome.com/0/775/350.htm)|
+||[小米同比猛涨 115%、传音份额过半，2024 年 Q1 非洲智能手机市场出货 1820 万部](https://www.ithome.com/0/775/305.htm)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[最前线｜《中国奇谭》系列首部动画电影定档明年暑期，上影集团揭幕“上海电影艺术中心”新地标](https://36kr.com/p/2820724444531206?f=rss)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[为什么日本动画从其他城市到东京的人，都会刻画成土包子一样的感觉？](https://www.zhihu.com/question/658607466/answer/3527042845)|
+||[俄罗斯打乌克兰，美国打阿富汗都出尽了洋相，“五常无敌论”是不是该改了？](https://www.zhihu.com/question/658912134/answer/3531359436)|
+||[国内博主透露《黑神话:悟空》被政治正确团队勒索700万美元“指导费”引起国内外游戏玩家讨论，如何看待？](https://www.zhihu.com/question/658971899/answer/3531350761)|
+||[华为常务董事余承东称华为支持搭建汽车极端测试国家标准体系，从商业角度如何解读企业此举？](https://www.zhihu.com/question/658894824/answer/3531338829)|
+||[如何看待张忠祥教授提议「大量增加自然青年项目和面上项目、砍掉重大项目、维持少量重点项目」？](https://www.zhihu.com/question/658821567/answer/3531310467)|
+||[中国历史上有哪些封神的战役？](https://www.zhihu.com/question/657995273/answer/3531297864)|
+||[数学老师王闰秋说姜萍「不属于天才型，而是属于勤奋型选手」，在数学竞赛中天赋和勤奋哪个更重要？](https://www.zhihu.com/question/658889523/answer/3531297205)|
+||[如何评价影视飓风最新一期节目《3000年前的“神兽”长什么样》？](https://www.zhihu.com/question/658908544/answer/3531290614)|
+||[《山海经》里最有可能在现实中存在的神兽有哪些？它们身上藏了哪些秘密？](https://www.zhihu.com/question/658981973/answer/3531289811)|
+||[除北京、上海、深圳外，全国其余城市均已取消房贷利率下限，这意味着什么？会带来哪些影响？](https://www.zhihu.com/question/658917157/answer/3531273793)|
+||[为什么大明没有收回新疆？](https://www.zhihu.com/question/624883275/answer/3530396625)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[PCIe 6.0 和 7.0 部署遭遇延误](https://m.cnbeta.com.tw/view/1434838.htm)|
+||[中国移动上线骚扰电话亲情防护功能：一人拉黑 全家屏蔽](https://m.cnbeta.com.tw/view/1434837.htm)|
+||[超5万元取款需预约？多家网点：属实](https://m.cnbeta.com.tw/view/1434836.htm)|
+||[两名男子被控经营非法商品暗网市场 涉案超4.3亿美元](https://m.cnbeta.com.tw/view/1434834.htm)|
+||[Intel 13/14代酷睿i9不稳定的根源找到了 需更新微码和BIOS](https://m.cnbeta.com.tw/view/1434833.htm)|
+||[利用iOS 18的唤醒词定义功能 你可以借此给Siri起个新名字](https://m.cnbeta.com.tw/view/1434832.htm)|
+||[Sonos更改美区隐私政策 暗示可能出售用户数据](https://m.cnbeta.com.tw/view/1434831.htm)|
+||[三星 Galaxy Z Flip6 规格泄露](https://m.cnbeta.com.tw/view/1434830.htm)|
+||["啤酒水疗"在美国成为有利可图的生意](https://m.cnbeta.com.tw/view/1434829.htm)|
+||[南非欲海岛空投550吨老鼠药 消灭正在啃食海鸟的老鼠](https://m.cnbeta.com.tw/view/1434826.htm)|
+||[郭明錤：骁龙8 Gen4涨价30%是开始 3nm工艺影响下手机都要涨价](https://m.cnbeta.com.tw/view/1434825.htm)|
+||[女子路遇超级国宝“莽山烙铁头”近距离合照 博主怒斥：无知又愚昧](https://m.cnbeta.com.tw/view/1434824.htm)|
+||[神达/泰安展示为英特尔至强6 CPU准备的主板和服务器](https://m.cnbeta.com.tw/view/1434823.htm)|
+||[今日起京广高铁全线复兴号按时速350公里高标运营](https://m.cnbeta.com.tw/view/1434822.htm)|
+||[斯诺登：OpenAI聘用前安全局局长是蓄意背叛](https://m.cnbeta.com.tw/view/1434821.htm)|
+||[花了6年，马斯克终于“讨回”了4000亿的工资](https://m.cnbeta.com.tw/view/1434820.htm)|
+||[现在的年轻人已经不再尊重电脑了](https://m.cnbeta.com.tw/view/1434819.htm)|
+||[马斯克在2024年特斯拉股东大会上的年度发言](https://m.cnbeta.com.tw/view/1434818.htm)|
+||[TikTok开始找退路了？](https://m.cnbeta.com.tw/view/1434817.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 鼠标拆开往回装发现多了三个螺丝怎么搞](https://www.v2ex.com/t/1049767#reply15)|
+||[ YouTube ytb 将在服务器端把 ads 注入到视频内, vu 怎么看](https://www.v2ex.com/t/1049749#reply19)|
+||[ 问与答 不懂金融，关于为什么人民币不能直接出境必须换汇，网上查了好久几乎没有相关的资料](https://www.v2ex.com/t/1049740#reply28)|
+||[ 分享发现 我的 tony 老师又跑路了🤣，没办法逼着延展了自己的边界，发现真香，一定要分享出来！](https://www.v2ex.com/t/1049738#reply29)|
+||[ 职场话题 公司裁员不给补偿，求建议](https://www.v2ex.com/t/1049735#reply16)|
+||[ 问与答 广东这边有什么好一点的筷子推荐么？ 最近天天下雨，感觉筷子容易霉](https://www.v2ex.com/t/1049721#reply23)|
+||[ 哔哩哔哩 推荐一个提高电视使用率的方法： B 站官方客户端](https://www.v2ex.com/t/1049718#reply21)|
+|[KAIX.IN](https://kaix.in/feed/)|[难走的路](https://kaix.in/2024/0615-virtue/)|
+|[晓空blog](https://blog.moeworld.tech/feed/)|[驾照那些事 第二弹 Ver.科目三](https://blog.moeworld.tech/2024/06/15/%e9%a9%be%e7%85%a7%e9%82%a3%e4%ba%9b%e4%ba%8b-%e7%ac%ac%e4%ba%8c%e5%bc%b9-ver-%e7%a7%91%e7%9b%ae%e4%b8%89/)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[飞天茅台价跌众生相：一箱亏3千卖不掉，黄牛称接一瓶亏一瓶](https://www.infzm.com/contents/273422)|
+|[obaby@mars](https://h4ck.org.cn/feed/)|[浅谈 Uniapp 推送–iOS推送调试](https://h4ck.org.cn/2024/06/17341)|
 |[孤岛客](http://www.huangjiwei.com/blog/?feed=rss2)|[医生说的话丨一周语文（2424）](https://www.huangjiwei.com/blog/?p=12166)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[为什么很多人认为电动汽车没有燃油车安全？](https://daily.zhihu.com/story/9773174)|
 ||[鸡和鸭的共同祖先被找到了，它的名字叫「神奇鸡」。](https://daily.zhihu.com/story/9773179)|
