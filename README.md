@@ -2,6 +2,43 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 想换安卓机，因为发热问题](https://www.v2ex.com/t/1049912#reply16)|
+||[ Google google 是打算放弃搜索业务了吗，不管搜什么关键词都是只有几百条结果，而且大都牛头不对马嘴](https://www.v2ex.com/t/1049910#reply11)|
+||[ Windows win10 用一段时间不重启就会莫名其妙巨卡，求助大神](https://www.v2ex.com/t/1049887#reply15)|
+||[ 互联网 网易的软件越来越流氓了, 可以比肩 360 了](https://www.v2ex.com/t/1049886#reply17)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[售价高达1319多人民币的动漫小时钟！？秋叶原游记](https://www.wikimoe.com/post/gcitliqd)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[大语言模型能用作世界模拟器吗?](https://www.jdon.com/74274.html)|
+||[幻觉与创新：AlphaFold3为何失败？](https://www.jdon.com/74273.html)|
+|[少数派](http://sspai.me/feed)|[具透 iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试](https://sspai.com/post/89644)|
+|[FLiNG Trainer](https://flingtrainer.com/feed/)|[Shin Megami Tensei V: Vengeance Trainer](https://flingtrainer.com/trainer/shin-megami-tensei-v-vengeance-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=shin-megami-tensei-v-vengeance-trainer)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[中国创业者“下南洋”：没有降维打击](https://36kr.com/p/2815288395876614)|
+||[“傻坏蛋”于东来](https://36kr.com/p/2817475418458375)|
+||[收费上万，天价高考报志愿收割家长？](https://36kr.com/p/2816209928931840)|
+||[论斤卖的东北土特产，暴打网红刺客](https://36kr.com/p/2820766886300162)|
+||[马斯克又赢了](https://36kr.com/p/2819598400801284)|
+||[Scaling Law触礁「数据墙」？Epoch AI发文预测LLM到2028年耗尽所有文本数据](https://36kr.com/p/2819694504937984)|
+||[最前线｜《中国奇谭》系列首部动画电影定档明年暑期，上影集团揭幕“上海电影艺术中心”新地标](https://36kr.com/p/2820724444531206)|
+|[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[【父亲节怀旧】经典的《狮子王》配音幕后视频](http://www.dapenti.com/blog/more.asp?name=xilei&id=179258)|
+||[300多名日本游客组团来四川为香香庆祝7岁生日](http://www.dapenti.com/blog/more.asp?name=xilei&id=179257)|
+||[当代年轻人婚姻观be like](http://www.dapenti.com/blog/more.asp?name=xilei&id=179256)|
+||[世界最大经济体 1991 ~ 2024 ](http://www.dapenti.com/blog/more.asp?name=xilei&id=179255)|
+||[【喷嚏优选第1038期】国联水产带鱼段、匡威双肩包](http://www.dapenti.com/blog/more.asp?name=xilei&id=179254)|
+||[你以为的都不是-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179253)|
+||[你的孩子，其实不是你的孩子-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179252)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[企业家入淘直播 “真还传”故事可以复制吗？](https://m.cnbeta.com.tw/view/1434896.htm)|
+||[骁龙6s Gen3非全新产品 高通确认其为3年前骁龙695加强版](https://m.cnbeta.com.tw/view/1434895.htm)|
+||[广东一货车撞上复兴号高铁 网友笑称保险公司可能要连夜跑路](https://m.cnbeta.com.tw/view/1434894.htm)|
+||[华为智驾ADS 2.0到ADS 3.0不需要更换硬件 原车就能升级](https://m.cnbeta.com.tw/view/1434893.htm)|
+||[微软：Windows 11"跨设备服务"CPU占用率过高的错误确实存在](https://m.cnbeta.com.tw/view/1434889.htm)|
+||[微软恢复在 Release Preview 频道推送 Windows 11 版本 24H2](https://m.cnbeta.com.tw/view/1434888.htm)|
+||[美国电动车推广遭遇意外阻碍：充电桩电缆频繁被盗 只为了一点铜](https://m.cnbeta.com.tw/view/1434886.htm)|
+||[华为新款MatePad平板认证信息确认包含北斗卫星消息功能](https://m.cnbeta.com.tw/view/1434885.htm)|
+||[小米全新智能手表外观首秀 圆形表盘、支持eSIM独立通信](https://m.cnbeta.com.tw/view/1434884.htm)|
+||[上海证实特斯拉FSD路测 中国场景迎来最强智驾鲶鱼](https://m.cnbeta.com.tw/view/1434883.htm)|
+||[奇瑞总经理：国产车出海要抱团 不能再像过去一样拼价格了](https://m.cnbeta.com.tw/view/1434882.htm)|
+||[马斯克称计划7月底测试用机械臂捕捉并回收星舰飞船](https://m.cnbeta.com.tw/view/1434881.htm)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[哪支队伍能拿下2024年的欧洲杯冠军？](https://www.zhihu.com/question/655948213/answer/3531933878)|
+||[西方伪史论者总是认为古希腊的历史经不起“二重证据法”考验，有无谬误？](https://www.zhihu.com/question/658931077/answer/3531259562)|
 |[极道](https://www.jdon.com/jivejdon/rss)|[2024年高效Web前端开发必备的工具有哪些 ？](https://www.jdon.com/74272.html)|
 ||[分布式快照：Monkey-Lamport协议](https://www.jdon.com/74271.html)|
 ||[C4模型的软件架构图](https://www.jdon.com/74270.html)|
