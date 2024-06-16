@@ -2,6 +2,105 @@
 
 |来源|标题|
 |---|---|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[HeHeDa: @无聊图](http://i.jandan.net/t/5699298)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5699297)|
+||[骸客地瓜: @无聊图](http://i.jandan.net/t/5699272)|
+||[司马当活马医: @无聊图](http://i.jandan.net/t/5699269)|
+||[Loinway: @无聊图](http://i.jandan.net/t/5699247)|
+||[slarti: @无聊图](http://i.jandan.net/t/5699242)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5699241)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5699238)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5699227)|
+||[飞出夜空: @无聊图](http://i.jandan.net/t/5699211)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5699208)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5699171)|
+||[浮华暂借问: @无聊图](http://i.jandan.net/t/5699169)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5699157)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[夏日阿尔金山风光旖旎，成群黑颈鹤管护站旁安家](https://m.thepaper.cn/detail/27746449)|
+||[走失女童对话民警主打一个已读乱回](https://m.thepaper.cn/detail/27732318)|
+||[北京航空航天大学：今年将新增4个本博一体化人才培养试验班](https://m.thepaper.cn/detail/27753748)|
+||[救人还是上课？这些选择优先救人的医生为学生们上了最好的一课](https://m.thepaper.cn/detail/27753709)|
+||[上海国际电影节“未来影院”开启，引入26部沉浸式体验作品](https://m.thepaper.cn/detail/27753660)|
+||[丈夫与情人生子并给其转账、花费58万，妻子起诉要求返还获支持](https://m.thepaper.cn/detail/27753649)|
+||[半年赚7000多元？男子恶意差评敲诈勒索商家，警察来了](https://m.thepaper.cn/detail/27753621)|
+||[“守冰的人”在夏天给冰川盖冬被](https://m.thepaper.cn/detail/27753627)|
+||[国足“救星”新加坡门将桑尼来上海，现场制作椰浆饭](https://m.thepaper.cn/detail/27753664)|
+||[用体育连接苏州河与塞纳河，“移动的体育博物馆”焕新再出发](https://m.thepaper.cn/detail/27753528)|
+||[“616溜一遛”，在城市漫步中体验上海青浦的活力](https://m.thepaper.cn/detail/27753707)|
+||[水利部和中国气象局联合发布今年首个红色山洪灾害气象预警](https://m.thepaper.cn/detail/27753672)|
+||[王长田：《三体》电影确定由张艺谋执导，项目进入前期运作](https://m.thepaper.cn/detail/27752933)|
+||[辽宁发布今年首个高温预警，下周局地可达42℃](https://m.thepaper.cn/detail/27753607)|
+||[外交部驻港公署：香港特区高水平法治不容否定](https://m.thepaper.cn/detail/27753597)|
+||[韩国医政博弈持续：医协称若政府接受三项要求将考虑暂缓停诊](https://m.thepaper.cn/detail/27753602)|
+||[习语｜“老百姓的事情，时时放心不下”](https://www.peopleapp.com/column/30045372020-500005493954)|
+||[打虎不停歇：今年已有唐一军、唐仁健、苟仲文、吴英杰4名正部级被查](https://m.thepaper.cn/detail/27752864)|
+||[马上评｜教师因救人迟到受处分？校方需给出合理解释](https://m.thepaper.cn/detail/27752852)|
+||[网红机构3小时“收割”2亿元，高考规划师靠谱吗？记者调查](https://m.thepaper.cn/detail/27752814)|
+||[拜登和特朗普的首场电视辩论规则公布：禁用道具，麦克风受控](https://m.thepaper.cn/detail/27751846)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[电视剧名场面「滴血验亲」，真的准吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%94%B5%E8%A7%86%E5%89%A7%E5%90%8D%E5%9C%BA%E9%9D%A2%E3%80%8C%E6%BB%B4%E8%A1%80%E9%AA%8C%E4%BA%B2%E3%80%8D%EF%BC%8C%E7%9C%9F%E7%9A%84%E5%87%86%E5%90%97%EF%BC%9F)|
+||[亲测有效：夏天穿长袖，比短袖更凉快！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88%EF%BC%9A%E5%A4%8F%E5%A4%A9%E7%A9%BF%E9%95%BF%E8%A2%96%EF%BC%8C%E6%AF%94%E7%9F%AD%E8%A2%96%E6%9B%B4%E5%87%89%E5%BF%AB%EF%BC%81)|
+||[一款小众宝藏枕头，让人睡得好舒坦！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E6%AC%BE%E5%B0%8F%E4%BC%97%E5%AE%9D%E8%97%8F%E6%9E%95%E5%A4%B4%EF%BC%8C%E8%AE%A9%E4%BA%BA%E7%9D%A1%E5%BE%97%E5%A5%BD%E8%88%92%E5%9D%A6%EF%BC%81)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 小白，问一下如何快速发布一个 html 的静态页面到互联网上](https://www.v2ex.com/t/1050008#reply11)|
+||[ 职场话题 就是想不明白，如果落实劳动法，会变成什么样？](https://www.v2ex.com/t/1049995#reply33)|
+||[ Apple 提问：关于 IOS 18 的 AI 更新，为什么会有人觉得不厉害？](https://www.v2ex.com/t/1049986#reply13)|
+||[ 宽带症候群 有没有大佬还在用 4G 的，你们的 4G 变慢了吗？](https://www.v2ex.com/t/1049983#reply16)|
+||[ MacBook Pro 这个时间节点,有必要等 M4 的 MacBookpro 吗?](https://www.v2ex.com/t/1049981#reply12)|
+||[ 问与答 请教下如何开启谷歌地图的 Timeline](https://www.v2ex.com/t/1049978#reply16)|
+||[ 生活方式 麦当劳还是瑞幸冰美式？哪个更好喝或者性价比高：）](https://www.v2ex.com/t/1049971#reply32)|
+||[ 生活 程序员的钢琴之旅](https://www.v2ex.com/t/1049955#reply13)|
+|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[松烟阁｜小报童](https://www.edony.ink/xiaobot-column/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[ACL 2024论文盖棺定论：大语言模型≠世界模拟器，Yann LeCun：太对了](https://www.jiqizhixin.com/articles/2024-06-16-14)|
+||[星环科技孙元浩：语料已经是大模型最大的挑战](https://www.jiqizhixin.com/articles/2024-06-16-13)|
+||[AI将是数学家的得力助手，陶哲轩谈AI在证明过程中的潜力](https://www.jiqizhixin.com/articles/2024-06-16-12)|
+||[高质量3D生成最有希望的一集？GaussianCube在三维生成中全面超越NeRF](https://www.jiqizhixin.com/articles/2024-06-16-11)|
+||[现在起，真正的强者敢于直面「扣子」的「模型广场」](https://www.jiqizhixin.com/articles/2024-06-16-10)|
+||[仅存活三个月的Copilot GPTs，因无盈利希望，被微软强制「退休」](https://www.jiqizhixin.com/articles/2024-06-16-9)|
+||[英伟达开源最强通用模型Nemotron-4 340B](https://www.jiqizhixin.com/articles/2024-06-16-8)|
+||[有望解决一个千禧年大奖难题，这个20多年前的猜想终于得到证明](https://www.jiqizhixin.com/articles/2024-06-16-7)|
+||[SIGGRAPH2024｜上科大、影眸联合提出DressCode：从文本生成3D服装板片](https://www.jiqizhixin.com/articles/2024-06-16-6)|
+||[又一届「AI春晚」拉开序幕！智源大模型集体爆发了](https://www.jiqizhixin.com/articles/2024-06-16-5)|
+||[让鲁迅说绕口令、赫本玩嘻哈，又一视频模型火了，斯坦福华人博士创立](https://www.jiqizhixin.com/articles/2024-06-16-4)|
+||[从ALOHA迈向Humanplus，斯坦福开源人形机器人，「高配版人类」上线](https://www.jiqizhixin.com/articles/2024-06-16-3)|
+||[只需几个演示就能对齐大模型，杨笛一团队提出的DITTO竟如此高效](https://www.jiqizhixin.com/articles/2024-06-16-2)|
+||[Mobile-Agent-v2问世，自动化手机操作能力再上新台阶](https://www.jiqizhixin.com/articles/2024-06-16)|
+|[IT之家](https://www.ithome.com/rss/)|[iPad Pro 只是开始？消息称苹果计划为 iPhone 17 系列开发一款更薄的机型](https://www.ithome.com/0/775/608.htm)|
+||[74.4 元起，经典 EA 游戏《死亡空间：重制版》Steam 国区三折史低促销](https://www.ithome.com/0/775/607.htm)|
+||[梅赛德斯奔驰 AMG SL 63 高定版跑车官图公布：金色涂装，限量 100 辆](https://www.ithome.com/0/775/606.htm)|
+||[12.29 万元起，奇瑞艾瑞泽 8 汽车 2.0T+8AT、1.6T+8155 新版型上市](https://www.ithome.com/0/775/605.htm)|
+||[TP-LINK 薄款 BE5100 Wi-Fi 7 AP 面板开售：9mm 出墙厚度、2.5G 网口，449 元](https://www.ithome.com/0/775/604.htm)|
+||[1775 元 6 期免息：小天鹅水魔方 V88 滚筒洗衣机京东 618 再降价](https://www.ithome.com/0/775/603.htm)|
+||[360 行车记录仪 V9 开售：支持运动相机 / 车载监控双模式、4K 画质，499 元](https://www.ithome.com/0/775/601.htm)|
+||[酷似首饰盒，三星 Galaxy Ring 智能指环充电盒曝光](https://www.ithome.com/0/775/600.htm)|
+||[历时 21 年，东风日产达成 1600 万整车产销里程碑](https://www.ithome.com/0/775/599.htm)|
+||[传音 Infinix 首款平板“XPAD”曝光，预计定位中档产品](https://www.ithome.com/0/775/598.htm)|
+||[联想来酷“K2739GQL”27 英寸显示器开售：2K 360Hz Fast-IPS，4999 元](https://www.ithome.com/0/775/597.htm)|
+||[思锐 AF 16/75mm F1.2 两款相机镜头定档 6 月 19 日发售：可选 X / Z / E 卡口，支持自动对焦](https://www.ithome.com/0/775/596.htm)|
+||[骁龙 680 处理器：Redmi Pad SE 11 英寸平板 128G 版 686 元限时新低](https://www.ithome.com/0/775/595.htm)|
+||[三星 Galaxy Watch Ultra 手表渲染图曝光：方中带圆造型，灰银两色](https://www.ithome.com/0/775/594.htm)|
+||[星曜 AF 50mm F1.4 富士 X 卡口镜头明日发布：8 组 12 片结构，售 1399 元](https://www.ithome.com/0/775/593.htm)|
+||[售 17.59 万元起，长安深蓝 G318 车型上市 70 小时订单破万](https://www.ithome.com/0/775/592.htm)|
+||[13mm 动圈 + IPX4 防水，山灵 MTW60 主动降噪 TWS 耳机 6 月 18 日 198 元首销](https://www.ithome.com/0/775/591.htm)|
+||[英特尔中国区董事长王锐：预计到年底将交付 4000 万片酷睿 Ultra 处理器](https://www.ithome.com/0/775/587.htm)|
+||[广州拟规定中小学可禁止学生带手机，经允许带入的应统一管理](https://www.ithome.com/0/775/586.htm)|
+||[前联想笔记本产品经理马志宇加入小米，担任通讯技术有限公司产品行销总监](https://www.ithome.com/0/775/585.htm)|
+||[最高 38.1% 欧盟关税，消息称宝马在华生产纯电动 MINI 或面临打击](https://www.ithome.com/0/775/584.htm)|
+||[300 PPI 黑白墨水屏 + 60 天待机：汉王 Clear 6 Pro 电纸书开售，首发价 998 元](https://www.ithome.com/0/775/583.htm)|
+||[准系统低至 1348 元起，华擎 DeskMate X600 迷你主机京东开售](https://www.ithome.com/0/775/582.htm)|
+||[全千兆网口 + Wi-Fi 6：小米 AX3000T 路由器 132 元京东 618 限时购](https://www.ithome.com/0/775/581.htm)|
+||[JBL LIVE FLEX 3 蓝牙耳机零点开售：充电盒彩屏触控、续航 50 小时，1399 元](https://www.ithome.com/0/775/580.htm)|
+||[比亚迪海豹 07 动力曝光：纯电续航 55/100km，最低馈电油耗 4.2 升](https://www.ithome.com/0/775/579.htm)|
+||[专为数码徕卡 M 相机设计，福伦达推出新款 COLOR-SKOPAR 50mm F / 2.2 VM 镜头售 7.5 万日元](https://www.ithome.com/0/775/578.htm)|
+||[黑爵轻氪锋影 M259 三模鼠标 6 月 18 日开售：3395 芯片 + 1KHz 回报率，269 元](https://www.ithome.com/0/775/577.htm)|
+||[“世界级跨海集群工程”深中通道历经 7 年建设今日通过交工验收，本月底开通运营](https://www.ithome.com/0/775/576.htm)|
+||[新一代长城哈弗 H6 车型 6 月 19 日上市，1.5T 与 2.0T 两种动力可选](https://www.ithome.com/0/775/575.htm)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[Water - Tracker/Reminder - 喝水跟踪提醒工具 iPhone、Apple Watch 内购限免 ](https://free.apprcn.com/water-tracker-reminder-2/)|
+||[Ooga - 习惯养成辅助工具 iOS 内购限免 ](https://free.apprcn.com/ooga/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[黄仁勋最新演讲全文：我忍受的一切挫折、痛苦和磨难淬炼了超能力｜钛媒体AGI](https://www.tmtpost.com/7130688.html)|
+||[对话Gartner研究副总裁盛陵海：美国持续升级AI芯片管制，对中国AI发展影响几何？｜钛媒体AGI](https://www.tmtpost.com/7129688.html)|
+||[暑期档大可不必“KPI”焦虑](https://www.tmtpost.com/7130456.html)|
+||[股神布局“新石油”](https://www.tmtpost.com/7130275.html)|
+||[2元茶击中“脆皮”年轻人，一日爆卖115万份](https://www.tmtpost.com/7130255.html)|
+||[上海家化如何破除“老年危机”？](https://www.tmtpost.com/7130242.html)|
 |[V2EX](https://v2ex.com/index.xml)|[ 职场话题 就是想不明白，如果落实劳动法，会变成什么样？](https://www.v2ex.com/t/1049995#reply11)|
 ||[ 程序员 有没有大佬还在用 4G 的，你们的 4G 变慢了吗？](https://www.v2ex.com/t/1049983#reply14)|
 ||[ MacBook Pro 这个时间节点,有必要等 M4 的 MacBookpro 吗?](https://www.v2ex.com/t/1049981#reply11)|
