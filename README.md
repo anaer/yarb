@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[windows10有没有好用的窗口管理工具？](https://segmentfault.com/q/1010000044966815)|
+||[未能加载文件或程序集“AjaxPro.2”或它的某一个依赖项,这怎么解决？](https://segmentfault.com/q/1010000044966537)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Multiple Camera Monitor – 多重摄像头监控工具 Windows $19.9→0 ](https://free.apprcn.com/multiple-camera-monitor-4/)|
+||[Wise Registry Cleaner Pro – 系统注册表清理工具 Windows $29.95→0 ](https://free.apprcn.com/wise-registry-cleaner-pro-18/)|
+||[免费获取音频插件 2B Played Music QFX Wax Windows、macOS €11.9→0 ](https://free.apprcn.com/get-2b-played-music-qfx-wax-for-free/)|
+|[极客公园](http://www.geekpark.net/rss)|[四位大模型创业者聊 AGI、Scaling Law 和价格战](http://www.geekpark.net/news/336595)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[哪支队伍能拿下2024年的欧洲杯冠军？](https://www.zhihu.com/question/655948213/answer/3532101960)|
+||[6 月 15 日世界女排联赛，中国女排 3：2 逆转战胜世界排名第一土耳其女排，如何评价本场比赛？](https://www.zhihu.com/question/659020109/answer/3531785398)|
+||[瑞士和平峰会后世界格局将如何演变？](https://www.zhihu.com/question/658967647/answer/3532090577)|
+||[如何看待周鸿祎祝贺阿里通义Qwen2登顶开源大模型世界榜单第一？开源潜力真的有这么大吗?](https://www.zhihu.com/question/659012427/answer/3532088349)|
+||[2024欧洲杯小组赛，意大利2-1阿尔巴尼亚，你如何评价卫冕冠军意大利本场比赛的发挥？](https://www.zhihu.com/question/659027353/answer/3532082501)|
+||[COLMO 作为高端家电品牌，它的哪些家电产品好用到出圈值得 618 入手呢？](https://www.zhihu.com/question/658934682/answer/3532072140)|
+||[如何看待俄罗斯展现国家新版图将乌克兰包括其中？](https://www.zhihu.com/question/658931109/answer/3532050644)|
+||[华为常务董事余承东称华为支持搭建汽车极端测试国家标准体系，从商业角度如何解读企业此举？](https://www.zhihu.com/question/658894824/answer/3530494805)|
+||[如何评价南方医科大学老师因抢救患儿导致上课迟到被扣奖金通报批评一事？](https://www.zhihu.com/question/659019241/answer/3532018751)|
+||[长春一幼儿园被指办「幼儿集体婚礼」，园长称目的是帮助孩子度过「婚姻敏感期」，这种方式可行吗？有啥依据？](https://www.zhihu.com/question/658989216/answer/3532004450)|
+||[乌尔善执导电影《异人之下》档期确定，你对该电影有哪些期待？](https://www.zhihu.com/question/658307840/answer/3531990150)|
+||[如果有的选，选艾丝妲还是流萤做女友？](https://www.zhihu.com/question/651337862/answer/3531978013)|
+|[V2方圆](https://v2fy.com/feed/)|[如何为局域网的Linux主机设置Docker拉取镜像走代理](https://v2fy.com/p/2024-06-16-10-23-44-docker-proxy/)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[西藏自治区原党委书记吴英杰被查](https://www.infzm.com/contents/273452)|
+|[旁逸斜出](https://www.mihu.live/feed/)|[在docker中安装frp](https://www.mihu.live/archives/421/)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[新一代载人登月火箭来了，长征十号完成一子级火箭动力系统试车，意味着什么？有哪些看点值得关注？](https://www.zhihu.com/question/658900322)|
+||[在 A 股市场究竟是谁在赚钱？](https://www.zhihu.com/question/657034794)|
+||[武松找的仵作为什么什么都交代了，不怕西门庆等人报复吗？](https://www.zhihu.com/question/646889838)|
+||[有哪一些可以救命的冷知识？](https://www.zhihu.com/question/312884303)|
+||[如何从孩子的言谈举止分析、了解孩子的性格？有没有什么可实操的经验或诀窍分享？](https://www.zhihu.com/question/658768061)|
+||[如果注定要离别，那相遇意义是什么呢？](https://www.zhihu.com/question/658889595)|
+||[学历史有什么用?](https://www.zhihu.com/question/658502500)|
+||[长期佩戴日抛隐形眼镜是一种什么样的体验？](https://www.zhihu.com/question/394588024)|
+||[哪支队伍能拿下 2024 年的欧洲杯冠军？](https://www.zhihu.com/question/655948213)|
+||[为什么国足不练传控？](https://www.zhihu.com/question/485473814)|
+|[鸟窝](https://colobu.com/atom.xml)|[128位整数的原子操作](https://colobu.com/2024/06/16/atomic128/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 大佬们帮我参谋一下要不要换到安卓平台](https://www.v2ex.com/t/1049942#reply13)|
+||[ 硬件 现在电视有没有 不带 Android 系统的](https://www.v2ex.com/t/1049940#reply17)|
+||[ 问与答 搬家 搬家后发现巨吵的鸣笛声](https://www.v2ex.com/t/1049923#reply20)|
+||[ 问与答 电脑内存可以 8+8+16+16 吗?](https://www.v2ex.com/t/1049922#reply24)|
+||[ 投资 有哪些可以长期持有的债基推荐？](https://www.v2ex.com/t/1049914#reply12)|
+||[ iPhone 想换安卓机，因为发热问题](https://www.v2ex.com/t/1049912#reply26)|
+||[ Google google 是打算放弃搜索业务了吗，不管搜什么关键词都是只有几百条结果，而且大都牛头不对马嘴](https://www.v2ex.com/t/1049910#reply20)|
+||[ 程序员 怎么样快速解析好几个 G 的 pcap 文件](https://www.v2ex.com/t/1049906#reply17)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[香港北京之间首趟夕发朝至高铁动卧列车到站](https://www.zaobao.com/realtime/china/story20240616-3933882)|
+||[李强宣布中国将再赠澳洲一对熊猫](https://www.zaobao.com/realtime/china/story20240616-3934065)|
+||[西藏自治区原党委书记吴英杰被查](https://www.zaobao.com/realtime/china/story20240616-3933998)|
+||[台民众申请大陆居住证需提供指纹 陆委会担心个资外泄](https://www.zaobao.com/realtime/china/story20240616-3933935)|
+||[欧洲猪肉业界：中国若限制进口将是梦魇](https://www.zaobao.com/realtime/china/story20240616-3933833)|
+||[广西部分河段实施水上交通管制 渡口停渡船舶停航](https://www.zaobao.com/realtime/china/story20240616-3933832)|
+||[胡锡进指G7峰会是富人拉胯聚会：拿什么束缚中国](https://www.zaobao.com/realtime/china/story20240616-3933769)|
+||[意大利总理梅洛尼拟数周内访华](https://www.zaobao.com/realtime/china/story20240616-3933669)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[极致测试vivo/OPPO/三星极限变焦](https://www.huxiu.com/article/3136471.html?f=rss)|
+||[吉利大马生意经](https://www.huxiu.com/article/3141984.html?f=rss)|
+||[今天我们如何做父亲？](https://www.huxiu.com/article/3141976.html?f=rss)|
+||[公募700亿元分红拆解：债基称王ETF紧随其后](https://www.huxiu.com/article/3141982.html?f=rss)|
+||[流量、投资、房价、教育，普通人该如何应对？](https://www.huxiu.com/article/3139792.html?f=rss)|
+||[消失的证券营业部](https://www.huxiu.com/article/3141738.html?f=rss)|
+||[印尼消费借贷监管趋严：出海金融科技企业求变](https://www.huxiu.com/article/3141981.html?f=rss)|
+||[从限制到禁止，美国“围堵”中国电池](https://www.huxiu.com/article/3141741.html?f=rss)|
+||[AI绘图的版权争议，也烧到了AI视频](https://www.huxiu.com/article/3139793.html?f=rss)|
+||[让卖茶女破防的超级算法](https://www.huxiu.com/article/3141737.html?f=rss)|
+||[跑路，是健身房的最终宿命？](https://www.huxiu.com/article/3136466.html?f=rss)|
+||[三大经济改革遇挫，“莫迪经济学”面临挑战](https://www.huxiu.com/article/3141735.html?f=rss)|
+||[不结婚的年轻人，重伤糖果业](https://www.huxiu.com/article/3141378.html?f=rss)|
+||[上市公司开始接老股了，一年回报100%](https://www.huxiu.com/article/3141368.html?f=rss)|
+||[阿斯麦如何称霸半导体行业？](https://www.huxiu.com/article/3141387.html?f=rss)|
+||[为了让大家买房，这些城市是真的拼](https://www.huxiu.com/article/3141055.html?f=rss)|
+||[全价位超值手机推荐，性价比拉满](https://www.huxiu.com/article/3136476.html?f=rss)|
+||[蔚来想赚中产第二笔钱](https://www.huxiu.com/article/3141372.html?f=rss)|
+||[上海知名舞蹈工作室突然闭店，员工离职无门](https://www.huxiu.com/article/3140044.html?f=rss)|
+||[还俗、结婚、创业，柳智宇现在怎么样了](https://www.huxiu.com/article/3141058.html?f=rss)|
+||[溢价十倍也要抢，是人没长大还是商家套路深？](https://www.huxiu.com/article/3136499.html?f=rss)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[思覺失調: @无聊图 沒錯我就是這種人](http://i.jandan.net/t/5699156)|
+||[非必要不中出: @无聊图](http://i.jandan.net/t/5699135)|
+||[浮华暂借问: @无聊图](http://i.jandan.net/t/5699130)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5699116)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5699114)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5699113)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5699110)|
+||[碳纳米管: @无聊图](http://i.jandan.net/t/5699098)|
+||[ao: @无聊图](http://i.jandan.net/t/5699005)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5698990)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 搬家 搬家后发现巨吵的鸣笛声](https://www.v2ex.com/t/1049923#reply14)|
 ||[ 问与答 电脑内存可以 8+8+16+16 吗?](https://www.v2ex.com/t/1049922#reply18)|
 ||[ Apple 好奇为什么好多 app 中国区都下架了，为什么 twitter 没下架](https://www.v2ex.com/t/1049917#reply13)|
