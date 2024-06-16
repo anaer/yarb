@@ -2,6 +2,50 @@
 
 |来源|标题|
 |---|---|
+|[一起偷偷观察 DIYgod - Te...](https://rsshub.app/telegram/channel/awesomeDIYgod)|[🐦 #DIYgod的Twitter更新 似乎发现了一种新的 Twitter 大批量抓取的方法，正在进一步测试中 🤫 传送门](https://t.me/awesomeDIYgod/6438)|
+||[🐦 #DIYgod的Twitter更新 Re @scavenger869 @strrlthedev 我还在王城下水道受苦 传送门](https://t.me/awesomeDIYgod/6437)|
+||[🐦 #DIYgod的Twitter更新 Re @__oQuery 推特发太少了 传送门](https://t.me/awesomeDIYgod/6436)|
+||[🐦 #DIYgod的Twitter更新 Re @justjustjustcc 一天有没有 500 份 传送门](https://t.me/awesomeDIYgod/6435)|
+||[🐦 #DIYgod的Twitter更新 Re @zhibo39923179 很大 传送门](https://t.me/awesomeDIYgod/6434)|
+||[🐦 #DIYgod的Twitter更新 Re @__oQuery 没有变化就是好变化 传送门](https://t.me/awesomeDIYgod/6433)|
+||[🐦 #DIYgod的Twitter更新 Re @yihong0618 马上灭了 X 传送门](https://t.me/awesomeDIYgod/6432)|
+||[🐦 #DIYgod的Twitter更新 Re @slarkvan Screen Studio 传送门](https://t.me/awesomeDIYgod/6431)|
+||[🐦 #DIYgod的Twitter更新 RT Pirat_Nation 🔴: >Chinese media: 'Black Myth: Wukong' refused to be extorted $7 million by SweetBaby. English: The reas...](https://t.me/awesomeDIYgod/6430)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[五年了，《鬼灭之刃》还是一播即爆](https://www.infzm.com/contents/272913)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[真好用的 ORM 框架 mybatis-mp 1.5.8 正式发布](https://www.oschina.net/news/297463)|
+|[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[麦加朝觐183万人 - June 16, 2024](https://m.idai.ly/se/98fiF6)|
+||[乌克兰和平峰会举行 - June 16, 2024](https://m.idai.ly/se/8e9UV5)|
+||[英国国王官方生日庆典 - June 16, 2024](https://m.idai.ly/se/fc19mc)|
+||[南非总统连任成功 - June 16, 2024](https://m.idai.ly/se/c0aeZm)|
+||[吉美博物馆中国单色釉展 - June 16, 2024](https://m.idai.ly/se/bcc8zx)|
+|[龙爪槐守望者](http://www.ftium4.com/rss.xml)|[体验碎周报第 192 期（2024.06.17）](https://www.ftium4.com/ux-weekly-192.html)|
+|[快乐星球 妹子图 收集器 - Tel...](https://rsshub.app/telegram/channel/botmzt)|[🔁 🔴京东PLUS年卡💰69.9 🔻反复领价更D https://u.jd.com/4skPGzz 🔻下单 https://u.jd.com/4bxevdx](https://t.me/botmzt/18126)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[B站股东，该如何理解和分析游戏榜单](http://xueqiu.com/6865655664/293961912)|
+||[做个理性的投资人](http://xueqiu.com/1929796343/293947018)|
+||[4则药明系新消息，后续立法路径概率量化推算](http://xueqiu.com/2864315423/293963468)|
+||[如果巴菲特用他的方法投资A股，会怎样？](http://xueqiu.com/9277793488/293981145)|
+||[投资该读哪些书](http://xueqiu.com/7829822593/190901563)|
+||[与美日对比，看白酒的成长空间](http://xueqiu.com/6056806984/293954215)|
+||[一个最原始的投资思路](http://xueqiu.com/9887656769/293947521)|
+||[高端白酒再思考](http://xueqiu.com/9742512811/293947479)|
+||[茅台的近忧和远虑](http://xueqiu.com/1910783512/293939429)|
+||[云开雾散，水落石出 -- 写在亚盛医药三箭齐发之后](http://xueqiu.com/1429872781/293933996)|
+|[文艺数学君](https://mathpretty.com/feed/)|[北邮人论坛十大_2024_06_16](https://mathpretty.com/17217.html)|
+|[Tinyfool的个人网站](https://codechina.org/feed/)|[开源音频驱动人像动画 对口型 项目列表](https://codechina.org/2024/06/live-speech-portraits/)|
+|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[机械革命无界14 Pro 安装 debian testing/trixie/sid 驱动扬声器，外部耳机，外接显示器过程分享](https://hellodk.cn/post/1169)|
+|[Tony Bai](http://tonybai.com/feed/)|[Gopher的Rust第一课：Rust的依赖管理](https://tonybai.com/2024/06/16/gopher-rust-first-lesson-managing-deps/)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[2比1逆转波兰 荷兰欧锦赛取小组开门红](https://www.zaobao.com/realtime/world/story20240616-3936288)|
+||[美国得州音乐会发生枪击事件 二死多人伤](https://www.zaobao.com/realtime/world/story20240616-3936290)|
+||[称中国并非敌人 泽连斯基呼吁中国参与制定和平协议](https://www.zaobao.com/realtime/world/story20240616-3936317)|
+||[美国水上乐园枪击事件酿九伤 持枪男子随后畏罪自尽](https://www.zaobao.com/realtime/world/story20240616-3936250)|
+||[伊朗和瑞典达成协议 互释二瑞典人和一伊朗人](https://www.zaobao.com/realtime/world/story20240616-3936182)|
+||[持斧头威胁德国警方 男子遭开枪打伤](https://www.zaobao.com/realtime/world/story20240616-3936116)|
+||[联合国对以色列暂停加沙南部军事行动表欢迎](https://www.zaobao.com/realtime/world/story20240616-3936036)|
+||[乌克兰和平峰会公报敦促尊重乌克兰“领土完整”](https://www.zaobao.com/realtime/world/story20240616-3935970)|
+|[乌托邦软件](https://www.rdonly.com/?feed=rss2)|[安娜的档案发布了 521.1TB 的种子文件，还包含了创世纪图书馆、Sci-Hub 的内容](https://www.rdonly.com/archives/7509)|
+||[Airclap-Send Any File to AnyDevice](https://www.rdonly.com/archives/7506)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[手把手教你拆解相亲对象，相亲分析师真有这么神？丨周末同频](https://www.infzm.com/contents/273464)|
+||[证监会新闻发言人就融券与转融券有关情况答记者问](https://www.infzm.com/contents/273462)|
 |[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[NX30Pro 刷成 Openwrt-ImmortalWrt 后作为有线中继的配置方法](https://nicksxs.me/2024/06/16/NX30Pro-%E5%88%B7%E6%88%90-Openwrt-ImmortalWrt-%E5%90%8E%E4%BD%9C%E4%B8%BA%E6%9C%89%E7%BA%BF%E4%B8%AD%E7%BB%A7%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/)|
 ||[向量数据库学习基础之跳表](https://nicksxs.me/2024/06/16/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E4%B9%8B%E8%B7%B3%E8%A1%A8/)|
 |[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自建 docker 代理一些方法参考 备忘供各位使用 ](https://www.v2ex.com/t/1049889#reply14)|
