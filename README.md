@@ -2,6 +2,68 @@
 
 |来源|标题|
 |---|---|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[適宜步行的城市，才是宜居的城市：高雄三民街小吃，中華路散步](https://taiwan.chtsai.org/2024/06/16/shiyi_buxing/)|
+|[空城记](https://shinekid.com/feed/)|[周末逛街。最近阅读。恫吓。](https://shinekid.com/2024/06/intimidation-against-volunteers/)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|["东数西算"大战略涵盖了哪些城市？芜湖在其中起到了什么作用？](https://www.zhihu.com/question/659056145/answer/3532239779)|
+||[在中国古代文学作品中，为何常常出现以‘梦’为题材的作品？](https://www.zhihu.com/question/658914519/answer/3532178774)|
+|[IT之家-24 小时最热](https://rsshub.app/ithome/ranking/24h)|[《黑神话：悟空》被政治正确团队勒索 700 万美元“指导费”？引发国内外热议](https://www.ithome.com/0/775/534.htm)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[奥特曼也离天价薪酬不远了？](https://m.cnbeta.com.tw/view/1434927.htm)|
+||[17年“战神”生涯接近尾声 现款日产GT-R即将停售](https://m.cnbeta.com.tw/view/1434926.htm)|
+||[3款韩国火鸡面太辣被丹麦下架：辣椒素含量过高 官方提醒应丢弃](https://m.cnbeta.com.tw/view/1434925.htm)|
+||[涉嫌隐瞒代工业务巨额亏损 Intel遭集体诉讼](https://m.cnbeta.com.tw/view/1434923.htm)|
+||[华为纯血鸿蒙系统曝光：广告大幅减少 动画优于安卓](https://m.cnbeta.com.tw/view/1434922.htm)|
+||[小鹏飞行汽车京津冀首飞 无人驾驶引拍照围观](https://m.cnbeta.com.tw/view/1434921.htm)|
+||[理想车友聚会发生多车追尾被质疑AEB不行 官方回应：雨天路滑 车距太近](https://m.cnbeta.com.tw/view/1434917.htm)|
+||[北京现代总经理：有车企靠爱国情绪卖车 对行业伤害很大](https://m.cnbeta.com.tw/view/1434915.htm)|
+||[丰田三款涉排放造假车型预计将于8月后恢复生产](https://m.cnbeta.com.tw/view/1434914.htm)|
+||[又一经典跑车落幕 最后一台捷豹F-TYPE下线](https://m.cnbeta.com.tw/view/1434912.htm)|
+||[微星推出D3052 AM5主板 配备25Gbps SFP28双网口](https://m.cnbeta.com.tw/view/1434910.htm)|
+||[华为靳玉志：用华为智驾开车手 一路上我打三个电话](https://m.cnbeta.com.tw/view/1434909.htm)|
+||[马斯克再次宣称特斯拉新款Roadster跑车可以飞](https://m.cnbeta.com.tw/view/1434908.htm)|
+||[专家：有车企将最好产品卖到国外 把差的留给国内用户](https://m.cnbeta.com.tw/view/1434907.htm)|
+||[中国人自己的操作系统 华为纯血鸿蒙完全独立于安卓、iOS](https://m.cnbeta.com.tw/view/1434906.htm)|
+||[苹果iOS 18隐藏功能曝光 任何文本框中都可进行数学计算](https://m.cnbeta.com.tw/view/1434905.htm)|
+||[奇瑞回应被欧盟加征21%关税：将在欧洲建厂以减轻影响](https://m.cnbeta.com.tw/view/1434904.htm)|
+||[偷吉利技术被判赔6.4亿元 威马汽车已申请破产重整恐难赔钱](https://m.cnbeta.com.tw/view/1434899.htm)|
+||[GPT-4不是世界模型 ACL力证LLM永远无法模拟世界](https://m.cnbeta.com.tw/view/1434898.htm)|
+||[美共和党议员爆料：特朗普已准备“彻底扭转”拜登的电动车政策](https://m.cnbeta.com.tw/view/1434897.htm)|
+|[小众软件](https://plink.anyfeeder.com/appinn)|[WinSize 5.0 – 让窗口更听话一点点｜Windows 窗口布局工具](https://www.appinn.com/winsize-5-0/)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【译】我是如何使用 Capacities，并且几乎不花时间在整理笔记上](https://xlrocket.blog/2024/06/16/%e3%80%90%e8%af%91%e3%80%91%e6%88%91%e6%98%af%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8-capacities%ef%bc%8c%e5%b9%b6%e4%b8%94%e5%87%a0%e4%b9%8e%e4%b8%8d%e8%8a%b1%e6%97%b6%e9%97%b4%e5%9c%a8%e6%95%b4%e7%90%86/)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 生活方式 麦当劳还是瑞幸冰美式？哪个更好喝或者性价比高：）](https://www.v2ex.com/t/1049971#reply11)|
+||[ 问与答 到县城去创业是否真的大有可为？](https://www.v2ex.com/t/1049956#reply15)|
+||[ Android 2000 元安卓手机求推荐](https://www.v2ex.com/t/1049948#reply14)|
+||[ 咖啡 分享一下这两三年喝到的好喝的咖啡豆](https://www.v2ex.com/t/1049943#reply25)|
+||[ 程序员 大佬们帮我参谋一下要不要换到安卓平台](https://www.v2ex.com/t/1049942#reply17)|
+||[ 硬件 现在电视有没有 不带 Android 系统的](https://www.v2ex.com/t/1049940#reply24)|
+||[ 问与答 有没有不会漏液的电池？](https://www.v2ex.com/t/1049936#reply12)|
+|[36氪](https://36kr.com/feed)|[杀死那个 “疯女人”](https://36kr.com/p/2821928782612996?f=rss)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[华为P20 Pro：不是优秀的产品，却是合格的过渡者](https://www.coolapk.com/feed/56800408?shareKey=ZjE0NDg0OTE1M2RmNjY2ZTlmNDM~)|
+||[全部亲测！聊聊目前主流的免费观影平台以及个人使用的最终方案！](https://www.coolapk.com/feed/56778243?shareKey=MmNiNTVkMjFlOWRhNjY2ZTlmNDM~)|
+||[MIX4调教-火龙888p通用 应该 ](https://www.coolapk.com/feed/56793977?shareKey=ZmEyZjUzYTk5NGU1NjY2ZTlmNDM~)|
+||[出个华为全新原装65W](https://www.coolapk.com/feed/56793559?shareKey=MTI0YTczMDRmNzhkNjY2ZTlmNDM~)|
+||[ArozOS 的口袋云服务器，一个高效的多端网页系统](https://www.coolapk.com/feed/56799846?shareKey=MjZhNmU5N2FjNTExNjY2ZTlmNDM~)|
+||[关于一句评论的感慨与搞机生涯回顾](https://www.coolapk.com/feed/56794539?shareKey=OGNiOGI0ODQ3OGQ2NjY2ZTlmNDM~)|
+||[［新品体验］开箱评测酷态科10号超级闪充块［CP］120W三口氮化镓充电器！！！](https://www.coolapk.com/feed/56784002?shareKey=MDQ3YWQ3M2U5NDI5NjY2ZTlmNDM~)|
+||[出闲置罗技g431游戏耳机](https://www.coolapk.com/feed/56799628?shareKey=YjU4NTJmZmE5ZmI2NjY2ZTlmNDM~)|
+||[真我GT Neo6 和平精英半小时帧率测试（90帧版）](https://www.coolapk.com/feed/56787693?shareKey=MGVlZTc2ZGY5MjQ4NjY2ZTlmNDM~)|
+||[删帖重发，投币自取](https://www.coolapk.com/feed/56787411?shareKey=MjRhYmY0N2Q4OTY5NjY2ZTlmNDM~)|
+||[Extreme One--登峰造极，真全面。](https://www.coolapk.com/feed/56799312?shareKey=MDQxNmJkMmE1NTgwNjY2ZTlmNDM~)|
+||[当你的兄弟是个♂娘，搞怪](https://www.coolapk.com/feed/56796882?shareKey=NjJiODgyZDM5NzNkNjY2ZTlmNDM~)|
+||[十代至尊，翻山之作](https://www.coolapk.com/feed/56798931?shareKey=MDg2NTgzMGM0ZDVhNjY2ZTlmNDM~)|
+||[HyperOS系统增强模组 V6.6 For Magisk/KernelSU/Kitsune](https://www.coolapk.com/feed/56796290?shareKey=MDA3YjBkZjIxMmY2NjY2ZTlmNDM~)|
+||[bug有点太多太影响体验了](https://www.coolapk.com/feed/56796883?shareKey=NDg0N2JjODZlMDA2NjY2ZTlmNDM~)|
+||[使用一周感觉良好](https://www.coolapk.com/feed/56796397?shareKey=YjdhYjg4ZWNkMGQ4NjY2ZTlmNDM~)|
+||[这只耳机我会摆在我的桌子上](https://www.coolapk.com/feed/56796105?shareKey=YWMwYzZlMmIzMDhmNjY2ZTlmNDM~)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/9887656769/293947521)|
+||[菜刀门派：高息股投资](https://xueqiu.com/1760673340/293945077)|
+||[美国AI 7巨头调研总结](https://xueqiu.com/8029098291/293942392)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[马面裙](https://www.jianshu.com/p/8a9a77993d0a)|
+||[今年的夏天有些冷](https://www.jianshu.com/p/9db758b10cdb)|
+||[同声颂党恩](https://www.jianshu.com/p/17e4b255ff26)|
+||[以生存实验激活户外综艺，《这是我的岛》如何成为市场黑马？](https://www.jianshu.com/p/6594d5a9ebfa)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[上手试了快手的视频AI，我发现它竟然有点领先。。。](https://www.woshipm.com/ai/6070312.html)|
+||[开源大模型和闭源大模型，打法有何区别？](https://www.woshipm.com/ai/6069906.html)|
+||[必须了解的8大AI术语](https://www.woshipm.com/ai/6070309.html)|
 |[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[windows10有没有好用的窗口管理工具？](https://segmentfault.com/q/1010000044966815)|
 ||[未能加载文件或程序集“AjaxPro.2”或它的某一个依赖项,这怎么解决？](https://segmentfault.com/q/1010000044966537)|
 |[反斗限免](http://free.apprcn.com/feed/)|[Multiple Camera Monitor – 多重摄像头监控工具 Windows $19.9→0 ](https://free.apprcn.com/multiple-camera-monitor-4/)|
