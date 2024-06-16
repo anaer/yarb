@@ -2,6 +2,94 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[晋控煤业：董事长唐军华因个人原因辞职](https://www.36kr.com/newsflashes/2822274548173321)|
+||[中国神华：5月商品煤产量2740万吨，同比增长1.9%](https://www.36kr.com/newsflashes/2822273303923207)|
+||[芯源微：多名股东拟合计减持不超过0.721%股份](https://www.36kr.com/newsflashes/2822271161371139)|
+||[上海市政府参事室与中国商飞公司签订合作备忘录](https://www.36kr.com/newsflashes/2822214311774725)|
+||[中信证券：三大信号仍待验证 三季度有望迎来拐点](https://www.36kr.com/newsflashes/2822213135452423)|
+||[太和水：上海华翀拟协议转让5.94%的股份予明桥基金](https://www.36kr.com/newsflashes/2822272166464006)|
+||[建车B：公司股票已连续20个交易日每日收盘市值低于3亿元](https://www.36kr.com/newsflashes/2822212590307843)|
+||[两连板先锋电子：内外部经营环境未发生重大变化](https://www.36kr.com/newsflashes/2822211646638336)|
+||[宇瞳光学：全资子公司拟2.35亿元收购玖洲光学80%股权](https://www.36kr.com/newsflashes/2822210425391365)|
+||[两连板北京科锐：近期公司经营情况及内外部经营环境未发生重大变化](https://www.36kr.com/newsflashes/2822209469958665)|
+||[滴滴宣布为全国274城司机发6亿高温补贴，为期3个月](https://www.36kr.com/newsflashes/2822233576016128)|
+||[韩总理：扩招政策难以废除，请医生撤回停诊计划](https://www.36kr.com/newsflashes/2822208446204168)|
+||[两连板晨丰科技：生产经营情况正常，内外部经营环境未发生重大变化](https://www.36kr.com/newsflashes/2822207531469058)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[Hostslick.com Grab the best priced NL VPS now! 60% discount + DOUBLE what you want!!! + MOARR!! via Offers — LowEndTalk author: HostSlick ](https://t.me/liyuans/46825)|
+||[🔁 📣CloudIPLC-618限量主机 限量10台，售完为止，机会难得，不要错过 ⭐️HK-CMI-618款 核心：1 vCPU 内存：2 GB 硬盘：20GB SSD 地址：IPv4*1 流量：618 G...](https://t.me/liyuans/46824)|
+||[RoboVPS®: FTP server/backup from 2₽ per 1 GB via Offers — LowEndTalk author: rustelekom ](https://t.me/liyuans/46823)|
+||[楠云新上线湖南移动共享带宽 4c 4g 1000 Mbps 30TB 仅需799 4c 4g 1000 Mbps 60TB 仅需1399 购买地址：https://www.phoebecloud.com/cart?fid=1&gid=19 佛山移动...](https://t.me/liyuans/46822)|
+||[https://i3.mjj.rip/2024/06/16/15760def51e429ef3d2121daed72d239.png 欧亚云年中促销，129元/年，原生IP，48H无条件退款 购买链接：https://www.ouyayun.com/c...](https://t.me/liyuans/46821)|
+||[KhanWebHost Now Buy KVM/OVZ VPS in 12 different locations Happy EID! + Free Upgrade to 10Gbps via Offers — LowEndTalk author: AK_KWH ](https://t.me/liyuans/46820)|
+||[Hostaddon.com VPS EU/USA/ASIA Offshore 1 Gbit SSD NVMe Enterprise, Storage Upto 50% Off via Offers — LowEndTalk author: HostAddon ](https://t.me/liyuans/46819)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[抖音支付来了，中国人民银行批准合众易宝更名](https://www.ithome.com/0/775/611.htm)|
+||[广州一酒店 Wi-Fi 费“一天 110 元”引热议，你能接受住店网络单独收费吗](https://www.ithome.com/0/775/610.htm)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[港零售管理协会主席：料全年零售额录低双位数跌幅](https://www.zaobao.com/realtime/china/story20240616-3934543)|
+||[四川多地要求政务新媒体提质](https://www.zaobao.com/realtime/china/story20240616-3934636)|
+||[吉利告赢威马 赔偿金额创中国知识产权侵权赔偿纪录](https://www.zaobao.com/realtime/china/story20240616-3934822)|
+||[中国女排主教练蔡斌：真正对决在巴黎](https://www.zaobao.com/realtime/china/story20240616-3934383)|
+||[台立院来临周五表决复议案 蓝绿支持者将在青岛东路对阵](https://www.zaobao.com/realtime/china/story20240616-3934989)|
+||[国泰航空7月起下调部分目的地客运燃油附加费](https://www.zaobao.com/realtime/china/story20240616-3934826)|
+||[马办回应赖清德讲话：台湾人民需要避战总统而非引战总统](https://www.zaobao.com/realtime/china/story20240616-3934880)|
+||[涉千人计划被判刑美科学家 7月到港大商讨工作机会](https://www.zaobao.com/realtime/china/story20240616-3934977)|
+||[香港或效仿新加坡在特定区域完全禁烟](https://www.zaobao.com/realtime/china/story20240616-3934710)|
+||[美驻华大使：美国反对北京支持普京在乌克兰进行残酷战争](https://www.zaobao.com/realtime/china/story20240616-3934637)|
+||[赖清德：不得接受“首战即终战”投降主义](https://www.zaobao.com/realtime/china/story20240616-3934486)|
+||[教师抢救病人致上课迟到被罚 南方医科大学：正了解核实](https://www.zaobao.com/realtime/china/story20240616-3934465)|
+||[台外交部感谢G7首次将支持台湾有意义参加国际组织纳入公报](https://www.zaobao.com/realtime/china/story20240616-3934358)|
+||[澳门以从事危害公共安全活动为由拒绝港中大讲师入境](https://www.zaobao.com/realtime/china/story20240616-3934149)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[1992年在法国安装的太阳能电池板被发现保留了79%的原始输出功率](https://m.cnbeta.com.tw/view/1434952.htm)|
+||[全中国熬夜看欧洲杯的球迷 都被这个东西硬控了2分钟](https://m.cnbeta.com.tw/view/1434950.htm)|
+||[法国法院下令谷歌/CloudFlare/思科公共DNS屏蔽盗版网站](https://m.cnbeta.com.tw/view/1434948.htm)|
+||[iPad Pro瘦身大获成功之后 苹果计划推出最薄iPhone 17和MacBook Pro设计](https://m.cnbeta.com.tw/view/1434946.htm)|
+||[Windows 11 KB5039319测试中 添加了开始菜单跳转列表和新的Spotlight UI](https://m.cnbeta.com.tw/view/1434945.htm)|
+||[一些应用程序会跟踪你的驾驶习惯 并将这些信息卖给保险公司](https://m.cnbeta.com.tw/view/1434943.htm)|
+||[祥硕公开展示USB4 v2主控方案：160Gbps带宽四倍于USB4](https://m.cnbeta.com.tw/view/1434942.htm)|
+||[传vivo被迫出售印度子公司洽谈已到后期](https://m.cnbeta.com.tw/view/1434941.htm)|
+||[PCIe 5.0 SSD终于要便宜了 群联E31T主控无缓存能跑12GB/s](https://m.cnbeta.com.tw/view/1434940.htm)|
+||[高通公布骁龙X GPU架构细节：性能超67％、功耗低62％](https://m.cnbeta.com.tw/view/1434938.htm)|
+||[AMD RDNA3.5核显跑分喜人 非常接近RTX 2050](https://m.cnbeta.com.tw/view/1434937.htm)|
+||[Fedora在扩大AI应用、简化AMD ROCm PyTorch加速方面取得进展](https://m.cnbeta.com.tw/view/1434935.htm)|
+||[Intel、AMD新笔记本首发不支持Copilot+ 高通骁龙独享](https://m.cnbeta.com.tw/view/1434934.htm)|
+||[ASML公布Hyper NA EUV光刻机 可量产0.2nm工艺](https://m.cnbeta.com.tw/view/1434933.htm)|
+||[新哈弗H6将于6月19日上市 两种动力可供选择](https://m.cnbeta.com.tw/view/1434931.htm)|
+||[特斯拉计划出租人形机器人Optimus 未来有望达200亿个](https://m.cnbeta.com.tw/view/1434930.htm)|
+||[微软修复Wi-Fi驱动高危漏洞 影响Windows所有版本 可通过局域网发起攻击](https://m.cnbeta.com.tw/view/1434929.htm)|
+||[涉嫌“刷好评” 韩国最大电商平台或被罚1400亿韩元](https://m.cnbeta.com.tw/view/1434928.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我遭遇了诈骗和威胁](https://www.v2ex.com/t/1050019#reply59)|
+||[ 问与答 小白，问一下如何快速发布一个 html 的静态页面到互联网上](https://www.v2ex.com/t/1050008#reply17)|
+||[ 生活 如何投诉美团外卖部分外卖员嫌电梯排队人多不送上门？](https://www.v2ex.com/t/1050004#reply13)|
+||[ 职场话题 马上过试用期，发现 boss 上重新上架了我的岗位](https://www.v2ex.com/t/1050002#reply13)|
+||[ Python 这段 Python 代码执行后居然会关机](https://www.v2ex.com/t/1049996#reply11)|
+||[ 职场话题 就是想不明白，如果落实劳动法，会变成什么样？](https://www.v2ex.com/t/1049995#reply89)|
+||[ 生活 如何避免因为看到某些场景回忆起自己难堪的经历](https://www.v2ex.com/t/1049993#reply13)|
+||[ Apple 提问：关于 IOS 18 的 AI 更新，为什么会有人觉得不厉害？](https://www.v2ex.com/t/1049986#reply36)|
+||[ 宽带症候群 有没有大佬还在用 4G 的，你们的 4G 变慢了吗？](https://www.v2ex.com/t/1049983#reply20)|
+||[ MacBook Pro 这个时间节点,有必要等 M4 的 MacBookpro 吗?](https://www.v2ex.com/t/1049981#reply22)|
+||[ 问与答 请教下如何开启谷歌地图的 Timeline](https://www.v2ex.com/t/1049978#reply18)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[星舰看起来很简单，可不可能借鉴过来，然后弯道超车？](https://www.zhihu.com/question/658888363/answer/3532614856)|
+||[24岁和男友一起6年，是选择爱情还是面包？](https://www.zhihu.com/question/658758008/answer/3532608748)|
+||[以色列军方宣布在加沙南部实行「战术暂停」，目前当地局势如何？](https://www.zhihu.com/question/659065277/answer/3532597774)|
+||[哈佛校友喊话姜萍和面试官聊聊，称若上哈佛不用担心学费，姜萍能去哈佛吗？国内外数学教育体系有哪些不同？](https://www.zhihu.com/question/658994007/answer/3532602617)|
+||[涟水17岁中专少女的数学水平为什么到目前为止没有一个公认的评价，反而有很多质疑的声音？](https://www.zhihu.com/question/659055314/answer/3532596139)|
+||[2024 LCK 夏季赛常规赛焦点战 GEN 2:0 战胜 T1，如何评价这场比赛？](https://www.zhihu.com/question/659081511/answer/3532595577)|
+||[28岁博士毕业工资4w，给26岁已经工作几年月薪6k的妹妹每个月5k块，女朋友跟我生气，我有错吗?](https://www.zhihu.com/question/659066001/answer/3532590687)|
+||[作为职场新人，当领导交代任务没听懂时，是直接和领导表达「听不懂」还是去问同事？](https://www.zhihu.com/question/658821475/answer/3532587924)|
+||[男子卧铺车上脱衣面对女乘客裸睡，被警方行拘 5 日，列车卧铺有没有办法杜绝此类事情？](https://www.zhihu.com/question/659061613/answer/3532575383)|
+||[2024 欧洲杯波兰 1:2荷兰，如何评价这场比赛？](https://www.zhihu.com/question/659090395/answer/3532525295)|
+||[如果浙大不愿意录取姜萍，最终她被哈佛 麻省破格录取了，你将会有什么想法？](https://www.zhihu.com/question/659086762/answer/3532558405)|
+||[如何评价鸣潮开服仅24天，跌至畅销榜百名？](https://www.zhihu.com/question/659058358/answer/3532534103)|
+||[如何评价原神4.7新深渊？](https://www.zhihu.com/question/659055634/answer/3532508167)|
+||[成都地铁被诬陷偷拍案当事人将直播带货，称「我是在做一件有意义且正面的事情，带货也是」，如何看待此事？](https://www.zhihu.com/question/659057126/answer/3532455429)|
+||[高中到底是主科重要还是副科重要？](https://www.zhihu.com/question/657227317/answer/3532453638)|
+||[报道称沙特决定不再与美国续签已有数十年历史的石油美元协议，相关搜索量飙升，真相究竟如何？](https://www.zhihu.com/question/659050984/answer/3532416400)|
+||[韩媒称「拒绝晋升」成韩国职场新趋势，员工为什么专注于维持现状？晋升会给他们带来什么？](https://www.zhihu.com/question/659052997/answer/3532406442)|
+||[各地开展招聘活动，岗位面向多层次人才，求职中毕业生有哪些问题需要注意？如何找工作不「踩坑」？](https://www.zhihu.com/question/658705224/answer/3532332549)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/8058064790/293980358)|
+||[](https://xueqiu.com/9887656769/293957637)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[当女患者遇到女医生，结果相当不错｜好消息合集](https://www.guokr.com/article/465618/)|
+|[海交史](https://www.haijiaoshi.com/feed)|[“中國歷史地名查詢系統”使用指南](https://www.haijiaoshi.com/archives/11848?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25b8%25ad%25e5%259c%258b%25e6%25ad%25b7%25e5%258f%25b2%25e5%259c%25b0%25e5%2590%258d%25e6%259f%25a5%25e8%25a9%25a2%25e7%25b3%25bb%25e7%25b5%25b1%25e4%25bd%25bf%25e7%2594%25a8%25e6%258c%2587%25e5%258d%2597)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[启发了很多学者的学者，阿马蒂亚·森提供了看增长的其他视角，不止数字丨晚点周末](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247517283&idx=1&sn=40281ea103dba2dd4b3e2234ab127a0d)|
 |[一起偷偷观察 DIYgod - Te...](https://rsshub.app/telegram/channel/awesomeDIYgod)|[🐦 #DIYgod的Twitter更新 似乎发现了一种新的 Twitter 大批量抓取的方法，正在进一步测试中 🤫 传送门](https://t.me/awesomeDIYgod/6438)|
 ||[🐦 #DIYgod的Twitter更新 Re @scavenger869 @strrlthedev 我还在王城下水道受苦 传送门](https://t.me/awesomeDIYgod/6437)|
 ||[🐦 #DIYgod的Twitter更新 Re @__oQuery 推特发太少了 传送门](https://t.me/awesomeDIYgod/6436)|
