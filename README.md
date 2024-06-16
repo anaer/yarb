@@ -2,6 +2,64 @@
 
 |来源|标题|
 |---|---|
+|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[NX30Pro 刷成 Openwrt-ImmortalWrt 后作为有线中继的配置方法](https://nicksxs.me/2024/06/16/NX30Pro-%E5%88%B7%E6%88%90-Openwrt-ImmortalWrt-%E5%90%8E%E4%BD%9C%E4%B8%BA%E6%9C%89%E7%BA%BF%E4%B8%AD%E7%BB%A7%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/)|
+||[向量数据库学习基础之跳表](https://nicksxs.me/2024/06/16/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E4%B9%8B%E8%B7%B3%E8%A1%A8/)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自建 docker 代理一些方法参考 备忘供各位使用 ](https://www.v2ex.com/t/1049889#reply14)|
+||[google 是打算放弃搜索业务了吗，不管搜什么关键词都是只有几百条结果，而且大都牛头不对马嘴](https://www.v2ex.com/t/1049910#reply27)|
+||[大佬们帮我参谋一下要不要换到安卓平台](https://www.v2ex.com/t/1049942#reply25)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（五）](http://www.seis-jun.xyz/paper-reading-5)|
+||[文献阅读（四）](http://www.seis-jun.xyz/paper-reading-4)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[Angular Elements：将Angular组件作为Web组件使用](https://juejin.cn/post/7380579037113696306)|
+||[不要再说搞不清 React 架构了（下）](https://juejin.cn/post/7380510171641348108)|
+||[谷歌官方博客：深入了解现代浏览器系列（其二）](https://juejin.cn/post/7380296428143460352)|
+||[谷歌官方博客：深入了解现代浏览器系列（其一）](https://juejin.cn/post/7380296428143394816)|
+||[用于面试快速实现的简化版节流防抖实用场景——翻译搜索器，图片懒加载](https://juejin.cn/post/7380510171641217036)|
+||[事件循环机制解密：解锁JavaScript异步编程的高效之路](https://juejin.cn/post/7380645714931712063)|
+||[超硬核五千字！彻底讲明白JavaScript中的异步和同步，以及JavaScript代码执行顺序](https://juejin.cn/post/7380296247721050147)|
+||[源码学习——lodash 九 ](https://juejin.cn/post/7380579033547374629)|
+||[使用defer和async高效加载JavaScript](https://juejin.cn/post/7380510171641118732)|
+||[React19 为我们带来了什么？](https://juejin.cn/post/7380650414414807074)|
+||[Solidity语言中的继承](https://juejin.cn/post/7380579037113352242)|
+||[这不是为难我吗 又要我手写一个call？](https://juejin.cn/post/7380650414414790690)|
+||[Webpack5基础配置及性能优化](https://juejin.cn/post/7380579040824786982)|
+||[让你的网页动起来 - 轻松实现 JavaScript 拖拽功能](https://juejin.cn/post/7380579040824754214)|
+||[谷歌地图多边形与右键菜单](https://juejin.cn/post/7380292749180534799)|
+||[基于Vue设计一个动态表格](https://juejin.cn/post/7380357384776630322)|
+||[HarmonyOS 鸿蒙 ArkTs 自定义组件插槽](https://juejin.cn/post/7380296247720755235)|
+||[开源项目分析 - 前端 - ragbot-starter](https://juejin.cn/post/7380292749180387343)|
+||[从0开始的前端项目部署，以vue项目为例的手动部署](https://juejin.cn/post/7380579033547210789)|
+||[我为什么喜欢使用tailwindcss/unocss](https://juejin.cn/post/7380510171640758284)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[广西22条河流30个站出现超警洪水](http://society.people.com.cn/n1/2024/0616/c1008-40257578.html)|
+||[河北小麦收割步入尾声 夏播玉米超七成](http://finance.people.com.cn/n1/2024/0616/c1004-40257576.html)|
+||[福建11条河流出现超警、超保洪水](http://society.people.com.cn/n1/2024/0616/c1008-40257573.html)|
+||[国家医保局统一规范产科类医疗服务价格项目](http://society.people.com.cn/n1/2024/0616/c1008-40257564.html)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[法国极右翼领袖勒庞：若赢议会选举不会推翻马克龙](https://www.zaobao.com/realtime/world/story20240616-3935619)|
+||[普京不排除与乌克兰会谈 但需保证谈判可信度](https://www.zaobao.com/realtime/world/story20240616-3935402)|
+||[马国取消柴油补贴 私枭走私RON95汽油](https://www.zaobao.com/realtime/world/story20240616-3935464)|
+||[民调：英国首相苏纳克将在大选中惨败](https://www.zaobao.com/realtime/world/story20240616-3935306)|
+||[俄特种部队救出两狱警 挟持者被击毙](https://www.zaobao.com/realtime/world/story20240616-3935218)|
+||[哈尼亚：哈马斯对加沙停火协议回应 与拜登提出原则一致](https://www.zaobao.com/realtime/world/story20240616-3935179)|
+||[韩国总理韩悳洙：难废除扩招政策](https://www.zaobao.com/realtime/world/story20240616-3935030)|
+||[俄六名支持ISIS囚犯挟持两狱警](https://www.zaobao.com/realtime/world/story20240616-3934702)|
+||[泰参院将批准法案 承认同性婚姻](https://www.zaobao.com/realtime/world/story20240616-3934627)|
+||[以军：白天“战术暂停”加沙南部军事行动](https://www.zaobao.com/realtime/world/story20240616-3934202)|
+||[美国密歇根州一水上乐园发生大规模枪击 酿九伤](https://www.zaobao.com/realtime/world/story20240616-3933925)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中专盼数学老爷爷，清北高材生难当教师](https://www.huxiu.com/article/3143481.html?f=rss)|
+||[转手十倍利润，在国外修手机能这么赚钱？](https://www.huxiu.com/article/3143207.html?f=rss)|
+||[中专女生姜萍火了，想起我30年前考中专落榜](https://www.huxiu.com/article/3143225.html?f=rss)|
+||[高考后的暑假，为什么我建议你去打工？](https://www.huxiu.com/article/3143205.html?f=rss)|
+||[学校里的羞耻教育：是激励还是打击？](https://www.huxiu.com/article/3142900.html?f=rss)|
+||[加速老旧小区电梯加装，要做好利益平衡](https://www.huxiu.com/article/3143220.html?f=rss)|
+||[免费“赠送”惠州房产的深圳人](https://www.huxiu.com/article/3142907.html?f=rss)|
+||[爱你的人，为什么也会出轨？](https://www.huxiu.com/article/3142898.html?f=rss)|
+||[国产谷子崛起：中国的二次元生意走到哪步了？](https://www.huxiu.com/article/3136070.html?f=rss)|
+||[找工作、相亲，00后流行花钱上地铁广告](https://www.huxiu.com/article/3141990.html?f=rss)|
+||[黑芝麻智能港股上市求援：三年亏百亿](https://www.huxiu.com/article/3142383.html?f=rss)|
+||[5月末M1同比降4.2% 企业资金活化低](https://www.huxiu.com/article/3142381.html?f=rss)|
+||[踩坑踩到哭，租房如何快速鉴别串串房？](https://www.huxiu.com/article/3131286.html?f=rss)|
+||[一座电厂的改造与新生](https://www.huxiu.com/article/3141985.html?f=rss)|
+||[生育率暴跌后，日本年轻人成职场“香饽饽”](https://www.huxiu.com/article/3141983.html?f=rss)|
+||[不懂电脑的年轻人，为什么越来越多？](https://www.huxiu.com/article/3137483.html?f=rss)|
 |[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[HeHeDa: @无聊图](http://i.jandan.net/t/5699298)|
 ||[HeHeDa: @无聊图](http://i.jandan.net/t/5699297)|
 ||[骸客地瓜: @无聊图](http://i.jandan.net/t/5699272)|
