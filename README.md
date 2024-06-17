@@ -2,6 +2,78 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[阿里巴巴：努力成为社会力量助力乡村振兴的示范](https://www.infzm.com/contents/273518)|
+||[“河水改道，把我们村一分为二”，当地撑船解救“孤岛”高陂村](https://www.infzm.com/contents/273532)|
+||[善择ESG风险跟踪第37期｜247家公司暴露ESG风险，爱康科技涉嫌信披违规被立案调查](https://www.infzm.com/contents/273520)|
+||[小茶铺的小两口 日常的史诗](https://www.infzm.com/contents/273491)|
+||[暴雨致梅州多地受灾严重，最新情况通报](https://www.infzm.com/contents/273526)|
+||[“根本就没有古希腊古罗马古埃及”？黄河清和他眼中的“西方伪史论”](https://www.infzm.com/contents/273503)|
+||[新工人文学：在大时代为无名劳动者留下存在的痕迹](https://www.infzm.com/contents/273426)|
+|[卢昌海个人主页](https://www.changhai.org/feed.xml)|[最新微博：2024 年 6 月 17 日](https://www.changhai.org/articles/miscellaneous/blog/202406.php#latest)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[商务部回应对原产于欧盟的进口相关猪肉及猪副产品发起反倾销调查](http://finance.people.com.cn/n1/2024/0617/c1004-40258416.html)|
+||[2024年退休人员基本养老金上调3%](http://finance.people.com.cn/n1/2024/0617/c1004-40258407.html)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[俄罗斯将对《华尔街日报》记者格什科维奇进行秘密庭审](https://cn.wsj.com/amp/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E5%AF%B9-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E8%AE%B0%E8%80%85%E6%A0%BC%E4%BB%80%E7%A7%91%E7%BB%B4%E5%A5%87%E8%BF%9B%E8%A1%8C%E7%A7%98%E5%AF%86%E5%BA%AD%E5%AE%A1-a4a63c3d)|
+||[阿迪达斯调查在中国的潜在违规行为](https://cn.wsj.com/amp/articles/%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%B0%83%E6%9F%A5%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%BD%9C%E5%9C%A8%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA-0dac8aea)|
+||[中东如何成为广告业务最新“淘金地”？](https://cn.wsj.com/amp/articles/%E4%B8%AD%E4%B8%9C%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%B9%BF%E5%91%8A%E4%B8%9A%E5%8A%A1%E6%9C%80%E6%96%B0-%E6%B7%98%E9%87%91%E5%9C%B0-d40acd87)|
+||[中国将把澳大利亚纳入单方面免签国家范围](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%8A%8A%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%BA%B3%E5%85%A5%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE%E5%9B%BD%E5%AE%B6%E8%8C%83%E5%9B%B4-b55a25b0)|
+||[科技业寄望于AI，问题是消费者准备好掏钱了吗？](https://cn.wsj.com/amp/articles/%E7%A7%91%E6%8A%80%E4%B8%9A%E5%AF%84%E6%9C%9B%E4%BA%8Eai-%E9%97%AE%E9%A2%98%E6%98%AF%E6%B6%88%E8%B4%B9%E8%80%85%E5%87%86%E5%A4%87%E5%A5%BD%E6%8E%8F%E9%92%B1%E4%BA%86%E5%90%97-ceb338e1)|
+||[富国银行押宝一款时髦的房租信用卡，但正为此付出高昂代价](https://cn.wsj.com/amp/articles/%E5%AF%8C%E5%9B%BD%E9%93%B6%E8%A1%8C%E6%8A%BC%E5%AE%9D%E4%B8%80%E6%AC%BE%E6%97%B6%E9%AB%A6%E7%9A%84%E6%88%BF%E7%A7%9F%E4%BF%A1%E7%94%A8%E5%8D%A1-%E4%BD%86%E6%AD%A3%E4%B8%BA%E6%AD%A4%E4%BB%98%E5%87%BA%E9%AB%98%E6%98%82%E4%BB%A3%E4%BB%B7-6dcd0778)|
+||[华晨中国股价跳涨，宣派特别股息令投资者雀跃](https://cn.wsj.com/amp/articles/%E5%8D%8E%E6%99%A8%E4%B8%AD%E5%9B%BD%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B6%A8-%E5%AE%A3%E6%B4%BE%E7%89%B9%E5%88%AB%E8%82%A1%E6%81%AF%E4%BB%A4%E6%8A%95%E8%B5%84%E8%80%85%E9%9B%80%E8%B7%83-158d507a)|
+||[480亿美元给特斯拉投资者带来什么？那个熟悉的马斯克回来了](https://cn.wsj.com/amp/articles/480%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BB%99%E7%89%B9%E6%96%AF%E6%8B%89%E6%8A%95%E8%B5%84%E8%80%85%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88-%E9%82%A3%E4%B8%AA%E7%86%9F%E6%82%89%E7%9A%84%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E6%9D%A5%E4%BA%86-f61a329d)|
+||[法国数十万人抗议极右翼政党国民联盟](https://cn.wsj.com/amp/articles/%E6%B3%95%E5%9B%BD%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E6%8A%97%E8%AE%AE%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%94%BF%E5%85%9A%E5%9B%BD%E6%B0%91%E8%81%94%E7%9B%9F-2b34e487)|
+||[国内局势动荡之际，伊朗与瑞典互释在押对方人员](https://cn.wsj.com/amp/articles/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8A%A8%E8%8D%A1%E4%B9%8B%E9%99%85-%E4%BC%8A%E6%9C%97%E5%92%8C%E7%91%9E%E5%85%B8%E4%BA%92%E9%87%8A%E5%9C%A8%E6%8A%BC%E5%AF%B9%E6%96%B9%E4%BA%BA%E5%91%98-32dbc88f)|
+||[雷石东家族掌控下，派拉蒙市值恐继续打折](https://cn.wsj.com/amp/articles/%E9%9B%B7%E7%9F%B3%E4%B8%9C%E5%AE%B6%E6%97%8F%E6%8E%8C%E6%8E%A7%E4%B8%8B-%E6%B4%BE%E6%8B%89%E8%92%99%E5%B8%82%E5%80%BC%E6%81%90%E7%BB%A7%E7%BB%AD%E6%89%93%E6%8A%98-6cf701e8)|
+||[中国5月消费增速加快，工业增加值和投资增速均放缓](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E5%8A%A0%E5%BF%AB-%E5%B7%A5%E4%B8%9A%E5%A2%9E%E5%8A%A0%E5%80%BC%E5%92%8C%E6%8A%95%E8%B5%84%E5%A2%9E%E9%80%9F%E6%94%BE%E7%BC%93-d5c242e6)|
+||[美股异常平静，是否暗流涌动？](https://cn.wsj.com/amp/articles/%E7%BE%8E%E8%82%A1%E5%BC%82%E5%B8%B8%E5%B9%B3%E9%9D%99-%E6%98%AF%E5%90%A6%E6%9A%97%E6%B5%81%E6%B6%8C%E5%8A%A8-929eb3fa)|
+||[特拉华州成为特斯拉股东投票的大输家](https://cn.wsj.com/amp/articles/%E7%89%B9%E6%8B%89%E5%8D%8E%E5%B7%9E%E6%88%90%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E6%8A%95%E7%A5%A8%E7%9A%84%E5%A4%A7%E8%BE%93%E5%AE%B6-6ea2e829)|
+||[中国5月份新建住宅价格再次下跌](https://cn.wsj.com/amp/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E4%BB%BD%E6%96%B0%E5%BB%BA%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C-ff9539f6)|
+||[日本芯片设备生产商Disco乘上AI东风](https://cn.wsj.com/amp/articles/%E6%97%A5%E6%9C%AC%E8%8A%AF%E7%89%87%E8%AE%BE%E5%A4%87%E7%94%9F%E4%BA%A7%E5%95%86disco%E4%B9%98%E4%B8%8Aai%E4%B8%9C%E9%A3%8E-980aa203)|
+||[以色列将在加沙南部实行每日战术停火，以放行更多人道物资](https://cn.wsj.com/amp/articles/%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8%E5%AE%9E%E8%A1%8C%E6%AF%8F%E6%97%A5%E6%88%98%E6%9C%AF%E5%81%9C%E7%81%AB-%E4%BB%A5%E6%94%BE%E8%A1%8C%E6%9B%B4%E5%A4%9A%E4%BA%BA%E9%81%93%E7%89%A9%E8%B5%84-e010707b)|
+||[苹果给予银行借力Apple Pay拓展信用卡业务的机会](https://cn.wsj.com/amp/articles/%E8%8B%B9%E6%9E%9C%E7%BB%99%E4%BA%88%E9%93%B6%E8%A1%8C%E5%80%9F%E5%8A%9Bapple-pay%E6%8B%93%E5%B1%95%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B8%9A%E5%8A%A1%E7%9A%84%E6%9C%BA%E4%BC%9A-10c051ab)|
+||[激进投资者Starboard Value入股欧特克，欲推动变革](https://cn.wsj.com/amp/articles/%E6%BF%80%E8%BF%9B%E6%8A%95%E8%B5%84%E8%80%85starboard-value%E5%85%A5%E8%82%A1%E6%AC%A7%E7%89%B9%E5%85%8B-%E6%AC%B2%E6%8E%A8%E5%8A%A8%E5%8F%98%E9%9D%A9-fa3f4612)|
+||[上美国这些州立大学，最有希望获得正回报](https://cn.wsj.com/amp/articles/%E4%B8%8A%E7%BE%8E%E5%9B%BD%E8%BF%99%E4%BA%9B%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6-%E6%9C%80%E6%9C%89%E5%B8%8C%E6%9C%9B%E8%8E%B7%E5%BE%97%E6%AD%A3%E5%9B%9E%E6%8A%A5-9f354026)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[高通骁龙X笔记本现已上市 首款完全符合微软Copilot+标准的AI电脑](https://m.cnbeta.com.tw/view/1435078.htm)|
+||[Linux引入DRM Panic处理程序基础架构 "蓝屏死机"进入实战阶段](https://m.cnbeta.com.tw/view/1435077.htm)|
+||[英特尔入股立讯精密 将有助立讯打开北美AI服务器市场](https://m.cnbeta.com.tw/view/1435073.htm)|
+||[全球第一款RTX 4070 ITX迷你卡诞生 单风扇无压力](https://m.cnbeta.com.tw/view/1435072.htm)|
+||[PCIe 7.0首次引入光学部件 满血带宽高达512GB/s](https://m.cnbeta.com.tw/view/1435071.htm)|
+||[摄影师用真实照片赢得AI图像竞赛 被取消资格](https://m.cnbeta.com.tw/view/1435070.htm)|
+||[应用内资源显示三星Galaxy Buds3可能会用捏和挤手势取代触控功能](https://m.cnbeta.com.tw/view/1435069.htm)|
+||[韩国200多年前的画像被盗 内容是诸葛亮七擒孟获](https://m.cnbeta.com.tw/view/1435068.htm)|
+||[教育部首次上线高考志愿信息系统 免费帮高考生填报志愿](https://m.cnbeta.com.tw/view/1435067.htm)|
+||[美国医务总监希望给社交媒体上贴上类似烟草的警告标签](https://m.cnbeta.com.tw/view/1435066.htm)|
+||[法拉利CEO：不会放弃内燃机 要给客户更多选择](https://m.cnbeta.com.tw/view/1435064.htm)|
+||[越南五条海底互联网电缆中有三条出现故障](https://m.cnbeta.com.tw/view/1435062.htm)|
+||[一套价值240万美元的得克萨斯州住宅正在出售 送一套浸入式液体冷却系统](https://m.cnbeta.com.tw/view/1435061.htm)|
+||[Linux将采用英特尔CPU混合拓扑结构来确定漏洞/触发点](https://m.cnbeta.com.tw/view/1435060.htm)|
+||[将Fedora KDE Plasma Mobile移植到Fedora 41的变更建议已提交](https://m.cnbeta.com.tw/view/1435059.htm)|
+||[iOS 18测试版开始支持基本的RCS功能 但有一些需要注意的地方](https://m.cnbeta.com.tw/view/1435058.htm)|
+||[国产车攻占澳洲 澳大利亚超80%在售电动车是中国制造](https://m.cnbeta.com.tw/view/1435057.htm)|
+||[全球首台警用版Cybertruck现身迪拜 将用于日常巡逻](https://m.cnbeta.com.tw/view/1435056.htm)|
+||[直播带货女装退货率超90%是常态 电商卖家怨声载道](https://m.cnbeta.com.tw/view/1435055.htm)|
+||[酷冷至尊推出被动式散热电源 加厚外壳、近乎零噪音](https://m.cnbeta.com.tw/view/1435054.htm)|
+||[现实中京东到底什么手机卖得好？和网上说的真不一样](https://m.cnbeta.com.tw/view/1435053.htm)|
+||[宁德时代：“奋斗100天”文件属实 尚未正式传达](https://m.cnbeta.com.tw/view/1435052.htm)|
+||[Google Pixel 9 Pro XL 在 Geekbench 上首次曝光](https://m.cnbeta.com.tw/view/1435051.htm)|
+||[首批realme GT6海外运输途中被盗 realme官方致歉](https://m.cnbeta.com.tw/view/1435050.htm)|
+||[三星宣布与新思科技合作优化2nm芯片 明年量产](https://m.cnbeta.com.tw/view/1435049.htm)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[开源日报 Arm为何手撕高通；武汉软件产业蓄势进发；HarmonyOS Next是系统级AI；iPhone 16会杀死大模型APP吗？](https://www.oschina.net/news/297673)|
+||[开发者直接复制 ChatGPT 生成的代码，导致公司损失 10000 美元](http://osc.cool/6KfpvVUM)|
+||[大模型参数高效微调（PEFT）技术解析及微调加速实践](https://my.oschina.net/u/5359019/blog/11206643)|
+||[OpenCloudOS 宣布适配 Linux 原生版微信](https://www.oschina.net/news/297631)|
+||[Zadig AI Pilot 实时助理更懂你，咱也用上了 GPT-4o！](https://my.oschina.net/koderover/blog/11209175)|
+||[Docker 报告：开发人员对安全任务望而生畏，希望有更好的工具](https://www.oschina.net/news/297612/docker-2024-state-of-application-development-report)|
+||[英伟达开源“巨无霸”系列模型：3400 亿参数、性能对标 GPT-4o](http://osc.cool/6g7UtxLV)|
+||[周鸿祎辟谣：小鸟壁纸不是 360 产品](https://www.oschina.net/news/297585)|
+||[OpenAI 可能成为营利性公司](https://www.oschina.net/news/297581/openai-ceo-says-company-could-become-a-for-profit-corporation)|
+||[印度IT工程师被解雇后删了前东家180台服务器、造成几百万损失](http://osc.cool/E3imWCPx)|
+||[携程开源 JavaScript 代码覆盖率工具 Canyon](https://www.oschina.net/news/297574)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[做直播电商的伙伴，推荐大家一个行业大佬——尹晨。 他四年多直播电商行业行业的操盘实战记录，还有思考内容，最近两周在读他的文档，让我学习到很多，就是内容...](https://m.okjike.com/originalPosts/666fd92a9e2e9fda02f1e09e)|
+||[案例十七：被同学踢出公司 和男朋友的同学一起创业，天使投资、项目、推广都是我们负责，对方就拉了两个开发一个 UI。 我男朋友是那种心肠软的傻白甜,他同学技术...](https://m.okjike.com/originalPosts/666fd0be19d274e296d7fcb0)|
+||[一个大需求（其实也没那么大）终于提测了，赶紧请研发喝奶茶给他们封印住，别再每天因为这那实现成本高找我改产品需求了。 选了霸王茶姬，发现研发点的都是「伯...](https://m.okjike.com/originalPosts/666fc843928d2cdfd5e6679f)|
+||[常见贴牌品牌，看到请绕行： 南极人 恒源祥 花花公子 太子龙 富贵鸟 稻草人 卡帝乐鳄鱼 猫人：内衣内裤是自己，别的都不是。 北极绒 红豆 大嘴猴 雅鹿 俞兆林 浪...](https://m.okjike.com/originalPosts/666fbb5343fa2da1c41aa50b)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[学会这十种提词模型，就可以“使唤”AI了](https://www.woshipm.com/aigc/6070815.html)|
+||[雷军神级营销，把保时捷价格直接打到了40万！](https://www.woshipm.com/marketing/6070774.html)|
 |[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[十四届全国人大常委会第十次会议定于25日至28日举行](https://m.thepaper.cn/detail/27761110)|
 ||[湖南隆回通报2名儿童掉入水坑溺亡：意外落水，已成立专班](https://m.thepaper.cn/detail/27761121)|
 ||[判决政府对福岛核事故不担责，日本高法时隔两年再遭民众抗议](https://m.thepaper.cn/detail/27761138)|
