@@ -2,6 +2,20 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[友讯 D-Link 修复了硬编码后门漏洞](https://www.solidot.org/story?sid=78451)|
+||[IT 行业显示了强劲增长势头](https://www.solidot.org/story?sid=78450)|
+||[蓝屏死机亮相 Linux](https://www.solidot.org/story?sid=78449)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[好好好，养了8年娃，我终于要承认自己&lt;不行&gt;了……](https://www.guokr.com/article/465621/)|
+|[沙雕普拉斯 沙雕新闻](https://shadiao.plus/feed)|[男子误机花6000从天津打车到西安](https://shadiao.plus/post/%e5%a5%87%e8%91%a9%e6%96%b0%e9%97%bb/2024/06/%e7%94%b7%e5%ad%90%e8%af%af%e6%9c%ba%e8%8a%b16000%e4%bb%8e%e5%a4%a9%e6%b4%a5%e6%89%93%e8%bd%a6%e5%88%b0%e8%a5%bf%e5%ae%89.html)|
+|[TecHug](http://www.techug.com/feed)|[【外评】程序员大神每天什么都是时候工作？](https://www.techug.com/post/at-what-time-of-day-do-famous-programmers-work/)|
+|[年华转瞬](https://blog.xiaket.org/feed.xml)|[暗黑破坏神四](https://xiaket.github.io/2024/diablo-4.html)|
+|[虎嗅](https://rss.huxiu.com/)|[广汽也想“掀桌子”了？](https://www.huxiu.com/article/3142911.html?f=rss)|
+||[在数字消费中植入传统文化](https://www.huxiu.com/article/3146786.html?f=rss)|
+||[长期经济增长的制度基础](https://www.huxiu.com/article/3146785.html?f=rss)|
+||[矿产资源法难改，土地财政再现](https://www.huxiu.com/article/3146783.html?f=rss)|
+||[茅台都跌惨了](https://www.huxiu.com/article/3146781.html?f=rss)|
+||[中专生姜萍，职业教育里的异数](https://www.huxiu.com/article/3146780.html?f=rss)|
+|[异次元软件世界](http://feed.iplaysoft.com/)|[夸克网盘 SVIP 会员优惠年卡 128 元！6TB 空间 / 一键转存](https://www.iplaysoft.com/p/quark-svip)|
 |[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[Omdia：2024 上半年中国可折叠 OLED 面板出货量将首次超越韩国三星](https://www.ithome.com/0/775/859.htm)|
 |[首页头条--人民网](https://plink.anyfeeder.com/people)|[王小洪:依法严厉打击涉农违法犯罪 以更高水平保障国家粮食安全](http://politics.people.com.cn/n1/2024/0617/c1001-40258520.html)|
 ||[水利部针对浙赣湘启动洪水防御Ⅳ级应急响应](http://society.people.com.cn/n1/2024/0617/c1008-40258489.html)|
