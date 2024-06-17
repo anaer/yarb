@@ -2,6 +2,145 @@
 
 |来源|标题|
 |---|---|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[十四届全国人大常委会第十次会议定于25日至28日举行](https://m.thepaper.cn/detail/27761110)|
+||[湖南隆回通报2名儿童掉入水坑溺亡：意外落水，已成立专班](https://m.thepaper.cn/detail/27761121)|
+||[判决政府对福岛核事故不担责，日本高法时隔两年再遭民众抗议](https://m.thepaper.cn/detail/27761138)|
+||[长三角议事厅·周报｜常泰长江大桥顺利合龙，创多项世界纪录](https://m.thepaper.cn/detail/27759581)|
+||[韩国500余名教授今起无限期停诊，占比达54.7%](https://m.thepaper.cn/detail/27761127)|
+||[一架波音客机从新西兰起飞后备降，疑似引擎起火](https://m.thepaper.cn/detail/27761117)|
+||[调查研究显示：老年人花费大量时间从事有酬和无酬劳动](https://m.thepaper.cn/detail/27760969)|
+||[黄仁勋毕业演讲现场打广告：我是好老板，欢迎来英伟达上班](https://m.thepaper.cn/detail/27760916)|
+||[暴雨致广东平远多地道路、通讯等中断，两段省道全封闭抢修](https://m.thepaper.cn/detail/27760982)|
+||[捷克军方一训练区发生弹药爆炸，现场有人受伤](https://m.thepaper.cn/detail/27760912)|
+||[揭付费内推黑幕：七八千“名企实习”，十几万“大厂上班”？](https://m.thepaper.cn/detail/27760898)|
+||[住建部原部长陈政高逝世，享年72岁](https://m.thepaper.cn/detail/27760828)|
+||[现场｜法老巨像、“绿脸棺”开箱现身上海博物馆](https://m.thepaper.cn/detail/27758061)|
+||[叶县冷藏车事故：家属称遇难8人均为女工，车厢被指载有货物和干冰](https://m.thepaper.cn/detail/27759691)|
+||[中国海警局就菲律宾侵闯仁爱礁发表谈话：强制驱离专业规范](https://m.thepaper.cn/detail/27760793)|
+||[教育部首次上线高考志愿信息系统，免费帮考生填报志愿](https://m.thepaper.cn/detail/27760752)|
+||[安徽宿州公示：拟录用一名斯坦福大学博士为所辖县乡镇公务员](https://m.thepaper.cn/detail/27760621)|
+||[习近平致信祝贺黄埔军校建校100周年暨黄埔军校同学会成立40周年](https://m.thepaper.cn/detail/27760778)|
+||[【社论】用依法征管化解“补税”争议](https://m.thepaper.cn/detail/27760735)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[万科A：“20万科06”将于2024年6月19日付息](https://www.36kr.com/newsflashes/2823805144615426)|
+||[拟筹划印度最大规模IPO，现代汽车股价创历史新高](https://www.36kr.com/newsflashes/2823787276700160)|
+||[欧洲多个组织“联名上书”：欧盟网络安全标签不应区别对待美国云巨头](https://www.36kr.com/newsflashes/2823786117499398)|
+||[三连板长城电工：公司主营业务未发生变化](https://www.36kr.com/newsflashes/2823784038910215)|
+||[又到中期策略会高峰，多家券商今年将放弃办会控制成本](https://www.36kr.com/newsflashes/2823774921755141)|
+||[沃森生物：终止重组新型冠状病毒疫苗（CHO细胞）等临床试验](https://www.36kr.com/newsflashes/2823774001498632)|
+||[4连板东晶电子：公司生产经营情况正常，内外部经营环境未发生重大变化](https://www.36kr.com/newsflashes/2823763734055433)|
+||[上交所终止上海生生主板首发上市审核](https://www.36kr.com/newsflashes/2823753135687939)|
+||[上交所终止亘古电缆主板首发上市审核](https://www.36kr.com/newsflashes/2823752753760776)|
+||[2连板长江通信：目前生产经营情况正常](https://www.36kr.com/newsflashes/2823752200079881)|
+||[段永平力挺茅台：“大概率比拿着黄金划算”](https://www.36kr.com/newsflashes/2823749969824265)|
+||[马斯克称未来脑机芯片将代替手机](https://www.36kr.com/newsflashes/2823748378364423)|
+||[中国建筑：1-5月新签合同总额18106亿元，同比增长12%](https://www.36kr.com/newsflashes/2823737117772041)|
+||[央行上海总部：5月人民币贷款增加391亿元，同比多增7亿元](https://www.36kr.com/newsflashes/2823731851217414)|
+||[同程旅行大数据：奥运开幕临近，7月飞巴黎机票预订热度增长超70%](https://www.36kr.com/newsflashes/2823723283565060)|
+||[国航远洋：预计上半年净利润同比增长263%—384%](https://www.36kr.com/newsflashes/2823719240730886)|
+||[掌慧科技HuiiMedia与NewsBreak达成深度合作](https://www.36kr.com/newsflashes/2823709513419270)|
+||[南向资金今日净买入腾讯控股11.36亿港元](https://www.36kr.com/newsflashes/2823708194834950)|
+||[北向资金今日净买入赛力斯5.16亿元](https://www.36kr.com/newsflashes/2823703323298304)|
+||[伯克希尔哈撒韦减持比亚迪H股，持股比例降至6.9%](https://www.36kr.com/newsflashes/2823688619903488)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[🎉🎉🎉PQS 2024年618活动开跑啰，小伙伴们快手刀抢🎉🎉🎉 618活动期间: 2024/6/17 一 15:00 ~ 2024/6/24 一 15:00 🌟本檔限量特惠产品，年缴 特...](https://t.me/liyuans/46829)|
+||[HKBGP Lite 流量计费 可自定义实例规格 CPU 1-32 C 内存 1-32 GB 硬盘 20-200 GB 流量 8-200 TB 出站带宽 1-5 Gbps 现已接入PCCWG+Cogent+NTT+EIE+HKIX 共享10Gb...](https://t.me/liyuans/46828)|
+||[HK-NTT-VELO-VDS上线了 可以在以下链接订购 https://www.wormnet.online/index.php/store/hk-ntt-velo-vds CPU: 3C MEM: 3G DISK: 20G 流量: 4T起可选 端口: 100...](https://t.me/liyuans/46827)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[大热天广东下“雪”了？氯雷他定人破防了](https://www.infzm.com/contents/273134)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 今天某大厂员工猝死](https://www.v2ex.com/t/1050344#reply17)|
+||[ 问与答 xdm，最近几个月看东西总觉得很模糊怎么办](https://www.v2ex.com/t/1050336#reply12)|
+||[ 分享创造 vaultwarden 备份思路之再也不改版](https://www.v2ex.com/t/1050331#reply25)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[走进快递100专场沙龙亮点回顾：3大AI领域专家独到见解速览](https://www.woshipm.com/it/6070680.html)|
+||[三个高端技巧，事关产品汇报](https://www.woshipm.com/zhichang/6070697.html)|
+||[这样做小红书，普通博主也能做出爆款](https://www.woshipm.com/operate/6070642.html)|
+||[拯救Transformer推理能力！DeepMind新研究TransNAR：给模型嵌入「算法推理大脑」](https://www.woshipm.com/ai/6070645.html)|
+|[36氪](https://www.36kr.com/feed)|[氪星晚报 ｜同程旅行大数据：奥运开幕临近，7月飞巴黎机票预订热度增长超70%；郭明錤：苹果下半年推出的Apple Watch Series 10将有外观升级](https://36kr.com/p/2823897226381577?f=rss)|
+||[专访欧莱雅全球CDMO：一家美妆公司如何理解人工智能？](https://36kr.com/p/2823798966274308?f=rss)|
+||[36氪产业带计划招募｜智造加速，探访常州新能源汽车产业](https://36kr.com/p/2823753676687623?f=rss)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[一文讲清楚：指数增强基金与策略指数基金的区别](http://xueqiu.com/3502863673/294036170)|
+||[电子烟交流](http://xueqiu.com/1564700027/294014369)|
+||[股息为盾 估值为矛](http://xueqiu.com/1707706450/293995846)|
+||[三个提高股市胜率的思维反转](http://xueqiu.com/1643044849/294014328)|
+||[比亚迪未来10年增长的核心硬逻辑](http://xueqiu.com/7451349454/294044974)|
+||[同仁堂2023年股东大会](http://xueqiu.com/3895344567/294021735)|
+||[开了SU7六千多公里之后，我还看好小米集团吗？](http://xueqiu.com/5192877654/293963828)|
+||[从这4个维度，挑选指数基金（06.17）](http://xueqiu.com/9391624441/294029426)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[南方医科大学南方医院回应教师因救人迟到被批评，「认定为教学差错是最轻处理办法」，事出有因是否可以免罚？](https://www.zhihu.com/question/659121767)|
+||[人生应该活成什么样子，该以什么样的方式活着？](https://www.zhihu.com/question/290003248)|
+||[2024 欧洲杯赛场上为什么会出现很多国内企业的中文广告？](https://www.zhihu.com/question/658944160)|
+||[如何评价超人气热血动画电影《排球少年!! 垃圾场决战》？](https://www.zhihu.com/question/648832591)|
+||[《大明王朝 1566》算不算权谋剧之最？](https://www.zhihu.com/question/658146452)|
+||[高考失败就意味着人生就这样了吗？](https://www.zhihu.com/question/658545226)|
+||[泽连斯基提谈判条件，「若俄从『乌合法领土上撤军』，明天就能开始谈」，如何看待这一表态？当前局势如何？](https://www.zhihu.com/question/659130295)|
+||[985 毕业生反向升学读技校，这反映了什么趋势或现象？](https://www.zhihu.com/question/658900399)|
+||[5 月 70 城房价出炉，各线城市商品住宅销售价格环比下降、同比降幅略有扩大，如何解读这一走势？](https://www.zhihu.com/question/659125799)|
+||[最近「坐公交跨省旅行」很火，如果你有时间愿意尝试吗？会选择哪条线路？](https://www.zhihu.com/question/657036883)|
+||[生长激素比活性高是什么含义？](https://www.zhihu.com/question/659132752)|
+||[结婚的前提是喜欢还是合适？](https://www.zhihu.com/question/656856527)|
+||[2024 欧洲杯哪位球员有可能拿到金靴？](https://www.zhihu.com/question/657440816)|
+||[知情人称广汽本田拟裁员 1700 名，遣散费丰厚，员工争先恐后排队等裁员，透露了什么信息？](https://www.zhihu.com/question/658912804)|
+||[高考成绩不理想，先参军再报考军校这种路径可行吗？](https://www.zhihu.com/question/658273237)|
+||[你当年的毕业旅行去了哪，还能回忆起那时的心境吗？](https://www.zhihu.com/question/657036068)|
+||[我想买台混动车，朋友不推荐国产日系，推荐了沃尔沃，是不是在坑我？](https://www.zhihu.com/question/659058480)|
+||[勇气和自信心是一回事吗？怎样才能提高自己的勇气和自信心？](https://www.zhihu.com/question/659011213)|
+||[BYD 的 DMI5 技术用在坦克上，再用上固态电池，再用上智能驾驶，中国的坦克是不是一骑绝尘？](https://www.zhihu.com/question/657578236)|
+||[商务部宣布对原产于欧盟的进口相关猪肉及猪副产品进行反倾销立案调查，为何采取这一行动？会带来哪些影响？](https://www.zhihu.com/question/659145135)|
+||[2024 年 618 高性价比显示器有推荐的吗？](https://www.zhihu.com/question/656730842)|
+||[文笔挑战：「偏逢五月连阴雨」开头，你会怎么写？](https://www.zhihu.com/question/654933153)|
+||[最近想要健身，有比较推荐的智能手表吗？](https://www.zhihu.com/question/630094986)|
+||[如何评价《原神》4.7 深渊？](https://www.zhihu.com/question/659057434)|
+||[刚入职发现同事都很忙，但自己很闲，我该主动寻找工作，还是等待领导安排？](https://www.zhihu.com/question/658821370)|
+||[作为职场新人，「工作能力」和「工作态度」，哪个更重要？](https://www.zhihu.com/question/658821400)|
+||[领导让你买奶茶，你花了 547 元，他给你转了 500 元，并微信你说：「钱已转，你收一下」，你该怎么回复？](https://www.zhihu.com/question/656218189)|
+||[你见过哪些有趣的地摊书？](https://www.zhihu.com/question/31709159)|
+||[第一次去北京，有哪些一定要吃的美食推荐？](https://www.zhihu.com/question/652240855)|
+||[喜欢上了一个浙江的男生放不下，怎么办啊？](https://www.zhihu.com/question/659096945)|
+||[苹果在国外信号也不好吗，怎么感觉只是国内用户一天到晚喊信号不好呢？](https://www.zhihu.com/question/470739718)|
+||[央行开展 1820 亿元 1 年期 MLF 操作，利率维持不变，释放了什么信号？](https://www.zhihu.com/question/659125119)|
+||[二战苏联有什么权利虐待战俘?](https://www.zhihu.com/question/657854203)|
+||[理想车友聚会多车连环追尾，理想汽车回应「雨天路滑，车距太近，5 辆车受损」，哪些信息值得关注？](https://www.zhihu.com/question/659125959)|
+||[职场中什么样的同事不能深交？](https://www.zhihu.com/question/655760539)|
+||[如今最有可能得诺贝尔文学奖的中国作家是谁？](https://www.zhihu.com/question/649915264)|
+||[你觉得最有用的人生哲理有哪些？](https://www.zhihu.com/question/659095576)|
+||[如何看待尼康 Nikon Z 6III 微单相机?](https://www.zhihu.com/question/658587117)|
+||[中国宣布将把澳大利亚纳入单方面免签国家范围，有哪些影响？](https://www.zhihu.com/question/659135817)|
+||[宁德时代被曝要求国内员工施行 896 工作制，公司回应称「此事为曲解造谣」，这一安排是否合理、合法？](https://www.zhihu.com/question/659139048)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（七）](http://www.seis-jun.xyz/paper-reading-7)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[普京本周将先后访问朝鲜和越南](https://www.zaobao.com/realtime/world/story20240617-3939598)|
+||[周一美市盘前起落不一 重点谈晶片设计巨头Arm Holdings](https://www.zaobao.com/realtime/world/story20240617-3937940)|
+||[克宫：乌克兰和平峰会的成果为零](https://www.zaobao.com/realtime/world/story20240617-3939066)|
+||[快讯：以色列总理正式解散战时内阁](https://www.zaobao.com/realtime/world/story20240617-3938566)|
+||[中韩18日举行首轮外交安全对话](https://www.zaobao.com/realtime/world/story20240617-3938510)|
+||[印度东部两火车相撞 已酿至少五死](https://www.zaobao.com/realtime/world/story20240617-3938316)|
+||[普京料18日访朝 韩：或将达成军事介入承诺](https://www.zaobao.com/realtime/world/story20240617-3938253)|
+||[北约成员国讨论将更多核武器置于待命状态](https://www.zaobao.com/realtime/world/story20240617-3938166)|
+||[美市6月19日休市 纪念六月节](https://www.zaobao.com/realtime/world/story20240617-3938062)|
+||[智库：美国高技术核电力发展落后中国15年](https://www.zaobao.com/realtime/world/story20240617-3937988)|
+||[加州野火烧毁大片面积 逾千人撤离休闲区](https://www.zaobao.com/realtime/world/story20240617-3937589)|
+||[美国新总统就职前 美韩日将签署安全合作框架协议](https://www.zaobao.com/realtime/world/story20240617-3937421)|
+||[首尔大学医院教授 今起无期限停诊](https://www.zaobao.com/realtime/world/story20240617-3937137)|
+||[国防军飞机故障 新西兰总理改乘商务机访日](https://www.zaobao.com/realtime/world/story20240617-3937103)|
+||[墨西哥：今年来约139万人试图非法越过美墨边境](https://www.zaobao.com/realtime/world/story20240617-3937003)|
+|[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[给我来份春晚魔术邀请函，我现在强得可怕](http://www.dapenti.com/blog/more.asp?name=agile&id=179303)|
+||[见过犟的没见过这么犟的 猫界大犟种](http://www.dapenti.com/blog/more.asp?name=agile&id=179302)|
+||[商务部：对原产于欧盟的进口相关猪肉及猪副产品进行反倾销立案调查](http://www.dapenti.com/blog/more.asp?name=caijing&id=179301)|
+||[巨型ETF再平衡，英伟达将迎百亿美元买入？](http://www.dapenti.com/blog/more.asp?name=caijing&id=179300)|
+||[在家手机玩腻了怎么办](http://www.dapenti.com/blog/more.asp?name=agile&id=179299)|
+||[我大学毕业典礼都没幼儿园的隆重](http://www.dapenti.com/blog/more.asp?name=xilei&id=179298)|
+|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[FreeBuf 全球网络安全产业投融资观察（5月）](https://www.freebuf.com/articles/neopoints/403747.html)|
+||[华硕曝出高危漏洞，影响 7 款路由器](https://www.freebuf.com/news/403718.html)|
+||[黑客入侵 Tile 内部工具，数百万用户数据或被泄露](https://www.freebuf.com/news/403699.html)|
+||[新型 TIKTAG 攻击曝光，专门针对谷歌浏览器和 Linux 系统](https://www.freebuf.com/news/403690.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[全域机动的豪华电动越野座驾，猛士917蛟龙战甲开启预售](https://www.jiqizhixin.com/articles/2024-06-17-10)|
+||[3D 版 SORA 来了！DreamTech 推出全球首个原生 3D-DiT 大模型 Direct3D](https://www.jiqizhixin.com/articles/2024-06-17-9)|
+||[AI研究的主要推动力会是什么？ChatGPT团队研究科学家：算力成本下降](https://www.jiqizhixin.com/articles/2024-06-17-8)|
+||[大模型+蒙特卡洛树搜索，一招让LLaMa-3 8B奥数水平直逼GPT-4](https://www.jiqizhixin.com/articles/2024-06-17-7)|
+||[计算效率提升100倍以上，上交李金金团队开发基于Transformer的大模型用于从头算分子动力学](https://www.jiqizhixin.com/articles/2024-06-17-6)|
+||[字节豆包、武大提出 CAL：通过视觉相关的 token 增强多模态对齐效果](https://www.jiqizhixin.com/articles/2024-06-17-5)|
+||[探索复合材料中的原子扩散，加州大学开发神经网络动力学方法](https://www.jiqizhixin.com/articles/2024-06-17-4)|
+||[答案抽取正确率达96.88%，xFinder断了大模型「作弊」的小心思](https://www.jiqizhixin.com/articles/2024-06-17-3)|
+||[全球科技巨头集体「卷」AI，华为又在憋什么大招？](https://www.jiqizhixin.com/articles/2024-06-17-2)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[耗时73小时，《圣兽之王》白金了！香草社的游戏在白金这方面一如既往的非常友好。](https://www.wikimoe.com/post/1ylxh3rt)|
+|[GamerNoTitle](https://bili33.top/atom.xml)|[在Windows Server上启用Webdav](https://bili33.top/posts/Webdav-on-Windows-Server/)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[猛踩油门 VS 慢慢开车，哪种驾驶习惯更伤车？](http://www.zhihu.com/question/656520879/answer/3508158516?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[V2EX](http://www.v2ex.com/index.xml)|[ 分享创造 vaultwarden 备份思路之再也不改版](https://www.v2ex.com/t/1050331#reply12)|
 ||[ 宽带症候群 上海联通，坐标浦东， 200m 上传又被上传限速了](https://www.v2ex.com/t/1050322#reply12)|
 ||[ 问与答 百万豪车有哪些功能是普通车没有的](https://www.v2ex.com/t/1050313#reply20)|
