@@ -2,6 +2,61 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[澳门特首盼当地经济今年能取得双位数增长](https://www.zaobao.com/realtime/china/story20240617-3937712)|
+||[马办指赖清德讲话引战 台防长：从不求战](https://www.zaobao.com/realtime/china/story20240617-3937690)|
+||[李强宣布单方面把澳洲纳入免签国](https://www.zaobao.com/realtime/china/story20240617-3937498)|
+||[美议员本周访问印度 与达赖喇嘛会面](https://www.zaobao.com/realtime/china/story20240617-3937482)|
+||[河南冷藏货车违规乘人 八人窒息死亡](https://www.zaobao.com/realtime/china/story20240617-3937320)|
+||[德副总理本周访华 料将谈及欧盟对中国电动车加征关税议题](https://www.zaobao.com/realtime/china/story20240617-3937289)|
+||[5月份中国新建住宅价格连续11个月下跌](https://www.zaobao.com/realtime/china/story20240617-3937204)|
+||[张艺谋执导电影版《三体》](https://www.zaobao.com/realtime/china/story20240617-3937151)|
+||[中国外交部驻港公署批英借法官牌插手香港事务手法卑劣](https://www.zaobao.com/realtime/china/story20240617-3937119)|
+||[《死侍与金刚狼》据报即将获准在中国上映](https://www.zaobao.com/realtime/china/story20240617-3937078)|
+||[武汉天喻：被纳入美制裁名单或影响外汇结算](https://www.zaobao.com/realtime/china/story20240617-3937029)|
+||[罗冠聪母亲公屋被收回 港房屋署：曾出现欠租违反租约](https://www.zaobao.com/realtime/china/story20240617-3936990)|
+||[中国证监会：将严肃查处大股东通过融券“绕道”减持限售股](https://www.zaobao.com/realtime/china/story20240617-3936988)|
+|[极客公园](http://feeds.geekpark.net/)|[为什么你的 iPhone，肯定用不上「苹果 AI」？](http://www.geekpark.net/news/336637)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[一种疗法或将治疗不同基因突变疾病丨科创要闻](https://www.infzm.com/contents/273485)|
+||[没打中？“艾森豪威尔”号遇袭疑云丨智库视点](https://www.infzm.com/contents/273474)|
+||[中国将对澳大利亚单方面免签](https://www.infzm.com/contents/273487)|
+||[机构改革一年后，国家部委首次为未来产业专设机构](https://www.infzm.com/contents/273470)|
+||[黑龙江省委原常委，省政府原党组副书记、副省长王一新严重违纪违法被开除党籍和公职](https://www.infzm.com/contents/273480)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[解锁JavaScript异步奥秘：Promise与async/await的魔法之旅](https://juejin.cn/post/7380994802745229349)|
+||[EMPv3.0 正式版实战与落地](https://juejin.cn/post/7380942251412193315)|
+||[面试官问：在日常的开发中，你是如何调试代码的？](https://juejin.cn/post/7380995631790899236)|
+||[重金求 nodejs 架构优化方案](https://juejin.cn/post/7380702373570740250)|
+||[探索Word文档导入导出的前端实现方案](https://juejin.cn/post/7380994802745065509)|
+||[开源实现SSL证书的监听和自动续期](https://juejin.cn/post/7380730718295867402)|
+||[二叉树](https://juejin.cn/post/7380995631790686244)|
+||[爬取Echarts官网，搞个图表小工具 React ](https://juejin.cn/post/7380995631790620708)|
+||[试了下ai面试，于是我就用魔法打败魔法](https://juejin.cn/post/7380665804595691572)|
+||[hexo实战：（二）个人独立博客优化合集](https://juejin.cn/post/7380649024934772776)|
+||[性能优化之渲染方案ssr,ssg,csr](https://juejin.cn/post/7380649024934658088)|
+||[单页应用（SPA）与多页应用（MPA）的全面解析](https://juejin.cn/post/7380663251631669263)|
+||[从 GitHub 自动化部署到网页性能优化](https://juejin.cn/post/7380665804595347508)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何审稿](http://www.seis-jun.xyz/how-to-review)|
+|[IT之家](https://www.ithome.com/rss/)|[可选岩石灰 / 奶油白 / 森林绿三色，消息称三星 Galaxy Watch 7 智能手表定价 299-310 美元](https://www.ithome.com/0/775/754.htm)|
+||[马斯克称未来人们将不再需要手机，Neuralink 脑机芯片将其代替](https://www.ithome.com/0/775/753.htm)|
+||[TP-LINK 发布 TL-DB54H 智能门铃：400 万像素摄像头 / 红外监测，到手不高于 209 元](https://www.ithome.com/0/775/748.htm)|
+||[iQOO 首款头戴式电竞耳机发布：Type-C 接口、降噪麦克风，349 元](https://www.ithome.com/0/775/747.htm)|
+||[消息称一加 Ace 3Pro 手机搭载 6100mAh“冰川电池”，厚度小于 8.8mm](https://www.ithome.com/0/775/746.htm)|
+||[软银宣布与 Perplexity AI 搜索引擎达成战略合作：其用户可免费试用一年 Pro 订阅，价值 29500 日元](https://www.ithome.com/0/775/745.htm)|
+||[披“法律咨询”外衣非法交易公民个人信息：西安警方打掉一家涉案 637 万元黑产公司](https://www.ithome.com/0/775/744.htm)|
+||[韩非专利实施主体首度起诉美半导体企业，Mimir IP 向美光索赔 4.8 亿美元](https://www.ithome.com/0/775/743.htm)|
+||[上汽大众斯柯达速派限时售价 12.19 万起，较官方指导价下调 5.3 万元](https://www.ithome.com/0/775/742.htm)|
+||[支持血氧检测 / 睡眠监测：华为手环 8 标准版 160 元、NFC 版 179 元限时购](https://www.ithome.com/0/775/741.htm)|
+||[《白蛇：缘起》国产动画电影官宣 6 月 29 日重映](https://www.ithome.com/0/775/740.htm)|
+||[realme 首批真我 GT6 手机运往西班牙途中被盗，官方发文致歉](https://www.ithome.com/0/775/738.htm)|
+||[支持 ProRes 视频录制：梵想 250G 固态 U 盘 159 元开售（A+C 双口）](https://www.ithome.com/0/775/737.htm)|
+||[利用 AI 合成“艳照”敲诈勒索，广东 / 山东警方破获两起“AI 换脸伪造不雅照”案](https://www.ithome.com/0/775/736.htm)|
+||[手机变身 M43 相机，SwitchLens 相机套件开启众筹：199 美元起](https://www.ithome.com/0/775/735.htm)|
+||[网传“酷态科 10 号充电器用 65W 芯片宣传 120W”，市场负责人回应：消息不实](https://www.ithome.com/0/775/734.htm)|
+||[广汽丰田凯美瑞 / 汉兰达双擎版限时优惠 3 万 / 3.2 万元，起售价 14.98 万 / 21.78 万元](https://www.ithome.com/0/775/733.htm)|
+||[消息称岚图新车将由东风日产云峰工厂生产：预计为“知音”，整合东风体系现有产能](https://www.ithome.com/0/775/732.htm)|
+|[obaby@mars](https://h4ck.org.cn/feed/)|[这“该死”的仪式感](https://h4ck.org.cn/2024/06/17348)|
+|[新浪专栏-创事记](https://plink.anyfeeder.com/sina/csj)|[Vision Pro国行发售在即，买美版的人却更多了](https://finance.sina.com.cn/tech/csj/2024-06-17/doc-inayznka9375502.shtml)|
+||[投资人开会，都在聊霸王茶姬](https://finance.sina.com.cn/tech/csj/2024-06-17/doc-inayznka9375372.shtml)|
+||[逆风扎堆冲刺IPO，智驾公司急，投资人更急](https://finance.sina.com.cn/tech/csj/2024-06-14/doc-inayseiq8706718.shtml)|
 |[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 四川农业大学 - 教务处](https://t.me/awesomeRSSHub/3059)|
 |[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[这里的城际公交受欢迎：连接两省六市，月均发车超3000班次](http://www.news.cn/20240617/11c07b72d1484105a4dde6561e9e63da/c.html)|
 ||[时光相册｜乌蒙绝壁有天渠](http://www.news.cn/20240617/e661f85b32db45359178d3a1c880affa/c.html)|
