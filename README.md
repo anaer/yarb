@@ -2,6 +2,99 @@
 
 |来源|标题|
 |---|---|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[独家丨抖音生活服务再调整，到家业务全面整合至抖音电商](https://www.leiphone.com/category/industrynews/CLydCpBDMgjpfZCA.html)|
+||[车企老大喊停「价格战」，2024年连上汽智己也亏不起了](https://www.leiphone.com/category/industrynews/oqPZ1giWhRSqUNMV.html)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国人买买买造就东南亚“榴莲富豪”](https://cn.nytimes.com/business/20240617/durian-china-malaysia-thailand/)|
+||[三名中国顶尖游泳运动员被披露两次药检呈阳性](https://cn.nytimes.com/sports/20240617/china-swimming-doping/)|
+||[G7公报28处提及中国：措辞强硬、凸显对抗性](https://cn.nytimes.com/world/20240617/g7-summit-china-russia/)|
+||[独立记者黄雪琴、活动人士王建兵因“煽颠罪”获刑](https://cn.nytimes.com/china/20240617/china-me-too-verdict/)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[24-6-17 国元华安 7+11=4](https://xueqiu.com/8772786299/294078968)|
+||[霍华德·马克斯2024年5月最新备忘录：债务的影响](https://xueqiu.com/1279320474/294064645)|
+||[一意孤行，欧盟宣布对华加税！我方立刻反制，赞！](https://xueqiu.com/2102262216/294024194)|
+||[羞于启齿的炒股职业](https://xueqiu.com/1760673340/294001387)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[Katalyst 如何基于 NRI 实现精细化且可插拔的容器资源管理](https://www.infoq.cn/article/cOj0CDy99G9UDKZhaoGz)|
+||[面向千行百业，全球工业软件巨头的AI应用策略如何演变？](https://www.infoq.cn/article/7e2CFcAREGuWiIUY8Zj5)|
+||[有看头！3 分钟速览 4 大亮点，稀土开发者大会不容错过 Q推荐](https://www.infoq.cn/article/QwN0auFdIRr8AbBI4VYT)|
+||[2024过半，AI大模型在各行业的落地实践走到哪了？](https://www.infoq.cn/article/SLehvvYy3QEvd0IYkurH)|
+||[苹果进军AI手机，国内终端大模型联盟迅速应战 大模型一周大事](https://www.infoq.cn/article/ZOZxQW8aYoMLeEW7Y3Df)|
+||[中国软件行业被指“全军覆没”；微软 Copilot GPTs 宣布停服；苹果股价暴涨，“一夜飙升”1.56万亿！ Q资讯](https://www.infoq.cn/article/Ys82BsbP8Rz3loFEhKKa)|
+||[服务调用延迟降低 10%-70%，字节跳动做了什么？](https://www.infoq.cn/article/CLVUKPX0cw9L6j9EtTzJ)|
+||[生生不息见证AI新次元奔赴InfoQ 中国的下一个17年](https://www.infoq.cn/article/tfmvIa9Qs74WMRs9rd5U)|
+||[20年内实现AGI！李开复与张亚勤共同预测：无人驾驶领头，大模型六波应用潮流随后](https://www.infoq.cn/article/U68KEPGC7FV8idzbCveE)|
+||[研发团队的「技术债」如何进行量化管理？](https://www.infoq.cn/article/2943762785fd3b604350d0190)|
+|[MIT 科技评论 - 本周热榜](https://plink.anyfeeder.com/mittrchina/hot)|[专访普渡大学魏体伟：研发芯片级“两相冲击射流冷却”技术将散热效率提升百倍，正筹建公司实现技术转化](https://www.mittrchina.com/news/detail/13434)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[郭明錤：苹果下半年推出的Apple Watch Series 10将有外观升级](https://www.36kr.com/newsflashes/2823642004343041)|
+||[印度支付公司Paytm拟向Zomato出售电影票务业务](https://www.36kr.com/newsflashes/2823627353639176)|
+||[瑞银提出赎回与2021年Greensill Capital倒闭有关的瑞信基金](https://www.36kr.com/newsflashes/2823627079289089)|
+||[飞机制造商使用假冒钛部件？波音、空客回应：经分析，在役机队未受影响](https://www.36kr.com/newsflashes/2823626802727428)|
+||[乐歌股份：拟投资7800万美元建造海外仓](https://www.36kr.com/newsflashes/2823626158409989)|
+||[深圳证监局：对深圳洪涛集团股份有限公司采取责令改正措施](https://www.36kr.com/newsflashes/2823625458649606)|
+||[金价大涨导致销售欠佳？老凤祥回应](https://www.36kr.com/newsflashes/2823623024969985)|
+||[退休人员基本养老金上调3%](https://www.36kr.com/newsflashes/2823621093673218)|
+||[恒指收跌0.03%，恒生科技指数涨0.05%](https://www.36kr.com/newsflashes/2823615484856583)|
+||[华尔街“喊出”最高目标价：标普500指数年底前将涨至6000点](https://www.36kr.com/newsflashes/2823601452419330)|
+||[超声电子：近期订单较前期增加](https://www.36kr.com/newsflashes/2823594022963714)|
+||[铃木将与日本创企Tier IV合作开发自动驾驶技术](https://www.36kr.com/newsflashes/2823593493645830)|
+||[软银与AI搜索引擎创企Perplexity达成合作](https://www.36kr.com/newsflashes/2823593115257348)|
+||[宁德时代：网传消息系造谣](https://www.36kr.com/newsflashes/2823588558883073)|
+||[距地球最远航天器“旅行者1号”恢复传回科学数据](https://www.36kr.com/newsflashes/2823582133766409)|
+||[苹果供应商TDK宣布新进展：固态电池能量密度实现100倍突破](https://www.36kr.com/newsflashes/2823576610490888)|
+||[时隔近两年，俄罗斯对欧供应天然气反超美国](https://www.36kr.com/newsflashes/2823575897180678)|
+||[马斯克称将在几个月内推出迷你版星链终端设备](https://www.36kr.com/newsflashes/2823574797338882)|
+||[IDC：一季度中国可穿戴市场同比增速为全球的4倍](https://www.36kr.com/newsflashes/2823554672757253)|
+||[A股三大指数收盘涨跌不一，消费电子概念领涨](https://www.36kr.com/newsflashes/2823547427408386)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[next.calc - 简约计算器 iOS ￥22→0 ](https://free.apprcn.com/next-calc/)|
+|[爱范儿](https://www.ifanr.com/feed)|[最薄 iPad 之后，苹果被曝正在研发超薄 iPhone](https://www.ifanr.com/1589296?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[2024 年，「天玑芯片」配「影像旗舰」变得顺理成章了](https://www.ifanr.com/1589262?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)|
+||[派评 近期值得关注的 App](https://sspai.com/post/89677)|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[Linux文件系统介绍](https://www.mr-wu.cn/linux-file-systems/)|
+||[Windows 7 x64 中文版安装包分享](https://www.mr-wu.cn/windows-7-os-free-download/)|
+|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[赛尔原创@COLING2024｜社交媒体流中的早期抑郁感知模型](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650813137&idx=1&sn=8ea0af03188d4c73d8f79ce2fce470ee)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[想问下这个字符串处理的简单的小脚本怎么写 bash或者vim都好 ?](https://segmentfault.com/q/1010000044969698)|
+||[键值组件 Fieldlist 使用js动态渲染后追加按钮不起作用，点击没有反应，请问如何解决?](https://segmentfault.com/q/1010000044969631)|
+||[VIM 中 E122 函数 SetTitle已存在，请加！强制替换 ，怎么解决?](https://segmentfault.com/q/1010000044969510)|
+||[python中执行spark算子总是报错，怎么解决？](https://segmentfault.com/q/1010000044969146)|
+||[使用 NVIDIA Container Toolkit 时遭遇 systemd 错误，如何重启 Docker？](https://segmentfault.com/q/1010000044969022)|
+||[vue3 pinia状态管理，为什么useStore在回调中失效，提交成功后没反应，挪到外面就有反应?](https://segmentfault.com/q/1010000044969006)|
+||[Vue 3中keepAlive的include属性缓存部分路由不生效？](https://segmentfault.com/q/1010000044968282)|
+||[windows平台的deveco终端里不能使用ohpm，回车就报错，有知道怎么解决的吗？](https://segmentfault.com/q/1010000044968120)|
+||[Docker服务无法识别，错误提示“docker: unrecognized service”，如何处理？](https://segmentfault.com/q/1010000044968069)|
+||[求助，如何高效实现代码绘图？](https://segmentfault.com/q/1010000044967543)|
+|[迷途小书童的Note](https://xugaoxiang.com/feed)|[AI专栏](https://xugaoxiang.com/2024/06/17/ai-column/)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[体检查出宫颈糜烂，需要治疗吗?](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BD%93%E6%A3%80%E6%9F%A5%E5%87%BA%E5%AE%AB%E9%A2%88%E7%B3%9C%E7%83%82%EF%BC%8C%E9%9C%80%E8%A6%81%E6%B2%BB%E7%96%97%E5%90%97%3F)|
+||[真心建议：睡前千万别把手机放床头](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%EF%BC%9A%E7%9D%A1%E5%89%8D%E5%8D%83%E4%B8%87%E5%88%AB%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%94%BE%E5%BA%8A%E5%A4%B4)|
+||[夏天别给孩子吃这种水果，容易拉肚子，天越热越容易中招](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%8F%E5%A4%A9%E5%88%AB%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E8%BF%99%E7%A7%8D%E6%B0%B4%E6%9E%9C%EF%BC%8C%E5%AE%B9%E6%98%93%E6%8B%89%E8%82%9A%E5%AD%90%EF%BC%8C%E5%A4%A9%E8%B6%8A%E7%83%AD%E8%B6%8A%E5%AE%B9%E6%98%93%E4%B8%AD%E6%8B%9B)|
+||[百元出头的夏凉被，清凉舒爽超好睡！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%99%BE%E5%85%83%E5%87%BA%E5%A4%B4%E7%9A%84%E5%A4%8F%E5%87%89%E8%A2%AB%EF%BC%8C%E6%B8%85%E5%87%89%E8%88%92%E7%88%BD%E8%B6%85%E5%A5%BD%E7%9D%A1%EF%BC%81)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[高考结束后，向家里要2k去旅游，有错吗?](https://www.zhihu.com/question/659049224/answer/3533214488)|
+||[中国宣布将把澳大利亚纳入单方面免签国家范围，有哪些影响？](https://www.zhihu.com/question/659135817/answer/3533276752)|
+||[宁德时代被曝要求国内员工施行 896 工作制，公司回应称「此事为曲解造谣」，这一安排是否合理、合法？](https://www.zhihu.com/question/659139048/answer/3533259526)|
+||[02年世界杯国足0比4惨败巴西，为何到今天还有很多人觉得那场球国足表现很好，是国足的巅峰?](https://www.zhihu.com/question/659011664/answer/3533228779)|
+||[大家如何看待2024年6月17日A股市场行情？](https://www.zhihu.com/question/658930228/answer/3533192235)|
+||[勇气和自信心是一回事吗？怎样才能提高自己的勇气和自信心？](https://www.zhihu.com/question/659011213/answer/3533180762)|
+||[《黑神话：悟空》能回本吗？](https://www.zhihu.com/question/430179440/answer/3533148601)|
+||[我想买台混动车，朋友不推荐国产日系，推荐了沃尔沃，是不是在坑我？](https://www.zhihu.com/question/659058480/answer/3533145945)|
+||[最近你学到或悟到了什么？](https://www.zhihu.com/question/658927462/answer/3533115957)|
+||[江苏要求省内发达地区不得从苏北地区抢挖优秀校长和教师，是出于哪些考量？将对该省教育体系带来哪些影响？](https://www.zhihu.com/question/658729606/answer/3533114271)|
+||[我们为什么要有诗和远方？](https://www.zhihu.com/question/45120238/answer/3180413571)|
+||[女子长期乏力，全家查出「吸血鬼病」基因，什么是「吸血鬼病」？都有哪些症状？](https://www.zhihu.com/question/659047834/answer/3533099953)|
+||[为什么大多数家长都不会教育孩子？](https://www.zhihu.com/question/656583085/answer/3533040954)|
+||[泽连斯基提谈判条件，「若俄从『乌合法领土上撤军』，明天就能开始谈」，如何看待这一表态？当前局势如何？](https://www.zhihu.com/question/659130295/answer/3533033553)|
+||[如果庭审没有钱请律师能不能自己查出法律条款 搜集证据并自己给自己辩护?](https://www.zhihu.com/question/482459011/answer/3533016553)|
+||[5 月 70 城房价出炉，各线城市商品住宅销售价格环比下降、同比降幅略有扩大，如何解读这一走势？](https://www.zhihu.com/question/659125799/answer/3533004290)|
+||[「烟卡」游戏风靡小学生群体，学校周边多家商店售卖，小学生为什么喜欢玩「烟卡」，家长学校又该如何应对？](https://www.zhihu.com/question/659067344/answer/3533003084)|
+||[河南一冷藏货车违规乘人致 8 人身亡，货车司机和相关责任人已被控制，这起事故哪些细节值得反思？](https://www.zhihu.com/question/659121531/answer/3533002374)|
+||[涟水 17 岁中专少女的数学水平为什么到目前为止没有一个公认的评价，反而有很多质疑的声音？](https://www.zhihu.com/question/659055314/answer/3532995274)|
+||[南方医科大学南方医院回应教师因救人迟到被批评，「认定为教学差错是最轻处理办法」，事出有因是否可以免罚？](https://www.zhihu.com/question/659121767/answer/3532988493)|
+||[《黑神话:悟空》参与闭门试玩的媒体与 KOL 先后发布体验感受，有哪些信息值得关注？](https://www.zhihu.com/question/659122829/answer/3532982308)|
+||[奢侈品行业遇冷，YNAP 将退出中国，范思哲、巴黎世家等推出大幅折扣，背后有哪些原因？](https://www.zhihu.com/question/659065269/answer/3532926288)|
+||[《三体》电影版官宣，导演为张艺谋，目前该电影已经进入前期阶段，你有哪些期待？](https://www.zhihu.com/question/659065291/answer/3532917966)|
+||[求推荐618购物节值得入手的学习用品？](https://www.zhihu.com/question/659125354/answer/3532850598)|
+||[2024 欧洲杯斯洛文尼亚 1:1 丹麦，埃里克森重返欧洲杯破门，如何评价这场比赛？](https://www.zhihu.com/question/659096102/answer/3532813790)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[一卡通綠點：最好用的公共運輸現金回饋](https://taiwan.chtsai.org/2024/06/17/ipass_green_points/)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[产品培训的“四大秘籍”：讲问题、讲案例、讲差异、讲卖点](https://www.woshipm.com/operate/6070324.html)|
+||[模型评测怎么做？一篇文章看懂](https://www.woshipm.com/ai/6070431.html)|
+||[从信息有用性模型看亚马逊评价体系](https://www.woshipm.com/pd/6070376.html)|
 |[V2EX](https://v2ex.com/index.xml)|[ 职场话题 搞不懂国内互联网为什么上班晚下班晚呀？](https://www.v2ex.com/t/1050288#reply11)|
 ||[ 生活 分享 关于我当跑腿的那些事，也许只是 vol.1](https://www.v2ex.com/t/1050267#reply18)|
 ||[ Apple 今天去 Apple Store 挑战了一个销售，让他“试着说服我 iPad Pro m4 对我有用”](https://www.v2ex.com/t/1050263#reply28)|
