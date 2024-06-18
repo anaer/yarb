@@ -2,6 +2,48 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[航天软件：子公司1年内被禁止参加全军物资工程服务采购活动](https://www.36kr.com/newsflashes/2825066349808137)|
+||[四会富仕：控股股东、实控人及其一致行动人减持“富仕转债”](https://www.36kr.com/newsflashes/2825065436088841)|
+||[葫芦娃：获得孟鲁司特钠咀嚼片药品注册证书](https://www.36kr.com/newsflashes/2825064195082757)|
+||[国内债券型基金规模逼近10万亿](https://www.36kr.com/newsflashes/2825069426313736)|
+||[古鳌科技：控股子公司东高科技被暂停6个月新增客户](https://www.36kr.com/newsflashes/2825063601359111)|
+||[煜邦电力：可转债“煜邦转债”跟踪评级维持A类](https://www.36kr.com/newsflashes/2825060050422020)|
+||[北京：1-5月新建商品房销售面积同比下降13.5%](https://www.36kr.com/newsflashes/2825052859353605)|
+||[纳睿雷达：签订2.38亿元天气雷达设备合同](https://www.36kr.com/newsflashes/2825043656641030)|
+||[支付清算协会倡议：将外卡费率优惠让渡至商户，降低受理成本](https://www.36kr.com/newsflashes/2825040416016649)|
+||[恒指收跌0.11%，半导体板块持续走高](https://www.36kr.com/newsflashes/2825032235108609)|
+||[“517新政”满月，深圳新房、二手房合计成交6422套](https://www.36kr.com/newsflashes/2825017748163072)|
+||[中国核电：徐大堡核电4号机组穹顶吊装就位](https://www.36kr.com/newsflashes/2825015732259078)|
+||[广东：到2025年全省现代化中试平台体系初步成形](https://www.36kr.com/newsflashes/2825007351253248)|
+||[锡南科技：欧盟针对中国电动汽车加征关税的政策暂未对公司生产经营产生重大影响](https://www.36kr.com/newsflashes/2825005819742724)|
+||[华泰证券：天赐材料与宁德时代签订电解液供应协议，维持“买入”评级](https://www.36kr.com/newsflashes/2825004163287297)|
+||[特斯拉Model 3高性能版开启交付](https://www.36kr.com/newsflashes/2824993757219330)|
+||[国泰君安：贵州茅台当前批价向下空间相对有限，维持“增持”评级](https://www.36kr.com/newsflashes/2824981674887429)|
+||[今晚8点起，飞猪618将派发暑期大额券](https://www.36kr.com/newsflashes/2824989052193029)|
+||[专家：特斯拉FSD入华已是万事俱备](https://www.36kr.com/newsflashes/2824979993856521)|
+||[工信部装备工业一司苗长兴：高质量推进车路云一体化应用试点工作](https://www.36kr.com/newsflashes/2824977273604616)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 喜欢男孩子怎么办？](https://www.v2ex.com/t/1050624#reply35)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[学习一些什么，能抵御年龄带来的危机感](https://www.v2ex.com/t/1050584#reply42)|
+||[请问大佬们安卓想用 tk 有没有不拔卡，不插国外卡的办法](https://www.v2ex.com/t/1050534#reply19)|
+||[美国落地机，中转机选哪里？想用作 tk 直播](https://www.v2ex.com/t/1050616#reply31)|
+||[chrome 浏览器为什么要自己旋转啊？](https://www.v2ex.com/t/1050569#reply25)|
+|[LIHAI 分享 - Telegra...](https://rsshub.app/telegram/channel/lihaiba)|[↩️ ▎👨‍💻 HEU_KMS_Activator https://t.me/iGitHub/85 合作/投稿 频道群组 标签：#Win #破解](https://t.me/lihaiba/6813)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[澳总理：已向李强提出成蕾在发布会被挡镜头不可接受](https://www.zaobao.com/realtime/china/story20240618-3944319)|
+||[中国驻古巴大使马辉出任中联部部长助理](https://www.zaobao.com/realtime/china/story20240618-3942381)|
+||[菲律宾证实中国船只冲撞致一菲士兵受重伤](https://www.zaobao.com/realtime/china/story20240618-3944074)|
+||[4岁女童遭拐15年 被告监禁四年十个月](https://www.zaobao.com/realtime/china/story20240618-3942570)|
+||[中专女生姜萍闯数学决赛被质疑 主办方否认曾再次出题](https://www.zaobao.com/realtime/china/story20240618-3943709)|
+||[中国外交部促北约反思自省 勿任意抹黑中国](https://www.zaobao.com/realtime/china/story20240618-3943491)|
+||[李强盼两国企业持续合作 将中澳合作共赢蛋糕做大](https://www.zaobao.com/realtime/china/story20240618-3943289)|
+||[美军据报曾在菲律宾反中国疫苗 中使馆：虚伪双标暴露无遗](https://www.zaobao.com/realtime/china/story20240618-3943263)|
+|[TecHug](https://www.techug.com/feed)|[Next.js 越来越难用了](https://www.techug.com/post/next-js-is-becoming-increasingly-difficult-to-use-14be4e/)|
+||[具有魔法的 H.264](https://www.techug.com/post/h-264-is-magic/)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十）](http://www.seis-jun.xyz/paper-reading-10)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 新功能：iMessage 的「點按回應」不再侷限只能用預設值](https://applefans.today/2024-06-ios18-imessage-tapback-features/)|
+|[爱范儿](https://www.ifanr.com/feed)|[不能上网的「笨手机」，怎么突然火了？](https://www.ifanr.com/1589508?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[苹果的 Apple Intelligence，为什么要这样设计新 Siri？](https://www.ifanr.com/1589471?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[Apple Watch X 即将到来：纤薄机身、更大屏幕，更有全新磁吸表带](https://www.ifanr.com/1589448?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[Geekhyt/weekly Iss...](https://rsshub.app/github/issue/Geekhyt/weekly)|[最近咋不更新了](https://github.com/Geekhyt/weekly/issues/127)|
 |[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[美印发表联合声明 拟在芯片等技术领域展开合作](https://www.zaobao.com/realtime/world/story20240618-3943254)|
 ||[泰参议院通过婚姻平等法案 承认同性婚姻](https://www.zaobao.com/realtime/world/story20240618-3943121)|
 ||[俄罗斯将在太平洋和日本海举行海军演习](https://www.zaobao.com/realtime/world/story20240618-3942860)|
