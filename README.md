@@ -2,6 +2,100 @@
 
 |来源|标题|
 |---|---|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[IDC：360 XDR处于扩展检测与响应平台市场领导者地位](https://www.4hou.com/posts/porp)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI教父Hinton 46分钟对谈：AI可复制人类心智，或加剧全球贫富差距](https://36kr.com/p/2823837790898435)|
+||[爆赚8700亿，日本首富孙正义，再度“封神”](https://36kr.com/p/2821790758558601)|
+||[专访欧莱雅全球CDMO：一家美妆公司如何理解人工智能？](https://36kr.com/p/2823798966274308)|
+||[8点1氪丨宁德时代回应网传“896工作制”系造谣；市监局回应鸭肠鹅肠加工乱象；苹果或将为iPhone 17开发更薄机型](https://36kr.com/p/2824543106402822)|
+||[退货率80%，商家疯了](https://36kr.com/p/2823702771108352)|
+||[30亿，中东土豪投了一个清华学霸](https://36kr.com/p/2823369962654208)|
+||[黄仁勋加州理工毕业典礼演讲：我是个好老板，英伟达曾被多次踢出市场，希望你找到毕生技艺](https://36kr.com/p/2823528501365253)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[TP6操作pgSQL13报错解决方案](https://segmentfault.com/a/1190000044970998)|
+||[聊聊jetcache的MultiLevelCache](https://segmentfault.com/a/1190000044971096)|
+||[使用React Native Reanimated实现无缝的UI过渡](https://segmentfault.com/a/1190000044636460)|
+||[在 Go 中如何让结构体不可比较？](https://segmentfault.com/a/1190000044970272)|
+|[少数派](https://sspai.com/feed)|[具透 macOS Sequoia 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/89629)|
+|[Share erotic Asian...](https://hotgirl.asia/feed/)|[Cosplay Pyonピオン Yae Miko Sexy](https://hotgirl.asia/cosplay-pyon%e3%83%94%e3%82%aa%e3%83%b3-yae-miko-sexy/)|
+||[Cosplay 水淼Aqua 碧蓝档案 天雨亚子礼服 Set.01](https://hotgirl.asia/cosplay-%e6%b0%b4%e6%b7%bcaqua-%e7%a2%a7%e8%93%9d%e6%a1%a3%e6%a1%88-%e5%a4%a9%e9%9b%a8%e4%ba%9a%e5%ad%90%e7%a4%bc%e6%9c%8d-set-01/)|
+||[Cosplay 柒柒要乖哦 Mewo](https://hotgirl.asia/cosplay-%e6%9f%92%e6%9f%92%e8%a6%81%e4%b9%96%e5%93%a6-mewo/)|
+||[Chaebiniya 채빙, ArtGravia Vol.604 Photobook Set.01](https://hotgirl.asia/chaebiniya-%ec%b1%84%eb%b9%99-artgravia-vol-604-photobook-set-01/)|
+||[Merry LEEHEE EXPRESS MERRY-031A Set.01](https://hotgirl.asia/merry-leehee-express-merry-031a-set-01/)|
+||[ZIA.Kwon 권지아, READY Vol.01 “Lady Doctor” Set.01](https://hotgirl.asia/zia-kwon-%ea%b6%8c%ec%a7%80%ec%95%84-ready-vol-01-lady-doctor-set-01/)|
+||[Clare 클레어, Supreme NO.01 Photobook Set.01](https://hotgirl.asia/clare-%ed%81%b4%eb%a0%88%ec%96%b4-supreme-no-01-photobook-set-01/)|
+||[Oh Deok-Hwa 오덕화, ArtGravia Vol.398](https://hotgirl.asia/oh-deok-hwa-%ec%98%a4%eb%8d%95%ed%99%94-artgravia-vol-398/)|
+||[Stella Mini Photobook “Butterfly”](https://hotgirl.asia/stella-mini-photobook-butterfly/)|
+||[XiuRen秀人网 NO.7019 娇喘JC](https://hotgirl.asia/xiuren%e7%a7%80%e4%ba%ba%e7%bd%91-no-7019-%e5%a8%87%e5%96%98jc/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[主权技术基金面向小额开源项目开放投资](https://www.oschina.net/news/297782/stf-lower-limit)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[网安人必备！开源网络安全工具TOP 10（附下载地址）](https://www.freebuf.com/sectool/403842.html)|
+||[虚假的谷歌浏览器错误正诱导用户运行恶意PowerShell脚本](https://www.freebuf.com/news/403837.html)|
+||[纽约州和密歇根州部分地区遭受网络攻击，市政府被迫关闭](https://www.freebuf.com/news/403795.html)|
+||[黑客竟能用表情符号控制恶意软件？](https://www.freebuf.com/news/403792.html)|
+|[IT之家](https://www.ithome.com/rss/)|[盖世小鸡 G8+ 手游手柄开售：内置六轴陀螺仪、兼容 215mm 设备，首发价 399 元](https://www.ithome.com/0/776/045.htm)|
+||[小米保 IP68 服务覆盖范围扩大，新增 70 家门店（附具体名单）](https://www.ithome.com/0/776/044.htm)|
+||[新增夜间显示模式、大疆相机遥控器功能，华米 Amazfit Falcon、T-Rex Ultra 与 Cheetah Pro 运动手表更新 Zepp OS 3.5](https://www.ithome.com/0/776/043.htm)|
+||[飞傲入耳式动圈耳机 FD15 发售：13.8mm 尺寸单元、镁铝合金振膜，999 元](https://www.ithome.com/0/776/042.htm)|
+||[小米磁吸充电宝 5000mAh 7.5W 京东上架：适配苹果 iPhone 12 及后续机型，129 元](https://www.ithome.com/0/776/041.htm)|
+||[2024Q1 国内平板战报：华为增 88%、苹果降 3%、小米增 35%、荣耀降 7%、联想持平](https://www.ithome.com/0/776/040.htm)|
+||[历史首位冲进决赛的中专生，达摩院回应曾要求姜萍再次答题：消息不实](https://www.ithome.com/0/776/038.htm)|
+||[130mm 低音单元：哈曼卡顿琉璃四代海外版蓝牙音箱京东 1382 元探新低](https://www.ithome.com/0/776/037.htm)|
+||[505 游戏《法外枭雄：滚石城》今晚登陆 Steam 平台，全系列 DLC 即日起限时免费](https://www.ithome.com/0/776/036.htm)|
+||[公开议程 12 年来尚属首次，三星电子管理层已决定投资 GPU 领域](https://www.ithome.com/0/776/030.htm)|
+||[极氪员工因吐槽智驾被开除？官方否认：事实为内部截图外泄违规，解除劳动合同](https://www.ithome.com/0/776/029.htm)|
+||[狼蛛 M75 三模机械键盘今晚首销：Gasket 结构、可选四种轴体，359 元](https://www.ithome.com/0/776/028.htm)|
+||[首个全自主智能 AED 无人机低空救援方案发布，实现“4 分钟急救圈”](https://www.ithome.com/0/776/027.htm)|
+||[黑爵轻氪锋影 M259 三模鼠标开售：3395 芯片 + 1KHz 回报率，269 元](https://www.ithome.com/0/776/026.htm)|
+||[中国制定出台网络领域立法累计超 150 部，搭建起网络法治“四梁八柱”](https://www.ithome.com/0/776/025.htm)|
+||[《Fantasian》被曝今年登陆游戏主机，《最终幻想》之父时隔 17 年回归传统回合制 RPG](https://www.ithome.com/0/776/024.htm)|
+||[TechInsights：中国半导体产能将在五年内增长 40%](https://www.ithome.com/0/776/014.htm)|
+||[VGN A75 电竞磁轴键盘今日首销：单模有线连接、0.1~4.0mm 行程可调，189 元起](https://www.ithome.com/0/776/023.htm)|
+||[迈从 G3 系列无线鼠标今晚首销：最高搭载 PAW3395 + 双 8K 回报率，49~199 元](https://www.ithome.com/0/776/022.htm)|
+||[售 33.59 万元起，特斯拉 Model 3 高性能版汽车今日开启交付](https://www.ithome.com/0/776/021.htm)|
+||[日本三井化学宣布量产新一代 CNT 光刻薄膜，支持 ASML 新一代光刻机](https://www.ithome.com/0/776/020.htm)|
+||[10999 元 → 6816 元：东芝玉兔 2.0 智投洗烘套装京东 12 期免息限时购](https://www.ithome.com/0/776/019.htm)|
+||[5699 元起，OnexPlayer 游侠 X1 mini 三合一电脑发布：8.8 英寸 144Hz 屏、锐龙 7 8840U](https://www.ithome.com/0/776/018.htm)|
+||[天玑 9300+11500mAh 电池：vivo Pad 3 Pro 平板 256G 版 2699 元百亿补贴](https://www.ithome.com/0/776/017.htm)|
+||[首发 6 折 208.8 元起，育碧第一人称动作冒险游戏《阿凡达：潘多拉边境》发售](https://www.ithome.com/0/776/016.htm)|
+||[能源格局大变革：中国太阳能巨头撼动欧美石油“七姊妹”地位](https://www.ithome.com/0/776/015.htm)|
+||[良率 / 能效低成三星代工最大痛点，消息称谷歌、高通 3nm 订单已投入台积电怀抱](https://www.ithome.com/0/776/012.htm)|
+||[3 匹 1 级能效 5467 元：美的静优风立柜式空调官方直降（日常 7399 元）](https://www.ithome.com/0/776/011.htm)|
+||[运营时长 4 年，腾讯“中华美食拟人国风 RPG 手游”《食物语》今起停运](https://www.ithome.com/0/776/007.htm)|
+||[宝马燃油车时代不会终结，将与电动汽车长期共存](https://www.ithome.com/0/776/003.htm)|
+||[曾负责 Xbox 新主机营销，微软游戏高管 Jerret West 月底离职](https://www.ithome.com/0/776/002.htm)|
+||[布拉德・皮特领衔主演，苹果 F1 原创电影项目官宣 2025 年 6 月 25 日全球上映](https://www.ithome.com/0/776/001.htm)|
+||[到手不高于 989 元，掌阅 iReader Neo 2 电纸书新增配色“海岛蓝”开售](https://www.ithome.com/0/776/000.htm)|
+||[13mm 动圈 + IPX4 防水，山灵 MTW60 主动降噪 TWS 耳机 198 元首销](https://www.ithome.com/0/775/999.htm)|
+||[双屏 OLED 笔记本 GPD DUO 放弃 8840U，换用 AMD Ryzen AI 9 HX 370 处理器](https://www.ithome.com/0/775/998.htm)|
+||[15.29 万元起、取消换挡拨片，新款奇瑞瑞虎 9 上市](https://www.ithome.com/0/775/997.htm)|
+||[华为手环 9 获推鸿蒙 HarmonyOS 4.2.201，新增数字车钥匙、智慧屏联动功能](https://www.ithome.com/0/775/996.htm)|
+||[成功率 95% 以上，Arm TIKTAG 推测执行攻击曝光：影响 Linux / Chrome](https://www.ithome.com/0/775/995.htm)|
+||[消息称苹果 2024 返校季活动本周启动，首批国家为美国和加拿大](https://www.ithome.com/0/775/994.htm)|
+||[瞄准中尺寸 RGB OLED 领域，三星显示收购五项无 FMM OLED 专利](https://www.ithome.com/0/775/993.htm)|
+||[2299 元系列绝唱，捷波朗 Jabra Elite 10 二代降噪蓝牙耳机上市](https://www.ithome.com/0/775/992.htm)|
+||[迈从 Zero 75 磁轴键盘今晚首销：8000Hz、0.05mm 调节精度，599 元起](https://www.ithome.com/0/775/990.htm)|
+||[荣耀手表 GS 3T 现身运动健康 App：双按键、拥有银 / 黑两种配色](https://www.ithome.com/0/775/989.htm)|
+||[创作者迎来 VR 画笔：罗技为 Meta Quest 2/3 头显推出 MX Ink 手写笔，129.99 美元](https://www.ithome.com/0/775/988.htm)|
+||[R7-8845HS 处理器：荣耀 X14 Plus 笔记本 1T 版 4299 元百亿补贴 6 期免息](https://www.ithome.com/0/775/987.htm)|
+||[Surface Headphones 有望回归？微软新款无线头戴式耳机通过蓝牙认证](https://www.ithome.com/0/775/986.htm)|
+||[员工被裁、工作室被关，EA 高管 2024 财年却狂揽超 6000 万美元](https://www.ithome.com/0/775/985.htm)|
+||[金泰克速虎白月光内存上市：最高 DDR5 6400，首发价 349~699 元](https://www.ithome.com/0/775/984.htm)|
+||[佳能计划明年量产新涂层，让钙钛矿型太阳能电池寿命翻倍至 20-30 年](https://www.ithome.com/0/775/983.htm)|
+||[霍尔摇杆 + 力切换震动扳机：飞智黑武士 3 Pro 无线游戏手柄 267 元探新低](https://www.ithome.com/0/775/982.htm)|
+||[新华三与富士康合作，在马来西亚建设其首个海外工厂](https://www.ithome.com/0/775/981.htm)|
+||[漫改电影《镖人》 7 月开机，袁和平执导、吴京监制兼主演](https://www.ithome.com/0/775/980.htm)|
+||[等同烟酒，美国医务总监呼吁给社交媒体贴警示标签：有害心理健康](https://www.ithome.com/0/775/979.htm)|
+||[误码率仅有标准约 3%，Cadence 演示全球首款 128GT/s PCIe 7.0 光纤连接方案](https://www.ithome.com/0/775/978.htm)|
+||[与大型汽车厂商谈判破裂，美国造车新势力 Fisker 申请破产保护](https://www.ithome.com/0/775/977.htm)|
+||[“全球最小、最便宜”，mrxSwitch v2.0 百兆网络交换机问世：物料成本仅 7 美元](https://www.ithome.com/0/775/976.htm)|
+||[国内最大，武汉理岩电感式传感器工厂投产：核心芯片自主研发](https://www.ithome.com/0/775/975.htm)|
+||[消息称北汽集团、宁德时代战略合作，涉 CIIC 一体化智能底盘、换电、V2G 技术等](https://www.ithome.com/0/775/974.htm)|
+||[QCY AilyBuds Clear 蓝牙耳机发布：半入耳、续航 22.5 小时，129 元](https://www.ithome.com/0/775/973.htm)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5700493)|
+||[黄焖鸡炒饭: @无聊图](http://i.jandan.net/t/5700491)|
+||[坏坏兔: @无聊图](http://i.jandan.net/t/5700457)|
+||[美年达: @无聊图](http://i.jandan.net/t/5700443)|
+||[海曙英俊男子: @无聊图](http://i.jandan.net/t/5700422)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5700397)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5700394)|
 |[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[欧盟加征电动车关税 中国发改委：打着公平竞争名义破坏公平竞争](https://www.zaobao.com/realtime/china/story20240618-3941588)|
 ||[大陆民航机飞越金马 前将领：已入侵台领空](https://www.zaobao.com/realtime/china/story20240618-3941409)|
 ||[涉税服务机构：对个别企业追缴税款是正常履职](https://www.zaobao.com/realtime/china/story20240618-3941395)|
