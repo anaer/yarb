@@ -2,6 +2,99 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[顶配iPhone 16售价或破2万元](https://www.36kr.com/newsflashes/2825312878676232)|
+||[杰美特：公司未布局AI手机的研发与生产](https://www.36kr.com/newsflashes/2825311860754696)|
+||[热门中概股美股盘前普跌，网易跌超2%](https://www.36kr.com/newsflashes/2825311197481222)|
+||[美国5月零售销售月率环比升0.1%](https://www.36kr.com/newsflashes/2825309395437832)|
+||[格灵深瞳：红杉中国累计减持达到5%](https://www.36kr.com/newsflashes/2825308938045698)|
+||[美股大型科技股盘前涨跌不一，苹果涨0.41%](https://www.36kr.com/newsflashes/2825306769983753)|
+||[ST爱康：公司股票将被终止上市，6月19日起停牌](https://www.36kr.com/newsflashes/2825285401839877)|
+||[研究：QE给英国央行带来的损失达到美联储的三倍有余](https://www.36kr.com/newsflashes/2825266269325829)|
+||[海兰信：联合中标海南省海洋灾害综合防治能力建设项目](https://www.36kr.com/newsflashes/2825260871387397)|
+||[宁德时代：完成回购注销23.40万股限制性股票](https://www.36kr.com/newsflashes/2825289955182851)|
+||[百度App：全量上线AI捏合摘要功能](https://www.36kr.com/newsflashes/2825285873584384)|
+||[东方集团：公司及子公司在东方财务公司存款出现大额提取受限情形](https://www.36kr.com/newsflashes/2825284573530375)|
+||[大晟文化：股东拟减持公司不超0.45%股份](https://www.36kr.com/newsflashes/2825258497362180)|
+||[苹果据悉将与欧盟就“一触即付”调查达成和解](https://www.36kr.com/newsflashes/2825278929013256)|
+||[摩根大通美国国债客户净多头占比创数周以来最高水平](https://www.36kr.com/newsflashes/2825256861911560)|
+||[央行：持续推动债券市场基础设施互联互通](https://www.36kr.com/newsflashes/2825273862637824)|
+||[央行：研究出台上海国际金融中心进一步提升跨境金融服务便利化行动方案](https://www.36kr.com/newsflashes/2825272222664962)|
+||[赣粤高速：5月份车辆通行服务收入2.72亿元](https://www.36kr.com/newsflashes/2825252113418752)|
+||[海尔集团完成125亿战略入股上海莱士](https://www.36kr.com/newsflashes/2825271515384327)|
+||[埃科光电：拟签署建设工程施工合同](https://www.36kr.com/newsflashes/2825238280947968)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[第15届夏季达沃斯论坛即将开幕：1600名全球领袖将聚焦6大主题](https://www.infzm.com/contents/273603)|
+||[国税总局：“没有倒查20年、30年的安排”](https://www.infzm.com/contents/273611)|
+||[专访余永定、潘英丽：大国博弈中，人民币国际化何以突围？](https://www.infzm.com/contents/273560)|
+||[国家发展改革委回应欧盟加税：“打着公平竞争的名义破坏公平竞争”](https://www.infzm.com/contents/273585)|
+||[部分地区企业被税务部门“倒查30年”及要求补税？ 国家税务总局回应](https://www.infzm.com/contents/273587)|
+||[一个时代的落幕？儿慈会事件对公益界的启示](https://www.infzm.com/contents/273568)|
+|[知乎热榜](https://rsshub.app/zhihu/hotlist)|[为什么日本人对四川省那么情有独钟?](https://www.zhihu.com/question/368911970/answer/3534875397)|
+||[中文专业到底能带给你什么？](https://www.zhihu.com/question/63822098/answer/3534875205)|
+||[如何看待女生爬山遇莽山烙铁头蛇竟上前合影事件？](https://www.zhihu.com/question/659061880/answer/3534859334)|
+||[扫地机器人自燃引起火灾，小米仅愿赔偿 3 万多且态度强硬，你认为小米的赔偿在合理范畴吗？如何看待此事？](https://www.zhihu.com/question/659134361/answer/3534856713)|
+||[视频作者磊哥再扒《王者荣耀》为拖游戏时长，新型人机将统一拒绝投降，这是真的吗？](https://www.zhihu.com/question/659275443/answer/3534812651)|
+||[作为职场新人，如何让领导同事快速记住你？](https://www.zhihu.com/question/650256667/answer/3534799987)|
+||[17岁涟水中专少女参加阿里巴巴数学竞赛获得初赛12名，你认为达摩院是否应该出面做个说明，以正视听？](https://www.zhihu.com/question/659211823/answer/3534794212)|
+||[黄仁勋套现 3120 万美元英伟达股票，英伟达股价一个月累计上涨 42%，哪些信息值得关注？](https://www.zhihu.com/question/659221160/answer/3534214411)|
+||[中国海警首次登上菲方擅闯船只执法，释放了哪些信号？](https://www.zhihu.com/question/659239821/answer/3534486589)|
+||[普京签署决议，同意与朝鲜签署《全面战略伙伴关系条约》，会带来哪些影响？](https://www.zhihu.com/question/659242683/answer/3534732260)|
+||[网传科大讯飞工程师猝死，知情人称该员工家中过世，家属希望认定工伤，真实情况如何？能认定为工伤吗？](https://www.zhihu.com/question/659256554/answer/3534729042)|
+||[懂车帝宣布 2024 夏测将直播接受公众监督，你觉得这次夏测会比中汽中心进行的夏测更加公平公正吗？](https://www.zhihu.com/question/659227714/answer/3534680544)|
+||[如何看待无职转生中男主父亲 保罗的死？](https://www.zhihu.com/question/446920195/answer/3534646066)|
+||[如何看待广东一高校学生吐槽在教室使用空调要扫码交费，学校称「无力承担此费用」？](https://www.zhihu.com/question/659022622/answer/3534640244)|
+||[郑州一烧烤店女老板被 6 名男子围殴，对方酒后失控撕扯她的头发并用脚踹打脸部，如何看待酒后暴力行为？](https://www.zhihu.com/question/659140365/answer/3534600973)|
+||[江苏大学、同济大学、东华大学等多所高校邀请进入全球数赛 12 强中专女生报考，她选择哪所学校最合适？](https://www.zhihu.com/question/658929591/answer/3534463870)|
+||[一汽丰田官微称对卡罗拉车型提供限时综合优惠 4.3 万元，售价 7.98 万元起，如何看待此次调价？](https://www.zhihu.com/question/659233377/answer/3534367752)|
+||[北约秘书长威胁称「中国再支持俄罗斯，就要付出『经济代价』」，外交部驳斥，北约或采取哪些措施？如何评价？](https://www.zhihu.com/question/659229528/answer/3534321952)|
+||[顾客排长队买奶茶，茶颜悦色多个老股东退出，其中不少为明星资本旗下，茶颜悦色怎么了？](https://www.zhihu.com/question/659221870/answer/3534304044)|
+||[凯尔特人 4-1 独行侠夺得 23-24 赛季 NBA 总冠军，塔图姆 31+11，如何评价这场比赛？](https://www.zhihu.com/question/659212279/answer/3534108321)|
+||[为什么有些人认为襄樊之战的胜利和关羽无关，主要归功于天气？](https://www.zhihu.com/question/659123252/answer/3533995545)|
+||[深圳一老破小学区房三年内从 14 万/平跌到约 4 万/平，什么原因？释放了什么信号？](https://www.zhihu.com/question/659212632/answer/3533974337)|
+||[夏天到了，汽车空调是开内循环，还是外循环？](https://www.zhihu.com/question/657925427/answer/3533928689)|
+||[婚姻中最忌讳什么？](https://www.zhihu.com/question/658825216/answer/3533916654)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[加班易猝死/应卖资产降杠杆](https://www.v2ex.com/t/1050685#reply11)|
+||[chrome 浏览器为什么要自己旋转啊？](https://www.v2ex.com/t/1050569#reply29)|
+||[美国落地机，中转机选哪里？想用作 tk 直播](https://www.v2ex.com/t/1050616#reply36)|
+||[DIY 了一台 NAS，分享下，关键词： 12300T、4m2、5hdd 热插拔](https://www.v2ex.com/t/1050583#reply20)|
+||[学习一些什么，能抵御年龄带来的危机感](https://www.v2ex.com/t/1050584#reply47)|
+||[go restful api 脚手架](https://www.v2ex.com/t/1050598#reply18)|
+||[请问大佬们安卓想用 tk 有没有不拔卡，不插国外卡的办法](https://www.v2ex.com/t/1050534#reply20)|
+|[虎嗅](https://rss.huxiu.com/)|[这一次，G7薅羊毛薅到了根上](https://www.huxiu.com/article/3150186.html?f=rss)|
+||[*ST洪涛连续12日低于1元锁定退市](https://www.huxiu.com/article/3150185.html?f=rss)|
+||[税务总局：未开展全国性集中税务检查](https://www.huxiu.com/article/3150184.html?f=rss)|
+||[合成生物学企业站在火山口](https://www.huxiu.com/article/3150181.html?f=rss)|
+||[无理由退货被滥用背后的“商权”变迁](https://www.huxiu.com/article/3150179.html?f=rss)|
+||[国内没了的补习班，跑去给老外补课了。](https://www.huxiu.com/article/3150176.html?f=rss)|
+||[港交所不是露天的，打风不停市是啥意思？](https://www.huxiu.com/article/3150173.html?f=rss)|
+|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240618](https://xugaoxiang.com/2024/06/18/ai-daily-20240618/)|
+|[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[巴黎奥运会塞纳河彩排 - June 18, 2024](https://m.idai.ly/se/dadPCu)|
+||[波音载人飞船推迟返回 - June 18, 2024](https://m.idai.ly/se/a94ep2)|
+||[北约秘书长访问美国 - June 18, 2024](https://m.idai.ly/se/20c3L3)|
+||[欧盟补助量子计算行业 - June 18, 2024](https://m.idai.ly/se/a16741)|
+||[韩国医疗机构大罢工 - June 18, 2024](https://m.idai.ly/se/fbfAP8)|
+||[帝国大厦充气巨龙装置 - June 18, 2024](https://m.idai.ly/se/a3dX2x)|
+||[德国海洋博物馆新展陈 - June 18, 2024](https://m.idai.ly/se/fc5cRI)|
+||[意大利海洋动物救助 - June 18, 2024](https://m.idai.ly/se/6a5bDB)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[媲美Sora？Runaway亮相视频生成模型Gen-3 Alpha，更懂物理世界](https://www.infoq.cn/article/UDUoPjx1iWptBwNMXBZH)|
+||[聚焦算力基础设施，联想甩出“一横五纵”战略框架](https://www.infoq.cn/article/rZ0q6pcC42WAM91Q02xc)|
+||[“懂场景”“懂模型”“懂开发”，AI 下半场，研发团队如何突围？](https://www.infoq.cn/article/pzw2izT3MulVDX94FtWX)|
+||[小红书招聘年龄底线35岁，猎头：超32岁基本没戏；小米汽车员工实发工资曝光，年入百万不是梦；极目银河老板欠62亿跑路 AI周报](https://www.infoq.cn/article/FOaWYbCmUNu4EuE75aZ0)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[中国总理李强抵达马来西亚](https://www.zaobao.com/realtime/world/story20240618-3945226)|
+||[英美研究：近年来太平洋灰鲸体长显著缩短](https://www.zaobao.com/realtime/world/story20240618-3945268)|
+||[德情报机构：俄欲雇德间谍弥补俄外交官被驱逐造成的损失](https://www.zaobao.com/realtime/world/story20240618-3944782)|
+||[周二美市盘前涨跌不一 重点谈晶片巨头英伟达数名局内人卖出自家股](https://www.zaobao.com/realtime/world/story20240618-3942091)|
+||[新研究发现高脂肪饮食或加剧焦虑](https://www.zaobao.com/realtime/world/story20240618-3944073)|
+||[美特使呼吁以军和真主党缓和跨境交火](https://www.zaobao.com/realtime/world/story20240618-3944021)|
+||[以军部队加强打击拉法 空袭难民营酿17死](https://www.zaobao.com/realtime/world/story20240618-3943636)|
+|[ZWWoOoOo](https://zww.me/feed)|[ja2_7609+AI 中文版 r2971](https://zww.me/ja2_7609ai-cn-r2971.z-turn)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[中专生姜萍在阿里数学竞赛上，获得第12名，到底刺痛了谁？](http://lukefan.com/2024/06/18/%e4%b8%ad%e4%b8%93%e7%94%9f%e5%a7%9c%e8%90%8d%e5%9c%a8%e9%98%bf%e9%87%8c%e6%95%b0%e5%ad%a6%e7%ab%9e%e8%b5%9b%e4%b8%8a%ef%bc%8c%e8%8e%b7%e5%be%97%e7%ac%ac12%e5%90%8d%ef%bc%8c%e5%88%b0%e5%ba%95%e5%88%ba/)|
+||[拱白菜的土猪，后悔了？当年在央视演讲比赛上，扬言要做进城拱白菜的乡下土猪的衡水中学张锡峰，现在正在浙大计算机系上大三。他后悔了？](http://lukefan.com/2024/06/18/%e6%8b%b1%e7%99%bd%e8%8f%9c%e7%9a%84%e5%9c%9f%e7%8c%aa%ef%bc%8c%e5%90%8e%e6%82%94%e4%ba%86%ef%bc%9f%e5%bd%93%e5%b9%b4%e5%9c%a8%e5%a4%ae%e8%a7%86%e6%bc%94%e8%ae%b2%e6%af%94%e8%b5%9b%e4%b8%8a%ef%bc%8c/)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[为什么这些中国职业女性不想多生孩子](https://cn.nytimes.com/china/20240618/china-moms/)|
+||[普京将访问朝鲜，为俄乌战争寻求武器支持](https://cn.nytimes.com/world/20240618/russia-north-korea-putin-kim/)|
+||[中菲船只在南海相撞，两国相互指责](https://cn.nytimes.com/asia-pacific/20240618/china-philippines-boats-collide/)|
+||[“不恐慌、不麻木”：美国在台协会处长给台湾的临别赠言](https://cn.nytimes.com/asia-pacific/20240618/taiwan-china-diplomacy/)|
+||[报复性调查？中国威胁对欧洲进口猪肉征收关税](https://cn.nytimes.com/business/20240618/china-european-union-pork-exports/)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[《八方旅人2》远远不只有情怀](http://zhuanlan.zhihu.com/p/675260213?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[今年继续来讲一讲618的观察： 1. 今年可以说是有史以来最惨烈的618，但一个分水岭的标志是：今年平台将刀口对向了商家。这也是为什么我给稿件取名的标题叫「618...](https://m.okjike.com/originalPosts/66712fb244e298e87e390563)|
 ||[本倒数第二名INFP了解一下](https://m.okjike.com/originalPosts/66711b4d546143028db9f359)|
 ||[对啊！医保是没说不限制你住院天数啊，但是你超了费用它不给医院报销啊 它也不告诉患者，只是把不报销的钱转嫁给医院，医院再转嫁给医生 医院遇到绝对不能出的，...](https://mp.weixin.qq.com/s/ith8N1VAp8Bl0iCjVeE8lA)|
