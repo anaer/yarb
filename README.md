@@ -2,6 +2,36 @@
 
 |来源|标题|
 |---|---|
+|[卢昌海个人主页](https://www.changhai.org/feed.xml)|[视频：毕达哥拉斯的数](https://www.youtube.com/watch?v=4rRFT0ov9i0)|
+|[观人看世界](https://feedpress.me/wx-iwatch1024)|[在这风暴汹涌、正在转向的时代，寻找同路人](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489551&idx=1&sn=4247f1853c26a10855069e13a83c01ca)|
+|[LIHAI 分享 - Telegra...](https://rsshub.app/telegram/channel/lihaiba)|[▎💻 这款 Mac 虚拟机免费了！附安装方法 https://mp.weixin.qq.com/s/SE7iVfrJwODmuHDuwSdB5g 标签：#软件](https://t.me/lihaiba/6814)|
+|[plus studio](https://studyinglover.com/atom.xml)|[pydantic+openai+json 控制大模型输出的最佳范式](https://studyinglover.com/2024/06/18/pydantic+openai+json:%20%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%9A%84%E6%9C%80%E4%BD%B3%E8%8C%83%E5%BC%8F/)|
+|[SkyWT](https://blog.skywt.cn/feed/)|[Weekly #5：夏天的晚霞](https://skywt.cn/blog/weekly-5/)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[山西省晋城市郝匠一号墓、妇人启门图（一）](https://www.jianshu.com/p/98dfcd7ca529)|
+||[优化算法matlab实现（三十七）非洲野狗算法matlab实现](https://www.jianshu.com/p/5d3cb5e4d914)|
+||[一年一度高考后的所思所想](https://www.jianshu.com/p/b6f774eacfa0)|
+||[二下7《长大以后做什么》教学反思](https://www.jianshu.com/p/853eb1ff3dae)|
+||[98分与100分](https://www.jianshu.com/p/c10feb49947e)|
+||[允许别人做别人](https://www.jianshu.com/p/16ee1cfd1d15)|
+||[Reality](https://www.jianshu.com/p/c22cb0e368e7)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[港议员建议拍摄国安版《无间道》](https://www.zaobao.com/realtime/china/story20240618-3943025)|
+||[台亲绿民调：过半民众认为立院改革修法过程有瑕疵](https://www.zaobao.com/realtime/china/story20240618-3942808)|
+||[下午察：从“996”到“896”](https://www.zaobao.com/realtime/china/story20240618-3944238)|
+||[港大校政风波持续 李家超：内部问题情况不理想](https://www.zaobao.com/realtime/china/story20240618-3942546)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[美国落地机，中转机选哪里？想用作 tk 直播](https://www.v2ex.com/t/1050616#reply40)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[NVIDIA股价盘中涨超3% 首夺全球最大市值宝座](https://m.cnbeta.com.tw/view/1435237.htm)|
+||[AMD Zen5锐龙开售时间确定在7月31日](https://m.cnbeta.com.tw/view/1435236.htm)|
+||[德国小镇全员投票决定杀死700只鸽子 被动保组织阻扰两次](https://m.cnbeta.com.tw/view/1435235.htm)|
+||[马斯克的449亿美元薪酬 与其他美国上市公司CEO相比如何？](https://m.cnbeta.com.tw/view/1435234.htm)|
+||[告密者称波音对数百件故障零部件处理不当 其中部分或被装到新飞机上](https://m.cnbeta.com.tw/view/1435233.htm)|
+||[新型TIKTAG攻击曝光 专门针对Google浏览器和Linux系统](https://m.cnbeta.com.tw/view/1435232.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在index.d.ts中为同级文件夹中的js文件编写类型代码?](https://segmentfault.com/q/1010000044973123)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[为什么这些中国职业女性不想多生孩子](https://cn.nytimes.com/china/20240618/china-moms/dual)|
+||[普京将访问朝鲜，为俄乌战争寻求武器支持](https://cn.nytimes.com/world/20240618/russia-north-korea-putin-kim/dual)|
+||[中菲船只在南海相撞，两国相互指责](https://cn.nytimes.com/asia-pacific/20240618/china-philippines-boats-collide/dual)|
+||[“不恐慌、不麻木”：美国在台协会处长给台湾的临别赠言](https://cn.nytimes.com/asia-pacific/20240618/taiwan-china-diplomacy/dual)|
+||[报复性调查？中国威胁对欧洲进口猪肉征收关税](https://cn.nytimes.com/business/20240618/china-european-union-pork-exports/dual)|
+|[文艺数学君](https://mathpretty.com/feed/)|[北邮人论坛十大_2024_06_18](https://mathpretty.com/17223.html)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[顶配iPhone 16售价或破2万元](https://www.36kr.com/newsflashes/2825312878676232)|
 ||[杰美特：公司未布局AI手机的研发与生产](https://www.36kr.com/newsflashes/2825311860754696)|
 ||[热门中概股美股盘前普跌，网易跌超2%](https://www.36kr.com/newsflashes/2825311197481222)|
