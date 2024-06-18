@@ -2,6 +2,19 @@
 
 |来源|标题|
 |---|---|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[江苏省第三届工控安全高层论坛顺利召开](https://www.4hou.com/posts/m0l9)|
+||[网络钓鱼电子邮件滥用 Windows 搜索协议来推送恶意脚本](https://www.4hou.com/posts/0ovy)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等](https://sspai.com/post/89685)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[广东发布“人工智能45条”](https://www.oschina.net/news/297757)|
+||[LangChain 与 Semantic Kernel，大模型开发应用的框架，都用上了吗？](https://my.oschina.net/u/3859945/blog/11209668)|
+||[Linux 蓝屏死机界面亮相](https://www.oschina.net/news/297755)|
+||[美国司法部起诉 Adob​​e 隐瞒终止费，阻止消费者取消订阅](https://www.oschina.net/news/297752/us-sues-adobe)|
+||[程序员基于开源AI模型制作“一键脱衣”软件，伪造近7000张不雅照片，以1块5一张的价格贩卖牟利](https://osc.cool/8PeybXXA)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：《死侍与金刚狼》内地定档 7 月 26 日、朴彩英出任 PUMA 全球品牌代言人](http://www.toodaylab.com/82877)|
+|[澳大利亚广播公司](https://plink.anyfeeder.com/abc/cn)|[中国总理李强访问澳洲为何要去西澳州珀斯？](https://newsapp.abc.net.au/newsapp//chinese/2024-06-18/why-china-s-premier-liqiang-visits-perth-western-australia/103990132)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[如果给你一个新知青年大会虚拟摊位可以卖任何东西，你会卖什么脑洞商品？](http://www.zhihu.com/question/658835107/answer/3533741862?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[《大人的高考-知乎卷》正式发布！如果再参加一次高考，你能得几分？](http://www.zhihu.com/question/658295422/answer/3533990066?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[活侠传正式版攻略1 开局事件&设施解读&心相作用](http://zhuanlan.zhihu.com/p/703328106?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[虎嗅网](https://www.huxiu.com/rss/0.xml)|[BOSS直聘吃相难看是骗子？招聘平台如何逆势突围？](http://www.huxiu.com/article/3144888.html?f=wangzhan)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【产业互联网周报】 央行：联合科技部等部门设立5000亿元科技创新和技术改造再贷款；苹果将通过分销而非现金支付ChatGPT费用；青岛：力争到2026年全市算力总规模达到12EFLOPS；科学家用AI造出最强铁基超导磁体；马斯克：特斯拉将于明年开始“限量生产”Optimus机器人](https://www.tmtpost.com/7131279.html)|
 ||[从中概回购潮，看互联网的未来](https://www.tmtpost.com/7132325.html)|
