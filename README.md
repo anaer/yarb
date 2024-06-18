@@ -2,6 +2,92 @@
 
 |来源|标题|
 |---|---|
+|[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[1979年，25岁的林青霞接受访问](http://www.dapenti.com/blog/more.asp?name=agile&id=179324)|
+||[贾樟柯谈：好莱坞不香了](http://www.dapenti.com/blog/more.asp?name=xilei&id=179323)|
+||[【喷嚏图卦20240618】她们以为那里凉快](http://www.dapenti.com/blog/more.asp?name=xilei&id=179322)|
+||[多地中小银行宣布下调存款利率](http://www.dapenti.com/blog/more.asp?name=caijing&id=179321)|
+||[为什么不降息？](http://www.dapenti.com/blog/more.asp?name=caijing&id=179320)|
+||[年轻散户接棒外资，印度股市市值突破5万亿美元](http://www.dapenti.com/blog/more.asp?name=caijing&id=179319)|
+||[今年美股涨幅的60%来自5只股票](http://www.dapenti.com/blog/more.asp?name=caijing&id=179318)|
+||[一文读懂法国乱局对市场意味着什么？](http://www.dapenti.com/blog/more.asp?name=caijing&id=179317)|
+||[大宗商品超级周期逼近！专家：铜价从未如此被低估 美联储迎“拐点”将暴涨](http://www.dapenti.com/blog/more.asp?name=caijing&id=179316)|
+||[罗斯柴尔德进军沙特](http://www.dapenti.com/blog/more.asp?name=caijing&id=179315)|
+||[国家发改委：我国消费者对新能源汽车需求还将持续走高，推动汽车产业转型升级和企业优化重组](http://www.dapenti.com/blog/more.asp?name=caijing&id=179314)|
+||[巴菲特，继续减持比亚迪](http://www.dapenti.com/blog/more.asp?name=caijing&id=179313)|
+||[鲁迅《我们现在怎样做父亲》](http://www.dapenti.com/blog/more.asp?name=xilei&id=179312)|
+||[还俗、结婚、创业，柳智宇现在怎么样了](http://www.dapenti.com/blog/more.asp?name=agile&id=179311)|
+||[世界上有4边形、有3边形，那么有2边形存在吗？](http://www.dapenti.com/blog/more.asp?name=xilei&id=179310)|
+||[周娟：我们的孩子怎么了？](http://www.dapenti.com/blog/more.asp?name=agile&id=179309)|
+||[泽连斯基：从未说过中国是敌人，希望中国帮助乌克兰](http://www.dapenti.com/blog/more.asp?name=xilei&id=179308)|
+||[50后阿姨谈自己观点：老年人不要再涨工资了！养老金已经不低了](http://www.dapenti.com/blog/more.asp?name=xilei&id=179307)|
+||[【喷嚏优选第1040期】船歌鱼水饺墨鱼鲅鱼海鲜饺子、乳胶凉席三件套泰国乳胶凉席](http://www.dapenti.com/blog/more.asp?name=xilei&id=179306)|
+||[丞相祠堂何处寻-suno v3](http://www.dapenti.com/blog/more.asp?name=xilei&id=179305)|
+||[失联的理由-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179304)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[学习一些什么，能抵御年龄带来的危机感](https://www.v2ex.com/t/1050584#reply19)|
+||[美国落地机，中转机选哪里？想用作 tk 直播](https://www.v2ex.com/t/1050616#reply13)|
+||[瞎就瞎吧，还是选择小米 14 ultra 或 mix flod 3](https://www.v2ex.com/t/1050567#reply11)|
+|[少数派](https://sspai.com/feed)|[社区速递 049 洛阳自驾游、派友升级中以及作者的新玩意](https://sspai.com/post/89710)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[单镜头16秒720p高清视频一键生成，开源版Sora又有新惊喜了](https://www.jiqizhixin.com/articles/2024-06-18-6)|
+||[杀疯了！谷歌卷视频到语音，逼真音效让AI视频告别无声！](https://www.jiqizhixin.com/articles/2024-06-18-5)|
+||[大模型压缩量化方案怎么选？无问芯穹Qllm-Eval量化方案全面评估：多模型、多参数、多维度](https://www.jiqizhixin.com/articles/2024-06-18-4)|
+||[字节打造大模型TTS：不仅能高保真合成，而且支持调整编辑](https://www.jiqizhixin.com/articles/2024-06-18-3)|
+||[清华等高校推出首个开源大模型水印工具包MarkLLM，支持近10种最新水印算法](https://www.jiqizhixin.com/articles/2024-06-18-2)|
+||[Runway版Sora发布：高保真、超强一致性，Gen-3 Alpha震撼到网友了](https://www.jiqizhixin.com/articles/2024-06-18)|
+|[迷途小书童的Note](https://xugaoxiang.com/feed)|[每日AI资讯-20240617](https://xugaoxiang.com/2024/06/18/ai-daily-20240617/)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[以闭门试玩的质量评价，《黑神话:悟空》有没有可能达到《战神 4》的水平？](https://www.zhihu.com/question/659005233/answer/3534147884)|
+||[凯尔特人 4-1 独行侠夺得 23-24 赛季 NBA 总冠军，塔图姆 31+11，如何评价这场比赛？](https://www.zhihu.com/question/659212279/answer/3534164832)|
+||[如何评价《龙之家族》第二季第一集 （S02E01）?](https://www.zhihu.com/question/659139399/answer/3533927890)|
+||[中国宣布将把澳大利亚纳入单方面免签国家范围，有哪些影响？](https://www.zhihu.com/question/659135817/answer/3534117155)|
+||[主播行业大降薪，业内称「行业整体降了 50%」，从 00 后到 60 后都在直播，如何看待这一现象？](https://www.zhihu.com/question/659183821/answer/3534104825)|
+||[俄总统普京将访问朝鲜和越南，此行有哪些信息值得关注？](https://www.zhihu.com/question/659182467/answer/3534094016)|
+||[为什么天龙八部中，乔峰不能接受自己是契丹人？](https://www.zhihu.com/question/657782364/answer/3534072779)|
+||[领导开始给你指派不擅长的工作，美其名曰为了「锻炼你给你机会」，这个时候应该怎么办？](https://www.zhihu.com/question/658964559/answer/3534023731)|
+||[职场中什么样的同事不能深交？](https://www.zhihu.com/question/655760539/answer/3533958319)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[KOS矩阵崛起！7000字详解从公域到私域怎么打](https://www.woshipm.com/operate/6070943.html)|
+||[那个ERP项目，让人后怕！](https://www.woshipm.com/chuangye/6070922.html)|
+||[KISS原则：SaaS产品设计最重要的原则（上）](https://www.woshipm.com/pd/6070864.html)|
+||[视频号向左，京东向右，数字人直播+AI客服让人很恼火](https://www.woshipm.com/it/6070792.html)|
+||[案例分析：如何确认产品经理候选人能否胜任？](https://www.woshipm.com/zhichang/6070647.html)|
+|[林小鹿英语精读 的 bilibili...](https://rsshub.app/bilibili/user/dynamic/483301783)|[外刊精读打卡啦！ 【点赞收藏】起来，暑假弯道超车！英语逆袭！](https://t.bilibili.com/944257914491633664)|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[中国海警据报展开行动针对菲人员补给任务致七伤](https://www.zaobao.com/realtime/china/story20240618-3943137)|
+||[港正生书院涉捐款诈骗停运 港府谴责董事会包庇在逃前董事](https://www.zaobao.com/realtime/china/story20240618-3943138)|
+||[中日同意加快解决福岛核废水排海问题磋商进程](https://www.zaobao.com/realtime/china/story20240618-3942936)|
+||[李家超：要求有关方详细报告货机事故过程 审视可更优化之处](https://www.zaobao.com/realtime/china/story20240618-3942599)|
+||[强降雨致“客家第一宗祠”李氏大宗祠大面积坍塌](https://www.zaobao.com/realtime/china/story20240618-3942564)|
+||[中国发改委：消费品以旧换新等行动方案全部出台](https://www.zaobao.com/realtime/china/story20240618-3942448)|
+||[中驻美大使：芬太尼问题不是中国制造的问题](https://www.zaobao.com/realtime/china/story20240618-3942380)|
+||[李嘉诚旗下长江中心租价五年来下跌逾三成](https://www.zaobao.com/realtime/china/story20240618-3941662)|
+||[新疆昌吉强降雨引发山洪泥石流四人失踪](https://www.zaobao.com/realtime/china/story20240618-3942295)|
+||[在缅北冒充军人电诈 150名中国籍嫌犯被移交给中国](https://www.zaobao.com/realtime/china/story20240618-3941585)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（九）](http://www.seis-jun.xyz/paper-reading-9)|
+||[文献阅读（八）](http://www.seis-jun.xyz/paper-reading-8)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[Ant Design 5.18.2 发布，企业级 UI 设计语言和 React 实现](https://www.oschina.net/news/297776/ant-design-5-18-2-released)|
+||[IoTOS v1.6.3 开源仓库一岁了](https://www.oschina.net/news/297761)|
+||[Hikyuu 2.1.0 发布，开源高性能量化交易框架](https://www.oschina.net/news/297745/hikyuu-2-1-0-released)|
+||[ETL & 流批一体化框架 bboss v7.2.1 发布](https://www.oschina.net/news/297739/bboss-7-2-1-released)|
+||[MyBatis-Flex v1.9.3 发布，一个优雅的 MyBatis 增强框架](https://www.oschina.net/news/297738/mybatis-flex-1-9-3-released)|
+||[Spring Tools 4.23.1 发布，Spring 开发工具](https://www.oschina.net/news/297736/spring-tools-4-23-1-released)|
+||[mybatis-mp 高级功能 @Fetch 实现 1对 1，1 对多](https://www.oschina.net/news/297733)|
+||[《灯灯》多租户快速开发平台 4.19.1-jdk8 版本发布，新版前端 UI 正式发布](https://www.oschina.net/news/297720/lamp-cloud-4-19-1-jdk8)|
+|[蓝点网](https://www.landiannews.com/feed)|[模型托管平台Civitai暂时禁止发布任何SD3相关的模型 原因是可能存在版权问题](https://www.landiannews.com/archives/104530.html)|
+||[虚拟化安全：VMware vCenter Server出现三个高危漏洞 企业需立即更新](https://www.landiannews.com/archives/104531.html)|
+||[华硕7款消费级路由器存在高危安全漏洞 涉及AX88U、AX58U、AC86U等](https://www.landiannews.com/archives/104529.html)|
+||[苹果新发布20个Core ML模型和4个数据集 全部开源供开发者们使用](https://www.landiannews.com/archives/104527.html)|
+||[维瓦尔第 Vivaldi 浏览器决定跟随Mainfest v3步伐 后续也将弃用v2扩展程序](https://www.landiannews.com/archives/104526.html)|
+||[DOJ宣布对Adobe提起诉讼 指控Adobe隐藏高额违约金阻止消费者中途退订](https://www.landiannews.com/archives/104525.html)|
+||[微软继续更新Windows 11手机连接应用 支持通过系统级共享将文件传到手机](https://www.landiannews.com/archives/104524.html)|
+||[确实有些离谱：realme GT6新机在运往西班牙途中被抢劫 发布会继续但无法提供新机](https://www.landiannews.com/archives/104518.html)|
+|[极客公园](https://plink.anyfeeder.com/geekpark)|[猿辅导孵化的一支创业团队，想用 AI 颠覆设计巨头 Figma](http://www.geekpark.net/news/336696)|
+||[腾讯视频号限制 AI 虚拟主播带货；影石年营收翻倍至 40 亿元；宁德时代辟谣「896」工作制 极客早知道](http://www.geekpark.net/news/336677)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[大模型与企业数据该怎样结合？这家大模型中间件创企给出了靠谱的解决方案](https://www.infoq.cn/article/OvI7wE6EKcQGB737HXIC)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[走过石板街，漫步香港电影取景地](https://www.infzm.com/contents/273540)|
+||[“小年”叠加不良天气，广州荔枝减产明显，解困思路何在？](https://www.infzm.com/contents/273562)|
+||[热浪如期而至，或将挑战人类极限](https://www.infzm.com/contents/273556)|
+||[产粮大县抢救“保命水”：高标准农田抗旱井，能不能抗旱](https://www.infzm.com/contents/273564)|
+||[人感染禽流感的风险在变大?](https://www.infzm.com/contents/273538)|
+||[新疆昌吉市发生山洪泥石流灾害造成4人失联](https://www.infzm.com/contents/273554)|
+||[全球多地，热！](https://www.infzm.com/contents/273546)|
+||[结婚了，她还是喜欢一个人睡壁橱](https://www.infzm.com/contents/273091)|
 |[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[IDC：360 XDR处于扩展检测与响应平台市场领导者地位](https://www.4hou.com/posts/porp)|
 |[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI教父Hinton 46分钟对谈：AI可复制人类心智，或加剧全球贫富差距](https://36kr.com/p/2823837790898435)|
 ||[爆赚8700亿，日本首富孙正义，再度“封神”](https://36kr.com/p/2821790758558601)|
