@@ -2,6 +2,121 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[美印发表联合声明 拟在芯片等技术领域展开合作](https://www.zaobao.com/realtime/world/story20240618-3943254)|
+||[泰参议院通过婚姻平等法案 承认同性婚姻](https://www.zaobao.com/realtime/world/story20240618-3943121)|
+||[俄罗斯将在太平洋和日本海举行海军演习](https://www.zaobao.com/realtime/world/story20240618-3942860)|
+||[普京：俄朝将构建不受西方控制的结算体系](https://www.zaobao.com/realtime/world/story20240618-3942762)|
+||[日本“食人菌”感染病例今年已破千](https://www.zaobao.com/realtime/world/story20240618-3942573)|
+||[泰前进党解散案和首相免职案7月举行聆讯](https://www.zaobao.com/realtime/world/story20240618-3942424)|
+||[达信对指控不认罪 获准保释但须交出护照](https://www.zaobao.com/realtime/world/story20240618-3942276)|
+||[五年内增长一倍 以色列去年国防产品出口达130亿美元](https://www.zaobao.com/realtime/world/story20240618-3941663)|
+||[涉冒犯君主法 达信正式被起诉](https://www.zaobao.com/realtime/world/story20240618-3941536)|
+||[二三十名朝鲜兵再越过分界线 韩军鸣枪后撤回](https://www.zaobao.com/realtime/world/story20240618-3941338)|
+||[韩国政府向医协个体医生下达开工令](https://www.zaobao.com/realtime/world/story20240618-3941151)|
+||[消息：岸田文雄考虑7月初访问德国](https://www.zaobao.com/realtime/world/story20240618-3940999)|
+||[以军称完成拉法地区作战还需“几周时间”](https://www.zaobao.com/realtime/world/story20240618-3940884)|
+||[美医务总监敦促国会立法 规定社媒加注警示标签](https://www.zaobao.com/realtime/world/story20240618-3940780)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[王涛参加InfoQ中国直播活动并发布AI大模型应用场景报告](https://www.infoq.cn/article/Rz0SWNZVpqOkAacqqwXi)|
+||[小红书、携程统统靠边站，Google Gemini 打造个性化旅游新体验](https://www.infoq.cn/article/20gAWipASfWdivmPdvis)|
+||[AI 视频技术应用落地：从生产到消费，AIGC 如何革新产业全链路？](https://www.infoq.cn/article/YD7sMLFvz6Bs5OPN7dUH)|
+|[少数派](https://sspai.com/feed)|[新品首发 玩出个性桌搭，好拼、好看、好玩的积木插座来了](https://sspai.com/post/89696)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问大佬们安卓想用 tk 有没有不拔卡，不插国外卡的办法](https://www.v2ex.com/t/1050534#reply16)|
+||[学习一些什么，能抵御年龄带来的危机感](https://www.v2ex.com/t/1050584#reply38)|
+||[go restful api 脚手架](https://www.v2ex.com/t/1050598#reply14)|
+||[美国落地机，中转机选哪里？想用作 tk 直播](https://www.v2ex.com/t/1050616#reply24)|
+||[瞎就瞎吧，还是选择小米 14 ultra 或 mix flod 3](https://www.v2ex.com/t/1050567#reply12)|
+||[一加 12 刷机建议](https://www.v2ex.com/t/1050406#reply22)|
+||[DIY 了一台 NAS，分享下，关键词： 12300T、4m2、5hdd 热插拔](https://www.v2ex.com/t/1050583#reply18)|
+||[chrome 浏览器为什么要自己旋转啊？](https://www.v2ex.com/t/1050569#reply23)|
+||[吐槽下每天用大量的时间解决这样的问题让人难受](https://www.v2ex.com/t/1050533#reply12)|
+|[北门清燕](https://www.bmqy.net/feed.xml)|[为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)|
+|[乌托邦软件](https://www.rdonly.com/?feed=rss2)|[瓜子影视-影视播放软件](https://www.rdonly.com/archives/7524)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[如何在HEXO中加入网络视频（以bilibili视频为例）](http://www.seis-jun.xyz/add-video)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[开源日报 特斯拉FSD入华箭在弦上；BAT决战AI之巅；Linux“蓝屏死机”；程序员制作“一键脱衣”软件；新的Transformer架构；SaaS的“大模型焦虑”](https://www.oschina.net/news/297830)|
+||[毕业季必读：抓住技术人才培养的持续学习机遇](https://my.oschina.net/LFOSSA/blog/11209782)|
+||[Serverless 在点淘的质量保障实践](https://my.oschina.net/u/4662964/blog/11188168)|
+|[36氪](http://36kr.com/feed)|[把户用储能卖到亚非拉，海辰储能在探索一条新路 最前线](https://36kr.com/p/2823666635377158?f=rss)|
+||[氪星晚报 ｜ 影石Insta360去年收入已近40亿元，连续两年翻倍增长；阳光电源在北京成立科技公司；特斯拉Model 3高性能版开启交付](https://36kr.com/p/2825092154034690?f=rss)|
+||[市场日报丨A股“飙车”！车路云概念狂掀涨停潮，汽车产业链集体拉升；CPO板块上攻；电力、白酒股走低](https://36kr.com/p/2824872228161793?f=rss)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[电动汽车初创公司Fisker申请破产](https://cn.wsj.com/amp/articles/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8fisker%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7-164d4858)|
+||[郭文贵案庭审受困于普通话翻译问题](https://cn.wsj.com/amp/articles/%E9%83%AD%E6%96%87%E8%B4%B5%E6%A1%88%E5%BA%AD%E5%AE%A1%E5%8F%97%E5%9B%B0%E4%BA%8E%E6%99%AE%E9%80%9A%E8%AF%9D%E7%BF%BB%E8%AF%91%E9%97%AE%E9%A2%98-edc12ab8)|
+||[揭秘社群媒体网红的收入陷阱：致富只是「神话」](https://cn.wsj.com/amp/articles/%E6%8F%AD%E7%A7%98%E7%A4%BE%E7%BE%A4%E5%AA%92%E4%BD%93%E7%BD%91%E7%BA%A2%E7%9A%84%E6%94%B6%E5%85%A5%E9%99%B7%E9%98%B1-%E8%87%B4%E5%AF%8C%E5%8F%AA%E6%98%AF-%E7%A5%9E%E8%AF%9D-f99cba31)|
+||[李家超：9月23日起港交所实施“打风不停市”](https://cn.wsj.com/amp/articles/%E6%9D%8E%E5%AE%B6%E8%B6%85-9%E6%9C%8823%E6%97%A5%E8%B5%B7%E6%B8%AF%E4%BA%A4%E6%89%80%E5%AE%9E%E6%96%BD-%E6%89%93%E9%A3%8E%E4%B8%8D%E5%81%9C%E5%B8%82-72a402ff)|
+||[拜登的对华强硬立场可能阻碍美国的绿色议程](https://cn.wsj.com/amp/articles/%E6%8B%9C%E7%99%BB%E7%9A%84%E5%AF%B9%E5%8D%8E%E5%BC%BA%E7%A1%AC%E7%AB%8B%E5%9C%BA%E5%8F%AF%E8%83%BD%E9%98%BB%E7%A2%8D%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E8%AE%AE%E7%A8%8B-c878587e)|
+||[是否起诉波音？美国司法部面临艰难抉择](https://cn.wsj.com/amp/articles/%E6%98%AF%E5%90%A6%E8%B5%B7%E8%AF%89%E6%B3%A2%E9%9F%B3-%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E9%9D%A2%E4%B8%B4%E8%89%B0%E9%9A%BE%E6%8A%89%E6%8B%A9-a133cbea)|
+||[面对政治动荡，法国市场投资者可以更淡定一些](https://cn.wsj.com/amp/articles/%E9%9D%A2%E5%AF%B9%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1-%E6%B3%95%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%AF%E4%BB%A5%E6%9B%B4%E6%B7%A1%E5%AE%9A%E4%B8%80%E4%BA%9B-7eea9dc1)|
+|[余晟以为](https://feedpress.me/wx-yurii-says)|[“历史照进现实”，这似乎不太现实](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009963&idx=1&sn=20d216778548b5812c254f791b902a2f)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[消息称华为考虑在鸿蒙应用商店收取 20% 佣金，低于苹果和谷歌](https://www.ithome.com/0/776/081.htm)|
+||[中国科大人形机器人研究院揭牌，并宣布长三角人形机器人联盟成立](https://www.ithome.com/0/776/064.htm)|
+||[索尼确认《神秘海域》真人电影续作等多个项目正在制作中](https://www.ithome.com/0/776/060.htm)|
+||[消息称三星电子正考虑将美国得州泰勒工厂工艺规划从 4nm 改为 2nm](https://www.ithome.com/0/776/046.htm)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[中国碳捕集专利数居首](https://www.solidot.org/story?sid=78458)|
+||[现代人类大约是从 60 万年前开始积累技术知识](https://www.solidot.org/story?sid=78457)|
+||[近五分之一 Microsoft SQL Server 已终止支持](https://www.solidot.org/story?sid=78456)|
+||[FTC 指控 Adobe 非法增加用户取消订阅服务的难度](https://www.solidot.org/story?sid=78455)|
+||[越南三条海底光缆下线](https://www.solidot.org/story?sid=78454)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[消费电子行业现状以及未来投资机会](http://xueqiu.com/9743713791/294095224)|
+||[拼多多与Costco](http://xueqiu.com/4337126030/294141313)|
+||[降息预期落空，央妈也有自己的KPI？](http://xueqiu.com/1558671310/294121015)|
+||[2023年老凤祥股东大会纪要](http://xueqiu.com/2597298640/294165226)|
+||[工银印度基金VS宏利印度基金，哪个更好？](http://xueqiu.com/8687456694/294120237)|
+||[迈瑞医疗：合法的20%增速，压力逐渐增大](http://xueqiu.com/7608175162/294127671)|
+||[谈谈估值VS股价和性价比VS风险](http://xueqiu.com/2792218779/294152955)|
+||[参加洋河2023年度股东大会，“有风有雨是常态，风雨无惧是状态”](http://xueqiu.com/1430912307/294131904)|
+|[摄影世界](https://feedx.net/rss/photoworld.xml)|[尼康推出全画幅微单数码相机 Z6Ⅲ](https://www.photoworld.com.cn/post/177038)|
+|[小众软件](http://feeds.appinn.com/appinns)|[两个下载中小学电子教材（教科书）的网站](https://www.appinn.com/2-website-download-e-book-schools/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助](https://www.jiqizhixin.com/articles/2024-06-18-9)|
+||[成功率超越RoseTTAFold系列，用序列信息直接预测蛋白质-配体复合物结构](https://www.jiqizhixin.com/articles/2024-06-18-8)|
+||[AI在用 鳌拜和韦小宝秀恩爱、奥特曼和黄仁勋打起来，Luma翻车离谱到可爱](https://www.jiqizhixin.com/articles/2024-06-18-7)|
+|[Macin](https://www.macin.org/atom.xml)|[关丹：一直游到海水变蓝](https://macin.org/2024/06/18/guan-dan/)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[搬瓦工VPS限量款补货 CN2 GIA 35.42美元/年](https://www.cheshirex.com/8413.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[请问怎样实现识别图片或视频里的商品内容功能？](https://segmentfault.com/q/1010000044972981)|
+||[Leaflet+Vue整合天地图离线地图时图片加载失败，如何解决？](https://segmentfault.com/q/1010000044972718)|
+||[设置excel下拉框优化？](https://segmentfault.com/q/1010000044972698)|
+||[通过OpenVPN从外网访问内网服务，但无法ping通内网IP地址？](https://segmentfault.com/q/1010000044972693)|
+||[如何使用mxe将centos下的C++项目（使用了pybind）编译成windows下的可执行文件？](https://segmentfault.com/q/1010000044972656)|
+||[React中Ant Design的Tabs组件如何使用items属性动态配置Tab，并在过滤时重置子组件数据？](https://segmentfault.com/q/1010000044972420)|
+||[wgcloud忘记密码，如何找回密码？](https://segmentfault.com/q/1010000044972370)|
+||[如何让申请的免费ssl证书有颁发对象公用名及组织?](https://segmentfault.com/q/1010000044972343)|
+||[如何限制生成的excel某列不可编辑？](https://segmentfault.com/q/1010000044972181)|
+||[Vue中使用printJS打印时页面出现黑边，如何解决？](https://segmentfault.com/q/1010000044971945)|
+||[VIM中<tab>与<C-i>键绑定冲突，如何自定义c-i实现斜体字？](https://segmentfault.com/q/1010000044971931)|
+||[Sortable拖拽 ?](https://segmentfault.com/q/1010000044971911)|
+||[vue3 动态组件和异步组件同时使用的时候，发现页面一旦元素发生变化，就会导致子组件重新触发mounted？](https://segmentfault.com/q/1010000044971767)|
+||[vue-treeselect值改变时，如何添加确认判断逻辑？](https://segmentfault.com/q/1010000044971478)|
+||[RN项目引入 React Navigation 路由后报错如何解决？](https://segmentfault.com/q/1010000044971469)|
+||[@Scheduled cron = "0 20 3 * * *" 定时任务执行时间不对?](https://segmentfault.com/q/1010000044971404)|
+||[如何将java中的LocalDateTime类型和mysql中的datetime类型相对应？](https://segmentfault.com/q/1010000044971233)|
+||[ts 大佬们，嵌套里的对象要怎么定义？](https://segmentfault.com/q/1010000044971188)|
+||[如何根据传入的参数精确 `Promise` 返回的类型？](https://segmentfault.com/q/1010000044971030)|
+||[Quartz如何根据cron表达式计算任务开始前发送通知的时间？](https://segmentfault.com/q/1010000044970996)|
+||[H5动态title，在IOS App 中解析不出中文，而是%25E7%25BA这种格式？](https://segmentfault.com/q/1010000044970869)|
+||[Vue3完整项目搭建教程：包含axios封装、vite.config及TS配置，如何入门？](https://segmentfault.com/q/1010000044970741)|
+||[类似京东订单评论的功能如何开发?](https://segmentfault.com/q/1010000044970345)|
+||[H5通过webview嵌入原生APP时，能否实现保存海报图片到系统相册？](https://segmentfault.com/q/1010000044970289)|
+||[electron设置新图标不生效，打包运行后，桌面的图标显示默认图标?](https://segmentfault.com/q/1010000044970241)|
+|[触乐](http://www.chuapp.com/feed)|[触乐夜话：难以放松](http://www.chuapp.com/article/290034.html)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[微语 0.2.2 发布 - 基于大模型 LLM 和 RAG 的智能客服](https://www.oschina.net/news/297809/weiyu-im-0-2-2-released)|
+||[❤️‍🔥❤️‍🔥❤️‍🔥FlyFlow 工作流：支持字典管理并支持表单引用](https://www.oschina.net/news/297803/flyflow-updated)|
+||[WinSCP 6.3.4 发布，Windows 图形化 SFTP 客户端](https://www.oschina.net/news/297802/winscp-6-3-4-released)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[“无上限”的骑行：年轻人的千亿氪金圣地](https://www.tmtpost.com/7133721.html)|
+||[联想AI PC，方向错了？](https://www.tmtpost.com/7133710.html)|
+||[“家纺二代”勇闯618：我在跨境平台爆赚10倍](https://www.tmtpost.com/7132217.html)|
+||[两个套路，一个目的，《玫瑰的故事》和《墨雨云间》谁抓住了女人心？](https://www.tmtpost.com/7132339.html)|
+||[猛攻智能座舱，新能源车已卷无可卷](https://www.tmtpost.com/7133347.html)|
+||[腾讯济安价值100A股指数第二十三期成分股更新](https://www.tmtpost.com/7133603.html)|
+||[Ascend AI Computing Power Outperforms Nvidia A100, Says Huawei Executive](https://www.tmtpost.com/7133678.html)|
+||[维康药业业绩变脸背后：“神奇”的在建工程与供应商消失之“谜”](https://www.tmtpost.com/7133136.html)|
+||[Chinese E-commerce's Toughest Event Amidst High Return Rates?](https://www.tmtpost.com/7133648.html)|
+||[“日进斗金”的WWDC之后，消费电子“赚钱效应”进一步显现？](https://www.tmtpost.com/7133249.html)|
+||[网红bistro突然闭店，海底捞持股75%，只存活了9个月](https://www.tmtpost.com/7132984.html)|
+||[6月降息预期落空，美联储降息开启还需要什么条件？](https://www.tmtpost.com/7133424.html)|
+||[十年轮回，茅台再次打响价格保卫战](https://www.tmtpost.com/7133360.html)|
+||[小城宝妈扎堆卖保险，职场女性35岁后的“必经之路”？](https://www.tmtpost.com/7133369.html)|
+||[直播带货生态之变：超级主播与平台、商家的新博弈](https://www.tmtpost.com/7133304.html)|
+||[利用多模态大模型，构建自动驾驶场景检索解决方案 创新场景](https://www.tmtpost.com/7133425.html)|
+||[苹果siri成为私人导游，“虚拟旅游”风口到来？](https://www.tmtpost.com/7133175.html)|
+||[快手出海，巴西成老铁](https://www.tmtpost.com/7132884.html)|
 |[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[1979年，25岁的林青霞接受访问](http://www.dapenti.com/blog/more.asp?name=agile&id=179324)|
 ||[贾樟柯谈：好莱坞不香了](http://www.dapenti.com/blog/more.asp?name=xilei&id=179323)|
 ||[【喷嚏图卦20240618】她们以为那里凉快](http://www.dapenti.com/blog/more.asp?name=xilei&id=179322)|
