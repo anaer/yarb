@@ -2,6 +2,123 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 鲁 QZ2288 这个车牌号值多少钱](https://www.v2ex.com/t/1050921#reply15)|
+||[ Apple 我是 21 款 Mac m1max 首批，这两年电脑多次维修，现在屏幕又出现了坏点](https://www.v2ex.com/t/1050909#reply19)|
+||[ 问与答 西安的程序员生活如何？](https://www.v2ex.com/t/1050904#reply14)|
+||[ 问与答 人在国外怎么帮国内的朋友临时架一个网站？](https://www.v2ex.com/t/1050897#reply12)|
+|[happy xiao](https://happyxiao.com/feed)|[如何介绍自己](https://happyxiao.com/introduce/)|
+|[Allen Hua 的网络博客](https://hellodk.cn/feed/)|[更新 link-cleaner v1.1.0 适配linux桌面环境](https://hellodk.cn/post/1172)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人到中年，到底图的是什么？](https://www.zhihu.com/question/657691747)|
+||[逆转绝杀！欧洲杯葡萄牙 2-1 捷克，C 罗造险 + 失单刀，孔塞桑补时绝杀，如何评价这场比赛？](https://www.zhihu.com/question/659220837)|
+||[假设雷电影最初给了国崩（散兵）一个正常的家庭会怎样？](https://www.zhihu.com/question/636922960)|
+||[英伟达市值超越微软，成全球第一，英伟达的增长还能持续多久？](https://www.zhihu.com/question/659303399)|
+||[欧洲杯土耳其 3-1 格鲁吉亚，19 岁居勒尔首秀惊艳世界波，如何评价这场比赛？](https://www.zhihu.com/question/659235633)|
+||[放假了，叔叔邀请我去大城市玩，但他家人好像并不欢迎我，我是那种传闻中令人讨厌的穷亲戚吗?](https://www.zhihu.com/question/613436674)|
+||[普京签署决议，同意与朝鲜签署《全面战略伙伴关系条约》，会带来哪些影响？](https://www.zhihu.com/question/659242683)|
+||[2024 年 6 月 18 日 的任天堂直面会你看了么？都有哪些值得关注的消息？](https://www.zhihu.com/question/659267979)|
+||[网传科大讯飞工程师猝死，知情人称该员工家中过世，家属希望认定工伤，真实情况如何？能认定为工伤吗？](https://www.zhihu.com/question/659256554)|
+||[2024年，618有推荐的电视吗？](https://www.zhihu.com/question/657227725)|
+||[今年618，有哪些家电家居好物值得入手？](https://www.zhihu.com/question/655967570)|
+||[AI 时代，高考选什么专业比较有前景？](https://www.zhihu.com/question/658202339)|
+||[2024 LPL 夏季赛 BLG 2:0 WE，如何评价这场比赛？](https://www.zhihu.com/question/659267470)|
+||[懂车帝宣布 2024 夏测将直播接受公众监督，你觉得这次夏测会比中汽中心进行的夏测更加公平公正吗？](https://www.zhihu.com/question/659227714)|
+||[上海地铁合川路站一 54 岁男子持刀伤 3 人，现已被警方抓获，案件正在侦办中，目前具体情况如何？](https://www.zhihu.com/question/659308293)|
+||[有哪些适合夏天的包包颜色？](https://www.zhihu.com/question/656287967)|
+||[如何评价《海贼王》漫画第 1118 话情报？](https://www.zhihu.com/question/659212312)|
+||[为什么大部分电车的轮毂都比油车的更封闭，难道电车的刹车不需要散热吗，不怕极端情况热衰减造成危险吗?](https://www.zhihu.com/question/655840707)|
+||[如果星际和平公司指控流萤是罪犯，你要怎么替流萤辩护?](https://www.zhihu.com/question/659229098)|
+||[如何看待 2024 年 6 月 19 日 A 股市场行情？](https://www.zhihu.com/question/659216969)|
+||[作为职场新人，如何在短时间内了解并掌握工作职责？](https://www.zhihu.com/question/653095276)|
+||[刚毕业想要换一款长续航、高性能的游戏本，618 有作业可以抄吗？](https://www.zhihu.com/question/659230999)|
+||[贫困女生有什么渠道度过大学？](https://www.zhihu.com/question/659182494)|
+||[中国跑酷运动重要推动者张磊因心脏疾病去世，终年 39 岁，你对他推广的跑酷运动有哪些了解？](https://www.zhihu.com/question/659123533)|
+||[孩子三年级了，平时也看了不少书，语文还是不怎么好，该怎么办？](https://www.zhihu.com/question/656777336)|
+||[机器狗有什么很难被替代的用途？](https://www.zhihu.com/question/627893373)|
+||[为什么健身的人大多推崇鸡胸肉，而不是鱼肉？](https://www.zhihu.com/question/656095010)|
+||[高考完应该先去旅游还是去工作?](https://www.zhihu.com/question/659177583)|
+||[莫辛纳甘枪栓酸涩的问题究竟出自哪里？](https://www.zhihu.com/question/659021450)|
+||[如何评价网传 ASML「掀老底」称 3nm 芯片实际为 23nm，1nm 芯片是 18nm？](https://www.zhihu.com/question/659222197)|
+||[《星穹铁道》持明族，如果只有「白露」可以生孩子会怎样？](https://www.zhihu.com/question/656999873)|
+||[小米集团 5 人上榜中国最有钱 500 人榜单，这其中的原因有哪些？](https://www.zhihu.com/question/659153777)|
+||[如何评价罗翔锐评陀氏和尼采？](https://www.zhihu.com/question/655385881)|
+||[以总理内塔尼亚胡住所遭冲击，示威者要求政府重新选举，以战时内阁解散将带来什么影响？](https://www.zhihu.com/question/659239589)|
+||[视频作者磊哥再扒《王者荣耀》为拖游戏时长，新型人机将统一拒绝投降，这是真的吗？](https://www.zhihu.com/question/659275443)|
+||[甘肃一烟草局被指伪造证据，三年前应当送达的通知书三年后「摆拍」，事情的真相如何？如何看待烟草局的回应？](https://www.zhihu.com/question/659215832)|
+||[英国《经济学人》刊登封面故事，称「中国已经成为科学的超级大国」《知识分子》发文点评，对此你怎么看？](https://www.zhihu.com/question/659127157)|
+||[读书时，有哪些令你触动的评论？](https://www.zhihu.com/xen/market/ecom-page/1781731953156808704)|
+||[司马老贼出道 10 年，退役后拿下职业生涯首个比赛冠军，对此你有什么想说的？](https://www.zhihu.com/question/659131638)|
+||[孩子买文具帮别人付了五毛钱，应该逼着孩子要回来吗？](https://www.zhihu.com/question/659002422)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[微软通过 Copilot+ PC 向用户释出 Windows 11 24H2](https://www.solidot.org/story?sid=78468)|
+||[塞尔达公主有了自己担任主角的动作冒险游戏](https://www.solidot.org/story?sid=78467)|
+||[苹果据报暂停下一代高端 Vision 的研发](https://www.solidot.org/story?sid=78466)|
+||[黑客在地下论坛出售窃取的 AMD 数据，AMD 表示正对此展开调查](https://www.solidot.org/story?sid=78465)|
+|[新浪专栏-创事记](https://plink.anyfeeder.com/sina/csj)|[体验、红利、确定性，618给商家的「三重启示」](https://finance.sina.com.cn/tech/csj/2024-06-19/doc-inazhewc7385945.shtml)|
+||[3年亏损30亿，“暴利”的宠物医疗为何难做？](https://finance.sina.com.cn/tech/csj/2024-06-19/doc-inazfuhp8834087.shtml)|
+||[大模型会自己“盗图”？这些坑OpenAI已经踩过了](https://finance.sina.com.cn/tech/csj/2024-06-18/doc-inazehez8357175.shtml)|
+|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[生成式人工智能技术的快速应用，引发企业内部担忧](https://www.freebuf.com/news/403906.html)|
+||[AMD多项内部数据被黑客挂到暗网出售](https://www.freebuf.com/news/403901.html)|
+||[VMware 关键漏洞修复程序已发布，请立即更新](https://www.freebuf.com/news/403897.html)|
+||[Barracuda最新报告显示：有 92% 的企业曾遭遇社工攻击](https://www.freebuf.com/news/403895.html)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[ISC.AI 2024创新独角兽沙盒大赛开启，招募AI&amp;安全双域创新力量](https://www.4hou.com/posts/kj9E)|
+||[2024 年 5 月头号恶意软件：Phorpiex 僵尸网络掀起网络钓鱼狂潮](https://www.4hou.com/posts/gD13)|
+||[国家计算机病毒应急处理中心监测发现15款违规移动应用](https://www.4hou.com/posts/vxK0)|
+||[CISA 称 Windows 漏洞可能被利用于勒索软件攻击](https://www.4hou.com/posts/kj9N)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[奢侈品电商深陷寒冬，NET-A-PORTER 将退出中国](http://www.toodaylab.com/82883)|
+|[澳大利亚广播公司](https://plink.anyfeeder.com/abc/cn)|[魅力大使号召力强：解读中国“熊猫外交”的历史](https://newsapp.abc.net.au/newsapp//chinese/2024-06-19/chinas-long-history-of-panda-diplomacy/103987570)|
+||[成蕾被遮挡事件升级 李强访澳的败笔？](https://newsapp.abc.net.au/newsapp//chinese/2024-06-19/australia-pm-raises-journalist-incident-with-china-s-li/103995230)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[大模型如何破解数据困局，WAIC产学研专家共话突围之道](https://www.jiqizhixin.com/articles/2024-06-19-10)|
+||[英伟达成全球市值最高公司，黄仁勋加州理工演讲：年轻人抓住机会，要跑不要走](https://www.jiqizhixin.com/articles/2024-06-19-9)|
+||[英伟达摘两篇最佳论文、浙大周昆获时间检验奖，SIGGRAPH 2024奖项出炉](https://www.jiqizhixin.com/articles/2024-06-19-8)|
+||[吴恩达团队新作：多模态多样本上下文学习，无需微调快速适应新任务](https://www.jiqizhixin.com/articles/2024-06-19-7)|
+||[ICLR 2024 Oral 应对随时间变化的分布偏移，西安大略大学等提出学习时序轨迹方法](https://www.jiqizhixin.com/articles/2024-06-19-6)|
+||[Hinton任顾问，「AI+材料」初创CuspAI宣布获得3000万美元种子轮融资](https://www.jiqizhixin.com/articles/2024-06-19-5)|
+||[「复活」古生物分子，AI解决抗生素耐药性，复旦、宾大合作团队两篇论文登Cell和Nature子刊](https://www.jiqizhixin.com/articles/2024-06-19-4)|
+||[松鼠Ai全新多模态智适应大模型发布会重磅召开，智适应教育软硬件全面升级](https://www.jiqizhixin.com/articles/2024-06-19-2)|
+||[智源更新大模型排行榜：豆包大模型“客观评测”排名国产第一](https://www.jiqizhixin.com/articles/2024-06-19)|
+|[少数派 -- Matrix](https://plink.anyfeeder.com/ssapi/matrix)|[沪漂七年、搬家七次，我的选房思路与租房好物分享](https://sspai.com/post/89127)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[司法部发布一批涉企行政复议典型案例](https://www.infzm.com/contents/273650)|
+||[“热爱龙舟的地方，怎能没有女子龙舟队”](https://www.infzm.com/contents/273625)|
+||[世界经济论坛安格斯·柯林斯：中国仍是全球经济活动关键驱动力](https://www.infzm.com/contents/273605)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[梆梆两拳，Netflix打回股价](http://www.huxiu.com/article/3152531.html?f=wangzhan)|
+||[三分钟了解低温冻存——可以“凝固时光”的技术](http://www.huxiu.com/article/3152082.html?f=wangzhan)|
+||[一年猛赚30亿的瑞幸重新开始亏损，二次危机要来了？](http://www.huxiu.com/article/3151594.html?f=wangzhan)|
+||[广汽：我没说要躺平啊](http://www.huxiu.com/article/3148152.html?f=wangzhan)|
+||[被企业滥用的竞业协议，还算“正当竞争”吗？](http://www.huxiu.com/article/3148614.html?f=wangzhan)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[小红书关键词如何精细化布局](https://www.woshipm.com/operate/6071724.html)|
+||[618，拼多多像黄峥一样「隐身」](https://www.woshipm.com/share/6071701.html)|
+||[内容，即广告](https://www.woshipm.com/share/6071575.html)|
+||[信贷业务 对公客户对私客户信贷调查和审查重点关注信息](https://www.woshipm.com/share/6071581.html)|
+||[产品经理必备的PPT写作知识](https://www.woshipm.com/share/6071142.html)|
+||[支付营销——银行高效营销利器](https://www.woshipm.com/marketing/6071156.html)|
+||[一文读懂高歌猛进的美国CTV联网电视](https://www.woshipm.com/marketing/6071557.html)|
+||[转型AI产品经理（13）：“峰终定律”如何应用在Chatbot产品中](https://www.woshipm.com/share/6067130.html)|
+||[Kidults时代，餐饮品牌的“玩具大战”](https://www.woshipm.com/share/6071512.html)|
+||[别捣鼓AI提示词了，干点更有价值的事](https://www.woshipm.com/aigc/6071497.html)|
+||[Tob企业产品运营（客户成功）岗对于企业你不知道的价值](https://www.woshipm.com/share/6071440.html)|
+||[产品小白进阶路02：从运营角度做B端竞品分析](https://www.woshipm.com/share/6070610.html)|
+||[浅谈支付/对账系统的设计](https://www.woshipm.com/share/6070966.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[抖音寻人：着眼真实需求，追求长期价值](https://www.infzm.com/contents/273641)|
+||[倒卖减肥“神药”：司美格鲁肽流通乱象何解？](https://www.infzm.com/contents/273648)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[蔡天凤案进展：前夫邝港智因此前犯下盗窃等7罪获刑42个月](https://m.thepaper.cn/detail/27784194)|
+||[强降雨致福建58万余人受灾，仍有多条河流发生超警超保洪水](https://m.thepaper.cn/detail/27784151)|
+||[央广网：因救人上课迟到被处分教师停诊，学校拒绝记者采访](https://m.thepaper.cn/detail/27783480)|
+||[视频丨习近平：让孩子们吃得营养健康](https://m.thepaper.cn/detail/27783914)|
+||[医务人员巡检时发现男子脸色不对，立即跪地急救](https://m.thepaper.cn/detail/27783109)|
+||[欢迎仪式现场奏响俄罗斯国歌，金正恩普京并肩走过红毯](https://m.thepaper.cn/detail/27784150)|
+||[带着跨越山海的“谢谢”，“里斯本丸”沉船事件英军后代登东极岛缅怀](https://m.thepaper.cn/detail/27783052)|
+||[中欧主要车企举行闭门会议，中方车企和行业协会对反补贴调查表达强烈不满](https://m.thepaper.cn/detail/27784172)|
+||[福建武平县岩前中学校舍被洪水淹没两米多，109名中考生已转移安顿](https://m.thepaper.cn/detail/27784017)|
+||[虚伪双标和邪恶本质暴露无遗：中国驻菲使馆发言人就美国军方抹黑中国疫苗发表声明](https://m.thepaper.cn/detail/27784053)|
+||[二十多位浙江村民连夜为四名福建中考生挖出“赶考路”](https://m.thepaper.cn/detail/27783054)|
+||[马上评｜交通违法并迷信“豁免权”，本质是特权思维作祟](https://m.thepaper.cn/detail/27783566)|
+||[释新闻｜一年内领导人互访，俄朝关系如何发展到更高阶段？](https://m.thepaper.cn/detail/27776200)|
+||[梅州蕉岭：在洪涝与滑坡夹击之下](https://m.thepaper.cn/detail/27783099)|
+||[上杭“客家第一祠”启动修复，县文旅局：有价值老物件坍塌前已移至安全位置](https://m.thepaper.cn/detail/27782466)|
+||[以总理解散战时内阁：民众爆发抗议，美特使斡旋黎以](https://m.thepaper.cn/detail/27776155)|
+||[一起合同诈骗案撤案后引发的举报：原海口市检察院检察长被指插手案件，纪委介入](https://m.thepaper.cn/detail/27763273)|
+|[SegmentFault 最新的文章](https://segmentfault.com/articles/feeds)|[Go 再次讨论 catch error 模型，官方回应现状](https://segmentfault.com/a/1190000044974327)|
+||[『SD』它来了！Stable Diffusion 3 Medium！启动！](https://segmentfault.com/a/1190000044973835)|
+|[极客公园](http://feeds.geekpark.net/)|[3.34万亿！英伟达成全球市值最高公司；iPhone 16 最高突破 2 万元；B 站第 200 亿条弹幕诞生：哈哈哈哈哈｜极客早知道](http://www.geekpark.net/news/336718)|
 |[简书首页](https://plink.anyfeeder.com/jianshu/home)|[揭秘——24年美业创业家水光玩法](https://www.jianshu.com/p/d3da80c78345)|
 ||[🍵🌱揭秘茶叶内质结构，品味苦尽甘来的韵味🍵](https://www.jianshu.com/p/d86703208810)|
 ||[跟着太阳去旅行（4）](https://www.jianshu.com/p/b8b7c1f6c25a)|
