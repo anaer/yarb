@@ -2,6 +2,49 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 求职 大厂被裁在家四个月特别特别焦虑，工作很难找](https://www.v2ex.com/t/1051004#reply11)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[Node.js 连接到 Spring Eureka 实现服务发现](https://www.jdon.com/74306.html)|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Parameter Importance Approximation Via Taylor Expansion In Neural Network Pruning](https://leimao.github.io/blog/Parameter-Importance-Approximation-Via-Taylor-Expansion-In-Neural-Network-Pruning/)|
+||[2024 年 5 月和 6 月该入手的模型手办](https://leimao.github.io/essay/2024%E5%B9%B45%E6%9C%88%E5%92%8C6%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/)|
+|[掘金专栏-字节跳动技术团队](https://rsshub.app/juejin/posts/1838039172387262)|[ICDE 2024 服务调用延迟降低10%-70%，字节跳动做了什么？](https://juejin.cn/post/7381741857708064777)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[物有所值最重要](http://xueqiu.com/6712377439/294342434)|
+||[用周期理论，洞察光模块的投资逻辑](http://xueqiu.com/5672579962/294318346)|
+||[老沈茶馆黑板报第19期：生意模式定乾坤](http://xueqiu.com/8037580983/294305580)|
+||[总有人会等来恒生医药的拐点](http://xueqiu.com/9598793634/294304288)|
+||[洋河，你还值得持有吗？（三）](http://xueqiu.com/9731053588/293920140)|
+|[闲趣](https://xqrp.com/feed)|[非常喜欢的书法大家-黄若舟](https://xqrp.com/661682.html)|
+|[61’s life](https://61.life/feed.xml)|[20240619](http://61.life/2024/0619)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[数据开发转岗数据产品经理有何优劣势](https://www.woshipm.com/share/6071816.html)|
+||[创业公司不需要大厂产品经理](https://www.woshipm.com/share/6071804.html)|
+||[项目进度难以推进，不妨试试这个办法！](https://www.woshipm.com/share/6071801.html)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[我和学姐的故事](https://www.coolapk.com/feed/56908183?shareKey=ZTYwNTljNjBiMmZlNjY3MzI4YmY~)|
+||[本腾的asr没有卡槽](https://www.coolapk.com/feed/56907270?shareKey=YTQyNGIwM2I4NzY2NjY3MzI4YmY~)|
+||[ Magisk模块 小米平板解锁全局侧边栏](https://www.coolapk.com/feed/56907707?shareKey=MWQ2YTBlYjhlNDdiNjY3MzI4YmY~)|
+||[10号电能棒初✌️测评](https://www.coolapk.com/feed/56906400?shareKey=MWNmYTg2ZmY5OWM0NjY3MzI4YmY~)|
+||[初耳声学GATE单动圈入耳式耳机测评](https://www.coolapk.com/feed/56905479?shareKey=ZWIzZjgwZjdiOTY2NjY3MzI4YmY~)|
+||[HyperOS1.0.24.6.10公测版_1.0.9稳定版_Redmi K40_雪糕小豪_正式发布](https://www.coolapk.com/feed/56905217?shareKey=OWNjZjZhZTFhNTRhNjY3MzI4YmY~)|
+||[2024年618购物总结和关于促销活动的看法](https://www.coolapk.com/feed/56904906?shareKey=Zjg4NTFmNDYxZjJkNjY3MzI4YmY~)|
+||[上学、上班必备物品——U盘](https://www.coolapk.com/feed/56904251?shareKey=MWZjMjZlMWJhZTIxNjY3MzI4YmY~)|
+||[直视角度无敌](https://www.coolapk.com/feed/56904490?shareKey=M2FjYmVlMWM4M2RjNjY3MzI4YmY~)|
+||[OPPO 大法好](https://www.coolapk.com/feed/56903952?shareKey=NWUzZjY4NzljMjJkNjY3MzI4YmY~)|
+||[为你的荣耀MagicOS7更换默认桌面](https://www.coolapk.com/feed/56903687?shareKey=NzlkM2E3YzFjZThlNjY3MzI4YmY~)|
+||[关于牢大出装铭文](https://www.coolapk.com/feed/56903324?shareKey=NjNiODJjNmVlMGMwNjY3MzI4YmY~)|
+||[小米平板6SPro LineageOS21 Light GSI手把手刷入教程+简要体验感受](https://www.coolapk.com/feed/56902984?shareKey=MTVhMTIwMGY3ZWE2NjY3MzI4YmY~)|
+||[ ROM Polaris MI MIX 2S A13 OS1.0.35.0.TDGCNXM_24.06.19](https://www.coolapk.com/feed/56902225?shareKey=YTg0MjExM2YxNThlNjY3MzI4YmY~)|
+||[一篇搞定，最强北京旅游攻略！！](https://www.coolapk.com/feed/56902039?shareKey=Y2JkNDc0OWI0MDc1NjY3MzI4YmY~)|
+||[Hyper的底栏真是百花齐放吖](https://www.coolapk.com/feed/56901865?shareKey=NjMzNjdjZGRmMjM0NjY3MzI4YmY~)|
+||[奈飞香港区车位](https://www.coolapk.com/feed/56901824?shareKey=ODhiNzdiMWUwYmMwNjY3MzI4YmY~)|
+||[出一加8t，12+256，已root](https://www.coolapk.com/feed/56899151?shareKey=YTQ2ODExMjNlZjAyNjY3MzI4YmY~)|
+|[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[波音飞船返程再推迟 - June 19, 2024](https://m.idai.ly/se/14ePHm)|
+||[普京时隔24年访朝鲜 - June 19, 2024](https://m.idai.ly/se/f06Dt3)|
+||[中韩外交安全2+2对话 - June 19, 2024](https://m.idai.ly/se/77dZj6)|
+||[美韩联合特战演习 - June 19, 2024](https://m.idai.ly/se/9e3Tty)|
+||[以色列空袭加沙难民营 - June 19, 2024](https://m.idai.ly/se/6aaZei)|
+||[日本青森樱桃拍卖 - June 19, 2024](https://m.idai.ly/se/090mf6)|
+||[泰国同性婚姻合法化 - June 19, 2024](https://m.idai.ly/se/9d4m3B)|
+||[LV 2025春夏男装秀 - June 19, 2024](https://m.idai.ly/se/377yx1)|
+||[德国深海动物标本展 - June 19, 2024](https://m.idai.ly/se/4e23i7)|
+|[CHEGVA](https://chegva.com/feed/)|[什么是 SRE？成为一名优秀的 SRE 需要具备什么能力？](https://chegva.com/6092.html)|
 |[简书首页](https://plink.anyfeeder.com/jianshu/home)|[励志新闻人物，还是请大家把关注点放在“励志”二字上吧！](https://www.jianshu.com/p/ef33aee2e155)|
 ||[灯谜创作小记](https://www.jianshu.com/p/9c06ea107f15)|
 ||[已经做好了喝西北风的准备](https://www.jianshu.com/p/777f8081dd27)|
