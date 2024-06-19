@@ -2,6 +2,69 @@
 
 |来源|标题|
 |---|---|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[励志新闻人物，还是请大家把关注点放在“励志”二字上吧！](https://www.jianshu.com/p/ef33aee2e155)|
+||[灯谜创作小记](https://www.jianshu.com/p/9c06ea107f15)|
+||[已经做好了喝西北风的准备](https://www.jianshu.com/p/777f8081dd27)|
+||[开车问题](https://www.jianshu.com/p/bd693d4c5176)|
+||[折腾是穷人的专利，因为富人不用折腾。](https://www.jianshu.com/p/dacac3a5de48)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[探索 5 大 AI 语言学习工具,掌握新语言的未来丨AI情报局](https://www.leiphone.com/category/ai/nDnEcgytWuRDj5sx.html)|
+||[5 款好用的 AI 知识搜索引擎，揭开智能搜索新篇章丨AI 情报局](https://www.leiphone.com/category/ai/ODf8zQbFaCYmzHnf.html)|
+||[Miraa 周楷雯：一个 AI 时代的独立开发者，与他的产品逻辑](https://www.leiphone.com/category/yanxishe/ybYTY9aLiB5FX370.html)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[高通霸道授权模式自食恶果，向股东赔偿 7500 万美元以平息诉讼风波](https://www.ithome.com/0/776/401.htm)|
+||[腾讯与总台央视达成合作意向，成为 2024 年巴黎奥运会持权转播商](https://www.ithome.com/0/776/395.htm)|
+||[工信部：智能网联汽车技术快速迭代，已实现辅助驾驶大规模应用](https://www.ithome.com/0/776/399.htm)|
+||[华为：下半年将推出新产品，以解决车路云路侧和感知短板](https://www.ithome.com/0/776/393.htm)|
+||[马斯克：戴尔及日本 SMC 正为 xAI 超级计算机组建机架](https://www.ithome.com/0/776/391.htm)|
+||[AI 潜力巨大，亚马逊宣布在德国投资 100 亿欧元拓展云基础设施和物流中心](https://www.ithome.com/0/776/385.htm)|
+||[中文广告属于国内特供：欧洲杯首次引入虚拟实时广告技术](https://www.ithome.com/0/776/378.htm)|
+||[SK 海力士展示 HBM3E、CMM-DDR5 等 AI 内存解决方案](https://www.ithome.com/0/776/374.htm)|
+|[海交史](https://www.haijiaoshi.com/feed)|[尤淑君 津海关道与1880—1894年中朝关系的变化](https://www.haijiaoshi.com/archives/11891?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25b0%25a4%25e6%25b7%2591%25e5%2590%259b-%25e6%25b4%25a5%25e6%25b5%25b7%25e5%2585%25b3%25e9%2581%2593%25e4%25b8%258e1880-1894%25e5%25b9%25b4%25e4%25b8%25ad%25e6%259c%259d%25e5%2585%25b3%25e7%25b3%25bb%25e7%259a%2584%25e5%258f%2598%25e5%258c%2596)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[面对市场热点，中国人民银行行长这样回应](http://finance.people.com.cn/n1/2024/0619/c1004-40260134.html)|
+||[巴黎奥运会女排抽签出炉 中国女排与法国、美国和塞尔维亚队同组](http://ent.people.com.cn/n1/2024/0619/c1012-40260126.html)|
+||[中国人民银行行长详解货币政策走向](http://finance.people.com.cn/n1/2024/0619/c1004-40260124.html)|
+||[9.16亿元水利救灾资金下达](http://society.people.com.cn/n1/2024/0619/c1008-40260122.html)|
+||[两部门紧急预拨3.46亿元中央自然灾害救灾资金](http://society.people.com.cn/n1/2024/0619/c1008-40260095.html)|
+||[外交部:推进中欧班列高质量发展 更好保障全球产供链稳定](http://world.people.com.cn/n1/2024/0619/c1002-40260093.html)|
+||[“碳”索绿色发展 我国首个工业用途核能供汽项目建成投产](http://finance.people.com.cn/n1/2024/0619/c1004-40260088.html)|
+||[中国海警登检菲律宾船只画面公布](http://world.people.com.cn/n1/2024/0619/c1002-40260085.html)|
+||[商务部：坚决反对英方制裁5家中国企业](http://finance.people.com.cn/n1/2024/0619/c1004-40260062.html)|
+||[证监会发布深化科创板改革8条措施 强化“硬科技”定位](http://finance.people.com.cn/n1/2024/0619/c1004-40260019.html)|
+||[江西省人大常委会原党组副书记、副主任洪礼和接受审查调查](http://society.people.com.cn/n1/2024/0619/c1008-40259994.html)|
+||[证监会:全力推动资本市场高质量发展](http://finance.people.com.cn/n1/2024/0619/c1004-40259935.html)|
+||[2023年纠正违法和不当行政行为3.4万件](http://society.people.com.cn/n1/2024/0619/c1008-40259933.html)|
+||[三部门开展专项行动便利涉企行政复议](http://society.people.com.cn/n1/2024/0619/c1008-40259931.html)|
+||[教育部发布2024年高考志愿填报十问十答](http://edu.people.com.cn/n1/2024/0619/c1006-40259912.html)|
+||[@所有人 这份高温天气饮食指南请查收](http://health.people.com.cn/n1/2024/0619/c14739-40259899.html)|
+||[第30届北京国际图书博览会开幕](http://ent.people.com.cn/n1/2024/0619/c1012-40259897.html)|
+||[科创板改革再出发](http://finance.people.com.cn/n1/2024/0619/c1004-40259831.html)|
+||[公安机关对美方通报涉毒洗钱线索依法立案侦查](http://society.people.com.cn/n1/2024/0619/c1008-40259682.html)|
+|[LearnKu 终身编程者的知识社区](https://learnku.com/feed)|[Redis 实用小技巧——记一次 Redis 「大扫除」行动](https://learnku.com/articles/87312)|
+||[利用 fail2ban 来控制 Laravel 站点的异常流量](https://learnku.com/articles/87303)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[英伟达超越微软，成为全球市值最高公司](https://cn.nytimes.com/technology/20240619/nvidia-most-valuable-company/dual)|
+||[热爱“组团”理财的韩国人：一起存钱一起花](https://cn.nytimes.com/asia-pacific/20240619/saving-korea-gyemoim/dual)|
+|[Share erotic Asian...](https://hotgirl.asia/feed/)|[Cosplay 七月喵子 蒂迟亚希](https://hotgirl.asia/cosplay-%e4%b8%83%e6%9c%88%e5%96%b5%e5%ad%90-%e8%92%82%e8%bf%9f%e4%ba%9a%e5%b8%8c/)|
+||[Cosplay 水淼Aqua 碧蓝档案 天雨亚子礼服 Set.02](https://hotgirl.asia/cosplay-%e6%b0%b4%e6%b7%bcaqua-%e7%a2%a7%e8%93%9d%e6%a1%a3%e6%a1%88-%e5%a4%a9%e9%9b%a8%e4%ba%9a%e5%ad%90%e7%a4%bc%e6%9c%8d-set-02/)|
+||[Cosplay 麻花麻花酱 体操服 Set.01](https://hotgirl.asia/cosplay-%e9%ba%bb%e8%8a%b1%e9%ba%bb%e8%8a%b1%e9%85%b1-%e4%bd%93%e6%93%8d%e6%9c%8d-set-01/)|
+||[Chaebiniya 채빙, ArtGravia Vol.604 Photobook Set.02](https://hotgirl.asia/chaebiniya-%ec%b1%84%eb%b9%99-artgravia-vol-604-photobook-set-02/)|
+||[Merry LEEHEE EXPRESS MERRY-031A Set.02](https://hotgirl.asia/merry-leehee-express-merry-031a-set-02/)|
+||[ZIA.Kwon 권지아, READY Vol.01 “Lady Doctor” Set.02](https://hotgirl.asia/zia-kwon-%ea%b6%8c%ec%a7%80%ec%95%84-ready-vol-01-lady-doctor-set-02/)|
+||[Clare 클레어, Supreme NO.01 Photobook Set.02](https://hotgirl.asia/clare-%ed%81%b4%eb%a0%88%ec%96%b4-supreme-no-01-photobook-set-02/)|
+||[K.D.L 감동란, Espacia Korea EHC#138](https://hotgirl.asia/k-d-l-%ea%b0%90%eb%8f%99%eb%9e%80-espacia-korea-ehc138/)|
+||[Banhee 반희, Fantasy Story “Ripped Stockings” Set.01](https://hotgirl.asia/banhee-%eb%b0%98%ed%9d%ac-fantasy-story-ripped-stockings-set-01/)|
+||[XiuRen秀人网 NO.7024 柒喜小baby](https://hotgirl.asia/xiuren%e7%a7%80%e4%ba%ba%e7%bd%91-no-7024-%e6%9f%92%e5%96%9c%e5%b0%8fbaby/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[Deno 标准库快要发布稳定版 1.0 了！](https://www.oschina.net/news/297999/deno-stabilize-std)|
+||[开源日报 开源模型击败GPT-4 Turbo；Python考虑更改版本编号；开源大模型食用指南；你喜欢计算机/编程吗？](https://www.oschina.net/news/297997)|
+||[Python 考虑更改版本编号，使用“日历”方式](https://my.oschina.net/u/6919515/blog/11212092)|
+||[大众点评内容搜索算法优化的探索与实践](https://my.oschina.net/meituantech/blog/11048543)|
+||[彭博社：华为与腾讯接近达成协议，不对微信“抽成”](http://osc.cool/CDGpWQaj)|
+||[近 20% 的 Microsoft SQL Server 已不再受支持](https://www.oschina.net/news/297952/outdated-sql-server)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 可怕！字节的飞连原来真的在后台明目张胆的截屏](https://www.v2ex.com/t/1050989#reply33)|
+||[ VXNA 刚刚完成了对截至 20240620 的所有 VXNA 提交的处理](https://www.v2ex.com/t/1050973#reply13)|
+|[葉開三言兩語](https://qq.md/feed/)|["痛风与肌肉疼痛的双重困扰及探寻"叶开新动态](https://qq.md/post/736)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[募资金额缩水 8 个亿，Momenta 冲刺 IPO 图什么？](http://www.huxiu.com/article/3153526.html?f=wangzhan)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[迟到的普京与热情的金正恩——俄罗斯及朝鲜签署新的“全面战略伙伴关系协议”](https://www.bbc.com/zhongwen/simp/world-69131209)|
+|[IT之家](https://www.ithome.com/rss/)|[华为 Mate 60 系列手机获推鸿蒙 HarmonyOS 4.2.0.130，Pro+/RS 非凡大师机型新增智感扫码](https://www.ithome.com/0/776/402.htm)|
+||[618 等等党大胜：B站QQ 迅雷网易优酷会员 168 元破冰新低（总价 2194 元）](https://www.ithome.com/0/776/384.htm)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[从OpenAI离职的Ilya Sutskever等人宣布共同创办“安全超级智能公司”](https://m.cnbeta.com.tw/view/1435377.htm)|
 ||[华为全新专利：根据司机打哈欠等状态调整自动驾驶策略](https://m.cnbeta.com.tw/view/1435374.htm)|
 ||[松下发布支持AI的加固笔记本Toughbook 起价4700美元](https://m.cnbeta.com.tw/view/1435373.htm)|
