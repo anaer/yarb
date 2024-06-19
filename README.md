@@ -2,6 +2,93 @@
 
 |来源|标题|
 |---|---|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[英伟达超越微软，成为全球市值最高公司](https://cn.nytimes.com/technology/20240619/nvidia-most-valuable-company/)|
+||[热爱“组团”理财的韩国人：一起存钱一起花](https://cn.nytimes.com/asia-pacific/20240619/saving-korea-gyemoim/)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[U36论坛：去有浪的地方｜WAVES新浪潮2024](https://36kr.com/p/2826588415232259?f=rss)|
+||[冯大刚、马寅、王冉圆桌对谈：老男孩｜WAVES新浪潮2024](https://36kr.com/p/2826141013101060?f=rss)|
+||[「东方甄选」披露自营成绩单：半年GMV超36亿元、抖音订单量累计破亿单丨最前线](https://36kr.com/p/2826367934171394?f=rss)|
+||[氪星晚报｜天猫618：365个品牌成交破亿，88VIP会员规模创历史新高；2024南京软件大会即将召开，华为阿里百度等企业都将参与；百度文库新产品“橙篇”支持10万字长文生成](https://36kr.com/p/2826604677499400?f=rss)|
+||[面向AI初创团队！寻找100个AI未来全球新星](https://36kr.com/p/2824709072046344?f=rss)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 docker 为什么不能拉取镜像了](https://www.v2ex.com/t/1050948#reply17)|
+||[ Android 原生 Android 和 ESIM 不可兼得](https://www.v2ex.com/t/1050946#reply14)|
+||[ Web Dev 请教一下搜索和搜索结果页面分离如何参数传递？](https://www.v2ex.com/t/1050930#reply15)|
+||[ 生活 我每天都想喝酒，我该怎么办？](https://www.v2ex.com/t/1050929#reply11)|
+|[反斗限免](http://free.apprcn.com/feed/)|[iCare Format Recovery Pro – 数据恢复软件 Windows $69.99→0 ](https://free.apprcn.com/icare-format-recovery-pro-12/)|
+||[免费获取字体包 Romantic Handwritten Font Bundle Windows、macOS $900→0 ](https://free.apprcn.com/get-romantic-handwritten-font-bundle-for-free/)|
+||[免费获取 Steam 游戏 Rocky Mayhem Windows ](https://free.apprcn.com/get-steam-game-rocky-mayhem-for-free/)|
+|[V2方圆](https://v2fy.com/feed/)|[黑神话最佳合作伙伴，能不能白嫖黑悟空就看banana了！](https://v2fy.com/p/2024-06-19-12-25-41-banana/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI在用 AI文风测试火了，林夕的词风竟像大冰，网友：悬着的心终于死了](https://www.jiqizhixin.com/articles/2024-06-19-11)|
+|[沉舟侧畔 Blog](https://springwood.me/feed/)|[自己根据扫描 PDF 文件制作 EPUB 电子书](https://springwood.me/making-epub-ebook/)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[关于ColorOS14的一些方案](https://www.coolapk.com/feed/56895228?shareKey=MzhiNGFlMzllZWVlNjY3MmE4ZTk~)|
+||[【WOA】红米K20Pro 重装Windows 11 24H2并解决驱动问题](https://www.coolapk.com/feed/56894153?shareKey=ODM5YTg2NjA5ODI2NjY3MmE4ZTk~)|
+||[舒适度极高的屁屁分享Ingtoys x名器波多野结衣](https://www.coolapk.com/feed/56894548?shareKey=MGE2YTE3MjNhNjcyNjY3MmE4ZTk~)|
+||[卖机，个人一手机](https://www.coolapk.com/feed/56894300?shareKey=YjQyN2ZlZjcwNjM5NjY3MmE4ZTk~)|
+||[低价！！！](https://www.coolapk.com/feed/56893854?shareKey=YzFkMGYzZTc5M2Q3NjY3MmE4ZTk~)|
+||[相机包谁有](https://www.coolapk.com/feed/56893459?shareKey=ZTBjNjRhMDlmZWU5NjY3MmE4ZTk~)|
+||[名器ingtoys小桃酱开箱](https://www.coolapk.com/feed/56893004?shareKey=MWExOWVkMjgxN2JiNjY3MmE4ZTk~)|
+||[300大洋如何购入一台12+256G顶配完美屏且充新的vivo X60 Pro](https://www.coolapk.com/feed/56892993?shareKey=ZTNmNDVkOTk3ZWY2NjY3MmE4ZTk~)|
+||[街拍_瞬间](https://www.coolapk.com/feed/56892866?shareKey=MzIxZjRkZGQ3MjUxNjY3MmE4ZTk~)|
+||[山西个体户营业执照网上注销全流程](https://www.coolapk.com/feed/56892068?shareKey=N2VkMjIyODI2MGVjNjY3MmE4ZTk~)|
+||[100块钱的ipad要不要给大家整个活](https://www.coolapk.com/feed/56891897?shareKey=NDBkNGU1ZGFmZWM5NjY3MmE4ZTk~)|
+||[【正反手】——普通人的双持](https://www.coolapk.com/feed/56891111?shareKey=YWEyMmMwNTExYzExNjY3MmE4ZTk~)|
+||[【MIUI 流浪计划】是时候了](https://www.coolapk.com/feed/56891072?shareKey=MzgwNjI2NzJhMzcyNjY3MmE4ZTk~)|
+||[那些，我曾经用手机拍过的爷们儿！](https://www.coolapk.com/feed/56890932?shareKey=MzNlYjg4NzA2YjU5NjY3MmE4ZTk~)|
+||[三星note5，极佳的手感](https://www.coolapk.com/feed/56890700?shareKey=NmNkNWVlODQwY2IzNjY3MmE4ZTk~)|
+||[X100Ultra不严谨影像测评&外围配置浅谈](https://www.coolapk.com/feed/56890506?shareKey=ZWZhZjIyMWE3ZDkyNjY3MmE4ZTk~)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/9887656769/294381977)|
+||[24-6-19 机构抛售四倍上影 影视传媒盛夏深寒](https://xueqiu.com/8772786299/294370270)|
+||[诺亚财富：坚持走可持续道路，持续提高员工的减塑意识](https://xueqiu.com/7951417012/294358867)|
+||[联融志道：以财务投资为基石，战略视角探索联想控股未来产业版图](https://xueqiu.com/5226164677/294343222)|
+||[总有人会等来恒生医药的拐点](https://xueqiu.com/9598793634/294304288)|
+|[张洪Heo](https://blog.zhheo.com/rss.xml)|[要排除的文件已经被上传到远程Git仓库怎么办](https://blog.zhheo.com/p/faf797ab.html)|
+|[SegmentFault 最新的文章](https://segmentfault.com/articles/feeds)|[深入浅出JSON.parse](https://segmentfault.com/a/1190000044974935)|
+||[javascript最佳实践](https://segmentfault.com/a/1190000044974910)|
+||[Dolphinscheduler ShellTask CPU和Memory 使用及BUG修复](https://segmentfault.com/a/1190000044974900)|
+|[蓝点网](https://www.landiannews.com/feed)|[Windows 11回顾增加两项新功能：屏幕雷达实时分析和用户手动创建快照](https://www.landiannews.com/archives/104545.html)|
+||[谷歌将使用AI改进Chrome历史记录搜索功能帮你找网页 但数据会被共享给谷歌](https://www.landiannews.com/archives/104544.html)|
+||[网传华为与腾讯即将达成协议 微信在鸿蒙平台将无需支付任何抽成](https://www.landiannews.com/archives/104543.html)|
+||[Adobe再次更新使用协议强调不会主动使用用户本地或云内容来训练AI模型](https://www.landiannews.com/archives/104542.html)|
+||[有黑客自称已经全方位窃取AMD的各种数据 AMD回应称正在进行调查](https://www.landiannews.com/archives/104541.html)|
+||[惠普向部分笔记本提供的BIOS固件更新导致设备变砖 用户需尽早联系客服处理](https://www.landiannews.com/archives/104540.html)|
+||[ 下载 谷歌Chrome v126.0.6478.114/.115正式版发布 修复4个高危安全漏洞](https://www.landiannews.com/archives/104539.html)|
+||[供应链消息称苹果暂停开发Vision Pro 2 接下来将开发价格更便宜的版本](https://www.landiannews.com/archives/104533.html)|
+||[微软确认因某个BUG导致Windows 11专业版目前无法正常升级到企业版](https://www.landiannews.com/archives/104528.html)|
+||[英伟达超越微软和苹果成为市值最高的公司 总市值达到3.335万亿美元](https://www.landiannews.com/archives/104532.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[树莓派4b ubuntu server的WIFI无法连接？](https://segmentfault.com/q/1010000044976388)|
+||[设置element plus table上的header-cell-class-name为什么没有生效?](https://segmentfault.com/q/1010000044975936)|
+||[Vite打包后SCSS引用的图片路径不对，该如何解决？](https://segmentfault.com/q/1010000044975877)|
+||[请问做跨境电商怎样选择境外支付方式？](https://segmentfault.com/q/1010000044975836)|
+||[Vue版本的WPSJS运行debug报错，原生JS版本正常，如何解决？](https://segmentfault.com/q/1010000044975260)|
+||[想要通过excel表格操作网页实现点击和填写的需求，需要定位点击按钮，等待，然后选择，填写。需要同时操作多个网页，不同电脑上定位不同，怎么能可复制？](https://segmentfault.com/q/1010000044975198)|
+||[使用axios拦截全局的响应错误，使用antdv的message组件不起作用？](https://segmentfault.com/q/1010000044974716)|
+||[flutter Get.toNamed同个页面不跳转时什么原因呢？](https://segmentfault.com/q/1010000044974657)|
+||[chrome扩展插件 Vue.js devtools 6.6.3 在 vite+vue3项目中无法展示vue tab？](https://segmentfault.com/q/1010000044974596)|
+||[如何在Django中根据编辑信息的内容扣除用户积分？](https://segmentfault.com/q/1010000044974408)|
+||[opencv 拼图如何解决两张圆形管道图片拼接时出现的黑条问题？](https://segmentfault.com/q/1010000044974048)|
+||[在Python中运行js为什么会报错？](https://segmentfault.com/q/1010000044974046)|
+||[请问有人使用过 docker-osx 来搭建过黑苹果吗?](https://segmentfault.com/q/1010000044973495)|
+||[在VS Code中开发Java程序，提示包未安装？](https://segmentfault.com/q/1010000044973452)|
+|[虎嗅](https://rss.huxiu.com/)|[2.75%，险企再降预定利率](https://www.huxiu.com/article/3153693.html?f=rss)|
+||[朝“万店”狂飙的书亦烧仙草，“失速”了？](https://www.huxiu.com/article/3153498.html?f=rss)|
+||[苹果或推平价版Vision Pro，售价接近顶配iPhone](https://www.huxiu.com/article/3153089.html?f=rss)|
+||[最松弛的上海年轻人，都在马路边](https://www.huxiu.com/article/3153105.html?f=rss)|
+||[东方集团16.40亿元存款提取受限，投资者曾“预警”](https://www.huxiu.com/article/3153534.html?f=rss)|
+||[募资金额缩水 8 个亿，Momenta 冲刺 IPO 图什么？](https://www.huxiu.com/article/3153526.html?f=rss)|
+||[“社工证”爆火，一线社工的生活是怎样的？](https://www.huxiu.com/article/3153092.html?f=rss)|
+||[解读WWDC：苹果或是AI落地的大赢家？](https://www.huxiu.com/article/3152534.html?f=rss)|
+||[医教研整合还有很大改善空间](https://www.huxiu.com/article/3153521.html?f=rss)|
+||[今年全球奢侈品市场还能涨吗？](https://www.huxiu.com/article/3153484.html?f=rss)|
+||[月薪几万，才不会怀疑自己是NPC？](https://www.huxiu.com/article/3153514.html?f=rss)|
+||[Meta 对元宇宙部门进行大重组，将计划裁员](https://www.huxiu.com/article/3153513.html?f=rss)|
+||[蓬勃的东南亚，时代洪流中的胡志明市](https://www.huxiu.com/article/3153510.html?f=rss)|
+||[因频频违规，老牌投顾东高科技再遭证监局行政处罚](https://www.huxiu.com/article/3153504.html?f=rss)|
+||[地球曾穿过一片星际云？](https://www.huxiu.com/article/3153497.html?f=rss)|
+||[涉嫌性侵的酒店员工已返岗：赴韩旅游还安全吗？](https://www.huxiu.com/article/3153067.html?f=rss)|
+||[英伟达市值冲上3万亿美元，但黄仁勋更焦虑了](https://www.huxiu.com/article/3153088.html?f=rss)|
+||[手握百万却买不到房，购房需求正在被折叠](https://www.huxiu.com/article/3152772.html?f=rss)|
+||[被“仅退款”逼急的商家们](https://www.huxiu.com/article/3153081.html?f=rss)|
+||[20岁登顶的超女快男，40岁依然能打](https://www.huxiu.com/article/3153029.html?f=rss)|
+||[3nm争夺战三星已露败相，良率低成最大痛点](https://www.huxiu.com/article/3153478.html?f=rss)|
 |[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[NAS 系统千千万，哪款才是你真爱？](https://www.v2ex.com/t/1050767#reply89)|
 ||[有多少人还在用 Maven 构建项目？](https://www.v2ex.com/t/1050791#reply70)|
 ||[docker 为什么不能拉取镜像了](https://www.v2ex.com/t/1050948#reply14)|
