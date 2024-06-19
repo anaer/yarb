@@ -2,6 +2,72 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[青海省成立首个区域性商会党建共同体](https://www.zaobao.com/realtime/china/story20240619-3947443)|
+||[习近平：军中绝不能有腐败分子藏身之地](https://www.zaobao.com/realtime/china/story20240619-3949316)|
+||[谢长廷搭机返日途中航班遇雷击](https://www.zaobao.com/realtime/china/story20240619-3947444)|
+||[中国官媒公布海警首次登检菲运补船只画面](https://www.zaobao.com/realtime/china/story20240619-3948510)|
+||[韩国吁不要遣返脱北者 中国：不存在脱北者一说](https://www.zaobao.com/realtime/china/story20240619-3948299)|
+||[赖清德成立委员会 柯文哲：除安插自己人外看不出效果](https://www.zaobao.com/realtime/china/story20240619-3948324)|
+||[英国制裁五家助俄中企 中国商务部促立即纠正错误做法](https://www.zaobao.com/realtime/china/story20240619-3948018)|
+||[中国5月非在校青年失业率连续两个月下滑](https://www.zaobao.com/realtime/china/story20240619-3948067)|
+||[中国常驻联合国副代表：坚定支持阿根廷对马岛主权的要求](https://www.zaobao.com/realtime/china/story20240619-3947772)|
+||[江西省人大常委会原副主任洪礼和被查](https://www.zaobao.com/realtime/china/story20240619-3948002)|
+||[中国发布“科创板八条” 建立硬科技企业融资绿色通道提升审核效率](https://www.zaobao.com/realtime/china/story20240619-3947882)|
+||[女子开使馆车违停称有外交豁免权 被北京警方罚款](https://www.zaobao.com/realtime/china/story20240619-3947661)|
+||[中国多地成立警税作战中心惹议 胡锡进：不利于提振民营经济信心](https://www.zaobao.com/realtime/china/story20240619-3947610)|
+||[佳兆业董事长郭英成据报返回深圳进行债务重组谈判](https://www.zaobao.com/realtime/china/story20240619-3947341)|
+||[赖清德：两岸互不隶属是社会共识](https://www.zaobao.com/realtime/china/story20240619-3946818)|
+||[中国官媒：车企吁北京对欧盟进口大排量汽油车提高关税](https://www.zaobao.com/realtime/china/story20240619-3947264)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[普京驾驶俄制豪华轿车 带金正恩平壤街头兜风](https://www.zaobao.com/realtime/world/story20240619-3949801)|
+||[普京：俄朝新条约包含共同防御条款 不排除军事合作](https://www.zaobao.com/realtime/world/story20240619-3949129)|
+||[美官员访日荷 讨论限制向中国出口晶片设备](https://www.zaobao.com/realtime/world/story20240619-3948804)|
+||[日本5月份再接待超300万人次游客](https://www.zaobao.com/realtime/world/story20240619-3948543)|
+||[联合国：以色列或违反战争法 未区分平民和战斗人员](https://www.zaobao.com/realtime/world/story20240619-3948402)|
+||[俄罗斯朝鲜签署全面战略伙伴关系条约](https://www.zaobao.com/realtime/world/story20240619-3948306)|
+||[菲律宾副总统莎拉辞去教育部长职务](https://www.zaobao.com/realtime/world/story20240619-3947784)|
+||[马中加强经贸合作 马国获准向中国出口新鲜榴梿](https://www.zaobao.com/realtime/world/story20240619-3947626)|
+||[手套需求强劲 顶级手套第三季转亏为盈](https://www.zaobao.com/realtime/world/story20240619-3947651)|
+||[菲律宾称中国海警登船夺枪 指中国言行不一致](https://www.zaobao.com/realtime/world/story20240619-3947588)|
+||[波音“星际客机”飞船返回地球时间再推迟](https://www.zaobao.com/realtime/world/story20240619-3947371)|
+||[金正恩和普京举行大范围会谈](https://www.zaobao.com/realtime/world/story20240619-3947210)|
+||[美指墨西哥贩毒集团与中国地下银行有关联组织串谋洗钱](https://www.zaobao.com/realtime/world/story20240619-3947131)|
+||[针对TikTok侵犯儿童隐私投诉 已移交美司法部](https://www.zaobao.com/realtime/world/story20240619-3946543)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[SelectDB 日志存储与分析解决方案白皮书](https://www.infoq.cn/article/R6fZpBckH2u1xp2lh3xP)|
+||[《SelectDB 新一代日志存储分析平台解决方案》白皮书重磅发布｜立即下载](https://www.infoq.cn/article/2a4ded3d8ccadc79e133506f2)|
+|[少数派](http://sspai.me/feed)|[新疆的十天，在伊犁遇见人生最美景色](https://sspai.com/post/88904)|
+||[具透 这或许才是完全体的 Vision Pro，VisionOS 2 中值得你关注的新功能](https://sspai.com/post/89704)|
+||[如果生命可以描出画面，我们该用什么方式记录](https://sspai.com/post/89678)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[马斯克：OpenAI的名字是我起的 创建它为了对抗谷歌](https://m.cnbeta.com.tw/view/1435368.htm)|
+||[三星为2024年巴黎奥运会和残奥会推出一系列手机配件](https://m.cnbeta.com.tw/view/1435366.htm)|
+||[“科技网红”NFT的过气之路](https://m.cnbeta.com.tw/view/1435365.htm)|
+||[重返燃煤时代 印度新增火电装机量或升至近10年来最高](https://m.cnbeta.com.tw/view/1435364.htm)|
+||[最高温达51.8摄氏度 沙特麦加超550位朝觐者死亡](https://m.cnbeta.com.tw/view/1435363.htm)|
+||[IMF建议对人工智能碳排放征税 以应对就业机会减少和收入不平等问题](https://m.cnbeta.com.tw/view/1435360.htm)|
+||[国产SUV销量王者 全新一代哈弗H6上市：10.39万起](https://m.cnbeta.com.tw/view/1435358.htm)|
+||[苹果公司解释为何只有iPhone 15 Pro系列满足Apple Intelligence的要求](https://m.cnbeta.com.tw/view/1435356.htm)|
+||[苹果M4包含四个Thunderbolt控制器 是M3的两倍](https://m.cnbeta.com.tw/view/1435355.htm)|
+||[佳能分拣技术将黑色塑料带入回收利用行列](https://m.cnbeta.com.tw/view/1435354.htm)|
+|[Hello Alili](https://alili.tech/index.xml)|[Long Time No See](https://alili.tech/archive/4idr9m2kjll/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[“反向合资”再添新人，这次轮到捷豹路虎｜钛度车库](https://www.tmtpost.com/7135594.html)|
+||[唯低价论该休矣？京东如何又便宜又好](https://www.tmtpost.com/7134937.html)|
+||[最小门店仅有1平米，咖啡行业开店“小无止境”](https://www.tmtpost.com/7125607.html)|
+||[【硬科技周报】第22周:具身智能通用大脑研发商“有鹿机器人”获超1亿元融资，人工智能芯片研发商Rain AI完成810万美元A+轮融资](https://www.tmtpost.com/7135278.html)|
+||[远洋集团抛售北京230亿明星项目，中国人寿、太古再次接盘](https://www.tmtpost.com/7132970.html)|
+||[smart羊军：智能汽车的未来，正从软件定义向AI定义转变 T-EDGE@CTIS](https://www.tmtpost.com/7127721.html)|
+||[清仓式分红8个亿或触碰红线，中圣科技上市折戟 IPO观察](https://www.tmtpost.com/7135198.html)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[直击夏季达沃斯论坛](https://www.infzm.com/contents/273646)|
+||[世界经济论坛丹尼尔·诺瓦克：“不能将AI视为富人特权或新赚钱工具”](https://www.infzm.com/contents/273645)|
+|[迷途小书童的Note](https://xugaoxiang.com/feed)|[手把手AI实战 三 让图片中的人物舞动起来](https://xugaoxiang.com/2024/06/19/ai-project-3/)|
+||[每日AI资讯-20240619](https://xugaoxiang.com/2024/06/19/ai-daily-20240619/)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[港媒：八所大学明年起分三学年加收学费](https://www.zaobao.com/realtime/china/story20240619-3948141)|
+||[华为据报考虑向应用商店交易收取佣金](https://www.zaobao.com/realtime/china/story20240619-3947828)|
+||[下午察：中国缴税“倒查30年”风波背后](https://www.zaobao.com/realtime/china/story20240619-3948071)|
+||[福建上杭“客家第一祠”启动修复](https://www.zaobao.com/realtime/china/story20240619-3947617)|
+|[触乐](http://www.chuapp.com/feed)|[触乐夜话：被折腾的中国玩家](http://www.chuapp.com/article/290037.html)|
+||[一位游戏外包策划和她接到的“特殊委托”](http://www.chuapp.com/article/290036.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[控烟十年，深圳成了烟味最淡的城市](https://www.huxiu.com/article/3153728.html?f=rss)|
+||[不是都在裁员吗？中国汽车产业哪里缺人了](https://www.huxiu.com/article/3153726.html?f=rss)|
+||[晶澳科技CTO欧阳子：光伏行业竞争激烈证明其希望](https://www.huxiu.com/article/3153706.html?f=rss)|
 |[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[英伟达超越微软，成为全球市值最高公司](https://cn.nytimes.com/technology/20240619/nvidia-most-valuable-company/)|
 ||[热爱“组团”理财的韩国人：一起存钱一起花](https://cn.nytimes.com/asia-pacific/20240619/saving-korea-gyemoim/)|
 |[36氪](https://plink.anyfeeder.com/36kr)|[U36论坛：去有浪的地方｜WAVES新浪潮2024](https://36kr.com/p/2826588415232259?f=rss)|
