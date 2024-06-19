@@ -2,6 +2,41 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[从OpenAI离职的Ilya Sutskever等人宣布共同创办“安全超级智能公司”](https://m.cnbeta.com.tw/view/1435377.htm)|
+||[华为全新专利：根据司机打哈欠等状态调整自动驾驶策略](https://m.cnbeta.com.tw/view/1435374.htm)|
+||[松下发布支持AI的加固笔记本Toughbook 起价4700美元](https://m.cnbeta.com.tw/view/1435373.htm)|
+||[iOS 18允许第三方App录制空间视频 仅支持iPhone 15 Pro系列](https://m.cnbeta.com.tw/view/1435372.htm)|
+||[高通同意支付7500万美元以结束与苹果有关的诉讼](https://m.cnbeta.com.tw/view/1435370.htm)|
+||[台积电市值逼近1万亿美元 高盛等华尔街大行上调目标价](https://m.cnbeta.com.tw/view/1435369.htm)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[对于女大学生来说，直播公司口中“诱人的待遇”都是陷阱。](https://m.okjike.com/originalPosts/667294ea19d274e29610a153)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[Ava.Hosting - 14% OFF Discount for Celebrating 4000 active clients! VPS & Dedicated Servers via Offers — LowEndTalk author: AvaHosting ](https://t.me/liyuans/46840)|
+|[爱范儿](https://plink.anyfeeder.com/ifanr)|[Meta 对元宇宙部门进行大重组 ，将计划裁员](https://www.ifanr.com/1589646?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[拿下 4000 亿天价薪酬的马斯克官宣 3 款新车，特斯拉离不开「钢铁侠」](https://www.ifanr.com/1589125?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[魅族 Live AI 真无线耳机体验：加了 AI 的耳机，会更好听吗](https://www.ifanr.com/1589372?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[苹果搁置高端版 Vision Pro 研发 ，专注开发平价版，或与顶配 iPhone 价格相当](https://www.ifanr.com/1589595?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[Beats Solo Buds 发布：轻巧耐用两手抓，单耳机续航最长的真无线耳机](https://www.ifanr.com/1589548?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[明明极氪这么多纯电车，为何领克还要造纯电 Z10？](https://www.ifanr.com/1589335?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[宝马纯电 MINI 恐遭「毁灭性打击」，问题出在欧洲老家](https://www.ifanr.com/1589550?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[闲鱼上的网络锁 Pixel 强制解锁 Bootloader 是什么原理？运行卖家提供的软件，半分钟后 bl 就可以随意开关了，怎么刷机都不会锁回去。软件看起来像是把 USB 通过隧道转发到了服务器，逆向看了下连 adb 都没带](https://www.v2ex.com/t/1050801#reply14)|
+||[Linux 服务器如何安全的清理垃圾文件](https://www.v2ex.com/t/1050918#reply13)|
+||[可怕！字节的飞连原来真的在后台明目张胆的截屏](https://www.v2ex.com/t/1050989#reply30)|
+||[电脑重装了，各位有什么必装软件推荐](https://www.v2ex.com/t/1050972#reply14)|
+||[NAS 系统千千万，哪款才是你真爱？](https://www.v2ex.com/t/1050767#reply103)|
+||[有多少人还在用 Maven 构建项目？](https://www.v2ex.com/t/1050791#reply74)|
+||[请教个 es 向量查询的问题](https://www.v2ex.com/t/1050773#reply19)|
+||[docker 为什么不能拉取镜像了](https://www.v2ex.com/t/1050948#reply19)|
+||[腾讯云现在力度这么大吗，一天 5 个推广电话。](https://www.v2ex.com/t/1050806#reply25)|
+|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[VSLite 原理解析与本地化部署](https://www.imaegoo.com/2024/vslite-offline/)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[上海交大“零门槛”转专业？想成功不容易](https://www.infzm.com/contents/273674)|
+||[两年，6700公里，徒步者保罗穿行中国](https://www.infzm.com/contents/273660)|
+||[这个即将开通的世界级跨海集群工程，让珠江口两岸将进入“半小时生活圈”](https://www.infzm.com/contents/273670)|
+||[天津街头，这群年轻人定义涂鸦“新中式”](https://www.infzm.com/contents/273615)|
+||[农村打井队：越旱越忙，越钻越深](https://www.infzm.com/contents/273666)|
+||[为了高考时不来月经，她们决定给自己下药](https://www.infzm.com/contents/273662)|
+||[肖央：不让喜欢自己的观众“踩坑”](https://www.infzm.com/contents/273617)|
+||[盗窃时不在场的嫌疑人，“非自愿”认罪认罚](https://www.infzm.com/contents/273658)|
+|[极客公园](http://feeds.geekpark.net/)|[欧洲杯的「特供中文广告」，背后是门大生意](http://www.geekpark.net/news/336779)|
+|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[因为这种小馆子，上海才上海](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653454943&idx=1&sn=e490e3d42203e9a3ce4f864407dbc93d)|
 |[《联合早报》-中港台-即时](https://plink.anyfeeder.com/zaobao/realtime/china)|[青海省成立首个区域性商会党建共同体](https://www.zaobao.com/realtime/china/story20240619-3947443)|
 ||[习近平：军中绝不能有腐败分子藏身之地](https://www.zaobao.com/realtime/china/story20240619-3949316)|
 ||[谢长廷搭机返日途中航班遇雷击](https://www.zaobao.com/realtime/china/story20240619-3947444)|
