@@ -2,6 +2,161 @@
 
 |来源|标题|
 |---|---|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[揭秘——24年美业创业家水光玩法](https://www.jianshu.com/p/d3da80c78345)|
+||[🍵🌱揭秘茶叶内质结构，品味苦尽甘来的韵味🍵](https://www.jianshu.com/p/d86703208810)|
+||[跟着太阳去旅行（4）](https://www.jianshu.com/p/b8b7c1f6c25a)|
+||[Android-Jetpack-ProcessLifecycIeOwner监听App的生命周期](https://www.jianshu.com/p/db86b09d9cb3)|
+|[小众软件](https://plink.anyfeeder.com/appinn)|[Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能 Android ](https://www.appinn.com/image-toolbox/)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[深圳湾和深圳湾大桥](https://www.coolapk.com/feed/56890331?shareKey=YTEwNWU5NjE1ZDZhNjY3MjdlOTM~)|
+||[深南东路特色建筑土豪金大楼](https://www.coolapk.com/feed/56890023?shareKey=ZmRmZGFjYmZmZWJmNjY3MjdlOTM~)|
+||[关于color os13的不专业“评测”](https://www.coolapk.com/feed/56888988?shareKey=OTVkY2E1M2M1NTkxNjY3MjdlOTM~)|
+||[站在公司14楼拍的街景](https://www.coolapk.com/feed/56888840?shareKey=Zjc1N2JkMjVkNGEwNjY3MjdlOTM~)|
+||[Ace3Pro曝6100mAh 一加冰川电池6.20见 小米15曝直立长焦/超声波指纹](https://www.coolapk.com/feed/56888801?shareKey=MjZjODdlZDE0YmZlNjY3MjdlOTM~)|
+||[苹果解锁秒解](https://www.coolapk.com/feed/56888795?shareKey=MmQ4Njc2NGY2YWM1NjY3MjdlOTM~)|
+||[比亚迪宋L DM-i：第五代DM技术，纯电续航91km起步，13万起售？](https://www.coolapk.com/feed/56888725?shareKey=OGMxYzM1YzQ1ZDVlNjY3MjdlOTM~)|
+||[记录下调教的桌面和系统](https://www.coolapk.com/feed/56888460?shareKey=N2E1NzQ1ZTIxMmJlNjY3MjdlOTM~)|
+||[华为p9徕卡真传](https://www.coolapk.com/feed/56887601?shareKey=ZjIzZTc4NDI3MzY5NjY3MjdlOTM~)|
+||[Cowabunga Lite 小奶牛隐藏副卡教程](https://www.coolapk.com/feed/56887598?shareKey=YzM4MTYwOGZiMzJjNjY3MjdlOTM~)|
+||[壁纸18～羞涩妃英理](https://www.coolapk.com/feed/56887471?shareKey=NzUwMzRmZWZjNTEzNjY3MjdlOTM~)|
+||[上面商贩尽量别买哦，90%都是假](https://www.coolapk.com/feed/56885939?shareKey=YzNiNWM1YWExNTM4NjY3MjdlOTM~)|
+||[革命成功！机械革命耀世15pro使用体验与建议](https://www.coolapk.com/feed/56885004?shareKey=MjE2YzQ0N2I0MzU5NjY3MjdlOTM~)|
+||[pixel4](https://www.coolapk.com/feed/56887122?shareKey=YTIxYzYyZTM0MDljNjY3MjdlOTM~)|
+||[舒适度极高的屁屁分享Ingtoys x名器波多野结衣](https://www.coolapk.com/feed/56886451?shareKey=N2YwZmU0OWJjZWM1NjY3MjdlOTM~)|
+||[刚到不到小时热乎的，这算好车？吗](https://www.coolapk.com/feed/56886269?shareKey=MzU0YTRiNmUxMWFkNjY3MjdlOTM~)|
+||[解锁bl，收紧了不是很好](https://www.coolapk.com/feed/56886767?shareKey=Yjg2YzY1MGIwMmJiNjY3MjdlOTM~)|
+||[关于 Android 15 Beta 3](https://www.coolapk.com/feed/56886627?shareKey=MWM0MGZiNDFkM2E5NjY3MjdlOTM~)|
+||[小米Redmi Buds 6 活力版使用说明书备份](https://www.coolapk.com/feed/56884391?shareKey=YWU0MGFlNTZiNmE5NjY3MjdlOTM~)|
+|[即刻热评大赏 - 即刻圈子](https://rsshub.app/jike/topic/5762530cf25ffa1200cb0396)|[来自从百度云翻到的截图 2019年6月24日 有即友在瓦评论区说要和瓦处对象](https://m.okjike.com/originalPosts/667254c4a78a6f14f37e91f2)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[波音“星际客机”飞船返回地球时间再度推迟](http://www.news.cn/20240619/2c37db7518324586896015915cfe6112/c.html)|
+||[四川发现凤仙花属植物新种](http://www.news.cn/20240619/04e310d2a5b0422f8bb6ee1860857878/c.html)|
+||[强降雨致福建58万余人受灾 当地积极开展抢险救援](http://www.news.cn/20240619/5f8059a7d3e944a88a5728c6cfbb644d/c.html)|
+||[通讯｜黎巴嫩南部居民在冲突阴影下度过宰牲节](http://www.news.cn/20240619/389b6ea5620341b4a5a2613fabca54b1/c.html)|
+||[新华视点｜新时代中国调研行之中部篇](http://www.news.cn/20240619/2f800f92f4684b3caea7d9fc6439aef0/c.html)|
+||[新华社消息｜中央宣传部追授徐利民同志“时代楷模”称号](http://www.news.cn/20240619/b161bc7e5ec64dda9cb58a45b7f9de2a/c.html)|
+||[中东战地手记｜苏丹：回不去的家](http://www.news.cn/20240619/e649e18b415349a5b573b3cd6168221f/c.html)|
+||[“大粮仓”黑龙江开启夏日水田“鸭管”季](http://www.news.cn/20240619/32eca9a206aa4fb38559d5ffeab85d7c/c.html)|
+||[中部崛起谱新篇｜一条“链”挺起中部“脊梁”](http://www.news.cn/20240619/d9c2a836d4a74be8a50e50d709216f58/c.html)|
+||[教育部发布2024年高考志愿填报十问十答](http://www.news.cn/20240619/5674fd805ae94fcfa67d94906983fe90/c.html)|
+||[吴清：推出“科创板八条”更好服务科技创新和新质生产力发展](http://www.news.cn/20240619/ebf01ed222fe4f92a087d6a8dbf79623/c.html)|
+||[新华社权威快报｜第30届北京国际图书博览会开幕](http://www.news.cn/20240619/4b5690c12ebe4804904a1d6cd36b21da/c.html)|
+||[中国代表：建立可持续的欧洲安全框架是国际社会的共同期盼](http://www.news.cn/20240619/843ee054db0044c493e116a93303a52c/c.html)|
+||[跟着总书记的考察足迹｜瞰西宁](http://www.news.cn/20240619/8b1cf431c71540eabba0f94343858504/c.html)|
+||[夏日托勒海特牧场美如仙境](http://www.news.cn/20240619/238f74d26a2c4075aa9c759bc16ebc6a/c.html)|
+||[国际货币基金组织上海区域中心正式启动](http://www.news.cn/20240619/c77f71f2e2c7494a9e2540deadc32c41/c.html)|
+||[百闻不如一见｜文物变变变，国宝天天见](http://www.news.cn/20240619/f35e6ec15fef48158e60bd9b6d55a1b9/c.html)|
+||[新华社消息｜习近平在青海考察调研](http://www.news.cn/20240619/32537d2173f347ea9ca32d8fc5be068d/c.html)|
+||[习近平在青海考察调研](http://www.news.cn/20240619/ce007edce6f34b7cb58c80af7d8de808/c.html)|
+||[外国人游中国｜“出行更方便、选择更丰富”——“老外”沪上体验包容与开放](http://www.news.cn/20240619/503ba66d1bdc47839fdb013216459d67/c.html)|
+||[广西升级发布洪水橙色预警](http://www.news.cn/20240619/1146e5e8480f47a3a3f952b74a4f5b3d/c.html)|
+||[高效办事难不难？请您来提意见建议！](http://www.news.cn/20240619/d927ea0ef3f9411599d9a2ae89cf0ddc/c.html)|
+||[国内首次百兆瓦时构网型储能电站黑启动试验成功](http://www.news.cn/20240619/b027e648f1c844489331978fd383cf65/c.html)|
+||[近年儿童青少年总体近视率达51.9% 各地探索全面防控儿童青少年近视良策](http://www.news.cn/20240619/dfe294ad78bb47d6b6c2186567584082/c.html)|
+||[日本设计出高效培养血小板装置](http://www.news.cn/20240619/54b3f9b88d6c4a21afe3511fa4f61e10/c.html)|
+||[中国常驻维也纳代表团举行航天主题招待会](http://www.news.cn/20240619/e40ccb8806e54a7295b3e95322d2c78c/c.html)|
+||[一个计量单位里的创新力｜“一秒钟一公里”超充赋能绿色出行](http://www.news.cn/20240619/a959f8655eb24edbbca580237848957c/c.html)|
+||[楼市新政满月 市场活跃度提升](http://www.news.cn/20240619/3bc67497f9664f509273f3facbf6f367/c.html)|
+||[万亿元增发国债项目开工率超八成](http://www.news.cn/20240619/415ec0ed04c14b8785bb92a5ef6c67a8/c.html)|
+||[我国已建成世界上数量最多的充电基础设施体系](http://www.news.cn/20240619/5680ffb9f26a4bee940fc5ca48fc9cda/c.html)|
+||[前5月全国落实水利建设投资同比增42%](http://www.news.cn/20240619/a9eb2b778ed54bbbaadecb854a12f1e6/c.html)|
+||[千笔楼｜攥指成拳，严惩网暴](http://www.news.cn/20240619/50d68012dbd34d3c999c14ee732d797e/c.html)|
+||[人民币市场汇价（6月19日）](http://www.news.cn/20240619/d113c60f824c49e4b93dbdd23a42933c/c.html)|
+||[新华社消息｜以军批准对黎巴嫩发动进攻的作战计划](http://www.news.cn/20240619/6d0d0cf8b1ca4156a9c0f0536b0ae9ca/c.html)|
+||[2024年高考志愿填报十问十答](http://www.news.cn/20240619/9cc97c23803b4ddfae26d49589be045a/c.html)|
+||[从太空看新质生产力：中部崛起“新动力”](http://www.news.cn/20240619/fdb35f0fe8104a6ea1bff3c99f9739dd/c.html)|
+||[乍得首都一弹药库发生火灾造成多人伤亡](http://www.news.cn/20240619/2dbfe5cc7dfe4d3691f077fa93aeb202/c.html)|
+||[新华社权威快报丨科创板改革再出发](http://www.news.cn/20240619/41ffb22bf5b846ca877d2c44e465d805/c.html)|
+||[中央宣传部追授徐利民同志“时代楷模”称号](http://www.news.cn/20240619/bae6ecd2601d4cbcb8ceab7ac21a5c56/c.html)|
+||[新华社权威快报｜中央宣传部追授徐利民同志“时代楷模”称号](http://www.news.cn/20240619/c8c7bf96579b42d9b4d271bd6053185b/c.html)|
+||[公安机关对美方通报涉毒洗钱线索依法立案侦查](http://www.news.cn/20240619/01059a3a28374ab29e35f8dfe81277da/c.html)|
+||[深海逐梦，今天为这支部队庆生！](http://www.news.cn/20240619/274ced42edc54aa0b71d2e08d09c26fe/c.html)|
+||[请看！这就是今天的人民海军潜艇部队](http://www.news.cn/20240619/36b5c39ac0694da5baf3e881038864d7/c.html)|
+|[KAIX.IN](https://kaix.in/feed/)|[故事之为故事](https://kaix.in/2024/0619-stories/)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[这次的塞尔达传说，她真的是塞尔达传说啊😯！](https://www.wikimoe.com/post/pzw14zz5)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[报道称华为与腾讯接近达成协议 鸿蒙版微信将不支付收入分成](https://m.cnbeta.com.tw/view/1435320.htm)|
+||[KDE Plasma 6.1发布 新增功能并改进易用性](https://m.cnbeta.com.tw/view/1435324.htm)|
+||[苹果Vision Pro中国销售恐遇冷：首发日多地门店可取货](https://m.cnbeta.com.tw/view/1435321.htm)|
+||[全球最多车企看好的中国自动驾驶公司Momenta要上市了](https://m.cnbeta.com.tw/view/1435319.htm)|
+||[二手比新车贵 奔驰腰斩式降价让二手车商苦不堪言](https://m.cnbeta.com.tw/view/1435318.htm)|
+||[微软 Edge 可将 Copilot 集成到加密钱包中](https://m.cnbeta.com.tw/view/1435312.htm)|
+||[丰田章男再当选丰田汽车会长](https://m.cnbeta.com.tw/view/1435310.htm)|
+||[徐大堡核电4号机组穹顶吊装就位](https://m.cnbeta.com.tw/view/1435308.htm)|
+||[广西一80斤巨蟒吞食山羊 林业部门回应：已被收容](https://m.cnbeta.com.tw/view/1435307.htm)|
+||[小米MIX Flip下月发布：高分内屏、影像同档最强](https://m.cnbeta.com.tw/view/1435306.htm)|
+||[宝马宣布新一代X3 带来全新外观](https://m.cnbeta.com.tw/view/1435304.htm)|
+||[Google Chrome v126.0.6478.114/.115正式版发布 修复4个高危安全漏洞](https://m.cnbeta.com.tw/view/1435302.htm)|
+||[惠普向部分笔记本提供的BIOS固件更新导致设备变砖 用户需尽早联系客服处理](https://m.cnbeta.com.tw/view/1435301.htm)|
+||[台积电南京已获美国商务部VEU授权](https://m.cnbeta.com.tw/view/1435300.htm)|
+||[消息称法拉利首款电动车型将于2025年推出 售价约390万](https://m.cnbeta.com.tw/view/1435297.htm)|
+||[Google两大人工智能团队“内斗”以及合并内幕](https://m.cnbeta.com.tw/view/1435296.htm)|
+||[梁建章Nature论文水准遭质疑 携程已有部门疑似取消混合居家办公](https://m.cnbeta.com.tw/view/1435295.htm)|
+||[法院裁定车主可继续集体指控特斯拉垄断汽车维修和零部件](https://m.cnbeta.com.tw/view/1435294.htm)|
+||[报告称iOS 18可能会让第三方应用总收入减少4亿美元](https://m.cnbeta.com.tw/view/1435293.htm)|
+||[理想车友会追尾，又可以把AEB拎出来骂了？](https://m.cnbeta.com.tw/view/1435292.htm)|
+|[一起偷偷观察 DIYgod - Te...](https://rsshub.app/telegram/channel/awesomeDIYgod)|[🐦 #DIYgod的Twitter更新 自我介绍 传送门](https://t.me/awesomeDIYgod/6451)|
+|[IT之家](https://www.ithome.com/rss/)|[光荣特库摩 RPG 游戏《妖精的尾巴 2》上线 Steam，今年冬季发售](https://www.ithome.com/0/776/314.htm)|
+||[预售 21 万元起，宝马全新电动 MINI Cooper 车型 7 月 6 日上市：CLTC 续航最高 456km](https://www.ithome.com/0/776/313.htm)|
+||[七彩虹首款 AI PC 笔记本源 N14 通过 3C 认证：i9-13900H + RTX 4070、重 1.52kg](https://www.ithome.com/0/776/306.htm)|
+||[飞利浦“326M6FJSB”31.5 英寸显示器上架开售：2K 60Hz、999 元](https://www.ithome.com/0/776/305.htm)|
+||[三星 Galaxy S24 系列手机被曝 8 月推送 One UI 6.1.1 更新：AI+S Pen 激发你的想象力](https://www.ithome.com/0/776/302.htm)|
+||[吉利银河大型 SUV“星舰”原型车内饰官图公布，内置可移动 AI 座椅](https://www.ithome.com/0/776/301.htm)|
+||[微信支付收款码接入银联网络，与云闪付实现“互联互通”](https://www.ithome.com/0/776/300.htm)|
+||[至高 130W 充电功率：绿联推出能量湃 Pro 12000/25000 毫安时移动电源，售 169 元起](https://www.ithome.com/0/776/299.htm)|
+||[《IGS 经典街机合集》任天堂 Switch 实体版 8 月发售，收录《三国战纪》《西游释厄传》等经典游戏](https://www.ithome.com/0/776/298.htm)|
+||[英特尔详解 Intel 3 工艺：应用更多 EUV 光刻，同功耗频率提升至多 18%](https://www.ithome.com/0/776/297.htm)|
+||[小米 Redmi Pad SE 8.7 4G 平板真机照片曝光](https://www.ithome.com/0/776/296.htm)|
+||[KDE Plasma 6.1 桌面环境发布：改进远程桌面体验、Wayland 版支持应用留存](https://www.ithome.com/0/776/295.htm)|
+||[我国首个工业用途核能供汽项目“和气一号”今日建成投产](https://www.ithome.com/0/776/293.htm)|
+||[Varjo 推出“传送”服务：iPhone 变身扫描仪，现实世界秒变逼真 VR 场景](https://www.ithome.com/0/776/292.htm)|
+||[台积电被曝已为英特尔量产 3nm Lunar Lake / Arrow Lake Tiles](https://www.ithome.com/0/776/291.htm)|
+||[原北汽集团副总经理、北京现代董事长巩月琼离职，消息称已加入奇瑞汽车](https://www.ithome.com/0/776/290.htm)|
+||[iQOO 13 手机规格曝光：骁龙 8G4 + 50MP 主摄 / 超广角 / 潜望长焦 + 6000mAh 电池](https://www.ithome.com/0/776/289.htm)|
+||[特斯拉涉嫌垄断汽车维修和零部件，美国法官裁定车主可集体诉讼](https://www.ithome.com/0/776/288.htm)|
+||[qdc 耳机上线真伪免费鉴别服务，总部鉴定可出具书面报告](https://www.ithome.com/0/776/287.htm)|
+||[全新芯片技术亮相：不增加功耗 / 热量提高 CPU 性能最高 100 倍](https://www.ithome.com/0/776/278.htm)|
+||[一加 6100mAh“冰川电池”厚度曝光：5.51mm，薄过普通 5000mAh 电池](https://www.ithome.com/0/776/276.htm)|
+||[5699 元起，OnexPlayer 游侠 X1 mini 三合一电脑天猫开售：8.8 英寸 144Hz 屏、R7 8840U](https://www.ithome.com/0/776/275.htm)|
+||[LAIC 假说被提出：有望将地震预警时间提前到 15 天左右](https://www.ithome.com/0/776/274.htm)|
+||[消息称华为与腾讯接近达成协议，鸿蒙应用商店将免除对微信的抽成](https://www.ithome.com/0/776/273.htm)|
+||[绿联推出 65W Q 湃机器人氮化镓充电头：2C+1A、点阵表情屏显，399 元](https://www.ithome.com/0/776/272.htm)|
+||[联想 ThinkPad T14s 2024 笔记本高通版上架：骁龙 X Elite、可插 SIM 卡，10999 元](https://www.ithome.com/0/776/271.htm)|
+||[自动驾驶公司 Momenta 赴美 IPO 获备案，累计融资额已超 12 亿美元](https://www.ithome.com/0/776/270.htm)|
+||[Gasket 结构 + 可选正 / 侧刻键帽，新盟 A75 三模机械键盘天猫 399 元起开售](https://www.ithome.com/0/776/269.htm)|
+||[18 年等待终有新消息，《银河战士：究极 4 Beyond》首支预告放出：2025 年 Switch 发行](https://www.ithome.com/0/776/268.htm)|
+||[采用高分辨率屏，消息称 Meta 去年 11 月开始开发高端 VR 头显](https://www.ithome.com/0/776/267.htm)|
+||[上市价 4299 元：追觅 W10s Pro 扫拖洗烘机器人京东 1484 元再探新低](https://www.ithome.com/0/776/266.htm)|
+||[通用 DRAM 内存仍供大于求，消息称三星、SK 海力士相关产线开工率维持 80~90%](https://www.ithome.com/0/776/265.htm)|
+||[文件显示被马斯克收购后，X 平台 2023 上半年收入同比暴跌 40%](https://www.ithome.com/0/776/264.htm)|
+||[耐用性是三星 990 Pro 的 183 倍，技嘉推出 AI TOP 100E 系列 SSD：219000 TBW](https://www.ithome.com/0/776/263.htm)|
+||[ColorOS 14 六月升级，首批覆盖 OPPO Find X7 / N3、一加 12 等十余款机型：新增壁纸模糊、AI 消除功能](https://www.ithome.com/0/776/262.htm)|
+||[“AI 教父”杰弗里・辛顿履新，担任绿色材料初创公司 CuspAI 董事会顾问](https://www.ithome.com/0/776/260.htm)|
+||[索尼 PSN 港服开启“年中优惠”游戏折扣活动：《碧蓝幻想：Relink》史低 285.6 港币等](https://www.ithome.com/0/776/259.htm)|
+||[李云飞称某车企使用黑公关手段抹黑比亚迪，悬赏最高 500 万元揪出幕后黑手](https://www.ithome.com/0/776/257.htm)|
+||[消息称法拉利首款电动汽车至少售 50 万欧元，第二款电动车型也在开发中](https://www.ithome.com/0/776/256.htm)|
+||[中国电信发布全球首个单体稠密万亿参数语义模型 Tele-FLM-1T](https://www.ithome.com/0/776/255.htm)|
+||[一级菜单从 20 精简到 18 个，谷歌安卓 15 将梳理设置应用选项](https://www.ithome.com/0/776/254.htm)|
+||[新买特斯拉半年突然着火，车主：要获得补偿得签保密协议](https://www.ithome.com/0/776/253.htm)|
+||[小米 2024 年 618“终极战报”公布：全渠道累积支付金额突破 263 亿元，刷新品牌历年大促纪录](https://www.ithome.com/0/776/252.htm)|
+||[两年达成 20 万辆订单，比亚迪腾势汽车开放招商加盟](https://www.ithome.com/0/776/250.htm)|
+||[Meta 宣布重组 Reality Labs：成立新的可穿戴设备组，并解雇部分员工](https://www.ithome.com/0/776/249.htm)|
+||[耳机成“钥匙”，微软探索全新身份认证方案：佩戴时靠近设备即解锁](https://www.ithome.com/0/776/248.htm)|
+||[华为参与，全球首个 100MWh 构网型储能电站人工短路扰动试验完成](https://www.ithome.com/0/776/247.htm)|
+||[Ampersand 将采购比亚迪电池，2026 年底前在非洲生产约 4 万辆电动摩托车](https://www.ithome.com/0/776/245.htm)|
+||[击穿底价，瑞昱展示家用 5GbE 交换机平台：每端口不到 25 美元](https://www.ithome.com/0/776/244.htm)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9773299)|
+||[如何证明 1²+2²+…+n² 为平方数的解只有 n＝1 或 n＝24？](https://daily.zhihu.com/story/9773271)|
+||[为什么一些病毒要杀死宿主？](https://daily.zhihu.com/story/9773272)|
+||[为什么电流不是矢量？](https://daily.zhihu.com/story/9773290)|
+||[为什么人类的臀部是两瓣的？](https://daily.zhihu.com/story/9773282)|
+|[36氪](http://36kr.com/feed)|[新方向在何方？动力又该从何而来？看WAVES新浪潮2024嘉宾给出答案](https://36kr.com/p/2826195442649348?f=rss)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[北京警方通报外交号牌车辆违停挡路](https://www.infzm.com/contents/273639)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[ARM状告高通，阻击AI PC，为了不让高通的X Elite一家独大，哪怕拖慢AI PC的进程，也要阻击高通](http://lukefan.com/2024/06/19/arm%e7%8a%b6%e5%91%8a%e9%ab%98%e9%80%9a%ef%bc%8c%e9%98%bb%e5%87%bbai-pc%ef%bc%8c%e4%b8%ba%e4%ba%86%e4%b8%8d%e8%ae%a9%e9%ab%98%e9%80%9a%e7%9a%84x-elite%e4%b8%80%e5%ae%b6%e7%8b%ac%e5%a4%a7%ef%bc%8c/)|
+||[全球最大薪酬案：Elon Musk如何成功讨回560亿美金？留下Musk的Tesla，真的会涨到30万亿美金的市值吗？](http://lukefan.com/2024/06/19/%e5%85%a8%e7%90%83%e6%9c%80%e5%a4%a7%e8%96%aa%e9%85%ac%e6%a1%88%ef%bc%9aelon-musk%e5%a6%82%e4%bd%95%e6%88%90%e5%8a%9f%e8%ae%a8%e5%9b%9e560%e4%ba%bf%e7%be%8e%e9%87%91%ef%bc%9f%e7%95%99%e4%b8%8bmusk/)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[关于俄罗斯与朝鲜深化关系，你应该知道的](https://cn.nytimes.com/world/20240619/putin-north-korea-kim/dual)|
+||[佩洛西随美国会代表团会见达赖喇嘛，北京予以谴责](https://cn.nytimes.com/world/20240619/pelosi-dalai-lama/dual)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[首个 AI 高考全卷评测结果发布](https://www.oschina.net/news/297933)|
+||[NumPy 2.0.0 发布，2006 年以来的首个主要版本](https://www.oschina.net/news/297932/numpy-2-0-0-released)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[关于俄罗斯与朝鲜深化关系，你应该知道的](https://cn.nytimes.com/world/20240619/putin-north-korea-kim/)|
+||[佩洛西随美国会代表团会见达赖喇嘛，北京予以谴责](https://cn.nytimes.com/world/20240619/pelosi-dalai-lama/)|
 |[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[全方位掀起折叠屏普及风暴！荣耀折叠屏手机 618 销量增长 179%](https://www.ithome.com/0/776/246.htm)|
 ||[国家金融监管总局：针对快递小哥、网约车司机等灵活就业人员量身打造保险产品](https://www.ithome.com/0/776/243.htm)|
 ||[中国移动咪咕与央视总台达成合作，成为 2024 年巴黎奥运会持权转播商](https://www.ithome.com/0/776/239.htm)|
