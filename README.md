@@ -2,6 +2,34 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[美國 Apple 2024 Back to school 開學季專案正式開跑！](https://applefans.today/2024-06-apple-back-to-school-us-launch/)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[德国副总理哈贝克访韩 称两国同样要摆脱对中国依赖](https://www.zaobao.com/realtime/world/story20240620-3955328)|
+||[塞尔维亚最后时刻扳平 斯洛文尼亚胜利飞走](https://www.zaobao.com/realtime/world/story20240620-3955279)|
+||[继普京后 美助理国务卿克里滕布林克将访越南](https://www.zaobao.com/realtime/world/story20240620-3955286)|
+||[消息称以色列高级顾问 会见美国安顾问沙利文](https://www.zaobao.com/realtime/world/story20240620-3955248)|
+||[数千人抗议肯尼亚政府征税法案](https://www.zaobao.com/realtime/world/story20240620-3955206)|
+||[竞争对手退选 荷兰首相吕特当选北约秘书长](https://www.zaobao.com/realtime/world/story20240620-3955094)|
+||[黎巴嫩真主党向以色列发射数十枚火箭弹](https://www.zaobao.com/realtime/world/story20240620-3955040)|
+||[10名乌克兰儿童及家人已返回乌军控制地区](https://www.zaobao.com/realtime/world/story20240620-3954900)|
+||[普京访越南 两国承诺加强国防合作](https://www.zaobao.com/realtime/world/story20240620-3954969)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[梅州梅县区、蕉岭县通报受灾情况](https://www.infzm.com/contents/273759)|
+||[银团贷款第一城：金融化债的重庆样本](https://www.infzm.com/contents/273751)|
+||[父亲离开两年后，生活教会了我什么](https://www.infzm.com/contents/273544)|
+||[国家市场监督管理总局：广告业止跌回升，收入突破1.3万亿元](https://www.infzm.com/contents/273749)|
+||[15只已清盘，个人养老基金陷规模困局](https://www.infzm.com/contents/273729)|
+|[小众软件](http://feeds.appinn.com/appinns)|[果仁相册 – 免费的安卓相册应用，小、快](https://www.appinn.com/pipphotos/)|
+|[36氪](https://www.36kr.com/feed)|[大模型时代，微软如何用智能开启企业的智慧化创新之路](https://36kr.com/p/2828386418428421?f=rss)|
+||[OpenAI前首席科学家Ilya创立新公司，瞄准超越AGI的“超级人工智能”和绝对的AI安全](https://36kr.com/p/2828031556569346?f=rss)|
+|[IT之家-24 小时最热](https://rsshub.app/ithome/ranking/24h)|[问界新 M7 Ultra 车型上市 18 天交付破万刷新纪录，华为 AITO 联合打造](https://www.ithome.com/0/776/562.htm)|
+||[一加冰川电池发布：行业第一 6100mAh 配 100W 闪充，Ace 3 Pro 手机首发搭载](https://www.ithome.com/0/776/513.htm)|
+||[小米副董事长林斌被指“违背承诺”减持套现 1.6 亿元，官方回应：是做公益](https://www.ithome.com/0/776/506.htm)|
+||[完成国产化替代，基于龙芯处理器的储迹 NAS 落地某公安局](https://www.ithome.com/0/776/477.htm)|
+|[一起偷偷观察 DIYgod - Te...](https://rsshub.app/telegram/channel/awesomeDIYgod)|[🐦 #DIYgod的Twitter更新 梅琳娜老婆居然还在，好久不见 传送门](https://t.me/awesomeDIYgod/6459)|
+||[🐦 #DIYgod的Twitter更新 好夸张的头盔，我头被头盔吃了 传送门](https://t.me/awesomeDIYgod/6458)|
+||[🐦 #DIYgod的Twitter更新 ？为什么我没有 DLC 入口，急死了急死了 传送门](https://t.me/awesomeDIYgod/6457)|
+||[🐦 #DIYgod的Twitter更新 Re 重启 PS5 有了 传送门](https://t.me/awesomeDIYgod/6456)|
+||[🔖 #DIYgod的RSS订阅 ELDENRING 的 pixiv 热门内容 传送门](https://t.me/awesomeDIYgod/6455)|
+||[🐦 #DIYgod的Twitter更新 怎么还不开门！ 传送门](https://t.me/awesomeDIYgod/6453)|
 |[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[涉下注选举日期 苏纳克保镖和竞选负责人被调查](https://www.zaobao.com/realtime/world/story20240620-3954728)|
 ||[周四美市盘前走高 重点谈分析师对晶片制造商高通评级](https://www.zaobao.com/realtime/world/story20240620-3953382)|
 ||[菲中南中国海纠纷 美国指中国“升级行动”](https://www.zaobao.com/realtime/world/story20240620-3954280)|
