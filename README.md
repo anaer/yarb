@@ -2,6 +2,74 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://plink.anyfeeder.com/sspai)|[Linux 游戏生态览：真的有人用它来打游戏吗？](https://sspai.com/post/89743)|
+|[SEISAMUSE](https://www.seis-jun.xyz/atom.xml)|[文献阅读（十三）](http://www.seis-jun.xyz/paper-reading-13)|
+||[如何读文献](http://www.seis-jun.xyz/how-to-read-paper)|
+||[有趣的程序和项目（一）](http://www.seis-jun.xyz/code-and-project1)|
+||[文献阅读（十二）](http://www.seis-jun.xyz/paper-reading-12)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[Texas Colocation July 4th sale! ONLY $49.99!!! via Offers — LowEndTalk author: DataIdeas-Josh ](https://t.me/liyuans/46843)|
+||[US-PHX-WiredBlade VPS 100% NVMe SSD 4 GB RAM 2 CPU 40 GB NVMe SSD 10 Gbps uplink $5/mo via Offers — LowEndTalk author: WiredBlade ](https://t.me/liyuans/46842)|
+|[KAIX.IN](https://kaix.in/feed/)|[感谢星巴克](https://kaix.in/2024/0620-starbucks/)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[5 分钟搞定营养早餐，懒人必看!](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+5%20%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%90%A5%E5%85%BB%E6%97%A9%E9%A4%90%EF%BC%8C%E6%87%92%E4%BA%BA%E5%BF%85%E7%9C%8B%21)|
+||[不注意一个细节，可能会让药变质](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%8D%E6%B3%A8%E6%84%8F%E4%B8%80%E4%B8%AA%E7%BB%86%E8%8A%82%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%AE%A9%E8%8D%AF%E5%8F%98%E8%B4%A8)|
+||[你以为干净，实则很脏的 7 个卫生死角](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%B9%B2%E5%87%80%EF%BC%8C%E5%AE%9E%E5%88%99%E5%BE%88%E8%84%8F%E7%9A%84%207%20%E4%B8%AA%E5%8D%AB%E7%94%9F%E6%AD%BB%E8%A7%92)|
+||[出门在外、海外求学，突然生病了怎么办？可以试试这个办法](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%87%BA%E9%97%A8%E5%9C%A8%E5%A4%96%E3%80%81%E6%B5%B7%E5%A4%96%E6%B1%82%E5%AD%A6%EF%BC%8C%E7%AA%81%E7%84%B6%E7%94%9F%E7%97%85%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E5%8F%AF%E4%BB%A5%E8%AF%95%E8%AF%95%E8%BF%99%E4%B8%AA%E5%8A%9E%E6%B3%95)|
+|[蓝点网](https://www.landiannews.com/feed)|[吃相确实太难看：加密货币交易所Kraken遭到安全公司利用漏洞的勒索](https://www.landiannews.com/archives/104561.html)|
+||[微软推出Windows 11 Build 26241版 金丝雀 资源管理器恢复支持路径拖拽功能](https://www.landiannews.com/archives/104560.html)|
+||[Mozilla Firefox v127.0.1正式版发布 修复丢失标签页和音频卡顿变慢等问题](https://www.landiannews.com/archives/104559.html)|
+||[韩国闪存芯片制造商开始提高产能 固态硬盘等产品年底或许有希望降价](https://www.landiannews.com/archives/104548.html)|
+||[X/Twitter尚未公布的文件显示自从被埃隆马斯克收购后公司广告营收暴跌](https://www.landiannews.com/archives/104547.html)|
+||[腾讯热门手游DNF从多个应用商店下架 疑似又是厂商偷换渠道服引起](https://www.landiannews.com/archives/104546.html)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[壁纸1919191919](https://www.coolapk.com/feed/56913994?shareKey=OGYwMzYxMjM1NWM1NjY3M2E5N2E~)|
+||[端午节一日游](https://www.coolapk.com/feed/56913723?shareKey=ZDFiZDRlNjBiZjc2NjY3M2E5N2E~)|
+||[Scrutiny 硬盘 S.M.A.R.T 可视化工具 – 踩坑、汉化](https://www.coolapk.com/feed/56913224?shareKey=OWVmYzU4YzAzNDdlNjY3M2E5N2E~)|
+||[一份还算详细的索尼root教程](https://www.coolapk.com/feed/56908854?shareKey=MTQ3YjRhOWM3YjdmNjY3M2E5N2E~)|
+||[华为荣耀麒麟系列降级EMUI教程](https://www.coolapk.com/feed/56909466?shareKey=MjRjODNlMTRlN2QyNjY3M2E5N2E~)|
+||[【Canary】Windows Build 26241 更新日志！](https://www.coolapk.com/feed/56909728?shareKey=MjY4YjQ1YjM3MDMyNjY3M2E5N2E~)|
+||[感谢](https://www.coolapk.com/feed/56912349?shareKey=MjZlZmQ0NDEzOGQ3NjY3M2E5N2E~)|
+||[微信麦克风启动失败终极解决方案](https://www.coolapk.com/feed/56912242?shareKey=NWMyODIxNzNjZmMxNjY3M2E5N2E~)|
+||[三星S9 FE+开箱](https://www.coolapk.com/feed/56912032?shareKey=N2I4ZjUyY2NiMmUzNjY3M2E5N2E~)|
+||[玩机技巧｜如何应用全屏显示](https://www.coolapk.com/feed/56911683?shareKey=Njk4ZTQyMjIyNWE4NjY3M2E5N2E~)|
+||[观音湖畔晚风凉](https://www.coolapk.com/feed/56911202?shareKey=OGJhYTU3MjA2ODk5NjY3M2E5N2E~)|
+||[酷安夜话闲谈](https://www.coolapk.com/feed/56910943?shareKey=MzZlODY4M2RhZjMxNjY3M2E5N2E~)|
+||[富士镜头最佳搭配！（我心中的）](https://www.coolapk.com/feed/56910685?shareKey=ZTU2MWU1OTQ5MTBmNjY3M2E5N2E~)|
+||[《遇事不决，可问春风》](https://www.coolapk.com/feed/56910257?shareKey=MzVlNmFjNjg3Zjc2NjY3M2E5N2E~)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[Rust本周精彩文章链接](https://www.jdon.com/74311.html)|
+||[抽烟喝酒有益健康：NMN+白藜芦醇为何是人类长寿补剂？](https://www.jdon.com/74310.html)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[我国人工智能企业数量已超 4000 家](https://www.oschina.net/news/298138)|
+||[Kimi 开放平台将启动 Context Caching 内测，支持长文本大模型](https://www.oschina.net/news/298089)|
+||[手把手案例！怎样拿开源的 GPT-2 训练小模型，挑战 GPT-3.5](https://my.oschina.net/u/3859945/blog/11212356)|
+||[OpenAI 前首席科学家 Ilya Sutskever 创办新 AI 公司](https://www.oschina.net/news/298071/ilya-sutskever-ssi)|
+||[突破！中科通量基于 64 位高性能 RISC-V CPU 成功运行 openKylin 系统](https://www.oschina.net/news/298063)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中年人逃不过华为儿童手表的诱惑](https://www.huxiu.com/article/3152728.html?f=rss)|
+||[前东北首富，遇到新麻烦](https://www.huxiu.com/article/3155733.html?f=rss)|
+||[福建豪门，为啥热衷联姻？](https://www.huxiu.com/article/3149116.html?f=rss)|
+||[被嫌弃的投行人的一生](https://www.huxiu.com/article/3155492.html?f=rss)|
+||[海运费一再疯涨，货代生意不好做](https://www.huxiu.com/article/3155529.html?f=rss)|
+||[Ilya Sutskever创业，新公司的一切都与OpenAI反着来](https://www.huxiu.com/article/3154979.html?f=rss)|
+||[中国城市为什么有那么多围墙？](https://www.huxiu.com/article/2885814.html?f=rss)|
+||[AI报考服务：仙人指路还是盲目下注？](https://www.huxiu.com/article/3154943.html?f=rss)|
+||[衣冠楚楚的他们，为何还要去“捡垃圾”？](https://www.huxiu.com/article/3155455.html?f=rss)|
+||[死肌肉：健身人被PUA的经典话术](https://www.huxiu.com/article/3153701.html?f=rss)|
+||[独立开发，怎么看idea靠不靠谱？](https://www.huxiu.com/article/3152739.html?f=rss)|
+||[A股传媒行业现状：被低估还是名副其实？](https://www.huxiu.com/article/3154928.html?f=rss)|
+||[满族的姓氏，都改成了啥？](https://www.huxiu.com/article/3153044.html?f=rss)|
+||[残酷的闲暇：女工、冷藏车与和河南乡村图景](https://www.huxiu.com/article/3149896.html?f=rss)|
+||[电商巨头，患上“流量焦虑症”](https://www.huxiu.com/article/3154940.html?f=rss)|
+||[对话大海院长，吉利到底有没有电车核心技术？](https://www.huxiu.com/article/3151633.html?f=rss)|
+||[DNF安卓分离：游戏厂商渠道变革在即](https://www.huxiu.com/article/3153718.html?f=rss)|
+||[混动车主：一毛钱的油都不想加](https://www.huxiu.com/article/3153489.html?f=rss)|
+||[换个年轻的CEO，能Make Apple Great Again吗？](https://www.huxiu.com/article/3151602.html?f=rss)|
+||[这个教育“伪专家”被封禁了，然后呢？](https://www.huxiu.com/article/3154963.html?f=rss)|
+||[学会“差不多”地做事，是爱自己的关键](https://www.huxiu.com/article/3153696.html?f=rss)|
+||[学校停课、听证会延期、民众抢水，印度今年有多热？](https://www.huxiu.com/article/3151606.html?f=rss)|
+||[A股上市公司碳排放TOP 100，“大户”有谁？](https://www.huxiu.com/article/3153724.html?f=rss)|
+||[回县城除了考公，还能干什么？](https://www.huxiu.com/article/3153102.html?f=rss)|
+||[茅台售价跌破心理线，高端白酒为啥也卖不动了？](https://www.huxiu.com/article/3152768.html?f=rss)|
+||[中企出海面临的三大挑战](https://www.huxiu.com/article/3154021.html?f=rss)|
+||[小米SU7去纽北刷圈，被外媒吹成了保时捷杀手？](https://www.huxiu.com/article/3154025.html?f=rss)|
+||[国内高星度假酒店不香了？](https://www.huxiu.com/article/3154927.html?f=rss)|
+||[花1000块投地铁广告，但我还没找到工作](https://www.huxiu.com/article/3154922.html?f=rss)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 闲鱼的这个设计差点让我损失 2300 元](https://www.v2ex.com/t/1051086#reply17)|
 ||[ Android 小米解锁 BL 需要做题通过测试才能获得资格](https://www.v2ex.com/t/1051084#reply17)|
 ||[ 深圳 昨天上海地铁伤人，今天深圳地铁小包也要过安检了。](https://www.v2ex.com/t/1051076#reply59)|
