@@ -2,6 +2,67 @@
 
 |来源|标题|
 |---|---|
+|[柴郡猫](https://www.cheshirex.com/feed)|[DMIT美国 LAX.EB.WEE 补货39.9美元年，CN2GIA+CMIN2](https://www.cheshirex.com/8417.html)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[中国公司帮助缅甸屏蔽 VPN](https://www.solidot.org/story?sid=78479)|
+||[因年龄验证 Pornhub 将再屏蔽美国五个州的网民访问其网站](https://www.solidot.org/story?sid=78478)|
+||[日本研究发现改进英文写作能力的关键不是掌握复杂语法](https://www.solidot.org/story?sid=78477)|
+||[OpenAI 联合创始人 Ilya Sutskever 成立新公司 Safe Superintelligence](https://www.solidot.org/story?sid=78476)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[广西桂林遭 98 年以来最大洪峰，火车站被淹，暂时停办客运业务，目前情况如何？应做好哪些防汛工作？](https://www.zhihu.com/question/659394966/answer/3536469181)|
+||[为什么在一个环境中，你一眼就被认出是最好欺负的？](https://www.zhihu.com/question/659281108/answer/3536465633)|
+||[如果商朝和特奥蒂瓦坎接壤并开战，结果会如何？](https://www.zhihu.com/question/658725332/answer/3532822517)|
+||[实习内推中介售卖大厂实习名额约 3 万元一个，如何看待付费内推产业链？](https://www.zhihu.com/question/659144295/answer/3536441663)|
+||[2024NBA总决赛打完了，为什么没人发朋友圈庆祝了？](https://www.zhihu.com/question/659229593/answer/3536438494)|
+||[复旦法学院毕业典礼上学生挥拳打老师，涉事学生已被警方带走做笔录，学校称正在调查，还有哪些细节值得关注？](https://www.zhihu.com/question/659360509/answer/3536405848)|
+||[菲副总统萨拉·杜特尔特从马科斯内阁中辞职，专家称执政联盟「走向破裂」，将有什么影响？哪些信息值得关注？](https://www.zhihu.com/question/659402438/answer/3536408156)|
+||[《喜欢你5》恋爱回避型人格适合谈恋爱吗？](https://www.zhihu.com/question/659399946/answer/3536331409)|
+||[教育部门回应姜萍能不能考浙大「成绩够考清华北大都是可以的」，中专生想上高校的途径有哪些？](https://www.zhihu.com/question/659324044/answer/3536395667)|
+||[宝妈们，你会介意「你的名字」被「xx妈妈」代替吗？](https://www.zhihu.com/question/658936021/answer/3536028994)|
+||[菲方称中国海警登上菲船只缴获枪支，外交部回应「中国海警执法措施专业克制」，透露了哪些信号？有哪些影响？](https://www.zhihu.com/question/659334154/answer/3536388719)|
+||[夏天跑步，你的水都是怎么携带的？](https://www.zhihu.com/question/659221984/answer/3536381419)|
+||[永辉被胖东来「爆改」首店开业，现场人山人海，永辉超市宣布调改至今股价涨超 27%，哪些信息值得关注？](https://www.zhihu.com/question/659329096/answer/3536372495)|
+||[怎么做才能让一个职场新人快速成长起来？](https://www.zhihu.com/question/658445449/answer/3536369114)|
+||[职场新人经常会因为有哪些不切实际的幻想和期望，从而导致他们在实际工作中遇到挫折？](https://www.zhihu.com/question/656994066/answer/3536343837)|
+||[比亚迪李云飞称「某车企使用黑公关对我司恶意诋毁」，公开悬赏线索，最高奖励 500 万元，透露哪些信息？](https://www.zhihu.com/question/659347020/answer/3536333613)|
+||[6 月 LPR 报价出炉，1 年期和 5 年期利率均维持不变，如何解读？](https://www.zhihu.com/question/659395470/answer/3536198764)|
+||[一件衣服穿了3、4年，在生活中会被人「嘲笑」吗？](https://www.zhihu.com/question/659395489/answer/3536229065)|
+||[韩国宣布进入国家人口紧急状态，全力应对韩国人口出生率低下问题，能成吗？有哪些情况值得警惕？](https://www.zhihu.com/question/659345417/answer/3536168540)|
+||[女生有幽默感好吗？](https://www.zhihu.com/question/320524148/answer/3536161312)|
+||[如何看待乌克兰要打败俄罗斯才能加入北约？](https://www.zhihu.com/question/659329413/answer/3536122103)|
+|[爱范儿](https://www.ifanr.com/feed)|[日系车，「量价齐跌」只是开始](https://www.ifanr.com/1589704?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[Apple Intelligence 机型限制太多？苹果高管回应](https://www.ifanr.com/1589683?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[早报 华为腾讯或达成协议，鸿蒙免除微信抽成/比亚迪悬赏最高 500 万征集黑公关线索/OpenAI 前首席科学家成立新公司，聚焦 AI 安全](https://www.ifanr.com/1589671?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[开票！ISC.AI 2024七月北京启幕，限量早鸟票最高优惠直降4000](https://www.4hou.com/posts/m0lr)|
+||[挑战无界，少年无畏！丨第四届极客少年挑战赛于6月20日正式开启报名！](https://www.4hou.com/posts/lkjr)|
+||[2024 年移动统计数据威胁演变趋势](https://www.4hou.com/posts/JKVJ)|
+|[Leonn的博客](https://rsshub.app/wechat/tgchannel/liyuans)|[Offers — LowEndTalk](https://lowendtalk.com/discussion/195650/linux-openvz-vps-in-mumbai-india-and-moscow-russia-starting-from-3-99-mo-hostnamaste-com)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[活宝罗根与弗兰科谈《刺杀金正恩》](https://cn.nytimes.com/film-tv/20141219/t19filminterview/dual)|
+||[俄朝签署安全协议，朝鲜半岛无核化努力成空？](https://cn.nytimes.com/world/20240620/putin-kim-russia-nuclear/dual)|
+||[全球自由贸易是一个错误吗？](https://cn.nytimes.com/culture/20240620/one-week-to-change-the-world-dw-gibson-how-the-world-ran-out-of-everything-peter-s-goodman/dual)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[最详细的IQOO z8与Neo5se评测](https://www.coolapk.com/feed/56918495?shareKey=MTk0ZTg0Y2EzM2ViNjY3M2Q0ODY~)|
+||[24种滤镜（2）](https://www.coolapk.com/feed/56918470?shareKey=MjA4Zjc5MmE2M2I4NjY3M2Q0ODY~)|
+||[24种滤镜（1）](https://www.coolapk.com/feed/56918433?shareKey=NGIyMjlmN2NjZTlmNjY3M2Q0ODY~)|
+||[小小二极管击穿导致指针万用表量程不准](https://www.coolapk.com/feed/56918397?shareKey=YTFhYWVhNmI0MTJjNjY3M2Q0ODY~)|
+||[安卓手表ADB实用工具箱 53.0.0](https://www.coolapk.com/feed/56918394?shareKey=NzliZDUzNzBkYTZiNjY3M2Q0ODY~)|
+||[十年前的三星旧机](https://www.coolapk.com/feed/56918310?shareKey=ZjIxODg3MTc2ZDhiNjY3M2Q0ODY~)|
+||[理论上适用于iOS15-18的120hz解锁。](https://www.coolapk.com/feed/56917936?shareKey=ZGUzNmMwNjIwNzI5NjY3M2Q0ODY~)|
+||[香港扫街哪家强](https://www.coolapk.com/feed/56917213?shareKey=NmMxNzNhNDRmZWM1NjY3M2Q0ODY~)|
+||[出一期升级降级教程](https://www.coolapk.com/feed/56917182?shareKey=MzczYjA4OTMzYWFjNjY3M2Q0ODY~)|
+||[分享自己的手机摄影经验](https://www.coolapk.com/feed/56916455?shareKey=MjFhZmQ1NDczMTY4NjY3M2Q0ODY~)|
+||[高考后的618装机日记](https://www.coolapk.com/feed/56915805?shareKey=NTEzMmQ2NDk1M2UwNjY3M2Q0ODY~)|
+||[分享红米K60一年四个月的真实用机体验](https://www.coolapk.com/feed/56915609?shareKey=NWYyOWNmYzZjMjZkNjY3M2Q0ODY~)|
+||[Windows、Ubuntu等镜像｜PLC行业西门子、CODESYS、倍福、欧姆龙、罗克韦尔等软件分享](https://www.coolapk.com/feed/56915335?shareKey=ZjBhYWNlOTM3MzU3NjY3M2Q0ODY~)|
+||[京东寄修流程](https://www.coolapk.com/feed/56915280?shareKey=NTM1NDY0ZmIwMGNkNjY3M2Q0ODY~)|
+||[网传mate70系列后盖](https://www.coolapk.com/feed/56914745?shareKey=NWZlNDc2ZjcxZDA5NjY3M2Q0ODY~)|
+||[酷态科6号实际输出功率达不到55W，正常吗](https://www.coolapk.com/feed/56914718?shareKey=NzNlMDIxMThkMWU5NjY3M2Q0ODY~)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[核心成员离开、5年未见重大更新，Swift 6发布后，是更值得期待还是更让人失望？](https://www.infoq.cn/article/73XjxWIQkcDyDSdUgvA0)|
+||[Gartner：这四大关键能力，是AIGC在企业中实现价值的基石](https://www.infoq.cn/article/v2hzslEi3LMGY0JXyVoP)|
+||[Ilya 官宣新公司，主打“恶意”竞争！先拉不缺钱的技术大佬入伙，不盈利也要赢过 OpenAI ！](https://www.infoq.cn/article/fWyxy4YpOcvYTUcjMw86)|
+||[@所有生成式 AI 使用者，快来参与有奖调研！](https://www.infoq.cn/article/0XYCT3PqSWkZO7zHNFkF)|
+||[Java 近期新闻：JDK 23进入Rampdown阶段一、JDK 24专家组成立、Apache NetBeans 22发布](https://www.infoq.cn/article/2Q4yFutClOobStbi5idP)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[游戏开发中，配置数据是写在文件中还是写在代码中好？](http://www.zhihu.com/question/659220848/answer/3535134281?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[如果让你来画刘看山，你会画成什么样呢？](http://www.zhihu.com/question/658896911/answer/3533557157?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[如果让你来画刘看山，你会画成什么样呢？](http://www.zhihu.com/question/658896911/answer/3535977880?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[如何反驳有些人“游戏速通有什么用，建议他们XX时候也速通”这一观点？](http://www.zhihu.com/question/659309004/answer/3535684377?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[观人看世界](https://feedpress.me/wx-iwatch1024)|[观人看世界和「自言自语的 boyzcl 」内容的信源列表](http://mp.weixin.qq.com/s?__biz=MzI5NDI2NTAxMA%3D%3D&mid=2247489558&idx=1&sn=0a0abc267989729d999012850edad5ea)|
 |[36氪](https://www.36kr.com/feed)|[闫俊杰对话黄明明：AGI，只有一条最难但唯一的道路](https://36kr.com/p/2827860997556485?f=rss)|
 ||[「风再起时」圆桌对谈：AI创业者总容易对短期过于乐观，对长期又过于悲观｜WAVES新浪潮2024](https://36kr.com/p/2827834774866182?f=rss)|
