@@ -2,6 +2,77 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[涉下注选举日期 苏纳克保镖和竞选负责人被调查](https://www.zaobao.com/realtime/world/story20240620-3954728)|
+||[周四美市盘前走高 重点谈分析师对晶片制造商高通评级](https://www.zaobao.com/realtime/world/story20240620-3953382)|
+||[菲中南中国海纠纷 美国指中国“升级行动”](https://www.zaobao.com/realtime/world/story20240620-3954280)|
+||[韩国谴责朝俄签署全面战略伙伴关系协议](https://www.zaobao.com/realtime/world/story20240620-3954103)|
+||[马航波音客机引擎故障 紧急降落印度机场](https://www.zaobao.com/realtime/world/story20240620-3953971)|
+||[过度旅游引担忧 日本仍盼游客量达6000万人次](https://www.zaobao.com/realtime/world/story20240620-3953759)|
+||[欧盟批准新一轮对俄制裁并加强执行力度](https://www.zaobao.com/realtime/world/story20240620-3953435)|
+||[柔佛政府：新加坡撞船油污扩散至边佳兰](https://www.zaobao.com/realtime/world/story20240620-3953322)|
+||[澳昆士兰州枪击案酿一死一伤 嫌犯被控](https://www.zaobao.com/realtime/world/story20240620-3953336)|
+||[面对以色列开战威胁 真主党称以境将无处安全](https://www.zaobao.com/realtime/world/story20240620-3953329)|
+||[美墨和中美洲发生致命高温可能性增35倍](https://www.zaobao.com/realtime/world/story20240620-3953075)|
+||[俄罗斯空袭破坏乌克兰多地能源基础设施](https://www.zaobao.com/realtime/world/story20240620-3952972)|
+||[朝鲜采“狗狗外交” 金正恩赠普京两丰山犬](https://www.zaobao.com/realtime/world/story20240620-3952919)|
+||[民调：英执政党将在大选中惨败 苏纳克或议席不保](https://www.zaobao.com/realtime/world/story20240620-3952583)|
+||[希腊首都雅典附近山火已受控 疑似人为纵火](https://www.zaobao.com/realtime/world/story20240620-3952387)|
+||[韩国宣布“国家进入人口紧急状态”](https://www.zaobao.com/realtime/world/story20240620-3952154)|
+||[以军发言人称哈马斯为意识形态无法消灭 政府重申立场](https://www.zaobao.com/realtime/world/story20240620-3951996)|
+||[花旗：中国股票估值料恢复正常](https://www.zaobao.com/realtime/world/story20240620-3947686)|
+||[夏季持续高温 印度报4万多起疑似中暑病例](https://www.zaobao.com/realtime/world/story20240620-3951850)|
+||[为推动电动车产业发展 柬埔寨将实施新政策](https://www.zaobao.com/realtime/world/story20240620-3951689)|
+||[厄瓜多尔输配电路故障 全国停电致1800万人陷入黑暗](https://www.zaobao.com/realtime/world/story20240620-3951496)|
+||[新西兰经济走出衰退 首季GDP小幅增长](https://www.zaobao.com/realtime/world/story20240620-3951366)|
+||[普京抵越南访问 赞扬越南的乌克兰问题立场](https://www.zaobao.com/realtime/world/story20240620-3951303)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[今年618大主播都不太能打了。据说因为现在要查税了，刷单不合算了，风险太大了。有知道内情的可以分析分析🧐](https://m.okjike.com/originalPosts/6673feb41342ada38a8e5af6)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[啊？《我推的孩子》真人版？https://www.bilibili.com/video/BV1Tx4...](https://www.wikimoe.com/post/s7gkyoc5)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[四川阆中：在小城，找回生活的慢节奏](http://www.huxiu.com/article/3153737.html?f=wangzhan)|
+||[老外为何要关注“中国式租房”？](http://www.huxiu.com/article/3113046.html?f=wangzhan)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何避免数据跟着一块变呢?](https://segmentfault.com/q/1010000044979803)|
+||[AMD R7-3700U为什么top显示8个CPU?](https://segmentfault.com/q/1010000044979775)|
+||[有一种算法 存在返回真，不存在返回假的高性能算法，我忘记是什么了?](https://segmentfault.com/q/1010000044979459)|
+||[在 .vue 文件中定义 `interface` 报错?](https://segmentfault.com/q/1010000044979347)|
+||[所有月日显示的日历，用什么组件做好？](https://segmentfault.com/q/1010000044979280)|
+||[图片播放像视频一样播放的功能怎么实现？](https://segmentfault.com/q/1010000044979249)|
+||[有关于35114安全认证核心逻辑以及相关代码吗？](https://segmentfault.com/q/1010000044979221)|
+||[PHP网站未动代码出现unserialize Unexpected end of serialized data错误怎么办？](https://segmentfault.com/q/1010000044979069)|
+||[Springboot如何更好的封装Redisson的发布订阅？](https://segmentfault.com/q/1010000044979029)|
+||[Python WebSocketApp 报错提示缺少 on_closed 函数参数如何解决？](https://segmentfault.com/q/1010000044978993)|
+||[如何在Android App中全局捕获Vue项目的Promise异常？](https://segmentfault.com/q/1010000044978988)|
+|[绿盟科技技术博客](http://blog.nsfocus.net/feed/)|[VMware vCenter Server多个高危漏洞（CVE-2024-37079/CVE-2024-37080/CVE-2024-37081）通告](https://blog.nsfocus.net/vmware-vcenter-servercve-2024-37079-cve-2024-37080-cve-2024-37081/)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[乘飞机出行还安全吗？航空安全专家为你解答](https://cn.nytimes.com/business/20240620/airplane-safety-flight-problems/)|
+||[普京为何访问越南，你应该知道的几件事](https://cn.nytimes.com/world/20240620/putin-russia-vietnam-visit/)|
+||[活宝罗根与弗兰科谈《刺杀金正恩》](https://cn.nytimes.com/film-tv/20141219/t19filminterview/)|
+||[俄朝签署安全协议，朝鲜半岛无核化努力成空？](https://cn.nytimes.com/world/20240620/putin-kim-russia-nuclear/)|
+||[全球自由贸易是一个错误吗？](https://cn.nytimes.com/culture/20240620/one-week-to-change-the-world-dw-gibson-how-the-world-ran-out-of-everything-peter-s-goodman/)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[乘飞机出行还安全吗？航空安全专家为你解答](https://cn.nytimes.com/business/20240620/airplane-safety-flight-problems/dual)|
+||[普京为何访问越南，你应该知道的几件事](https://cn.nytimes.com/world/20240620/putin-russia-vietnam-visit/dual)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[为什么这些中国职业女性不想多生孩子](https://cn.nytimes.com/china/20240618/china-moms/?utm_source=RSS)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[开源日报 DNF手游与Android渠道“脱钩”；GCC支持兆芯"世纪大道"微架构CPU；阿里Qwen2-72B登顶HELM榜单；科技领域的几个重要发展周期](https://www.oschina.net/news/298269)|
+||[【直播预告】SQL 审核真的能审出数据库的所有问题吗？](https://my.oschina.net/u/6852546/blog/11212600)|
+||[浅析 Spring 中 Async 注解底层异步线程池原理](https://my.oschina.net/u/5783135/blog/11209054)|
+||[上海 AI 产业规模达 3800 亿元，34 款大模型通过备案](https://www.oschina.net/news/298171)|
+||[哔哩哔哩大语言模型 Index-1.9B 发布](https://my.oschina.net/HuggingFace/blog/11212456)|
+||[欢迎 Stable Diffusion 3 加入 🧨 Diffusers](https://my.oschina.net/HuggingFace/blog/11212457)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[SaaS的范式正在转变为SaS，海外AI风投在后软件时代的投资逻辑](https://www.woshipm.com/it/6072208.html)|
+||[“科技网红”NFT的过气之路](https://www.woshipm.com/it/6072147.html)|
+||[教人做跨境电商，骗了6000万](https://www.woshipm.com/it/6072142.html)|
+||[重估Keep，“潮玩+运动”能否成功掘金？](https://www.woshipm.com/it/6072042.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【公告精选】中国国航计划耗资百亿美元买100架C919飞机；医药公司公布降糖临床试验新进展；三大运营商披露5月经营数据；多人气股声明未参与“车路云一体化”相关项目；一只ST股即将撤销其他风险警示](https://www.tmtpost.com/7137507.html)|
+||[泛海集团：拟私有化泛海酒店，曾因“欠债不还”被民生银行起诉](https://www.tmtpost.com/7137338.html)|
+||[腾讯“硬刚”硬核联盟](https://www.tmtpost.com/7137380.html)|
+||[【日日龙虎榜】科创板次新股强势；半导体继续表现，东晶电子上演地天板，晋升7连板；CRO概念冲高，博济医药龙虎榜净买入超9000万；车路协同分化，多股晋升4连板，小鳄鱼卖出金溢科技，上塘路撤离长江通信；鹏都农牧龙虎榜净卖出超9600万](https://www.tmtpost.com/7137346.html)|
+||[业绩承压、产能利用率下降，光电股份仍欲定增扩产](https://www.tmtpost.com/7137288.html)|
+||[中国出版遭“灵魂拷问”：上市7年，IPO募资还没花完？](https://www.tmtpost.com/7137070.html)|
+|[让小产品的独立变现更简单 - ezi...](https://www.ezindie.com/feed/rss.xml)|[独立开发变现周刊（第138期） : 打造月收入14万美金的SaaS，350万美金售出](https://www.ezindie.com/weekly/issue-138)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[粽子新吃法大赏，另类风味让你欲罢不能！](https://www.jianshu.com/p/c63616aa3c55)|
+||[《蒋勋说红楼梦》第二十三回 西厢记妙词通戏语 牡丹亭艳曲警芳心](https://www.jianshu.com/p/77255a229004)|
+||[你喜欢喝奶茶吗？](https://www.jianshu.com/p/e0e9034e184e)|
+||[底层社会的黑暗](https://www.jianshu.com/p/a60cf7fc96e1)|
+||[忙 空洞](https://www.jianshu.com/p/0a04e9270bfd)|
+||[欧洲杯不能小瞧阿尔巴尼亚](https://www.jianshu.com/p/a9a660efd56a)|
+||[吃在潮州](https://www.jianshu.com/p/863555ed2ab2)|
 |[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中国国安部：有军迷用高清无人机非法拍摄新型军舰获判缓刑](https://www.zaobao.com/realtime/china/story20240620-3953180)|
 ||[下午察：俄朝牵手，中国尴尬？](https://www.zaobao.com/realtime/china/story20240620-3954956)|
 ||[中国铁路儿童票新规实施后 逾4900万人次免费出行](https://www.zaobao.com/realtime/china/story20240620-3953085)|
