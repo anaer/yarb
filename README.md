@@ -2,6 +2,130 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[语言主要是为了沟通不是为了推理](https://www.solidot.org/story?sid=78486)|
+||[自动驾驶汽车更擅长直行人类更擅长转弯](https://www.solidot.org/story?sid=78485)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Anker的新型双头USB-C电缆可同时为两台设备充电](https://m.cnbeta.com.tw/view/1435521.htm)|
+||[人口危机加剧 经合组织成员国的生育率跌至历史新低](https://m.cnbeta.com.tw/view/1435516.htm)|
+||[吉利德称其HIV疫苗在后期试验中100%有效](https://m.cnbeta.com.tw/view/1435515.htm)|
+||[我们是否对电动汽车需要发出的声音想得太多了？](https://m.cnbeta.com.tw/view/1435514.htm)|
+||[苹果与国际足联谈判破裂 世俱杯赛事岌岌可危](https://m.cnbeta.com.tw/view/1435513.htm)|
+||[欧盟给中国电车加关税 最高48.1％ 却把自家人给捅了](https://m.cnbeta.com.tw/view/1435512.htm)|
+||[AMD重启多显卡支持 最多四块、192GB显存](https://m.cnbeta.com.tw/view/1435511.htm)|
+||[加拿大超级猪入侵美国：体型2倍于美国野猪 高智商还不怕冷](https://m.cnbeta.com.tw/view/1435510.htm)|
+||[华为宣布参加2024 MWC上海大会 官方首次公布5G-A网络标识](https://m.cnbeta.com.tw/view/1435509.htm)|
+||[亚马逊将在北美淘汰快递包装中的塑料气枕](https://m.cnbeta.com.tw/view/1435508.htm)|
+||[这台机器织出的衣服以明胶为基础 使用后可溶解](https://m.cnbeta.com.tw/view/1435507.htm)|
+||[微软官方文档显示可能需要升级到 Windows 11 24H2才能用Wi-Fi 7](https://m.cnbeta.com.tw/view/1435506.htm)|
+||[美俄紧张关系升级 针对卡巴斯基的禁令即将出台](https://m.cnbeta.com.tw/view/1435505.htm)|
+||[Instagram 为好友推出小圈子私密直播功能](https://m.cnbeta.com.tw/view/1435503.htm)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[【时尚绿色酒瓶设计】让生活回归自然与宁静](https://www.jianshu.com/p/125b78d09222)|
+||[多段路径跟随](https://www.jianshu.com/p/7d8ae5a5b287)|
+||[著名歌唱家，作曲家孟文豪原创单曲《窗外的雨》震撼来袭](https://www.jianshu.com/p/2b8b98b2cbf4)|
+||[月亮之上](https://www.jianshu.com/p/c33a865a5475)|
+||[今又端阳](https://www.jianshu.com/p/769cc6503367)|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[谌贻琴向中塔妇女论坛开幕式发表视频致辞](http://politics.people.com.cn/n1/2024/0620/c1001-40260907.html)|
+||[王小洪会见美国白宫国家禁毒政策办公室主任古普塔](http://politics.people.com.cn/n1/2024/0620/c1001-40260906.html)|
+||[两部门:推动降低群众电动自行车充电负担](http://society.people.com.cn/n1/2024/0620/c1008-40260905.html)|
+||[商务部：欧委会索取中国电动汽车及电池企业信息远超反补贴调查所需](http://finance.people.com.cn/n1/2024/0620/c1004-40260884.html)|
+||[商务部:美方执意保留并提高对华301关税是典型的政治操弄](http://finance.people.com.cn/n1/2024/0620/c1004-40260883.html)|
+||[严禁电子秤作弊 市场监管总局拟出台新规](http://society.people.com.cn/n1/2024/0620/c1008-40260877.html)|
+||[银川市委原书记姜志刚受贿案一审开庭](http://society.people.com.cn/n1/2024/0620/c1008-40260863.html)|
+||[有关安排介绍](http://world.people.com.cn/n1/2024/0620/c1002-40260853.html)|
+||[外交部:强烈谴责、坚决反对美国再次对台售武](http://world.people.com.cn/n1/2024/0620/c1002-40260852.html)|
+||[谌贻琴:巩固和增强经济回升向好态势依靠发展促进高质量充分就业](http://politics.people.com.cn/n1/2024/0620/c1001-40260846.html)|
+||[过闸货运量超20亿吨 三峡船闸运行21年有效支撑长江“黄金水道”发展](http://finance.people.com.cn/n1/2024/0620/c1004-40260837.html)|
+||[高水平开放型经济加快形成 西部陆海新通道年度目标有望实现](http://finance.people.com.cn/n1/2024/0620/c1004-40260828.html)|
+||[波兰总统杜达将对中国进行国事访问](http://world.people.com.cn/n1/2024/0620/c1002-40260807.html)|
+||[上好税费辅导“开业第一课” 小微企业稳步“起跑”](http://finance.people.com.cn/n1/2024/0620/c1004-40260710.html)|
+||[6月LPR报价与上月持平](http://finance.people.com.cn/n1/2024/0620/c1004-40260666.html)|
+||[“科创板八条”为新质生产力营造良好投融资环境](http://finance.people.com.cn/n1/2024/0620/c1004-40260663.html)|
+||[夏日游泳健身受伤谁担责? 收好这份运动安全指南](http://society.people.com.cn/n1/2024/0620/c1008-40260593.html)|
+||[加强网络法治建设 夯实经济社会高质量发展法治基础](http://society.people.com.cn/n1/2024/0620/c1008-40260584.html)|
+||[全民健康素养宣传月:保持健康骨骼 离不开这5点](http://health.people.com.cn/n1/2024/0620/c14739-40260515.html)|
+|[IT之家](https://www.ithome.com/rss/)|[雷蛇炼狱蝰蛇 V3 极速版鼠标发布：重 55g、最高 8000Hz 轮询率，售价 799 元](https://www.ithome.com/0/776/629.htm)|
+||[腾讯元宝发布 1.1.7 版本更新：AI 搜索解析能力升级，支持千万字超长文处理](https://www.ithome.com/0/776/628.htm)|
+||[今日夏至：盛夏，如约而至](https://www.ithome.com/0/776/626.htm)|
+||[单井最长取心段 361.8 米，我国首个页岩油水力压裂试验场正式建成](https://www.ithome.com/0/776/625.htm)|
+||[微软建议用户升级至 Win11 24H2 版本以体验 Wi-Fi 7 网络，Win10 不支持 6GHz 频段](https://www.ithome.com/0/776/627.htm)|
+||[GPT-4o 攻破 ARC-AGI 无法被挑战的神话！71% 准确率成新 SOTA](https://www.ithome.com/0/776/624.htm)|
+||[何小鹏亲赴美国体验特斯拉 FSD 智驾功能，马斯克回应：中国车企最具竞争力](https://www.ithome.com/0/776/622.htm)|
+||[《艾尔登法环：黄金树幽影》明日正式发售：主机 0 点解锁，PC 六点解锁](https://www.ithome.com/0/776/621.htm)|
+||[OpenAI 竞争对手 Anthropic 发布其最强 AI 大模型 Claude 3.5](https://www.ithome.com/0/776/620.htm)|
+||[Epic 喜加二：《Freshly Frosted》《Rumble Club - Free Game of the Week Bonus》游戏免费领取](https://www.ithome.com/0/776/619.htm)|
+||[领克新 09 EM-P 推送 1.3.0 版本升级：新增哨兵模式、Flyme Link 手车互联等](https://www.ithome.com/0/776/618.htm)|
+||[江汽纯电轿卡恺达 U7 开启预售：货厢容积 13.7 方、2.5 吨级后桥，9.98 万元起](https://www.ithome.com/0/776/617.htm)|
+||[北京市首例“AI 换脸”软件侵权案宣判：国风博主短视频被“换脸”后制作成付费模板](https://www.ithome.com/0/776/616.htm)|
+||[消息称一加 Ace 3 Pro 手机将推出白色陶瓷典藏版，最高 24GB+1TB](https://www.ithome.com/0/776/615.htm)|
+||[微博宣布将开展三个月的“付费冲热搜”网络黑产专项打击行动](https://www.ithome.com/0/776/614.htm)|
+||[倒数 1 小时：WPS 超级会员 5 元 / 月年内探底](https://www.ithome.com/0/776/587.htm)|
+||[承诺已无法兑现，微软 Xbox 开始为购买《红霞岛》DLC 的玩家发放退款](https://www.ithome.com/0/776/613.htm)|
+||[售 19.58 万元起，领克 08 EM-P 领航智驾新开四川、陕西等 9 省（市）](https://www.ithome.com/0/776/612.htm)|
+||[尽管事故不断，Waymo 仍坚称其无人驾驶汽车比人类安全 200%](https://www.ithome.com/0/776/608.htm)|
+||[摩尔线程发布 260.70.1 显卡驱动更新：新增 Win11 系统支持，《鸣潮》帧率提升超 125%](https://www.ithome.com/0/776/610.htm)|
+||[年轻人的第一辆 SUV？小米新车路试谍照曝光，预计 2025 年正式发布](https://www.ithome.com/0/776/609.htm)|
+||[消息称荣耀畅玩 60 Plus 手机采用骁龙 4 Gen 2 处理器，三证齐全只待发布](https://www.ithome.com/0/776/607.htm)|
+||[三星推出新款 34 英寸 Odyssey G8 显示器：QD-OLED 面板，3440×1440 分辨率 + 175Hz 刷新率](https://www.ithome.com/0/776/606.htm)|
+||[618 倒数 2 小时：格兰仕 DR 空气炸微波炉 729.9 元 12 期免息（上市价 2499 元）](https://www.ithome.com/0/776/605.htm)|
+||[机械革命极光 X 游戏本外观曝光：屏幕“大下巴”消失，性价比之作](https://www.ithome.com/0/776/604.htm)|
+||[AMD 发布 ROCm 6.1.3，支持 RX 7900 GRE 显卡及 TensorFlow](https://www.ithome.com/0/776/603.htm)|
+||[面世 25 年后：Key 社经典恋爱冒险游戏《Kanon》上架 Steam，国区首发 97.2 元](https://www.ithome.com/0/776/602.htm)|
+||[1.2 万人朝圣 CVPR，华人学者夺最佳论文！Sora 舵手火爆演讲成大型追星现场](https://www.ithome.com/0/776/623.htm)|
+||[三星 W25 折叠屏手机被曝 10 月发布，比 Fold6 更轻、更薄、更大](https://www.ithome.com/0/776/601.htm)|
+||[岚图知音官宣：三季度正式发布，号称年轻人的纯电家用 SUV 车型](https://www.ithome.com/0/776/600.htm)|
+|[Bing每日壁纸](https://rsshub.app/bing)|[蓝色水面上的渔船航拍图，郴州市，湖南省，中国](https://cn.bing.com/search?q=%e5%a4%8f%e8%87%b3&form=hpcapt&filters=HpDate:%2220240620_1600%22)|
+|[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[耶伦辩护提高中国商品关税政策](https://www.zaobao.com/realtime/world/story20240620-3955420)|
+|[澳大利亚广播公司](https://plink.anyfeeder.com/abc/cn)|[进一步加息的可能性越来越大 但加息能解决通胀问题吗？](https://newsapp.abc.net.au/newsapp//chinese/2024-06-20/rba-not-fighting-textbook-case-of-inflation-rate-rises/104003390)|
+||[核电在澳大利亚有未来吗？这些数字能帮助你得出结论](https://newsapp.abc.net.au/newsapp//chinese/2024-06-20/nuclear-power-for-a-cost-and-timelines-explainer/104001204)|
+||[俄罗斯总统普京为何访问越南？西方警惕俄越军火交易](https://newsapp.abc.net.au/newsapp//chinese/2024-06-20/russian-president-putin-arrives-in-vietnam-for-state-visit/104000910)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[奈夏: @无聊图](http://i.jandan.net/t/5702169)|
+||[Evaneska: @无聊图](http://i.jandan.net/t/5702140)|
+||[睾魔: @无聊图](http://i.jandan.net/t/5702087)|
+||[lufee: @无聊图](http://i.jandan.net/t/5702085)|
+||[小森: @无聊图](http://i.jandan.net/t/5702081)|
+||[攸修瞒: @无聊图](http://i.jandan.net/t/5702074)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5702061)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5702045)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5702027)|
+||[敌方玩家: @无聊图](http://i.jandan.net/t/5702020)|
+||[迷失: @无聊图](http://i.jandan.net/t/5702000)|
+||[铝热剂烧硬盘: @无聊图 右上角的广告图都是怎么来的呢？生成了一大批随机选择？还是每次都生成新的？](http://i.jandan.net/t/5701987)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5701958)|
+||[百川流: @无聊图](http://i.jandan.net/t/5701940)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5701935)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5701901)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5701899)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5701897)|
+||[牛头人批发部: @无聊图](http://i.jandan.net/t/5701896)|
+||[牛头人批发部: @无聊图](http://i.jandan.net/t/5701889)|
+||[吃饱撑的: @无聊图](http://i.jandan.net/t/5701886)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5701881)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5701879)|
+||[纸飞机: @无聊图](http://i.jandan.net/t/5701862)|
+||[:- : @无聊图](http://i.jandan.net/t/5701861)|
+||[二队社员: @无聊图](http://i.jandan.net/t/5701856)|
+||[二队社员: @无聊图](http://i.jandan.net/t/5701855)|
+||[鹿卷卷的小窝: @无聊图 广西桂林，连续多月降雨，多日暴雨过后，上游泄洪，几十年没被漓江水泡过的公司大院，彻底沦陷，大家留守公司大院一晚上，第二天起来停车...](http://i.jandan.net/t/5701805)|
+||[咕咕咕: @无聊图](http://i.jandan.net/t/5701798)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5701793)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5701784)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5701780)|
+||[Q_Z: @无聊图](http://i.jandan.net/t/5701761)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5701759)|
+||[浜辺美波: @无聊图](http://i.jandan.net/t/5701751)|
+||[一字马啊: @无聊图](http://i.jandan.net/t/5701730)|
+||[fancymiao: @无聊图 昂？](http://i.jandan.net/t/5701725)|
+||[大姨胶布: @无聊图](http://i.jandan.net/t/5701721)|
+||[羊驼呵呵: @无聊图](http://i.jandan.net/t/5701714)|
+||[剑胆: @无聊图](http://i.jandan.net/t/5701705)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5701695)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5701686)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5701679)|
+||[剑胆: @无聊图](http://i.jandan.net/t/5701673)|
+||[剑胆: @无聊图](http://i.jandan.net/t/5701667)|
+||[剑胆: @无聊图](http://i.jandan.net/t/5701664)|
+||[秋田不短: @无聊图](http://i.jandan.net/t/5701663)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5701650)|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[Visual Studio 如何编译 Lua](https://www.mr-wu.cn/compiling-lua-in-visual-studio/)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[美國 Apple 2024 Back to school 開學季專案正式開跑！](https://applefans.today/2024-06-apple-back-to-school-us-launch/)|
 |[《联合早报》-国际-即时](https://plink.anyfeeder.com/zaobao/realtime/world)|[德国副总理哈贝克访韩 称两国同样要摆脱对中国依赖](https://www.zaobao.com/realtime/world/story20240620-3955328)|
 ||[塞尔维亚最后时刻扳平 斯洛文尼亚胜利飞走](https://www.zaobao.com/realtime/world/story20240620-3955279)|
