@@ -2,6 +2,96 @@
 
 |来源|标题|
 |---|---|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[中国国安部：有军迷用高清无人机非法拍摄新型军舰获判缓刑](https://www.zaobao.com/realtime/china/story20240620-3953180)|
+||[下午察：俄朝牵手，中国尴尬？](https://www.zaobao.com/realtime/china/story20240620-3954956)|
+||[中国铁路儿童票新规实施后 逾4900万人次免费出行](https://www.zaobao.com/realtime/china/story20240620-3953085)|
+||[中国足协对年龄造假两球员处以禁赛两月](https://www.zaobao.com/realtime/china/story20240620-3952944)|
+||[台海巡署：6月前半月平均每天有四艘大陆海警船出现在金门水域](https://www.zaobao.com/realtime/china/story20240620-3952773)|
+||[未来三年香港教资会资助的高校学费平均每年加幅5.5%](https://www.zaobao.com/realtime/china/story20240620-3952415)|
+||[欧盟中国商会：对中国电动车征税是欧盟经济“内顾”转折点](https://www.zaobao.com/realtime/china/story20240620-3953662)|
+||[印度据报对中国恢复客运航班的呼吁置之不理](https://www.zaobao.com/realtime/china/story20240620-3953638)|
+||[江苏国企据悉为发行50年中票初步接触投资者](https://www.zaobao.com/realtime/china/story20240620-3953196)|
+||[近八成台湾人不认同大陆要求台艺人表态](https://www.zaobao.com/realtime/china/story20240620-3952895)|
+||[中国同意延长马国公民免签至2025年底](https://www.zaobao.com/realtime/china/story20240620-3953232)|
+||[中国据报要求小型银行2026年前停止销售理财产品](https://www.zaobao.com/realtime/china/story20240620-3953194)|
+||[台立法院外明聚集“蓝鹰”“青鸟” 台北部署500警力维安](https://www.zaobao.com/realtime/china/story20240620-3953148)|
+||[教宗方济各脱稿呼吁为中国人民祷告](https://www.zaobao.com/realtime/china/story20240620-3952992)|
+||[台东首例 蓝营成功镇长谢淑贞罢免案料8月3日投票](https://www.zaobao.com/realtime/china/story20240620-3952746)|
+||[史学家许倬云获颁唐奖汉学奖](https://www.zaobao.com/realtime/china/story20240620-3952557)|
+||[台立院改革修法复议案表决 行政院长：有必要会提释宪](https://www.zaobao.com/realtime/china/story20240620-3952418)|
+||[受天气影响 经停桂林火车站部分列车停运或限速](https://www.zaobao.com/realtime/china/story20240620-3951905)|
+||[上海中山公园有人持刀伤人？警方辟谣](https://www.zaobao.com/realtime/china/story20240620-3952282)|
+||[港律政司长：直接或间接资助潜逃者均属违法](https://www.zaobao.com/realtime/china/story20240620-3951909)|
+||[纳斯达克据报加强对大陆和香港小盘股IPO的审查](https://www.zaobao.com/realtime/china/story20240620-3952084)|
+||[中国驻韩使馆促韩在南中国海问题上谨言慎行](https://www.zaobao.com/realtime/china/story20240620-3951758)|
+||[复旦毕业典礼学生挥拳打老师 校方：警方已介入](https://www.zaobao.com/realtime/china/story20240620-3951939)|
+||[科大讯飞内部通报员工去世：在家突发不适送医抢救无效](https://www.zaobao.com/realtime/china/story20240620-3951748)|
+|[海交史](https://www.haijiaoshi.com/feed)|[海上丝绸之路考古研究新进展述评（2020-2022）](https://www.haijiaoshi.com/archives/11901?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%25b5%25b7%25e4%25b8%258a%25e4%25b8%259d%25e7%25bb%25b8%25e4%25b9%258b%25e8%25b7%25af%25e8%2580%2583%25e5%258f%25a4%25e7%25a0%2594%25e7%25a9%25b6%25e6%2596%25b0%25e8%25bf%259b%25e5%25b1%2595%25e8%25bf%25b0%25e8%25af%2584%25ef%25bc%25882020-2022%25ef%25bc%2589)|
+||[《中国古代财政文献汇编》（全290册）](https://www.haijiaoshi.com/archives/11892?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%258a%25e4%25b8%25ad%25e5%259b%25bd%25e5%258f%25a4%25e4%25bb%25a3%25e8%25b4%25a2%25e6%2594%25bf%25e6%2596%2587%25e7%258c%25ae%25e6%25b1%2587%25e7%25bc%2596%25e3%2580%258b%25ef%25bc%2588%25e5%2585%25a8290%25e5%2586%258c%25ef%25bc%2589)|
+|[新浪专栏-创事记](https://plink.anyfeeder.com/sina/csj)|[从教书匠到卖货郎，东方甄选的水土不服](https://finance.sina.com.cn/tech/csj/2024-06-20/doc-inazkysy1893033.shtml)|
+||[农夫山泉：涉过谣言，依旧夺魁 衣公子](https://finance.sina.com.cn/tech/csj/2024-06-20/doc-inazkumf4273097.shtml)|
+||[“数字东哥”出圈，618风向转变](https://finance.sina.com.cn/tech/csj/2024-06-20/doc-inazkivc6297855.shtml)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[鸿蒙 容器组件](https://juejin.cn/post/7382411119327035419)|
+||[WebAssembly与Rust：高性能计算的前端应用](https://juejin.cn/post/7382411119326986267)|
+||[Vite本地构建：手写核心原理](https://juejin.cn/post/7382408161385201674)|
+||[Angular RxJS 大全](https://juejin.cn/post/7382344353069776931)|
+||[NestJS实战之开发短链服务（五）](https://juejin.cn/post/7382386471271809059)|
+||[现代 CSS 解决方案：全尺寸的带圆角的渐变边框 掘金一周 6.19](https://juejin.cn/post/7382392140469043254)|
+||[JS一维数组转多维数组树](https://juejin.cn/post/7382392140468830262)|
+||[策略模式在多维度活动中的应用](https://juejin.cn/post/7382421853765795866)|
+||[使用React——开发系统页面流程](https://juejin.cn/post/7382402082562703396)|
+||[Rust 中的迭代器操作：map 与 flat_map 的比较分析](https://juejin.cn/post/7382421853765713946)|
+||[如何应用 matrix3d 映射变幻](https://juejin.cn/post/7382386089250799625)|
+||[30分钟快速入门React](https://juejin.cn/post/7382408161384382474)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[房地产业亟需自我进化重大变革](https://www.huxiu.com/article/3157466.html?f=rss)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Anthropic发布其最强大AI模型Claude 3.5](https://m.cnbeta.com.tw/view/1435501.htm)|
+||[报告：欧洲主要的生成式AI公司创始人大多在美国科技公司工作过](https://m.cnbeta.com.tw/view/1435500.htm)|
+||[已经全球第一了，为什么还要“奋斗100天”啊？](https://m.cnbeta.com.tw/view/1435499.htm)|
+||[虾皮员工猝死、宁德时代896 “大厂”加班文化该休了](https://m.cnbeta.com.tw/view/1435498.htm)|
+||[英伟达股价再创新高 美股三巨头总市值首次突破10万亿美元](https://m.cnbeta.com.tw/view/1435497.htm)|
+||[特斯拉德克萨斯州新数据中心安装了一组巨型“GPU风扇”](https://m.cnbeta.com.tw/view/1435495.htm)|
+||[世界正在以创纪录的数量产生难民](https://m.cnbeta.com.tw/view/1435493.htm)|
+||[一图读懂一加冰川电池：引领智能手机续航革命](https://m.cnbeta.com.tw/view/1435492.htm)|
+||[华为4G新机首次亮相 Mate 60同款圆环后摄 双曲OLED屏](https://m.cnbeta.com.tw/view/1435490.htm)|
+||[网红咖啡Manner刷屏热搜：顾客被泼咖啡粉同日 还有一位顾客被扇耳光](https://m.cnbeta.com.tw/view/1435489.htm)|
+||[内部供应链出问题 韩国麦当劳暂时停止销售炸薯条](https://m.cnbeta.com.tw/view/1435488.htm)|
+||[由于欧盟审批缓慢 Wolfspeed推迟在德国投资建设芯片工厂计划](https://m.cnbeta.com.tw/view/1435487.htm)|
+||[OpenAI被解雇员工惊人预警：“超级智能几周，相当于人类几十亿年”](https://m.cnbeta.com.tw/view/1435486.htm)|
+||[从教书匠到卖货郎，东方甄选的水土不服](https://m.cnbeta.com.tw/view/1435485.htm)|
+||[台积电正开发先进芯片封装技术：矩形代替圆形晶圆 可放更多芯片](https://m.cnbeta.com.tw/view/1435484.htm)|
+||[纯血鸿蒙明日上线 Mate 60和Pura 70系列有望首批升级](https://m.cnbeta.com.tw/view/1435483.htm)|
+||[苹果AI已与百度、阿里、百川等中国企业接触](https://m.cnbeta.com.tw/view/1435482.htm)|
+||[Intel 3工艺官方深入揭秘：号称性能飙升18％](https://m.cnbeta.com.tw/view/1435481.htm)|
+||[波音公司被指控犯下“美国最致命的企业犯罪”](https://m.cnbeta.com.tw/view/1435480.htm)|
+||[合资车企迎战新能源：一边推新车，一边狂降价](https://m.cnbeta.com.tw/view/1435479.htm)|
+||[报告显示游戏和追剧并非iPhone最受欢迎的用途](https://m.cnbeta.com.tw/view/1435478.htm)|
+||[三星将于今年晚些时候推出全新"超薄"版Galaxy Z Fold 6 不包括S Pen](https://m.cnbeta.com.tw/view/1435477.htm)|
+||[马来西亚首家苹果App Store开业前揭幕](https://m.cnbeta.com.tw/view/1435476.htm)|
+||[价格门槛再次降低 宝马将于2027年推出i1、i2两款车型](https://m.cnbeta.com.tw/view/1435475.htm)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[比亚迪李云飞称「某车企使用黑公关对我司恶意诋毁」，公开悬赏线索，最高奖励 500 万元，透露哪些信息？](https://www.zhihu.com/question/659347020/answer/3536988563)|
+||[空调的电耗和什么有关？](https://www.zhihu.com/question/654074438/answer/3536940099)|
+||[公司小王年龄只比我大，同事都叫他小王，我叫他小王合适吗？](https://www.zhihu.com/question/654311476/answer/3536934668)|
+||[Manner 咖啡店店员因催单与顾客起冲突，暴露了哪些问题？服务行业遇到类似情况该如何妥善解决？](https://www.zhihu.com/question/659419564/answer/3536913609)|
+||[如何让自己的内心充满能量？](https://www.zhihu.com/question/657522738/answer/3536904520)|
+||[夏天跑步，你的水都是怎么携带的？](https://www.zhihu.com/question/659221984/answer/3536859868)|
+||[友友们，高考结束后你们是打工还是旅游？](https://www.zhihu.com/question/658610848/answer/3536819201)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[Runway 全新 Gen-3 视频生成模型获网友盛赞：比 Sora 更好](https://www.infoq.cn/article/e5lqQZHdbHK1eSAVVRQJ)|
+|[瓦解的生活记事](https://hin.cool/atom.xml)|[手动清理C盘的空间](https://hin.cool/posts/cclean.html)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【记录】泡泡玛特——“凭空造出来的IP”加工厂](http://xueqiu.com/1733193362/294296933)|
+||[腾讯之野望：战略进攻号角已吹响](http://xueqiu.com/7815672011/294262927)|
+||[药明生物股东大会见闻小结](http://xueqiu.com/7173595940/294545049)|
+||[中国银行2024年1季报深度解读](http://xueqiu.com/1707706450/294429185)|
+||[对周期策略的一些进化。](http://xueqiu.com/4698841123/294505220)|
+||[好股与好时](http://xueqiu.com/6014436876/294430417)|
+||[中海油和中石油2024年一季度桶油利潤比較](http://xueqiu.com/6308001210/294430414)|
+||[跌幅越大，机会越多](http://xueqiu.com/6146592061/294555775)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[1342万考生填报志愿这件事 ，AI搜索可帮了大忙](https://www.jiqizhixin.com/articles/2024-06-20-8)|
+||[超越CVPR 2024方法，DynRefer在区域级多模态识别任务上，多项SOTA](https://www.jiqizhixin.com/articles/2024-06-20-7)|
+||[从高考到奥林匹克竞技场：大模型与人类智能的终极较量](https://www.jiqizhixin.com/articles/2024-06-20-6)|
+||[北大推出全新机器人多模态大模型！面向通用和机器人场景的高效推理和操作](https://www.jiqizhixin.com/articles/2024-06-20-5)|
+||[ShareGPT4V作者团队又一力作！百万高质量视频-字幕数据助力社区提升多模态大模型视频理解及生成能力](https://www.jiqizhixin.com/articles/2024-06-20-4)|
+||[CVPR 2024全部奖项公布！近万人线下参会，谷歌华人研究员获最佳论文奖](https://www.jiqizhixin.com/articles/2024-06-20-3)|
+||[突发！Ilya Sutskever成立新公司SSI，安全超级智能是唯一目标与产品](https://www.jiqizhixin.com/articles/2024-06-20-2)|
 |[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[华为宣布 6 月 26 日参加 2024 MWC 上海展会，官方“5GA”网络标识现已曝光](https://www.ithome.com/0/776/599.htm)|
 ||[苹果美国开启 2024 教育优惠返校季活动，购 Mac / iPad 最高赠 150 美元礼品卡](https://www.ithome.com/0/776/597.htm)|
 ||[中国联通 2024 年 5 月 5G 套餐用户累计达 2.74 亿户](https://www.ithome.com/0/776/593.htm)|
