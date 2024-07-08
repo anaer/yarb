@@ -2,6 +2,63 @@
 
 |来源|标题|
 |---|---|
+|[MIT 科技评论 - 本周热榜](https://plink.anyfeeder.com/mittrchina/hot)|[CCF开源创新大赛暨第二届Bio-OS开源开放大赛持续招募，31.5万奖金池等你来拿](https://www.mittrchina.com/news/detail/13502)|
+||[科学家发现氢气制备新机制，并重新评估水氧化催化剂设计原理，为研究铱基材料带来新见解](https://www.mittrchina.com/news/detail/13503)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[2024-06行业报告合集 链接：https://pan.baidu.com/s/13Bq3IJirylZPA8m1a35Q6w?pwd=kyhp 提取码：kyhp 上个月6月份知识付费平台流出的付费研报，随时可能被和谐...](https://m.okjike.com/originalPosts/668badca03aa8ba86f339b7d)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[美国大学对Napster和Limewire过时的P2P文件共享警告早已过时](https://m.cnbeta.com.tw/view/1437535.htm)|
+||[小米采取措施禁止国行版设备安装国际版系统 刷机后将报错无法进入系统](https://m.cnbeta.com.tw/view/1437532.htm)|
+||[台积电市值突破1万亿美元 成为全球市值第八大公司](https://m.cnbeta.com.tw/view/1437531.htm)|
+||[飓风Beryl导致德州十数万家庭和企业遭遇断电 当地油气设施面临中断](https://m.cnbeta.com.tw/view/1437530.htm)|
+||[华硕发布内置英特尔酷睿Ultra CPU的NUC 14 Pro+ 机身容量不到1升](https://m.cnbeta.com.tw/view/1437529.htm)|
+||[索尼将停止生产可记录蓝光介质 告别光盘刻录时代](https://m.cnbeta.com.tw/view/1437528.htm)|
+||[三星提前介绍即将推出的Galaxy Watch的健康传感器升级功能](https://m.cnbeta.com.tw/view/1437526.htm)|
+||[Wedbush预计即将推出的iPhone 16系列将迎来大规模升级周期](https://m.cnbeta.com.tw/view/1437525.htm)|
+||[英国监管机构称苹果公司不公平地解雇了偷拍同事照片的员工](https://m.cnbeta.com.tw/view/1437524.htm)|
+||[消息称苹果上调iPhone 16系列备货量至9000万部](https://m.cnbeta.com.tw/view/1437521.htm)|
+||[电吸门存隐患 一宝马车主被夹断手指 获赔近1400万元](https://m.cnbeta.com.tw/view/1437520.htm)|
+||[中国电信集采15.6万台服务器 国产占比首次过半飚至67.5%](https://m.cnbeta.com.tw/view/1437518.htm)|
+||[阿斯麦CEO：支持中国生产老一代芯片](https://m.cnbeta.com.tw/view/1437517.htm)|
+||[Java之父James Gosling宣布正式退休 创造无数人的饭碗](https://m.cnbeta.com.tw/view/1437516.htm)|
+||[日本拟要求自动档新车安装防误踩油门装置 踩错踏板也不会跑](https://m.cnbeta.com.tw/view/1437515.htm)|
+||[网约车挣钱难：日均出车12小时月入不到6000 有司机称不如进厂打工](https://m.cnbeta.com.tw/view/1437514.htm)|
+||[空客中国总装第700架A320系列飞机交付](https://m.cnbeta.com.tw/view/1437512.htm)|
+||[微信官方安利提醒功能：一键治好健忘 网友赞“比闹钟管用”](https://m.cnbeta.com.tw/view/1437511.htm)|
+||[女子面试瑞幸被打负面标签：无经验 胆小 软弱](https://m.cnbeta.com.tw/view/1437510.htm)|
+||[北京拟支持自动驾驶汽车跑网约车：事故责任由车辆方负责](https://m.cnbeta.com.tw/view/1437509.htm)|
+||[全新奔驰CLE敞篷版上市 售价51.98万起](https://m.cnbeta.com.tw/view/1437507.htm)|
+||[CMF Watch Pro 2 和 Buds Pro 2 发布](https://m.cnbeta.com.tw/view/1437505.htm)|
+||[Nothing CMF Phone 1首次亮相 用户可以轻松更换背面板配件](https://m.cnbeta.com.tw/view/1437504.htm)|
+||[ChatGPT无法取代人类程序员：IEEE35页论文测出困难编码正确率仅为0.66%](https://m.cnbeta.com.tw/view/1437502.htm)|
+||[台积电盘前涨超3%势创新高 总市值位列美股第八](https://m.cnbeta.com.tw/view/1437501.htm)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[今年可能只是 Apple Watch Series 10 的更新？！](https://applefans.today/2024-07-apple-watch-series-10-rumors/)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[独立开发周记 73：简单并且快乐的小确幸](https://w2solo.com/topics/4750)|
+||[AI 人性化：打造绕过 AI 检测的终极解决方案，让 AI 文本更加人性化](https://w2solo.com/topics/4749)|
+||[AI Undetect：精心打造的人工智能，编写出无限接近人类质量的文本](https://w2solo.com/topics/4748)|
+||[信息差周刊第 9 期：基于不同平台开发，算抄袭吗？](https://w2solo.com/topics/4747)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库](https://sspai.com/post/90068)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[一个信息查询小tip： 查一个地区的工资水平，不要看什么智联招聘的报告，直接查当地“社保基数”，这个数据就是上一年所有用人单位上报的员工平均月薪，是包括五...](https://m.okjike.com/originalPosts/668b591c19670c52222f5576)|
+||[快团团虽然是私域破价渠道，但并不是所有品都是全域最低价，有时候甚至不如公域的电商平台，比如这个日本咖喱🍛，名字很二，叫S&B，供应商发我的开团价是35一...](https://m.okjike.com/originalPosts/668b56e12fee3e715f50e82b)|
+|[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes Yahoo - 新聞來源列表](https://t.me/awesomeRSSHub/3094)|
+||[RSSHub has new routes 异次元软件世界 - 全部文章](https://t.me/awesomeRSSHub/3093)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[进入仅仅三年，资生堂集团旗下护肤品牌 BAUM 即将退出中国市场](http://www.toodaylab.com/82919)|
+|[少数派](http://sspai.me/feed)|[派评 近期值得关注的 App](https://sspai.com/post/90287)|
+||[放烟火的人生而平等：AI 应用从概念到落地需要克服哪些问题](https://sspai.com/post/90225)|
+||[花点心思，「平价」也能拥有皮实的隐形车衣](https://sspai.com/post/90265)|
+||[派早报：苹果批准 Epic 在欧盟区开设第三方应用商店](https://sspai.com/post/90275)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[诺奖得主门罗之女称曾遭继父性侵，指母亲置之不理](https://cn.nytimes.com/culture/20240708/alice-munro-daughter-abuse/dual)|
+||[日本东京都知事选举，一场民主“闹剧”？](https://cn.nytimes.com/asia-pacific/20240708/tokyo-governors-election/dual)|
+||[法国大选：左翼联盟崛起，联合阻击极右翼](https://cn.nytimes.com/world/20240708/france-election-results-left-surges/dual)|
+||[物价高企、债务失控：经济焦虑加剧全球政治动荡](https://cn.nytimes.com/world/20240708/global-economy-debt-inequality/dual)|
+|[老左笔记](https://www.laozuo.org/feed)|[OneTechCloud优惠码更新 可选美国和香港CN2优化线路 八折优惠](https://www.laozuo.org/26537.html)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Zortam Mp3 Media Studio Pro – 音乐文件管理软件 Windows $29.95→0 ](https://free.apprcn.com/zortam-mp3-media-studio-pro-28/)|
+||[Coolmuster PDF to JPG Converter - 将 PDF 文档转换为图片 Windows $15.95→0 ](https://free.apprcn.com/coolmuster-pdf-to-jpg-converter-2/)|
+||[免费获取游戏 Pine Creek Windows $1→0 ](https://free.apprcn.com/get-game-pine-creek-for-free/)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[360揭秘“伏特台风”行动炒作真相，以安全大模型赋能APT防治](https://www.4hou.com/posts/XPDA)|
+||[漫画版 DLP项目实施难如渡劫](https://www.4hou.com/posts/NGkp)|
+||[安全动态回顾 黑客攻击HFS服务器以投放恶意软件和Monero矿工 F1赛车管理机构被曝其电子邮件遭黑客泄露](https://www.4hou.com/posts/KGrY)|
+||[Snowblind 滥用 Android seccomp 沙盒绕过安全机制](https://www.4hou.com/posts/l0Qr)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[信长之野望系列中织田信长的画风是否越来越像西方人，为什么？](http://www.zhihu.com/question/30893253/answer/3260938008?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[舍不得删的经典！20款让你欲罢不能的Steam游戏](http://zhuanlan.zhihu.com/p/705941622?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[首页头条--人民网](https://plink.anyfeeder.com/people)|[法国总理阿塔尔向总统马克龙递交辞呈](http://world.people.com.cn/n1/2024/0708/c1002-40273727.html)|
 ||[深中通道开通后日均1万人乘坐深中公交跨越珠江](http://finance.people.com.cn/n1/2024/0708/c1004-40273725.html)|
 ||[外交部介绍有关安排](http://world.people.com.cn/n1/2024/0708/c1002-40273720.html)|
