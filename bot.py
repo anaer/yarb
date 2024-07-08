@@ -209,12 +209,15 @@ class telegramBot:
 
     def send(self, text: str):
         for id in self.chat_id:
-            try:
-                ids, text = self.parse_results([])
-                if len(ids) > 0:
-                    asyncio.run(self.sendMsg(id, text))
-                    Color.print_success(f'[+] telegramBot 发送成功 {id}')
-                    updateArticlesStatus(ids)
-            except Exception as e:
-                Color.print_failed(f'[-] telegramBot 发送失败 {id}')
-                print(e)
+            for i in range(10):
+                try:
+                    ids, text = self.parse_results([])
+                    if len(ids) > 0:
+                        asyncio.run(self.sendMsg(id, text))
+                        Color.print_success(f'[+] telegramBot 发送成功 {id}')
+                        updateArticlesStatus(ids)
+                    else:
+                        break;
+                except Exception as e:
+                    Color.print_failed(f'[-] telegramBot 发送失败 {id}')
+                    print(e)
