@@ -13,7 +13,7 @@ def getRss():
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 and sort >= -10 ORDER BY RANDOM() limit 300
+    SELECT title, xml_url FROM t_rss WHERE status = 1 and sort >= -10 ORDER BY RANDOM() limit 500
     '''
 
     cur.execute(query_sql)

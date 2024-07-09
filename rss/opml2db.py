@@ -11,12 +11,13 @@ import xml.dom.minidom
 def insert(cursor, category, title, type, xml_url, html_url, entry_content, scan_delay):
     try:
         cursor.execute('''
-        insert or ignore into t_rss(category, title, type, xml_url, html_url, entry_content, scan_delay, created_at)
-        values(?, ?, ?, ?, ?, ?, ?, ?)
+        insert or ignore into t_rss(category, title, type, status, xml_url, html_url, entry_content, scan_delay, created_at)
+        values(?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', [
             category,
             title,
             type,
+            1,
             xml_url,
             html_url,
             entry_content,
