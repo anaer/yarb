@@ -2,7 +2,90 @@
 
 |来源|标题|
 |---|---|
-|[动点科技](http://cn.technode.com/feed/)|[马斯克 Neuralink 计划在一周内对第二位人类患者进行植入手术](https://cn.technode.com/post/2024-07-11/musk-neuralink-second/)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[管理层新政半年，淘宝天猫变好还是变糟了？](https://www.leiphone.com/category/smartretailing/tkAvTxs6VIMVHEHh.html)|
+||[普华永道广州分所被曝关闭，所有人N+1七天内离职，官方回应；腾讯宣布全员调薪：年底13薪分摊到月薪；三星爆发大规模罢工丨雷峰早报](https://www.leiphone.com/category/zaobao/xZ5FDD8U0ECoja0f.html)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[萝卜快跑无人车，要抢走武汉司机饭碗了吗？](https://www.guokr.com/article/465694/)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 考考你，什么是前端，什么是后端？](https://www.v2ex.com/t/1056567#reply16)|
+||[ 程序员 借着首页在讨论跨域,一个运维朋友教我写的配置合适不?](https://www.v2ex.com/t/1056565#reply12)|
+||[ 问与答 现在买房这种方式可行？](https://www.v2ex.com/t/1056564#reply33)|
+||[ 程序员 到底是谁翻译的 “跨域” ？](https://www.v2ex.com/t/1056556#reply37)|
+||[ NAS NAS 打开了链路聚合为什么传输速度还是 100MB/s](https://www.v2ex.com/t/1056552#reply20)|
+||[ 职场话题 23 届职场新鸟的迷茫](https://www.v2ex.com/t/1056539#reply24)|
+|[拆盒](http://www.chaihezi.com/feed/)|[SQUARE ENIX PLAY ARTS改 最终幻想7 伊莉娜 12寸可动人偶](https://www.chaihezi.com/node/325080)|
+||[SQUARE ENIX 最终幻想7 PLAY ARTS改爱丽丝·盖恩斯巴勒 12寸可动人偶](https://www.chaihezi.com/node/325070)|
+|[Share erotic Asian...](https://hotgirl.asia/feed/)|[Yeonji 연지, Pocket Girls “Elastic Knit Rhythms” Set.01](https://hotgirl.asia/yeonji-%ec%97%b0%ec%a7%80-pocket-girls-elastic-knit-rhythms-set-01/)|
+||[Zia 지아, Bimilstory Vol.19 “See-through lingerie” Set.02](https://hotgirl.asia/zia-%ec%a7%80%ec%95%84-bimilstory-vol-19-see-through-lingerie-set-02/)|
+||[Yudi 유디, DJAWA “Pink Bunny & Black Cat” Set.03](https://hotgirl.asia/yudi-%ec%9c%a0%eb%94%94-djawa-pink-bunny-black-cat-set-03/)|
+||[ZIA.Kwon 권지아, LEEHEE EXPRESS LEHF-214B Set.02](https://hotgirl.asia/zia-kwon-%ea%b6%8c%ec%a7%80%ec%95%84-leehee-express-lehf-214b-set-02/)|
+||[Song Mina 송민아, ArtGravia Vol.336 Photobook Set.02](https://hotgirl.asia/song-mina-%ec%86%a1%eb%af%bc%ec%95%84-artgravia-vol-336-photobook-set-02/)|
+||[Booty Queen 엉덩퀸, DJAWA “Naughty Worker & Supervisor” Set.04](https://hotgirl.asia/booty-queen-%ec%97%89%eb%8d%a9%ed%80%b8-djawa-naughty-worker-supervisor-set-04/)|
+||[XiuRen秀人网 NO.7105 MengXinYue梦心玥](https://hotgirl.asia/xiuren%e7%a7%80%e4%ba%ba%e7%bd%91-no-7105-mengxinyue%e6%a2%a6%e5%bf%83%e7%8e%a5/)|
+||[XiuRen秀人网 NO.7107 柒喜小baby](https://hotgirl.asia/xiuren%e7%a7%80%e4%ba%ba%e7%bd%91-no-7107-%e6%9f%92%e5%96%9c%e5%b0%8fbaby/)|
+||[XiuRen秀人网 NO.7104 杏子Yada](https://hotgirl.asia/xiuren%e7%a7%80%e4%ba%ba%e7%bd%91-no-7104-%e6%9d%8f%e5%ad%90yada/)|
+||[Kazuna Shimada 島田和菜, フルヌード写真集 ミダラな異邦人 Set.04](https://hotgirl.asia/kazuna-shimada-%e5%b3%b6%e7%94%b0%e5%92%8c%e8%8f%9c-%e3%83%95%e3%83%ab%e3%83%8c%e3%83%bc%e3%83%89%e5%86%99%e7%9c%9f%e9%9b%86-%e3%83%9f%e3%83%80%e3%83%a9%e3%81%aa%e7%95%b0%e9%82%a6%e4%ba%ba-set-04/)|
+|[游戏葡萄](http://youxiputao.com/feed)|[《绝区零》口碑两极分化，米哈游到底有没有翻车？](https://youxiputao.com/article/26545)|
+||[腾讯薪酬结构调整：十三薪及住房补贴将并入月薪](https://youxiputao.com/article/26544)|
+||[6月发行商收入榜：DNF手游全球登顶；《鸣潮》成二游出海亚军](https://youxiputao.com/article/26543)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[中国警方向美国遣返1名美籍红通逃犯](https://www.infzm.com/contents/274983)|
+||[罗汉堂秘书长陈龙：“连接”比“智能”更重要](https://www.infzm.com/contents/274981)|
+||[《南海仲裁案裁决再批驳》报告发布：中国政府不会承认仲裁庭作出的非法裁决](https://www.infzm.com/contents/274976)|
+||[殡仪馆8个花篮收13800元？济南民政局通报](https://www.infzm.com/contents/274973)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[PCDN持续刷本站流量，分享下刷流量的IP段](https://www.cheshirex.com/8476.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[台灣 Back to school 2024 Apple BTS 開學季專案 正式開跑！](https://applefans.today/2024-07-taiwan-apple-back-to-school/)|
+||[6 個長輩用 iPhone 必開設定](https://applefans.today/2024-07-how-to-setup-for-oldman/)|
+|[SuiYan 碎言](https://suiyan.cc/rss.xml)|[每日原创壁纸:绿色护眼壁纸](https://suiyan.cc/2024/20240711075952.html)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[diy散热全包手机壳。过程。](https://www.coolapk.com/feed/57396232?shareKey=OTgwYjk0MGZiOGNhNjY4ZjQ2OGE~)|
+||[原神壁纸 重发 ](https://www.coolapk.com/feed/57398327?shareKey=M2QxODA2ODZkN2Q5NjY4ZjQ2OGE~)|
+||[无电脑解bl，获取root权限小白教程](https://www.coolapk.com/feed/57398014?shareKey=N2NjNzk5ZTVmZDEwNjY4ZjQ2OGE~)|
+||[无电脑解bl，获取root权限小白教程](https://www.coolapk.com/feed/57397935?shareKey=MDk5MzY4YTk2MjVmNjY4ZjQ2OGE~)|
+||[无电脑解bl，获取root权限小白教程](https://www.coolapk.com/feed/57397993?shareKey=NTI0Yzc5NWY5YjA4NjY4ZjQ2OGE~)|
+||[无电脑解bl，获取root权限小白教程](https://www.coolapk.com/feed/57397958?shareKey=NjgyODNkN2U3NjkxNjY4ZjQ2OGE~)|
+||[原神壁纸 重发 ](https://www.coolapk.com/feed/57398245?shareKey=NWRkNDA1ODI3MGUxNjY4ZjQ2OGE~)|
+||[有台闲置磨砂蛇2，700](https://www.coolapk.com/feed/57397913?shareKey=ODg0NGYzODlmNGQ5NjY4ZjQ2OGE~)|
+||[Galaxy S23 Ultra——将就用](https://www.coolapk.com/feed/57397689?shareKey=NTFiOWFhMjc0NmVmNjY4ZjQ2OGE~)|
+||[Switch把安卓刷进机身emmc来实现 飞一般的感觉](https://www.coolapk.com/feed/57397181?shareKey=MGUyMDNjYTRjZmZhNjY4ZjQ2OGE~)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[前海开源裕泽FOF今年以来累计收益为5.96%，近1年累计收益4.06%](https://www.36kr.com/newsflashes/2857530120047235)|
+||[A股三大指数集体收涨，锂矿概念爆发](https://www.36kr.com/newsflashes/2857522198121348)|
+||[淘天集团弱化绝对低价战略，不再强推“五星价格力”](https://www.36kr.com/newsflashes/2857511911754633)|
+||[Omdia：预计2028年推理存储年复合增长率达20%](https://www.36kr.com/newsflashes/2857492792871558)|
+||[PCB概念股持续活跃，生益电子大涨超18%](https://www.36kr.com/newsflashes/2857499707837060)|
+||[郭明錤：未来数年iPhone将持续采用玻璃棱镜，水晶光电有望受益](https://www.36kr.com/newsflashes/2857491283053184)|
+||[腾讯收购广州银之心信息科技公司](https://www.36kr.com/newsflashes/2857489093544584)|
+||[快手快聘：一年1000亿人次对求职内容有兴趣](https://www.36kr.com/newsflashes/2857486972799873)|
+||[上海迪士尼新景点总投资24.59亿元](https://www.36kr.com/newsflashes/2857481218116485)|
+||[国家电投清洁能源装机占比突破70%](https://www.36kr.com/newsflashes/2857473835518599)|
+||[小米申请科学仪器类橙米商标](https://www.36kr.com/newsflashes/2857470384458373)|
+||[有色金属概念股持续走强，北方铜业午后涨停](https://www.36kr.com/newsflashes/2857467197492105)|
+||[沪指涨逾1%，创业板指涨超2%](https://www.36kr.com/newsflashes/2857466074762116)|
+||[北方华创回应网上传言：是假消息，公司准备报警](https://www.36kr.com/newsflashes/2857463758949255)|
+||[首募告捷，首批沙特ETF下周将上市](https://www.36kr.com/newsflashes/2857454675577472)|
+||[美国一架波音飞机起飞时爆胎](https://www.36kr.com/newsflashes/2857446606899847)|
+||[“木头姐”再谈英伟达：短期内将面临挑战](https://www.36kr.com/newsflashes/2857442446019200)|
+||[旅游板块震荡走强，众信旅游午后冲击涨停](https://www.36kr.com/newsflashes/2857431739468678)|
+||[马斯克：未来机器人的数量将远远超过人类](https://www.36kr.com/newsflashes/2857428854966916)|
+||[盛新锂能成立金属锂业科技新公司](https://www.36kr.com/newsflashes/2857340094974599)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家都是草台班子😂，我干了这么多年开发，能把跨域问题说清楚的人也没几个😅](https://www.v2ex.com/t/1056504#reply161)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中国旅游最猛代言人：老外](https://www.huxiu.com/article/3233062.html?f=rss)|
+||[从荒芜到绚烂：西北大地的浪漫多巴胺](https://www.huxiu.com/article/3234318.html?f=rss)|
+||[与“毛朋友”共处的道德理想国](https://www.huxiu.com/article/3233082.html?f=rss)|
+||[大主播正在失去低价大砍刀](https://www.huxiu.com/article/3234011.html?f=rss)|
+||[咖啡果茶，究竟算咖啡还是茶？](https://www.huxiu.com/article/3233472.html?f=rss)|
+|[V2EX-最热主题](https://rsshub.rssforever.com/v2ex/topics/hot)|[决定跟我女朋友去淮安了，麻烦各位朋友给个建议](https://www.v2ex.com/t/1056527)|
+||[大家都是草台班子😂，我干了这么多年开发，能把跨域问题说清楚的人也没几个😅](https://www.v2ex.com/t/1056504)|
+||[北京的医院真操蛋](https://www.v2ex.com/t/1056474)|
+||[你们会在电子产品停产前屯几个为了自己未来替换吗？](https://www.v2ex.com/t/1056447)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[咳嗽不好是什么原因？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%92%B3%E5%97%BD%E4%B8%8D%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%EF%BC%9F)|
+||[他汀降脂，你要知道这 8 件事](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BB%96%E6%B1%80%E9%99%8D%E8%84%82%EF%BC%8C%E4%BD%A0%E8%A6%81%E7%9F%A5%E9%81%93%E8%BF%99%208%20%E4%BB%B6%E4%BA%8B)|
+||[真心建议：改掉「趁热吃」的饮食习惯](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%EF%BC%9A%E6%94%B9%E6%8E%89%E3%80%8C%E8%B6%81%E7%83%AD%E5%90%83%E3%80%8D%E7%9A%84%E9%A5%AE%E9%A3%9F%E4%B9%A0%E6%83%AF)|
+||[一种都是脂肪的零食，居然可以减肥！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E7%A7%8D%E9%83%BD%E6%98%AF%E8%84%82%E8%82%AA%E7%9A%84%E9%9B%B6%E9%A3%9F%EF%BC%8C%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E5%87%8F%E8%82%A5%EF%BC%81)|
+||[一口下去全是糖油盐！这种坚果快别再买了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E5%8F%A3%E4%B8%8B%E5%8E%BB%E5%85%A8%E6%98%AF%E7%B3%96%E6%B2%B9%E7%9B%90%EF%BC%81%E8%BF%99%E7%A7%8D%E5%9D%9A%E6%9E%9C%E5%BF%AB%E5%88%AB%E5%86%8D%E4%B9%B0%E4%BA%86)|
+|[小众软件](https://plink.anyfeeder.com/appinn)|[开源的网页版程序，为什么不能下载后直接打开？](https://www.appinn.com/how-to-open-web-pages-on-your-computer/)|
+|[happy xiao](https://happyxiao.com/feed)|[如何让人亲近你](https://happyxiao.com/lean/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[微软和苹果放弃 OpenAI 董事会观察员席位](https://www.oschina.net/news/301554/microsoft-apple-give-up-openais-board-observer-seats)|
+||[「RockYou2024」文件泄露：包含 100 亿条明文密码](https://www.oschina.net/news/301529/rockyou2024-10-billion-passwords-leaked)|
+|[动点科技](http://cn.technode.com/feed/)|[Suno iOS App 试用体验：AI 音乐创作利器？](https://cn.technode.com/post/2024-07-11/suno-ios-app-tested/)|
+||[Landing AI｜快手可灵 AI 引入短片生成功能，引爆中国短视频新潮流](https://cn.technode.com/post/2024-07-11/landing-ai-kuaishou-ai/)|
+||[马斯克 Neuralink 计划在一周内对第二位人类患者进行植入手术](https://cn.technode.com/post/2024-07-11/musk-neuralink-second/)|
 ||[小红书获主要外国风投公司支持，估值料达170亿美元](https://cn.technode.com/post/2024-07-11/lrb-17billion/)|
 ||[小鹏汽车新车型或命名P7+，采用视觉智驾方案](https://cn.technode.com/post/2024-07-11/xiaopeng-p7/)|
 ||[美国联邦贸易委员会已介入调查微软、OpenAI 投资关系](https://cn.technode.com/post/2024-07-11/ftc-microsoft-openai/)|
