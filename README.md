@@ -2,6 +2,167 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[中菲执法部门合作遣返3名绑架犯罪嫌疑人](https://www.infzm.com/contents/275140)|
+||[年内第三次，总理与企业家、专家座谈丨时政周报](https://www.infzm.com/contents/275118)|
+|[快乐星球 妹子图 收集器 - Tel...](https://rsshub.app/telegram/channel/botmzt)|[🖼 🎉Channel: @botmzt](https://t.me/botmzt/18279)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[英特尔Arrow Lak CPU架构将会是四层 包括连接P核与E核的相干结构](https://m.cnbeta.com.tw/view/1438151.htm)|
+||[Quantinuum研发的新型量子计算机将Google的最高纪录甩开100多倍](https://m.cnbeta.com.tw/view/1438150.htm)|
+||[Google Pixel 9系列和Pixel 9 Pro Fold的名称已确认](https://m.cnbeta.com.tw/view/1438148.htm)|
+||[英特尔Lunar Lake核显Xe2性能曝光：表现直逼GTX 1650](https://m.cnbeta.com.tw/view/1438146.htm)|
+||[伯恩斯坦：过于关注市场份额是误导 用户升级率才是关键 苹果这轮周期会很强](https://m.cnbeta.com.tw/view/1438145.htm)|
+||[Apple Watch在海洋中度过一年多后奇迹般地存活下来 还通过Find My被找回](https://m.cnbeta.com.tw/view/1438143.htm)|
+||[亚洲首富之子婚礼刷屏 耗资43.5亿元，每张请柬花费5万元](https://m.cnbeta.com.tw/view/1438141.htm)|
+||[OpenAI的神秘项目“草莓”，到底是什么？](https://m.cnbeta.com.tw/view/1438140.htm)|
+||[据传三星Exynos 2500将以更高的时钟速度运行 效率可媲美苹果A15](https://m.cnbeta.com.tw/view/1438139.htm)|
+||[最高限速25km/h 广州外卖骑手违法三次将停单 专家称应全国推广](https://m.cnbeta.com.tw/view/1438137.htm)|
+||[NVIDIA、SK hynix和台积电结成联盟 为下一代AI标准加速GPU和HBM4开发](https://m.cnbeta.com.tw/view/1438134.htm)|
+||[酝酿8年，马斯克Robotaxi“临门跳票” 美国自动驾驶商业化进程如何？](https://m.cnbeta.com.tw/view/1438132.htm)|
+||[smart设计语言加持 吉利全新轿车星愿申报](https://m.cnbeta.com.tw/view/1438131.htm)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[小红书AI助手 https://xhs-ai.pages.dev](https://m.okjike.com/originalPosts/669200c286c66ba541523d65)|
+||[字幕截图生成器 如题，生成虚假的电影字幕截图，内置赵四、刘能、鲁迅、罗永浩、马云、乔布斯、杨澜等人物，也可以自行上传图片，可输入任意台词和调整字体大小...](https://m.okjike.com/originalPosts/6691dab4de689efdba428c7a)|
+|[拆盒](http://www.chaihezi.com/feed/)|[万唐BANTANG 天子传奇汉武大帝刘彻宣室内务版 1/6可动人偶](https://www.chaihezi.com/node/325415)|
+||[杰刻动漫 动物帮帮农场系列 蒜鸟 肥啾鸟类可爱GK摆件](https://www.chaihezi.com/node/325395)|
+|[虎嗅](https://rss.huxiu.com/)|[当“被封印的人”走出医院](https://www.huxiu.com/article/3243076.html?f=rss)|
+||[别拿电子垃圾糊弄中国人](https://www.huxiu.com/article/3243270.html?f=rss)|
+|[Surmon.me](https://surmon.me/rss.xml)|[喝下去，然后闭嘴](https://surmon.me/article/271)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[在冰岛和挪威，我的食谱又双叒叕被刷新了！](https://www.guokr.com/article/465701/)|
+|[华尔街日报](https://plink.anyfeeder.com/wsj/cn)|[英伟达股票反弹，分析师预计还有30%上涨空间](https://cn.wsj.com/amp/articles/nvidia-sstock-bounces-back-and-could-rally-another-30-analyst-says-c0d6c2d5)|
+||[Meta将在大选前解除对特朗普账户的限制](https://cn.wsj.com/amp/articles/metato-lift-penalties-on-trump-s-accounts-ahead-of-election-2e3f1bd4)|
+||[SpaceX力争更多火箭发射，放眼火星](https://cn.wsj.com/amp/articles/spacexseeks-more-experimental-rocket-launches-aiming-for-mars-cd2c7a32)|
+||[马斯克的X被认定违反欧盟数字内容法](https://cn.wsj.com/amp/articles/elonmusks-x-hit-by-eu-charges-over-blue-checkmarks-dd55ee99)|
+||[日圆在可能的政府干预后再度回落](https://cn.wsj.com/amp/articles/japan-syen-hands-back-some-gains-after-likely-intervention-080f48dd)|
+||[道琼斯指数上涨，投资者料降息在望](https://cn.wsj.com/amp/articles/global-stocks-markets-dow-news-fb65bd90)|
+|[IT之家](https://www.ithome.com/feed/)|[奇瑞风云 T10 将于 7 月 25 日上市：1.5T 插混 SUV，5 座 / 6 座可选](https://www.ithome.com/0/781/641.htm)|
+||[微软 Xbox x BAPE 联名系列服饰上市：155 美元起，限量发售](https://www.ithome.com/0/781/635.htm)|
+||[庆祝韦布望远镜两周年，NASA 公布 Arp 142 星系“企鹅”与“蛋”新照片](https://www.ithome.com/0/781/634.htm)|
+||[OpenAI 翁荔提出大模型「外在幻觉」：万字 blog 详解抵抗办法、产幻原因和检测方式](https://www.ithome.com/0/781/633.htm)|
+||[蓝宝石发布《七日世界》定制版 RX 7800 XT 显卡：三风扇散热、后续量产上线](https://www.ithome.com/0/781/631.htm)|
+||[华硕推出 RTX 4060 DUAL V3 显卡：双槽双风扇散热、风扇尺寸减小](https://www.ithome.com/0/781/630.htm)|
+||[任天堂遭多名第三方翻译人员吐槽：无法在第一方作品中留下自己姓名](https://www.ithome.com/0/781/629.htm)|
+||[总投资约 15 亿元，我国规模最大天然铀产能项目“国铀一号”开工](https://www.ithome.com/0/781/628.htm)|
+||[快看：正在研发二次元垂类大模型，智能问答及 IP 角色互动应用已启动内测](https://www.ithome.com/0/781/627.htm)|
+||[育碧取消赛车游戏《狂飙》改编真人剧集，仍在计划该 IP 相关项目](https://www.ithome.com/0/781/625.htm)|
+||[长安马自达推出限时购车政策：CX-5 2.0L 舒适型 11.58 万元起，马自达 3 昂克赛拉 2.0L 自动挡 8.99 万元起](https://www.ithome.com/0/781/624.htm)|
+||[尼康又一款新机完成 SRRC 认证：代号 N2318，发布时间未知](https://www.ithome.com/0/781/623.htm)|
+||[华硕 ROG 雷神 3 代氮化镓电源国行发布：1000W / 1200W / 1600W 功率，2699 元起](https://www.ithome.com/0/781/622.htm)|
+||[多人游戏《恐鬼症》官宣 10 月登陆主机平台，价格上涨至 19.99 美元](https://www.ithome.com/0/781/621.htm)|
+||[三星在香港推出限量款哆啦 A 梦主题 Galaxy Z Flip6 手机，售 10698 港币 / 限量 800 套](https://www.ithome.com/0/781/620.htm)|
+||[AMD 锐龙 9 9900X 处理器 Geekbench 6 跑分刷新：多核 22026 分相比前代提升 23.4%](https://www.ithome.com/0/781/617.htm)|
+||[比亚迪在厄瓜多尔推出首款插混车型宋 PLUS DM-i，综合续航达 1105km](https://www.ithome.com/0/781/616.htm)|
+||[腾讯、中国盲文图书馆等共同制作《抓娃娃》无障碍版，视障人士可“看懂”电影](https://www.ithome.com/0/781/614.htm)|
+||[华硕 ROG 8 游戏手机《QQ 飞车手游》定制限量版发布：超竞化赛车车模、永久联赛 A 车，售价 4999 元](https://www.ithome.com/0/781/613.htm)|
+||[我国科学家发现寒武纪生命大爆发的关键因素](https://www.ithome.com/0/781/612.htm)|
+||[工信部罗道军：中国拥有最大新能源车产能，但芯片自给率不到 10%](https://www.ithome.com/0/781/611.htm)|
+||[华硕 ROG 龙鳞 ACE EXTREME 碳纤维鼠标、夜魔 EXTREME 机械键盘国行发布：售 1799 元 / 3599 元](https://www.ithome.com/0/781/610.htm)|
+||[三星 Exynos 2500 研发之路一波三折：最新 ES 芯片频率达 3.20GHz，效率超越苹果 A15](https://www.ithome.com/0/781/609.htm)|
+||[微软官方轻量级 Win11 验证 OS 系统悄然更新至 24H2 版本](https://www.ithome.com/0/781/608.htm)|
+||[408.2 米：纳木错国际大陆科学钻探计划刷新我国湖泊钻探新纪录](https://www.ithome.com/0/781/607.htm)|
+||[斯巴鲁新款 BRZ STI Sport 跑车上市：2.4L 水平对置发动机，29.98 万-30.98 万元](https://www.ithome.com/0/781/606.htm)|
+||[英特尔酷睿 Ultra 200K 系列桌面处理器被曝 QS 进程加速：仍计划 10 月下旬发售、并未延期](https://www.ithome.com/0/781/605.htm)|
+||[波音：已与美国 FAA 就 777-9 型飞机进行认证飞行测试](https://www.ithome.com/0/781/604.htm)|
+||[TANCHJIM 天使吉米预热浅野天琪限定版 MINO 无线耳机与 LUNA 解码耳放新品](https://www.ithome.com/0/781/600.htm)|
+||[欧盟将就中国电动汽车征收关税发起表决，消息称德国拟投弃权票](https://www.ithome.com/0/781/599.htm)|
+||[国家最高科学技术奖获得者、我国高能化学激光领域的奠基人和开拓者张存浩逝世，享年 96 岁](https://www.ithome.com/0/781/597.htm)|
+||[山灵 M3X 进阶版播放器发布：升级 4GB + 64GB 内存，首发价 1598 元](https://www.ithome.com/0/781/596.htm)|
+|[小众软件](http://feed.appinn.com/)|[Mini Metro Web – 创建《迷你地铁》游戏风格的地铁线路图](https://www.appinn.com/mini-metro-web/)|
+|[#创业邦周报# - 标签聚合 - 创...](https://rsshub.app/cyzone/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5)|[百望云港交所上市，最新市值达90.36亿港元；塑料焊接设备研发商凯尔博获数亿元Pre-IPO轮投资丨07.06-07.12](https://www.cyzone.cn/article/769272.html)|
+|[V2EX-最热主题](https://rsshub.rssforever.com/v2ex/topics/hot)|[基于安卓实现了在任何 IM 中使用端到端加密 无需手动复制粘贴 ](https://www.v2ex.com/t/1057036)|
+||[大家什么情况下用 Redux 呢](https://www.v2ex.com/t/1057001)|
+||[用了多年的搜狗和微软双拼，有没有必要换成小鹤双拼？](https://www.v2ex.com/t/1056997)|
+||[吐槽：上门服务评价变成强制了吗？](https://www.v2ex.com/t/1056992)|
+||[现在极其厌恶弱类型语言，弱类型就不适合中国的职场环境](https://www.v2ex.com/t/1056990)|
+||[怎么把服务器年包出去](https://www.v2ex.com/t/1056984)|
+||[电解质饮料真的有效吗？](https://www.v2ex.com/t/1056974)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[每周一书：原田治《发现可爱》](http://www.toodaylab.com/82922)|
+||[在爱马仕 2024 秋冬新品系列预览活动中，感受“源于福宝的爱马仕精神”](http://www.toodaylab.com/82930)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[种田能手: @无聊图](http://i.jandan.net/t/5716182)|
+||[梗图Pro: @无聊图](http://i.jandan.net/t/5716122)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5716100)|
+||[蒜泥白饭: @无聊图](http://i.jandan.net/t/5716087)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5716072)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5716070)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5716059)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5716058)|
+||[地震: @无聊图](http://i.jandan.net/t/5716057)|
+||[二队社员: @无聊图](http://i.jandan.net/t/5716042)|
+||[Mr_XieXie: @无聊图](http://i.jandan.net/t/5716013)|
+||[Mr_XieXie: @无聊图](http://i.jandan.net/t/5716012)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5715988)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5715979)|
+||[种田能手: @无聊图](http://i.jandan.net/t/5715976)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5715960)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5715947)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5715946)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5715943)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5715942)|
+|[61’s life](https://61.life/feed.xml)|[20240713](http://61.life/2024/0713)|
+|[Hypebeast](https://hypebeast.cn/feed)|[HBO 人气校园美剧《亢奋 Euphoria》第三季宣布将于明年开拍](https://hypebeast.cn/2024/7/hbo-euphoria-season-3-sets-production-start-date)|
+||[PLEASURES x《新世纪福音战士》联名系列登场](https://hypebeast.cn/2024/7/pleasures-evangelion-collaboration-release-info)|
+||[Lotus 全球唯一超跑 Evija X 于 Goodwood Festival of Speed 意外撞毁](https://hypebeast.cn/2024/7/lotus-evija-x-crashes-goodwood-festival-of-speed)|
+||[Air Jordan 4 最新配色「Wet Cement」发布](https://hypebeast.cn/2024/7/air-jordan-4-paris-olympics-fq7928-001-release-date-2)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[Outjerked](https://www.reddit.com/r/AnalogCommunity/comments/1e2931e/outjerked/)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取游戏 Mosaics Galore 2 Windows $4.99→0 ](https://free.apprcn.com/get-game-mosaics-galore-2-for-free/)|
+||[免费获取 Steam 游戏 SKIBIDI BACKROOMS Windows ](https://free.apprcn.com/get-steam-game-skibidi-backrooms-for-free/)|
+||[Wise Registry Cleaner Pro – 系统注册表清理工具 Windows $29.95→0 ](https://free.apprcn.com/wise-registry-cleaner-pro-20/)|
+|[经济日报](https://plink.anyfeeder.com/jingjiribao)|[01版要闻 - “一张清单”打开市场空间](http://paper.ce.cn/pc/content/202407/14/content_297651.html)|
+||[01版要闻 - 北京加快培育经济增长动能](http://paper.ce.cn/pc/content/202407/14/content_297652.html)|
+||[01版要闻 - 上海持续优化口岸营商环境](http://paper.ce.cn/pc/content/202407/14/content_297653.html)|
+||[01版要闻 - 全链条全领域提升科技创新能力](http://paper.ce.cn/pc/content/202407/14/content_297654.html)|
+||[01版要闻 - 图片新闻](http://paper.ce.cn/pc/content/202407/14/content_297655.html)|
+||[01版要闻 - 充分释放农机以旧换新潜力](http://paper.ce.cn/pc/content/202407/14/content_297656.html)|
+||[02版要闻 - 赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第九次会议](http://paper.ce.cn/pc/content/202407/14/content_297658.html)|
+||[02版要闻 - 扎实做好新时代党的民族宗教工作 推动铸牢中华民族共同体意识和我国宗教中国化工作走深走实](http://paper.ce.cn/pc/content/202407/14/content_297659.html)|
+||[03版综合 - 法治护航强村富民](http://paper.ce.cn/pc/content/202407/14/content_297661.html)|
+||[03版综合 - 培育壮大特色产业集群](http://paper.ce.cn/pc/content/202407/14/content_297662.html)|
+||[03版综合 - 西柳电商闯出新天地](http://paper.ce.cn/pc/content/202407/14/content_297663.html)|
+||[03版综合 - 图片新闻](http://paper.ce.cn/pc/content/202407/14/content_297664.html)|
+||[03版综合 - 充分释放农机以旧换新潜力](http://paper.ce.cn/pc/content/202407/14/content_297665.html)|
+||[03版综合 - “一张清单”打开市场空间](http://paper.ce.cn/pc/content/202407/14/content_297666.html)|
+||[05版关注 - 遵循客观规律精准施策](http://paper.ce.cn/pc/content/202407/14/content_297669.html)|
+||[05版关注 - “萝卜快跑”将跑出怎样的未来](http://paper.ce.cn/pc/content/202407/14/content_297670.html)|
+||[05版关注 - 核能供汽打开产业应用新场景](http://paper.ce.cn/pc/content/202407/14/content_297671.html)|
+||[05版关注 - 东北三省一区旅游业抱团发展](http://paper.ce.cn/pc/content/202407/14/content_297672.html)|
+||[06版地方 - 深圳龙岗低空经济加速起飞](http://paper.ce.cn/pc/content/202407/14/content_297674.html)|
+||[06版地方 - 科技为农“知天而作”](http://paper.ce.cn/pc/content/202407/14/content_297675.html)|
+||[06版地方 - 产业集聚当好“链长”](http://paper.ce.cn/pc/content/202407/14/content_297676.html)|
+||[07版消费 - 激发度假休闲旅游更大活力](http://paper.ce.cn/pc/content/202407/14/content_297678.html)|
+||[07版消费 - 清凉游受热捧](http://paper.ce.cn/pc/content/202407/14/content_297679.html)|
+||[08版视觉 - 萧山花边](http://paper.ce.cn/pc/content/202407/14/content_297695.html)|
+||[09版副刊 - 洛阳芳华](http://paper.ce.cn/pc/content/202407/14/content_297683.html)|
+||[09版副刊 - 你喜欢啥样的“平替”](http://paper.ce.cn/pc/content/202407/14/content_297684.html)|
+||[09版副刊 - 住在长城脚下](http://paper.ce.cn/pc/content/202407/14/content_297685.html)|
+||[10版人物 - “石头纸”上刻匠心](http://paper.ce.cn/pc/content/202407/14/content_297687.html)|
+||[10版人物 - 助力科普接地气有人气](http://paper.ce.cn/pc/content/202407/14/content_297688.html)|
+||[12版国际副刊 - 从“斯威夫特通胀”说开去](http://paper.ce.cn/pc/content/202407/14/content_297691.html)|
+||[12版国际副刊 - 农业大国叙利亚为何陷饥荒](http://paper.ce.cn/pc/content/202407/14/content_297692.html)|
+||[12版国际副刊 - 关乎生死的大饼](http://paper.ce.cn/pc/content/202407/14/content_297693.html)|
+|[福利吧](https://fuliba2023.net/feed)|[荷兰阿姆斯特丹红灯区评鉴指南](https://fuliba2023.net/helanhodengqu.html)|
+||[直播游戏创新，挖掘机挖主播](https://fuliba2023.net/wjj.html)|
+|[触乐](http://www.chuapp.com/feed)|[触乐本周行业大事：完美世界上半年由盈转亏，《尘白禁区》进入畅销榜前10](http://www.chuapp.com/article/290082.html)|
+|[异次元软件世界](http://feed.iplaysoft.com/)|[Sandboxie Plus 沙盒加强版 - 给系统“开挂”！应用多开 / 隔离病毒 / 安全运行流氓软件](https://www.iplaysoft.com/sandboxie-plus.html)|
+|[IT之家](https://www.ithome.com/rss/)|[消息称苹果 iPhone 16 系列手机备货量增至 9500 万部，供应链企业旺季效应可期](https://www.ithome.com/0/781/642.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 工资卡限额 500 元！不是我一个人，同一家银行的同事全部被限额了！相关话题已经微博热搜第一了，实在是太离谱了！](https://www.v2ex.com/t/1057127#reply23)|
+||[ 问与答 银行卡限额的逻辑是什么？](https://www.v2ex.com/t/1057101#reply29)|
+||[ 路由器 请教一个关于旁路由的奇怪问题！](https://www.v2ex.com/t/1057100#reply13)|
+||[ NAS 准备存储 10 年以上的 NAS 硬盘方案？](https://www.v2ex.com/t/1057086#reply12)|
+||[ 宽带症候群 电信公网动态公网 IPV4，在路由上配置动态 DDNS 过几天自己会断是什么原因](https://www.v2ex.com/t/1057080#reply13)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[下一个风口可能是美元贬值收益赛道](http://xueqiu.com/6451611049/297359222)|
+||[现存唯一还可以稳定的套利策略](http://xueqiu.com/9896517675/297394095)|
+||[这才是四大行股价又创历史新高的硬核逻辑！](http://xueqiu.com/1164483959/297388289)|
+||[跨越120年的深度研究！桥水：美股龙头是如何崛起和衰落的](http://xueqiu.com/1107854878/297385399)|
+||[年化15%为什么很难](http://xueqiu.com/1818877481/297362619)|
+||[对于“稳健增长”的警惕](http://xueqiu.com/2103206506/297382461)|
+||[有关煤炭需求与煤电](http://xueqiu.com/7103876041/297369344)|
+||[“基本盘”已现颓势，但苹果股价却屡创新高，这摆明了是在给巴菲特“送钱”。不出意外，Q2Q3仍将减持！](http://xueqiu.com/9363345092/297334466)|
+||[美元降息下的港股大牛市路径分析](http://xueqiu.com/7318086163/297345599)|
+|[iDaily · 每日环球视野](https://plink.anyfeeder.com/idaily/today)|[长蛇座交互作用星系 - July 13, 2024](https://m.idai.ly/se/1e5j88)|
+||[波音宇航员滞留1个月 - July 13, 2024](https://m.idai.ly/se/082mRn)|
+||[香港哆啦A梦主题展 - July 13, 2024](https://m.idai.ly/se/84eLCU)|
+||[俄乌冲突持续升级 - July 13, 2024](https://m.idai.ly/se/436tOG)|
+||[加沙地带38245人死亡 - July 13, 2024](https://m.idai.ly/se/16a91g)|
+||[第58届蒙特勒音乐节 - July 13, 2024](https://m.idai.ly/se/5b5Jb3)|
+||[印尼婆罗洲猩猩保护区 - July 13, 2024](https://m.idai.ly/se/bfacdv)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[德国海军寻求替换 8 英寸软盘](https://www.solidot.org/story?sid=78684)|
 |[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[比尔盖茨：我在AI教育最前沿的旅行](http://www.dapenti.com/blog/more.asp?name=xilei&id=179812)|
 ||[意想不到的AI转场](http://www.dapenti.com/blog/more.asp?name=xilei&id=179811)|
 ||[卜算子·我住长江头-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179810)|
