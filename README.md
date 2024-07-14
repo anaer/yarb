@@ -2,6 +2,88 @@
 
 |来源|标题|
 |---|---|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[epubjs如何定位到上次翻到的页面？](https://segmentfault.com/q/1010000045059954)|
+||[使用 Grafana+Prometheus 生态统计 django、flask、fastapi 的 rps等指标是如何实现的？](https://segmentfault.com/q/1010000045059827)|
+||[如何理解wgcloud的【停止计算资源】功能在主机管理中的应用？](https://segmentfault.com/q/1010000045059823)|
+||[如何二次封装antd modal并且通过方法调用？](https://segmentfault.com/q/1010000045059802)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[私家车当网约车发生事故保险公司拒赔 车主自负6.9万元车损](https://m.cnbeta.com.tw/view/1438186.htm)|
+||[2024年上半年车企销量榜 国产车全面碾压合资车](https://m.cnbeta.com.tw/view/1438185.htm)|
+||[比亚迪李云飞谈互踩：单个车企出事 影响所有中国品牌](https://m.cnbeta.com.tw/view/1438184.htm)|
+||[迪士尼遭黑客攻击 超1.1TB数据外泄](https://m.cnbeta.com.tw/view/1438182.htm)|
+||[特朗普遭枪击 特斯拉、苹果、谷歌等科技公司CEO回应](https://m.cnbeta.com.tw/view/1438180.htm)|
+||[特朗普遇刺 马斯克连发多贴称其堪比罗斯福](https://m.cnbeta.com.tw/view/1438179.htm)|
+||[网约车市场，依然人来人往](https://m.cnbeta.com.tw/view/1438178.htm)|
+||[孙宇晨碰瓷马斯克收购X：收购微博怎么样？](https://m.cnbeta.com.tw/view/1438177.htm)|
+||[苹果改变想法 批准了首个iOS PC模拟器UTM SE](https://m.cnbeta.com.tw/view/1438176.htm)|
+||[苹果CEO库克回应特朗普遭枪击：强烈谴责暴力行为](https://m.cnbeta.com.tw/view/1438174.htm)|
+||[OpenAI遭举报人告发：非法阻止员工披露AI安全风险](https://m.cnbeta.com.tw/view/1438173.htm)|
+||[张朝阳建议多去自然少玩手机：长期被动刷手机人就废了](https://m.cnbeta.com.tw/view/1438172.htm)|
+||[推加速，拉制动，无需踏板 Stellantis专利显示其正研发新型转向轭系统](https://m.cnbeta.com.tw/view/1438171.htm)|
+||[华为麒麟芯片话术线下解禁 博主亲测：确实如此](https://m.cnbeta.com.tw/view/1438167.htm)|
+||[具有可怕副作用的强效兽药已渗入英国非法市场](https://m.cnbeta.com.tw/view/1438163.htm)|
+||[GE Aerospace展示突破性的高超音速双模式冲压喷气发动机](https://m.cnbeta.com.tw/view/1438161.htm)|
+||[微软重新设计Windows 11开始菜单 加入新的分类方法和网格布局](https://m.cnbeta.com.tw/view/1438160.htm)|
+||[Wear OS 5暗示Pixel Watch 3将支持UWB和蓝牙LE音频](https://m.cnbeta.com.tw/view/1438159.htm)|
+||[三星Galaxy S25 Ultra将采用不对称的边框设计 更符合人体工程学原理](https://m.cnbeta.com.tw/view/1438158.htm)|
+||[萝卜快跑回应一家4口乘车提示超载：暂不符合目前行驶需求](https://m.cnbeta.com.tw/view/1438156.htm)|
+||[国产载人飞碟eVTOL盐田首飞 六轴十二桨 飞行高度约30米](https://m.cnbeta.com.tw/view/1438155.htm)|
+||[特朗普竞选集会现场疑似遭遇枪击 撤离时耳朵有血迹](https://m.cnbeta.com.tw/view/1438154.htm)|
+||[开完特斯拉Cybertruck 我真希望大伙儿都能试到](https://m.cnbeta.com.tw/view/1438153.htm)|
+|[余晟以为](https://feedpress.me/wx-yurii-says)|[无人出租车，是技术进步的一粒灰，还是普通人头上的一座山？](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650009973&idx=1&sn=39f009f190c798341fe0a452807e37c1)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[特朗普遇刺后目前“安全”，枪手嫌疑人被击毙](https://cn.nytimes.com/usa/20240714/trump-election-trump-rally-pennsylvania/?utm_source=RSS)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[新人报道](https://w2solo.com/topics/4765)|
+|[虎嗅](https://rss.huxiu.com/)|[瑞幸布阵东南亚](https://www.huxiu.com/article/3242699.html?f=rss)|
+||[“征信乌龙”引发蝴蝶效应，广发银行重庆分行、重庆皇石因12亿元贷款纠纷“对薄公堂”](https://www.huxiu.com/article/3245134.html?f=rss)|
+||[特朗普被拍到“人生照片”](https://www.huxiu.com/article/3245128.html?f=rss)|
+||[第二批消费公募REITs上市在即](https://www.huxiu.com/article/3245129.html?f=rss)|
+||[被毁约教训的应届生：吃一堑长一智](https://www.huxiu.com/article/3245113.html?f=rss)|
+||[一天要看300多次手机？](https://www.huxiu.com/article/3244816.html?f=rss)|
+||[萝卜快跑们，还端不了司机的饭碗](https://www.huxiu.com/article/3244008.html?f=rss)|
+||[胖东来是零售业的白衣骑士么](https://www.huxiu.com/article/3245127.html?f=rss)|
+||[这些最懂电信诈骗的人，正在用AI 反诈骗](https://www.huxiu.com/article/3245125.html?f=rss)|
+||[消费企业搭建红筹架构背后](https://www.huxiu.com/article/3245123.html?f=rss)|
+||[新疆怎么到处都在跳舞？](https://www.huxiu.com/article/3238256.html?f=rss)|
+||[大股东拟出清式转让股权，北京人寿盈利仍承压](https://www.huxiu.com/article/3245120.html?f=rss)|
+||[送你一颗打偏的子弹](https://www.huxiu.com/article/3244800.html?f=rss)|
+||[中国汽车闯泰国](https://www.huxiu.com/article/3245112.html?f=rss)|
+||[零食界“拼多多”年入200亿？它如何靠低价成为行业鲶鱼？](https://www.huxiu.com/article/3237911.html?f=rss)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[特朗普遇刺后目前“安全”，枪手嫌疑人被击毙](https://cn.nytimes.com/usa/20240714/trump-election-trump-rally-pennsylvania/dual)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[特朗普枪击案嫌疑人被击毙 集会现场有参与者中枪身亡](https://www.infzm.com/contents/275150)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[失而复得的狂喜丨云间夜话](https://www.infzm.com/contents/275154)|
+||[年轻人的恋综旅行，正成为走红的脱单神器？](https://www.infzm.com/contents/273994)|
+||[明朝万历援朝战争过程诡异：显示东亚宗藩体系已不合时宜](https://www.infzm.com/contents/275124)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[美国大选：袭击者在集会上开枪 特朗普称他感觉子弹穿过了耳朵](https://www.bbc.com/zhongwen/simp/world-69191639)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Coolmuster PDF Creator Pro – PDF 文档创建工具 Windows $39.95→0 ](https://free.apprcn.com/coolmuster-pdf-creator-pro-7/)|
+||[Ashampoo Photo Organizer - 照片管理工具 Windows ](https://free.apprcn.com/ashampoo-photo-organizer/)|
+||[WonderFox DVD Ripper Pro – DVD 烧录软件 Windows $39.95→0 ](https://free.apprcn.com/wonderfox-dvd-ripper-pro-38/)|
+|[IT之家](http://www.ithome.com/rss/)|[消息称宝能集团已参与众泰汽车运营，多位高管已入职](https://www.ithome.com/0/781/686.htm)|
+||[锁定巴黎奥运“分一杯羹”，安全公司警告有黑客大量设置钓鱼票务网站进行诈骗](https://www.ithome.com/0/781/685.htm)|
+||[奇瑞新车捷途山海 L7 完成申报：1.5T 插混动力，封闭式前格栅 + 贯穿灯带](https://www.ithome.com/0/781/684.htm)|
+||[就在下周？小米 MIX Fold 4 / MIX Flip / K70 至尊版被曝 19 日发布](https://www.ithome.com/0/781/682.htm)|
+||[除地球外，太阳系惊现多片液态海洋](https://www.ithome.com/0/781/681.htm)|
+||[颜值性能两手抓，BW 2024 七彩虹 AI 星球探馆](https://www.ithome.com/0/781/680.htm)|
+||[Excel 高效小技巧：标注关键字、核对两表数据、行列转换](https://www.ithome.com/0/781/679.htm)|
+||[中国汽车在俄罗斯占据超六成的市场](https://www.ithome.com/0/781/677.htm)|
+||[努比亚 Z60 Ultra 领先版手机官宣支持 IP68 等级防水防尘，7 月 23 日发布](https://www.ithome.com/0/781/676.htm)|
+||[《我的三体：第四季》动画今日开播，程心、云天明亮相](https://www.ithome.com/0/781/675.htm)|
+||[冻结所有高管年薪，韩国电池制造商 SK On 陷入绝境](https://www.ithome.com/0/781/674.htm)|
+||[小马智行“答网友问”：已“持证上岗”，暂不支持无人车替购买用户“打工”](https://www.ithome.com/0/781/673.htm)|
+||[瓦尔基里 AL125 风冷散热器开启预售：1.54 英寸屏、4 根 6mm 热管，139 元起](https://www.ithome.com/0/781/672.htm)|
+||[“仅退款”模式引热议，江苏消保委建议建立商家申诉处理机制](https://www.ithome.com/0/781/671.htm)|
+||[涉及手机号 / 电邮 / 职称，黑客暗网披露 9305 名诺基亚及微软员工个人隐私信息](https://www.ithome.com/0/781/670.htm)|
+|[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[敕勒歌-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179819)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[入党志愿书 范本14](https://www.jianshu.com/p/b119d8420be9)|
+||[唐小茴の日常（490）](https://www.jianshu.com/p/24ae65c3ee74)|
+||[来点陈皮水](https://www.jianshu.com/p/27ac2f31b47c)|
+||[2024.7.12](https://www.jianshu.com/p/79a8fbb1045e)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[陈水扁将特朗普集会枪击案与319做比较：有很多巧合](https://www.zaobao.com/realtime/china/story20240714-4256270)|
+||[胡锡进：这一枪让特朗普赢得同情分 离重回白宫又近一步](https://www.zaobao.com/realtime/china/story20240714-4256152)|
+||[北约秘书长：北约宣言向中国发出强有力讯息](https://www.zaobao.com/realtime/china/story20240714-4255969)|
+||[加财长暗示对华贸易举措或不限于汽车](https://www.zaobao.com/realtime/china/story20240714-4256036)|
+||[男子报警被反怼 大连公安：两名警员言语不规范被停职](https://www.zaobao.com/realtime/china/story20240714-4255946)|
+||[港大据报承认奖学金名单失实向捐款方道歉](https://www.zaobao.com/realtime/china/story20240714-4255853)|
+||[中国驻日使馆：日本为菲律宾站台只会搬石砸脚](https://www.zaobao.com/realtime/china/story20240714-4255882)|
+||[泰警方找到遗体疑为失踪中国女子](https://www.zaobao.com/realtime/china/story20240714-4255713)|
 |[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[微众银行杨强：大模型的数据之困，可通过联邦学习解决｜钛媒体金融](https://www.tmtpost.com/7166977.html)|
 ||[《传说》“提档即扑街”，博纳2024年雪上加霜？](https://www.tmtpost.com/7167048.html)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 35+前端码农的未来在哪?](https://www.v2ex.com/t/1057144#reply14)|
