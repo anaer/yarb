@@ -2,6 +2,33 @@
 
 |来源|标题|
 |---|---|
+|[苹果fans博客](http://www.mac52ipod.cn/feed.php)|[Apple新闻之苹果 HomePod mini 用午夜色代替了深空灰色](http://www.mac52ipod.cn/post/apple-homepod-mini-midnight-color.php)|
+|[36氪](http://36kr.com/feed)|[年出货1000万台USB小风扇，「几素JISULIFE」靠高端路线卖到了全球丨早期项目](https://36kr.com/p/2846199699278723?f=rss)|
+||[2024年秋季「焦点」产品计划招募开始啦](https://36kr.com/p/2864342033615492?f=rss)|
+|[TecHug](http://www.techug.com/feed)|[【外评】为什么 Facebook 不使用 Git](https://www.techug.com/post/why-facebook-doesnt-use-git/)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[因美国商务部禁令，卡巴斯基将退出美国市场](https://www.freebuf.com/news/406067.html)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[新规频发，管理收紧，电动自行车700亿市场或迎来重大调整](https://www.tmtpost.com/7165715.html)|
+||[37岁靓仔开“贵妇月子中心”，最贵超百万，三年却亏掉近8亿](https://www.tmtpost.com/7168887.html)|
+||[效率提升四倍，年省3000万，智能立体仓库降本又增效丨创新场景](https://www.tmtpost.com/7168521.html)|
+||[杰华特：15个月亏7.4亿，逆势“抢人”，豪赌芯片国产化](https://www.tmtpost.com/7168954.html)|
+||[一月两次换帅，淘宝直播有点着急](https://www.tmtpost.com/7168909.html)|
+||[激战南京，两家外资超市的野心与焦虑](https://www.tmtpost.com/7168863.html)|
+||[钛媒体科股早知道：弥补CoWoS先进封装产能不足的问题，台积电成立团队加码该技术](https://www.tmtpost.com/7169104.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[小米坚持造车，苹果放弃造车：背后的逻辑是什么？](https://www.huxiu.com/article/3251451.html?f=rss)|
+||[降价也带不动销量，宝马退出车圈价格战](https://www.huxiu.com/article/3249400.html?f=rss)|
+||[扎克伯格背刺马斯克一年后](https://www.huxiu.com/article/3251444.html?f=rss)|
+||[跟京东开战？读书人拼了](https://www.huxiu.com/article/3249624.html?f=rss)|
+|[云无心天天向上](https://yangk.net/blog/rss.xml)|[长安的荔枝-马伯庸](https://yangk.net/blog/he-ji/ma-bo-yong/%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D-%E9%A9%AC%E4%BC%AF%E5%BA%B8.html)|
+|[钛媒体：引领未来商业与生活新知](http://www.tmtpost.com/feed)|[最近“轰炸”美国榜单的腾讯，海外发行快成了？](https://www.tmtpost.com/7168797.html)|
+||[《抓娃娃》，抓住了暑期档票房的命门](https://www.tmtpost.com/7168927.html)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[Angular 18 引入了 Zoneless 变更检测](https://www.infoq.cn/article/cSiTICNXcNJveDEvKdA6)|
+|[极客公园](http://feeds.geekpark.net/)|[成立 1 年估值超 100 亿、红杉软银争投，这家人形机器人公司做对了什么？](http://www.geekpark.net/news/337977)|
+||[马斯克曝料：过去 8 个月遭两次暗杀；理想 M 系纯电 SUV 再曝光；余承东：问界低价给赛力斯是遵守法规； 极客早知道](http://www.geekpark.net/news/337971)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[HomePod mini 推出的「午夜色」，取代原本的「太空灰」](https://applefans.today/2024-07-homepod-mini-in-midnight/)|
+||[iOS 18 & iPadOS 18 Public beta 公測版下載及升級教學](https://applefans.today/2024-ios-18-public-beta/)|
+|[obaby@mars](https://h4ck.org.cn/feed/)|[死鸭子事件簿之二](https://h4ck.org.cn/2024/07/17568)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[特朗普大选搭档因支持开源 AI 的言论而受到称赞](https://www.oschina.net/news/302298)|
+||[Linux Kernel 6.10](https://www.oschina.net/news/302286/linux-kernel-6-10-released)|
 |[维基萌](https://www.wikimoe.com/rss.php)|[左侧是爆莉萌天使变身前，右侧是爆莉萌天使变身后。👏](https://www.wikimoe.com/post/70uwlvvp)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9773857)|
 ||[汉语和英语中对应的颜色名称，在光谱中的位置是相同的吗？](https://daily.zhihu.com/story/9773836)|
