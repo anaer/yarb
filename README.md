@@ -2,6 +2,74 @@
 
 |来源|标题|
 |---|---|
+|[Hypebeast](https://hypebeast.cn/feed)|[Kevin Durant 演绎 Kith for USA Basketball 全新系列](https://hypebeast.cn/2024/7/kevin-durant-kith-for-team-usa-basketball-collection)|
+||[G-SHOCK 携手 NASA 推出全新联名表款](https://hypebeast.cn/2024/7/g-shock-nasa-gw9600nasa241-release-info)|
+||[Le Chocolat Maxime Frédéric at Louis Vuitton 巧克力专卖店登陆上海](https://hypebeast.cn/2024/7/le-chocolat-maxime-frederic-louis-vuitton-opening-shanghai)|
+||[Aimé Leon Dore x New Balance 860v2s 全新联名鞋款率先亮相](https://hypebeast.cn/2024/7/aime-leon-dore-new-balance-860v2-ss25-release-info)|
+||[Lionel Messi 仅排第三，ESPN 公布 21 世纪百大职业运动员名单](https://hypebeast.cn/2024/7/espn-21st-century-greatest-athlete-info)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[越共总书记阮富仲去世 中国悼念“亲密同志和真诚朋友”](https://www.bbc.com/zhongwen/simp/world-69206395)|
+|[钛媒体：引领未来商业与生活新知](http://www.tmtpost.com/feed)|[《落凡尘》：佳作难爆，时也运也](https://www.tmtpost.com/7175595.html)|
+||[Exa，想给AI搜索醒醒脑](https://www.tmtpost.com/7175636.html)|
+||[利润暴涨背后，长城汽车还要再“闯关”](https://www.tmtpost.com/7175307.html)|
+||[废钢定级再利用，AI定级准确率可达95% 创新场景](https://www.tmtpost.com/7175677.html)|
+||[综合能源数字化管理系统，让管理效能提升30%丨创新场景](https://www.tmtpost.com/7175685.html)|
+||[雷军讲故事，车圈学不会](https://www.tmtpost.com/7175489.html)|
+||[抢占东南亚市场，广汽埃安泰国工厂正式竣工投产｜钛度车库](https://www.tmtpost.com/7175032.html)|
+||[农夫山泉总招黑？钟睒睒专业“硬刚”二十载](https://www.tmtpost.com/7175469.html)|
+||[雷军：小米造车起源于“美国制裁”，曾拒绝百亿估值选择自担风险](https://www.tmtpost.com/7175610.html)|
+|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[我是如何用Obsidian进行创作管理的](https://www.edony.ink/how-creating-content-with-the-help-of-obsidian/)|
+|[IT之家](http://www.ithome.com/rss/)|[为什么学摄影一定要会看直方图？](https://www.ithome.com/0/783/170.htm)|
+||[联发科天玑 8400 首曝：样片跑分远超高通骁龙 8s Gen3](https://www.ithome.com/0/783/168.htm)|
+||[小鹏汽车香港首家旗舰店开业，首批 G6 车型本季度交付](https://www.ithome.com/0/783/167.htm)|
+||[英伟达 Mistral AI 联袂出击！120 亿小模型王者强势登场，碾压 Llama 3 单张 4090 可跑](https://www.ithome.com/0/783/166.htm)|
+||[我国科学家历时 5 年研制出低成本、对环境友好的新型丙烯催化剂，成果登《科学》封面](https://www.ithome.com/0/783/165.htm)|
+||[网站、代码可修复微软 Windows 蓝屏？澳洲网络部门提醒民众警惕诈骗行为](https://www.ithome.com/0/783/164.htm)|
+||[华为重回世界物联网 500 强榜首之位，150 多家中国企业榜上有名](https://www.ithome.com/0/783/163.htm)|
+||[从叱咤风云市场到“最后一家实体店关门”：HTC 手机的昨日与今时](https://www.ithome.com/0/783/162.htm)|
+||[现实版瓦力，迪士尼演示全新双足机器人：可驾驭斜坡 / 台阶等复杂地形](https://www.ithome.com/0/783/161.htm)|
+||[我国海上首个热采油田首批过热蒸汽吞吐调整井全面投产](https://www.ithome.com/0/783/159.htm)|
+||[微软 Windows“蓝屏”导致巴黎奥组委暂停奥运证件激活服务](https://www.ithome.com/0/783/158.htm)|
+||[几度沉浮的北京游戏行业，陷入死循环了吗？（上）](https://www.ithome.com/0/783/157.htm)|
+||[谷歌测试 Chrome 浏览器新特性：大红背景全屏提醒用户“危险下载”](https://www.ithome.com/0/783/155.htm)|
+||[本源量子计算产业联盟再扩容，中国联通、湖北大学等签约加盟](https://www.ithome.com/0/783/154.htm)|
+||[《中国式网游》Steam 首周优惠价 28.8 元，缝合免费网游中所有的氪金玩法](https://www.ithome.com/0/783/153.htm)|
+||[又一中质量黑洞被证明发现，距离银河系中心超大质量黑洞 SgrA* 仅 0.1 光年](https://www.ithome.com/0/783/152.htm)|
+||[国家能源局：全国累计发电装机容量约 30.7 亿千瓦同比增长 14.1%，太阳能暴涨 51.6%](https://www.ithome.com/0/783/150.htm)|
+||[6GB RAM iPhone 15 也可运行，Hugging Face 推出“SmolLM”小语言 Python 编程模型](https://www.ithome.com/0/783/149.htm)|
+||[【IT之家评测室】米系首款小折叠手机，小米 MIX Flip 评测](https://www.ithome.com/0/783/148.htm)|
+||[AMD 更新 LLVM 编译器，放弃支持 3DNow! 指令集](https://www.ithome.com/0/783/147.htm)|
+||[腾讯 QQ 持续打击网络水军，上半年封禁各类违规群组 8.4 万余个](https://www.ithome.com/0/783/146.htm)|
+||[MO-RA IV 系列散热器发布：最多装 9 个 200mm 风扇、重 15.9 千克、厚 75 毫米，起价 250 美元](https://www.ithome.com/0/783/145.htm)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[行人、司机和“萝卜”的城市路权争夺战，谁能赢？](https://www.huxiu.com/article/3266099.html?f=rss)|
+||[陕西如何切入低空经济？](https://www.huxiu.com/article/3266096.html?f=rss)|
+||[抛弃初心的lululemon，会被所有人抛弃吗？](https://www.huxiu.com/article/3263529.html?f=rss)|
+||[悼念李晟医生：他脾气很好、有耐心，经常加号到很晚](https://www.huxiu.com/article/3266095.html?f=rss)|
+||[为什么“压缩即智能”？算法信息论与大模型、生命、智能的联系](https://www.huxiu.com/article/3265639.html?f=rss)|
+||[蛋糕缩水30%，宴席“血拼”开瓶](https://www.huxiu.com/article/3262918.html?f=rss)|
+|[喷嚏网----阅读、发现和分享：8小...](http://www.dapenti.com/blog/rss2.asp)|[洋抖上的人们，是怎么学中文的骂人的](http://www.dapenti.com/blog/more.asp?name=xilei&id=179946)|
+||[万斯说，英国可能会是第一个拥有核武器的伊斯兰国家](http://www.dapenti.com/blog/more.asp?name=xilei&id=179945)|
+||[世界是场巨大的舞台剧-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179944)|
+||[流行乐最传奇一夜-suno](http://www.dapenti.com/blog/more.asp?name=xilei&id=179943)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[引育数商企业300家以上，济南市将打造数据要素枢纽型城市](https://www.36kr.com/newsflashes/2870227277090946)|
+||[国风投（无锡）生物科技基金启动进入投资阶段](https://www.36kr.com/newsflashes/2870202810568840)|
+||[耐克推出全新品牌企划“胜者不是谁都能当”](https://www.36kr.com/newsflashes/2870172026704261)|
+||[章源钨业下调7月下半月长单采购报价](https://www.36kr.com/newsflashes/2870153892434311)|
+||[2024中国国际金融展开幕，OceanBase入选年度“金融科技创新成果”](https://www.36kr.com/newsflashes/2870129241756039)|
+||[创下历史高位后，黄金自六月中旬以来首次出现周度下跌](https://www.36kr.com/newsflashes/2870113680052357)|
+||[越南政府研究建立石油交易所以稳定市场](https://www.36kr.com/newsflashes/2870111119872129)|
+||[马来西亚7月1-20日棕榈油出口增长39.2%](https://www.36kr.com/newsflashes/2870109946810499)|
+||[二季度公募基金整体盈利244亿元](https://www.36kr.com/newsflashes/2870108624441477)|
+||[暑运以来全国水上发送旅客超1500万人次](https://www.36kr.com/newsflashes/2870106567086210)|
+||[中百仓储首家调改店正式恢复营业](https://www.36kr.com/newsflashes/2870088028082310)|
+||[维权投资者Elliott据悉持有大量星巴克股份](https://www.36kr.com/newsflashes/2870084461138306)|
+||[航空公司开始复飞，此前技术故障导致全球航空出行陷入混乱](https://www.36kr.com/newsflashes/2870083379073156)|
+||[香港上半年新成立公司数字创历史新高](https://www.36kr.com/newsflashes/2870081327108227)|
+|[苹果fans博客](http://www.mac52ipod.cn/feed.php)|[Mac技巧之体验更好的苹果电脑录屏软件：Screen Recorder by Omi](http://www.mac52ipod.cn/post/apple-mac-macos-app-screen-recorder-by-omi.php)|
+|[虎嗅](https://rss.huxiu.com/)|[亚泰集团今年股价2次低于1元：3年亏损超80亿，公司抛回购计划](https://www.huxiu.com/article/3266317.html?f=rss)|
+||[信托公司“期中考”成绩单：逾六成净利润下滑](https://www.huxiu.com/article/3266315.html?f=rss)|
+||[卷文旅的终极境界是提供情绪价值](https://www.huxiu.com/article/3266304.html?f=rss)|
+||[华润置地深圳明星旧改遇插曲：合作方爆发财务危机，股权被拍卖引万人围观](https://www.huxiu.com/article/3266310.html?f=rss)|
+||[李飞飞带队，估值70亿](https://www.huxiu.com/article/3266300.html?f=rss)|
 |[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[海油回购的根本原因-机构给的估值太低](http://xueqiu.com/8893943149/298186809)|
 ||[中海油为什么现在回购股票](http://xueqiu.com/6308001210/298180259)|
 |[IT之家](http://www.ithome.com/rss/)|[【IT之家评测室】小米 MIX Fold 4 上手体验：我轻了，我薄了，我更强了](https://www.ithome.com/0/783/144.htm)|
