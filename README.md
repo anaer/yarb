@@ -2,6 +2,104 @@
 
 |来源|标题|
 |---|---|
+|[首页头条--人民网](https://plink.anyfeeder.com/people)|[文化中国行 政策红利叠加服务升级 中国入境游活力十足](http://ent.people.com.cn/n1/2024/0721/c1012-40281912.html)|
+||[国际法院认定以色列非法占领巴领土欧盟表示支持](http://world.people.com.cn/n1/2024/0721/c1002-40281897.html)|
+||[我国首个量子计算产业联盟成员总数突破100家](http://finance.people.com.cn/n1/2024/0721/c1004-40281885.html)|
+||[上半年我国太阳能发电装机容量同比增51.6%](http://finance.people.com.cn/n1/2024/0721/c1004-40281884.html)|
+||[国家卫健委:严厉打击涉医违法犯罪 保护医务人员安全](http://health.people.com.cn/n1/2024/0721/c14739-40281883.html)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[听说很多网游工作室居然开到孟加拉了？](https://www.v2ex.com/t/1058876#reply16)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[郑永年：“三中全会解决的是新质生产力的土壤问题”](https://www.infzm.com/contents/275582)|
+||[对伤医事件零容忍，国家卫生健康委就李晟医生去世发文](https://www.infzm.com/contents/275625)|
+|[IT之家](https://www.ithome.com/feed/)|[WPS：不存在文档被用作 AI 训练的情况，与抖音豆包在 AI 层面未开展任何形式合作](https://www.ithome.com/0/783/251.htm)|
+||[千亿巨头没熬过价格战 —— 广汇汽车](https://www.ithome.com/0/783/250.htm)|
+||[469 元，盖世小鸡 X3 Pro 北极光拉伸手柄 8 月 19 日首销：微动按键 + 精英配件 + 霍尔摇杆](https://www.ithome.com/0/783/249.htm)|
+||[出租司机先别慌，智驾行业的程序员们会更早被 AI 抢饭碗](https://www.ithome.com/0/783/248.htm)|
+||[中国工程院院士、焊接领域著名专家林尚扬逝世，享年 92 岁](https://www.ithome.com/0/783/247.htm)|
+||[神舟十八乘组开展实验样品更换和应急演练等工作，模拟内部失压情况](https://www.ithome.com/0/783/246.htm)|
+||[夏天，一定要试试拍摄彩虹](https://www.ithome.com/0/783/244.htm)|
+||[用 3 个 Excel 财务函数解决复杂财务计算](https://www.ithome.com/0/783/243.htm)|
+||[4 年、230 亿美元、创谷歌收购纪录，这家公司怎么做到的？](https://www.ithome.com/0/783/242.htm)|
+||[致力设计标准化人工智能框架，微软 / 英伟达 / 英特尔 / 谷歌等厂商联手组建 CoSAI 安全联盟](https://www.ithome.com/0/783/241.htm)|
+||[EVO 2024《拳皇 15》总决赛中国选手“小孩”曾卓君再次夺冠](https://www.ithome.com/0/783/240.htm)|
+||[如何使用新函数 BOOKNAME 和 SHEETSNAME 在 WPS 表格引用工作表](https://www.ithome.com/0/783/239.htm)|
+||[“翘臀”可拆卸，微软 Xbox 《死侍与金刚狼》联名定制版手柄被爆采用磁吸部件](https://www.ithome.com/0/783/238.htm)|
+||[（更新：国区外可领）苹果 App Store 游戏喜加一：原价 6.99 美元 iOS / iPadOS 塔防游戏《王国保卫战》免费领](https://www.ithome.com/0/783/237.htm)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[为啥AI公司都要用“星星”符号？](https://www.huxiu.com/article/3269455.html?f=rss)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[茅台让出“基金头号重仓股”，基金经理细述减持原因](https://www.36kr.com/newsflashes/2871482885427592)|
+||[中信建投：百度“萝卜快跑”已初具商业化落地能力](https://www.36kr.com/newsflashes/2870952933134464)|
+||[乘联会崔东树：6月的公桩数量较上月增长7.23万个](https://www.36kr.com/newsflashes/2870950366433665)|
+||[保时捷中国业务换帅](https://www.36kr.com/newsflashes/2870951979847817)|
+||[华大基因与合作伙伴共建阿斯塔纳基因中心](https://www.36kr.com/newsflashes/2870948387492225)|
+||[宁德时代洛阳基地一期项目电池工厂投产](https://www.36kr.com/newsflashes/2870946768523400)|
+||[微软：预计CrowdStrike事件影响全球850万台Windows设备，未来将重视优先考虑安全部署](https://www.36kr.com/newsflashes/2870941560541318)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[让宽高自动过渡动画不再那么繁琐！CSS新功能 interpolate-size 和 calc-size ](https://www.wikimoe.com/post/fn2y1rpv)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[推女郎性感美女陈怡曼珍藏版私密照](https://www.mmlsl.com/xgmn/2891.html)|
+||[推女郎夏婉婉大尺度艺术照片](https://www.mmlsl.com/xgmn/2892.html)|
+||[推女郎吻熙性感丁字裤艺术写真](https://www.mmlsl.com/xgmn/2890.html)|
+||[推女郎田芯娜蕾丝诱惑照片](https://www.mmlsl.com/xgmn/2889.html)|
+|[V2EX-最热主题](https://rsshub.rssforever.com/v2ex/topics/hot)|[英特尔 13/14 代处理器被指存在工艺缺陷](https://www.v2ex.com/t/1058880)|
+||[听说很多网游工作室居然开到孟加拉了？](https://www.v2ex.com/t/1058876)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[退出价格战后 宝马多地4S店上演霸王条款：拒绝交付 提车要加价3万](https://m.cnbeta.com.tw/view/1439093.htm)|
+||[盘点微软史上重大蓝屏事件](https://m.cnbeta.com.tw/view/1439092.htm)|
+||[微软技术故障波及英国医疗系统 看病开药均受影响](https://m.cnbeta.com.tw/view/1439091.htm)|
+||[特朗普否认获得马斯克巨额捐款：没听说 但我爱他](https://m.cnbeta.com.tw/view/1439090.htm)|
+||[三星电子将为苹果下一代XR设备打造LLWD DRAM产品](https://m.cnbeta.com.tw/view/1439088.htm)|
+||[德国汽车行业：每两家公司中就有一家计划裁员](https://m.cnbeta.com.tw/view/1439087.htm)|
+||[全球第七名“治愈者”来了 人类攻克艾滋病还远吗？](https://m.cnbeta.com.tw/view/1439086.htm)|
+||[华晨宝马回应BBA退出价格战：与合作伙伴探讨可持续商业模式 确保有利润活到未来](https://m.cnbeta.com.tw/view/1439084.htm)|
+||[美国高级安全官员抨击微软蓝屏制造者：严重错误](https://m.cnbeta.com.tw/view/1439083.htm)|
+||[微软中国回应Windows电脑全球大规模蓝屏：占比不到1% 正积极帮助客户恢复](https://m.cnbeta.com.tw/view/1439080.htm)|
+|[虎嗅](https://rss.huxiu.com/)|[无论谁掌舵，娃哈哈的烦恼都不会消失](https://www.huxiu.com/article/3269471.html?f=rss)|
+||[中部崛起20年，还需要一个“火车头”](https://www.huxiu.com/article/3269461.html?f=rss)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[7家消费公司拿到新钱；谢谢茶门店全部关闭；周杰伦代言鸣鸣很忙｜创投大视野](https://36kr.com/p/2870045306343811)|
+||[AI手机卷起价格战，最低不到2000元](https://36kr.com/p/2870080281940098)|
+||[鸡脚筋，零食界的下一个顶流？](https://36kr.com/p/2870315467545473)|
+||[字节跳动被认定为“看门人”，TikTok要不好过了](https://36kr.com/p/2869342423240838)|
+||[奥特曼「造芯」计划再曝新进展，前TPU团队华人工程师领衔，最快年内官宣](https://36kr.com/p/2870377405518212)|
+||[小米汽车为何卖爆？雷军2小时演讲复盘](https://36kr.com/p/2870173586018688)|
+||[今日，OpenAI杀死ChatGPT-3.5](https://36kr.com/p/2869348728115586)|
+|[知乎热榜](https://plink.anyfeeder.com/zhihu/hotlist)|[天涯论坛，对你产生过什么影响？](https://www.zhihu.com/question/645926728/answer/3566271040)|
+||[微软蓝屏事件波及范围有多大？会不会有什么长尾的次生影响？](https://www.zhihu.com/question/662089921/answer/3568627106)|
+||[四川一胎儿检出嵌合体超雄综合征，家属回应「决定终止妊娠」，这是一种什么病征？](https://www.zhihu.com/question/662107256/answer/3568625837)|
+||[学术界相比于产业界的优势在哪？](https://www.zhihu.com/question/661958857/answer/3568118349)|
+||[以色列特拉维夫市中心发生爆炸，已导致 7 人受伤，爆炸事件对特拉维夫市的基础设施和经济有何影响？](https://www.zhihu.com/question/662011557/answer/3568588240)|
+||[印尼声称「为了自保」拟对部分中国产品征收高达 200% 的关税，如何看待印尼此举？将产生什么影响？](https://www.zhihu.com/question/660696609/answer/3568582815)|
+||[2024男篮奥运热身赛，詹姆斯25分美国队101:100惊险逆转南苏丹，如何评价这场比赛？](https://www.zhihu.com/question/662165862/answer/3568534183)|
+||[《十天之后回到现实》开播，真的做出了综艺和剧集结合成的「综艺连续剧」吗？](https://www.zhihu.com/question/662130676/answer/3568551233)|
+||[爱一个人，如果放不下，你会愿意等吗？](https://www.zhihu.com/question/660603534/answer/3568545286)|
+||[哪些句子一听感触颇深？](https://www.zhihu.com/question/662008852/answer/3568529806)|
+||[可以分享一下夏天的天空照片吗？](https://www.zhihu.com/question/661668784/answer/3568494693)|
+||[人真的无法取得认知以外的钱吗？](https://www.zhihu.com/question/661906259/answer/3568469249)|
+||[在社会上懂得感恩的人都混的怎么样?](https://www.zhihu.com/question/444444378/answer/3568466629)|
+||[陕西商洛一大桥因突发暴雨山洪塌方，已致 12 人遇难，31 人失联，目前情况如何？](https://www.zhihu.com/question/662088831/answer/3568467330)|
+|[蓝点网](https://www.landiannews.com/feed)|[长江存储在美国法院起诉美光侵犯多项专利 要求美光停止销售内存并支付专利费](https://www.landiannews.com/archives/105051.html)|
+||[CrowdStrike创始人还是蓝屏死机的惯犯 对2010年迈克菲大规模蓝屏死机事件负责](https://www.landiannews.com/archives/105050.html)|
+||[微软发布博客称CrowdStrike蓝屏事件影响全球850万台电脑 而且涉及关键行业](https://www.landiannews.com/archives/105049.html)|
+|[BBC](https://plink.anyfeeder.com/bbc/cn)|[特朗普出席密歇根州造势集会：“上周，我为民主挡了子弹”](https://www.bbc.com/zhongwen/simp/world-69207910)|
+|[反斗限免](http://free.apprcn.com/feed/)|[DiReec Screen Recorder - 屏幕录像软件 Windows $14.99→0 ](https://free.apprcn.com/direec-screen-recorder-2/)|
+||[免费获取 Steam 游戏 Space Odyssey Windows、macOS、Linux ](https://free.apprcn.com/get-steam-game-space-odyssey-for-free/)|
+||[免费获取音频插件 Lofi Lite Windows、macOS ](https://free.apprcn.com/get-lofi-lite-for-free/)|
+|[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 淘股吧 - Unknown](https://t.me/awesomeRSSHub/3888)|
+||[RSSHub has new routes Followin - KOL](https://t.me/awesomeRSSHub/3887)|
+||[RSSHub has new routes Followin - News](https://t.me/awesomeRSSHub/3886)|
+||[RSSHub has new routes Followin - Tag](https://t.me/awesomeRSSHub/3885)|
+||[RSSHub has new routes Followin - Topic](https://t.me/awesomeRSSHub/3884)|
+||[RSSHub has new routes FX Markets - Channel](https://t.me/awesomeRSSHub/3883)|
+||[RSSHub has new routes Paradigm - Writing](https://t.me/awesomeRSSHub/3882)|
+||[RSSHub has new routes Seeking Alpha - Summary](https://t.me/awesomeRSSHub/3881)|
+||[RSSHub has new routes Stock Edge - Daily Updates News](https://t.me/awesomeRSSHub/3880)|
+||[RSSHub has new routes TokenInsight - Blogs](https://t.me/awesomeRSSHub/3879)|
+||[RSSHub has new routes TokenInsight - Latest](https://t.me/awesomeRSSHub/3878)|
+||[RSSHub has new routes TokenInsight - Research](https://t.me/awesomeRSSHub/3877)|
+||[RSSHub has new routes Unusual Whales - News Flow](https://t.me/awesomeRSSHub/3876)|
+||[RSSHub has new routes 巴伦周刊中文版 - 栏目](https://t.me/awesomeRSSHub/3875)|
+||[RSSHub has new routes 百度 - 首页指数](https://t.me/awesomeRSSHub/3874)|
+||[RSSHub has new routes 北京证券交易所 - 栏目](https://t.me/awesomeRSSHub/3873)|
+||[RSSHub has new routes 财经网 - 滚动新闻](https://t.me/awesomeRSSHub/3872)|
+||[RSSHub has new routes 财联社 - 电报](https://t.me/awesomeRSSHub/3871)|
+||[RSSHub has new routes 财联社 - 热门文章排行榜](https://t.me/awesomeRSSHub/3870)|
+||[RSSHub has new routes 财联社 - 深度](https://t.me/awesomeRSSHub/3869)|
+|[Usubeni Fantasy](https://ssshooter.com/rss.xml)|[买机票的门道](https://ssshooter.com/airplane-ticket/)|
 |[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[“医治这么多患者，最终却这样离开”：温州遇害医生李晟](https://www.infzm.com/contents/275621)|
 |[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[【转】關於日文漢字與平假名的使用](https://jasonkayzk.github.io/2024/07/21/%E3%80%90%E8%BD%AC%E3%80%91%E9%97%9C%E6%96%BC%E6%97%A5%E6%96%87%E6%BC%A2%E5%AD%97%E8%88%87%E5%B9%B3%E5%81%87%E5%90%8D%E7%9A%84%E4%BD%BF%E7%94%A8/)|
 ||[日语时态总结](https://jasonkayzk.github.io/2024/07/21/%E6%97%A5%E8%AF%AD%E6%97%B6%E6%80%81%E6%80%BB%E7%BB%93/)|
