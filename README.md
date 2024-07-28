@@ -2,6 +2,26 @@
 
 |来源|标题|
 |---|---|
+|[Cosmos的博客](https://cosmo-polite.com/feed/)|[Public Sector入职第二周的记录](https://cosmo-polite.com/public-sector%e5%85%a5%e8%81%8c%e7%ac%ac%e4%ba%8c%e5%91%a8%e7%9a%84%e8%ae%b0%e5%bd%95/)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[从音频到游戏，Yalla的中东之路真的无法被复刻吗？](https://www.woshipm.com/it/6089810.html)|
+||[产品经理的核心六大能力](https://www.woshipm.com/share/6089989.html)|
+||[国内大模型/智能体盘点丨16家公司，13款大模型，19个智能体](https://www.woshipm.com/aigc/6089895.html)|
+|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[简单易用的内网穿透组网工具ZeroTier](https://jasonkayzk.github.io/2024/07/28/%E7%AE%80%E5%8D%95%E6%98%93%E7%94%A8%E7%9A%84%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E7%BB%84%E7%BD%91%E5%B7%A5%E5%85%B7ZeroTier/)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[全球首次运用游戏科技参与申遗，“数字中轴·小宇宙”上线](https://www.36kr.com/newsflashes/2881275160073096)|
+||[河南农商银行将组建](https://www.36kr.com/newsflashes/2881235060020099)|
+||[存量房收储促市场平衡 细化举措仍有待落地](https://www.36kr.com/newsflashes/2881231591871367)|
+||[河北推进特色产业集群“共享智造”](https://www.36kr.com/newsflashes/2881230369969027)|
+|[Hypebeast](https://hypebeast.cn/feed)|[DCU 正式启动！James Gunn 揭晓 DC Studios 最新专属 LOGO](https://hypebeast.cn/2024/7/dc-studios-logo-sdcc-2024-james-gunn)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[秦腔](https://www.jianshu.com/p/ff52ab582a1d)|
+||[GitBook 本地使用排雷，及导出基本可用的 PDF 版本](https://www.jianshu.com/p/617a467bfe40)|
+||[锁文](https://www.jianshu.com/p/c5941fb5ac9b)|
+||[图书出版攻略：著作权会保护作者哪些权益？](https://www.jianshu.com/p/545c6f65d47f)|
+|[TecHug](https://www.techug.com/feed)|[您现在可以像运行 Python 一样运行 Java](https://www.techug.com/post/you-can-run-java-like-python-now/)|
+||[GitHub 删除代码等于“任何人均可永久访问”！微软回应：我们有意为之](https://www.techug.com/post/removing-code-from-github-is-equivalent-to-permanently-accessible-to-anyone-microsoft-resp-5a3e15/)|
+|[《联合早报》-中港台-即时](https://rsshub.app/zaobao/realtime/china)|[特朗普：美国须主导比特币领域否则中国将主导](https://www.zaobao.com/realtime/china/story20240728-4378954)|
+||[王毅：北约插手亚太势必引发对立对抗](https://www.zaobao.com/realtime/china/story20240728-4378836)|
+||[卢秀燕访美出席宴会 近500名台侨界领袖参与](https://www.zaobao.com/realtime/china/story20240728-4378807)|
+||[王毅：中菲就仁爱礁局势达成临时安排 菲勿再食言](https://www.zaobao.com/realtime/china/story20240728-4378729)|
 |[36氪 - 人工智能·AI](https://rsshub.rssforever.com/36kr/motif/327686782977)|[逃离这家创业公司的75人，估值超4000亿](https://www.36kr.com/p/2881216395664257)|
 ||[OpenAI要再次带国内大模型玩家飞？](https://www.36kr.com/p/2880511977608073)|
 |[极客公园](http://www.geekpark.net/rss)|[李斌：不做无人驾驶出租车；霍尼韦尔考虑将旗下量子计算公司百亿美元估值 IPO；何猷君电竞公司上市，开盘涨超 45%](http://www.geekpark.net/news/338601)|
