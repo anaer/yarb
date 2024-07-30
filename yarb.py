@@ -19,7 +19,6 @@ import requests
 requests.packages.urllib3.disable_warnings()
 
 today = datetime.datetime.now().strftime("%Y-%m-%d")
-filterWords = []
 
 # 替换圆括号和中括号为空格
 def replace_brackets_with_space(string):
@@ -193,9 +192,6 @@ def job(args):
     proxy_rss = conf['proxy']['url'] if conf['proxy']['rss'] else ''
     feeds = getRss()
     Color.print_focus(f'[+] {len(feeds)} feeds')
-    # 修改全局变量 需要先使用global声明下
-    global filterWords
-    filterWords = conf['filterWords'] if conf['filterWords'] else []
 
     results = []
     if args.test:
@@ -216,8 +212,6 @@ def job(args):
                 else:
                     updateRssInvalid(link)
         Color.print_focus(f'[+] {len(results)} feeds, {numb} articles')
-
-    print("过滤词:",filterWords)
 
     addArticles(results)
     # 更新today

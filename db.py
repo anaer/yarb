@@ -6,14 +6,11 @@ import datetime
 import time
 
 def getRss():
-    '''
-    随机获取300条rss站源
-    '''
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 and sort >= -10 ORDER BY RANDOM() limit 500
+    select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 500) order by random() limit 100
     '''
 
     cur.execute(query_sql)
