@@ -2,6 +2,15 @@
 
 |来源|标题|
 |---|---|
+|[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[用Notion搭建人生操作系统](https://sspai.com/post/90968)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[网络安全行业所谓的跳槽，只是从一个坑跳到另一个坑](https://www.freebuf.com/news/407339.html)|
+||[OAuth+XSS组合拳，数百万Web账户或将易主](https://www.freebuf.com/news/407325.html)|
+|[36氪](http://36kr.com/feed)|[彰显耐心资本力量 护航产业转型升级 ——湖北省政府投资引导基金助力绿色低碳发展](https://36kr.com/p/2884212281236105?f=rss)|
+||[蔚来王启研：汽车将成AI智能体，需要整车OS底座｜36氪专访](https://36kr.com/p/2883274311996296?f=rss)|
+||[「36碳圆桌派」第一期回顾：观众拿着笔记本，记下了东鹏、百威、SHEIN的ESG解题思路](https://36kr.com/p/2882601261503360?f=rss)|
+||[36氪研究院 2024年“AI+零售”行业研究报告](https://36kr.com/p/2884137300712327?f=rss)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[为什么不禁止ENF板材？](http://www.zhihu.com/question/654101680/answer/3484076605?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[2024 知乎创作者盐沙龙·上海站活动回顾](http://zhuanlan.zhihu.com/p/711570894?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[董宇辉套上新枷锁](https://www.tmtpost.com/7187490.html)|
 ||[娃哈哈真的难题，根本不是宗馥莉辞不辞职](https://www.tmtpost.com/7187454.html)|
 ||[玄学or技术，理想汽车缘何“死磕”NVH？｜钛度车库](https://www.tmtpost.com/7186426.html)|
