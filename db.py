@@ -168,3 +168,18 @@ def updateArticlesStatus(ids: list):
 
     cur.close()
     conn.close()
+
+def deleteHistory():
+    conn = sqlite3.connect('rss/rss.db3')
+    cur = conn.cursor()
+
+    fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=-365), datetime.time.min)
+
+    cur.execute('''
+    delete from t_article where published_at < ? 
+    ''', [
+        fromDate
+        ])
+
+    cur.close()
+    conn.close()

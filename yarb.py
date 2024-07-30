@@ -223,6 +223,8 @@ def job(args):
     for bot in bots:
         bot.send(bot.parse_results(results))
 
+    deleteHistory()
+
 def argument():
     parser = argparse.ArgumentParser()
     parser.add_argument('--update', help='Update RSS config file', action='store_true', required=False)
