@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[从一家生意兴隆的采耳店，谈一谈企业的经营和战略定位问题 我经常光顾的一家采耳店，几年来一直生意兴隆。作为一个老顾客，我来讲讲这家采耳店生意兴隆的经营法...](https://m.okjike.com/originalPosts/66a8491776f9953641e57766)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 巴黎奥运会乒乓球混合双打半决赛王楚钦孙颖莎 4 ：2 战胜韩国挺进决赛，如何评价这场比赛？](https://www.zhihu.com/question/662924302)|
+||[大学生不玩游戏，手机 256g 够用么？](https://www.zhihu.com/question/662762477)|
+||[多地共享单车又涨价了，工作日前 10 分钟 1.5 元，如何看待此次调整？涨价原因有哪些？](https://www.zhihu.com/question/662886969)|
+||[多家餐企放下身段卖「穷鬼套餐」却越卖越亏，为何降价这招不灵了？餐企的破局方向在哪？](https://www.zhihu.com/question/662829974)|
+||[从心理学视角看，「主场效应」是什么？真的有用吗？](https://www.zhihu.com/question/662548405)|
+||[湖北恩施，神农架还有湖南的张家界，这三地方旅游该如何取舍？](https://www.zhihu.com/question/263603917)|
+||[巴黎奥运会乒乓球混双半决赛，朝鲜队 4-3 战胜中国香港队，一路黑马杀到决赛，如何评价朝鲜队的表现？](https://www.zhihu.com/question/662931199)|
+||[博士毕业如何找到 30w 以上不累的稳定工作？](https://www.zhihu.com/question/657540977)|
+||[沙漠的沙子为什么不能用于建筑用沙？](https://www.zhihu.com/question/624503336)|
+||[可以分享一张你的随手拍照片吗？](https://www.zhihu.com/question/659279772)|
+||[巴黎奥运每天都在惹怒韩国人，韩国叫成朝鲜，搞错国旗，巴黎奥运为什么频触韩国民众怒火？将带来哪些影响？](https://www.zhihu.com/question/662866566)|
+||[有哪些护肤成分党良心推荐的护肤品分享？](https://www.zhihu.com/question/656736725)|
+||[有哪些不良习惯会加速女生的皮肤衰老？该如何预防？](https://www.zhihu.com/question/662027332)|
+||[旅行时你吃过哪些特色的美食夜宵？](https://www.zhihu.com/question/662043215)|
+||[年轻人的第一块手表怎么选择？](https://www.zhihu.com/question/660122406)|
+||[网传覃海洋、张雨霏一天 7 次尿检，晚上没法睡，频繁被抽血，这样的检测合理吗？对运动员影响有多大？](https://www.zhihu.com/question/662892318)|
+||[可以偷偷给那个不能在一起的人留句话吗?](https://www.zhihu.com/question/659633296)|
+||[司马迁与崔浩为什么在写史之际，秉笔直书，难道他们不知道后果很严重吗？](https://www.zhihu.com/question/660232175)|
+||[为什么职场中很多工作岗位都要求抗压能力强？](https://www.zhihu.com/question/662924898)|
+||[如何看待 2024 年 7 月 30 日 A 股市场？](https://www.zhihu.com/question/662925850)|
+||[为什么一部分人向往广东？](https://www.zhihu.com/question/399248934)|
+||[为什么老罗会一边倒的支持董宇辉?](https://www.zhihu.com/question/635760821)|
+||[那种神明真实存在的奇幻作品世界观，如何解释不信神的高层神职人员存在的合理性?](https://www.zhihu.com/question/662865262)|
+||[苏州回应「清华毕业生实名举报局长团伙贪腐」，成立专项工作组核查调查，还有哪些信息值得关注？](https://www.zhihu.com/question/662909169)|
+||[大家如何看待《射雕英雄传》里面的完颜洪烈？抛开民族主义？](https://www.zhihu.com/question/40303855)|
+||[2024 巴黎奥运会排球女排预赛中国 3:2 美国收获开门红，如何评价这场比赛？](https://www.zhihu.com/question/662924314)|
+||[巴黎奥运会男子柔道 60 公斤级，日本夺冠大热出局后拒绝握手，抗议 5 分钟，如何评价这场比赛？](https://www.zhihu.com/question/662760927)|
+||[罗永浩谈董宇辉离职「双输，俞敏洪要负全责」，如何看他这一言论？](https://www.zhihu.com/question/662673160)|
+||[2024 巴黎奥运会竞技体操男子团体决赛，苏炜德致命失误葬送好局，中国队遗憾摘银，如何评价本场比赛？](https://www.zhihu.com/question/662928493)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[Windows 版 WhatsApp 允许 Python、PHP 脚本在没有任何提示下执行](https://www.4hou.com/posts/xyv9)|
+||[Check Point 揭示 2024 年第二季度品牌网络钓鱼趋势](https://www.4hou.com/posts/zAKY)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[google play 广告接入问题](https://w2solo.com/topics/4862)|
+|[蓝点网](https://www.landiannews.com/feed)|[法国多处光纤被人为破坏影响互联网服务 不过巴黎奥运会并未受影响](https://www.landiannews.com/archives/105191.html)|
+||[微软最新更新导致Windows Server 2012~2022远程桌面连接出现间歇性中断](https://www.landiannews.com/archives/105190.html)|
+||[谷歌办公套件Workspace出现安全漏洞 谷歌还被发现忽视用户反馈并撒谎](https://www.landiannews.com/archives/105189.html)|
+||[谷歌正在优化Gemini图片生成功能 用户可以圈选位置对图片进行微调](https://www.landiannews.com/archives/105188.html)|
+||[站长/开发者/IT管理员请注意：DigiCert吊销大量不符合规范的CNAME验证TLS证书](https://www.landiannews.com/archives/105187.html)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[黄仁勋支持开源 AI 大模型，与扎克伯格互换外套](https://www.oschina.net/news/304495/zuckerberg-huang-open-source-ai)|
 |[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[用Notion搭建人生操作系统](https://sspai.com/post/90968)|
 |[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[网络安全行业所谓的跳槽，只是从一个坑跳到另一个坑](https://www.freebuf.com/news/407339.html)|
 ||[OAuth+XSS组合拳，数百万Web账户或将易主](https://www.freebuf.com/news/407325.html)|
