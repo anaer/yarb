@@ -2,6 +2,22 @@
 
 |来源|标题|
 |---|---|
+|[LIHAI 分享 - Telegra...](https://rsshub.app/telegram/channel/lihaiba)|[↩️ ▎🅰️ 食贫道—神 鬼 传 奇 【下】 阿里云盘 夸克网盘系列合集（这期是1080） 百度网盘 提取码: 1111 TG 在线看 合作/投稿 频道群组 标签：#B站 #知识付...](https://t.me/lihaiba/6844)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 Epic Games 執行長抨擊蘋果「尋找」功能是「超恐怖監控技術」？](https://applefans.today/2024-07-epic-games-ceo-calls-apple-find-my-super-creepy/)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[打破纪录！某财富 50 强公司向勒索组织支付 7500 万美元赎金](https://www.freebuf.com/news/407383.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[Chrome v127版对Cookie进行加密绑定 避免被窃取后直接使用Cookie登录](https://www.landiannews.com/archives/105208.html)|
+||[谷歌Chrome现在在扩展程序页面单独罗列Manifest v2扩展并提示即将不支持](https://www.landiannews.com/archives/105192.html)|
+||[适用于手机的Ubuntu Touch OTA-5系统已经发布 在手机上使用原生Ubuntu](https://www.landiannews.com/archives/105207.html)|
+||[微软放弃在Skype塞各种信息流内容 后续Skype将删除所有广告吸引用户使用](https://www.landiannews.com/archives/105206.html)|
+||[知名网盘123云盘官方域名跳转反诈中心 官方回应称系恶意竞争举报](https://www.landiannews.com/archives/105205.html)|
+||[微软透露昨天夜里Microsoft 365和Azure出现中断是因为遭到DDoS攻击](https://www.landiannews.com/archives/105204.html)|
+||[万维网联盟 W3C 发文强烈谴责谷歌Chrome不再淘汰第三方Cookies](https://www.landiannews.com/archives/105203.html)|
+||[微软将Windows 11显示秒数设置从任务栏挪到了时间和日期设置中](https://www.landiannews.com/archives/105202.html)|
+||[Adobe Illustrator for Windows on Arm原生版现已推出 提升性能并延长续航时间](https://www.landiannews.com/archives/105194.html)|
+||[OpenAI即日起开始向部分ChatGPT Plus订阅用户推出高级语音模式](https://www.landiannews.com/archives/105193.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[Android 间谍软件“Mandrake”自 2022 年以来就隐藏在 Google Play 中](https://www.4hou.com/posts/ArPO)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[厦大团队材料预测迁移学习范式登Nature子刊，发现高性能催化剂](https://www.jiqizhixin.com/articles/2024-07-31-3)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[侧边书签栏 – 需要输入密码才能访问的侧边栏书签 Chrome/Edge ](https://www.appinn.com/chrome-sidebar-bookmarks/)|
 |[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[OneDrive 网络钓鱼诱使用户执行恶意 PowerShell 脚本](https://www.anquanke.com/post/id/298605)|
 ||[Google Workspace 认证漏洞导致数千封电子邮件被泄露](https://www.anquanke.com/post/id/298610)|
 ||[全球数据泄露成本创历史新高](https://www.anquanke.com/post/id/298613)|
