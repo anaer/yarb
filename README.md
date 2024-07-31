@@ -2,6 +2,20 @@
 
 |来源|标题|
 |---|---|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[OneDrive 网络钓鱼诱使用户执行恶意 PowerShell 脚本](https://www.anquanke.com/post/id/298605)|
+||[Google Workspace 认证漏洞导致数千封电子邮件被泄露](https://www.anquanke.com/post/id/298610)|
+||[全球数据泄露成本创历史新高](https://www.anquanke.com/post/id/298613)|
+||[两年后在Google Play商店应用程序中发现新的曼德拉间谍软件](https://www.anquanke.com/post/id/298616)|
+||[网络犯罪分子利用Tesla代理和Formbook恶意软件瞄准波兰企业](https://www.anquanke.com/post/id/298623)|
+||[勒索软件团伙利用 ESXi 漏洞对虚拟机进行即时、大规模加密](https://www.anquanke.com/post/id/298620)|
+||[针对Microsoft OneDrive用户的网络钓鱼活动](https://www.anquanke.com/post/id/298628)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在Spring Boot > 2.2.0.RELEASE版本中配置以支持IE8缓存静态资源？](https://segmentfault.com/q/1010000045119153)|
+||[http://gw.open.icbc.com.cn/在内网有的机子能ping通，有的ping不通，为什么？](https://segmentfault.com/q/1010000045119151)|
+||[js 如何将数组合并至json数组？](https://segmentfault.com/q/1010000045118915)|
+||[前端表格自适应列宽算法不能使表格扩充到容器大小该怎么办？](https://segmentfault.com/q/1010000045118665)|
+||[vscode js html 等等 不报红了？](https://segmentfault.com/q/1010000045118445)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[第二届「简约与学习会议 CPAL 」将在斯坦福大学举办，征稿进行中](https://www.jiqizhixin.com/articles/2024-07-31-2)|
+||[帮忙推车、陪你购物，波士顿动力的劲敌又整新活儿了](https://www.jiqizhixin.com/articles/2024-07-31)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774245)|
 ||[彩漫时代中的逆流坚持——盘点那些被时代遗弃的精品黑白漫画杂志](https://daily.zhihu.com/story/9774215)|
 ||[高中数学一对一 1200 一小时和 300 一小时的课程有什么区别？](https://daily.zhihu.com/story/9774224)|
