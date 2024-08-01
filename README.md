@@ -2,6 +2,20 @@
 
 |来源|标题|
 |---|---|
+|[est の 输入输出](http://feeds.feedburner.com/initiative)|[关于 cn.cyberIdentity.certification 的一些技术信息](https://blog.est.im/2024/stdout-15)|
+|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[来 188 个上海人，一锅炖了！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456833&idx=1&sn=5edff2e25aa3b2e3cd99d2d101cecdbb)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[每位开发者都应该知道的7种 Node.js 设计模式](https://www.infoq.cn/article/0Ci5BgBt0fyS5sFKVaZC)|
+||[JavaScript开发的挑战与未来：简化与创新的平衡](https://www.infoq.cn/article/NaybtM11UNYrIENQcd9J)|
+||[检索增强生成：革命性技术还是过度承诺？](https://www.infoq.cn/article/LvQs5lG7et17I3wxvTkO)|
+||[React 社区分裂为全栈和仅客户端两大阵营](https://www.infoq.cn/article/pD1l1QG2YFvmcKSqbqkD)|
+||[Rich Harris：使用 Svelte 5.0 你将编写更少的代码](https://www.infoq.cn/article/KMIIVFdo1v4EvRTgeooa)|
+||[Node.js 22：服务器端 JavaScript 的未来](https://www.infoq.cn/article/Tv7cUTCWwXvEBC2uhY5g)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[警惕新型安卓恶意软件，掏空银行账户后设备数据也将不保](https://www.freebuf.com/news/407491.html)|
+||[由于域验证错误，DigiCert 大规模撤销 TLS 证书](https://www.freebuf.com/news/407484.html)|
+||[继全球蓝屏后，微软 Azure 云服务因安全错误导致全球宕机](https://www.freebuf.com/news/407481.html)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[茅台还要跌多久？](http://xueqiu.com/6572050310/299522130)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[什么情况下你能接受 996](https://segmentfault.com/a/1190000045122701)|
+||[纯 CSS 实现的的3种扫光效果](https://segmentfault.com/a/1190000045122864)|
 |[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[终于明白为什么中国电瓶车在东南亚卖得不好了。一直纳闷，东南亚遍地摩托车，按说中国电瓶车应该降维打击才是，但实际上并不是如此。 今天，一家东南亚电动自行...](https://m.okjike.com/originalPosts/66aaf09aa76a0c9d6555a95c)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[200元，我买了台亚马逊旗舰手机 10年前的设计理念真大胆](https://m.cnbeta.com.tw/view/1440582.htm)|
 ||[Arm全年营收指引太过“寡淡”令投资者不满 盘后股价重挫13%](https://m.cnbeta.com.tw/view/1440581.htm)|
