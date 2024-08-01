@@ -2,6 +2,32 @@
 
 |来源|标题|
 |---|---|
+|[IT之家](https://www.ithome.com/rss/)|[截至今年 6 月底，中央企业智能算力规模同比实现翻倍增长](https://www.ithome.com/0/785/543.htm)|
+||[美国推迟对中国电动汽车等产品加征关税](https://www.ithome.com/0/785/542.htm)|
+||[谷歌 Pixel 9 Pro Fold 手机厚度曝光：折叠 10.5 毫米 / 展开 5.1 毫米，比三星 Galaxy Z Fold6 更薄](https://www.ithome.com/0/785/541.htm)|
+||[波音任命凯利・奥特伯格为总裁兼 CEO](https://www.ithome.com/0/785/540.htm)|
+||[岚图汽车 7 月交付 6015 辆同比增长 76%，今年累销 36391 辆同比增长 97%](https://www.ithome.com/0/785/533.htm)|
+||[马斯克确认特斯拉 Model S Plaid Plus 不再有，Roadster 接棒](https://www.ithome.com/0/785/532.htm)|
+||[两部门：车龄 8 年及以上城市公交车更换新能源 / 动力电池平均补贴 6 万元](https://www.ithome.com/0/785/531.htm)|
+||[谷歌 Pixel 9 Pro XL 手机电池曝光：5060 mAh，30 分钟充至 70%](https://www.ithome.com/0/785/530.htm)|
+||[QQ 浏览器电脑版上线“小笔记”功能](https://www.ithome.com/0/785/529.htm)|
+||[国内裁员补偿天花板？佳能苏州被曝裁员赔偿 N+12/2N+12](https://www.ithome.com/0/785/528.htm)|
+||[SpaceX 的星舰太大，NASA 月球空间站“压力山大”](https://www.ithome.com/0/785/527.htm)|
+||[谷歌 Pixel 9 Pro / XL 手机“录制”8K 视频细节曝光：拍摄无相关选项，视频需同步至云端](https://www.ithome.com/0/785/525.htm)|
+||[2024 款阿维塔 11/12 汽车 8 月购车权益公布：赠送前排双零重力座椅等](https://www.ithome.com/0/785/524.htm)|
+||[首次非最新版本，谷歌 Pixel 9 系列手机被曝预装安卓 14 系统](https://www.ithome.com/0/785/523.htm)|
+||[搭载 AMD 锐龙 AI 300 处理器，微星发布四款 16 英寸高端锐龙版 2024 笔记本](https://www.ithome.com/0/785/522.htm)|
+||[Omdia：人形机器人今年迎来突破之年，2027 年全球出货将破万台](https://www.ithome.com/0/785/521.htm)|
+||[长城宽带被指圈钱跑路？1000 户家庭断网苦等](https://www.ithome.com/0/785/520.htm)|
+||[售价 16.08 万元，极狐阿尔法 S5 560 PRO 车型上市](https://www.ithome.com/0/785/519.htm)|
+||[小米 SU7 汽车 7 月交付超 10000 辆，预计 11 月提前完成全年目标](https://www.ithome.com/0/785/518.htm)|
+||[消息称前百度 IDG 汽车业务部总经理苏坦加入微软云，组建新汽车团队](https://www.ithome.com/0/785/516.htm)|
+||[限量 130 辆，帕加尼公布敞篷版 Utopia 跑车官图：售价 310 万欧元](https://www.ithome.com/0/785/515.htm)|
+||[2024 年 8 月科技事件日历一览表](https://www.ithome.com/0/785/514.htm)|
+||[相爱相杀：微软将 OpenAI 列为人工智能及搜索领域的竞争对手](https://www.ithome.com/0/785/513.htm)|
+||[同时“角色直升”等玩家数量过多，国服《魔兽世界》暂时关闭部分增值服务](https://www.ithome.com/0/785/512.htm)|
+||[防止霉霉女士“不雅照”事件再次发生，谷歌重拳打击 deepfake 内容](https://www.ithome.com/0/785/511.htm)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 顏色 搶先曝光！顏色你喜歡嗎？](https://applefans.today/2024-08-iphone-16-dummy-rumors/)|
 |[少数派](https://sspai.com/feed)|[派早报：Noting Phone 2a Plus 发布、高通推出第二代骁龙 4s 平台等](https://sspai.com/post/91061)|
 |[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[解析Temu广州总部围攻事件：以罚代管引争议，拼多多全球扩张面临考验?](https://lukefan.com/2024/08/01/%e8%a7%a3%e6%9e%90temu%e5%b9%bf%e5%b7%9e%e6%80%bb%e9%83%a8%e5%9b%b4%e6%94%bb%e4%ba%8b%e4%bb%b6%ef%bc%9a%e4%bb%a5%e7%bd%9a%e4%bb%a3%e7%ae%a1%e5%bc%95%e4%ba%89%e8%ae%ae%ef%bc%8c%e6%8b%bc%e5%a4%9a/)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我 30 多岁，已经被后生们叫老古董了](https://www.v2ex.com/t/1061637#reply14)|
