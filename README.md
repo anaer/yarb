@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[终于明白为什么中国电瓶车在东南亚卖得不好了。一直纳闷，东南亚遍地摩托车，按说中国电瓶车应该降维打击才是，但实际上并不是如此。 今天，一家东南亚电动自行...](https://m.okjike.com/originalPosts/66aaf09aa76a0c9d6555a95c)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[200元，我买了台亚马逊旗舰手机 10年前的设计理念真大胆](https://m.cnbeta.com.tw/view/1440582.htm)|
+||[Arm全年营收指引太过“寡淡”令投资者不满 盘后股价重挫13%](https://m.cnbeta.com.tw/view/1440581.htm)|
+||[始祖鸟推出3万元外骨骼登山裤 可帮使用者减重14公斤](https://m.cnbeta.com.tw/view/1440579.htm)|
+||[特斯拉第1000万台电驱系统在上海超级工厂下线](https://m.cnbeta.com.tw/view/1440577.htm)|
+||[李彦宏妻子今年首次减持百度 26万股套现约1.6亿](https://m.cnbeta.com.tw/view/1440576.htm)|
+||[与辉同行独立后五天销售额破亿：日均涨粉达12万](https://m.cnbeta.com.tw/view/1440573.htm)|
+||[比亚迪2025款海鸥正式上市：售6.98万元起](https://m.cnbeta.com.tw/view/1440572.htm)|
+||[从二季度开始 英特尔每月可为NVIDIA生产5000块晶圆](https://m.cnbeta.com.tw/view/1440571.htm)|
+||[今起移动电源产品开始实施强制性产品认证](https://m.cnbeta.com.tw/view/1440570.htm)|
+||[iPhone 16 Pro机模曝光：3款配色 侧面新增拍照按键](https://m.cnbeta.com.tw/view/1440568.htm)|
+||[美国商务部拦截图森未来24块NVIDIA A100 GPU出境 坚称其会流向中国](https://m.cnbeta.com.tw/view/1440567.htm)|
+||[马斯克评比亚迪与Uber合作：需尽快改路线、否则就麻烦了](https://m.cnbeta.com.tw/view/1440566.htm)|
+||[璩静筹备复出？与某IP操盘手网红会面畅谈一下午](https://m.cnbeta.com.tw/view/1440564.htm)|
+||[传佳能苏州裁员 赔偿N+12/2N+12 被称为国内裁员天花板](https://m.cnbeta.com.tw/view/1440563.htm)|
+||[波音终于迎来新CEO 64岁的“退休老人”能否力挽狂澜？](https://m.cnbeta.com.tw/view/1440562.htm)|
+||[特斯拉宣布第1000万个电驱系统在上海超级工厂下线](https://m.cnbeta.com.tw/view/1440561.htm)|
+||[美媒：车型多开发快 中国电动车创新力正超越特斯拉](https://m.cnbeta.com.tw/view/1440560.htm)|
+||[市面出现“真假懂球帝”，背后是对赌局中局？](https://m.cnbeta.com.tw/view/1440559.htm)|
+||[实测苹果AI beta版：太难用了，真的](https://m.cnbeta.com.tw/view/1440558.htm)|
+||[特朗普：马斯克支持我 但我反对人人拥有电动汽车](https://m.cnbeta.com.tw/view/1440557.htm)|
+||[黄仁勋身价一夜暴增近120亿美元 创单日增长纪录](https://m.cnbeta.com.tw/view/1440556.htm)|
+||[大疆有史以来最轻的经济型无人机 - DJI Neo真机与包装图像泄露](https://m.cnbeta.com.tw/view/1440554.htm)|
+||[中国留学生在日本骑电动行李箱被起诉引热议 骑行需要驾照](https://m.cnbeta.com.tw/view/1440553.htm)|
+||[超过200名风险投资家发声力挺哈里斯 抗衡硅谷右转势头](https://m.cnbeta.com.tw/view/1440552.htm)|
+||[消息称华为早在2021年就完成了麒麟9000S的流片 因为贸易制裁而延期](https://m.cnbeta.com.tw/view/1440550.htm)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[深度解读飞桨框架3.0，“大模型训推一体”等五大新特性，引领深度学习框架代际变革](https://www.oschina.net/news/304835)|
+||[企业 AI 采用率飙升近 90%](https://www.oschina.net/news/304818/cloudera-survey-enterprise-ai-almost-90-percent)|
+||[维基百科已支持深色模式 Dark Mode ](https://www.oschina.net/news/304807/wikipedia-official-dark-mode)|
+||[FAQ deepin 常见问题解答 · 第二弹](https://www.oschina.net/news/304801)|
+|[TecHug](https://www.techug.com/feed)|[【外评】80% 的开发人员不开心](https://www.techug.com/post/unhappy-developers-stack-overflow-survey-3896/)|
+|[IT之家](https://www.ithome.com/rss/)|[三星芯片业务负责人警告：如不改革，公司将陷入“恶性循环”](https://www.ithome.com/0/785/592.htm)|
+||[传音 Tecno Phantom V2 Flip 5G 小折叠手机渲染图曝光：联发科天玑 8020 芯片](https://www.ithome.com/0/785/590.htm)|
+||[对话《魔兽世界》执行制作人：暴雪回来了，但必须更谦卑](https://www.ithome.com/0/785/589.htm)|
+||[一汽丰田 7 月交付 70165 辆，全新一代普拉多 8 月 5 日交付](https://www.ithome.com/0/785/588.htm)|
+||[消息称拼多多把 GMV 视为第一目标，考虑在部分品类尝试平台决定零售价的全托管模式](https://www.ithome.com/0/785/587.htm)|
+||[大众汽车 2024 年第二季度营收 833.4 亿欧元：同比增长 4.1%，超出预期](https://www.ithome.com/0/785/586.htm)|
+||[SK 海力士 8 月 6 日将展示 AI 相关新品：12 层 HBM3E、321-high NAND 等](https://www.ithome.com/0/785/585.htm)|
+||[上汽通用汽车 7 月新能源车零售销量 7901 辆，环比增长 27%](https://www.ithome.com/0/785/583.htm)|
+||[2025 款福特 Maverick 皮卡发布，混动版终于推出四驱车型](https://www.ithome.com/0/785/582.htm)|
+||[iPhone 可跑 2B 小钢炮：谷歌 Gemma 2 小模型来袭，跑分超 GPT-3.5](https://www.ithome.com/0/785/581.htm)|
+||[新研究称美国油气业甲烷年排放量达 750 万吨，是监管预估数据的 4 倍](https://www.ithome.com/0/785/580.htm)|
+||[丰田中国回应日本“违规门”：中国市场销售车型不存在安全和品质问题](https://www.ithome.com/0/785/579.htm)|
+||[联想新款拯救者 R7000 游戏本开启预售：锐龙 7 8745H，首发价 6689 元起](https://www.ithome.com/0/785/578.htm)|
+||[销量下滑，梅赛德斯-奔驰将削减 S 级和 EQS 产量](https://www.ithome.com/0/785/577.htm)|
+||[首发价 4499 元：AMD 锐龙 9 7900X3D 处理器 2685 元京东百亿补贴](https://www.ithome.com/0/785/575.htm)|
+||[微软概览 7 月 Teams 改进：增强会议、优化活动、扩充 Mesh 表情](https://www.ithome.com/0/785/574.htm)|
+||[699 元： 振华 LEADEX VP 1000W 白金牌全模电源新低（13cm）](https://www.ithome.com/0/785/572.htm)|
+||[微信淘宝小红书等 67 个 App 启动“网络身份证”试点，实名认证不用手动填身份证号](https://www.ithome.com/0/785/571.htm)|
+||[三星计划 2024Q3 量产 8 层 HBM3E 产品，其份额 Q4 将达到 60%](https://www.ithome.com/0/785/569.htm)|
+||[上线首日“开服即炸服”，国服《魔兽世界》明日凌晨 5:00 停机维护 3 小时](https://www.ithome.com/0/785/564.htm)|
+||[峰飞航空盛世龙“空中出租车”跨长江首飞：5 分钟直达，用时节约 80%](https://www.ithome.com/0/785/563.htm)|
+||[小米 SU7 上线 8 月限时购车权益：依然送 Nappa 真皮座椅、增强智驾](https://www.ithome.com/0/785/561.htm)|
+||[售 2.49 万元，奔腾小马入门版车型可爱马上市](https://www.ithome.com/0/785/560.htm)|
+||[鸿蒙智行：智界 S7 Pro 车型首发 HUAWEI ADS 基础版智驾](https://www.ithome.com/0/785/559.htm)|
+||[曜越 Tower 300 八角柱 M-ATX 机箱新增蜜桃粉、抹茶梅配色，679 元](https://www.ithome.com/0/785/558.htm)|
+||[极氪 33 个月累计交付 30 万台汽车 ，刷新纯电新势力最快纪录](https://www.ithome.com/0/785/557.htm)|
+||[马斯克评比亚迪与 Uber 合作：比亚迪要“快点换道”，否则会有麻烦](https://www.ithome.com/0/785/555.htm)|
+||[深黑色要来了？苹果 iPhone 16 Pro Max 机模曝光](https://www.ithome.com/0/785/554.htm)|
+||[4133 元，小米 SU7 官方高性能制动套装已开售：包含高性能制动片等](https://www.ithome.com/0/785/552.htm)|
+||[摩尔线程 MTT S50 国产显卡亮相：单槽厚度、8GB 显存，S80 一半规格](https://www.ithome.com/0/785/550.htm)|
+||[广州拟立法支持自动驾驶出租车、公交车，推进全市人驾、智驾混合运行试点区建设](https://www.ithome.com/0/785/549.htm)|
+||[苹果、三星霸榜 2024Q2 全球畅销手机 TOP10，小米凭借 Redmi 13C 4G 手机杀出重围](https://www.ithome.com/0/785/547.htm)|
+||[英国皇家邮政将投放 2100 辆电动货车，预计每年减少约 6000 吨二氧化碳排放量](https://www.ithome.com/0/785/546.htm)|
+||[世界最高投影屏亮相德国，40 米高巨幕展现震撼海洋世界](https://www.ithome.com/0/785/545.htm)|
+||[佳能苏州回应裁员赔 N+12/2N+12：假消息，公司不是在裁员而是再就业](https://www.ithome.com/0/785/544.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[使用elementui组件出现的奇怪问题？](https://segmentfault.com/q/1010000045123537)|
+||[如何在Express项目中配置launch.json以识别别名（别名不识别问题）?](https://segmentfault.com/q/1010000045123498)|
+||[如何入门Server-Sent Events SSE 网关开发？](https://segmentfault.com/q/1010000045123209)|
+||[搭建js库后，es6代码未转译成es5，该如何配置？](https://segmentfault.com/q/1010000045123201)|
+||[Vue 3中如何防止图片在响应式状态更新时重复请求？](https://segmentfault.com/q/1010000045123083)|
+||[如何在WebStorm中实现分屏下Sass编译后CSS文件的实时刷新？](https://segmentfault.com/q/1010000045122985)|
+||[echarts之外，有哪些JS插件能制作带注释的数据点图表？](https://segmentfault.com/q/1010000045122861)|
+||[JavaScript 函数参数后的问号 ? 是什么意思？](https://segmentfault.com/q/1010000045122850)|
+||[gantt-elastic vue中使用甘特图，怎么控制禁止连线？](https://segmentfault.com/q/1010000045122741)|
+||[react umi打包成jssdk 嵌入到其他项目里？](https://segmentfault.com/q/1010000045122680)|
+||[monorepo + React + vite 无法使用公共UI库 ?](https://segmentfault.com/q/1010000045122449)|
+||[vue3配置router.js实现指定页面的keepalive，以下两种写法 第一种不行 为什么?](https://segmentfault.com/q/1010000045122361)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 雷军谈理想 MEGA：很多公司目标定得过大 /iPhone 16 新机模图曝光五种配色 / 网络主播正式成为国家新职业](https://www.ifanr.com/1594417?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[IT之家](https://www.ithome.com/rss/)|[截至今年 6 月底，中央企业智能算力规模同比实现翻倍增长](https://www.ithome.com/0/785/543.htm)|
 ||[美国推迟对中国电动汽车等产品加征关税](https://www.ithome.com/0/785/542.htm)|
 ||[谷歌 Pixel 9 Pro Fold 手机厚度曝光：折叠 10.5 毫米 / 展开 5.1 毫米，比三星 Galaxy Z Fold6 更薄](https://www.ithome.com/0/785/541.htm)|
