@@ -1,57 +1,38 @@
-﻿# 2024-07-31
+﻿# 2024-08-01
 
 |来源|标题|
 |---|---|
-|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 人生重启（心梗被救了回来）](https://www.v2ex.com/t/1061532#reply22)|
-||[ 奇思妙想 有哪些不为人知的赚钱方式？](https://www.v2ex.com/t/1061525#reply13)|
-||[ JavaScript Bun 将为中国用户默认使用 npmmirror 镜像](https://www.v2ex.com/t/1061521#reply14)|
-||[ 问与答 什么时候换工作成了人生的重大决定了？](https://www.v2ex.com/t/1061518#reply11)|
-||[ 程序员 代码写久了，各位是不是觉得自己不会说话了，做个题测试一下。](https://www.v2ex.com/t/1061507#reply19)|
-||[ 问与答 结婚西装推荐](https://www.v2ex.com/t/1061503#reply15)|
-||[ macOS 怎么把 mac 程序坞移动到另外一个屏幕](https://www.v2ex.com/t/1061502#reply11)|
-||[ 程序员 大佬都在什么验证码方案？](https://www.v2ex.com/t/1061498#reply13)|
-||[ 云计算 都上云还真不便宜](https://www.v2ex.com/t/1061497#reply20)|
-|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[完美女神陈亦菲薄纱微透颜值爆表](https://www.mmlsl.com/xgmn/2900.html)|
-||[完美女神曾水私房秀臀翘胸美很销魂](https://www.mmlsl.com/xgmn/2899.html)|
-||[完美女神M梦baby香肩美颈甜蜜醉人](https://www.mmlsl.com/xgmn/2898.html)|
-||[完美女人王雨纯极品爆乳若隐若现](https://www.mmlsl.com/xgmn/2897.html)|
-|[LIHAI 分享 - Telegra...](https://rsshub.app/telegram/channel/lihaiba)|[↩️ ▎🅰️ 食贫道—神 鬼 传 奇 【下】 阿里云盘 夸克网盘系列合集（这期是1080） 百度网盘 提取码: 1111 TG 在线看 合作/投稿 频道群组 标签：#B站 #知识付...](https://t.me/lihaiba/6844)|
-|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 Epic Games 執行長抨擊蘋果「尋找」功能是「超恐怖監控技術」？](https://applefans.today/2024-07-epic-games-ceo-calls-apple-find-my-super-creepy/)|
-|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[打破纪录！某财富 50 强公司向勒索组织支付 7500 万美元赎金](https://www.freebuf.com/news/407383.html)|
-|[蓝点网](https://www.landiannews.com/feed)|[Chrome v127版对Cookie进行加密绑定 避免被窃取后直接使用Cookie登录](https://www.landiannews.com/archives/105208.html)|
-||[谷歌Chrome现在在扩展程序页面单独罗列Manifest v2扩展并提示即将不支持](https://www.landiannews.com/archives/105192.html)|
-||[适用于手机的Ubuntu Touch OTA-5系统已经发布 在手机上使用原生Ubuntu](https://www.landiannews.com/archives/105207.html)|
-||[微软放弃在Skype塞各种信息流内容 后续Skype将删除所有广告吸引用户使用](https://www.landiannews.com/archives/105206.html)|
-||[知名网盘123云盘官方域名跳转反诈中心 官方回应称系恶意竞争举报](https://www.landiannews.com/archives/105205.html)|
-||[微软透露昨天夜里Microsoft 365和Azure出现中断是因为遭到DDoS攻击](https://www.landiannews.com/archives/105204.html)|
-||[万维网联盟 W3C 发文强烈谴责谷歌Chrome不再淘汰第三方Cookies](https://www.landiannews.com/archives/105203.html)|
-||[微软将Windows 11显示秒数设置从任务栏挪到了时间和日期设置中](https://www.landiannews.com/archives/105202.html)|
-||[Adobe Illustrator for Windows on Arm原生版现已推出 提升性能并延长续航时间](https://www.landiannews.com/archives/105194.html)|
-||[OpenAI即日起开始向部分ChatGPT Plus订阅用户推出高级语音模式](https://www.landiannews.com/archives/105193.html)|
-|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[Android 间谍软件“Mandrake”自 2022 年以来就隐藏在 Google Play 中](https://www.4hou.com/posts/ArPO)|
-|[机器之心](https://www.jiqizhixin.com/rss)|[厦大团队材料预测迁移学习范式登Nature子刊，发现高性能催化剂](https://www.jiqizhixin.com/articles/2024-07-31-3)|
-|[小众软件](https://feeds.appinn.com/appinns/)|[侧边书签栏 – 需要输入密码才能访问的侧边栏书签 Chrome/Edge ](https://www.appinn.com/chrome-sidebar-bookmarks/)|
-|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[OneDrive 网络钓鱼诱使用户执行恶意 PowerShell 脚本](https://www.anquanke.com/post/id/298605)|
-||[Google Workspace 认证漏洞导致数千封电子邮件被泄露](https://www.anquanke.com/post/id/298610)|
-||[全球数据泄露成本创历史新高](https://www.anquanke.com/post/id/298613)|
-||[两年后在Google Play商店应用程序中发现新的曼德拉间谍软件](https://www.anquanke.com/post/id/298616)|
-||[网络犯罪分子利用Tesla代理和Formbook恶意软件瞄准波兰企业](https://www.anquanke.com/post/id/298623)|
-||[勒索软件团伙利用 ESXi 漏洞对虚拟机进行即时、大规模加密](https://www.anquanke.com/post/id/298620)|
-||[针对Microsoft OneDrive用户的网络钓鱼活动](https://www.anquanke.com/post/id/298628)|
-|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在Spring Boot > 2.2.0.RELEASE版本中配置以支持IE8缓存静态资源？](https://segmentfault.com/q/1010000045119153)|
-||[http://gw.open.icbc.com.cn/在内网有的机子能ping通，有的ping不通，为什么？](https://segmentfault.com/q/1010000045119151)|
-||[js 如何将数组合并至json数组？](https://segmentfault.com/q/1010000045118915)|
-||[前端表格自适应列宽算法不能使表格扩充到容器大小该怎么办？](https://segmentfault.com/q/1010000045118665)|
-||[vscode js html 等等 不报红了？](https://segmentfault.com/q/1010000045118445)|
-|[机器之心](https://www.jiqizhixin.com/rss)|[第二届「简约与学习会议 CPAL 」将在斯坦福大学举办，征稿进行中](https://www.jiqizhixin.com/articles/2024-07-31-2)|
-||[帮忙推车、陪你购物，波士顿动力的劲敌又整新活儿了](https://www.jiqizhixin.com/articles/2024-07-31)|
-|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774245)|
-||[彩漫时代中的逆流坚持——盘点那些被时代遗弃的精品黑白漫画杂志](https://daily.zhihu.com/story/9774215)|
-||[高中数学一对一 1200 一小时和 300 一小时的课程有什么区别？](https://daily.zhihu.com/story/9774224)|
-||[如果说人脑没有开发完全，会不会是因为我们的能量摄入方式不足以支撑人脑完全运做作时需要的能量呢？](https://daily.zhihu.com/story/9774235)|
-||[有哪些地理上的事实，没有一定地理知识的人不会相信？](https://daily.zhihu.com/story/9774228)|
-|[36氪](http://36kr.com/feed)|[完成数亿元B2轮融资，「深蓝航天」星云-1号可回收火箭年底将首飞入轨 硬氪独家](https://36kr.com/p/2884822725991298?f=rss)|
-||[天际线变革：塑造下一代城市空中交通｜OpenTalk 回顾](https://36kr.com/p/2884481241832067?f=rss)|
-||[8点1氪｜“与辉同行”独立后5天销售额超1亿元；国行iPhone暂时无法使用苹果AI；牛肉价格跌破“2”字头](https://36kr.com/p/2885421059529607?f=rss)|
-|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[网号、网证，难道是网民的良民证？全面解读网号网证：保护隐私还是监控手段？](https://lukefan.com/2024/07/31/%e7%bd%91%e5%8f%b7%e3%80%81%e7%bd%91%e8%af%81%ef%bc%8c%e9%9a%be%e9%81%93%e6%98%af%e7%bd%91%e6%b0%91%e7%9a%84%e8%89%af%e6%b0%91%e8%af%81%ef%bc%9f%e5%85%a8%e9%9d%a2%e8%a7%a3%e8%af%bb%e7%bd%91%e5%8f%b7/)|
-||[华谊兄弟，贱卖冯小刚的公司给阿里影业，从辉煌到跌落：解密华谊兄弟变卖资产背后的故事](https://lukefan.com/2024/07/31/%e5%8d%8e%e8%b0%8a%e5%85%84%e5%bc%9f%ef%bc%8c%e8%b4%b1%e5%8d%96%e5%86%af%e5%b0%8f%e5%88%9a%e7%9a%84%e5%85%ac%e5%8f%b8%e7%bb%99%e9%98%bf%e9%87%8c%e5%bd%b1%e4%b8%9a%ef%bc%8c%e4%bb%8e%e8%be%89%e7%85%8c/)|
+|[少数派](https://sspai.com/feed)|[派早报：Noting Phone 2a Plus 发布、高通推出第二代骁龙 4s 平台等](https://sspai.com/post/91061)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[解析Temu广州总部围攻事件：以罚代管引争议，拼多多全球扩张面临考验?](https://lukefan.com/2024/08/01/%e8%a7%a3%e6%9e%90temu%e5%b9%bf%e5%b7%9e%e6%80%bb%e9%83%a8%e5%9b%b4%e6%94%bb%e4%ba%8b%e4%bb%b6%ef%bc%9a%e4%bb%a5%e7%bd%9a%e4%bb%a3%e7%ae%a1%e5%bc%95%e4%ba%89%e8%ae%ae%ef%bc%8c%e6%8b%bc%e5%a4%9a/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 我 30 多岁，已经被后生们叫老古董了](https://www.v2ex.com/t/1061637#reply14)|
+||[ 问与答 老哥们 这次郑州取消限价了，房子能上车了吗？](https://www.v2ex.com/t/1061633#reply26)|
+||[ 程序员 一个月的时间，我们对开源的在线代码编辑器完成了一次大重构 🤗🤗🤗](https://www.v2ex.com/t/1061630#reply11)|
+||[ 问与答 一人一句, 你有什么特殊的奇技淫巧, 对生活或工作有帮助的](https://www.v2ex.com/t/1061627#reply15)|
+||[ 随想 16 小时断食法坚持了一个月……](https://www.v2ex.com/t/1061624#reply56)|
+||[ 职场话题 过来人，有什么要给《软件工程》专业的大一新生的建议](https://www.v2ex.com/t/1061621#reply19)|
+||[ 硬件 XDM，推荐张显卡，轻度游戏](https://www.v2ex.com/t/1061617#reply24)|
+|[IT之家](https://www.ithome.com/rss/)|[骨伽推出 SC140 系列无限镜灯效风扇：支持无缝菊花链串接，含反叶版本](https://www.ithome.com/0/785/510.htm)|
+||[奥迪 A6 e-tron 纯电车型正式发布：支持 800 伏快充，续航最高达 750 公里](https://www.ithome.com/0/785/509.htm)|
+||[2025 款比亚迪海鸥纯电汽车上市：轴距 2500 mm，6.98~8.58 万元](https://www.ithome.com/0/785/507.htm)|
+||[新哪吒 X 车型 8 月 3 日上市，45 万公里最长里程哪吒 U 首拆](https://www.ithome.com/0/785/506.htm)|
+||[10 月 31 日发行，《暗影诅咒：地狱 复刻版》上架 Steam：三上真司和须田刚一联合打造](https://www.ithome.com/0/785/505.htm)|
+||[韩国电动汽车累计注册登记量破 60 万，每 3 辆中有 2 辆来自现代、起亚](https://www.ithome.com/0/785/504.htm)|
+||[世界海拔最高风储一体化项目在西藏那曲开工，平均海拔 5000 米](https://www.ithome.com/0/785/503.htm)|
+||[达美航空 CEO 怒斥 CrowdStrike：“微软蓝屏”导致我司损失 5 亿美元，将索赔](https://www.ithome.com/0/785/502.htm)|
+||[消息指 SK 海力士加速 NAND 研发，400+ 层闪存明年末量产就绪](https://www.ithome.com/0/785/501.htm)|
+||[苹果 iPhone 16 Pro 机模曝光：展示 3 种颜色，侧面配拍照按钮](https://www.ithome.com/0/785/500.htm)|
+||[曜越推出钢影 透S240 M-ATX 机箱：延续无立柱 270° 全景透视家族设计，139 元](https://www.ithome.com/0/785/498.htm)|
+||[三星电子最大工会继续罢工，消息称劳资双方薪资谈判再次失败](https://www.ithome.com/0/785/497.htm)|
+||[现售 9.99 万元起，长安马自达 CX-30 限时官降 3.2 万元](https://www.ithome.com/0/785/496.htm)|
+||[小米 8.42 亿元北京拿地确认为智能制造产业基地项目二期，实现“拿地即开工”](https://www.ithome.com/0/785/495.htm)|
+||[一加 Buds Pro 3 耳机曝光：2 种颜色、IP55 防水、满电续航 43 小时、支持 Dynaudio EQ](https://www.ithome.com/0/785/494.htm)|
+||[国服《魔兽世界》正式服现已提前开服，出现登录困难玩家吐槽一片](https://www.ithome.com/0/785/493.htm)|
+||[改款特斯拉 Model Y 谍照曝光：尾部采用贯穿式灯带](https://www.ithome.com/0/785/492.htm)|
+||[罗技 CEO：考虑推出“永久鼠标”，探索订阅模式](https://www.ithome.com/0/785/491.htm)|
+||[美国监管机构：亚马逊应对在其平台销售的有缺陷商品负责](https://www.ithome.com/0/785/490.htm)|
+||[科技昨夜今晨 0801：苹果 iPhone 16 机模新照曝光；蔚来、小鹏、吉利等车企高管公开反对销量周榜；铁路 12306 上线“定点巴士”服务](https://www.ithome.com/0/785/489.htm)|
+||[特斯拉解锁新成就：全球第 1000 万个电驱系统在中国上海超级工厂下线](https://www.ithome.com/0/785/488.htm)|
+||[大疆 Neo 4K 无人机曝光：仅重 135 克，拥有螺旋桨护罩](https://www.ithome.com/0/785/487.htm)|
+||[根据词语使用模式进行判断，日立开发可识别文章是否由 AI 创作的技术](https://www.ithome.com/0/785/486.htm)|
+||[《鱿鱼游戏》第二季将于 12 月 26 日上线 Netflix，明年迎来最终季](https://www.ithome.com/0/785/485.htm)|
+||[仙剑衍生游戏《仙剑客栈 2》现已登陆 Xbox / PS4 / PS5 主机平台](https://www.ithome.com/0/785/484.htm)|
