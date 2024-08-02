@@ -10,7 +10,7 @@ def getRss():
     cur = conn.cursor()
 
     query_sql = '''
-    select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 500) order by random() limit 100
+    select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 500) order by random() limit 200
     '''
 
     cur.execute(query_sql)
