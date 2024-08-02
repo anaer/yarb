@@ -2,6 +2,11 @@
 
 |来源|标题|
 |---|---|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[发现一个小众宝藏网站，太有意思了，停不下来，感觉要长脑子了，哈哈 https://www.wiseal.cn/detail/zh/EVENTS/%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%...](https://m.okjike.com/originalPosts/66ac2511e178e0e7db74422f)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[试戴Apple Vision Pro，老花眼+渐变镜，我直接把苹果店的服务小哥给整不会了？](https://lukefan.com/2024/08/02/%e8%af%95%e6%88%b4apple-vision-pro%ef%bc%8c%e8%80%81%e8%8a%b1%e7%9c%bc%e6%b8%90%e5%8f%98%e9%95%9c%ef%bc%8c%e6%88%91%e7%9b%b4%e6%8e%a5%e6%8a%8a%e8%8b%b9%e6%9e%9c%e5%ba%97%e7%9a%84%e6%9c%8d%e5%8a%a1/)|
+|[TecHug](http://www.techug.com/feed)|[【外评】Why Not Rust?](https://www.techug.com/post/why-not-rust/)|
+||[“不可变”发行版Vanilla OS 2发布稳定版：彻底重写、改变使用Linux的方式](https://www.techug.com/post/vanilla-os-2-an-immutable-distribution-releases-a-stable-version-completely-rewriting-and-ff9e4f/)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 推出三項全新 Chrome AI 功能 讓搜尋與購物更簡單](https://applefans.today/2024-08-chrome-ai-features/)|
 |[少数派](https://sspai.com/feed)|[派早报：Google 发布三款开放式 AI 模型、Ampere 推出 AmpereOne Aurora 处理器](https://sspai.com/post/91093)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 恕我直言，目前就没有免费开源同时支持 ssh 和 sftp 的 Windows 软件！](https://www.v2ex.com/t/1061893#reply18)|
 ||[ 南京 南京不愧为”四大火炉“之一](https://www.v2ex.com/t/1061891#reply13)|
