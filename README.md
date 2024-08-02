@@ -2,6 +2,59 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[降价5万，比亚迪急了？](https://36kr.com/p/2887384487304064)|
+||[AI手机，苹果摸着安卓过河？](https://36kr.com/p/2887502198299265)|
+||[这届打工人，不爱薅瑞幸9块9的羊毛了？](https://36kr.com/p/2887045480504711)|
+||[新势力又要摸着马斯克过河了](https://36kr.com/p/2887446142245767)|
+||[8点1氪丨王楚钦球拍被踩事件正在调查；佳能苏州回应裁员赔n+12或2n+12；新东方回应给董宇辉补偿金](https://36kr.com/p/2888281571515265)|
+||[雷军的抖音评论区，堪称当代网友最大发癫现场](https://36kr.com/p/2887040910203526)|
+|[精品MAC应用分享](https://xclient.info/feed)|[Smaart 8.0.3.2 专业的音频系统控制软件](https://xclient.info/s/smaart.html)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Yaelokre OC Maker](https://w2solo.com/topics/4875)|
+||[程序员自由创业周记 #39：做了一场 13 个月的梦](https://w2solo.com/topics/4874)|
+||[给 Product Hunt 用户开发了高效率插件， 10 秒了解产品和写打榜评论👏👏👏👏👏](https://w2solo.com/topics/4873)|
+||[独立开发日记：一个删除交互的思考和设计](https://w2solo.com/topics/4872)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 巴黎奥运会网球女子单打半决赛，郑钦文战胜波兰选手斯瓦泰克进入决赛创造历史，如何评价这场比赛？](https://www.zhihu.com/question/663177474)|
+||[家长若表现开明，为什么小孩更乐意认错呢？](https://www.zhihu.com/question/662735171)|
+||[如何看待周鸿祎表示「用户可以多家大模型自选，哪家最强选哪家」，大模型开源的作用到底有多大？](https://www.zhihu.com/question/663236114)|
+||[武松打虎是英雄行为吗，他不是为了自保吗？](https://www.zhihu.com/question/30220028)|
+||[天津一辅警隐瞒精神疾病杀妻获死缓，检方决定不抗诉，如何从法律角度解读？](https://www.zhihu.com/question/663150551)|
+||[为什么武松明知山上有虎，却还要上山呢？](https://www.zhihu.com/question/640554427)|
+||[苹果第三财季 iPhone 收入下滑，大中华区为唯一同比下跌地区，什么原因？暴露出苹果当前哪些问题？](https://www.zhihu.com/question/663233578)|
+||[2024 巴黎奥运会乒乓球女子单打 1/4 决赛，孙颖莎 4 ：0 横扫郑怡静，如何评价这场比赛？](https://www.zhihu.com/question/663178075)|
+||[巴黎奥运会乒乓球 1/4 决赛，樊振东 4-3 张本智和，你如何评价这场比赛？](https://www.zhihu.com/question/663207144)|
+||[2024 年巴黎奥运会男子乒乓球四强赛樊振东以 4:3 战胜张本智和，如何评价本场比赛？](https://www.zhihu.com/question/663206869)|
+||[如何理解近期中文互联网上频繁出现的「松弛感」一词？](https://www.zhihu.com/question/662724630)|
+||[如何看待 2024 年 8 月 2 日 A 股市场行情？](https://www.zhihu.com/question/663143490)|
+||[如何评价 2024 巴黎奥运会中，美国队银铜牌数量较多，金牌数量较少?](https://www.zhihu.com/question/663022429)|
+||[武汉市江岸区出现地质塌陷，进出汉口火车站列车受到影响，塌陷原因可能是什么？目前情况如何？](https://www.zhihu.com/question/663188946)|
+||[如何评价巴黎奥运会李诗沣 0 比 2 负于骆建佑?](https://www.zhihu.com/question/663202566)|
+||[理想汽车 7 月交付 5.1 万辆创新高，赛力斯销量 4.22 万辆，小米汽车交付超一万台，如何评价各家表现？](https://www.zhihu.com/question/663188657)|
+||[低成本创业，将日本居酒屋的烧鸟以中国烧烤摊的形式摆个小摊创业真的可行吗？](https://www.zhihu.com/question/533966610)|
+||[如何看待比亚迪 7 月份销量 342383 辆？](https://www.zhihu.com/question/663201010)|
+||[巴黎奥运会乒乓球女子单打 1/4 决赛，中国选手陈梦晋级，再现 11-0，如何评价这场比赛？](https://www.zhihu.com/question/663170060)|
+||[贵州一地烟草局招客户经理限体育相关专业，称「过程完全合规 」，该烟草局为何要招聘体育相关专业的员工？](https://www.zhihu.com/question/663173759)|
+||[张本智和表示发挥 100% 还是赢不了樊振东，希望团体赛「复仇」中国队，如何看待他的这番话？](https://www.zhihu.com/question/663209873)|
+||[为什么几乎所有的商家都把 PDF 转换成 WORD 的功能都做成了付费实现，这在技术实现上有很大的难度吗？](https://www.zhihu.com/question/462704654)|
+||[巴黎奥运会女子 200 米蝶泳决赛，张雨霏带病摘铜牌，哭诉右半边身体是麻的，如何评价这场比赛？](https://www.zhihu.com/question/663210491)|
+||[樊振东和张本智和这场男单比赛为什么打得这么艰难？樊振东状态怎么了？](https://www.zhihu.com/question/663207410)|
+||[网传苏州佳能「裁员赔偿 N+12 或 2N+12 」，官网回应「不是在裁员是再就业 」，此举有何影响？](https://www.zhihu.com/question/663175906)|
+||[为什么巴黎奥运会上中国队在乒乓球、体操等传统优势项目发挥不佳，网球等非优势项目却发挥不错？](https://www.zhihu.com/question/663200414)|
+||[土耳其选手未戴任何专业装备，单手插兜射击摘银，网友疑惑「是派了个职业杀手来吗」，有哪些关于他的故事？](https://www.zhihu.com/question/663173940)|
+||[樊振东 0-2 落后选择更换球衣，随后找回状态完成大逆转，更换球衣从战术和心理层面有多大影响？](https://www.zhihu.com/question/663207247)|
+||[如何评价刘涛这名演员？](https://www.zhihu.com/question/31194986)|
+||[2024 巴黎奥运会乒乓球男子单打 1/4 决赛，樊振东 4:3 战胜张本智和，如何评价这场比赛？](https://www.zhihu.com/question/663178094)|
+|[极客公园](http://feeds.geekpark.net/)|[OpenAI 的 Q*没见过，一众创业公司的 Q*来了](http://www.geekpark.net/news/338842)|
+||[Meta 大涨 840 亿美元，小扎逆袭全靠「省」](http://www.geekpark.net/news/338827)|
+||[马斯克：比亚迪不「换道」会有麻烦；英特尔大裁员 1.5 万人；高质量文本数据只够 AI 用 4 年](http://www.geekpark.net/news/338823)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[XCon2024议题 挖掘Windows系统组件中的认证前远程代码执行漏洞](https://www.4hou.com/posts/332M)|
+||[ISC.AI 2024顾瑾栩：以科技创新为引擎，打造中国数字经济“北京样板”](https://www.4hou.com/posts/42R1)|
+||[业内首款！“星火”电子数据智能取证分析平台重磅发布](https://www.4hou.com/posts/2XvK)|
+||[ISC.AI 2024召开 360殷宇辉：360数智为客户提供一站式AIGC落地方案](https://www.4hou.com/posts/1MrR)|
+||[ISC.AI 2024人工智能峰会：解锁明星场景，助推AI普惠](https://www.4hou.com/posts/ZgVJ)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/90930)|
+||[铝型材 DIY 实录：做一个和桌面更搭的电脑支架](https://sspai.com/post/90884)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[拜登又要出芯片新规！六家中国头部厂商遭禁，新增 120 家实体，美国的盟友先拍桌子了！](https://www.infoq.cn/article/j3IFYoevydyrhI1hDOay)|
+||[创意落地、研发提效，游戏行业如何加速产品迭代创新？ TAPD 思享汇](https://www.infoq.cn/article/HIkrzcPbPCvT3ZZkhMp1)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Apple Intelligence能不能提升iPhone 16销量？库克：现在不好说](https://m.cnbeta.com.tw/view/1440716.htm)|
 ||[新东方发声明称支付给董宇辉的款项不是离职补偿金](https://m.cnbeta.com.tw/view/1440713.htm)|
 ||[全球第四大汽车集团开始裁员 辞退超1200个工程师](https://m.cnbeta.com.tw/view/1440712.htm)|
