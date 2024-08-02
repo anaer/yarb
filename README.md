@@ -2,6 +2,64 @@
 
 |来源|标题|
 |---|---|
+|[鸟窝](https://colobu.com/atom.xml)|[Russ Cox 引退以及他的新项目 Oscar](https://colobu.com/2024/08/02/Russ-Cox-and-his-Oscar/)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[KubeAdmiral v1.0.0 发布！](https://www.infoq.cn/article/LKV6kOvE9wSdjdSZGTlT)|
+||[中国数据库前世今生第4集：2010年代/大数据席卷市场](https://www.infoq.cn/article/AQjXeeWZaMw0rxd7y1SE)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[苹果广告在泰国遭炮轰 称该广告让泰国看起来过时又破旧](https://m.cnbeta.com.tw/view/1440747.htm)|
+||[超大遥控车到手变迷你 微信严打视频号带货虚假宣传](https://m.cnbeta.com.tw/view/1440746.htm)|
+||[奥迪上汽联合开发车型将采用全新车标 放弃四个圈](https://m.cnbeta.com.tw/view/1440744.htm)|
+||[特斯拉中国二次申报保险经纪公司](https://m.cnbeta.com.tw/view/1440739.htm)|
+||[明年家长将可限制孩子在上课时间使用Android手机、平板电脑](https://m.cnbeta.com.tw/view/1440738.htm)|
+||[马斯克豪言：总有一天特斯拉将每秒可制造一套电驱系统](https://m.cnbeta.com.tw/view/1440737.htm)|
+||[中国商品条码消费品突破2亿种](https://m.cnbeta.com.tw/view/1440736.htm)|
+||[汽车供应商成批破产 德国造电车的路快被堵死了](https://m.cnbeta.com.tw/view/1440735.htm)|
+||[福建男子得热射病成植物人住进ICU 医生：热射病死亡率很高](https://m.cnbeta.com.tw/view/1440734.htm)|
+||[“坐地鸭”DNS攻击让黑客劫持了超过35000个域名](https://m.cnbeta.com.tw/view/1440733.htm)|
+||[Google发布面向更多国家和语言青少年的Gemini AI版本](https://m.cnbeta.com.tw/view/1440732.htm)|
+||[微软老员工分享 Windows NT、3.1 和 95 蓝屏死机 BSOD 的起源故事](https://m.cnbeta.com.tw/view/1440731.htm)|
+||[英特尔"流星湖 "CPU面临良品率问题 公司被迫实施"热批量"生产以满足需求](https://m.cnbeta.com.tw/view/1440730.htm)|
+||[美参议员跨党推出《与台湾同在法案》 以全面经济制裁对台行为](https://m.cnbeta.com.tw/view/1440727.htm)|
+||[成都街头两新能源车起火 目击者：赛力斯起火后引燃蔚来](https://m.cnbeta.com.tw/view/1440725.htm)|
+||[3.58亿，俞敏洪能买个清净吗？](https://m.cnbeta.com.tw/view/1440723.htm)|
+||[Nature：Google AI研究引用量登全球榜首 中国企业腾讯、阿里、华为前十](https://m.cnbeta.com.tw/view/1440722.htm)|
+||[新型Android恶意软件BingoMod曝光 可窃取资金并重置用户设备](https://m.cnbeta.com.tw/view/1440720.htm)|
+||[iPhone量价双杀，苹果还能在中国重回王座吗？](https://m.cnbeta.com.tw/view/1440719.htm)|
+||[苹果威胁拒绝更新微信、抖音，发生了什么？](https://m.cnbeta.com.tw/view/1440718.htm)|
+||[京东推出手机“法国30天盗抢保” 看奥运被盗抢可赔新机](https://m.cnbeta.com.tw/view/1440717.htm)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[降息曙光下，恒生医药尚能饭否？](http://xueqiu.com/9391624441/299660378)|
+||[巴菲特减持苹果后，近期又减持第二大持仓股美国银行，透露了什么信号](http://xueqiu.com/7815672011/299620638)|
+||[Temu pdd 海外用户的一点想法](http://xueqiu.com/1550577718/299674699)|
+||[再谈投资美债与中债的不同](http://xueqiu.com/2356382715/299652769)|
+|[反斗限免](http://free.apprcn.com/feed/)|[PDF Eraser Pro – PDF 文档擦除软件 Windows $29.95→0 ](https://free.apprcn.com/pdf-eraser-pro-9/)|
+||[Rogue Hearts - 侠盗的心 iOS、Android 美区 $0.99→0 ](https://free.apprcn.com/rogue-hearts-12/)|
+||[免费获取 Vapor Dimension Windows、macOS $39→0 ](https://free.apprcn.com/get-vapor-dimension-for-free-2/)|
+|[KAIX.IN](https://kaix.in/feed/)|[装外宾](https://kaix.in/2024/0802-foreigner-perspective/)|
+|[蓝点网](https://www.landiannews.com/feed)|[代码托管平台GitHub推出模型托管服务 让开发者可以免费查找和测试AI模型](https://www.landiannews.com/archives/105227.html)|
+||[多因素验证器Authy桌面版即日起终止服务 现有用户被强制登出并显示警告](https://www.landiannews.com/archives/105236.html)|
+||[英特尔宣布该公司史上最大规模的裁员：到年底裁员1.7万人 研发部门也被裁员](https://www.landiannews.com/archives/105237.html)|
+||[英特尔就通孔氧化问题发布声明：问题已解决、但部分库存品可能还存在问题](https://www.landiannews.com/archives/105233.html)|
+||[英特尔宣布为所有第13/14代盒装处理器延保两年以解决崩溃和不稳定问题](https://www.landiannews.com/archives/105231.html)|
+|[少数派](https://sspai.com/feed)|[七夕送礼不抓狂，这是派商店为你准备的送礼清单](https://sspai.com/post/91092)|
+||[「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[全员离开老东家，Stable Diffusion一作带团创业，出手即击败MJ v6、SD3，还开源](https://www.jiqizhixin.com/articles/2024-08-02-7)|
+||[「两全其美」，从头设计分子，深度学习架构S4用于化学语言建模](https://www.jiqizhixin.com/articles/2024-08-02-6)|
+||[谷歌终于赢了OpenAI一回：实验版本Gemini 1.5 Pro超越GPT-4o](https://www.jiqizhixin.com/articles/2024-08-02-5)|
+||[ACL 2024，机器之心邀您一起吃顿饭](https://www.jiqizhixin.com/articles/2024-08-02-4)|
+||[苹果让大模型学会偷懒：更快吐出第一个token，准确度还保住了](https://www.jiqizhixin.com/articles/2024-08-02-3)|
+||[OpenDevin出技术报告了，大模型Agent开发者必读](https://www.jiqizhixin.com/articles/2024-08-02-2)|
+||[阿里国际将推出全球首个AI驱动的B2B搜索引擎](https://www.jiqizhixin.com/articles/2024-08-02)|
+|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[急需 132 个上海人，抓一只鸡](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456899&idx=2&sn=3a7ae6b7991958d0f884ef5b60a502ba)|
+||[你一单，我一单，今天早早就下班](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456899&idx=1&sn=1826d31d9f93495c9f373b3a98c53bd8)|
+|[摄影世界](https://feedx.net/rss/photoworld.xml)|[焕新 “视” 界，精彩不断｜第二十五届上海国际摄影器材和数码影像展览会开幕在即](https://www.photoworld.com.cn/post/177285)|
+|[爱范儿](https://www.ifanr.com/feed)|[戴森进军降噪耳机，我们去英国探访了它背后的故事](https://www.ifanr.com/1591417?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果教你五個如何用 iPhone 提高 Mac 工作效率 的方法](https://applefans.today/2024-08-five-tips-use-iphone-productive-mac/)|
+||[結帳只要刷一次就可以！LINE Pay 綁定「發票載具」完整攻略](https://applefans.today/2024-08-line-pay-einvoice/)|
+||[想要減少藍光對視力危害嗎？一起試試 imos 低藍光玻璃保護貼](https://applefans.today/2024-07-imos-low-blue-light-iphone-screen-protector/)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[有网友巴黎奥运会赛前发文「中国游泳主要问题是有氧能力被废了」从运动训练角度看，他说的有道理吗？](http://www.zhihu.com/question/663056543/answer/3580660212?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[传统服饰中有哪些特别的设计，在如今看来依旧非常潮？](http://www.zhihu.com/question/661141249/answer/3581858204?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[2024 年巴黎奥运会各国代表团都穿什么牌子的入场服？你觉得哪个代表团的服装最好看？](http://www.zhihu.com/question/662656626/answer/3574664561?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[如果第一届奥运会的选手穿越到今天，会对会场上哪些科技感到震撼？](http://www.zhihu.com/question/473879903/answer/2040789664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[患「僵人综合征」的席琳·迪翁再次亮相奥运会开幕式，如何评价她的表演？这种疾病可以被治愈吗？](http://www.zhihu.com/question/662618179/answer/3574137389?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[阮一峰的网络日志](http://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)|
 |[开源中国-最新资讯](https://rsshub.app/oschina/news)|[月之暗面发布 Kimi 企业级 API](https://www.oschina.net/news/305024)|
 ||[Altman：下个 OpenAI 模型将首先接受美国政府的安全检查](https://www.oschina.net/news/304998/sam-altman-openai-model-us-government)|
