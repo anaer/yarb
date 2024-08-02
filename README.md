@@ -2,6 +2,65 @@
 
 |来源|标题|
 |---|---|
+|[阮一峰的网络日志](http://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[月之暗面发布 Kimi 企业级 API](https://www.oschina.net/news/305024)|
+||[Altman：下个 OpenAI 模型将首先接受美国政府的安全检查](https://www.oschina.net/news/304998/sam-altman-openai-model-us-government)|
+||[Visual Studio Code 1.92 发布](https://www.oschina.net/news/304989/vs-code-1-92-released)|
+||[Go 团队技术负责人 Russ Cox rsc 宣布卸任](https://www.oschina.net/news/304986/go-leader-rsc-retirement)|
+||[言图科技成立 FourthDimension SIG，为 openKylin 构建本地知识库发力](https://www.oschina.net/news/304974)|
+|[爱范儿](https://www.ifanr.com/feed)|[AMD 用 AI 给游戏插帧，集成显卡也支持！](https://www.ifanr.com/1594518?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何解决使用docx-preview插件渲染docx文件时的'Can't find end of central directory'错误？](https://segmentfault.com/q/1010000045128010)|
+||[为什么 C# NPOI 填充背景色时仅前几行成功？](https://segmentfault.com/q/1010000045127587)|
+||[Vue3 + Vite2 打包后在 Chrome 49 下栈溢出问题如何解决？](https://segmentfault.com/q/1010000045127366)|
+||[如何通过修改代码查看网站隐藏的电话号码？](https://segmentfault.com/q/1010000045127319)|
+||[electron-vue中在渲染端怎么访问项目中的静态资源？](https://segmentfault.com/q/1010000045127242)|
+||[比如开发一个比如游戏手柄的硬件，应该是插入macbook里面的哪个接口呢？](https://segmentfault.com/q/1010000045127055)|
+||[java如何判断第三方的一个url会触发下载文件地址？](https://segmentfault.com/q/1010000045126625)|
+||[如何在微信小程序中解析蓝牙广播包的Header和Flags信息？](https://segmentfault.com/q/1010000045125898)|
+||[Kettle version:5.4.0-130 报错，这是什么原因？](https://segmentfault.com/q/1010000045125719)|
+||[想要进行硬件开发，比如有多个旋转按钮的实体硬件，需要学习哪些知识呢？](https://segmentfault.com/q/1010000045125635)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[🔁 #今天又看了啥 #security #Windows 搜狗输入法0day，绕过锁屏有手就行 搜狗输入法可绕过Window10锁屏，该方法目前仍然有效，且Win11复现成功，有些输入法存...](https://t.me/liyuans/46967)|
+|[IT之家](https://www.ithome.com/rss/)|[小红书 11 周年信承认大公司病：官架子大、决策拖沓，需要重新出发](https://www.ithome.com/0/785/878.htm)|
+||[技嘉 RTX 4070 Ti SUPER AI TOP 涡轮风扇显卡上市，7399 元](https://www.ithome.com/0/785/877.htm)|
+||[中国电信拟采购 RISC-V 服务器：4 台云服务器、3 台边缘服务器](https://www.ithome.com/0/785/875.htm)|
+||[八根全向天线 + 三频连接，诺基亚推出“FastMile 5G Gateway 12”Wi-Fi 7 网关](https://www.ithome.com/0/785/874.htm)|
+||[上班 high 起来：QQ 音乐年卡 68 元 + WPS 超级会员年卡 60 元官方购](https://www.ithome.com/0/785/873.htm)|
+||[1.18 亿元成交，B站想要的甬易支付牌照已被卖给其他公司](https://www.ithome.com/0/785/864.htm)|
+||[消息称奥迪“中国特供”电动汽车不使用“四环”logo，首款概念车 11 月亮相](https://www.ithome.com/0/785/863.htm)|
+||[阿维塔汽车 7 月交付 3625 台，同比增长 103%](https://www.ithome.com/0/785/862.htm)|
+||[2024 年上半年全国消协受理消费者投诉 78.28 万件、同比增长 27.21%，投诉解决率 71.97%](https://www.ithome.com/0/785/861.htm)|
+||[淘宝内测售后协商工具：提高与消费者的沟通效率，有效降低退款率](https://www.ithome.com/0/785/865.htm)|
+||[25.98 万元，创维 EV6 II“闪耀版”纯电 SUV 上市：CLTC 续航 520 公里、旋钮式换挡](https://www.ithome.com/0/785/859.htm)|
+||[全球最小酷睿 Ultra 主板，研扬推出 PICO-MTU4 单板计算机](https://www.ithome.com/0/785/858.htm)|
+||[开门还得先看广告？上海多部门对门禁 App“亲邻”展开约谈](https://www.ithome.com/0/785/857.htm)|
+||[浙江：未经消费者同意或请求，不得以短信或电话形式向其进行金融类营销](https://www.ithome.com/0/785/856.htm)|
+||[广汽传祺 8 月最新购车权益公布：涵盖 M8 / M6 / GS3 / 影豹等车型](https://www.ithome.com/0/785/855.htm)|
+||[Windows 蓝屏最早是谁写的？微软工程师 Raymond Chen 揭秘](https://www.ithome.com/0/785/854.htm)|
+||[消息称三星 One UI 7 新增大文件夹、多项动画，更改后台、相机界面](https://www.ithome.com/0/785/852.htm)|
+||[2K 170Hz Fast IPS，优派“VS20050”27 英寸显示器 749 元首销](https://www.ithome.com/0/785/851.htm)|
+||[“全球首个双铰链内外三折叠”，消息称某厂神秘新机已开始排产](https://www.ithome.com/0/785/850.htm)|
+||[长城灵魂摩托公布“黑金共创款”车型，预计 10 月交付](https://www.ithome.com/0/785/849.htm)|
+||[画质提升 + 新增线上对战特性：经典 PS1 游戏《多卡邦！怒之铁剑》登 Switch 售 4620 日元](https://www.ithome.com/0/785/846.htm)|
+||[任天堂 2025 财年第一财季销售净额 2466.4 亿日元，同比大跌 46.5%](https://www.ithome.com/0/785/845.htm)|
+||[华为智慧助手 14.1.10.200 众测：支持同步航旅纵横的航班行程](https://www.ithome.com/0/785/844.htm)|
+||[铁路辙叉里程碑：我国第一组纯净钢辙叉正式下线，寿命提升 1.7 倍](https://www.ithome.com/0/785/843.htm)|
+||[1399 元起，荣耀 X60i 手机今日开售：7.18mm 厚 + 172g 重](https://www.ithome.com/0/785/841.htm)|
+||[2.38 万元起，五菱宏光 MINI EV 限时购车优惠政策延续至 8 月 31 日](https://www.ithome.com/0/785/840.htm)|
+||[阉割“龍鹰一号”芯片，睿蓝 7 汽车“行政创业版”上市售 17.68 万元](https://www.ithome.com/0/785/839.htm)|
+||[阿尔特曼：OpenAI 公司为 AI 安全工作分配至少 20% 计算资源](https://www.ithome.com/0/785/838.htm)|
+||[小天才旗舰 Z10 少年版电话手表发布：全新青春系统、可选柯南联名，2299 元起](https://www.ithome.com/0/785/837.htm)|
+||[标配右侧电动侧滑门，极狐考拉 S 五座布局“亲子型”MPV 车型 8 月 7 日上市](https://www.ithome.com/0/785/836.htm)|
+||[SEMI：2024 年二季度全球硅晶圆出货量结束三连跌，仍同比下滑 8.9%](https://www.ithome.com/0/785/835.htm)|
+||[本田思域 RS 汽车官图发布：专属悬架、6 速手动变速箱等](https://www.ithome.com/0/785/834.htm)|
+||[TechInsights：今年 Q2 全球智能手机出货 2.9 亿部同比反弹 8%，三星、苹果、小米前三](https://www.ithome.com/0/785/832.htm)|
+||[理想汽车七夕限时购车优惠公布：MEGA 赠充电桩、L 系列赠 5000 元选装基金等](https://www.ithome.com/0/785/830.htm)|
+||[最强开源文生图模型一夜易主：SD 原班人马打造，要发 SOTA 视频生成模型](https://www.ithome.com/0/785/829.htm)|
+||[曜越主动式 M.2 2280 固态硬盘散热器 MS-1 上市，149 元](https://www.ithome.com/0/785/828.htm)|
+||[8 月 13 日发布，谷歌 Pixel 9 系列手机新渲染图曝光](https://www.ithome.com/0/785/826.htm)|
+||[Mobileye × 极氪：加快在中国技术本地化，整合到下一代极氪车型](https://www.ithome.com/0/785/825.htm)|
+||[Ubuntu Touch OTA-5 手机系统发布：基于 Ubuntu 20.04，细化电源配置等](https://www.ithome.com/0/785/822.htm)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[EcoPaste – 新鲜的开源剪切板管理工具 Win/macOS ](https://www.appinn.com/ecopaste/)|
+|[不死鸟 - 分享为王官网](https://iao.su/feed)|[2024 年 8 月 每日分享](https://iui.su/188/)|
 |[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[降价5万，比亚迪急了？](https://36kr.com/p/2887384487304064)|
 ||[AI手机，苹果摸着安卓过河？](https://36kr.com/p/2887502198299265)|
 ||[这届打工人，不爱薅瑞幸9块9的羊毛了？](https://36kr.com/p/2887045480504711)|
