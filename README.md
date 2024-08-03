@@ -2,6 +2,11 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[电动车投资过于激进 全球汽车零部件巨头“壮士断腕”](https://m.cnbeta.com.tw/view/1440823.htm)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[今日消费资讯：《穿普拉达的女王》或将有续集、Burberry 推出全新英伦小姐唇膏](http://www.toodaylab.com/82968)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Pro 系列電池容量更大、續航力更強！](https://www.iphonetaiwan.org/2024/08/iphone-16-pro-battery-upgrade.html)|
+||[用大腦控制 Vision Pro：Apple 與 Synchron 打造未來科技](https://www.iphonetaiwan.org/2024/08/brain-controlled-apple-vision-pro.html)|
+||[蘋果 2024 Q3 業績亮眼：AI 來臨前營收 858 億創新高](https://www.iphonetaiwan.org/2024/08/apple-2024-q3-earnings-record-revenue.html)|
 |[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[社区速递 055 你没见过的社区文章、一周最热评、夏日派友翻包](https://sspai.com/post/90990)|
 |[极道](https://www.jdon.com/jivejdon/rss)|[7月下旬10篇Java工程文摘](https://www.jdon.com/74862.html)|
 ||[对ChatGPT灵魂拷问：同理心是一种认知陷阱？](https://www.jdon.com/74861.html)|
