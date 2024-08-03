@@ -2,6 +2,24 @@
 
 |来源|标题|
 |---|---|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[社区速递 055 你没见过的社区文章、一周最热评、夏日派友翻包](https://sspai.com/post/90990)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[7月下旬10篇Java工程文摘](https://www.jdon.com/74862.html)|
+||[对ChatGPT灵魂拷问：同理心是一种认知陷阱？](https://www.jdon.com/74861.html)|
+||[认知：不要记住你不理解的东西](https://www.jdon.com/74860.html)|
+|[IT之家](https://www.ithome.com/rss/)|[2025 款奇瑞星纪元 ES 轿车 8 月 21 日上市，预售 19.99 万元起](https://www.ithome.com/0/786/018.htm)|
+||[这家公司，想把 iPhone 装进一副无线耳机里](https://www.ithome.com/0/786/017.htm)|
+||[英国 AI 雄心受挫，13 亿英镑计算基础设施项目被搁置](https://www.ithome.com/0/786/016.htm)|
+||[谷歌勇攀 AI 新高峰，邀测最强 Gemini 1.5 Pro 模型：Arena 竞技场跑分超 GPT-4o](https://www.ithome.com/0/786/014.htm)|
+||[消息称一加 Ace 5 系列手机年底发售：外观形态升级、旗舰芯 + 超大硅电池](https://www.ithome.com/0/786/012.htm)|
+||[离开V社之后，他做了一款“扮演猫咪”的游戏](https://www.ithome.com/0/786/011.htm)|
+||[第三方授权倒计时，Streamview 悄悄删除官网“诺基亚”贴牌智能电视](https://www.ithome.com/0/786/010.htm)|
+||[报告称 Dynamics 365 等服务被用于监控员工，微软回应：维护员工尊严](https://www.ithome.com/0/786/009.htm)|
+||[泰坦军团“P2710R-PRO”27 英寸显示器首销：2K 180Hz Fast IPS，999 元](https://www.ithome.com/0/786/007.htm)|
+||[5680 元，佳明 Edge 1050 GPS 骑行码表京东首销：3.5 英寸触控彩屏，续航 60 小时](https://www.ithome.com/0/786/006.htm)|
+||[大脑的“保护因子”，Reelin 蛋白质新研究：治疗阿尔茨海默氏症的重要途径](https://www.ithome.com/0/786/005.htm)|
+||[北汽极狐阿尔法 S5 / T5 全系车型限时现金优惠 31888 元，12.38 万元起](https://www.ithome.com/0/786/003.htm)|
+||[Asat 结构、0.3ms 延迟：艾石头 NA87 PRO 侧刻键帽磁轴键盘 8 月 5 日 249 元首销](https://www.ithome.com/0/786/002.htm)|
+||[全球首例，AI “牙医”上岗：15 分钟搞定牙冠准备，耗时是人类牙医的 1/8](https://www.ithome.com/0/786/001.htm)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[闲鱼电脑网页端正式上线：功能界面适配基本完善 但暂不支持下单](https://m.cnbeta.com.tw/view/1440820.htm)|
 ||[Windows 11引入新的恢复系统方式 可使用Windows Update完成重装](https://m.cnbeta.com.tw/view/1440817.htm)|
 ||[微软Windows 11 24H2的新节能模式在插电状态下也可以打开](https://m.cnbeta.com.tw/view/1440816.htm)|
