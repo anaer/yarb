@@ -2,6 +2,83 @@
 
 |来源|标题|
 |---|---|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[在1000userguide 上做了一个整理，挑选了一些权重比较高的提交外链的网站（因为自己要提交外链），大概有20个，非常容易审核过的 https://indie-hackers-guide.p...](https://m.okjike.com/originalPosts/66add58dd20649c1bd24c0f9)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[《超电磁炮》的活动《某科学的超音乐祭》的门票落选了😭。](https://www.wikimoe.com/post/v7cpz5n3)|
+|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[老板明晚八点小红书直播，来提问！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653456921&idx=1&sn=4cfff70829ca9b2e1a8d7a991c2dd309)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[为何设置`display: 'flex', alignItems: 'center'`之后，子标签不能正常的浮动了？](https://segmentfault.com/q/1010000045131009)|
+||[python想要统计单个Go语言文件的类/属性/方法数量，但是为何只统计到1个方法？](https://segmentfault.com/q/1010000045130970)|
+||[16进制0x为什么写成\x？](https://segmentfault.com/q/1010000045130963)|
+||[md加载器推荐，支持即时编辑？](https://segmentfault.com/q/1010000045130876)|
+||[js处理数组?](https://segmentfault.com/q/1010000045130861)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[2024 巴黎奥运会乒乓球男子单打，莫雷加德 4：2 雨果杀进决赛将与樊振东争金，他能最终夺冠吗？](https://www.zhihu.com/question/663268550)|
+||[宝马 i3 将回涨 7 万，此次涨价会给目前的购买者带来哪些影响？](https://www.zhihu.com/question/662343802)|
+||[如果鲁达不买肉，直接质问镇关西为什么强占金翠莲会怎么样？](https://www.zhihu.com/question/662000787)|
+||[2024 巴黎奥运会乒乓球男子单打半决赛，樊振东 4:0 横扫法国选手晋级决赛，你看好他夺冠吗？](https://www.zhihu.com/question/663258907)|
+||[现在学厨师还有前途吗？](https://www.zhihu.com/question/439176319)|
+||[2024 巴黎奥运会羽毛球混合双打，「雅思」组合 2:0 战胜韩国组合夺冠，如何评价这场比赛？](https://www.zhihu.com/question/663273783)|
+||[家里有个白血病病人意味着什么？](https://www.zhihu.com/question/309866116)|
+||[第一次去日本旅游，有什么好的建议与攻略？](https://www.zhihu.com/question/647066949)|
+||[赛后，张本智和发文「现在的我还没有资格成为单打奖牌得主或冠军」，你怎么看？](https://www.zhihu.com/question/663235538)|
+||[大学有没有适合大一新生的门槛低的竞赛？](https://www.zhihu.com/question/504160485)|
+||[阿斯伯格和自闭症谱系障碍是什么关系？二者有什么核心区别？](https://www.zhihu.com/question/661311632)|
+||[如何评价《唐朝诡事录之西行》大结局？](https://www.zhihu.com/question/663278396)|
+||[2024 巴黎奥运会乒乓球女子单打，孙颖莎 4:0 横扫日本选手挺进决赛，如何评价这场比赛？](https://www.zhihu.com/question/663273318)|
+||[雅思组合 2：0 战胜金银组合，夺得巴黎奥运会混双金牌，如何评价本场比赛？](https://www.zhihu.com/question/663289552)|
+||[2024 年新能源汽车价格战，会影响汽车的安全质量与配置吗？](https://www.zhihu.com/question/647146223)|
+||[拜登重申将帮助以色列应对伊朗的威胁，此举将如何影响中东局势？](https://www.zhihu.com/question/663238583)|
+||[有哪些复刻的经典产品是你绝对不能错过的?](https://www.zhihu.com/question/663011490)|
+||[巴奥后莎头混双会拆队吗？](https://www.zhihu.com/question/663121527)|
+||[为什么很多在 PC 端很火的游戏，移植到手机上却没有绽放出相应的光芒？](https://www.zhihu.com/question/663289467)|
+||[魏延为什么会反？](https://www.zhihu.com/question/590757108)|
+||[孙颖莎能成为乒坛史上最快实现大满贯的吗？](https://www.zhihu.com/question/662699146)|
+||[陕西柞水高速桥梁垮塌事件已确认坠河车辆 25 辆、 38 人遇难、 24 人失联，失联人员还有生还可能吗？](https://www.zhihu.com/question/663281732)|
+||[美国英特尔公司宣布将裁撤超 1.5 万个岗位，此举将带来什么影响？大幅裁员的原因是什么？](https://www.zhihu.com/question/663250073)|
+||[石宇奇 0：2 爆冷不敌昆拉武特，无缘奥运会 4 强，国羽失去男单奖牌机会，如何评价这场比赛？](https://www.zhihu.com/question/663295522)|
+||[哈马斯一号、二号、三号人物均已身亡，哈马斯是一个什么样的组织？对巴勒斯坦抵抗运动走向有何影响？](https://www.zhihu.com/question/663238844)|
+||[美国就业数据疲软，美股跳水，英特尔跌近 30%，机构预测美联储 9 月开启降息，如何解读？ 对市场有何影响？](https://www.zhihu.com/question/663288060)|
+||[农村大爷大妈进城帮子女带娃的人最终命运是什么？](https://www.zhihu.com/question/662958533)|
+||[巴黎奥运会 100 米女子蝶泳冠军脸色引争议，红得很不自然，被质疑需要药检，如何看待此事？](https://www.zhihu.com/question/662844861)|
+||[混双决赛颁奖仪式结束后，刘雨辰向黄雅琼求婚「喜上加喜」，如何评价这个浪漫的奥运彩蛋？](https://www.zhihu.com/question/663291084)|
+|[IT之家](https://www.ithome.com/rss/)|[蔚来汽车截至 7 月累计已布局换电站 2458 座，乐道品牌计划年内落成超一千座换电站](https://www.ithome.com/0/786/066.htm)|
+||[极氪 X 车型在新加坡上市：起售价 19.9999 万新元，首家门店八月底开业](https://www.ithome.com/0/786/063.htm)|
+||[工信部公布第八批减免购置税的新能源汽车目录，小米 SU7、极氪 7X / MIX 及比亚迪汉等在列](https://www.ithome.com/0/786/061.htm)|
+||[美的四款 App 适配华为鸿蒙原生系统，简化智能家居操作步骤](https://www.ithome.com/0/786/060.htm)|
+||[八位堂成为《黑神话：悟空》全球官方合作伙伴，联名款手柄 8 月 9 日预售](https://www.ithome.com/0/786/059.htm)|
+||[“空中的士”公司峰飞航空获宁德时代数亿美元独家投资，曾完成跨长江首飞](https://www.ithome.com/0/786/057.htm)|
+||[乘联会崔东树：7 月车市销量同比降幅进一步收窄预估 95 万辆，新能源车渗透率有望达 50%](https://www.ithome.com/0/786/056.htm)|
+||[型月《Fate / hollow ataraxia REMASTERED》官宣，将登陆任天堂 Switch 和 PC 平台](https://www.ithome.com/0/786/055.htm)|
+||[飞智八爪鱼 4《黑神话：悟空》联名款手柄 8 月 16 日发布](https://www.ithome.com/0/786/054.htm)|
+||[2025 款比亚迪海豹座舱公布，新增“沙丁瑚橙”内饰配色](https://www.ithome.com/0/786/053.htm)|
+||[消息称联发科天玑 9400 涨价：vivo X200 系列 10 月首发登场，OPPO Find X8 紧随其后](https://www.ithome.com/0/786/052.htm)|
+||[2023 款比亚迪腾势 N7 推送 1.2 版本 OTA：新增红绿灯倒计时等功能](https://www.ithome.com/0/786/051.htm)|
+||[开发者提醒：谷歌 Chrome 浏览器将结束支持 uBlock Origin 广告拦截器](https://www.ithome.com/0/786/050.htm)|
+||[西山居科幻机甲游戏《解限机》开启“先驱者测试”，Steam 国区可报名参与](https://www.ithome.com/0/786/048.htm)|
+||[型月经典游戏复刻：《Fate/stay night REMASTERED》8 月 8 日登陆任天堂 Switch 及 Steam 平台](https://www.ithome.com/0/786/047.htm)|
+||[零跑汽车 8 月购车权益公布：可叠加 2 万元国家补贴，三电终身质保](https://www.ithome.com/0/786/046.htm)|
+||[微软 Win11 恢复工具初上手：借助 Windows Update 装机](https://www.ithome.com/0/786/045.htm)|
+||[《堡垒之夜》国际服即将汉化，消息称于 8 月 16 日第 5 章第 4 季 V31 游戏版本上线](https://www.ithome.com/0/786/044.htm)|
+||[可协助安卓开发者降低软件风险，谷歌 Android Studio 代码检查功能新增应用安全知识库](https://www.ithome.com/0/786/043.htm)|
+||[初探 Win11 24H2 节能模式：亮度低 30%、阻止大部分后台应用、禁用窗口透明效果](https://www.ithome.com/0/786/042.htm)|
+||[Omdia：2024 年 Q2 全球智能手机出货 2.9 亿台、同比增长 9.3%，三星、苹果、小米前三](https://www.ithome.com/0/786/041.htm)|
+||[马斯克展示 SpaceX 首台 Raptor 3 引擎，暗示已进入量产阶段](https://www.ithome.com/0/786/039.htm)|
+||[日本创企“人机一体”研发人形机器人，可自动保持身体平衡](https://www.ithome.com/0/786/038.htm)|
+||[英特尔发布新声明，否认“通孔氧化问题导致第 13/14 代处理器不稳定”猜测](https://www.ithome.com/0/786/037.htm)|
+||[AI 大语言模型价格战将启？谷歌本月下调 Gemini 1.5 Flash 费用：降幅最高 78.6%](https://www.ithome.com/0/786/036.htm)|
+||[支持选择网页默认浏览器，微软 VS Code 获 1.92 版更新](https://www.ithome.com/0/786/035.htm)|
+||[9 月 24 日发行，THQ 放出《Disney Epic Mickey: Rebrushed》游戏新预告](https://www.ithome.com/0/786/034.htm)|
+||[上汽大众途岳 SUV 限时优惠延续至 8 月 31 日，10.99 万元起](https://www.ithome.com/0/786/033.htm)|
+||[“硬核联盟”：荣光与风险并存的 10 年](https://www.ithome.com/0/786/032.htm)|
+||[新游戏 IP，THQ Nordic 展示《Eternal Life of Goldman》横版动作冒险游戏](https://www.ithome.com/0/786/030.htm)|
+||[THQ 公布赛车竞速游戏《撞车嘉年华 2》：改进物理引擎、支持简体中文、登 PS5 / Xbox / PC](https://www.ithome.com/0/786/029.htm)|
+||[三星 One UI 7 主页面大文件夹特性曝料：最多 3×3 布局，App 可直接点开](https://www.ithome.com/0/786/028.htm)|
+||[鸿蒙智行问界系列车型获 OTA 升级：M9 支持 AR-HUD 观影，M5 / M7 增主驾多坐姿记忆](https://www.ithome.com/0/786/027.htm)|
+||[购买充电宝认准“CCC”标识，移动电源新国标正式强制实施](https://www.ithome.com/0/786/026.htm)|
+||[微软向 Win10 / Win11 推送 KB5001716 更新：当前版本即将 / 已经结束时，尝试下载、安装功能更新](https://www.ithome.com/0/786/025.htm)|
+||[三星更新 Quick Share 应用：分享文件上限翻倍至 10GB](https://www.ithome.com/0/786/024.htm)|
+||[DeepMind 研究成本大起底，一篇 ICML 论文烧掉 1290 万美元](https://www.ithome.com/0/786/023.htm)|
+||[2024Q2 全球平板出货量报告：苹果同比增 18.2%、三星增 18.6%、联想增 16.7%、华为增 40.3%、小米增 94.7%](https://www.ithome.com/0/786/021.htm)|
+||[想让照片更好看，可以多关注画面的“立体感”](https://www.ithome.com/0/786/020.htm)|
+||[Excel 中如何将 1000 个工作簿合并到一个表格](https://www.ithome.com/0/786/019.htm)|
 |[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[字幕截图生成器 https://vtool.pro/subtitle/index.html](https://m.okjike.com/originalPosts/66adb5bf4908bfcb71e6c434)|
 ||[Luvvoice 是一款免费的在线文本转语音 TTS 工具，可将您的文本转换为听起来自然的语音。我们提供各种人工智能语音。只需输入文本，选择语音，然后下载生成的 m...](https://m.okjike.com/originalPosts/66adb5a6a76a0c9d658fc79a)|
 ||[手写体文稿生成器 https://vtool.pro/handwriting/index.html](https://m.okjike.com/originalPosts/66adb54ca0d6d2ffc4247393)|
