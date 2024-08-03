@@ -2,6 +2,24 @@
 
 |来源|标题|
 |---|---|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[字幕截图生成器 https://vtool.pro/subtitle/index.html](https://m.okjike.com/originalPosts/66adb5bf4908bfcb71e6c434)|
+||[Luvvoice 是一款免费的在线文本转语音 TTS 工具，可将您的文本转换为听起来自然的语音。我们提供各种人工智能语音。只需输入文本，选择语音，然后下载生成的 m...](https://m.okjike.com/originalPosts/66adb5a6a76a0c9d658fc79a)|
+||[手写体文稿生成器 https://vtool.pro/handwriting/index.html](https://m.okjike.com/originalPosts/66adb54ca0d6d2ffc4247393)|
+|[少数派](https://sspai.com/feed)|[线下活动·七夕特别版｜就让花草替我表白](https://sspai.com/post/90973)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[js数组处理数据?](https://segmentfault.com/q/1010000045130749)|
+||[js处理数据？](https://segmentfault.com/q/1010000045130352)|
+||[想要超出div界面就进行滑条展示，可以上下拖动滑条展示，请问如何做呢？](https://segmentfault.com/q/1010000045130349)|
+||[怎么实现以下功能的 typescript 类型?](https://segmentfault.com/q/1010000045130329)|
+||[py爬虫绕过猫眼验证码时，无法选择验证码内的元素？](https://segmentfault.com/q/1010000045130008)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[游戏杂志《Game Informer》宣布停刊](https://www.solidot.org/story?sid=78873)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #63：开发 Python Web 项目（摘要）](https://w2solo.com/topics/4878)|
+||[从盈利到开源：精选小报童专栏导航站分享给大家！](https://w2solo.com/topics/4877)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[STF 为个人开源维护者设立奖学金计划](https://www.oschina.net/news/305160/stf-fellowship-for-maintainers)|
+||[DeepSeek 启用硬盘缓存技术，大模型价格再降一个数量级](https://www.oschina.net/news/305153)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[Update to the “can I get enough fragments in time for antiquarian’s accessory” post](https://www.reddit.com/r/IdentityV/comments/1eiwt9p/update_to_the_can_i_get_enough_fragments_in_time/)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[蘋果推出開源 Swift 套件：iOS 18 支援同態加密 保障安全](https://www.iphonetaiwan.org/2024/08/apple-swift-homomorphic-encryption-ios-18.html)|
+||[如果微信和抖音不遵守 App Store 規則會怎樣？](https://www.iphonetaiwan.org/2024/08/apple-wechat-tiktok-final-warning.html)|
+||[蘋果驚喜更新：PC 模擬器應用終於能上架 App Store！](https://www.iphonetaiwan.org/2024/08/apple-app-store-update-pc-emulators.html)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[电动车投资过于激进 全球汽车零部件巨头“壮士断腕”](https://m.cnbeta.com.tw/view/1440823.htm)|
 |[理想生活实验室](http://www.toodaylab.com/feed)|[今日消费资讯：《穿普拉达的女王》或将有续集、Burberry 推出全新英伦小姐唇膏](http://www.toodaylab.com/82968)|
 |[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Pro 系列電池容量更大、續航力更強！](https://www.iphonetaiwan.org/2024/08/iphone-16-pro-battery-upgrade.html)|
