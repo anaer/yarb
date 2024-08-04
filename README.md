@@ -2,6 +2,29 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[洛杉矶基本收入实验公布结果](https://www.solidot.org/story?sid=78879)|
+||[黑客入侵 ISP 发动中间人攻击](https://www.solidot.org/story?sid=78878)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[价格战加剧咖啡市场竞争 星巴克、瑞幸业绩承压待突围](https://36kr.com/p/2889952770873990)|
+||[餐饮价格战，“卷”向大米饭](https://36kr.com/p/2889920427793285)|
+||[徽漂20年，他建了栋合肥最大胆的养老房](https://36kr.com/p/2889666187484034)|
+||[7月新能源销量榜：谤满天下的理想、比亚迪，占了中国新能源汽车半壁江山](https://36kr.com/p/2889198776523649)|
+||[硅谷大模型独角兽打折卖身谷歌！Transformer作者创办，估值179亿，盈利难以预计](https://36kr.com/p/2890055569578630)|
+||[破产重组、高层被辞，汇源果园的焦虑仍未减轻](https://36kr.com/p/2888964416854664)|
+|[蓝点网](https://www.landiannews.com/feed)|[Cloudflare WARP+推荐活动将在11月1日结束 无法再通过刷推荐获得无限流量](https://www.landiannews.com/archives/105248.html)|
+||[密码管理器1Password家庭版免费1年活动再次启动 到期后可以再迁移](https://www.landiannews.com/archives/105235.html)|
+|[IT之家](https://www.ithome.com/rss/)|[合理使用“仰拍”，让自己的照片更有创意](https://www.ithome.com/0/786/131.htm)|
+||[太空漂流 15 年，日本探测器近距离拍摄废弃火箭](https://www.ithome.com/0/786/130.htm)|
+||[用 AI 生成的数据训练 AI，AI 会越来越“傻”](https://www.ithome.com/0/786/129.htm)|
+||[国家计算机病毒应急处理中心通报 15 款违规移动应用](https://www.ithome.com/0/786/127.htm)|
+||[英伟达回应 AI 芯片短缺：Blackwell 样品广泛试用，下半年增加量产](https://www.ithome.com/0/786/126.htm)|
+||[东南亚电商乱斗：TikTok 一年翻 4 倍，Shopee 和 Lazada 前二](https://www.ithome.com/0/786/125.htm)|
+||[不变的 ChinaJoy，越来越清醒的游戏人](https://www.ithome.com/0/786/124.htm)|
+||[限时综合最高优惠 6 万元，长城欧拉推出 8 月购车政策](https://www.ithome.com/0/786/122.htm)|
+||[可展开式太阳能充电盒问世，每天可为电动汽车增加约 50 公里续航](https://www.ithome.com/0/786/120.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[安卓本地app已经无线配对了,下次如何直接连接无线调试服务?](https://segmentfault.com/q/1010000045132599)|
+||[请问，react中页面渲染完成的是哪个生命周期呢？](https://segmentfault.com/q/1010000045132423)|
+||[如何让本地的adb客户端,直接链接其他主机的adb服务器?](https://segmentfault.com/q/1010000045132031)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【译】Raycast 应用程序改变了一切](https://xlrocket.blog/2024/08/04/%e3%80%90%e8%af%91%e3%80%91raycast-%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f%e6%94%b9%e5%8f%98%e4%ba%86%e4%b8%80%e5%88%87/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[AMD Zen3锐龙7 5800XT比想象更强 风冷下65W Eco跑到5GHz](https://m.cnbeta.com.tw/view/1440897.htm)|
 ||[特斯拉超级计算集群命名Cortex：10万颗英伟达芯片训练FSD和机器人](https://m.cnbeta.com.tw/view/1440895.htm)|
 ||[提前祝贺“郑钦文摘银、孙颖莎夺金”？伊利致歉](https://m.cnbeta.com.tw/view/1440894.htm)|
