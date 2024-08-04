@@ -2,6 +2,23 @@
 
 |来源|标题|
 |---|---|
+|[极客公园](http://feeds.geekpark.net/)|[谷歌+始祖鸟，造出世界上第一条动力裤，3万块还卖爆了？](http://www.geekpark.net/news/338883)|
+||[领克上半年增长超50%背后，是基因的二次进化](http://www.geekpark.net/news/338881)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[每周鞋报：Fear of God Athletics 2024 夏季系列发布、Alexander McQueen 推出全新运动鞋](http://www.toodaylab.com/82970)|
+|[IT之家](https://www.ithome.com/rss/)|[长城第二代哈弗 H9 官宣“在路上”，坦克 SUV 同平台兄弟产品](https://www.ithome.com/0/786/147.htm)|
+||[收到来路不明邮件需警惕，安全公司警告黑客架设山寨微软 OneDrive 网站进行钓鱼攻击](https://www.ithome.com/0/786/146.htm)|
+||[1899 元，森海塞尔 MOMENTUM 真无线 4 代蓝牙耳机“京东特别设计版”曜金黑配色 8 月 8 日首销](https://www.ithome.com/0/786/144.htm)|
+||[奇瑞 8 月购车政策公布：旧车至高抵 3 万-5.8 万元，涉及风云 T10 / 瑞虎 9 四驱版 / 探索 06 C-DM 等](https://www.ithome.com/0/786/143.htm)|
+||[乘联会崔东树：6 月全球汽车销量 780 万台同比降 1%，中国占份额 33% 处历年中位水平](https://www.ithome.com/0/786/142.htm)|
+||[腾讯 CDD 官宣虚拟主播强战斗演出策略游戏《虚环》：A-SOUL、星瞳、四禧丸子等登场](https://www.ithome.com/0/786/140.htm)|
+||[微博：在 2024 巴黎奥运女乒单打决赛拉踩引战、恶意攻击，300 余个账号被禁言](https://www.ithome.com/0/786/139.htm)|
+||[免费试用服务遭滥用，安全公司曝光 Cloudflare 隧道成黑客“保护伞”](https://www.ithome.com/0/786/138.htm)|
+||[OPPO Reno 12 新配色明日 10:00 开售：浅蓝色系，2699 元起](https://www.ithome.com/0/786/137.htm)|
+||[特斯拉得州工厂发生死亡事件，引发监管机构调查](https://www.ithome.com/0/786/136.htm)|
+||[国家安全部：“文件传输助手”“AI 写作小程序”可能有失泄密风险](https://www.ithome.com/0/786/135.htm)|
+||[通用汽车推出新绩效考核体系：150% 奖金砸向“劳模”，淘汰平庸者](https://www.ithome.com/0/786/133.htm)|
+||[北通 ×《鸣潮》联名手柄开售：智能交互屏、双形态霍尔扳机， 429 元](https://www.ithome.com/0/786/132.htm)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[杠杆炒股二三事](http://xueqiu.com/4373567778/299831331)|
 |[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[洛杉矶基本收入实验公布结果](https://www.solidot.org/story?sid=78879)|
 ||[黑客入侵 ISP 发动中间人攻击](https://www.solidot.org/story?sid=78878)|
 |[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[价格战加剧咖啡市场竞争 星巴克、瑞幸业绩承压待突围](https://36kr.com/p/2889952770873990)|
