@@ -2,6 +2,53 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[发现你们都挺爱看这个的，那就来吧](https://m.okjike.com/originalPosts/66aee98705081337709d31ef)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[若依系统添加lombok插件之后报java: 一元运算符 '!' 的操作数类型java.lang.String错误？](https://segmentfault.com/q/1010000045132723)|
+||[useEffect ..., props.scrollToIdx 要如何才能每次都执行？](https://segmentfault.com/q/1010000045132708)|
+||[基于electrom-vite 开发react项目，main进程的console.log 不打印怎么办?](https://segmentfault.com/q/1010000045132605)|
+|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[使用milvus和towhee实现简陋版的以图搜图](https://nicksxs.me/2024/08/04/%E4%BD%BF%E7%94%A8milvus%E5%92%8Ctowhee%E5%AE%9E%E7%8E%B0%E7%AE%80%E9%99%8B%E7%89%88%E7%9A%84%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE/)|
+|[蓝点网](https://www.landiannews.com/feed)|[uBlock Origin很快将无法在Chrome上使用 开发者发布目前的情况说明](https://www.landiannews.com/archives/105251.html)|
+|[IT之家](https://www.ithome.com/rss/)|[2K 300Hz，雷神“DQ27F300L”27 英寸显示器 8 月 9 日 1799 元首销](https://www.ithome.com/0/786/163.htm)|
+||[写给小白的 AI 入门科普](https://www.ithome.com/0/786/162.htm)|
+||[配四出式排气装饰，长安 UNI-Z 1.5T 燃油版 SUV 定档 8 月 10 日上市](https://www.ithome.com/0/786/159.htm)|
+||[通过虚假交易等形式套取京东补贴款 500 余万元，61 名诈骗嫌疑人被拘](https://www.ithome.com/0/786/158.htm)|
+||[《魔兽世界》国服正式服已完成扩容，官方称“可以大幅缓解排队情况”](https://www.ithome.com/0/786/157.htm)|
+||[三星 Galaxy Tab A9+ 儿童版平板电脑海外发售：骁龙 695、多彩防摔壳，270 美元](https://www.ithome.com/0/786/156.htm)|
+||[九阳净萃养生壶上市：全玻璃壶体、1L 容量，首发 199 元](https://www.ithome.com/0/786/155.htm)|
+||[华为推出 100W 全能充多口充电器：1A / C + 1C 融合接口，349 元](https://www.ithome.com/0/786/154.htm)|
+||[接到“运尸订单”司机拒绝运送竟遭投诉，货拉拉回应“可申诉撤销判责”](https://www.ithome.com/0/786/152.htm)|
+||[比亚迪腾势 Z9 GT 首批展车即将到店，预计本月开启预售](https://www.ithome.com/0/786/150.htm)|
+||[小米产品总监、MIUI 体验总负责人金凡清空微博](https://www.ithome.com/0/786/149.htm)|
+||[荣耀 MagicPad 13 平板获推 MagicOS 8.0.0.146 更新：新增分屏组合保存、优化通知栏显示](https://www.ithome.com/0/786/148.htm)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[00后CEO杨丰瑜：耶鲁博士回国创业，五个月造出首款「可量产」人形机器人｜AI Pioneer](https://www.jiqizhixin.com/articles/2024-08-04-10)|
+||[可解释性终极追问，什么才是第一性解释？20篇CCF-A+ICLR论文给你答案](https://www.jiqizhixin.com/articles/2024-08-04-9)|
+||[阿里「轨迹可控版Sora」，告别「抽卡」，让视频生成更符合物理规律](https://www.jiqizhixin.com/articles/2024-08-04-8)|
+||[小技巧大功效，「仅阅读两次提示」让循环语言模型超越Transformer++](https://www.jiqizhixin.com/articles/2024-08-04-7)|
+||[开发者利器！XREAL Air 2 ULTRA开售，沉浸式体验AI开发](https://www.jiqizhixin.com/articles/2024-08-04-6)|
+||[Transformer作者回流谷歌，Character.AI创始团队被「收购」，只要人不要公司](https://www.jiqizhixin.com/articles/2024-08-04-5)|
+||[ICML 2024演讲爆火！Meta朱泽园揭秘大模型内心世界：不同于人类的2级推理](https://www.jiqizhixin.com/articles/2024-08-04-4)|
+||[英特尔股价暴跌 26%，40 年来最大跌幅](https://www.jiqizhixin.com/articles/2024-08-04-3)|
+||[从现在起，GitHub上超1亿开发者可直接访问全球顶级大模型，构建AI应用](https://www.jiqizhixin.com/articles/2024-08-04-2)|
+||[首届大模型顶会COLM 高分论文：偏好搜索算法PairS，让大模型进行文本评估更高效](https://www.jiqizhixin.com/articles/2024-08-04)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[全球首款18650钾离子电池问世 有望替代锂电池](https://m.cnbeta.com.tw/view/1440921.htm)|
+||[京东快递小哥跑进奥运：腿上绑沙袋、每月跑步400多公里](https://m.cnbeta.com.tw/view/1440920.htm)|
+||[长城第二代哈弗H9终于来了 和坦克同平台](https://m.cnbeta.com.tw/view/1440918.htm)|
+||[GoSun推出太阳能充电盒 每天可增加50公里续航](https://m.cnbeta.com.tw/view/1440916.htm)|
+||[消息称联发科天玑9400芯片价格上调 各项素质提升 尺寸也将大幅增加](https://m.cnbeta.com.tw/view/1440914.htm)|
+||[消息称京东创始人刘强东仍在海外运营这个庞大的电子商务集团](https://m.cnbeta.com.tw/view/1440912.htm)|
+||[2024年奥运会直播版权方的最大敌人不再是BT下载 而是非法直播网站](https://m.cnbeta.com.tw/view/1440910.htm)|
+||[uBlock Origin很快将无法在Chrome上使用 开发者发布情况说明](https://m.cnbeta.com.tw/view/1440908.htm)|
+||[Cloudflare WARP+推荐活动将在11月1日结束 无法再通过刷推荐获得无限流量](https://m.cnbeta.com.tw/view/1440907.htm)|
+||[被低估的AI芯片强国](https://m.cnbeta.com.tw/view/1440906.htm)|
+||[破产重组、高层被辞，汇源果园的焦虑仍未减轻](https://m.cnbeta.com.tw/view/1440905.htm)|
+||[加拿大工会呼吁对中国进口电动车加税：100%税率上再加征附加税](https://m.cnbeta.com.tw/view/1440904.htm)|
+||[新AI芯片推迟上市 这对英伟达影响有多大？](https://m.cnbeta.com.tw/view/1440903.htm)|
+||[美股罕见暴跌 “七巨头”市值近一月蒸发12万亿元](https://m.cnbeta.com.tw/view/1440902.htm)|
+||[巴菲特狂卖苹果近4亿股 但斌回应：我们没有跟随减持的想法](https://m.cnbeta.com.tw/view/1440901.htm)|
+||[谷歌Go团队十二年技术负责人突然退位 微软、华为等表达感谢](https://m.cnbeta.com.tw/view/1440899.htm)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取游戏 Assassin at Crimson Keep Windows、macOS、Linux $4.99→0 ](https://free.apprcn.com/get-game-assassin-at-crimson-keep-for-free-2/)|
+||[免费获取 Steam 游戏 Club Naughty Windows ](https://free.apprcn.com/get-steam-game-club-naughty-for-free/)|
+||[SoftOrbits Flash Drive Recovery – 闪存设备数据恢复 Windows $29.99→0 ](https://free.apprcn.com/softorbits-flash-drive-recovery-15/)|
 |[极客公园](http://feeds.geekpark.net/)|[谷歌+始祖鸟，造出世界上第一条动力裤，3万块还卖爆了？](http://www.geekpark.net/news/338883)|
 ||[领克上半年增长超50%背后，是基因的二次进化](http://www.geekpark.net/news/338881)|
 |[理想生活实验室](http://www.toodaylab.com/feed)|[每周鞋报：Fear of God Athletics 2024 夏季系列发布、Alexander McQueen 推出全新运动鞋](http://www.toodaylab.com/82970)|
