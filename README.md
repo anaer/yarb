@@ -2,6 +2,28 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://sspai.com/feed)|[城市漫步指南：海风、海景，神户人的霓虹生活](https://sspai.com/post/90074)|
+||[派早报：苹果就内购分成问题向腾讯和字节跳动施压](https://sspai.com/post/91149)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助，我遇到了 2024 年的人口买卖，该怎么办](https://www.v2ex.com/t/1062589#reply14)|
+||[ 问与答 被传唤了需要注意点什么](https://www.v2ex.com/t/1062580#reply51)|
+||[ 分享发现 分享我所经历的两次反诈中心的事儿](https://www.v2ex.com/t/1062573#reply12)|
+||[ 投资 跌久必涨，涨久必跌，可以开始定投 a 股了](https://www.v2ex.com/t/1062565#reply19)|
+||[ 问与答 周末超市碰见领导，有种莫名的自卑感](https://www.v2ex.com/t/1062553#reply14)|
+||[ 问与答 深圳去香港最便宜的方法是什么？](https://www.v2ex.com/t/1062539#reply21)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[请问在现有的开源库里面，是否有这样的库，可以让给定的方法提取出调用链？](https://segmentfault.com/q/1010000045134447)|
+||[这个pnpm install报错是什么意思？](https://segmentfault.com/q/1010000045134340)|
+||[google Maps JavaScript API 在手机浏览器访问网页,打包前地图可正常访问,打包后地图加载不出来了?](https://segmentfault.com/q/1010000045133739)|
+||[react的微状态管理器，大家如何选择？](https://segmentfault.com/q/1010000045133616)|
+||[前端如何绘制能容纳亿级别的折线图？](https://segmentfault.com/q/1010000045133612)|
+|[蓝点网](https://www.landiannews.com/feed)|[搜狗输入法回应绕过Windows锁屏高危漏洞：已进行紧急修复](https://www.landiannews.com/archives/105257.html)|
+||[谷歌突然停止为应用程序生成胖APK 只提供AAB包可能会影响用户侧载安装](https://www.landiannews.com/archives/105253.html)|
+||[英伟达显卡驱动在不支持POPCNT的CPU上引起蓝屏死机 用户需禁用驱动更新](https://www.landiannews.com/archives/105252.html)|
+||[消息称英伟达已经停产RTX 3060显卡 最终库存将在未来几个月内完成分发](https://www.landiannews.com/archives/105256.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[彭博社：M4 晶片的 Mac 預期的更新時程](https://applefans.today/2024-08-mark-gurman-m4-macs-this-year-rumors/)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[Character.AI 首席执行官重返谷歌，加入 DeepMind 团队](https://www.oschina.net/news/305359/character-ai-ceo-returns-to-google)|
+||[凹语言开源 2 周年](https://my.oschina.net/walang/blog/15113279)|
+||[TinyVue v3.17.0 正式发布](https://my.oschina.net/u/4863191/blog/15113877)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[看樊振东夺冠比赛，在为他喊加油的同时，我有一个疑问，是外国运动员不出汗，还是中国队的衣服不吸汗？](http://www.zhihu.com/question/663449911/answer/3584072120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[2024年攻防演练：您有一封《高温补贴》邮件待查收…](https://www.freebuf.com/defense/407783.html)|
 |[36氪](http://36kr.com/feed)|[36氪首发｜烧腊品牌「新财肉记」获近1000万天使轮融资，由文和友关联基金独家投资](https://36kr.com/p/2887742200093315?f=rss)|
 ||[36氪专访｜「擎朗」COO万彬：要让机器人去国外打工，送出去只是第一步](https://36kr.com/p/2888811469937540?f=rss)|
