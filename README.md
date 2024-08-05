@@ -2,6 +2,48 @@
 
 |来源|标题|
 |---|---|
+|[反斗限免](http://free.apprcn.com/feed/)|[Vovsoft Read Mode - 阅读模式应用工具 Windows $19→0 ](https://free.apprcn.com/vovsoft-read-mode-2/)|
+||[PDF-compress Pro - PDF 文档压缩工具 Windows $24.9→0 ](https://free.apprcn.com/pdf-compress-pro-5/)|
+||[Data Defense - 数据防御 Android $4.99→0 ](https://free.apprcn.com/data-defense-16/)|
+|[Share erotic Asian...](https://hotgirl.asia/feed/)|[Cosplay Umeko.J Tamamo Racing Fate Extrella](https://hotgirl.asia/cosplay-umeko-j-tamamo-racing-fate-extrella/)|
+||[Cosplay 桜桃喵 盏月 Moon](https://hotgirl.asia/cosplay-%e6%a1%9c%e6%a1%83%e5%96%b5-%e7%9b%8f%e6%9c%88-moon/)|
+||[Cosplay Yuuhui玉汇 雨夜独舞 Set.01](https://hotgirl.asia/cosplay-yuuhui%e7%8e%89%e6%b1%87-%e9%9b%a8%e5%a4%9c%e7%8b%ac%e8%88%9e-set-01/)|
+||[Cosplay 黏黏团子兔 豹猫嗷呜 Set.01](https://hotgirl.asia/cosplay-%e9%bb%8f%e9%bb%8f%e5%9b%a2%e5%ad%90%e5%85%94-%e8%b1%b9%e7%8c%ab%e5%97%b7%e5%91%9c-set-01/)|
+||[Cosplay Rioko凉凉子 优菈浪花骑士](https://hotgirl.asia/cosplay-rioko%e5%87%89%e5%87%89%e5%ad%90-%e4%bc%98%e8%8f%88%e6%b5%aa%e8%8a%b1%e9%aa%91%e5%a3%ab/)|
+||[Cosplay Yuuhui玉汇 雨夜独舞 Set.02](https://hotgirl.asia/cosplay-yuuhui%e7%8e%89%e6%b1%87-%e9%9b%a8%e5%a4%9c%e7%8b%ac%e8%88%9e-set-02/)|
+||[Cosplay 黏黏团子兔 豹猫嗷呜 Set.02](https://hotgirl.asia/cosplay-%e9%bb%8f%e9%bb%8f%e5%9b%a2%e5%ad%90%e5%85%94-%e8%b1%b9%e7%8c%ab%e5%97%b7%e5%91%9c-set-02/)|
+||[Cosplay 洛璃LoLiSAMA 喜多川海梦兔女郎](https://hotgirl.asia/cosplay-%e6%b4%9b%e7%92%83lolisama-%e5%96%9c%e5%a4%9a%e5%b7%9d%e6%b5%b7%e6%a2%a6%e5%85%94%e5%a5%b3%e9%83%8e/)|
+||[Cosplay Rinaijiao日奈娇 未亡人雪女 Set.01](https://hotgirl.asia/cosplay-rinaijiao%e6%97%a5%e5%a5%88%e5%a8%87-%e6%9c%aa%e4%ba%a1%e4%ba%ba%e9%9b%aa%e5%a5%b3-set-01/)|
+||[Cosplay 日本性感萝莉Byoru Dizzy Guilty Gear](https://hotgirl.asia/cosplay-%e6%97%a5%e6%9c%ac%e6%80%a7%e6%84%9f%e8%90%9d%e8%8e%89byoru-dizzy-guilty-gear/)|
+|[36氪](http://36kr.com/feed)|[氪星晚报 雷军进军带货：个人抖音号橱窗已上线小米手环；Meta据称与好莱坞影星洽谈AI语音项目，将提供数百万美元以获取授权；马斯克的Neuralink今年有望完成10例脑机接口植入手术](https://36kr.com/p/2893057230903936?f=rss)|
+||[首单奥莱消费REITs发售定档，1000元起投](https://36kr.com/p/2893089678727815?f=rss)|
+||[把工业固废转化为低碳胶凝材料，「华晟创元」产能超百万吨 早期项目](https://36kr.com/p/2887065174432393?f=rss)|
+||[士力架、M&M’s豆的母公司，减塑已超千吨｜最前线](https://36kr.com/p/2885949571865216?f=rss)|
+||[商汤科技大模型落地城市场景、为美国电车楼宇提供充电方案的Pando Electric完成融资 ｜ PropTech周刊](https://36kr.com/p/2892999939300226?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[实测最新文生图神器「FLUX.1」：「手刃」Midjourney？早了点](https://www.jiqizhixin.com/articles/2024-08-05-8)|
+||[Nature子刊，快10倍，基于Transformer的逆向蛋白质序列设计方法](https://www.jiqizhixin.com/articles/2024-08-05-7)|
+||[太原理工2024软件工程招60个班，近2000人，冲上热搜](https://www.jiqizhixin.com/articles/2024-08-05-6)|
+||[LLM可解释性的未来希望？稀疏自编码器是如何工作的，这里有一份直观说明](https://www.jiqizhixin.com/articles/2024-08-05-5)|
+||[一文看尽LLM对齐技术：RLHF、RLAIF、PPO、DPO……](https://www.jiqizhixin.com/articles/2024-08-05-4)|
+||[70倍极致压缩！大模型的检查点再多也不怕](https://www.jiqizhixin.com/articles/2024-08-05-3)|
+||[延迟交互模型，为什么是下一代RAG的标配？](https://www.jiqizhixin.com/articles/2024-08-05-2)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8年涨价7倍，共享单车刺伤打工人](https://36kr.com/p/2891295520742017)|
+||[郑钦文夺冠，品牌押中「又一个谷爱凌」｜营销观察](https://36kr.com/p/2891880829868930)|
+||[8点1氪｜巴菲特减持近半苹果股份；奥运会裁判因和参赛队员及教练合影被除名；伊利就“奥运相关广告测试不当”道歉](https://36kr.com/p/2892480121264776)|
+||[144万人的苏南小县，跑出34家IPO](https://36kr.com/p/2891244754967169)|
+||[东方甄选不是俞敏洪唯一的希望了](https://36kr.com/p/2890312072551302)|
+|[极客公园](http://feeds.geekpark.net/)|[领克上半年增长超 50% 背后，是基因的二次进化](http://www.geekpark.net/news/338917)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[球队的暗战：揭露美国职业体育运动的间谍黑幕](https://www.4hou.com/posts/8g2L)|
+||[身边的窃听门 生活会欺骗你，录音笔也会](https://www.4hou.com/posts/5Myv)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[webpack分别在linux和windows平台打包，同一张CSS背景图不同平台路径不一致？](https://segmentfault.com/q/1010000045143472)|
+||[mysql 删除表主从不同步?](https://segmentfault.com/q/1010000045143443)|
+||[在Android studio native C++项目中，C++函数找不到给定路径下的文件？](https://segmentfault.com/q/1010000045143435)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[智启万象 2024 Google 开发者大会亮点抢先看](https://segmentfault.com/a/1190000045143068)|
+||[OpenTiny HUICharts 正式开源发布，一个简单、易上手的图表组件库](https://segmentfault.com/a/1190000045143205)|
+|[老左笔记](https://www.laozuo.org/feed)|[CloudCone 特价清仓活动 年付美国VPS主机13.99美元](https://www.laozuo.org/29370.html)|
+||[UFOVPS最新优惠码整理 选香港CN2 GIA和大带宽云服务器](https://www.laozuo.org/26003.html)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[孟加拉国再次断网](https://www.solidot.org/story?sid=78885)|
+||[科学家识别太空肌肉萎缩症相关的基因](https://www.solidot.org/story?sid=78884)|
 |[开源中国-最新资讯](https://rsshub.app/oschina/news)|[极客的盛会！GOTC 2024 带你直击硬核 AI 技术创新与实践](https://my.oschina.net/u/3859945/blog/15154807)|
 ||[GOTC 丨招聘会展位招募进行中，企动未来，职等你来 ！](https://my.oschina.net/u/3859945/blog/15153949)|
 ||[如意玲珑支持发行版再添新成员，openEuler安装使用如意玲珑操作指南](https://www.oschina.net/news/305395)|
