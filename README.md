@@ -2,6 +2,15 @@
 
 |来源|标题|
 |---|---|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[2024年攻防演练：您有一封《高温补贴》邮件待查收…](https://www.freebuf.com/defense/407783.html)|
+|[36氪](http://36kr.com/feed)|[36氪首发｜烧腊品牌「新财肉记」获近1000万天使轮融资，由文和友关联基金独家投资](https://36kr.com/p/2887742200093315?f=rss)|
+||[36氪专访｜「擎朗」COO万彬：要让机器人去国外打工，送出去只是第一步](https://36kr.com/p/2888811469937540?f=rss)|
+||[36氪首发｜小宠物品牌「布卡星」获近亿元A轮融资，投资方为金鼎资本、创享资本](https://36kr.com/p/2892510050818691?f=rss)|
+||[36氪首发｜打造饰品行业“SHEIN”，跨境出海品牌「Stepin」获千万元天使轮融资](https://36kr.com/p/2892504035728261?f=rss)|
+||[00后耶鲁博士生回国创业，开发了一款能洗衣服、做汉堡的人形机器人](https://36kr.com/p/2875707937722501?f=rss)|
+||[郑钦文夺冠，品牌押中「又一个谷爱凌」｜营销观察](https://36kr.com/p/2891880829868930?f=rss)|
+|[极客公园](http://feeds.geekpark.net/)|[马斯克：完成第二例脑机芯片植入；OpenAI 正研发文本水印工具；苹果AI延迟不会影响iPhone 16发布｜极客早知道](http://www.geekpark.net/news/338885)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[看起来高难度的奥运项目是如何成为大众日常运动项目的？](http://www.zhihu.com/question/662656425/answer/3582664807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774348)|
 ||[我们身上每个细胞的 DNA 都一样吗？](https://daily.zhihu.com/story/9774332)|
 ||[甲骨文发现百年仍有大半未破译，破译难点在哪？](https://daily.zhihu.com/story/9774338)|
