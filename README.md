@@ -2,6 +2,20 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[物理学家称流言像核裂变一样传播](https://www.solidot.org/story?sid=78883)|
+||[Stack Overflow 的调查显示程序员并不担心 AI](https://www.solidot.org/story?sid=78882)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[安全动态回顾 ISC.AI2024第十二届互联网安全大会在京开幕 DigiCert将推迟关键基础设施证书撤销](https://www.4hou.com/posts/5M9B)|
+|[36氪](http://36kr.com/feed)|[早期项目｜硅谷初创公司「Aizip」创建小语言模型Gizmo，应用于边缘市场](https://36kr.com/p/2891745400838792?f=rss)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[iPhone 通话录音姗姗来迟，但好像和其他手机不太一样](https://sspai.com/post/91078)|
+||[新玩意 190｜少数派的编辑们最近买了啥？](https://sspai.com/post/91073)|
+|[蓝点网](https://www.landiannews.com/feed)|[OpenAI开发新的文本水印工具可以识别AI生成内容 但是否发布还是个问题](https://www.landiannews.com/archives/105255.html)|
+||[半导体制造商长鑫存储开始量产HBM2内存 比预期的时间提前约2年](https://www.landiannews.com/archives/105250.html)|
+||[数据显示Microsoft Edge浏览器市场份额达到13.74% 是火狐浏览器的2倍多](https://www.landiannews.com/archives/105249.html)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[俄APT组织利用虚假汽车销售广告传播HeadLace后门](https://www.freebuf.com/articles/407808.html)|
+||[攻击者正滥用Cloudflare隧道传播恶意软件并逃避检测](https://www.freebuf.com/news/407793.html)|
+||[因办公应用程序导致大规模数据泄露！涉及戴尔、AT&T、大通银行等900家公司](https://www.freebuf.com/news/407784.html)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[如何便宜购买 Office 365？](https://www.appinn.com/lizhi-office365-24/)|
+|[极客公园](http://feeds.geekpark.net/)|[大模型的中场战事：CoE or MoE ？](http://www.geekpark.net/news/338897)|
 |[少数派](https://sspai.com/feed)|[城市漫步指南：海风、海景，神户人的霓虹生活](https://sspai.com/post/90074)|
 ||[派早报：苹果就内购分成问题向腾讯和字节跳动施压](https://sspai.com/post/91149)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 求助，我遇到了 2024 年的人口买卖，该怎么办](https://www.v2ex.com/t/1062589#reply14)|
