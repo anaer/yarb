@@ -2,6 +2,34 @@
 
 |来源|标题|
 |---|---|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[极客的盛会！GOTC 2024 带你直击硬核 AI 技术创新与实践](https://my.oschina.net/u/3859945/blog/15154807)|
+||[GOTC 丨招聘会展位招募进行中，企动未来，职等你来 ！](https://my.oschina.net/u/3859945/blog/15153949)|
+||[如意玲珑支持发行版再添新成员，openEuler安装使用如意玲珑操作指南](https://www.oschina.net/news/305395)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[黑客用《我的世界》DDoS工具攻击未正确配置的Jupyter笔记本服务器](https://www.anquanke.com/post/id/298764)|
+||[CISA 警告：Avtech 摄像机漏洞在野外被积极利用](https://www.anquanke.com/post/id/298767)|
+||[Mirai 僵尸网络利用 OFBiz 服务器中存在的路径遍历漏洞进行传播](https://www.anquanke.com/post/id/298770)|
+||[新型 Windows 后门 BITSLOTH 利用 BITS 进行隐蔽通信](https://www.anquanke.com/post/id/298772)|
+||[网络犯罪分子滥用Cloudflare隧道以逃避检测并传播恶意软件](https://www.anquanke.com/post/id/298775)|
+||[财富50强公司支付创纪录的7500万美元勒索软件要求](https://www.anquanke.com/post/id/298782)|
+||[迪士尼、耐克、IBM 签名每天锚定 300万封假电子邮件](https://www.anquanke.com/post/id/298786)|
+||[利用 NIST 网络安全框架实现身份连续性](https://www.anquanke.com/post/id/298790)|
+||[黑客试图出售 4 月份数据泄露的 30 亿人的个人数据](https://www.anquanke.com/post/id/298779)|
+||[ISC.AI创新沙盒大赛：数字安全、AI应用、高校新星创新赛道百花齐放](https://www.anquanke.com/post/id/298793)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[产学研集聚ISC人工智能安全趋势发展论坛，共探大模型安全生态](https://www.4hou.com/posts/7MLj)|
+||[ISC.AI 2024：360携手共青团发布数字安全科技人才激励计划](https://www.4hou.com/posts/6MRn)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[四环青年｜地面塌陷记者采访遭反问为何报道，让人哭笑不得](https://www.reddit.com/r/LiberalGooseGroup/comments/1ekafnn/四环青年地面塌陷记者采访遭反问为何报道让人哭笑不得/)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[苹果突然禁止微信和抖音更新！探讨iOS系统下的超级APP困境与挑战。这是苹果衰败的开始了吗？](https://lukefan.com/2024/08/05/%e8%8b%b9%e6%9e%9c%e7%aa%81%e7%84%b6%e7%a6%81%e6%ad%a2%e5%be%ae%e4%bf%a1%e5%92%8c%e6%8a%96%e9%9f%b3%e6%9b%b4%e6%96%b0%ef%bc%81%e6%8e%a2%e8%ae%a8ios%e7%b3%bb%e7%bb%9f%e4%b8%8b%e7%9a%84%e8%b6%85/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[想要给map循环创建的div添加行号，应该怎样设计呢？](https://segmentfault.com/q/1010000045143314)|
+||[uniapp 写微信小程序 使用uni-table 如何固定列？](https://segmentfault.com/q/1010000045143311)|
+||[Vite + Vue 3 中 Element Plus 按需引入未生效问题如何解决？](https://segmentfault.com/q/1010000045134636)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 太原理工软件 2024 年招了 60 个班，快 2000 人](https://www.v2ex.com/t/1062668#reply20)|
+||[ macOS MBP 不小心摔折了，电池会有什么问题吗](https://www.v2ex.com/t/1062660#reply12)|
+||[ 生活 你一个月话费需要多少钱](https://www.v2ex.com/t/1062658#reply18)|
+||[ 奇思妙想 热量能转化为电能吗？](https://www.v2ex.com/t/1062657#reply17)|
+||[ 问与答 家里孩子刷抖音刷废了，如何控制他。](https://www.v2ex.com/t/1062651#reply40)|
+||[ Apple 大家的 iphone15pm 出现过蜂窝断网的问题么](https://www.v2ex.com/t/1062629#reply11)|
+||[ 生活 感觉得了前列腺炎，去医院之前，先来 v 站问诊](https://www.v2ex.com/t/1062623#reply24)|
+||[ 投资 大家快来猜猜晚上美股开盘跌多少？](https://www.v2ex.com/t/1062622#reply37)|
 |[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[物理学家称流言像核裂变一样传播](https://www.solidot.org/story?sid=78883)|
 ||[Stack Overflow 的调查显示程序员并不担心 AI](https://www.solidot.org/story?sid=78882)|
 |[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[安全动态回顾 ISC.AI2024第十二届互联网安全大会在京开幕 DigiCert将推迟关键基础设施证书撤销](https://www.4hou.com/posts/5M9B)|
