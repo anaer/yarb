@@ -2,6 +2,90 @@
 
 |来源|标题|
 |---|---|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[OpenAI 又一联合创始人转投 Anthropic，Brockman 休长假](https://www.oschina.net/news/305626/openai-john-schulman-anthropic)|
+||[BudIot 萌发物联网设备平台 v1.0.1 发布](https://www.oschina.net/news/305612/budiot-1-0-1-released)|
+|[朝舞网](https://ii74.com/feed.php)|[vs2022使用c++ std::any_of 等 c++ 11 标准语言时，提示报错namespace &quot;std&quot; has no member &quot;all_of&quot;](https://ii74.com/post/6442.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[GO的这段代码怎么变得更强更快？](https://segmentfault.com/q/1010000045146678)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[准确率达60.8%，浙大基于Transformer的化学逆合成预测模型，登Nature子刊](https://www.jiqizhixin.com/articles/2024-08-06-3)|
+||[英伟达神秘视频基础模型「Cosmos」曝光，数据全靠偷](https://www.jiqizhixin.com/articles/2024-08-06-2)|
+||[OpenAI人事地震：奥特曼盟友Brockman长期休假，联创Schulman转投Anthropic，产品负责人已离职](https://www.jiqizhixin.com/articles/2024-08-06)|
+|[老左笔记](https://www.laozuo.org/feed)|[Kuroit 六周年推出多款10G大带宽欧洲和美国VPS 低至月费1.5英镑](https://www.laozuo.org/29374.html)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[web每日一题（不断更新中）](https://segmentfault.com/a/1190000045146792)|
+|[蓝点网](https://www.landiannews.com/feed)|[自9月1日起.COM域名涨价至10.26美元 美国议员尝试进行干预阻止继续涨价](https://www.landiannews.com/archives/105284.html)|
+||[邮寄快递必须刷脸认证后才能寄送？官方回应称试点不作强制性推荐](https://www.landiannews.com/archives/105276.html)|
+||[微软发布Windows 11 Dev Build 26120.1340版 改进鼠标控制和节能选项](https://www.landiannews.com/archives/105279.html)|
+||[英伟达再次被发现从YouTube及奈飞上抓取数据用来训练人工智能模型](https://www.landiannews.com/archives/105282.html)|
+||[在出现多次严重安全问题后微软宣布将安全作为每名员工的绩效考核中](https://www.landiannews.com/archives/105277.html)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[存储迎来轻量级革命？从理念到实践，解构HBlock降本增效黑科技！](https://www.infoq.cn/article/HlFlB0T44SxPquDdNoBb)|
+||[共赴一场企业数智化升级的技术盛会!](https://www.infoq.cn/article/Vr9ssdkIuy1IMMsT0pD3)|
+||[“列数已达上限”：史上最烂代码库的“绝命”一击](https://www.infoq.cn/article/AfclUxYzTcvp1ChS7l7b)|
+||[AI+重塑技术生产力——企业数智化技术峰会早班车](https://www.infoq.cn/article/gVKdCkerLZDZ41U2wQlN)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[自2018年一直被黑客利用，Windows又一“后门”揭秘](https://www.freebuf.com/news/407876.html)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Allavsoft Downloader – 视频网站视频下载工具 Windows、macOS $59.99→0 ](https://free.apprcn.com/allavsoft-downloader-52/)|
+||[Zortam Mp3 Media Studio Pro – 音乐文件管理软件 Windows $29.95→0 ](https://free.apprcn.com/zortam-mp3-media-studio-pro-29/)|
+||[Clock In - 时间跟踪记录工具 iPhone 内购限免 ](https://free.apprcn.com/clock-in/)|
+|[IT之家](https://www.ithome.com/rss/)|[谷歌安卓 15 新特性曝光：为手机端引入平板上的任务栏体验](https://www.ithome.com/0/786/608.htm)|
+||[鸿蒙智行享界 S9 豪华轿车座舱公布：零重力座椅、强悍低音音响、一键隐私声盾](https://www.ithome.com/0/786/607.htm)|
+||[NEO Semiconductor 发布 HBM 内存技术 3D X-AI ，宣称 AI 处理能力可达现有方案百倍](https://www.ithome.com/0/786/606.htm)|
+||[599~1299 元，华为推出 MatePad Air 12 英寸款智能磁吸键盘及 MatePad Pro 12.2 英寸款星跃键盘](https://www.ithome.com/0/786/604.htm)|
+||[消息称台积电首度委外 CoW 封装工艺，封测企业矽品拿下订单](https://www.ithome.com/0/786/595.htm)|
+||[广汽埃安拟香港上市，正推进 IPO 工作](https://www.ithome.com/0/786/593.htm)|
+||[小米王腾预热“有意思的产品”，消息称为小尺寸性能平板：处于立项阶段、有望归属 Redmi 品牌](https://www.ithome.com/0/786/592.htm)|
+||[【视频】清新配色，高效AI，全新华为MatePad Air上手体验](https://www.ithome.com/0/786/591.htm)|
+||[继江苏后，特斯拉 Model Y 车型进入福建省政府“采购网上超市”名单](https://www.ithome.com/0/786/589.htm)|
+||[8 月 12 日预售，墨案 × 哔哩哔哩漫画推出联名彩色阅读器新品](https://www.ithome.com/0/786/588.htm)|
+||[北汽董事长张建勇：车企的灵魂从来不是故步自封，将以第一优先战略高度 All in 享界 S9](https://www.ithome.com/0/786/587.htm)|
+||[“千帆星座”首批组网卫星“一箭 18 星”顺利发射升空入轨](https://www.ithome.com/0/786/586.htm)|
+||[鸿蒙智行享界 S9 豪华轿车外观公布：0.193 风阻、星河大灯 / 寰宇车漆 / 无边框车门](https://www.ithome.com/0/786/585.htm)|
+||[工信部：有序开展电信设备进网许可自检自证试点，加快推进电信业务线上办、异地办](https://www.ithome.com/0/786/583.htm)|
+||[【IT之家开箱】华为 MatePad Pro 12.2 英寸流金 / 宣白图赏：人文色系，极致轻薄](https://www.ithome.com/0/786/582.htm)|
+||[三部门拓展电动汽车充电设施网络：扩大高速公路充电覆盖、保障节假日充电服务、完善分时电价等](https://www.ithome.com/0/786/581.htm)|
+||[【IT之家开箱】“零门槛”鸿蒙打印机：华为毕昇激光打印机 X1 系列图赏](https://www.ithome.com/0/786/580.htm)|
+||[耳机也拥抱 AI，代码显示谷歌 Pixel Buds Pro 2 将支持 Gemini](https://www.ithome.com/0/786/579.htm)|
+||[华为发布三款鸿蒙打印机：售价 1299 元起](https://www.ithome.com/0/786/578.htm)|
+||[科大讯飞推出智能办公本 Air 2：8.2 英寸墨水屏、内置 AI 星火大模型，2799 元](https://www.ithome.com/0/786/577.htm)|
+||[华为星跃鼠标 GT 发布：支持星闪连接，售价 599 元](https://www.ithome.com/0/786/576.htm)|
+||[腾讯参与 Kimi 开发商月之暗面 3 亿美元融资？知情人士：属实](https://www.ithome.com/0/786/574.htm)|
+||[全国首例，“泄露《王者荣耀》角色皮肤牟利案”视频博主被判刑三年缓刑五年](https://www.ithome.com/0/786/573.htm)|
+||[8999 元，华为智慧屏 S5 新推出 85 英寸版本：4K 超级投屏、鸿鹄自研芯片](https://www.ithome.com/0/786/572.htm)|
+||[华为 FreeBuds 6i 及流光遐音版真无线耳机发布：27dB 降噪深度，售价 599 元起](https://www.ithome.com/0/786/570.htm)|
+||[微软宣布 Win10 / Win11 将终止支持 Adobe Type 1 字体](https://www.ithome.com/0/786/569.htm)|
+||[【视频】双层OLED云晰柔光屏加持，HUAWEI MatePad Pro 12.2英寸上手体验](https://www.ithome.com/0/786/568.htm)|
+||[真《三体》VR 游戏近期即将登陆 PICO 平台](https://www.ithome.com/0/786/567.htm)|
+||[999 元起，华为 WATCH FIT 3 智能手表新增“深海蓝 / 流光金 / 薄荷绿”配色](https://www.ithome.com/0/786/566.htm)|
+||[麦当劳中国科技研发中心新大楼在南京启用，未来五年投入 40 亿元用于数字化建设](https://www.ithome.com/0/786/564.htm)|
+||[【IT之家开箱】全新一代华为 MatePad Air 平板图赏：幻彩珠光工艺，配色自然清新](https://www.ithome.com/0/786/563.htm)|
+||[华为全能充多口充电器（Max 100W）发布：1A / C + 1C 融合接口，349 元](https://www.ithome.com/0/786/562.htm)|
+||[微软发布 Win11 Dev 26120.1340 更新：优化鼠标体验、增强节能设置](https://www.ithome.com/0/786/560.htm)|
+||[4299 元起，华为 MatePad Pro 12.2 平板电脑发布：业界首发 2.8K 144Hz 双层 OLED 屏](https://www.ithome.com/0/786/559.htm)|
+||[华为新款 MatePad Air 平板电脑外观公布：555 克重量、5.9 毫米厚度、四款“轻量配色”](https://www.ithome.com/0/786/558.htm)|
+||[华为新款 MatePad Air 发布：搭载自研 AI 大模型](https://www.ithome.com/0/786/557.htm)|
+||[1C3A 八设备同时用电：绿联 S6 魔盒充电插排 39.9 元上市](https://www.ithome.com/0/786/555.htm)|
+||[华为天生会画 App 正式版上线：预置 150+ 笔刷、新增拟真画布风格](https://www.ithome.com/0/786/556.htm)|
+||[内部讲话让 3 人干 5 人的活？奇瑞回应：正常行业绩效管理法则被歪曲解读了](https://www.ithome.com/0/786/553.htm)|
+||[纪念《铁拳》系列游戏诞生 30 周年，万代南梦宫 12 月 7 日举办锦标赛活动](https://www.ithome.com/0/786/552.htm)|
+||[华为发布新品毕昇打印机 X1 系列：极简设计，打印、复印、扫描三合一](https://www.ithome.com/0/786/551.htm)|
+||[“千帆星座”首批组网卫星发射仪式今日举行，将上演“一箭 18 星”升空入轨](https://www.ithome.com/0/786/550.htm)|
+||[3899 元，戴森 OnTrac 头戴式降噪耳机开售：2000+ 外观组合、续航 55 小时](https://www.ithome.com/0/786/549.htm)|
+||[干一行偷一行，一男子多次偷窃外卖 / 快递被判 10 个月罚款 5000 元](https://www.ithome.com/0/786/548.htm)|
+||[OpenAI 宣布 10 月起举办第 2 届 DevDay 开发者大会：无新 AI 模型，聚焦 API 和开发工具](https://www.ithome.com/0/786/547.htm)|
+||[图灵奖得主 LeCun 加盟 AI 芯片黑马 Groq，估值 28 亿美元挑战英伟达](https://www.ithome.com/0/786/546.htm)|
+||[消息称小米某手机采用四摄：4.x 倍 2 亿长焦 + 小长焦，预计为 15 Ultra](https://www.ithome.com/0/786/544.htm)|
+||[《魔兽世界》国服正式服与怀旧服均已支持苹果 macOS 系统](https://www.ithome.com/0/786/543.htm)|
+||[Adobe Premiere Pro 登陆 Arm 平台，但仍通过模拟运行](https://www.ithome.com/0/786/542.htm)|
+||[《Apex 英雄》今日登陆 Epic 游戏商店，可免费领取英雄“导线管”](https://www.ithome.com/0/786/541.htm)|
+||[游戏帝国推出 GX-1050 PRO 电源，ATX 3.1 + 80 Plus 白金效率认证](https://www.ithome.com/0/786/540.htm)|
+||[《名侦探柯南：百万美元的五棱星》新剧场版电影内地定档 8 月 16 日](https://www.ithome.com/0/786/534.htm)|
+||[小米澎湃 OS 2.0 新特性曝光：酒店等场景下扫描隐藏摄像头](https://www.ithome.com/0/786/531.htm)|
+||[你能分辨 AI 生成的图片和真实照片吗？微软总裁挑战你的眼力](https://www.ithome.com/0/786/530.htm)|
+||[罗永浩回应被俞敏洪 20 年老友曝五宗罪：通篇没有事实，将发布“有理有据有节”的澄清稿](https://www.ithome.com/0/786/528.htm)|
+||[群创光电计划年底前量产扇出型面板级半导体封装工艺](https://www.ithome.com/0/786/527.htm)|
+||[双系统三循环设计，TCL 双系统平嵌冰箱 T9 Pro 将于 8 月 7 日发布](https://www.ithome.com/0/786/526.htm)|
+||[51% 的美国特斯拉车主回归燃油车？数据被指并不靠谱，实际更接近 13%](https://www.ithome.com/0/786/525.htm)|
+||[邮寄快递必须“刷脸”了？官方回应：试点应用，不作强制性推荐](https://www.ithome.com/0/786/524.htm)|
+||[广汽如祺出行获准在珠海横琴开展 Robotaxi 道路测试](https://www.ithome.com/0/786/523.htm)|
+|[爱范儿](https://www.ifanr.com/feed)|[第一款 M4 Mac 要来了，外观可能有新变化](https://www.ifanr.com/1594825?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[早报 传交个朋友要求删除罗老师谈论俞敏洪的负面评论视频/苹果股价创下近两年最大单日跌幅/荣耀回应上市传闻：将适时启动 IPO](https://www.ifanr.com/1594857?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 一鍵生成 QR Code 快速分享 Wi-Fi 密碼教學](https://applefans.today/2024-ios-18-iphone-use-qr-code-share-wifi-password/)|
 ||[iOS 18.1 帶來全新 iPhone 「通話錄音」功能](https://applefans.today/2024-08-ios-18-iphone-call-recording/)|
 |[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[图片可正常下载，下载后本地可正常预览， 但是将图片上传后无法正常显示？](https://segmentfault.com/q/1010000045146452)|
