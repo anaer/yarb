@@ -2,6 +2,52 @@
 
 |来源|标题|
 |---|---|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[当鱼叉式网络钓鱼遇到大规模网络钓鱼](https://www.4hou.com/posts/gyLY)|
+|[蓝点网](https://www.landiannews.com/feed)|[美国法官裁定谷歌与苹果达成独家协议成为默认搜索引擎违反反垄断法](https://www.landiannews.com/archives/105281.html)|
+||[OpenAI联合创始人约翰舒尔曼离职并加盟竞争对手Anthropic公司](https://www.landiannews.com/archives/105266.html)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Tipard FixMP4 - 视频修复工具 Windows $49.96→0 ](https://free.apprcn.com/tipard-fixmp4-2/)|
+||[Hero of the Kingdom: Tales 1 - 王国英雄：失落传说 1 iOS 美区 $4.99→0 ](https://free.apprcn.com/hero-of-the-kingdom-tales-1-3/)|
+||[Megapolis - 模拟城市建造游戏 macOS、iOS 美区 $4.99→0 ](https://free.apprcn.com/megapolis-5/)|
+|[IT之家](https://www.ithome.com/rss/)|[中兴 F50 5G 随身 WiFi 存储版开售：256GB 存储 + 2TB SD 卡拓展 、5G 双模，限时活动价 529 元](https://www.ithome.com/0/786/476.htm)|
+||[成为你的邮件助手，苹果牌 AI 部分代码 / 指令信息曝光](https://www.ithome.com/0/786/475.htm)|
+||[苹果设计团队领导者换角，仍处于动荡之中](https://www.ithome.com/0/786/473.htm)|
+||[华为 MatePad Pro 12.2、MatePad Air 2024 平板电脑完整配置曝光：2.8K 144Hz 屏、麒麟处理器](https://www.ithome.com/0/786/472.htm)|
+||[顺序读取可达 26GB/s！美光推出业界首款生态支持用 PCIe 6.0 数据中心固态硬盘](https://www.ithome.com/0/786/471.htm)|
+||[微信视频号加大力度治理“快速过款”：禁止直播带货连续不间断快速展示多个商品](https://www.ithome.com/0/786/470.htm)|
+||[软银股价暴跌 19%：创 1998 年上市以来之最，市值蒸发 150 亿美元](https://www.ithome.com/0/786/469.htm)|
+||[《黑神话：悟空》官宣完成正式版本所有内容开发，8 月 8 日上午 10 点发布新宣传片](https://www.ithome.com/0/786/468.htm)|
+||[“神笔马良版 Sora”，阿里团队推出视频 AI 生成框架 Tora：画圈操控物体运动轨迹](https://www.ithome.com/0/786/467.htm)|
+||[疑似奇瑞内部讲话曝光：3 个人干 5 个人的活拿 4 个人的工资，提高加班效率](https://www.ithome.com/0/786/466.htm)|
+||[减少干扰，“紧凑型”悬浮通知现身 Android 15 Beta 4](https://www.ithome.com/0/786/464.htm)|
+||[挑战英伟达，AI 芯片公司 Groq 成功融资 6.4 亿美元：估值飙升至 28 亿美元](https://www.ithome.com/0/786/463.htm)|
+||[消息称恒大汽车合同期内无故解雇大量员工：巅峰期超 6000 人，现不到 500 人](https://www.ithome.com/0/786/462.htm)|
+||[董明珠：格力正开发“不要电”的空调，直连光伏实现 0 电费](https://www.ithome.com/0/786/461.htm)|
+||[消息称台积电 2025 年 5nm、3nm 制程涨价 3%~5%，已于 7 月通知客户](https://www.ithome.com/0/786/460.htm)|
+||[OpenAI 联合创始人 John Schulman 离职，加入 AI 创企 Anthropic](https://www.ithome.com/0/786/459.htm)|
+||[谷歌 Pixel 9 Pro Fold 折叠手机相机规格曝光：4800 万主摄、1000 万前置摄像头](https://www.ithome.com/0/786/458.htm)|
+||[洛图科技：2024 年上半年中国监控摄像头销量同比上涨 9.2%，线上市场小米销量、销额均位居第一](https://www.ithome.com/0/786/457.htm)|
+||[蔚来换电突破 5000 万次，用户补能近六成来源于换电](https://www.ithome.com/0/786/455.htm)|
+||[谷歌被曝酝酿全新安卓天气应用：简洁设计，随 Pixel 9 系列手机亮相](https://www.ithome.com/0/786/454.htm)|
+||[全球第一！中国 2024 上半年汽车出口量再次超越日本](https://www.ithome.com/0/786/453.htm)|
+||[遭网络攻击两个月后，niconico 动画恢复服务、确认 25.4 万人信息泄露](https://www.ithome.com/0/786/452.htm)|
+||[微软今日起把安全工作与员工绩效考核挂钩：安全高于一切](https://www.ithome.com/0/786/451.htm)|
+||[佰维存储将参加 FMS 2024 峰会，展出至高 8800MT/s CU-DIMM 内存条](https://www.ithome.com/0/786/450.htm)|
+||[中汽协：2024 上半年我国汽车商品累计进出口总额达 1453.1 亿美元，同比增长 6.8%](https://www.ithome.com/0/786/449.htm)|
+||[三星 Galaxy A06 手机渲染图再曝光：银、黑两种颜色，联发科 Helio G85 芯片 + 6GB 内存](https://www.ithome.com/0/786/448.htm)|
+||[戴尔重组销售团队，裁员并成立 AI 新部门](https://www.ithome.com/0/786/447.htm)|
+||[三星 Galaxy Tab S10 系列平板再曝光，新证据表明没有标准版](https://www.ithome.com/0/786/445.htm)|
+||[用时 26 天，红旗 E007 项目首台验证样车成功试制下线](https://www.ithome.com/0/786/420.htm)|
+||[即将发布，三星上线 Galaxy S24 FE 手机支持页面](https://www.ithome.com/0/786/444.htm)|
+||[科技昨夜今晨 0806：2024 年《财富》世界 500 强揭晓；小米辟谣金凡离职；分析师称苹果 iPhone 高端机型将继续在中国生产](https://www.ithome.com/0/786/443.htm)|
+||[奥运转播首次应用，商汤与 SMT 联合打造 2024 巴黎奥运射箭比赛“AI 解说员”](https://www.ithome.com/0/786/419.htm)|
+||[突破 300kW，特斯拉 V4 超级充电桩正进行更高充电功率测试](https://www.ithome.com/0/786/442.htm)|
+||[全国首个，南方电网实现新型储能百毫秒级调控](https://www.ithome.com/0/786/416.htm)|
+||[3 大好处，古尔曼再次透露苹果新 Apple Watch SE 智能手表改用塑料材质](https://www.ithome.com/0/786/441.htm)|
+||[英特尔公布第 13/14 代酷睿处理器延保至 5 年细则：涉及 24 款型号，涵盖盒装 / 散装产品](https://www.ithome.com/0/786/439.htm)|
+||[三星电子宣布量产业界最薄 LPDDR5X 内存封装，较上代厚度减少约 9%](https://www.ithome.com/0/786/438.htm)|
+||[Forge Battery 推出 21700 电池挑战行业巨头：支持 10 分钟快充，能量密度 300Wh/kg](https://www.ithome.com/0/786/437.htm)|
+|[小强的时间管理博客](http://www.gtdlife.com/feed/)|[终于把笔记标签系统搞好了，然而这过程并不容易……](https://www.gtdlife.com/2024/6433/bijixitong/)|
+|[36氪](http://36kr.com/feed)|[理想汽车郎咸朋：未来没有10亿美元利润，玩不起自动驾驶｜36氪专访](https://36kr.com/p/2892866216860291?f=rss)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[OpenAI联合创始人John Schulman离开公司 加入Anthropic](https://m.cnbeta.com.tw/view/1441128.htm)|
 ||[波音开始减少对中国人才的依赖 用印度裔工程师取代](https://m.cnbeta.com.tw/view/1441127.htm)|
 ||[宁德时代“失速”，全怪车企价格战太激烈？](https://m.cnbeta.com.tw/view/1441126.htm)|
