@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《崩铁》中朱明将军「怀炎」只是一位 NPC，你为此感到可惜吗？](https://www.zhihu.com/question/663381881)|
+||[诺贝尔物理学奖获得者李政道先生去世，如何评价李先生一生的功绩？](https://www.zhihu.com/question/663505241)|
+||[有哪些护肤品是老婆平时舍不得买，但是送给她会很开心的？](https://www.zhihu.com/question/662470261)|
+||[跑马拉松时落后了该怎么调整好心态？](https://www.zhihu.com/question/660490899)|
+||[如何评价马丽凭借电影《第二十条》「李茂娟」一角首次获得百花奖最佳女主角？](https://www.zhihu.com/question/663448742)|
+||[如何看待 2024 年 8 月 6 日 A 股市场行情走势？](https://www.zhihu.com/question/663508853)|
+||[如何评价《崩坏星穹铁道》8.5 末日剧场支配恶兽？](https://www.zhihu.com/question/663503957)|
+||[「心智化」是什么？如何在交往早期判断一个人「心智化」程度高不高？](https://www.zhihu.com/question/662919176)|
+||[当今有哪些民俗文化源自古代的禳灾活动？](https://www.zhihu.com/question/661236183)|
+||[上班很忙、圈子越来越小，已经忘了谈恋爱的感觉，我该如何坦然接受单身？](https://www.zhihu.com/question/662470188)|
+||[OpenAI 承认正研发 ChatGPT 文本水印技术，为什么要研发这项技术？会带来哪些影响？](https://www.zhihu.com/question/663490283)|
+||[如何评价 FGO 日服九周年活动?](https://www.zhihu.com/question/663461559)|
+||[对于写作，什么最难？](https://www.zhihu.com/question/662888740)|
+||[泽连斯基「外国援助的 F-16 战机已参战 」，如何评价 F-16 战机？这将对俄乌战争产生什么影响？](https://www.zhihu.com/question/663488323)|
+||[你们有教孩子，不要轻易上别人家玩吗？](https://www.zhihu.com/question/660878776)|
+||[女生夏天怎么穿出高级感?](https://www.zhihu.com/question/658725180)|
+||[《四大名著》书籍里人物的结局为什么都不完美？](https://www.zhihu.com/question/663492179)|
+||[从心理学角度看待，人们在相处中到底是更喜欢「惊喜感」还是「确定感」？](https://www.zhihu.com/question/662919158)|
+||[巴黎奥运女乒决赛，陈梦与孙颖莎对决，内战双方均没教练，这是为什么？](https://www.zhihu.com/question/663372442)|
+||[公司用 NetCore 进行开发，目前系统完成 70% 左右，近两天老板又找了个 Java 团队，该何去何从？](https://www.zhihu.com/question/663513277)|
+||[呼雷越狱时，为什么不顺手释放其他实力强大的狱友一起和自己反狱？](https://www.zhihu.com/question/663491220)|
+||[周一大跌后，日韩股市周二暴力反弹，日经 225 指数大涨 10%，东证指数期货触发向上熔断，如何解读？](https://www.zhihu.com/question/663572694)|
+||[如何看待 OpenAI 联创 Greg 疑将离职、 John Schulman 加入 Anthropic？](https://www.zhihu.com/question/663573323)|
+||[郑钦文离开法国备战北美赛季，无缘中国代表团闭幕式旗手，如何看待此消息？你认为谁还有机会当旗手？](https://www.zhihu.com/question/663546390)|
+||[因工人素质、基础设施问题，富士康从印度越南「回归」中国内地，如何评价富士康这一调整？](https://www.zhihu.com/question/663509002)|
+||[有什么网游可以代替《魔兽世界》？](https://www.zhihu.com/question/31059934)|
+||[美股开盘大跌，英伟达、特斯拉跌超 10%，马斯克怒喷美联储「不降息很蠢」，市场何时企稳?](https://www.zhihu.com/question/663537701)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 调个前端布局遇到个问题请教大家](https://www.v2ex.com/t/1063004#reply11)|
+||[ 问与答 你们的公司会提供正版生产软件吗？](https://www.v2ex.com/t/1063000#reply13)|
+||[ 问与答 27 岁近视了，接受不了](https://www.v2ex.com/t/1062995#reply17)|
+||[ 生活 用了 4 年时间把脱发从不戴帽子出不了门恢复到日常几乎看不出脱发的状态](https://www.v2ex.com/t/1062973#reply14)|
+||[ 生活 用 iPad 在 12123 选号导致黑名单](https://www.v2ex.com/t/1062967#reply20)|
+||[ 职场话题 办公室有人敲键盘太响了](https://www.v2ex.com/t/1062965#reply23)|
+||[ NAS 新手求推荐 NAS](https://www.v2ex.com/t/1062959#reply21)|
+||[ 程序员 springboot 中如何把 map 直接入库](https://www.v2ex.com/t/1062956#reply15)|
+||[ 生活 求助，空调滴水](https://www.v2ex.com/t/1062955#reply15)|
+||[ 程序员 前端做记住密码功能，如何保证安全性？](https://www.v2ex.com/t/1062954#reply25)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[发现了一个免费的经典古籍宝藏，这个网站收藏的文本已超过三万部著作，并有五十亿字之多，为历代中文文献资料库最大者。您可以在线查阅先秦两汉和汉代期间的经典...](https://m.okjike.com/originalPosts/66b192c3b00a43e910cd98e8)|
+|[forecho's Blog](https://blog.forecho.com/atom.xml)|[RichCalls Warden 使用指南](https://blog.forecho.com/use-richcalls-warden.html)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[美国航空公司耗尽四位数航班号](https://www.solidot.org/story?sid=78896)|
+||[美国法官裁决 Google 付费成为默认搜索引擎违反了反垄断法](https://www.solidot.org/story?sid=78895)|
+||[Windows 11 市场份额突破三成](https://www.solidot.org/story?sid=78894)|
+||[马斯克重启对 OpenAI 和 Sam Altman 的诉讼](https://www.solidot.org/story?sid=78893)|
+||[印尼以赌博色情理由封锁 DuckDuckGo](https://www.solidot.org/story?sid=78892)|
+|[IT之家](https://www.ithome.com/rss/)|[中网联发起“优质主播培育工程”：认定 6000 个优质直播间，抖音首个试点](https://www.ithome.com/0/786/653.htm)|
+||[小米汽车：SU7 Ultra 原型车基于 SU7 打造，独立设计开发核心硬件及车身结构](https://www.ithome.com/0/786/652.htm)|
+||[九号公司 2024 上半年营收 66.66 亿元，同比增长 52.2%](https://www.ithome.com/0/786/650.htm)|
+||[比亚迪：越南是电动汽车重点市场，正建设 36 家 4S 店、均配备快充系统](https://www.ithome.com/0/786/649.htm)|
+||[奇瑞“瑞虎 8”SUV 车型新增“1.5T 手动新潮版”：可选 5/7 座布局，13.59 万元起](https://www.ithome.com/0/786/648.htm)|
+||[消息称英特尔双边押宝 Nova Lake 处理器工艺：有望采用 Intel 14A，也已在台积电开案](https://www.ithome.com/0/786/647.htm)|
+||[华为联合北京联通，超 4000 个 5G-A 基站全面覆盖四环内及城市副中心等核心区域](https://www.ithome.com/0/786/646.htm)|
+||[华为新款 MatePad Air 平板标准版与柔光版存在功能差异，缺失注视不熄屏、影随人动等功能](https://www.ithome.com/0/786/643.htm)|
+||[广汽集团与字节跳动火山引擎战略合作，包括智能座舱、云服务等](https://www.ithome.com/0/786/642.htm)|
+||[蜂王电竞推出“27QKPRO”27 英寸显示器：2K 240Hz，1199 元](https://www.ithome.com/0/786/641.htm)|
+||[小米 Redmi G Pro 电竞全家桶套装上架：i7 / i9 笔记本 + 27 英寸显示器，9498 元起](https://www.ithome.com/0/786/639.htm)|
+||[Steam 新一周销量榜：《黑神话：悟空》全球登顶，《GTA5》再上榜](https://www.ithome.com/0/786/623.htm)|
+||[沪苏湖高铁进入静态验收阶段，距离开通运营更近一步](https://www.ithome.com/0/786/635.htm)|
+||[国际首次在天上给植被“做 CT”，我国开展土壤植被系统水分透视航空试验](https://www.ithome.com/0/786/634.htm)|
+||[AGM P2 Active 重装版平板开售：联发科 G99、8000mAh 电池，首发 1699 元](https://www.ithome.com/0/786/633.htm)|
+||[华邦电子：4Gb DDR4 / LPDDR4 已放量出货，内存工艺明年升级至 16nm](https://www.ithome.com/0/786/632.htm)|
+||[【视频】零门槛配网打印，华为毕昇激光打印机X1系列体验评测](https://www.ithome.com/0/786/631.htm)|
+||[TP-LINK 推出 TL-DB54H 可视门铃：4MP 传感器 + 智能人形检测，157 元](https://www.ithome.com/0/786/630.htm)|
+||[预售 24.98 万元，余承东宣布问界新 M7 Pro 成都车展正式发布：搭载华为 ADS 基础版](https://www.ithome.com/0/786/628.htm)|
+||[问界 M5 / M7 / M9 和智界 S7 车型 9 月起全系升级华为 ADS 3.0 智驾，泊车代驾正式商用](https://www.ithome.com/0/786/627.htm)|
+||[39.98~44.98 万元，鸿蒙智行享界 S9 豪华轿车正式发布：首发华为 ADS 3.0](https://www.ithome.com/0/786/626.htm)|
+||[阿里云宣布 8 月 15 日起上调号码认证产品价格，含一键登录和本机号码校验](https://www.ithome.com/0/786/625.htm)|
+||[享界 S9 首发华为 ADS 3.0 高阶智驾，误踩油门防碰撞制动、路面自适应 AEB](https://www.ithome.com/0/786/622.htm)|
+||[微软推出 Surface Pro 11“5G 商用版”：骁龙 X Elite + 16G + 512G + OLED 屏售 14388 元](https://www.ithome.com/0/786/618.htm)|
+||[腾讯代理，《彩虹六号》游戏国服进入上线筹备阶段、将在客户端与移动端发行](https://www.ithome.com/0/786/617.htm)|
+||[至誉科技 Catalyst 锋速系列 SDXC UHS-II V90 存储卡新增 256GB：V90 视频认证、支持 4K RAW，首发 2899 元](https://www.ithome.com/0/786/616.htm)|
+||[字节跳动推出对标快手可灵和 Sora 的“即梦 AI”，已上架苹果 App Store 及安卓应用商店](https://www.ithome.com/0/786/614.htm)|
+||[小米 BE6500 路由器开启预售：全 2.5G 网口、Wi-Fi 7，首发 499 元](https://www.ithome.com/0/786/611.htm)|
+||[Steam 国区 45 元，国产第一人称梦核恐怖游戏《无归》发售](https://www.ithome.com/0/786/610.htm)|
+||[任天堂 Switch 游戏《塞尔达传说：智慧的再现》官网上线，大地篇宣传视频公布](https://www.ithome.com/0/786/609.htm)|
+|[少数派](https://sspai.com/feed)|[具透 Plus 三大浏览器争相介绍隐私保护「好」消息](https://sspai.com/prime/story/inside-release-notes-240806)|
+||[社区速递 056 你没见过的社区文章、一周最热评、派友给学子的购机建议](https://sspai.com/post/91207)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[今日消费资讯：村上春树新作中文版书名确定、TUMI 推出 2024 秋季系列](http://www.toodaylab.com/82973)|
+|[爱范儿](https://www.ifanr.com/feed)|[戴上降噪耳机的我，为什么还要捂住耳朵？](https://www.ifanr.com/1594572?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[伟志思考 没有哪一种投资策略会永远有效， 那些最灾难投资决策的共性](http://xueqiu.com/5714339634/300037485)|
 |[开源中国-最新资讯](https://rsshub.app/oschina/news)|[OpenAI 又一联合创始人转投 Anthropic，Brockman 休长假](https://www.oschina.net/news/305626/openai-john-schulman-anthropic)|
 ||[BudIot 萌发物联网设备平台 v1.0.1 发布](https://www.oschina.net/news/305612/budiot-1-0-1-released)|
 |[朝舞网](https://ii74.com/feed.php)|[vs2022使用c++ std::any_of 等 c++ 11 标准语言时，提示报错namespace &quot;std&quot; has no member &quot;all_of&quot;](https://ii74.com/post/6442.html)|
