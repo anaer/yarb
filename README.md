@@ -2,6 +2,34 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[三星Galaxy A06渲染图泄露：复古水滴屏设计 标配3.5mm耳机口](https://m.cnbeta.com.tw/view/1441135.htm)|
+||[疑似奇瑞内部讲话曝光：要让3人干5人的活？公司暂无回应](https://m.cnbeta.com.tw/view/1441133.htm)|
+||[Google败诉案的另一输家 苹果上哪找1400亿收入？](https://m.cnbeta.com.tw/view/1441131.htm)|
+||[Google Pixel 9 将推出新的天气应用 采用极简设计并取消动画效果](https://m.cnbeta.com.tw/view/1441129.htm)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Gartner安全运营成熟度曲线：XDR、SOAR 泡沫破裂；EDR、SIEM 进入生产成熟期](https://www.freebuf.com/news/407888.html)|
+||[Apache OFBiz 曝出严重漏洞，允许预身份验证 RCE](https://www.freebuf.com/news/407869.html)|
+|[TecHug](https://www.techug.com/feed)|[美国国防部建议将C代码转换为Rust](https://www.techug.com/post/the-us-department-of-defense-recommends-converting-c-code-to-rust-99841a/)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[线性代数应该这样学（免费中文第四版）](https://www.jdon.com/74928.html)|
+||[12个API安全技巧](https://www.jdon.com/74927.html)|
+||[2024 年十大服务器备份软件](https://www.jdon.com/74926.html)|
+|[极客公园](http://feeds.geekpark.net/)|[突发！OpenAI 再传人事巨变，三位核心人物同期离场](http://www.geekpark.net/news/338928)|
+|[蓝点网](https://www.landiannews.com/feed)|[发布近3年后Windows 11市场份额终于突破30% 不过大量用户仍使用Windows 10](https://www.landiannews.com/archives/105268.html)|
+||[谷歌发布2024-08 Android例行安全更新 修复已被黑客利用的内核漏洞](https://www.landiannews.com/archives/105264.html)|
+||[三星量产目前全球最轻薄的LPDDR5X闪存芯片 可以预留更多空间用于散热](https://www.landiannews.com/archives/105275.html)|
+||[苹果为Safari添加干扰控制可拦截广告或各种弹窗 下面是具体操作方法](https://www.landiannews.com/archives/105280.html)|
+||[苹果推出iOS 18 Dev Beta 5版更新 继续改进相册并为浏览器带来干扰控制](https://www.landiannews.com/archives/105278.html)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[危害严重的 Apache OFBiz 未授权远程代码执行漏洞需立即修复](https://www.anquanke.com/post/id/298812)|
+||[研究人员发现 Windows 智能应用控制和 SmartScreen 中的漏洞](https://www.anquanke.com/post/id/298817)|
+||[数以万计的Ubiquiti物联网摄像头与路由器成为黑客的攻击目标](https://www.anquanke.com/post/id/298820)|
+||[Rockwell Automation ControlLogix 1756 中存在一个未经授权的访问漏洞](https://www.anquanke.com/post/id/298822)|
+||[SnakeKeylogger潜入Windows 收件箱以窃取敏感机密](https://www.anquanke.com/post/id/298826)|
+||[新的Android木马“BlankBot”针对土耳其用户的财务数据](https://www.anquanke.com/post/id/298829)|
+||[白宫和欧盟委员会启动1500万美元的网络安全奖学金计划](https://www.anquanke.com/post/id/298832)|
+||[APT 组织 StormBamboo 通过 DNS 欺骗攻击 ISP 客户](https://www.anquanke.com/post/id/298835)|
+||[骗子利用谷歌广告系统诱导用户下载有问题的软件](https://www.anquanke.com/post/id/298839)|
+||[ISC.AI 2024第二届全国信息安全产教融合发展大会圆满召开](https://www.anquanke.com/post/id/298843)|
+||[弘扬数字时代青年力量，ISC.AI 2024漏洞生态与实战人才发展论坛召开](https://www.anquanke.com/post/id/298853)|
+|[游魂博客](https://www.iyouhun.com/rss.php)|[windows中使用Oh My Posh美化你的终端PowerShell或CMD](https://www.iyouhun.com/post-266.html)|
 |[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[当鱼叉式网络钓鱼遇到大规模网络钓鱼](https://www.4hou.com/posts/gyLY)|
 |[蓝点网](https://www.landiannews.com/feed)|[美国法官裁定谷歌与苹果达成独家协议成为默认搜索引擎违反反垄断法](https://www.landiannews.com/archives/105281.html)|
 ||[OpenAI联合创始人约翰舒尔曼离职并加盟竞争对手Anthropic公司](https://www.landiannews.com/archives/105266.html)|
