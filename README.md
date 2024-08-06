@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 一鍵生成 QR Code 快速分享 Wi-Fi 密碼教學](https://applefans.today/2024-ios-18-iphone-use-qr-code-share-wifi-password/)|
+||[iOS 18.1 帶來全新 iPhone 「通話錄音」功能](https://applefans.today/2024-08-ios-18-iphone-call-recording/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[图片可正常下载，下载后本地可正常预览， 但是将图片上传后无法正常显示？](https://segmentfault.com/q/1010000045146452)|
+||[通过vite中rollup打包，如何对lodash做按需打包？](https://segmentfault.com/q/1010000045146080)|
+||[vue3 入口文件 App.vue中如何设置 viewport？](https://segmentfault.com/q/1010000045146070)|
+||[sql insert语法报错?](https://segmentfault.com/q/1010000045145652)|
+||[webstorm 打开vue项目一直提找不到@，但可以打开，如何解决？](https://segmentfault.com/q/1010000045145611)|
+||[调用大模型输出的格式文本，在HTML中原样输出了，如何解决呢？](https://segmentfault.com/q/1010000045145571)|
+||[ConcurrentHashMap 多个 key 如何实现原子操作？](https://segmentfault.com/q/1010000045145532)|
+||[codeigniter4多维数组validation怎么写？](https://segmentfault.com/q/1010000045145516)|
+|[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[老是错过提醒通知？这个强提醒 App 可能适合你](https://sspai.com/post/91175)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜小米CEO雷军进军带货；微博整治奥运赛事讨论中的拉踩引战内容；诺贝尔物理学奖获得者李政道逝世](https://36kr.com/p/2893939190619017)|
+||[第一学历低的人，后来都怎么样了？](https://36kr.com/p/2892826036951683)|
+||[雷军不装了，抖音橱窗开始带货](https://36kr.com/p/2893203185310601)|
+||[苹果设计团队迎来新掌门，可能操刀折叠 iPhone 设计，风格或将回归 Jony Ive 时代](https://36kr.com/p/2893165827725956)|
+||[英伟达最强AI芯片曝重大设计缺陷，中国特供版意外曝光](https://36kr.com/p/2892843418229385)|
+|[36氪](http://36kr.com/feed)|[对话经济学家陈龙：企业做ESG，首先要懂人性 ESG 36人](https://36kr.com/p/2888822794165127?f=rss)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Flux AI Image Generator（免费，免登录，无限量）](https://w2solo.com/topics/4886)|
+||[电脑瓶颈计算器](https://w2solo.com/topics/4885)|
+||[3 年赚了 70 万可我很迷茫](https://w2solo.com/topics/4884)|
+|[卡瓦邦噶！](https://www.kawabangga.com/feed)|[数据中心网络高可用技术之从服务器到交换机：802.3 ad](https://www.kawabangga.com/posts/6509)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[jQuery UI 1.14.0 稳定版发布](https://www.oschina.net/news/305584/jquery-ui-1-14-0-released)|
+||[马斯克重启对 OpenAI 及 Sam Altman 的诉讼](https://www.oschina.net/news/305572/elon-musk-revives-lawsuit-openai-sam-altman)|
+||[openKylin 技术委员会例会召开，2.0 版本最新进展汇报！](https://www.oschina.net/news/305561)|
+||[deepinV23 适配 Intel Ultra，最适合 AIPC 的操作系统来啦](https://www.oschina.net/news/305553)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[https://mp.weixin.qq.com/s/_GcrWRZ-aEFerrg9lzpkXQ](https://t.me/liyuans/46977)|
+||[Glance Reddit 403报错解决办法 via 荒岛 author: LALA ](https://t.me/liyuans/46976)|
+||[Glance：自托管个人仪表板 via 荒岛 author: LALA ](https://t.me/liyuans/46975)|
+|[少数派](https://sspai.com/feed)|[有争议，无悬念：我的一年期 MacBook Pro使用记录与随想](https://sspai.com/post/91091)|
+||[派早报：腾讯文件助手将停运，网信办公布今年 7 月网络举报受理数据等](https://sspai.com/post/91185)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 准备去日本，现在买日版 iphone15pro 是不是最优？](https://www.v2ex.com/t/1062897#reply15)|
+||[ 问与答 有人计算过中央空调用电量吗](https://www.v2ex.com/t/1062893#reply16)|
+||[ 问与答 《黑神话 悟空》性价比最高的游玩方式是什么？](https://www.v2ex.com/t/1062892#reply19)|
+||[ 生活 帮大家避坑一款家用网络摄像头](https://www.v2ex.com/t/1062881#reply15)|
+||[ 问与答 回村搞块地搞有机绿色种植靠谱不](https://www.v2ex.com/t/1062880#reply19)|
+||[ git github 强制 2fa，有什么替代的吗](https://www.v2ex.com/t/1062879#reply38)|
+||[ 投资 从不炒股的我来说说我观察到的一些股民的现象](https://www.v2ex.com/t/1062876#reply26)|
+||[ 分享创造 送码🎁 桌面新宠 2.1，可以自定义宠物了🎉](https://www.v2ex.com/t/1062875#reply11)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[李政道：物理学之外，天才的责任](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247518533&idx=1&sn=aeff3d9aa4bcc97ba3b3228c66dd47ec)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[三星Galaxy A06渲染图泄露：复古水滴屏设计 标配3.5mm耳机口](https://m.cnbeta.com.tw/view/1441135.htm)|
 ||[疑似奇瑞内部讲话曝光：要让3人干5人的活？公司暂无回应](https://m.cnbeta.com.tw/view/1441133.htm)|
 ||[Google败诉案的另一输家 苹果上哪找1400亿收入？](https://m.cnbeta.com.tw/view/1441131.htm)|
