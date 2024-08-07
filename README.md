@@ -2,6 +2,33 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[日产新车漆显著降低车内温度](https://www.solidot.org/story?sid=78907)|
+||[一村民被气象炮弹砸断腿](https://www.solidot.org/story?sid=78906)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[知名黑客公开近30亿条国家公共数据，包括全名、地址、SSN...](https://www.freebuf.com/news/408040.html)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[日本科学家发明大道至简的EUV光刻技术](https://www.jdon.com/74948.html)|
+||[口服益生菌是缴智商税？](https://www.jdon.com/74947.html)|
+||[脑活素Cerebrolysin是骗局吗？](https://www.jdon.com/74946.html)|
+||[Hibernate Reactive 和 Quarkus 开发高性能应用](https://www.jdon.com/74945.html)|
+||[震惊：ChatGPT撰写了许多科学论文的引言介绍](https://www.jdon.com/74944.html)|
+||[AGI预言：大学和博士都不值得读了？](https://www.jdon.com/74943.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软身份验证器被爆存在严重设计问题 用户扫码添加账户时数据会被覆盖](https://www.landiannews.com/archives/105308.html)|
+||[英特尔首批基于18A工艺的产品下线并成功开机 预计将在2025年开始量产](https://www.landiannews.com/archives/105310.html)|
+||[苹果说话太伤人！苹果称必应太垃圾所以才将谷歌搜索作为默认搜索引擎](https://www.landiannews.com/archives/105313.html)|
+||[macOS Sequoia增强安全：未签名或公证的软件无法通过Control-click绕过保护](https://www.landiannews.com/archives/105306.html)|
+||[macOS Sequoia增强安全权限：每次重启都必须重新给截图或屏幕录制工具授权](https://www.landiannews.com/archives/105298.html)|
+||[谷歌尝试在Chrome中实施网站货币化 当你浏览网站时自动支付小费](https://www.landiannews.com/archives/105294.html)|
+||[针对达美航空蓝屏死机的起诉赔偿 微软称愿意提供帮助但该航司拒绝帮助](https://www.landiannews.com/archives/105291.html)|
+|[老左笔记](https://www.laozuo.org/feed)|[利用免费一年亚马逊云S3存储+PicGo私有网盘工具自建网盘图片存储](https://www.laozuo.org/29377.html)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[AI+ 如何重塑技术生产力？](https://www.infoq.cn/article/fjlGd01wjrGvkRT4coec)|
+||[AI 走上研发岗，谁比程序员更先“翻车”？｜InfoQ《极客有约》](https://www.infoq.cn/article/tz4asMmNaiwWx3Gx3yp4)|
+||[程序员就业市场将彻底挤爆！一个年级 60 个班，太原理工带头，十几所高校疯狂扩招软件工程！](https://www.infoq.cn/article/GiAMVRTYEPlIQl2lUpDX)|
+||[洞察开发者群像：职场红海求生记，中外开发者如何破局？](https://www.infoq.cn/article/OqosVw217DeYVBX9LkHv)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[​晚点财经丨3万亿市值公司只剩苹果；肯德基、必胜客降价卖店；Google败诉，反垄断大战开场](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247518578&idx=2&sn=d651b9f56ba7842a6557125a25e7fe35)|
+||[晚点独家丨盒马连续 4 个月盈利，放弃复制山姆](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247518578&idx=1&sn=d9b07503402c16a5a20c62b8f42037cb)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 新手求助 为什么 V2 很少讨论国内热度比较高的事情](https://www.v2ex.com/t/1063236#reply31)|
+||[ 汽车 万能的友友们我该不该买第二辆车](https://www.v2ex.com/t/1063209#reply26)|
+||[ 酷工作 最近经常在 V 上分享我们会社募集的消息，是由于我们社正在筹备前期上市中，现岗位大量扩招，欢迎各位有志之士加入我们，希望大家都能多点善意谢谢~](https://www.v2ex.com/t/1063191#reply13)|
+||[ NAS 求一个能认证 MoviePilot 的 pt 站，已有的 pt 都不支持](https://www.v2ex.com/t/1063185#reply11)|
 |[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[掼蛋变成GD了](https://m.okjike.com/originalPosts/66b2c81efffa511e3a65be1d)|
 |[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[懂开发的网安人才，到底有多吃香？](https://www.freebuf.com/news/408031.html)|
 |[机器之心](https://www.jiqizhixin.com/rss)|[李飞飞亲自撰文，数十名科学家签署联名信，反对加州AI限制法案](https://www.jiqizhixin.com/articles/2024-08-07-4)|
