@@ -2,6 +2,64 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[掼蛋变成GD了](https://m.okjike.com/originalPosts/66b2c81efffa511e3a65be1d)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[懂开发的网安人才，到底有多吃香？](https://www.freebuf.com/news/408031.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[李飞飞亲自撰文，数十名科学家签署联名信，反对加州AI限制法案](https://www.jiqizhixin.com/articles/2024-08-07-4)|
+||[八问八答搞懂Transformer内部运作原理](https://www.jiqizhixin.com/articles/2024-08-07-3)|
+||[李飞飞「空间智能」之后，上交、智源、北大等提出空间大模型SpatialBot](https://www.jiqizhixin.com/articles/2024-08-07-2)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 美国航空业遭遇“千禧虫”： 4 位航班号耗尽，沿用 60 年前系统、升级成本太高](https://www.v2ex.com/t/1063177#reply11)|
+||[ Apple 中国电信屏蔽了 iMessage 激活的短信](https://www.v2ex.com/t/1063171#reply13)|
+||[ Java 百度面试题，大伙给点思路](https://www.v2ex.com/t/1063169#reply12)|
+||[ MacBook Pro 人到中年，想换个显示器护眼](https://www.v2ex.com/t/1063167#reply18)|
+||[ 北京 兄弟们，又阳了，注意点啊最近](https://www.v2ex.com/t/1063161#reply24)|
+||[ 问与答 近 10 天没回复一个学姐的消息，请问怎么办？](https://www.v2ex.com/t/1063156#reply15)|
+||[ 问与答 工行工资卡无故被封了](https://www.v2ex.com/t/1063152#reply25)|
+||[ 问与答 马上七夕了,麻烦各位大佬给推荐送老婆的礼物](https://www.v2ex.com/t/1063151#reply70)|
+||[ 问与答 为什么有了 chatgpt 后国内人工智能突然爆发?](https://www.v2ex.com/t/1063148#reply38)|
+||[ 程序员 想做一个桌面端的图像管理软件](https://www.v2ex.com/t/1063141#reply35)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[比起巴菲特减持，被撕开口子的“苹果税”更该担忧](http://xueqiu.com/7815672011/300153232)|
+||[石油行业思考](http://xueqiu.com/1201546096/300216937)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[新加坡学生设备数据因 Mobile Guardian 网络攻击事故被远程清除](https://www.solidot.org/story?sid=78905)|
+||[英国研究发现接种新冠疫苗有助于降低心脏病和中风风险](https://www.solidot.org/story?sid=78904)|
+||[罗伯特·索耶发布免费 DOS 版 WordStar 7](https://www.solidot.org/story?sid=78903)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774401)|
+||[李白的《赠汪伦》是打油诗吗？](https://daily.zhihu.com/story/9774380)|
+||[澳大利亚的袋熊，为什么喜欢用屁股攻击捕食者？](https://daily.zhihu.com/story/9774387)|
+||[如果把全世界的蚊子都揉成一个球能有多大？](https://daily.zhihu.com/story/9774397)|
+||[水族馆海洋馆里的那些超级大水箱会破吗？](https://daily.zhihu.com/story/9774376)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[面向多样应用需求，书生·浦语2.5开源超轻量、高性能多种参数版本](https://segmentfault.com/a/1190000045149766)|
+|[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 51Read - 章节](https://t.me/awesomeRSSHub/6729)|
+||[RSSHub has new routes 秀动网 - 按场地 - 演出更新](https://t.me/awesomeRSSHub/6728)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[你认为神秘的商王朝给后世带来了怎样的影响？](https://www.zhihu.com/question/661186516)|
+||[如何评价原神调香师卡池 iOS 排名仅为第 16，创下史低？](https://www.zhihu.com/question/663629418)|
+||[美媒最新民调显示哈里斯微弱领先特朗普，如何看待这一结果？距离最终大选还有三个月，哈里斯胜选几率有多大？](https://www.zhihu.com/question/663520721)|
+||[如果现实中真的存在光剑，那么适合光剑的剑法是怎样的？](https://www.zhihu.com/question/265876873)|
+||[董明珠称格力正开发「不要电」的空调，直连光伏实现 0 电费，这是个什么技术？未来空调真能「不用电」吗？](https://www.zhihu.com/question/663597365)|
+||[2024 巴黎奥运会女子 10 米跳台跳水决赛，全红婵夺金，陈芋汐摘银，如何评价这场比赛？](https://www.zhihu.com/question/663536089)|
+||[华为与北汽合作的享界 S9 发布，39.98 万起，余承东称多方面超越传统豪华车，如何评价这款车？](https://www.zhihu.com/question/663604536)|
+||[考上重点高中的人脑子是不是都很聪明?](https://www.zhihu.com/question/662051694)|
+||[如何看待 2024 年 8 月 7 日 A 股市场行情走势？](https://www.zhihu.com/question/663593921)|
+||[为什么虾皮里总能发现小螃蟹？](https://www.zhihu.com/question/661029540)|
+||[善良真的有用嘛？](https://www.zhihu.com/question/663458562)|
+||[深耕一个领域与频繁轮岗，职场新人如何选择?](https://www.zhihu.com/question/663365660)|
+||[有哪些销量很高的产品，其实是七夕送礼雷区？](https://www.zhihu.com/question/662470213)|
+||[准备开始慢跑，但是稍微一跑起来就心率到 170-180，请问如何安排训练计划？](https://www.zhihu.com/question/661409727)|
+||[三十岁本金五百万全职炒股可以吗？](https://www.zhihu.com/question/663656404)|
+||[「依恋模式」是个体成年后的人际关系模板吗？它会不断体现在成年人的恋爱模式中吗？](https://www.zhihu.com/question/662919171)|
+||[有什么黄金饰品很适合情人节送给爱人的？](https://www.zhihu.com/question/662470230)|
+||[能推荐一款闻起来很高级有质感的香水吗?](https://www.zhihu.com/question/660014815)|
+||[有没有一种宵夜美食，让你回想起儿时的时光？](https://www.zhihu.com/question/661785447)|
+||[乒乓球女单决赛结束后，一女子诋毁运动员和教练员被刑拘，起到哪些警示作用？](https://www.zhihu.com/question/663622902)|
+||[叶海亚·辛瓦尔成为哈马斯新任政治局领导人，外界认为他是「强硬派」代表，这对巴以冲突会带来哪些影响？](https://www.zhihu.com/question/663654515)|
+||[如何评价《英雄联盟》14.16 版本改动 : 沙皇、发条加强，飞机削弱？](https://www.zhihu.com/question/663595229)|
+||[2024 巴黎奥运会篮球男子 1/4 决赛美国 122:87 巴西，如何评价这场比赛？](https://www.zhihu.com/question/663632246)|
+||[乒坛历史第二人是谁？](https://www.zhihu.com/question/549215708)|
+||[你为什么要坚持运动？](https://www.zhihu.com/question/657833184)|
+||[武汉文旅集团万和光谷直降近万元，负责人称「半年没卖出一套房」，该降价幅度是否合理？](https://www.zhihu.com/question/663420732)|
+||[儿慈会要求陪睡才捐款的录音为「假」，知情人爆料雷克 6 月份已被移交司法机关，目前此事调查进展如何？](https://www.zhihu.com/question/663591367)|
+||[准大学生可以用平板代替笔记本吗？](https://www.zhihu.com/question/663622325)|
+||[老子「无为而无不为」到底是谬论还是真理？](https://www.zhihu.com/question/663589187)|
+||[多国高官穿梭中东，美中央司令部司令访以，绍伊古将与伊朗总统会谈，局势将如何发展？会发生「全面战争」吗？](https://www.zhihu.com/question/663575895)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Chrome 新功能！讓你直接把網路圖片儲存在 Google 相簿中](https://applefans.today/2024-08-chrome-save-image-to-google-photo/)|
 ||[iOS 18 新功能：iPhone 一鍵隱藏螢幕截圖，讓《照片》App 變清爽！](https://applefans.today/2024-08-ios-18-iphone-how-hide-screenshots/)|
 ||[【台灣開賣】Beats Solo 4 無線頭戴式耳機和 Solo Buds 入耳式無線耳機](https://applefans.today/2024-08-beats-solo-4-solo-buds-tw-lanuch/)|
