@@ -2,6 +2,24 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Chrome 新功能！讓你直接把網路圖片儲存在 Google 相簿中](https://applefans.today/2024-08-chrome-save-image-to-google-photo/)|
+||[iOS 18 新功能：iPhone 一鍵隱藏螢幕截圖，讓《照片》App 變清爽！](https://applefans.today/2024-08-ios-18-iphone-how-hide-screenshots/)|
+||[【台灣開賣】Beats Solo 4 無線頭戴式耳機和 Solo Buds 入耳式無線耳機](https://applefans.today/2024-08-beats-solo-4-solo-buds-tw-lanuch/)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[揭秘新型安卓间谍软件LianSpy的攻击手段](https://www.freebuf.com/news/408008.html)|
+||[迄今为止最大BEC骗局被侦破！国际刑警组织利用I-GRIP为企业追回 4100 万美元](https://www.freebuf.com/news/407989.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[eletron 如何获取所有连接的设备接口以及IP地址信息？](https://segmentfault.com/q/1010000045149968)|
+||[这种效果是怎么做出来的？还是单纯的用插件？](https://segmentfault.com/q/1010000045149789)|
+||[如何在Git中删除不必要的merge记录？](https://segmentfault.com/q/1010000045149741)|
+||[子组件一般不仅仅有1个元素，这里的子组件代码内有多个input元素，是否是在fowardRef传输时候需要传输多个ref进行使用？还是说这里一个ref就足够使用了呢？](https://segmentfault.com/q/1010000045149595)|
+|[蓝点网](https://www.landiannews.com/feed)|[小米澎湃OS计划集成隐藏摄像头检测保护用户隐私 不过检测率可能是个问题](https://www.landiannews.com/archives/105296.html)|
+||[迪士尼宣布对流媒体视频服务Disney+、Hulu和ESPN+订阅开启新一轮涨价](https://www.landiannews.com/archives/105290.html)|
+||[反向收购：知名数字消费网站CNET被1亿美元贱卖给曾经自己收购的公司](https://www.landiannews.com/archives/105299.html)|
+||[微软宣布Windows 11后续版本将弃用Adobe PostScript Type1字体](https://www.landiannews.com/archives/105293.html)|
+||[ 下载 Mozilla Firefox v129.0发布 改进HTTPS以及增加选项卡预览功能](https://www.landiannews.com/archives/105292.html)|
+||[美光推出适用于数据中心的PCIe 6.0固态硬盘 连续读取速度可达26GB/秒](https://www.landiannews.com/archives/105297.html)|
+||[英特尔公布第13/14代桌面处理器延保细节：i5/i7/i9等最多可以保修5年](https://www.landiannews.com/archives/105283.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[勒索软件团伙利用新型 SharpRhino 恶意软件攻击 IT 工作者](https://www.4hou.com/posts/gyZY)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[马斯克率领Neuralink团队揭示脑机接口新未来：神秘访谈带你解读核心技术与人类成神之路](https://lukefan.com/2024/08/07/%e9%a9%ac%e6%96%af%e5%85%8b%e7%8e%87%e9%a2%86neuralink%e5%9b%a2%e9%98%9f%e6%8f%ad%e7%a4%ba%e8%84%91%e6%9c%ba%e6%8e%a5%e5%8f%a3%e6%96%b0%e6%9c%aa%e6%9d%a5%ef%bc%9a%e7%a5%9e%e7%a7%98%e8%ae%bf%e8%b0%88/)|
 |[TecHug](http://www.techug.com/feed)|[【外评】关于是谁写了 Windows 的死机蓝屏的澄清](https://www.techug.com/post/there-is-no-mystery-over-who-wrote-the-blue-screen-of-death/)|
 |[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[重磅推出 2024年上半年移动应用隐私安全观测报告](https://www.4hou.com/posts/0MVv)|
 |[IT之家](https://www.ithome.com/rss/)|[凯迪拉克全新 XT5 官宣：“更大、更强、全面重构”](https://www.ithome.com/0/786/786.htm)|
