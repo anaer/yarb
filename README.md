@@ -2,6 +2,40 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 创业组队 找个微信小程序开发](https://www.v2ex.com/t/1063479#reply13)|
+||[ 问与答 老板突然宣布 996 如果是你们你们怎么办](https://www.v2ex.com/t/1063469#reply20)|
+||[ 问与答 请问大家发工资是怎么避税的](https://www.v2ex.com/t/1063465#reply36)|
+||[ 职场话题 劳动仲裁庭上，被仲裁员的法盲给震惊了！](https://www.v2ex.com/t/1063463#reply21)|
+||[ 职场话题 众所周知大部分国内程序员的职业上限在 35 岁，为什么不未雨绸缪提前规划未来呢？](https://www.v2ex.com/t/1063458#reply29)|
+||[ 程序员 请教一个 AI 生成 html 格式邮件问题](https://www.v2ex.com/t/1063457#reply13)|
+||[ 生活 安得广厦千万间，大庇天下寒士俱欢颜](https://www.v2ex.com/t/1063451#reply52)|
+||[ 问与答 有好用的离线漫画阅读器推荐么？没有我开发个](https://www.v2ex.com/t/1063450#reply17)|
+||[ 职场话题 不想接单了，太累了，能转行开 TB 店么](https://www.v2ex.com/t/1063444#reply18)|
+||[ 外汇交易 求教：到底啥叫离岸人民币 CNH？](https://www.v2ex.com/t/1063436#reply14)|
+||[ 宽带症候群 宽带打游戏延迟高，如何排查问题](https://www.v2ex.com/t/1063435#reply11)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[研究人员发现新的Linux内核漏洞利用技术“SLUBStick”](https://www.anquanke.com/post/id/298932)|
+||[新的基于 Go 的后门 GoGra 瞄准南亚媒体组织](https://www.anquanke.com/post/id/298934)|
+||[StormCloud 黑客入侵 ISP，冒充软件更新传播恶意软件](https://www.anquanke.com/post/id/298936)|
+||[新的 Android 间谍软件 LianSpy 依靠 Yandex Cloud 来避免检测](https://www.anquanke.com/post/id/298939)|
+||[使用CSS可以隐藏Microsoft 365的网络钓鱼警告](https://www.anquanke.com/post/id/298943)|
+||[Chameleon 银行木马以 CRM 应用程序的名义卷土重来](https://www.anquanke.com/post/id/298946)|
+||[利用微软 Copilot Studio 可以轻松创建不安全的人工智能助手](https://www.anquanke.com/post/id/298949)|
+||[CISA发布增强软件安全评估指南](https://www.anquanke.com/post/id/298952)|
+||[Roundcube Webmail 中存在严重的 XSS 漏洞允许攻击者窃取电子邮件和敏感数据](https://www.anquanke.com/post/id/298929)|
+||[2024年7月勒索软件软件流行态势分析报告](https://www.anquanke.com/post/id/298955)|
+|[蓝点网](https://www.landiannews.com/feed)|[涨价和打击密码共享成为流媒体视频行业共识：Disney+从9月起严查密码共享](https://www.landiannews.com/archives/105326.html)|
+||[淘宝推出浏览器助手接管Chrome启动页 提供淘宝网页版/旺旺/购物车等](https://www.landiannews.com/archives/105327.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[国家计算机病毒应急处理中心通报15款违规移动应用](https://www.4hou.com/posts/pn82)|
+||[法国巴黎大皇宫披露奥运会期间遭受网络攻击](https://www.4hou.com/posts/nlxR)|
+|[少数派](https://sspai.com/feed)|[寻源大圣之旅：就像是一场梦，醒来以后还是很感动](https://sspai.com/post/91218)|
+|[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[AI如何帮助你永远记住一个单词（三）：GPT-Tutor](https://sspai.com/post/91180)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[OpenAI，雪崩开始了吗？](https://36kr.com/p/2896059188190343)|
+||[8点1氪｜全红婵大哥回应直播带货引争议；人人影视创始人致歉；伊利辟谣员工女乒决赛做侮辱性手势](https://36kr.com/p/2896732676692873)|
+||[罗永浩「放不下」俞敏洪](https://36kr.com/p/2895966340799362)|
+||[余承东摸着雷军大冒险](https://36kr.com/p/2896019034020489)|
+||[华为“第四界”开始冲刺，招300名豪车专家，先造38台测试车](https://36kr.com/p/2896041416170114)|
+||[9.9元，库迪还能撑多久](https://36kr.com/p/2895549549206144)|
+||[上海奉贤杀出个超级IPO，全国第一，市占率99.89%](https://36kr.com/p/2896029362117250)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[都沒有 主動式降噪 的 Beats Solo Buds 和 AirPods 3：該如何選擇？](https://applefans.today/2024-08-how-to-choice-beats-solo-buds-vs-airpods-3/)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 生活 安得广厦千万间，大庇天下寒士俱欢颜](https://www.v2ex.com/t/1063451#reply21)|
 ||[ 问与答 雷暴天气,电车是否比油车更危险?](https://www.v2ex.com/t/1063432#reply12)|
