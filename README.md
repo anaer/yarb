@@ -2,6 +2,77 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[日本年轻人起诉企业要求减少二氧化碳排放](https://www.solidot.org/story?sid=78916)|
+||[NASA 考虑用 SpaceX 飞船搭救波音 Starliner 宇航员](https://www.solidot.org/story?sid=78915)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[顺丰回应硕士毕业学位证被撕毁：多次致歉 理赔达成一致](https://m.cnbeta.com.tw/view/1441448.htm)|
+||[福特推出两款电动自行车：配后轮毂电机 2.8万起](https://m.cnbeta.com.tw/view/1441447.htm)|
+||[全球最大最环保汽车滚装船交付 一次可装9100辆车](https://m.cnbeta.com.tw/view/1441446.htm)|
+||[奥特曼秀5颗草莓疯狂暗示GPT-5？匿名新模型神秘现身](https://m.cnbeta.com.tw/view/1441444.htm)|
+||[三星联手高通开发XR专用芯片 将加剧与苹果竞争](https://m.cnbeta.com.tw/view/1441443.htm)|
+||[首尔半导体超越日亚化工 成世界第一背光LED显示器制造商](https://m.cnbeta.com.tw/view/1441442.htm)|
+||[董明珠吐槽有空调广告宣传送风15米：这是刮台风](https://m.cnbeta.com.tw/view/1441441.htm)|
+||[夏日救星！日产与中国公司联合研发出暴晒不烫手的新车漆](https://m.cnbeta.com.tw/view/1441440.htm)|
+||[iPhone 8经典配色返场 曝iPhone 16 Pro新增香槟金配色](https://m.cnbeta.com.tw/view/1441437.htm)|
+||[董明珠批低价争市场是无能表现：没技术只靠偷工减料骗消费者](https://m.cnbeta.com.tw/view/1441436.htm)|
+||[顶配卖2万+ iPad Pro成苹果最畅销平板](https://m.cnbeta.com.tw/view/1441435.htm)|
+||[将一半以上PC生产迁出中国引热议 惠普回应称在华PC制造业务依然举足轻重](https://m.cnbeta.com.tw/view/1441434.htm)|
+||[国内首列氢能源智轨电车投运 一次加氢可行驶200多公里](https://m.cnbeta.com.tw/view/1441432.htm)|
+||[思路清奇：研究人员找到Windows 10/11降级更新漏洞 可恢复已修复的高危漏洞](https://m.cnbeta.com.tw/view/1441430.htm)|
+||[淘宝推出浏览器助手 接管Chrome启动页 提供网页版/旺旺/购物车等](https://m.cnbeta.com.tw/view/1441428.htm)|
+||[OpenAI，雪崩开始了吗？](https://m.cnbeta.com.tw/view/1441426.htm)|
+||[罗永浩喊话新东方粉丝：再惹我的话我就把三十年猛料写成书 让俞敏洪退休](https://m.cnbeta.com.tw/view/1441424.htm)|
+||[海关最新数据显示中国的半导体进口量持续扩大](https://m.cnbeta.com.tw/view/1441423.htm)|
+||[国产耳机行业表现亮眼 出货量同比增长达20.8%](https://m.cnbeta.com.tw/view/1441422.htm)|
+||[达美航空遭乘客集体起诉 大规模计算机故障后退款政策引争议](https://m.cnbeta.com.tw/view/1441421.htm)|
+||[新冠疫情全球又抬头 WHO担忧危险变异再生致命风险](https://m.cnbeta.com.tw/view/1441420.htm)|
+||[马斯克因特朗普“惹是非” UAW主席大肆批评二人关系并站台哈里斯](https://m.cnbeta.com.tw/view/1441419.htm)|
+||[谷歌反垄断裁决出炉 苹果会打造搜索引擎吗？](https://m.cnbeta.com.tw/view/1441418.htm)|
+||[闲鱼回应收取0.6%软件服务费：系保障买卖双方体验的必要成本](https://m.cnbeta.com.tw/view/1441417.htm)|
+||[英特尔现在的市值仅相当于一个OpenAI](https://m.cnbeta.com.tw/view/1441416.htm)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[送给老保川粉几本小说，最后一本那是老保本质，满足各位川皇登基野望 从没有比老中那么爱川皇的，老中网文里独一份，所以华人老保川粉就是温和老中 如同老保川粉眼里温和绿绿一样的掩护](https://www.reddit.com/r/real_China_irl/comments/1en0m5h/送给老保川粉几本小说最后一本那是老保本质满足各位川皇登基野望/)|
+||[Li Shiting](https://www.reddit.com/r/FunnyAthleteNames/comments/1emvgos/li_shiting/)|
+|[36氪](http://36kr.com/feed)|[上线倒计时12天，我们想聊聊「黑神话：悟空」与中国3A 36氪游戏观察](https://36kr.com/p/2897183816522627?f=rss)|
+||[「国泰航空」中期业绩发布：上半年营收496亿港元、但增收未增利，未来7年将投资千亿港元｜最前线](https://36kr.com/p/2897006964546440?f=rss)|
+||[卖起男性保健品，东阿阿胶「起死回生」？ 氪金·大消费](https://36kr.com/p/2896754663791240?f=rss)|
+|[反斗限免](https://free.apprcn.com/feed/)|[GeoHistory - 地理知识问答游戏 macOS、iOS 美区内购限免 ](https://free.apprcn.com/geohistory/)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《崩坏：星穹铁道》中黄泉为什么不帮忙打神主日？](https://www.zhihu.com/question/661078101)|
+||[特斯拉在中国召回超 168 万辆车，一周前在美国召回 180 多万辆车，前备箱闩锁系统存在安全隐患，有何影响？](https://www.zhihu.com/question/663659089)|
+||[都高三了，还不切实际想考高校哲学系，该怎么办？](https://www.zhihu.com/question/663588695)|
+||[如何看待原著作者米二评价乌尔善的《异人之下》？](https://www.zhihu.com/question/663033010)|
+||[2024 巴黎奥运会举重女子 49 公斤 ，侯志慧绝地反击最后一举逆转夺金，如何评价本场比赛？](https://www.zhihu.com/question/663711289)|
+||[准大学生换手机，有没有推荐的?](https://www.zhihu.com/question/663497714)|
+||[40 岁的男人已经很老了么？](https://www.zhihu.com/question/658718163)|
+||[本田前七月汽车销量下滑 24.4%，原因为何？丰田、日产也都出现销量下滑，日系车企的黄金时代结束了吗？](https://www.zhihu.com/question/663495810)|
+||[河南一地「年薪 2400 元」招文物保护员，文旅局称「没写错，20 人已招满」，薪资和工作量是否匹配？](https://www.zhihu.com/question/662543011)|
+||[「工作」和「上班」的区别是什么？](https://www.zhihu.com/question/663572120)|
+||[长大会变得无趣吗？](https://www.zhihu.com/question/663512796)|
+||[为什么工作很努力，却得不到上级的认可？职场新人应如何调整心态？](https://www.zhihu.com/question/662639494)|
+||[今夏的旅途中，你拍过最好看的晚霞是哪张？](https://www.zhihu.com/question/663078093)|
+||[大家最近有什么推荐的好书吗？](https://www.zhihu.com/question/663620697)|
+||[时隔 8 年上海再次诞生国内单价最贵地王，楼面价 13.1 万元 / 平方米，透露了哪些信息？](https://www.zhihu.com/question/663708010)|
+||[如何评价《一人之下》681 话情报？](https://www.zhihu.com/question/663676787)|
+||[8 月 7 日央行逆回购操作量为零，已连续多日开展「地量」逆回购操作，释放什么信号？将产生哪些影响？](https://www.zhihu.com/question/663659823)|
+||[8 月 8 日巴黎奥运会乒乓球团体赛，日本 2-3 输瑞典，如何看待这场惊天大逆转?](https://www.zhihu.com/question/663724054)|
+||[如何看待 2024 年 8 月 8 日 A 股市场行情？](https://www.zhihu.com/question/663654752)|
+||[有哪些詩是开头平平无奇或者令人误解，看到后面令人拍案叫绝的?](https://www.zhihu.com/question/658088474)|
+||[大家有什么开心的事情分享吗？](https://www.zhihu.com/question/520616196)|
+||[对于年轻人来说线上购物时哪些「权益」能让你充满「购物安全感」？](https://www.zhihu.com/question/663704312)|
+||[张本智和谈争铜「我不想拼也没力气了」，铜牌战日本胜率有多大？张本智和对于日本队意味着什么？](https://www.zhihu.com/question/663745700)|
+||[男朋友想创业没存款，叫我网贷给他，该不该贷款出来?](https://www.zhihu.com/question/661360777)|
+||[如何评价《死神》里的人物平子真子?](https://www.zhihu.com/question/398885182)|
+||[邻居每月给我三千元，让我去幼儿园帮她接孩子，能不能干？](https://www.zhihu.com/question/615045871)|
+||[《黑神话：悟空》发布最终预告片「重走西游」，有哪些细节值得关注？](https://www.zhihu.com/question/663744995)|
+||[如何评价加州对于 950 美金以下的盗窃采取无罪释放的法律条款？](https://www.zhihu.com/question/381689306)|
+||[巴黎奥运会乒乓球男团半决赛，瑞典惊天大逆转，0：2 到 3：2 击败日本，如何评价这场比赛？](https://www.zhihu.com/question/663715653)|
+||[张本智和赛后崩溃跪地，称「宁愿去死都不愿面对这结果」，输掉这场团体半决赛，对他的打击有多大？](https://www.zhihu.com/question/663731384)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Java 好奇 Java mybatis 能火是不是因为 Java 编译器对多行文本的扫码解析不友好?](https://www.v2ex.com/t/1063513#reply17)|
+||[ 投资 特斯拉高位接盘，短短两周从 270 跌到 180，每天夜不能寐，该如何是好？](https://www.v2ex.com/t/1063509#reply39)|
+||[ iPhone 突然想起来 iPhone 的一个特性，现在没了](https://www.v2ex.com/t/1063504#reply12)|
+||[ 职场话题 攒了两周的高血压大赏](https://www.v2ex.com/t/1063496#reply49)|
+||[ 职场话题 二本应届有一个深圳银行外包要去吗?](https://www.v2ex.com/t/1063489#reply19)|
+||[ Arc arc 浏览器开放 windows 下载了](https://www.v2ex.com/t/1063485#reply13)|
+||[ 创业组队 找个微信小程序开发](https://www.v2ex.com/t/1063479#reply18)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置](https://www.appinn.com/google-android-find-network/)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 创业组队 找个微信小程序开发](https://www.v2ex.com/t/1063479#reply13)|
 ||[ 问与答 老板突然宣布 996 如果是你们你们怎么办](https://www.v2ex.com/t/1063469#reply20)|
 ||[ 问与答 请问大家发工资是怎么避税的](https://www.v2ex.com/t/1063465#reply36)|
