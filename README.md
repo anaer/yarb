@@ -2,6 +2,89 @@
 
 |来源|标题|
 |---|---|
+|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[AI 辅助软件工程：AI4SE 体系设计](http://www.phodal.com/blog/design-ai4se/)|
+|[IT之家](https://www.ithome.com/rss/)|[洛图科技：2024 年上半年中国电子纸平板销量 80.9 万台，同比增长 58.6%](https://www.ithome.com/0/787/185.htm)|
+||[汉王语音王 App 发布：支持 AI 语音记录、对话翻译、同声传译](https://www.ithome.com/0/787/184.htm)|
+||[微星为 Z790 主板发布 0x129 微码 BIOS 更新，缓解英特尔 13/14 代酷睿处理器不稳定问题](https://www.ithome.com/0/787/183.htm)|
+||[理想 L9 再现高速突发刹停，售后人员称“故障系外力所致”](https://www.ithome.com/0/787/177.htm)|
+||[小红书即将 IPO？知情人士：消息不实](https://www.ithome.com/0/787/176.htm)|
+||[我国参与牵头修订的两项汽车领域联合国全球技术法规正式发布](https://www.ithome.com/0/787/175.htm)|
+||[中芯国际 2024 年 Q2 营收同比增长 21.8%，净利润 1.646 亿美元](https://www.ithome.com/0/787/174.htm)|
+||[（更新规格信息）英特尔发布第一代车载锐炫独立显卡 A760A，平台算力达 229 TOPS](https://www.ithome.com/0/787/162.htm)|
+||[界环 AI 音频眼镜发布：8 框 14 色、30.9g 轻量设计，699 元起](https://www.ithome.com/0/787/173.htm)|
+||[超微净泡减震平衡：小天鹅小乌梅 2.0 洗衣机 3094 元发车（日常 4599 元）](https://www.ithome.com/0/787/172.htm)|
+||[联通电话卡推中国 / 新加坡一卡两号服务，最高 60GB 中新共享流量](https://www.ithome.com/0/787/171.htm)|
+||[宏碁 2024 年上半年合并营收 1259.70 亿新台币，同比增长 13.8%](https://www.ithome.com/0/787/169.htm)|
+||[字节跳动旗下豆包上线音乐生成功能，用户可一键“撰写”词曲](https://www.ithome.com/0/787/168.htm)|
+||[汉王 N10 Pro 电纸本发布：天地大模型 AI、6500mAh 电池，2999 元起](https://www.ithome.com/0/787/167.htm)|
+||[京东“买贵双倍赔”服务调整：新增抖音，扩大拼多多、淘宝等平台的比价范围](https://www.ithome.com/0/787/166.htm)|
+||[今晚国内油价迎年内最大跌幅，加满一箱 92 号汽油将少花 12 元](https://www.ithome.com/0/787/165.htm)|
+||[摩托罗拉新机参数曝光：2.5GHz 处理器，预计为 moto S50](https://www.ithome.com/0/787/164.htm)|
+||[比亚迪腾势 Z9 GT 汽车 8 月 20 日发布，定位“D 级智能豪华旗舰 GT”](https://www.ithome.com/0/787/158.htm)|
+||[电动轮椅爆改走私装置，旅客藏匿 121 台手机进境被海关查获](https://www.ithome.com/0/787/157.htm)|
+||[联发科发布 Helio G100 芯片：2.2 GHz 八核、支持 2 亿像素主摄、台积电 N6 工艺](https://www.ithome.com/0/787/153.htm)|
+||[诺基亚 6 载波聚合实现 6Gbps 下行链路速度新纪录](https://www.ithome.com/0/787/152.htm)|
+||[产能转移： 三星减产，LG 显示接棒追加 100 万片苹果 OLED iPad Pro 面板](https://www.ithome.com/0/787/150.htm)|
+||[中国移动 2024 上半年净利润 802 亿元，同比增长 5.3%](https://www.ithome.com/0/787/149.htm)|
+||[消息称天玑 9400 单核性能提升 30％+，GB6 单核跑分基本追平苹果 A17 Pro](https://www.ithome.com/0/787/148.htm)|
+||[乘联分会：7 月全国乘用车市场零售 172 万辆，同比下降 2.8%](https://www.ithome.com/0/787/146.htm)|
+||[小鹏 MONA M03 汽车首创“3D 音乐氛围地图”，全系预装 QQ 音乐](https://www.ithome.com/0/787/145.htm)|
+||[HMD Barbie 翻盖手机“证件照”曝光：2.8/1.77 英寸屏幕、64MB 内存、128MB 存储、1450mAh 电池](https://www.ithome.com/0/787/144.htm)|
+||[新款岚图梦想家 MPV 8 月 15 日亮相：享界 S9 同款华为乾崑 ADS 3.0 智驾方案](https://www.ithome.com/0/787/143.htm)|
+||[互联网名称与数字地址分配机构保留 .internal 顶级域名，用于内部网络访问](https://www.ithome.com/0/787/142.htm)|
+||[腾讯 Level Infinite 公布 2024 科隆游戏展阵容，含《沙丘：觉醒》《星际战甲》《灵魂战甲》等](https://www.ithome.com/0/787/141.htm)|
+||[三星玄龙骑士 32 英寸显示器 G80SD 国行版开启预售：OLED 材质、240Hz 高刷，首发 9999 元](https://www.ithome.com/0/787/140.htm)|
+||[客户硕士毕业学位证被撕毁，顺丰回应称“因机器挤压出现损坏”](https://www.ithome.com/0/787/138.htm)|
+||[网件推出 WBE710 商用三频无线 AP：BE9400 规格，349.99 美元](https://www.ithome.com/0/787/137.htm)|
+||[百度网盘：已经与吉利、长安等 20 + 车企建立了深度合作关系，覆盖上千万车机](https://www.ithome.com/0/787/136.htm)|
+||[阿里云推出首个域名 AI 大模型应用，上线“.ai”域名后缀](https://www.ithome.com/0/787/133.htm)|
+||[我国厂商包揽 2023 全球电动两轮车销量前五：雅迪 28.8%、爱玛 15.6%、台铃 12.6%、新日 7.3%、绿源 7.2%](https://www.ithome.com/0/787/132.htm)|
+||[黑爵 AK870 电竞磁轴键盘发布：三拼色 PBT 键帽、有线单模 / 无线三模双版本，首发 299 元起](https://www.ithome.com/0/787/131.htm)|
+||[英飞凌马来西亚居林第三厂区启用，未来将成世界最大碳化硅功率半导体晶圆厂](https://www.ithome.com/0/787/128.htm)|
+||[上海：支持高校强化人工智能研究，更新性能无法达到配置标准的设备](https://www.ithome.com/0/787/127.htm)|
+||[10.98~11.98 万元：北汽极狐考拉 S 车型正式上市，纯电续航 500 公里](https://www.ithome.com/0/787/126.htm)|
+||[一汽红旗第二代智能交流充电桩量产：7kW、11kW，搭载近场识别技术](https://www.ithome.com/0/787/125.htm)|
+||[北京朝阳区发放 1000 万新能源汽车消费券，单台车可领 1000 至 5000 元](https://www.ithome.com/0/787/124.htm)|
+||[索尼放弃收购派拉蒙：战略不符，风险过高](https://www.ithome.com/0/787/123.htm)|
+||[开源 PS3 游戏模拟器 RPCS3 发布新版，支持 AMD Ryzen 9000 系列处理器](https://www.ithome.com/0/787/121.htm)|
+||[我国首架固定翼海上专业搜救航空器“空中国王 350ER”正式列编，搜救半径由 200 海里扩展到 1000 海里](https://www.ithome.com/0/787/116.htm)|
+||[三星将推出 PM1753 数据中心级 SSD：顺序读取 14.8 GB/s，随机读取 340 万 IOPS](https://www.ithome.com/0/787/115.htm)|
+||[立减 700 元 + 6 期免息：努比亚 Z60 Ultra 手机 256G 版 3232 元探新低](https://www.ithome.com/0/787/113.htm)|
+||[小牛电动自行车 MT Play 发布：12Ah 铅酸电池，首发价 3999 元](https://www.ithome.com/0/787/112.htm)|
+||[网易云音乐宣布打击“刷量”行为，严重违规者将被注销音乐人身份、永久拉黑](https://www.ithome.com/0/787/111.htm)|
+||[捷豹推进“重生”计划：转变品牌定位，瞄准更高端细分市场](https://www.ithome.com/0/787/110.htm)|
+||[分析师称苹果可能会对 Apple Intelligence 收费，月费最高可达 20 美元](https://www.ithome.com/0/787/109.htm)|
+||[TRXY 创氪星系 LUCA 路氪 L70 全视海景房机箱上市，1499 元](https://www.ithome.com/0/787/108.htm)|
+||[realme 真我首家品牌服务旗舰店在深圳开业：年底拟覆盖 80% 大学城、维修全面提供备用机](https://www.ithome.com/0/787/101.htm)|
+||[谷歌新版 Pixel 天气应用 APK 文件泄露：界面简洁、可自由定制](https://www.ithome.com/0/787/099.htm)|
+||[从北京坐公交到上海怎么走？高德地图跨城规划升级，公交漫游方案上线](https://www.ithome.com/0/787/098.htm)|
+||[CIRP 报告：iPad Pro 是今年二季度最畅销的苹果 iPad，占比达 43%](https://www.ithome.com/0/787/097.htm)|
+||[AI 时代如何遏制优质内容被过度抓取？谷歌探索网络货币化模式](https://www.ithome.com/0/787/096.htm)|
+||[现代汽车布局东南亚：投资 10 亿泰铢在泰国生产电动汽车](https://www.ithome.com/0/787/095.htm)|
+||[奇瑞英国负责人 Victor Zhang：希望五年内在英国市场份额比肩起亚](https://www.ithome.com/0/787/094.htm)|
+||[支持 PS5 外置扩容：爱国者 P7000E 固态硬盘 1T 版 399 元京东探新低](https://www.ithome.com/0/787/093.htm)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[入职一年半，这个AI员工晋升为了国内首位AI架构师](https://www.jiqizhixin.com/articles/2024-08-08-8)|
+||[Llama3训练每3小时崩一次？豆包大模型、港大团队为脆皮万卡训练提效](https://www.jiqizhixin.com/articles/2024-08-08-7)|
+||[吴恩达亲自授课，LLM当「助教」，适合初学者的Python编程课程上线](https://www.jiqizhixin.com/articles/2024-08-08-6)|
+||[清华研究登Nature，首创全前向智能光计算训练架构，戴琼海、方璐领衔](https://www.jiqizhixin.com/articles/2024-08-08-5)|
+||[ICML 2024 人物交互图像，现在更懂你的提示词了，北大推出基于语义感知的人物交互图像生成框架](https://www.jiqizhixin.com/articles/2024-08-08-4)|
+||[数百万晶体数据训练，解决晶体学相位问题，深度学习方法PhAI登Science](https://www.jiqizhixin.com/articles/2024-08-08-3)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Abelssoft AntiLogger – 反键盘记录工具 Windows $19.95→0 ](https://free.apprcn.com/abelssoft-antilogger-4/)|
+|[爱范儿](https://www.ifanr.com/feed)|[MINI 依旧很 MINI，但 smart 一点也不 smart 了](https://www.ifanr.com/1595368?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[iPhone 新增「灭霸」功能，想把被分散的注意力还给你](https://www.ifanr.com/1595192?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[订阅制鼠标？罗技制造了一场大乌龙](https://www.ifanr.com/1595337?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[《憧憬成为魔法少女》的感谢祭门票顺利抽中了。抽中的是带特典的第二档，看来第一档的竞争相当激烈呢😅，那...](https://www.wikimoe.com/post/7nqje2c7)|
+|[异次元软件世界](https://feed.iplaysoft.com)|[Nero 老厂也把 AI 玩得倍溜！图片无损放大 / AI 生图 / 抠图换背景 / 真人转漫画](https://www.iplaysoft.com/nero-lens-image-upscaler.html)|
+||[《黑神话·悟空》最终预告视频放出 - 新系统玩法！简直爽炸了…](https://www.iplaysoft.com/news/6206)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[盛邦安全荣登网络安全优秀创新成果大赛优胜榜单，100G超高速低时延链路密码机初试锋芒](https://www.4hou.com/posts/qo72)|
+||[【突发】国内大量家用路由器网络访问异常和流量劫持事件分析](https://www.4hou.com/posts/omVj)|
+||[办公室安全：信任还是检测](https://www.4hou.com/posts/zAmY)|
+||[私家车跟踪器自检手册](https://www.4hou.com/posts/omYj)|
+||[TSCM发展史 一位改变了全球反窃密检测行业的人](https://www.4hou.com/posts/kgZ5)|
+||[非法监视防范指南 技术篇](https://www.4hou.com/posts/jB2R)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[2 款免费开源的标注工具：LabelLLM、LabelU](https://w2solo.com/topics/4893)|
+|[老左笔记](https://www.laozuo.org/feed)|[RAKSmart 多机房VPS主机支持小时计费方式 灵活弹性选择](https://www.laozuo.org/29395.html)|
+|[煎蛋](http://jandan.net/feed)|[发霉啦：今天，我领导喝多了错把短信发给了我](http://jandan.net/p/117367)|
 |[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[日本年轻人起诉企业要求减少二氧化碳排放](https://www.solidot.org/story?sid=78916)|
 ||[NASA 考虑用 SpaceX 飞船搭救波音 Starliner 宇航员](https://www.solidot.org/story?sid=78915)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[顺丰回应硕士毕业学位证被撕毁：多次致歉 理赔达成一致](https://m.cnbeta.com.tw/view/1441448.htm)|
