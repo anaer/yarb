@@ -2,6 +2,36 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[都沒有 主動式降噪 的 Beats Solo Buds 和 AirPods 3：該如何選擇？](https://applefans.today/2024-08-how-to-choice-beats-solo-buds-vs-airpods-3/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 安得广厦千万间，大庇天下寒士俱欢颜](https://www.v2ex.com/t/1063451#reply21)|
+||[ 问与答 雷暴天气,电车是否比油车更危险?](https://www.v2ex.com/t/1063432#reply12)|
+||[ 投资 割肉卖房 110 万，投资纳斯达克血亏 10 万，现在 100 万如何投资实现年化 5%](https://www.v2ex.com/t/1063430#reply73)|
+||[ 问与答 现在做什么， 5 年后收益比较高。](https://www.v2ex.com/t/1063427#reply15)|
+||[ 摄影 请教各位大佬一个镜头的问题](https://www.v2ex.com/t/1063420#reply14)|
+||[ 程序员 美国为什么要限制加密算法出口？](https://www.v2ex.com/t/1063416#reply20)|
+||[ 分享发现 刚才👮‍♀️来电，询问是否关注了博主李老师](https://www.v2ex.com/t/1063413#reply75)|
+||[ 游戏 黑神话悟空最终预告发布了，大家怎么看？](https://www.v2ex.com/t/1063411#reply23)|
+||[ 问与答 关于 surge 如何更新订阅](https://www.v2ex.com/t/1063404#reply14)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[欺诈层出不穷，AI与大模型如何助力金融机构应对挑战？](https://www.infoq.cn/article/A9q8jd7o4PDJ6Bp8W6oz)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[间歇性清除高表达的p21细胞可延长寿命](https://www.jdon.com/74955.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[思路清奇：研究人员找到Win10/11降级更新漏洞 可恢复已修复的高危漏洞](https://www.landiannews.com/archives/105324.html)|
+||[英特尔曾有机会获得OpenAI大约15%的股份 但不看好发展因此放弃投资](https://www.landiannews.com/archives/105314.html)|
+||[戴尔对市场营销团队进行重组并计划裁员12,500名员工以削减开支](https://www.landiannews.com/archives/105311.html)|
+||[微软正在陆续推送安装新版便笺 Sticky Notes 但已经引起诸多不满](https://www.landiannews.com/archives/105315.html)|
+||[部分PC制造商不会帮助英特尔第13/14代酷睿延保 对用户来说可能是个问题](https://www.landiannews.com/archives/105309.html)|
+||[苹果将更新macOS修复长期存在的内部网络访问漏洞 阻止黑客继续访问0.0.0.0](https://www.landiannews.com/archives/105312.html)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Dash & Roll Windows ](https://free.apprcn.com/get-steam-game-dash-roll-for-free/)|
+||[免费获取 Steam 游戏 Candy Renovation Windows ](https://free.apprcn.com/get-steam-game-candy-renovation-for-free/)|
+|[果壳科学人](https://feedx.net/rss/guokrscientific.xml)|[一股牙膏味的薄荷巧克力，是甜品界自己的“折耳根”](https://www.guokr.com/article/465794/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[大模型返回的内容，如何根据格式渲染到HTML中？](https://segmentfault.com/q/1010000045153648)|
+||[如何在Vue中使用v-html渲染的图片上集成Viewer.js实现点击放大功能？](https://segmentfault.com/q/1010000045153523)|
+||[vue3中defineProps 接收对象属性时 传入过来的对象属性的格式错误的话 ts为什么没有报警告？](https://segmentfault.com/q/1010000045153469)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Black Hat USA 2024：微软AI助手Copilot安全隐患曝光](https://www.freebuf.com/news/408108.html)|
+||[这家成立两年的勒索软件组织已勒索超5亿美元赎金](https://www.freebuf.com/news/408103.html)|
+|[爱范儿](https://www.ifanr.com/feed)|[享界 S9 卖便宜了？百万级「尊界」年底发布！](https://www.ifanr.com/1595267?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[对话理想智驾团队：什么是自动驾驶的「终极答案」？](https://www.ifanr.com/1595294?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[早报 火车餐车不消费不能坐，12306 回应：属实/人人影视创始人发布视频，为不良影响向公众道歉/传华为江淮尊界首款车型明年 Q1 上市](https://www.ifanr.com/1595282?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[樊振东 0-2 落后选择更换球衣，随后找回状态完成大逆转，更换球衣从战术和心理层面有多大影响？](http://www.zhihu.com/question/663207247/answer/3581993787?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774434)|
 ||[如何比较 cos 38° 和 tan 38° 的大小？](https://daily.zhihu.com/story/9774405)|
 ||[有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？](https://daily.zhihu.com/story/9774421)|
