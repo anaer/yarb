@@ -2,6 +2,29 @@
 
 |来源|标题|
 |---|---|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[电子电路分析与设计:模拟电子技术第3版 PDF 电子书](https://www.mr-wu.cn/dian-zi-dian-lu-fen-xi-yu-she-ji-mo-ni-dian-zi-ji-shu-di-3-ban-free-ebook/)|
+|[爱范儿](https://www.ifanr.com/feed)|[25 秒爆改热梗，把心情哼成歌，这个最新的音乐 AI 太上头了](https://www.ifanr.com/1595393?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[警惕：新型网络钓鱼利用 Google Drawings 和 WhatsApp 短链接窃取信息](https://www.freebuf.com/news/408175.html)|
+||[0.0.0.0 Day漏洞曝光，谷歌、Safari、火狐等主流浏览器面临威胁](https://www.freebuf.com/news/408169.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 随想 哪一瞬间觉得自己真的老了..](https://www.v2ex.com/t/1063761#reply20)|
+||[ 分享发现 Apple 和微信，你们支持谁？](https://www.v2ex.com/t/1063745#reply38)|
+||[ Apple 8g 内存的 MacBook 的磁盘写入量好离谱，我想知道 16g 内存的磁盘写入量是多少](https://www.v2ex.com/t/1063741#reply15)|
+||[ 新手求助 为什么我持有的铜币不能邀请人？](https://www.v2ex.com/t/1063733#reply13)|
+||[ 宽带症候群 广州联通到日本先去北京逛一圈](https://www.v2ex.com/t/1063728#reply12)|
+||[ 问与答 海南马上就要封关了，需要把户口迁移到海南吗？](https://www.v2ex.com/t/1063726#reply12)|
+||[ 分享创造 为了解决域名选择困难症，我做了一个基于 ai 的域名评分网站](https://www.v2ex.com/t/1063722#reply23)|
+||[ 问与答 现在是教培创业最好的时候吗？监管放松，竞争减少，需求大！](https://www.v2ex.com/t/1063718#reply12)|
+||[ 优惠信息 微信立减金，速领！](https://www.v2ex.com/t/1063713#reply28)|
+||[ 生活 我表妹的择偶标准](https://www.v2ex.com/t/1063710#reply19)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[富文本编辑器quill，无法在光标位置插入视频内容？](https://segmentfault.com/q/1010000045157955)|
+||[第一次调用接口，access-control-allow-origin重复导致跨域，如何解决？](https://segmentfault.com/q/1010000045157588)|
+||[element-plus 如何在弹窗中独立管理密码输入框的明文/密文状态？](https://segmentfault.com/q/1010000045157230)|
+||[如何从网络数据包中提取出应用层协议？](https://segmentfault.com/q/1010000045157182)|
+||[前端请求接口传参时，数组的字段为什么被拆开了?](https://segmentfault.com/q/1010000045156842)|
+||[原生JS自制的scrollbar，如何消除滑块拖动时的卡顿？](https://segmentfault.com/q/1010000045156825)|
+||[iOS平台React Native WebView跳转微信页面白屏请问怎么解决？](https://segmentfault.com/q/1010000045156766)|
+|[极客公园](http://feeds.geekpark.net/)|[Google，依然离不开中国开发者](http://www.geekpark.net/news/339099)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為何 Epic Games 執行長又抨擊蘋果非法收取 15%「垃圾費」？](https://applefans.today/2024-08-epic-games-spotify-apple-dma-changes/)|
 |[蓝点网](https://www.landiannews.com/feed)|[密码管理器Proton Pass发布更新 现已支持Windows Hello和Mac生物识别验证](https://www.landiannews.com/archives/105328.html)|
 ||[OpenAI更新ChatGPT使用权限 免费版用户每天可生成2张图片](https://www.landiannews.com/archives/105338.html)|
 ||[经过多年讨论后最终ICANN批准将.internal作为私有域名/地址进行保留](https://www.landiannews.com/archives/105332.html)|
