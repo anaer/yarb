@@ -2,6 +2,51 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 今天在小红书看到个逆天的](https://www.v2ex.com/t/1063856#reply24)|
+||[ Apple 感叹一下 AirPods 2 后继无人](https://www.v2ex.com/t/1063832#reply18)|
+||[ 问与答 我真的很迷茫和焦灼，大家能帮我看看吗](https://www.v2ex.com/t/1063830#reply15)|
+||[ 日本 9 月去关西旅游， v 友们看下行程是否合理，给点建议](https://www.v2ex.com/t/1063828#reply11)|
+||[ 问与答 为什么互联网公司这么喜欢“百川”这个名字？](https://www.v2ex.com/t/1063818#reply16)|
+||[ Android 有没有用 2024 年旗舰 Android 手机的兄弟们进来吐槽一下](https://www.v2ex.com/t/1063817#reply17)|
+||[ 问与答 3000 元左右的手机怎么选 , 真我 Gt5pro、gt6、一加 ace3pro、小米 14civi](https://www.v2ex.com/t/1063806#reply11)|
+|[阮一峰的网络日志](http://feeds.feedburner.com/ruanyifeng)|[科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[Kando – 快速启动还能玩出新花样？多级饼状菜单、拖拽启动、效果略酷 跨平台 ](https://www.appinn.com/kando/)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[新存储 更轻量丨第一期：HBlock的设计理念与场景实践](https://www.infoq.cn/article/Pfd27erYqRNLI4JuXj95)|
+||[ByConity 一周年！听听 Committer 们怎么说](https://www.infoq.cn/article/YTE1ZHcIzwvB5vi90l2z)|
+||[业内首家！火山引擎通过中国信通院超低延时直播性能卓越级评估](https://www.infoq.cn/article/E7KJ7Efu6UUfIBMPdPip)|
+||[腾讯专家视角：开放剧情扮演 Agent 的挑战与思考](https://www.infoq.cn/article/41dYypPz3rd2Pf94tXbY)|
+||[史上最荒谬 BUG 诞生了！零测试、直接将正则表达式扔进内核，CrowdStrike 卖惨不成反被喷](https://www.infoq.cn/article/SYFFy4OMvdbm3P0Y9ZRk)|
+||[Java近期新闻：WildFly 33、Spring Cloud Data Flow、Apache TomEE、LangChain4j、Micronaut](https://www.infoq.cn/article/cXHGULTu7fWPG947DZNf)|
+||[7.5K星开源项目“白做了”？OpenAI发布开发者最期待的头号功能，让多个优秀开源项目瞬间凉了！](https://www.infoq.cn/article/kJZjGScoODhJe4trxVCh)|
+|[蓝点网](https://www.landiannews.com/feed)|[腾讯云DNSPOD发现大量家用路由器遭到劫持 DNS被篡改为恶意服务器](https://www.landiannews.com/archives/105343.html)|
+||[宝塔面板因机房故障导致无法安装/绑定账户/注册/购买等 目前正在处理中](https://www.landiannews.com/archives/105344.html)|
+||[华硕和微星开始发布首批针对英特尔第13/14代桌面处理器的BIOS固件更新](https://www.landiannews.com/archives/105340.html)|
+||[与英伟达存在潜在的法律争议 AMD要求开源项目ZLUDA删除所有代码](https://www.landiannews.com/archives/105339.html)|
+||[在欧盟施压后苹果再次修改商店外部链接政策 允许开发者引导用户外部购买](https://www.landiannews.com/archives/105331.html)|
+||[Windows高危安全漏洞CVE-2024-38077概念验证公布 IT管理员应确保所有机器均已更新](https://www.landiannews.com/archives/105329.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[java为何没有php的trait复用代码机制？](https://segmentfault.com/q/1010000045159198)|
+||[typescript 中可以通过 infer 解构出 union 对象中指定的某个值的部分类型吗？](https://segmentfault.com/q/1010000045159103)|
+||[如何在ECharts中绘制X轴上方折线图与下方频率图?](https://segmentfault.com/q/1010000045158901)|
+|[爱范儿](https://www.ifanr.com/feed)|[Mac mini 十四年来最大更新要来了，将成为史上最小苹果电脑](https://www.ifanr.com/1595538?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[榜单揭晓 第七届（2024）数字金融创新案例征集“创·见”中国式现代化](https://www.4hou.com/posts/mkO0)|
+||[中美“网络空间地图（测绘）”趋势洞察，探访盛邦安全DayDayMap](https://www.4hou.com/posts/l0x6)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[谷歌I/O开发者大会中国站：大模型技术进入全生态](https://www.jiqizhixin.com/articles/2024-08-09-9)|
+||[2.5天完成1年的MD计算？DeepMind团队基于欧几里得Transformer的新计算方法](https://www.jiqizhixin.com/articles/2024-08-09-8)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[今日消费资讯：《全职猎人》单行本第 38 卷将在 9 月 4 日出版、索尼公布 2024 财年第一季度业绩](http://www.toodaylab.com/82980)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[奥特曼秀5颗草莓疯狂暗示GPT-5？匿名新模型神秘现身，数学超强](https://36kr.com/p/2897135049710467)|
+||[上线倒计时12天，我们想聊聊「黑神话：悟空」与中国3A 36氪游戏观察](https://36kr.com/p/2897183816522627)|
+||[没想到，第一个被 AI 取代的，是塔罗牌占卜师](https://36kr.com/p/2897247372663431)|
+||[塑料手机没有过时](https://36kr.com/p/2897406094318465)|
+||[8点1氪｜顺丰回应硕士毕业学位证被撕毁；李宁连夜回复：“龙服”未收到乒乓球队质量问题反馈；罗永浩发5千字长文回应被指“五宗罪”](https://36kr.com/p/2898151989238400)|
+||[罗永浩很难再“交个朋友”](https://36kr.com/p/2897414289038209)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[周鸿祎称中国一定要有人对抗 OpenAI](https://www.oschina.net/news/306226)|
+||[阿里发布 Qwen2-Math，超越 GPT-4o](https://www.oschina.net/news/306221/qwen2-math)|
+||[W3C 技术架构组（TAG）强调必须移除第三方 cookies](https://www.oschina.net/news/306206/w3c-tag-third-party-cookies-have-got-to-go)|
+||[苹果将更新 Mac mini 产品线：体积更小、配备 M4 芯片](https://www.oschina.net/news/306202/apple-mac-mini-m4)|
+||[LG 推出韩国首个开源 AI 模型 Exaone 3.0](https://www.oschina.net/news/306187/lg-open-source-ai)|
+||[IntelliJ IDEA 2024.2 发布](https://www.oschina.net/news/306172/intellij-idea-2024-2)|
+||[【官宣】RISC-V ＋AI 国际人才暨开源技术与生态论坛杭州站议程出炉！](https://my.oschina.net/LFOSSA/blog/15223133)|
+||[Bytebase 2.22.1 - SQL 编辑器展示更丰富的 Schema 信息](https://my.oschina.net/u/6148470/blog/15210570)|
 |[Velas电波站](https://www.velasx.com/feed)|[有关「青春感」：《败犬女主太多了！》第四集](https://www.velasx.com/am/6246)|
 |[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[啊啊啊又是想当云南人的一天！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457330&idx=1&sn=d83004fd76a3b29dd5b71011300bf9b7)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞今年的 M4 Mac mini 體積只有現在的一半！](https://applefans.today/2024-08-mac-mini-m4-to-become-smallest/)|
