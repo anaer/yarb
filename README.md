@@ -2,6 +2,33 @@
 
 |来源|标题|
 |---|---|
+|[蓝点网](https://www.landiannews.com/feed)|[密码管理器Proton Pass发布更新 现已支持Windows Hello和Mac生物识别验证](https://www.landiannews.com/archives/105328.html)|
+||[OpenAI更新ChatGPT使用权限 免费版用户每天可生成2张图片](https://www.landiannews.com/archives/105338.html)|
+||[经过多年讨论后最终ICANN批准将.internal作为私有域名/地址进行保留](https://www.landiannews.com/archives/105332.html)|
+||[俄罗斯已经彻底封禁谷歌视频网站YouTube 无论是网页版还是客户端都无法连接](https://www.landiannews.com/archives/105323.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[投机采样会损失大语言模型的推理精度吗？](https://www.jiqizhixin.com/articles/2024-08-08-2)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[这一定是搜广推的变革！华为、京东、小红书、中科大是这样探索的 AICon](https://www.infoq.cn/article/5P6b9uvSmdgqQxFJLLyg)|
+||[企业如何解决大模型落地的“最后一公里”问题？](https://www.infoq.cn/article/LtayOh9LaTBrHT029xhl)|
+|[煎蛋](http://jandan.net/feed)|[没品笑话集：为什么警察只打白人抗议者？](http://jandan.net/p/117377)|
+||[今日好价 0809](http://jandan.net/p/117376)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 优惠信息 微信立减金，速领！](https://www.v2ex.com/t/1063713#reply15)|
+||[ 生活 碰到这类涉及婆媳的家庭难题你们是怎么处理的？想听听高见](https://www.v2ex.com/t/1063709#reply22)|
+||[ 问与答 在什么比赛里你有信心拿到冠军？](https://www.v2ex.com/t/1063704#reply18)|
+||[ 硬件 表弟刚考上大学，想买台笔记本电脑，求推荐](https://www.v2ex.com/t/1063702#reply25)|
+||[ 健康 我好像有什么大病了](https://www.v2ex.com/t/1063701#reply19)|
+||[ 程序员 困惑好久的问题，如何做代码管理？](https://www.v2ex.com/t/1063699#reply12)|
+||[ 问与答 我和哥们都喜欢边喝酒边看油管上的攒劲小节目，如何在他家/宾馆（没有软路由的情况下）的电视上投屏播放这种攒劲小节目？](https://www.v2ex.com/t/1063691#reply18)|
+||[ 问与答 关于七夕礼物，现在买 iwatch 合适吗？](https://www.v2ex.com/t/1063690#reply11)|
+||[ 问与答 办了移动 1000m 的宽带，有推荐的路由器可以升级吗？](https://www.v2ex.com/t/1063681#reply11)|
+||[ 硬件 手机芯片技术突飞猛进，电池技术十几年没突破！](https://www.v2ex.com/t/1063671#reply42)|
+||[ 问与答 有没有老铁研究过云手机的最佳搭建方案？](https://www.v2ex.com/t/1063669#reply18)|
+|[少数派](https://sspai.com/feed)|[一日一技 手机不支持内录？用 Reaper 四步抢救录音效果](https://sspai.com/post/91097)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[OpenAI的草榴X账号AI开始自说自话](https://www.jdon.com/74975.html)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[Figure02机器人发布，是否真的成为地表最强？Elon Musk的Tesla Optimus同意了吗？OpenAI加持的Figure02面世，能否撑起AIGC的未来？中国机器人，正在快速赶上？](https://lukefan.com/2024/08/09/figure02%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%8f%91%e5%b8%83%ef%bc%8c%e6%98%af%e5%90%a6%e7%9c%9f%e7%9a%84%e6%88%90%e4%b8%ba%e5%9c%b0%e8%a1%a8%e6%9c%80%e5%bc%ba%ef%bc%9felon-musk%e7%9a%84tesla-optimus/)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[央行就《修改〈中国人民银行关于进一步加强征信信息安全管理的通知〉有关公告（征求意见稿）》公开征求意见](https://www.4hou.com/posts/gyZ6)|
+||[SEC 终止对 MOVEit 零日漏洞攻击事件的调查](https://www.4hou.com/posts/vwlm)|
+||[CACTER直播预告：重保期间邮件网关与SMC2如何多维度防护](https://www.4hou.com/posts/jBZ5)|
+||[报名通道已开启！ CCS 2024邀您共话“万象AI，安全新生”](https://www.4hou.com/posts/wxVR)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 身份信息借给朋友开公司，导致自己现在成为被执行人，希望广大 V 站的朋友给点意见，帮我打开一下思路，看看有没有什么行之有效的解决方案？](https://www.v2ex.com/t/1063686#reply15)|
 ||[ 分享发现 看看大伙这个月的电费情况](https://www.v2ex.com/t/1063679#reply11)|
 ||[ 分享发现 手机芯片技术突飞猛进，电池技术十几年没突破！](https://www.v2ex.com/t/1063671#reply20)|
