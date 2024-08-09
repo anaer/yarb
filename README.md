@@ -2,6 +2,81 @@
 
 |来源|标题|
 |---|---|
+|[Velas电波站](https://www.velasx.com/feed)|[有关「青春感」：《败犬女主太多了！》第四集](https://www.velasx.com/am/6246)|
+|[艾格吃饱了](https://feedpress.me/wx-aigechibaole)|[啊啊啊又是想当云南人的一天！！！](http://mp.weixin.qq.com/s?__biz=MjM5NTYxODQyMA%3D%3D&mid=2653457330&idx=1&sn=d83004fd76a3b29dd5b71011300bf9b7)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞今年的 M4 Mac mini 體積只有現在的一半！](https://applefans.today/2024-08-mac-mini-m4-to-become-smallest/)|
+|[少数派](https://sspai.com/feed)|[六年六万六千公里：这是我的特斯拉 Model 3「完整版」体验](https://sspai.com/post/91307)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[通义千问开源Qwen2-Math，成为最先进的数学专项模型](https://www.jiqizhixin.com/articles/2024-08-09-6)|
+||[宁波东方理工大学 甬江论坛2024报名通道持续开放](https://www.jiqizhixin.com/articles/2024-08-09-7)|
+||[两篇论文同时获最佳论文荣誉提名，SIGGRAPH上首个Real-Time Live的中国团队用生成式AI创建3D世界](https://www.jiqizhixin.com/articles/2024-08-09-5)|
+||[MSU世界视频编码器大赛成绩出炉，腾讯包揽全部指标第一名](https://www.jiqizhixin.com/articles/2024-08-09-4)|
+||[DeepMind机器人打乒乓球，正手、反手溜到飞起，全胜人类初学者](https://www.jiqizhixin.com/articles/2024-08-09-3)|
+||[Karpathy观点惹争议：RLHF不是真正的强化学习，谷歌、Meta下场反对](https://www.jiqizhixin.com/articles/2024-08-09-2)|
+||[奥特曼「草莓」模型跳票，OpenAI凌晨大新闻，把网友整懵了](https://www.jiqizhixin.com/articles/2024-08-09)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[韩国禁食狗肉法正式实施：全面禁止以食用为目的饲养屠宰行为](https://m.cnbeta.com.tw/view/1441571.htm)|
+||[中国首富宝座易主：拼多多创始人黄峥登顶 486亿美元身家超钟睒睒](https://m.cnbeta.com.tw/view/1441570.htm)|
+||[Stellantis将向Archer投资3.7亿美元，助其提升飞行出租车产能](https://m.cnbeta.com.tw/view/1441569.htm)|
+||[董明珠：靠低价竞争是无能的表现 便宜肯定没好货](https://m.cnbeta.com.tw/view/1441568.htm)|
+||[消息称联发科天玑9400 CPU单核性能提升超30％、同场景只需竞品30％功耗](https://m.cnbeta.com.tw/view/1441567.htm)|
+||[海力士抢先展示UFS 4.1闪存 基于V9 TLC NAND颗粒打造](https://m.cnbeta.com.tw/view/1441566.htm)|
+||[大型科技公司兴起“渣男”式交易 买人买技术就是不买公司](https://m.cnbeta.com.tw/view/1441565.htm)|
+||[揭秘特朗普的TikTok团队：如何将寻求封禁的应用打造成秘密武器？](https://m.cnbeta.com.tw/view/1441563.htm)|
+||[AMD锐龙5 9600X全6核飙到7GHz 入门芯片刷新Zen5记录](https://m.cnbeta.com.tw/view/1441560.htm)|
+||[全新国产宝马2系四门轿跑曝光：轴距加长110毫米 尺寸直逼3系](https://m.cnbeta.com.tw/view/1441558.htm)|
+||[Intel全大核CPU i9-14901KE性能曝光 超越16核i9-12900KS](https://m.cnbeta.com.tw/view/1441557.htm)|
+||[Android版谷歌身份验证器全新版本发布 基于Material You重新设计](https://m.cnbeta.com.tw/view/1441556.htm)|
+||[俄罗斯已经彻底封禁谷歌视频网站YouTube 无论是网页版还是客户端都无法连接](https://m.cnbeta.com.tw/view/1441555.htm)|
+||[美媒：特斯拉股价大涨后又重挫 投资者深深怀疑自动驾驶技术](https://m.cnbeta.com.tw/view/1441554.htm)|
+||[20万元车卖百万 更多中国品牌亮相新加坡电动车市场](https://m.cnbeta.com.tw/view/1441553.htm)|
+||[AI Pin遭遇大规模退货 AI硬件鼻祖何以一败涂地？](https://m.cnbeta.com.tw/view/1441552.htm)|
+||[抖音等平台惊现黑产代孕导流网帖，百度也能搜到](https://m.cnbeta.com.tw/view/1441551.htm)|
+||[长城汽车掌舵人魏建军“炮轰”车圈销量榜 自家销量已连续三个月下滑](https://m.cnbeta.com.tw/view/1441550.htm)|
+||[710亿巨头得物裁员“缩编” 背后老板身家百亿花1.6亿买豪宅](https://m.cnbeta.com.tw/view/1441549.htm)|
+||[罗永浩很难再“交个朋友”](https://m.cnbeta.com.tw/view/1441544.htm)|
+||[台积电美国晶圆厂面临两大困境：工作文化冲突、工资无法吸引1%顶尖人才](https://m.cnbeta.com.tw/view/1441543.htm)|
+||[日本九州发生7.1级强震 台积电熊本厂未达疏散标准 罗姆宫崎厂一度停运](https://m.cnbeta.com.tw/view/1441542.htm)|
+||[哪吒汽车回应“续保”风波：不存在拒保情况](https://m.cnbeta.com.tw/view/1441541.htm)|
+||[Intel Arrow Lake-H CPU将拥有三种核心 两种E核](https://m.cnbeta.com.tw/view/1441540.htm)|
+||[余承东手持华为三折真机照片曝光：展开直接变平板 尺寸超大](https://m.cnbeta.com.tw/view/1441539.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[mac终端zsh启动vue2项目无法用Ctrl + C打断终止怎么解决？](https://segmentfault.com/q/1010000045158505)|
+||[ue3+vite引入饿了吗按需引入，部分页面使用了饿了吗的组件 ，点击跳转到这个页面时 ，第一次会闪退回到之前的页面 ，有解决?](https://segmentfault.com/q/1010000045158365)|
+||[在计算机中如何翻译`pattern`？](https://segmentfault.com/q/1010000045158104)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果金庸小说里所有 CP 巅峰期联手，最强的是不是杨过小龙女？](https://www.zhihu.com/question/663674447)|
+||[未来汽车更智能，如何解决软件漏洞带来的潜在安全威胁？](https://www.zhihu.com/question/663453700)|
+||[为什么现在美国科幻影视作品相比以前那么烂？](https://www.zhihu.com/question/660511528)|
+||[为什么熊身上那么多可以吃的肉，偏偏就熊掌这道菜出名了？](https://www.zhihu.com/question/656344464)|
+||[为什么电视剧中孝庄会自称谥号「我孝庄」？](https://www.zhihu.com/question/20639197)|
+||[为什么丰饶星神没有一个正常的手下？](https://www.zhihu.com/question/663631409)|
+||[当女生试衣服之后询问你的意见时，她们到底是想要问什么？](https://www.zhihu.com/question/20191937)|
+||[五十五岁了，还想跳槽可以吗？](https://www.zhihu.com/question/662958323)|
+||[如何克服职业发展过程中的心理障碍，如到了更高的职位以后带来的恐惧、不自信等？](https://www.zhihu.com/question/663421037)|
+||[如果你的孩子突然告诉你，他以后不结婚，不生孩子，不想像你一样那么累，你会同意吗？](https://www.zhihu.com/question/663286511)|
+||[如何看待得物「因组织效率不达预期」将有 500 人被裁员？](https://www.zhihu.com/question/663750409)|
+||[在《绝区零》中你明白了哪些知识后，体验开始直线上升？](https://www.zhihu.com/question/663405504)|
+||[中国队的奖牌数在本次奥运会中是否能超越美国队？](https://www.zhihu.com/question/663260942)|
+||[贵州茅台拟在 2024-2026 年度每年分配的现金红利总额不低于当年净利润的 75%，如何看待此举？](https://www.zhihu.com/question/663793634)|
+||[怎样提高说话时的瞬时反应能力？](https://www.zhihu.com/question/20733826)|
+||[中国在哪些正向的人均指标上超越了美国？](https://www.zhihu.com/question/663583696)|
+||[41 岁葡萄牙后卫佩佩官宣退役，如何评价他的职业生涯？](https://www.zhihu.com/question/663795011)|
+||[AMD 新一代 Zen5 架构锐龙 9000 系列处理器上架了，香不香？](https://www.zhihu.com/question/663671643)|
+||[如何看待 2024 年 8 月 9 日 A 股市场行情？](https://www.zhihu.com/question/663738575)|
+||[特朗普和哈里斯 9 月 10 日将进行电视辩论，特朗普提议「再增两场 」，此次电视辩论将有哪些看点？](https://www.zhihu.com/question/663826766)|
+||[2024 巴黎奥运会篮球男子半决赛法国队 73:69 战胜德国，晋级决赛，如何评价这场比赛？](https://www.zhihu.com/question/663779183)|
+||[为什么美国男篮看起来那么强，奥运会半决赛对战塞尔维亚还被压制一整场，打得那么艰难？](https://www.zhihu.com/question/663801964)|
+||[2024 巴黎奥运会拳击女子 54 公斤级决赛中国选手常园夺金，如何评价这场比赛？](https://www.zhihu.com/question/663798537)|
+||[2024 巴黎奥运会篮球男子半决赛美国 95:91 塞尔维亚，如何评价这场比赛？](https://www.zhihu.com/question/663798515)|
+||[网友称硕士毕业学位证被顺丰撕毁，具体情况如何？毕业证学位证可以补办吗？有哪些补救措施？](https://www.zhihu.com/question/663754845)|
+||[网传海南一飞机坠落，警方回应「已派人到现场核实」，具体情况如何？](https://www.zhihu.com/question/663756893)|
+||[日本 8 月 8 日发生 7.1 级强震，日本气象厅呼吁民众紧急撤离海岸，目前情况如何？](https://www.zhihu.com/question/663768879)|
+||[小米的利润这么低，雷军究竟是怎么赚钱的？](https://www.zhihu.com/question/276650054)|
+||[跆拳道亚军郭清丢金后哭泣，父母身体不好，家里有 5 个弟弟靠她养，如何看待这件事？](https://www.zhihu.com/question/663717046)|
+||[航空公司在什么情况下会为乘客免费升舱？](https://www.zhihu.com/question/438873497)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[增长稳健 盈利卓越 Fortinet 发布 2024 年第二季度财报](https://www.4hou.com/posts/kg8X)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【医苑观畴】力大砖飞：百济神州扭亏在即](http://xueqiu.com/1335311504/300457682)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[个人开源项目商业化经验分享](https://w2solo.com/topics/4899)|
+||[电脑系统维修的委托单 价格 150](https://w2solo.com/topics/4898)|
+||[Mo 卡片 -- 随身携带的 AI 知识百宝箱](https://w2solo.com/topics/4897)|
+||[写了一个可以设置歌曲播放次数、播放间隔、复制到其它位置的本地音乐播放器 App！](https://w2solo.com/topics/4896)|
 |[吴川斌的博客](https://www.mr-wu.cn/feed/)|[电子电路分析与设计:模拟电子技术第3版 PDF 电子书](https://www.mr-wu.cn/dian-zi-dian-lu-fen-xi-yu-she-ji-mo-ni-dian-zi-ji-shu-di-3-ban-free-ebook/)|
 |[爱范儿](https://www.ifanr.com/feed)|[25 秒爆改热梗，把心情哼成歌，这个最新的音乐 AI 太上头了](https://www.ifanr.com/1595393?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[警惕：新型网络钓鱼利用 Google Drawings 和 WhatsApp 短链接窃取信息](https://www.freebuf.com/news/408175.html)|
