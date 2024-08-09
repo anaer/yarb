@@ -2,6 +2,25 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 身份信息借给朋友开公司，导致自己现在成为被执行人，希望广大 V 站的朋友给点意见，帮我打开一下思路，看看有没有什么行之有效的解决方案？](https://www.v2ex.com/t/1063686#reply15)|
+||[ 分享发现 看看大伙这个月的电费情况](https://www.v2ex.com/t/1063679#reply11)|
+||[ 分享发现 手机芯片技术突飞猛进，电池技术十几年没突破！](https://www.v2ex.com/t/1063671#reply20)|
+||[ 酷工作 面完袋鼠团和饿了没后汗流浃背](https://www.v2ex.com/t/1063663#reply11)|
+||[ 问与答 如果有一天，外星人来到了你的身边，邀请你去他的星球，你会去吗](https://www.v2ex.com/t/1063662#reply34)|
+||[ iPhone 对我来说 ios18 最大的升级是...](https://www.v2ex.com/t/1063658#reply14)|
+||[ Telegram iOS17.6.1 版本更新后， Telegram 你们还可以更新不？](https://www.v2ex.com/t/1063655#reply12)|
+||[ Java 请教 Mybatis plus 用法](https://www.v2ex.com/t/1063653#reply23)|
+||[ 生活 求老哥们帮忙分析分析，我这是被绿了吗？](https://www.v2ex.com/t/1063650#reply209)|
+||[ 问与答 求一些没有备案，面向国内，很长时间没有被墙的网站](https://www.v2ex.com/t/1063649#reply21)|
+||[ 问与答 求推荐一款千元左右的 4K 显示器](https://www.v2ex.com/t/1063648#reply17)|
+||[ Telegram 谁有 Telegram 上比较稳定的社工库机器人？](https://www.v2ex.com/t/1063646#reply17)|
+||[ Apple 高度怀疑苹果和 X 信有合作允许后台开启话筒并不提示](https://www.v2ex.com/t/1063642#reply83)|
+|[36氪](http://36kr.com/feed)|[最前线 「易池新能」全国首台硫基液流电池示范项目落地深圳](https://36kr.com/p/2897543988353923?f=rss)|
+||[麦当劳持续投资中国，五年内计划投入40亿元加速“自研创新” 最前线](https://36kr.com/p/2894281927793538?f=rss)|
+|[TecHug](http://www.techug.com/feed)|[【外评】不要把 Rust 写成 Java](https://www.techug.com/post/dont-write-rust-like-its-java/)|
+||[第三颗原子弹](https://www.techug.com/post/the-third-atomic-bomb/)|
+|[蓝点网](https://www.landiannews.com/feed)|[ 下载 安卓版谷歌身份验证器全新版本发布 基于Material You重新设计](https://www.landiannews.com/archives/105325.html)|
+|[精品MAC应用分享](https://xclient.info/feed)|[Navicat Premium 17.0.15 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774467)|
 ||[如何评价《红楼梦》中柳嫂子的烹饪水平？](https://daily.zhihu.com/story/9774441)|
 ||[假如奥运会设置了铁牌、铬牌、锌牌、铝牌等奖励 4、5、6、7 名，是否有利于体育事业健康发展？](https://daily.zhihu.com/story/9774455)|
