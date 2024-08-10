@@ -2,6 +2,32 @@
 
 |来源|标题|
 |---|---|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[利润暴涨 65%后，戴尔一天内裁 12500 人！15 年老员工哭诉：20 万美元期权被扣，管理层贪婪无耻](https://www.infoq.cn/article/gO4GEfJvkb5IKFCG0upt)|
+|[IT之家](https://www.ithome.com/rss/)|[迪士尼《玩具总动员 5》先导预告发布，2026 年 6 月 19 日北美上映](https://www.ithome.com/0/787/624.htm)|
+||[《吉伊卡哇》首款手游《Chiikawa Pocket》公布：现已开放 iOS 安卓预注册](https://www.ithome.com/0/787/623.htm)|
+||[Panther Lake 被曝仅限移动平台，英特尔下一代台式机 CPU 平台将是 Nova Lake-S](https://www.ithome.com/0/787/622.htm)|
+||[华为 AI 消除功能目前仅支持 Pura 70 系列等新机型，Mate 60 等暂不支持](https://www.ithome.com/0/787/621.htm)|
+||[蜂王电竞“27QKPRO”27 英寸显示器首销：2K 240Hz，1199 元](https://www.ithome.com/0/787/620.htm)|
+||[机械革命蛟龙 15 Pro 游戏本开售：锐龙 7 7435H + RTX4060 售 5499 元起](https://www.ithome.com/0/787/619.htm)|
+||[《绝地求生》开发商 KRAFTON 生活模拟游戏新作《inZOI》上架 Steam](https://www.ithome.com/0/787/618.htm)|
+||[迪士尼动画电影《疯狂动物城 2》海报首次公开，2025 年 11 月北美上映](https://www.ithome.com/0/787/617.htm)|
+||[新专利暗示苹果探索手记应用未来，借助 AI 让用户记录美好时刻](https://www.ithome.com/0/787/616.htm)|
+||[迪士尼《星球大战》衍生剧《骷髅组》发布首个预告片，12 月 3 日开启首播](https://www.ithome.com/0/787/615.htm)|
+||[乔布斯的 Venus 豪华游艇发生海上事故，撞上亿万富翁的 Lady Moura 游艇](https://www.ithome.com/0/787/614.htm)|
+||[广州快递员“暴力分拣”监控视频引热议，京东物流回应称已对涉事人员进行处罚](https://www.ithome.com/0/787/613.htm)|
+||[小米推出手机电池换新七夕 8 折活动：32 款机型，79.2 元起](https://www.ithome.com/0/787/611.htm)|
+||[Keychron Q14 Max 三模机械键盘开售：小键盘左置布局、Alice 配列 / Gasket 结构，1298 元起](https://www.ithome.com/0/787/610.htm)|
+||[苏州昆山城市航站楼“飞的”试航，30 分钟内到上海浦东机场](https://www.ithome.com/0/787/609.htm)|
+||[雪佛兰推出限时购车优惠活动：科鲁泽 5.99 万元起 / 探界者 11.39 万元起](https://www.ithome.com/0/787/608.htm)|
+||[苹果更新网页版地图，新增支持火狐 Firefox 浏览器](https://www.ithome.com/0/787/607.htm)|
+||[黑客可攻击瘫痪千万座供电基础设施，安全公司曝光宁波德业公司太阳能逆变器系统存漏洞](https://www.ithome.com/0/787/605.htm)|
+||[苹果在美国被控垄断手机市场，多家事务所争当集体诉讼原告律师](https://www.ithome.com/0/787/604.htm)|
+||[目前仅支持苹果 iOS，腾讯《洛克王国：世界》开启游戏内测招募](https://www.ithome.com/0/787/603.htm)|
+||[YouTube 前 CEO 苏珊・沃西基逝世：享年 56 岁，系谷歌首批 20 名员工之一](https://www.ithome.com/0/787/602.htm)|
+||[17000Pa 大吸力 + 60℃ 高温拖洗：石头 A20 洗地机 1471 元京东新低](https://www.ithome.com/0/787/601.htm)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[不要像写 Java 那样写 Rust](https://www.jdon.com/74984.html)|
+|[爪哇堂 JavaTang](https://www.javatang.com/feed)|[使用Python出现Too many open files的问题解决方法](https://www.javatang.com/archives/2024/08/10/35433865.html)|
+|[煎蛋](http://jandan.net/feed)|[世界首例：俄罗斯国际象棋选手使用水银毒害对手](http://jandan.net/p/117391)|
 |[IT之家](https://www.ithome.com/rss/)|[微软提醒用户，“画图 3D”应用将于 11 月 4 日停止更新并下架](https://www.ithome.com/0/787/599.htm)|
 ||[迪士尼《星际宝贝》真人电影先导预告发布，2025 年夏季上映](https://www.ithome.com/0/787/598.htm)|
 ||[科沃斯扫地机器人被曝安全漏洞，可利用摄像头和麦克风监视主人](https://www.ithome.com/0/787/597.htm)|
