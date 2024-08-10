@@ -2,6 +2,15 @@
 
 |来源|标题|
 |---|---|
+|[维基萌](https://www.wikimoe.com/rss.php)|[再现游戏中的料理！《圣兽之王》联动咖啡](https://www.wikimoe.com/post/0sx8cot9)|
+||[七夕节的🐱🐱们](https://www.wikimoe.com/post/dg395qx4)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[お疲れ様](https://www.reddit.com/r/real_China_irl/comments/1eojmk2/お疲れ様/)|
+|[爱范儿](https://www.ifanr.com/feed)|[耐克这双最速神鞋，梦碎巴黎](https://www.ifanr.com/1595606?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[🔁🖼 别人翻墙 , 我操墙 → 速蛙机场的穷途末路与MPTCP的前生今世 中 2009年一个与川普有同样理想 , 每天起床要与老母解释一遍BGP工作原理的比利时男人 , ...](https://t.me/liyuans/46992)|
+||[🔁🖼 别人翻墙 , 我操墙 → 速蛙机场的穷途末路与MPTCP的前生今世 上 2021年的某天 , 我如同往常一样打开Youtube , 呈现在我眼前的是一个带着绿色头套的男...](https://t.me/liyuans/46990)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #64：Python 的函数调用还很慢么？（摘要）](https://w2solo.com/topics/4901)|
+|[FLiNG Trainer](https://flingtrainer.com/feed/)|[EARTH DEFENSE FORCE 6 Trainer](https://flingtrainer.com/trainer/earth-defense-force-6-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=earth-defense-force-6-trainer)|
+|[36氪](http://36kr.com/feed)|[从小米「良性毕业」，九号公司在全球市场继续「深造」｜ 奥运时氪](https://36kr.com/p/2900150725991040?f=rss)|
 |[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[利润暴涨 65%后，戴尔一天内裁 12500 人！15 年老员工哭诉：20 万美元期权被扣，管理层贪婪无耻](https://www.infoq.cn/article/gO4GEfJvkb5IKFCG0upt)|
 |[IT之家](https://www.ithome.com/rss/)|[迪士尼《玩具总动员 5》先导预告发布，2026 年 6 月 19 日北美上映](https://www.ithome.com/0/787/624.htm)|
 ||[《吉伊卡哇》首款手游《Chiikawa Pocket》公布：现已开放 iOS 安卓预注册](https://www.ithome.com/0/787/623.htm)|
