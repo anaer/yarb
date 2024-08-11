@@ -2,6 +2,19 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 这是真的吗?](https://www.v2ex.com/t/1064144#reply17)|
+||[ 阅读 有时候几个月没读一本书，有时候同时开四五本，读都读不完](https://www.v2ex.com/t/1064142#reply11)|
+||[ 职场话题 老家市直事业编薪水和前景](https://www.v2ex.com/t/1064136#reply27)|
+||[ 香港 关于香港开卡，手机号可以填写 GV， paygo， giffgaff， skinny 等非大陆、香港的手机号吗？](https://www.v2ex.com/t/1064115#reply11)|
+||[ 推广 自荐 不限速，支持文件直链和 WebDAV 的云盘](https://www.v2ex.com/t/1064114#reply26)|
+||[ 硬件 好像 x99 平台也没有多耗电吧？](https://www.v2ex.com/t/1064110#reply11)|
+||[ 职场话题 公安局政府购岗人员前途](https://www.v2ex.com/t/1064101#reply15)|
+||[ Python django 在 forms.ModelForm 里怎么获得当前的登录用户？](https://www.v2ex.com/t/1064097#reply15)|
+||[ 广州 不需要通勤，广州租房哪便宜，想要光线很好的那种，最好面积大，租金便宜。](https://www.v2ex.com/t/1064094#reply26)|
+||[ 程序员 有没有必要等 Zen5 的迷你主机？](https://www.v2ex.com/t/1064091#reply14)|
+||[ 问与答 有哪些可以代替“什么值得买”的购物推荐网站吗？](https://www.v2ex.com/t/1064090#reply16)|
+||[ 路由器 纯有线路由器求推荐](https://www.v2ex.com/t/1064086#reply12)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[还原董宇辉、俞敏洪 “分手” 内幕：信任丧失、关系微妙](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247518688&idx=1&sn=0723ebb6242ce3d9ad029d9263be008d)|
 |[少数派](https://sspai.com/feed)|[Mac 版虽迟但到：老牌阅读器 Unread 推出 4.0 大更新](https://sspai.com/post/91186)|
 |[反斗限免](http://free.apprcn.com/feed/)|[免费获取游戏 ConflictCraft 2 - Game of the Year Edition Windows ](https://free.apprcn.com/get-game-conflictcraft-2-game-of-the-year-edition-for-free-2/)|
 ||[Genie Timeline Pro 10 – 文件备份软件 Windows $39.95→0 ](https://free.apprcn.com/genie-timeline-pro-10/)|
