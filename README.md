@@ -2,6 +2,67 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://sspai.com/feed)|[Mac 版虽迟但到：老牌阅读器 Unread 推出 4.0 大更新](https://sspai.com/post/91186)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取游戏 ConflictCraft 2 - Game of the Year Edition Windows ](https://free.apprcn.com/get-game-conflictcraft-2-game-of-the-year-edition-for-free-2/)|
+||[Genie Timeline Pro 10 – 文件备份软件 Windows $39.95→0 ](https://free.apprcn.com/genie-timeline-pro-10/)|
+||[Railways! - 铁路畅行 Android $1.99→0 ](https://free.apprcn.com/railways-7/)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[猜成语游戏 猜化学元素游戏](https://w2solo.com/topics/4905)|
+||[大家独立开发的时候，web 网页或 app 网页设计怎么学习呀，自己画的网页好丑](https://w2solo.com/topics/4904)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[第一波AI制药公司已经开始合并了](https://36kr.com/p/2899581084703625)|
+||[100亿，安徽又杀出一个独角兽IPO](https://36kr.com/p/2900146070068097)|
+||[乒乓「造」星的罪与罚](https://36kr.com/p/2898958112217734)|
+||[13家消费公司拿到新钱；侯毅再创业开海鲜烧烤店；智能床垫年增速超140%｜创投大视野](https://36kr.com/p/2899780884896386)|
+||[失恋掉粉，合体价飙3倍，恋综网红不敢分手](https://36kr.com/p/2899766689569669)|
+||[出海周刊107期 算力即权力，英伟达何以成为“硅谷恶龙”？/ 工商业储能洗牌：上千家集成商，20%没有订单](https://36kr.com/p/2899713041816449)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[maxKB上传的pdf要满足什么样的格式才能问题和答案匹配好？](https://segmentfault.com/q/1010000045162045)|
+||[python django 在forms.ModelForm里怎么获得当前的登录用户？想在forms.ModelForm里用当前登录用户与信息作者用户做个比较?](https://segmentfault.com/q/1010000045161842)|
+||[mysql官方文档里怎么找不到索引的内容？](https://segmentfault.com/q/1010000045161622)|
+|[蓝点网](https://www.landiannews.com/feed)|[老牌电子邮件服务TOM邮箱将在9月13日停止支持免费版 9月27日后清空数据](https://www.landiannews.com/archives/105365.html)|
+|[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 上海市人民政府 - 宁波市国资委-公告](https://t.me/awesomeRSSHub/6733)|
+||[RSSHub has new routes 上海市人民政府 - 宁波市人力资源和社会保障局-公告](https://t.me/awesomeRSSHub/6732)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[黑匣子被打开了！能玩的Transformer可视化解释工具，本地运行GPT-2、还可实时推理](https://www.jiqizhixin.com/articles/2024-08-11-7)|
+||[给视频模型安上快慢两只眼睛，苹果免训练新方法秒了一切SOTA](https://www.jiqizhixin.com/articles/2024-08-11-6)|
+||[ACL 2024 Oral｜我们离真正的多模态思维链推理还有多远？](https://www.jiqizhixin.com/articles/2024-08-11-5)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[压制A股的最大资金池即将崩塌](http://xueqiu.com/1843761023/300627392)|
+||[以”猪”会友，坐”牧”观”天”:欢迎一起探讨此猪周期中金猪！](http://xueqiu.com/2374554575/300619035)|
+||[中海油勘探关键指标对标分析](http://xueqiu.com/1201546096/300641308)|
+||[市赚率：ROE是PE变动的锚](http://xueqiu.com/4643237575/300626951)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[说着“去饭圈化”的东方甄选 正在网暴江小白](https://m.cnbeta.com.tw/view/1441750.htm)|
+||[知乎，中年上班族的“爽文平台”](https://m.cnbeta.com.tw/view/1441749.htm)|
+||[Windows 11 24H2减少了BitLocker的使用要求 为更多PC打开了自动加密功能](https://m.cnbeta.com.tw/view/1441748.htm)|
+||[市值不足AMD四成、裁员15% 但Intel绝不会倒闭](https://m.cnbeta.com.tw/view/1441747.htm)|
+||[2000个中国工人，对抗80万印度钻石工匠](https://m.cnbeta.com.tw/view/1441746.htm)|
+||[车主自曝自己的小米SU7被盗 结果车辆定位不到2小时被追回](https://m.cnbeta.com.tw/view/1441745.htm)|
+||[取代瑜伽裤：网球裙成了女生的新班服](https://m.cnbeta.com.tw/view/1441744.htm)|
+||[微软公布Office套件中尚未修复的安全漏洞 补丁将在下周二发布](https://m.cnbeta.com.tw/view/1441742.htm)|
+||[郑州富士康小时工时薪涨至26元：返费工干满3个月最高能拿21500元](https://m.cnbeta.com.tw/view/1441741.htm)|
+||[谷歌女高管肺癌去世 女性发病率已高于男性](https://m.cnbeta.com.tw/view/1441740.htm)|
+|[IT之家](https://www.ithome.com/rss/)|[滴滴顺风车自动抢单功能 8 月 13 日上线：每位车主每天可用 2 次](https://www.ithome.com/0/787/748.htm)|
+||[驰为 Hi10 Max 二合一 Win11 平板开售：12 代英特尔 N100 + 12.96 英寸 3K 屏，1999 元起](https://www.ithome.com/0/787/747.htm)|
+||[谷歌 DeepMind 开发乒乓球机器人，与人类对打胜率超四成](https://www.ithome.com/0/787/745.htm)|
+||[4660 元起，特斯拉汽车充电桩官方安装服务线缆“不加价”升级至 30 米长](https://www.ithome.com/0/787/744.htm)|
+||[人多的地方不好拍摄？试试这几个思路](https://www.ithome.com/0/787/743.htm)|
+||[零刻海外推出 EQR6 迷你主机：可选锐龙 6600H / 7735HS / 6900HX、双 2.5G 网口，436 美元起](https://www.ithome.com/0/787/741.htm)|
+||[丰田提交汽车认证违规整改报告，重构全公司业务运营体系](https://www.ithome.com/0/787/740.htm)|
+||[AI 软件开发商 Anaconda 起诉英特尔侵权：许可证到期不续约仍使用](https://www.ithome.com/0/787/739.htm)|
+||[首发 3499 元 → 今日 2502 元：vivo S18 Pro 手机 256G 版京东百亿补贴](https://www.ithome.com/0/787/738.htm)|
+||[Keychron 海外推出 K2 HE 三模机械键盘：霍尔磁轴、可调触发键程，130 美元](https://www.ithome.com/0/787/737.htm)|
+||[日产汽车公布中国区 7 月销量为 47102 台，同比下降约 21%](https://www.ithome.com/0/787/736.htm)|
+||[12G+256G 版立减 500 元：vivo X100s 手机 3432 元京东百亿补贴](https://www.ithome.com/0/787/735.htm)|
+||[Steam 喜加一：多人合作超市运营游戏《Supermarket Together》免费领](https://www.ithome.com/0/787/734.htm)|
+||[联想拯救者 Y700 2023 平板获推 ZUI 16.0.336 更新：升级安卓 14、支持小新无线键盘 Air](https://www.ithome.com/0/787/733.htm)|
+||[领克 09 EM-P 推 8 月优惠政策：2000 元可抵 20000 元购车补贴，限时 27.58 万元起](https://www.ithome.com/0/787/732.htm)|
+||[国航首架 C919 客机首次试飞：两舱 158 座最宽松客舱布局，计划 8 月底交付](https://www.ithome.com/0/787/730.htm)|
+||[科沃斯 X5 PRO ULTRA 水箱版扫拖一体机首销：14000 Pa 吸力、6400 毫安时电池，4879 元](https://www.ithome.com/0/787/729.htm)|
+||[不再局限于“打星”，消息称索尼正邀请用户测试 PSN 商店游戏评论系统](https://www.ithome.com/0/787/728.htm)|
+||[NVIDIA 4080 及以下显卡几乎无性能损失：零刻专用 EX 显卡扩展坞 299 元上市](https://www.ithome.com/0/787/727.htm)|
+||[上海迪士尼官宣首个大型漫威主题景点“蜘蛛侠过山车”，前期建设准备工作年初已启动](https://www.ithome.com/0/787/726.htm)|
+||[2 吨级商载能力，我国自主研发大型双发无人运输机成功首飞](https://www.ithome.com/0/787/725.htm)|
+||[专利算法加持，初创公司 ProRata 欲解决 AI 剽窃问题](https://www.ithome.com/0/787/724.htm)|
+||[超 6000 套房源，华为上海西岑单身公寓项目预计 9 月底交付](https://www.ithome.com/0/787/723.htm)|
+||[无缘微信手表版？华为商城更改 WATCH FIT 3 智能手表适配说明](https://www.ithome.com/0/787/721.htm)|
+||[全球云网宽带产业协会会员数量突破 100 家：覆盖五大洲超 30 个国家，初创成员含中国电信、华为等](https://www.ithome.com/0/787/720.htm)|
+|[Terrarum::异世界丨居正博客](https://blog.skyju.cc/index.xml)|[Firefox 使用 userChrome.css 自定义垂直标签栏（Vertical Tab Bar）](https://blog.skyju.cc/post/firefox-user-chrome-css/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[特朗普竞选团队称通讯遭黑客侵入 暗指伊朗是幕后黑手](https://m.cnbeta.com.tw/view/1441738.htm)|
 ||[别克跨实线撞上科尼塞克：定损406万 别克女车主出106万](https://m.cnbeta.com.tw/view/1441736.htm)|
 ||[比亚迪仰望U8加长版谍照曝光 对标路虎揽胜行政加长](https://m.cnbeta.com.tw/view/1441735.htm)|
