@@ -2,6 +2,14 @@
 
 |来源|标题|
 |---|---|
+|[机器之心](https://www.jiqizhixin.com/rss)|[直播打游戏的马斯克、TED演讲谷歌小姐姐到底是不是真人？网友猜到怀疑人生](https://www.jiqizhixin.com/articles/2024-08-11-4)|
+||[新PyTorch API：几行代码实现不同注意力变体，兼具FlashAttention性能和PyTorch灵活性](https://www.jiqizhixin.com/articles/2024-08-11-3)|
+||[混合专家更有主见了，能感知多模态分情况行事，Meta提出模态感知型专家混合](https://www.jiqizhixin.com/articles/2024-08-11-2)|
+||[开闭源模型「大乱斗」：看看哪个智能体最能窥见人类真实意图](https://www.jiqizhixin.com/articles/2024-08-11)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[现在的打工环境真的如电影《逆行人生》那样吗？](https://www.zhihu.com/question/663377605)|
+||[2024 巴黎奥运会女乒团体赛决赛孙颖莎 3:0 战胜平野美宇，如何评价本场比赛？](https://www.zhihu.com/question/663957936)|
+||[7 月小米 SU7 销量超越特斯拉登顶第一，如何看待这一成绩？](https://www.zhihu.com/question/663911064)|
+||[FC 上的游戏那么难，当年你们是什么心态和情绪通关的？](https://www.zhihu.com/question/45697482)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[京东快递小哥栾玉帅巴黎奥运会马拉松完赛](https://m.cnbeta.com.tw/view/1441712.htm)|
 ||[农夫山泉钟睒睒回应网暴：污名随它去吧 天一定会亮](https://m.cnbeta.com.tw/view/1441710.htm)|
 ||[奔驰EQE起火致140台车受损 韩国紧急商讨电动车火灾应对措施](https://m.cnbeta.com.tw/view/1441709.htm)|
