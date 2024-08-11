@@ -2,6 +2,46 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[特朗普竞选团队称通讯遭黑客侵入 暗指伊朗是幕后黑手](https://m.cnbeta.com.tw/view/1441738.htm)|
+||[别克跨实线撞上科尼塞克：定损406万 别克女车主出106万](https://m.cnbeta.com.tw/view/1441736.htm)|
+||[比亚迪仰望U8加长版谍照曝光 对标路虎揽胜行政加长](https://m.cnbeta.com.tw/view/1441735.htm)|
+||[6000万粉丝网红太原老葛被查 割商家韭菜900万、还卖过复活项链](https://m.cnbeta.com.tw/view/1441733.htm)|
+||[宁德时代首家新能源广场开业：365天不落幕的车展 不卖车](https://m.cnbeta.com.tw/view/1441732.htm)|
+||[罗永浩，终于活成了罗永浩的反义词](https://m.cnbeta.com.tw/view/1441729.htm)|
+||[新研究发现清洗水果并不能去除所有农药 去皮再吃更稳妥](https://m.cnbeta.com.tw/view/1441725.htm)|
+||[物理学家为未来量子数据传输开发新一代光纤](https://m.cnbeta.com.tw/view/1441724.htm)|
+||[洗衣巨头CSC ServiceWorks披露2023年数据泄露事件 数万人受到影响](https://m.cnbeta.com.tw/view/1441721.htm)|
+||[OpenStreetMap走过20周年 从一个人决定对抗谷歌地图的项目走向生机勃勃](https://m.cnbeta.com.tw/view/1441720.htm)|
+||[联合国正着手打击网络犯罪 但隐私保护组织称人权将受到侵犯](https://m.cnbeta.com.tw/view/1441719.htm)|
+||[研究人员发现"Sinkclose"漏洞影响2006年以来几乎所有AMD处理器](https://m.cnbeta.com.tw/view/1441718.htm)|
+||[现在最便宜的特斯拉 Cybertruck 也要近 10 万美元](https://m.cnbeta.com.tw/view/1441716.htm)|
+||[文远知行上市基石投资者曝光：博世认购91% IPO作价50亿美元](https://m.cnbeta.com.tw/view/1441715.htm)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[一种悄悄帮你抵抗长胖的食物，建议常吃！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E7%A7%8D%E6%82%84%E6%82%84%E5%B8%AE%E4%BD%A0%E6%8A%B5%E6%8A%97%E9%95%BF%E8%83%96%E7%9A%84%E9%A3%9F%E7%89%A9%EF%BC%8C%E5%BB%BA%E8%AE%AE%E5%B8%B8%E5%90%83%EF%BC%81)|
+|[IT之家](https://www.ithome.com/rss/)|[微软 Copilot AI 被指可被黑客操纵，轻松窃取企业机密](https://www.ithome.com/0/787/719.htm)|
+||[荣耀亲选 TiinLab 耳机七夕限时优惠 50 元：开放式设计、定向传音，499 元](https://www.ithome.com/0/787/718.htm)|
+||[谷歌 + 始祖鸟，造出世界上第一条动力裤，3 万块还卖爆了](https://www.ithome.com/0/787/717.htm)|
+||[山东就快递征求意见：不得擅自放快递柜、可提供两次免费投递，专用电动三轮车需注册登记](https://www.ithome.com/0/787/716.htm)|
+||[Meta Quest 3 / Pro 头显迎来重大更新，公测版 v69 已支持无缝多任务功能](https://www.ithome.com/0/787/715.htm)|
+||[一加 12 手机获推 ColorOS 14.0.0.840 版本更新：新增 NFC 通知勿扰等功能](https://www.ithome.com/0/787/714.htm)|
+||[苹果 iPhone 16 / Pro 备货关键期：郑州富士康大量招工，面试 90% 都能通过](https://www.ithome.com/0/787/712.htm)|
+||[迪士尼真人电影《白雪公主》首发预告公布：“神奇女侠”盖尔・加朵饰演反派皇后](https://www.ithome.com/0/787/711.htm)|
+||[《彩虹六号》，好久不见](https://www.ithome.com/0/787/710.htm)|
+||[气候变暖，时间也要“缓口气”？](https://www.ithome.com/0/787/709.htm)|
+||[无需加热、光照的 3D 打印墨水问世，能用于制作可回收电路](https://www.ithome.com/0/787/708.htm)|
+||[中国缺钾究竟有多严重](https://www.ithome.com/0/787/707.htm)|
+||[全球首个，RISC-V 车路云协同 1.0 验证示范系统在上海临港发布](https://www.ithome.com/0/787/705.htm)|
+||[用在线玩家数来衡量游戏成功，合理吗](https://www.ithome.com/0/787/704.htm)|
+||[极氪 7X 汽车一体式智慧灯幕细节公布：1831 颗 LED 灯珠、12 种招呼灯语](https://www.ithome.com/0/787/703.htm)|
+||[比亚迪仰望 U8 加长版谍照曝光：对标路虎揽胜行政加长版](https://www.ithome.com/0/787/702.htm)|
+||[vivo OriginOS 与 QQ 音乐成立联合实验室：offload 输出模式下手机续航最高提升近 9 小时](https://www.ithome.com/0/787/701.htm)|
+||[“真狮版”电影《狮子王：木法沙传奇》公布正式预告，2024 年 12 月 20 日北美上映](https://www.ithome.com/0/787/700.htm)|
+||[消息称《黑神话：悟空》评测代码已发放，8 月 16 日解禁](https://www.ithome.com/0/787/699.htm)|
+||[废弃电路板成新金矿：英国皇家造币厂每年可从中提取半吨黄金](https://www.ithome.com/0/787/698.htm)|
+||[机械革命翼龙 15 Pro 新配色天穹青开售：锐龙 7 8845H+RTX4060，7299 元](https://www.ithome.com/0/787/697.htm)|
+||[全国首个跨境智慧口岸进入大规模路面施工阶段，中方段预计年底建成](https://www.ithome.com/0/787/696.htm)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【速报】精致的在线笔记工具 Craft， 也要推出「对象」机制了！](https://xlrocket.blog/2024/08/11/%e3%80%90%e9%80%9f%e6%8a%a5%e3%80%91%e7%b2%be%e8%87%b4%e7%9a%84%e5%9c%a8%e7%ba%bf%e7%ac%94%e8%ae%b0%e5%b7%a5%e5%85%b7-craft%ef%bc%8c-%e4%b9%9f%e8%a6%81%e6%8e%a8%e5%87%ba%e3%80%8c%e5%af%b9%e8%b1%a1/)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软公布Office套件中尚未修复的安全漏洞 补丁将在下周二发布](https://www.landiannews.com/archives/105359.html)|
+|[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 草榴社区 - 分区帖子](https://t.me/awesomeRSSHub/6731)|
 |[机器之心](https://www.jiqizhixin.com/rss)|[直播打游戏的马斯克、TED演讲谷歌小姐姐到底是不是真人？网友猜到怀疑人生](https://www.jiqizhixin.com/articles/2024-08-11-4)|
 ||[新PyTorch API：几行代码实现不同注意力变体，兼具FlashAttention性能和PyTorch灵活性](https://www.jiqizhixin.com/articles/2024-08-11-3)|
 ||[混合专家更有主见了，能感知多模态分情况行事，Meta提出模态感知型专家混合](https://www.jiqizhixin.com/articles/2024-08-11-2)|
