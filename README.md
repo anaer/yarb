@@ -2,6 +2,22 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[京东快递小哥栾玉帅巴黎奥运会马拉松完赛](https://m.cnbeta.com.tw/view/1441712.htm)|
+||[农夫山泉钟睒睒回应网暴：污名随它去吧 天一定会亮](https://m.cnbeta.com.tw/view/1441710.htm)|
+||[奔驰EQE起火致140台车受损 韩国紧急商讨电动车火灾应对措施](https://m.cnbeta.com.tw/view/1441709.htm)|
+||[YouTube前女CEO因肺癌去世 谷歌创始人布林曾是其妹夫](https://m.cnbeta.com.tw/view/1441707.htm)|
+||[全面涨价，阿里这次真的急了？](https://m.cnbeta.com.tw/view/1441705.htm)|
+||[一特斯拉车主将充电器直接接入电线杆偷电导致汽车和房屋起火](https://m.cnbeta.com.tw/view/1441704.htm)|
+||[纳斯达克决定出手整顿 拟议新规从严执行“仙股”退市程序](https://m.cnbeta.com.tw/view/1441703.htm)|
+||[国际奥委会主席巴赫宣布不再连任](https://m.cnbeta.com.tw/view/1441702.htm)|
+||[土耳其恢复了对Instagram的访问 此前该网站因删除悼念哈尼亚的帖子而被禁9天](https://m.cnbeta.com.tw/view/1441701.htm)|
+|[IT之家](https://www.ithome.com/rss/)|[比亚迪宋 L DM-i 举行万人交车仪式，首周销量破万](https://www.ithome.com/0/787/694.htm)|
+||[小米汽车副总裁李肖爽：SU7 在 7 月交付超 1.3 万台，超特斯拉登顶 20 万以上纯电轿车销量榜](https://www.ithome.com/0/787/693.htm)|
+||[日本 Rapidus 欲建全自动 2 纳米芯片工厂，交付速度可提升 2/3](https://www.ithome.com/0/787/692.htm)|
+||[台积电美国设厂遇挫，职场文化差异成绊脚石](https://www.ithome.com/0/787/691.htm)|
+||[微博安卓版 App 支持查看 Live Photo 实况照片](https://www.ithome.com/0/787/689.htm)|
+||[宝马在美国召回超 10 万辆汽车：起动电机可能过热，存在火灾隐患](https://www.ithome.com/0/787/688.htm)|
+||[一工人命丧特斯拉得州工厂，家属起诉称是触电身亡](https://www.ithome.com/0/787/687.htm)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[汉初三大功臣，为什么只有军事天才韩信必须被除掉？](https://daily.zhihu.com/story/9774507)|
 ||[为什么虾皮里总能发现小螃蟹？](https://daily.zhihu.com/story/9774514)|
 ||[吃错东西要靠胃外翻清空，不能呕吐的动物们太难了](https://daily.zhihu.com/story/9774524)|
