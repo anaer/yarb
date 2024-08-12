@@ -2,6 +2,75 @@
 
 |来源|标题|
 |---|---|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[关于 Applovin 收入的问题](https://w2solo.com/topics/4906)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[CISA 将 Apache OFBiz 和 Android 内核漏洞添加到已知漏洞目录中](https://www.anquanke.com/post/id/299012)|
+||[CISA警告黑客利用传统的思科智能安装功能获取敏感数据](https://www.anquanke.com/post/id/299015)|
+||[ADT 披露了一起影响了 30,000 多名客户的数据泄露事件](https://www.anquanke.com/post/id/299023)|
+||[研究人员发现谷歌文件传输工具中的 10 个漏洞](https://www.anquanke.com/post/id/299027)|
+||[新恶意软件利用流氓 Chrome 浏览器和 Edge 扩展程序攻击了超 30 万用户](https://www.anquanke.com/post/id/299030)|
+||[专家揭露导致远程代码执行、数据窃取及服务全面接管的严重AWS漏洞](https://www.anquanke.com/post/id/299033)|
+||[微软揭露了四个导致潜在 RCE 和 LPE 的 OpenVPN 漏洞](https://www.anquanke.com/post/id/299037)|
+||[Sonos智能音箱存在允许窃听用户的漏洞](https://www.anquanke.com/post/id/299041)|
+||[PyPI恶意包“solana-py”窃取Solana密钥](https://www.anquanke.com/post/id/299020)|
+||[ISC.AI 2024 Palo Alto Networks黄强：以AI对抗AI，为人工智能转型之路保驾护航](https://www.anquanke.com/post/id/299044)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞的三大變化 2024 Apple Watch SE](https://applefans.today/2024-08-apple-watch-se-rumors/)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[中国体育代表团 40 金收官，创境外奥运会参赛金牌数新纪录，如何评价本届奥运会中国体育代表团的表现？](https://www.zhihu.com/question/664028203)|
+||[你认为全国最宜居的城市是哪个？](https://www.zhihu.com/question/488808761)|
+||[本届巴黎奥运会中国队夺得 40 金，但以奖牌数劣势憾居第二，哪个项目没夺金大家觉得最遗憾？](https://www.zhihu.com/question/664031485)|
+||[如何评价乌克兰的这次对俄罗斯的「特别军事行动」？战况如何？](https://www.zhihu.com/question/663989911)|
+||[谷爱凌参加奥运大众组马拉松，成绩 3 小时 24 分 36 秒，这是什么水平？](https://www.zhihu.com/question/662718849)|
+||[美国花游选手躺父亲床上误食眼药水，药检阳性却参加奥运获银牌，你对此案件有何见解？](https://www.zhihu.com/question/663870439)|
+||[男朋友让我还出礼钱，我该还吗？](https://www.zhihu.com/question/664004946)|
+||[如何看待曼联打包拜仁德里赫特和马兹拉维，他们会带给曼联什么新变化?](https://www.zhihu.com/question/663959161)|
+||[如何评价小孩（曾卓君）获得沙特石油杯《街霸 6》项目冠军？](https://www.zhihu.com/question/664045736)|
+||[空调开 26 度，一晚上耗电多少？](https://www.zhihu.com/question/540208850)|
+||[如何用一句话写出乡愁？](https://www.zhihu.com/question/592776461)|
+||[2024 年巴黎奥运会结束，有哪些赛场内外的瞬间值得被你所铭记？](https://www.zhihu.com/question/663608588)|
+||[每次在非工作时遇到其他部门同事，都感觉好尴尬，遇到以后不知道怎么打招呼，点头？还是说什么？](https://www.zhihu.com/question/663537584)|
+||[在科技高度发达的未来，人工智能会和人类一起参加奥运会吗？](https://www.zhihu.com/question/662831269)|
+||[乌攻入俄境内第 5 日，库尔斯克数万人撤离，此次进攻给当地居民带来怎样的影响？目前双方战争局势如何？](https://www.zhihu.com/question/663998912)|
+||[你能在古诗中凑齐「红橙黄绿青蓝紫」吗？](https://www.zhihu.com/question/663919107)|
+||[2024 巴黎奥运会闭幕式有哪些精彩瞬间？哪个环节给你留下了最深的印象？](https://www.zhihu.com/question/664039578)|
+||[踩碎儿子 13 件玩具，他十几天不理我，咋办啊？](https://www.zhihu.com/question/663191611)|
+||[有哪些宝藏文案短句，一见难忘？](https://www.zhihu.com/question/663954502)|
+||[领导在群里发了自己的感受想法，所有人都回复了，我不回复可以吗？](https://www.zhihu.com/question/663514017)|
+||[如何看待 2024 年 8 月 12 日 A 股市场行情走势？](https://www.zhihu.com/question/663853744)|
+||[人为什么要提高认知？](https://www.zhihu.com/question/661706779)|
+||[俄罗斯库尔斯克战役，会是乌克兰的转折点吗？](https://www.zhihu.com/question/663836510)|
+||[电影《逆行人生》中外卖员使用 iPhone 15 是否脱离实际？](https://www.zhihu.com/question/663955602)|
+||[如何看待巴黎奥运会中国美国金牌数 40:40 打平？](https://www.zhihu.com/question/664031029)|
+||[为什么大量的科研工作并没有强调他们解决这个问题的思路和底层逻辑？](https://www.zhihu.com/question/662094350)|
+||[一父子遭下楼邻居行凶 1 死 1 伤，曾因噪音问题起过争执，警方拟对行凶者做精神鉴定，如何从法律解读？](https://www.zhihu.com/question/663920784)|
+||[如何评价 2024 巴黎奥运会闭幕式上的「洛杉矶 12 分钟」？](https://www.zhihu.com/question/664052940)|
+||[为什么在巴黎奥运会赛场上看到国家队举重运动员的围度比健身房一些人要小，但力量却大得多呢？](https://www.zhihu.com/question/663912170)|
+|[IT之家](https://www.ithome.com/rss/)|[长城汽车 Coffee OS 应用商店上线百度地图、酷我音乐、路游侠等软件](https://www.ithome.com/0/787/904.htm)|
+||[90° 防缠绕插头：HyperX 云雀 2 入耳式游戏耳机 226 元京东百亿补贴](https://www.ithome.com/0/787/903.htm)|
+||[逼真 AI“情侣合照”竟被代码识出破绽？沃顿教授预言 AI 将在 18 个月后完成进化](https://www.ithome.com/0/787/902.htm)|
+||[阿维塔 012 汽车官宣 8 月 20 日全球首秀：旗下第二款高定限量版车型](https://www.ithome.com/0/787/900.htm)|
+||[联想 moto X50 Ultra AI 元启版手机“免费升杯”：12+512GB 售 3999 元](https://www.ithome.com/0/787/899.htm)|
+||[凯华知冬轴 + Gasket 结构：机械师 GK80 三模机械键盘 166 元破冰新低](https://www.ithome.com/0/787/898.htm)|
+||[研究：混动汽车全生命周期的排放量是纯电车的约 2-5 倍](https://www.ithome.com/0/787/897.htm)|
+||[突破 300W 新纪录！realme 真我手机将推 320W 超光速秒充](https://www.ithome.com/0/787/896.htm)|
+||[消息称三星电子确认平泽 P4 工厂 1c nm DRAM 内存产线投资，目标明年 6 月投运](https://www.ithome.com/0/787/895.htm)|
+||[闲鱼买二手车聊天限额：每年 100 个沟通机会，超量要付聊天费 5 元 1 个](https://www.ithome.com/0/787/894.htm)|
+||[大众旗下 Electrify America 禁止电动汽车充满电，超过 85% 将被“断电”](https://www.ithome.com/0/787/892.htm)|
+||[小米米家自动香氛机 2 套装发布：3 挡浓度可调，众筹价 85 元](https://www.ithome.com/0/787/890.htm)|
+||[历史同期新高，2024 年 1 至 7 月全国铁路发送旅客 25.22 亿人次、同比增长 15.7%](https://www.ithome.com/0/787/889.htm)|
+||[首发价 499 元：罗技 LIFT 垂直人体工学鼠标 377 元京东百亿补贴](https://www.ithome.com/0/787/888.htm)|
+||[巴西 2024 年前 7 月电动汽车销量超 2023 全年，7 月比亚迪销量一骑绝尘](https://www.ithome.com/0/787/887.htm)|
+||[i5-12450H + 全金属机身：RedmiBook 16 2024 轻薄本 3028 元京东百亿补贴](https://www.ithome.com/0/787/886.htm)|
+||[魅蓝 lifeme EA2 快充解码耳放上市：耳放 / 27W 快充一体，到手价 99 元](https://www.ithome.com/0/787/885.htm)|
+||[科技一周大事（8 月 5 日-11 日）：2024 年《财富》世界 500 强排行榜揭晓；鸿蒙智行享界 S9 及华为全场景新品发布会；拼多多创始人黄峥登顶中国首富](https://www.ithome.com/0/787/884.htm)|
+||[上市价 4299 元：AMD R9 7900X 盒装处理器 2399 元京东腰斩清仓](https://www.ithome.com/0/787/883.htm)|
+||[小米米家首款恒温淋浴花洒 S1 发布：智能恒温出水，众筹价 1249 元](https://www.ithome.com/0/787/882.htm)|
+||[铠侠 2024 财年第一财季营收 4285 亿日元创历史新高，同比增长超七成](https://www.ithome.com/0/787/881.htm)|
+||[AI 美女全军覆没：赛博照妖镜下集体变“鬼”，AI 代码拆台 AI 生图](https://www.ithome.com/0/787/879.htm)|
+||[宝马公布 2024 成都车展参展阵容：全新 M5、X3 长轴距版等 13 款新车型](https://www.ithome.com/0/787/877.htm)|
+||[realme 真我徐起：建成超 400 家服务网点、覆盖 95% 地级市，年底将扩建到 500 家](https://www.ithome.com/0/787/876.htm)|
+||[TrendForce：2024 年 AI SSD 采购容量预计突破 45EB，合约价一年涨超 80%](https://www.ithome.com/0/787/875.htm)|
+|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/31](https://weekly.pychina.org/pyrecap/pyrw-2431.html)|
+||[上周蠎快讯 2024/32](https://weekly.pychina.org/pyrecap/pyrw-2432.html)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[本届奥运会上有没有人完成，足以吊打一个时代的成就？](http://www.zhihu.com/question/664002660/answer/3590919116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[花了 4 天，终于感觉追上食用油事件的进度了 现在基本梳理完了新京报、三联生活、高剑犁的内容，弄清了这波事件的前因后果，也开始了家中一些食用油的风险排查，...](https://m.okjike.com/originalPosts/66b954ec11e81e4cdc231432)|
 |[反斗限免](https://free.apprcn.com/feed/)|[免费获取游戏 Mystery Cruise Windows $9.99→0 ](https://free.apprcn.com/get-game-mystery-cruise-for-free/)|
 ||[Audials One 2024 – 音乐下载播放软件 Windows $59.9→0 ](https://free.apprcn.com/audials-one-2024-3/)|
