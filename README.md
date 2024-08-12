@@ -2,6 +2,53 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 在职考研，快顶不住了](https://www.v2ex.com/t/1064393#reply13)|
+||[ 生活 各位家里的台式机的开关机频率如何？](https://www.v2ex.com/t/1064391#reply18)|
+||[ 分享发现 一百年前的劳动合同](https://www.v2ex.com/t/1064381#reply12)|
+||[ 互联网 有时候感觉自己就是有病](https://www.v2ex.com/t/1064379#reply14)|
+||[ 问与答 看看大家在用什么鼠标垫？](https://www.v2ex.com/t/1064370#reply18)|
+||[ 程序员 我这显卡是不是坏了](https://www.v2ex.com/t/1064362#reply14)|
+||[ 配件 充电头爱好者么，有没有 USB-A 口的 GaN 充电头？](https://www.v2ex.com/t/1064360#reply15)|
+||[ iPad 给长辈买平板，不打游戏不画画， ipad9 还是小米或者华为平板](https://www.v2ex.com/t/1064355#reply14)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Kettlebell Craft Training - 壶铃运动训练计划 iOS 内购限免 ](https://free.apprcn.com/kettlebell-craft-training/)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[AI+全面升级数智底座，用友发布三大行业垂类大模型](https://www.infoq.cn/article/soTPbLCRRLpO7cAvZwe2)|
+||[大模型端侧 CPU 部署最高提效 6 倍！微软亚研院新开源项目 T-MAC 技术解析来了](https://www.infoq.cn/article/RiZDLfUF9pJCixbZX1Na)|
+||[京东发行稳定币；AI服务器大厂豪气分红115.2亿；小米二期工厂附近挖出古墓？王化：假的｜AI周报](https://www.infoq.cn/article/Au6zVTkO3Q5dbciskK4Y)|
+|[少数派](https://sspai.com/feed)|[自古逢秋多爆料，今年谷产格外早：Google 秋季硬件发布会前瞻](https://sspai.com/post/91385)|
+||[我心中的巴黎奥运会之最——一个线上观众的时差两周的盘点](https://sspai.com/post/91360)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[AWS多项服务存在漏洞，能让攻击者完全控制账户](https://www.freebuf.com/news/408363.html)|
+||[新型Mac窃取程序&quot;AMOS&quot;冒充Loom，瞄准加密货币钱包](https://www.freebuf.com/news/408362.html)|
+||[微软披露Office最新零日漏洞，可能导致数据泄露](https://www.freebuf.com/news/408346.html)|
+|[IT之家](https://www.ithome.com/rss/)|[央视曝光报废汽车黑产链，江苏东海县通报称已立案调查、封存涉案物资](https://www.ithome.com/0/787/939.htm)|
+||[米哈游《绝区零》1.1 版本“卧底蓝调”开启预下载，8 月 14 日上线](https://www.ithome.com/0/787/938.htm)|
+||[红旗自研电机控制器 Demo 平台样机点火成功：电驱系统“大脑”自主可控，将用于新款车型](https://www.ithome.com/0/787/937.htm)|
+||[小米有品 469 元：小米 Redmi 显示器 A24 百亿补贴 399 元](https://www.ithome.com/0/787/936.htm)|
+||[男子打 1400 公里顺风车逃单 2800 元，哈啰回应称“将协助车主挽回损失”](https://www.ithome.com/0/787/935.htm)|
+||[上汽名爵新一代 MG5 轿车官图发布，2024 成都车展首发亮相](https://www.ithome.com/0/787/933.htm)|
+||[Canalys：2024Q2 拉美智能手机出货量 3350 万台、同比增长 20%，三星第一、小米首次跃居第二](https://www.ithome.com/0/787/932.htm)|
+||[号称 Elo 评分“凌驾竞品”，Black Forest Labs 推出文生图 AI 模型 FLUX.1](https://www.ithome.com/0/787/931.htm)|
+||[联想 TB321FU 新机现身 GeekBench，预计为拯救者 Y700 2024 小屏平板](https://www.ithome.com/0/787/930.htm)|
+||[高合自救失利：10 亿美元「救命钱」去向成谜，法院出手干预重整](https://www.ithome.com/0/787/929.htm)|
+||[国家能源局：我国风电光伏发电装机规模超过煤电](https://www.ithome.com/0/787/928.htm)|
+||[智己宣布新车“8 月发布”，网友期待改款 LS6 或增程车型](https://www.ithome.com/0/787/927.htm)|
+||[佳能新一代全画幅专微相机 EOS R5 Mark II 上架：8 月 16 日开售，26999 元起](https://www.ithome.com/0/787/926.htm)|
+||[科学家研制出 5 纳米分辨率显微镜，可揭示细胞微观世界](https://www.ithome.com/0/787/924.htm)|
+||[小牛电动 2024 年 Q2 营收 9.4 亿元同比增长 13.5%，调净后亏损 1950 万元由盈转亏](https://www.ithome.com/0/787/923.htm)|
+||[12321 公布 7 月被投诉钓鱼网站 TOP10：假冒腾讯 / 国家人社部 / 苹果前三](https://www.ithome.com/0/787/922.htm)|
+||[联想推出“R32qc-30”31.5 英寸曲面显示器：2K 180Hz，1889 元](https://www.ithome.com/0/787/921.htm)|
+||[星闪音频产业总部落户江西吉安](https://www.ithome.com/0/787/920.htm)|
+||[腾讯和中国电子学会联合启动博士生科研激励计划（混元大模型专项），入选者每人 10 万元](https://www.ithome.com/0/787/919.htm)|
+||[灵感来自 Cybertruck？特斯拉洛杉矶餐厅大楼披上“钢衣”](https://www.ithome.com/0/787/918.htm)|
+||[号称“步入轻量化时代”，美科预告 55/85mm F/1.8 两款全画幅相机镜头](https://www.ithome.com/0/787/917.htm)|
+||[抖音集团 2024 年上半年查处舞弊类违规案件 125 起，17 人被移送司法机关](https://www.ithome.com/0/787/916.htm)|
+||[Canalys：2024 年 Q2 东南亚智能手机出货量 2390 万台、同比增长 14%，三星、OPPO、小米前三](https://www.ithome.com/0/787/914.htm)|
+||[阿里巴巴 2025 届秋招启动，技术类占比超 80%](https://www.ithome.com/0/787/913.htm)|
+||[上市价 1999 元：石头 A20 Air 智能洗地机 953.8 元 3 期免息探新低](https://www.ithome.com/0/787/911.htm)|
+||[LG 推出韩国首个开源 AI 模型 EXAONE 3.0，韩语测试排名第一](https://www.ithome.com/0/787/909.htm)|
+||[蔚来北京首座第四代换电站上线，换电最快仅需 2 分 24 秒](https://www.ithome.com/0/787/908.htm)|
+||[小米米家空气净化器 5 上架预售：支持粉尘监测，首发到手价 999 元](https://www.ithome.com/0/787/907.htm)|
+||[氢动力飞机将挑战 9 天不间断环球飞行](https://www.ithome.com/0/787/906.htm)|
+||[佰维同韩国 FADU 签署谅解备忘录，将在中国服务器固态硬盘市场展开合作](https://www.ithome.com/0/787/905.htm)|
 |[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[关于 Applovin 收入的问题](https://w2solo.com/topics/4906)|
 |[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[CISA 将 Apache OFBiz 和 Android 内核漏洞添加到已知漏洞目录中](https://www.anquanke.com/post/id/299012)|
 ||[CISA警告黑客利用传统的思科智能安装功能获取敏感数据](https://www.anquanke.com/post/id/299015)|
