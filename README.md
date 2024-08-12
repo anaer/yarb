@@ -2,6 +2,52 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[花了 4 天，终于感觉追上食用油事件的进度了 现在基本梳理完了新京报、三联生活、高剑犁的内容，弄清了这波事件的前因后果，也开始了家中一些食用油的风险排查，...](https://m.okjike.com/originalPosts/66b954ec11e81e4cdc231432)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取游戏 Mystery Cruise Windows $9.99→0 ](https://free.apprcn.com/get-game-mystery-cruise-for-free/)|
+||[Audials One 2024 – 音乐下载播放软件 Windows $59.9→0 ](https://free.apprcn.com/audials-one-2024-3/)|
+|[老左笔记](https://www.laozuo.org/feed)|[TOTHOST越南VPS租用商家优惠汇总 越南原生IP 100M带宽不限流量](https://www.laozuo.org/29410.html)|
+||[恒创科技海外云服务器低至262元 买三年送一年时长](https://www.laozuo.org/29406.html)|
+|[IT之家](https://www.ithome.com/rss/)|[京东自营 759 元：联想 1TB 移动固态硬盘 366 元百补探底](https://www.ithome.com/0/787/874.htm)|
+||[搭载新一代电池、智驾、座舱，2025 款极氪 001/007 预热](https://www.ithome.com/0/787/873.htm)|
+||[金士顿 NV3 M.2 SSD 国行开售：可选 512G-2TB、读速 5000 MB/s，319 元起](https://www.ithome.com/0/787/872.htm)|
+||[Omdia：中国大陆厂商主导 98 英寸和 100 英寸电视面板市场](https://www.ithome.com/0/787/871.htm)|
+||[至高 3 万元置换补贴，沃尔沃 EM90 豪华纯电 MPV 推出新购车政策](https://www.ithome.com/0/787/870.htm)|
+||[文远知行上市基石曝光：博世认购部分，IPO 作价 50 亿美元](https://www.ithome.com/0/787/868.htm)|
+||[谷歌安全团队发现高通 Adreno GPU 驱动超 9 个重要漏洞，OEM 已获补丁推送](https://www.ithome.com/0/787/866.htm)|
+||[长安 UNI-Z 1.5T 燃油版紧凑型 SUV 上市，9.99 万元起](https://www.ithome.com/0/787/858.htm)|
+||[京东 3C 数码疯狂星期一：限时 5 折抢，小米 BE3600 路由器 199 元](https://www.ithome.com/0/787/857.htm)|
+||[河南：到 2025 年完成低空基础设施布局，低空经济规模达 300 亿元](https://www.ithome.com/0/787/856.htm)|
+||[国家海洋环境预报中心自主研发“妈祖・海浪”预报技术成功应用，故障率低于 1%](https://www.ithome.com/0/787/855.htm)|
+||[铭匠 AF 27mm F2.8 X 磨砂银镜头发布，首发价 659 元](https://www.ithome.com/0/787/854.htm)|
+||[长城 2.4T 越野炮皮卡 8 月 15 日预售：搭载柴油发动机 + 9AT 动力总成](https://www.ithome.com/0/787/853.htm)|
+||[博主称因拍 MEGA 车型段子被理想汽车起诉，遭索赔 100 万元](https://www.ithome.com/0/787/851.htm)|
+||[Nextorage 推出 M.2 2230 固态硬盘 NN4ME，顺序读取 7400MB/s 业界领先](https://www.ithome.com/0/787/850.htm)|
+||[周星驰经典电影《食神》时隔 28 年内地首次上映：定档 8 月 31 日，全新修复版本](https://www.ithome.com/0/787/849.htm)|
+||[全新岚图梦想家 8 月 15 日发布，全球首款搭载华为乾崑智驾、鸿蒙座舱 MPV](https://www.ithome.com/0/787/848.htm)|
+||[保时捷废旧电动汽车电池重获新生，变身强大的储能系统](https://www.ithome.com/0/787/847.htm)|
+||[我国建造最大国际海洋油气平台在青岛完工交付：重达 17000 多吨“巨无霸”，将运往沙特阿拉伯海域](https://www.ithome.com/0/787/846.htm)|
+||[极米 Z7X 高亮版投影仪预售：880 CVIA 流明、MT9669，2999 元](https://www.ithome.com/0/787/845.htm)|
+||[西安云巴今日开通：接驳 3 条地铁线路，搭载比亚迪刀片电池](https://www.ithome.com/0/787/843.htm)|
+||[《完美音浪》游戏开发商 Tango Gameworks 被蓝洞收购，避免遭微软关闭命运](https://www.ithome.com/0/787/842.htm)|
+||[百度萝卜快跑：未开展任何招商加盟、租赁及资金募集等相关业务](https://www.ithome.com/0/787/841.htm)|
+||[美国将建世界最高木结构摩天大楼，共 55 层、183 米高](https://www.ithome.com/0/787/840.htm)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[全球首个“RISC-V 车路云协同 1.0 验证示范系统”发布](https://www.oschina.net/news/306558)|
+||[龙芯中科胡伟武：3B6600 八核桌面 CPU 性能将达到英特尔中高端酷睿 12~13 代水平](https://www.oschina.net/news/306553)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[傳聞中 iPhone SE 第 4 代的 9 大變化](https://applefans.today/2024-08-iphone-se-4-rumors/)|
+|[36氪](http://36kr.com/feed)|[新能源车下半场，与城市共同奔跑｜36氪产业带计划](https://36kr.com/p/2902664373590662?f=rss)|
+||[对话张宇星：城市是人类文明的目的，而不仅仅是一种方法｜ CityTalk](https://36kr.com/p/2901205183617668?f=rss)|
+||[营销观察｜迪士尼发布《疯狂动物城2》海报及预告，上海乐园迎来首个大型漫威主题项目](https://36kr.com/p/2901968201669513?f=rss)|
+|[KAIX.IN](https://kaix.in/feed/)|[整点报时](https://kaix.in/2024/0812-chime/)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[心中无工作天天放假，手边有鱼摸劳逸结合](https://sspai.com/post/91280)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[Official Merch Limited-time Presale: “Sweet Symphony” Collab with Lawson 12 to 22 August 2024 ](https://www.reddit.com/r/LoveAndDeepspace/comments/1eq49et/official_merch_limitedtime_presale_sweet_symphony/)|
+|[爱范儿](https://www.ifanr.com/feed)|[2024 年，买相机就是买「身份」](https://www.ifanr.com/1595561?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[为什么很多不使用多继承？而是选择继承类+实现接口？ 这个有什么好处？](https://segmentfault.com/q/1010000045164100)|
+||[css使用mask: linear-gradient 在不同分辨率下会出现白色缝隙，怎么解决？](https://segmentfault.com/q/1010000045163705)|
+||[如何理解面向对象好处：`多态允许我们在运行时更改对象的行为`？](https://segmentfault.com/q/1010000045163537)|
+||[使用IDE（例如：VSCode）开发面向对象项目的时候，是否有显示类继承关系呢？不管是图形方式还是文本方式表示都可以？](https://segmentfault.com/q/1010000045163463)|
+||[uniapp访问文件权限，如果用户禁止了，如何再次弹出这个授权弹框？](https://segmentfault.com/q/1010000045163389)|
+||[面向对象编程时候：推荐给所有属性都加getter/setter方法，然后设置属性为私有吗？](https://segmentfault.com/q/1010000045163306)|
+||[console.log打印的`node: IdentifierNode {}` 请问这个值是什么意思？](https://segmentfault.com/q/1010000045163207)|
 |[少数派](https://sspai.com/feed)|[派早报：北京发布直播带货合规指引](https://sspai.com/post/91376)|
 |[IT之家](https://www.ithome.com/rss/)|[小鹏“机器手”亮相：触觉能力对标人手，可在工业场景中处理精细任务](https://www.ithome.com/0/787/839.htm)|
 ||[国产科幻大片《流浪地球 2》3D 版本和纪录片官宣 9 月 15 日中秋档上映](https://www.ithome.com/0/787/838.htm)|
