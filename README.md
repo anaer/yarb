@@ -2,6 +2,71 @@
 
 |来源|标题|
 |---|---|
+|[维基萌](https://www.wikimoe.com/rss.php)|[再次踏入幻想乡！《大·东方Project展 2024》](https://www.wikimoe.com/post/9ikzfl88)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[中国受关注论文数高居第一](https://www.solidot.org/story?sid=78950)|
+||[俄罗斯占领的乌克兰扎波罗热核电站发生火灾](https://www.solidot.org/story?sid=78949)|
+||[三星新汽车固态电池续航里程高达 1000 公里](https://www.solidot.org/story?sid=78948)|
+||[现代和起亚的防盗软件大幅降低了汽车被盗率](https://www.solidot.org/story?sid=78947)|
+||[Ubuntu 将使用最新内核版本](https://www.solidot.org/story?sid=78946)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Advanced Password Recovery Suite 2 – 软件密码找回工具 Windows $24.95→0 ](https://free.apprcn.com/advanced-password-recovery-suite-2-6/)|
+|[蓝点网](https://www.landiannews.com/feed)|[OpenAI呼吁人们不要与ChatGPT这类AI应用建立情感联系防止出现糟糕的后果](https://www.landiannews.com/archives/105367.html)|
+||[Z-Library即将全面收费下载？各位登录过山寨站的网友注意诈骗邮件](https://www.landiannews.com/archives/105364.html)|
+||[Microsoft Defender存在缺陷可被绕过安全警告 微软可能会在后续进行修复](https://www.landiannews.com/archives/105363.html)|
+||[ChatGPT在测试期间突然模仿用户的声音说话 目前OpenAI已经增强安全措施](https://www.landiannews.com/archives/105368.html)|
+||[CrowdStrike被评选为最史诗级失败奖获得者 该公司总裁亲自上台领奖](https://www.landiannews.com/archives/105361.html)|
+||[谋智基金会正在重新投资火狐浏览器 希望其成为谷歌Chrome和苹果Safari替代品](https://www.landiannews.com/archives/105366.html)|
+||[X/Twitter增添两项新功能：按时间排序评论区回复及关闭视频自动播放下一条](https://www.landiannews.com/archives/105362.html)|
+||[AMD处理器被发现高危安全漏洞 但RYZEN 1000/2000/3000等没有修复补丁](https://www.landiannews.com/archives/105360.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[央视《对话》专访：一个真实的钟睒睒是怎样的？](https://36kr.com/p/2900551316429446)|
+||[中东大财团，为何狂买中国资产？](https://36kr.com/p/2898891280014212)|
+||[中国公司全球化周报 霸王茶姬新加坡连开3店，已组建东南亚团队/TikTok联手亚马逊，用户可在社媒应用内完成购物](https://36kr.com/p/2900151208172168)|
+||[宝宝树，再无第二春](https://36kr.com/p/2900154909842056)|
+||[8点1氪｜ 江小白不接受东方甄选主播道歉；郑州富士康小时工时薪涨至26元；玛雅、方特等多家水乐园被曝水质脏差](https://36kr.com/p/2902404483619716)|
+||[凯雷卖项目了，200亿](https://36kr.com/p/2900168977635975)|
+|[余晟以为](https://feedpress.me/wx-yurii-says)|[“干了这么多年了，只会干这个”，似乎并不是个错](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg%3D%3D&mid=2650010020&idx=1&sn=3287b05d6f64383c412cdf069d5975d3)|
+|[36氪](http://36kr.com/feed)|[最前线 鸿蒙智行享界S9上市，售价39.98万元起](https://36kr.com/p/2896109414521737?f=rss)|
+||[押注新能源，一个城市的决心](https://36kr.com/p/2903016222759813?f=rss)|
+||[36氪首发｜AI数据服务公司「整数智能」完成数千万元A轮融资，业务拓展至全球范围](https://36kr.com/p/2902815664806528?f=rss)|
+|[爱范儿](https://www.ifanr.com/feed)|[纯电轿车，还是不好卖](https://www.ifanr.com/1595773?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[英国要发起一场“国家规模”的蜜罐计划](https://www.freebuf.com/news/408419.html)|
+|[IT之家](https://www.ithome.com/rss/)|[路虎揽胜 SV 限量版 SUV 官图公布：仅限 4 辆、浅灰配色辅以限定标识，4850 万日元](https://www.ithome.com/0/787/974.htm)|
+||[统信推出“YouQu”综合型自动化测试框架，专为 Linux 操作系统量身定制](https://www.ithome.com/0/787/973.htm)|
+||[墨案 × 哔哩哔哩漫画联名阅读器 Pantone 7 亮点信息公布：Kaleido 3 屏幕、32 级冷暖前光，今晚 8 点预售](https://www.ithome.com/0/787/968.htm)|
+||[我国自主研制，全球最大漂浮式风电平台“明阳天成号”启航出海](https://www.ithome.com/0/787/966.htm)|
+||[极氪汽车计划 2025 年进入日本市场，今年底将覆盖全球 50 个国家和地区](https://www.ithome.com/0/787/965.htm)|
+||[王自如被限制高消费，此前被法院强制执行 3383 万元](https://www.ithome.com/0/787/964.htm)|
+||[京东自营 869 元：苹果 Apple Pencil 2 天猫国际 664 元狂促](https://www.ithome.com/0/787/963.htm)|
+||[神牛 LP 系列直播面板灯发布：全彩模式、智能控光，售价 478 元 / 台起](https://www.ithome.com/0/787/962.htm)|
+||[smart 精灵#5 大五座 SUV 设计图公布：方盒子造型，奔驰全球设计团队](https://www.ithome.com/0/787/961.htm)|
+||[酷里奥推出 B60 风冷散热器：6 热管铜底单塔单风扇，标称解热 245W](https://www.ithome.com/0/787/960.htm)|
+||[领克 08 EM-P 2025 款汽车：至高可同时连接 3 台 Co Pad，支持控车、娱乐、看护](https://www.ithome.com/0/787/957.htm)|
+||[阅文集团：2024 年上半年收入为 41.91 亿元，同比增长 27.7%](https://www.ithome.com/0/787/948.htm)|
+||[传音 Infinix 首款平板“XPAD”发布：11 英寸 1080P 90Hz 屏、联发科 Helio G99 处理器](https://www.ithome.com/0/787/946.htm)|
+||[消息称 AMD AIB 伙伴忙于 RDNA4 显卡，目前无 RX 7400 / 7300 开发规划](https://www.ithome.com/0/787/945.htm)|
+||[4K+160Hz+HDR600：HKC MG27U 4K 电竞显示器 2283 元六期免息](https://www.ithome.com/0/787/944.htm)|
+||[台电 T50 Plus 平板发布：11 英寸 90Hz 高刷屏、紫光展锐 T620，799 元](https://www.ithome.com/0/787/943.htm)|
+||[梅赛德斯-奔驰新一代 V300 MPV 开启预售：全新双外观设计，50 万元起](https://www.ithome.com/0/787/942.htm)|
+||[微信自动清理 3 天未读消息引热议，官方回应“已接收内容可永久保存”](https://www.ithome.com/0/787/941.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 有什么保值技能/技术？](https://www.v2ex.com/t/1064434#reply11)|
+||[ 问与答 感觉我的人生走向了末路](https://www.v2ex.com/t/1064411#reply30)|
+||[ 问与答 小米的笔记本怎么样呢](https://www.v2ex.com/t/1064410#reply14)|
+||[ 问与答 罗技鼠标 G304 总是双击,有无线鼠标推荐吗?](https://www.v2ex.com/t/1064405#reply11)|
+||[ 奇思妙想 一个关于求职软件的想法--"破壁"](https://www.v2ex.com/t/1064403#reply11)|
+||[ 酷工作 长沙 招聘 Java 中级开发](https://www.v2ex.com/t/1064400#reply12)|
+||[ 分享发现 从公司的角度说明为啥 it 行业已经是红海了](https://www.v2ex.com/t/1064395#reply24)|
+||[ 宽带症候群 老哥们弄了移动宽带,搞了 ipv6, nas 也接入了,但是公司没 ipv6 访问不了家里的 nas... 能破吗?](https://www.v2ex.com/t/1064394#reply19)|
+||[ 职场话题 在职考研，快顶不住了](https://www.v2ex.com/t/1064393#reply22)|
+||[ 生活 各位家里的台式机的开关机频率如何？](https://www.v2ex.com/t/1064391#reply24)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[go grpc invalid memory address or nil pointer dereference？](https://segmentfault.com/q/1010000045165700)|
+||[vue中如何直接生成jwt？](https://segmentfault.com/q/1010000045165696)|
+||[请教一个react 中页面切换到后台，定时器刷新的问题？](https://segmentfault.com/q/1010000045165559)|
+||[请问是否有用于画类图的 npm 前端UI库呢？](https://segmentfault.com/q/1010000045165470)|
+||[如何在没有项目管理经验的情况下获得项目经理职位？](https://segmentfault.com/q/1010000045165416)|
+||[怎么解决Cause: out extracted from path lib***_jni.so is not an ABI？](https://segmentfault.com/q/1010000045165318)|
+||[vue相同的路由之间如何跳转，只是url参数不一样？](https://segmentfault.com/q/1010000045165177)|
+||[mac 下，Termius 中 alt+左右方向键导致输出乱码，如何解决？](https://segmentfault.com/q/1010000045165025)|
+||[git clone命令 上 ssh 和 https 的区别？](https://segmentfault.com/q/1010000045164934)|
+||[关于androidx.appcompat:appcompat-resources:1.6.1要求使用更高版本进行编译的问题，要怎么解决合适？](https://segmentfault.com/q/1010000045164430)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 在职考研，快顶不住了](https://www.v2ex.com/t/1064393#reply13)|
 ||[ 生活 各位家里的台式机的开关机频率如何？](https://www.v2ex.com/t/1064391#reply18)|
 ||[ 分享发现 一百年前的劳动合同](https://www.v2ex.com/t/1064381#reply12)|
