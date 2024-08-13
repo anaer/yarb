@@ -2,7 +2,64 @@
 
 |来源|标题|
 |---|---|
-|[IT之家](https://www.ithome.com/rss/)|[M 系列时隔 5 年回归？魅族 M20 手机现身 IMEI 数据库](https://www.ithome.com/0/788/068.htm)|
+|[反斗限免](https://free.apprcn.com/feed/)|[ThunderSoft Video Editor - 视频编辑工具 Windows $49.95→0 ](https://free.apprcn.com/thundersoft-video-editor-2/)|
+||[CALC Smart - 足智多谋的科学计算器 macOS、iOS、Apple Watch ￥8→0 ](https://free.apprcn.com/calc-smart-4/)|
+||[免费获取字体 Back to School Font Windows、macOS ](https://free.apprcn.com/get-back-to-school-font-for-free-2/)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple 9 月發表會 預測新品：iPhone 16、Apple Watch Series 10,Apple Watch Ultra 3….](https://applefans.today/2024-08-apple-september-new-product-rumors/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[豆包上线音乐生成，用户可一键生成词曲](https://www.jiqizhixin.com/articles/2024-08-13)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 iOS 18 Beta 6 更新，相册再改动/王自如被限制高消费，此前被强制执行三千万/微信自动清理三天未读消息？官方客服回应](https://www.ifanr.com/1595846?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 如果现在你是国家的大老板，这个局你会怎么解？](https://www.v2ex.com/t/1064536#reply49)|
+||[ 问与答 询问一个领导在线活动问答系统技术方案](https://www.v2ex.com/t/1064530#reply12)|
+||[ 问与答 在背单词软件背了 10000 个词后, 如何进一步学习英语](https://www.v2ex.com/t/1064528#reply13)|
+||[ 问与答 有什么办法强迫自己早睡](https://www.v2ex.com/t/1064527#reply31)|
+||[ 职场话题 offer 二选一，纠结了好几天，大伙帮忙参考参考](https://www.v2ex.com/t/1064526#reply88)|
+||[ 问与答 国内哪些理财收益稳定、且高？](https://www.v2ex.com/t/1064523#reply19)|
+||[ 问与答 诸位你们公司都是用什么项目管理工具呢？我们开发团队不到 20 人有没有推荐的](https://www.v2ex.com/t/1064521#reply13)|
+||[ 问与答 为什么我的 X 每天都是 每日大赛 不感兴趣了也还是推送。。](https://www.v2ex.com/t/1064517#reply12)|
+||[ 问与答 平价雨伞求推荐](https://www.v2ex.com/t/1064515#reply19)|
+||[ 职场话题 突然发现上班这几年工作时长都不长](https://www.v2ex.com/t/1064513#reply19)|
+||[ 问与答 米家的灯怎么样,有用过的吗](https://www.v2ex.com/t/1064507#reply40)|
+||[ 分享发现 懂王来了， X 被冲爆了](https://www.v2ex.com/t/1064503#reply35)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[OpenAI首席战略官：AGI可能比预期更早到来](https://m.cnbeta.com.tw/view/1441991.htm)|
+||[杭州多位外卖骑手被封号？美团回应：谣言](https://m.cnbeta.com.tw/view/1441990.htm)|
+||[与特朗普的访谈直播间崩溃 马斯克将此归咎于网络攻击](https://m.cnbeta.com.tw/view/1441988.htm)|
+||[iPhone 16备货冲刺 郑州富士康高价招工 时薪27元](https://m.cnbeta.com.tw/view/1441987.htm)|
+||[拜登政府加征关税 Waymo的中国造自动驾驶出租车面临新挑战](https://m.cnbeta.com.tw/view/1441985.htm)|
+||[苹果公司修改模拟器规则后批准iDOS 3 PC模拟器上架](https://m.cnbeta.com.tw/view/1441984.htm)|
+||[营收374亿+1296万吨 顺丰快运实现营收和货量双第一](https://m.cnbeta.com.tw/view/1441982.htm)|
+||[7月纯电动汽车销量TOP10出炉：小米SU7杀入前5](https://m.cnbeta.com.tw/view/1441981.htm)|
+||[机器狗将加入乌克兰执行高风险军事任务部队的行列](https://m.cnbeta.com.tw/view/1441980.htm)|
+||[AT&T被责令停止其并不存在的卫星电话业务的误导性广告](https://m.cnbeta.com.tw/view/1441979.htm)|
+||[Ubuntu 将在今后的新版本中使用最新版本的Linux内核](https://m.cnbeta.com.tw/view/1441978.htm)|
+||[SEC起诉涉嫌诈骗6.5亿美元的全球加密货币欺诈案](https://m.cnbeta.com.tw/view/1441977.htm)|
+||[联邦调查局打掉入侵数十家公司的勒索软件团伙](https://m.cnbeta.com.tw/view/1441975.htm)|
+||[法律漏洞允许美国公司在食品中添加不安全成分](https://m.cnbeta.com.tw/view/1441970.htm)|
+||[Ubuntu 24.04.1 LTS 推迟至月底发布](https://m.cnbeta.com.tw/view/1441968.htm)|
+||[下一代芯片NVIDIA Thor在合肥首次成功下线 面向L4级自动驾驶](https://m.cnbeta.com.tw/view/1441966.htm)|
+||[TikTok终于添加群组聊天功能 最多可支持32人](https://m.cnbeta.com.tw/view/1441965.htm)|
+||[安全人员又发现一个触发Windows 11/10系统蓝屏的CVE-2024-6768漏洞](https://m.cnbeta.com.tw/view/1441964.htm)|
+||[最新macOS Sequoia测试版新增壁纸已取消隐藏状态](https://m.cnbeta.com.tw/view/1441963.htm)|
+||[苹果发布 AirPods Pro 2 测试版固件 搭配iOS 18新特性](https://m.cnbeta.com.tw/view/1441962.htm)|
+||[新研发的无透镜光学设备可更好地检测受污染的水源](https://m.cnbeta.com.tw/view/1441961.htm)|
+||[史蒂夫·乔布斯的炸弹夹克等历史纪念品在拍卖会上亮相](https://m.cnbeta.com.tw/view/1441959.htm)|
+||[Kioxia 展示针对 NVMe 硬盘的 RAID 卸载方案](https://m.cnbeta.com.tw/view/1441958.htm)|
+||[西部数据推出4 TB microSDUC、8 TB SDUC和16 TB外置SSD](https://m.cnbeta.com.tw/view/1441957.htm)|
+||[一加 OnePlus Buds Pro 3 将于8月20日上市](https://m.cnbeta.com.tw/view/1441956.htm)|
+|[IT之家](https://www.ithome.com/rss/)|[TikTok 被曝今年多次在非洲裁员：非洲团队超一半受影响，第三季度将继续减员](https://www.ithome.com/0/788/084.htm)|
+||[小米智能门锁 2 Pro 开启预售：支持 AI 3D 结构光人脸识别，到手价 2299 元](https://www.ithome.com/0/788/083.htm)|
+||[赛睿为 Apex Pro 键盘更新 beta 版 Rapid Tap，类似功能已激起社区争议](https://www.ithome.com/0/788/082.htm)|
+||[美国发起“时间就是金钱”倡议：将出台法规，让退订像订阅那样简单](https://www.ithome.com/0/788/081.htm)|
+||[《黑神话：悟空》官方性能测试工具免费上架 Steam，你的电脑能不能玩一测便知](https://www.ithome.com/0/788/079.htm)|
+||[Valve 遭集体诉讼，消费者指控 Steam 平台涉嫌垄断、抬高游戏价格](https://www.ithome.com/0/788/078.htm)|
+||[武汉光谷实验室研发量子点光刻胶：蓝光激发红色转换率达 45.0%，有望应用于 micro-LED](https://www.ithome.com/0/788/077.htm)|
+||[黑峡谷矮轴新品「刀锋系列」A3 机械键盘发布，首发价 399 元](https://www.ithome.com/0/788/076.htm)|
+||[微软面向企业推出 Face Check 人脸识别技术，每次验证需 0.25 美元](https://www.ithome.com/0/788/075.htm)|
+||[三星 Galaxy A06 手机渲染图曝光：联发科 Helio G85 芯片、6.7 英寸水滴屏](https://www.ithome.com/0/788/074.htm)|
+||[性能强过 N100 + 准系统：机械君 R7-3750H 迷你主机 799 元新低](https://www.ithome.com/0/788/073.htm)|
+||[IBM 推出生成式 AI 网络安全助手](https://www.ithome.com/0/788/072.htm)|
+||[支持鸿燕卫星通信：荣耀 Magic6 Pro 手机 4656 元起百亿补贴（立减千元）](https://www.ithome.com/0/788/070.htm)|
+||[Win10/11 系统驱动被指存在严重漏洞，可致蓝屏死机](https://www.ithome.com/0/788/069.htm)|
+||[M 系列时隔 5 年回归？魅族 M20 手机现身 IMEI 数据库](https://www.ithome.com/0/788/068.htm)|
 ||[消息称“共享充电宝老大”怪兽充电全面转向代理加盟，直营业务只剩运维](https://www.ithome.com/0/788/067.htm)|
 ||[《终结者：幸存者》游戏延期至 2025 年，以确保达到预期质量](https://www.ithome.com/0/788/066.htm)|
 ||[首款 RTX 4070 GDDR6 显卡确认：来自影驰，配 20Gbps 速率显存](https://www.ithome.com/0/788/065.htm)|
