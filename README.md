@@ -2,6 +2,39 @@
 
 |来源|标题|
 |---|---|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[🎉 我开源了一个新项目！ Product Hunt 每日中文热榜](https://w2solo.com/topics/4910)|
+||[独立产品灵感周刊 DecoHack #065 – 新奇工具：从地形可视化到网红营销](https://w2solo.com/topics/4909)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[XCon2024议题-平行切面：可对抗、原生化的安全基础设施建设实践](https://www.4hou.com/posts/vwlr)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取游戏 Difficult Times Windows $5→0 ](https://free.apprcn.com/get-game-difficult-times-for-free/)|
+|[IT之家](https://www.ithome.com/rss/)|[总计容量 1GWh，国轩高科 3 个储能电站将落地唐山](https://www.ithome.com/0/788/234.htm)|
+||[艾利和推出 A&ultima SP3000 铂金限量版 Hi-Fi 音乐播放器：AKM DAC，30888 元](https://www.ithome.com/0/788/233.htm)|
+||[虎牙 2024 财年 Q2 净利润 2960 万元同比增长 45.9%，移动端 MAU 增至 8350 万人](https://www.ithome.com/0/788/232.htm)|
+||[AMD 在 EEC 注册备案锐龙 5 5500X3D 处理器，预计为较低频大缓存 6 核型号](https://www.ithome.com/0/788/230.htm)|
+||[何小鹏官宣 MONA M03 汽车将于 8 月 27 日上市](https://www.ithome.com/0/788/229.htm)|
+||[全球性能最高的超导线段：美国团队公布高温超导新突破，性价比指标显著提高](https://www.ithome.com/0/788/228.htm)|
+||[三星电子最大工会 NSEU 决定在 15~18 日再次罢工](https://www.ithome.com/0/788/226.htm)|
+||[联想 moto razr 50 Ultra AI 元启版折叠屏手机开启 OTA 3 更新：支持 5G-A 网络、优化小天助手](https://www.ithome.com/0/788/225.htm)|
+||[苹果 iOS 版 Opera One 浏览器现已上线：全新 UI + AI 功能](https://www.ithome.com/0/788/223.htm)|
+||[消息称英伟达 RTX 4070 GDDR6 显卡 8 月 20 日左右开始到货](https://www.ithome.com/0/788/220.htm)|
+||[奇瑞瑞虎 9 汽车 OTA 升级：新增一键全景影像、氛围灯效等功能](https://www.ithome.com/0/788/219.htm)|
+||[腾讯音乐 2024 财年第二季度净利润 17.9 亿元同比增长 33.1%，付费用户数达 1.17 亿人同比增长 17.7%](https://www.ithome.com/0/788/218.htm)|
+||[淘宝新增“15 天包活”服务：针对鲜花速递、花卉仿真、绿植园艺等类目](https://www.ithome.com/0/788/217.htm)|
+||[扇框无限镜 + 转速数显，安耐美推出 30mm 加厚积木风扇 CL30](https://www.ithome.com/0/788/216.htm)|
+||[AOC 推出“AG276QZD2”26.5 英寸显示器：2K 240Hz QD-OLED，4299 元](https://www.ithome.com/0/788/215.htm)|
+||[韩监管机构：移动支付服务商 KakaoPay 擅自向支付宝提供 542 亿条用户信息](https://www.ithome.com/0/788/203.htm)|
+||[4K 160Hz+98% DCI-P3，泰坦军团 32 英寸显示器 2479 元六期免息](https://www.ithome.com/0/788/202.htm)|
+||[科沃斯回应被曝产品存安全漏洞：日常环境被破解概率极低，正升级安全防护能力](https://www.ithome.com/0/788/200.htm)|
+||[猫王清欢 K 歌蓝牙音箱上线：双麦克风、15W 功率，首发 699 元](https://www.ithome.com/0/788/199.htm)|
+||[运营 3 年 3 个月，B站二次元机甲少女手游《机动战姬：聚变》11 月 12 日停服](https://www.ithome.com/0/788/198.htm)|
+||[川西北首条高原铁路“川青铁路”镇江关至黄胜关段开始试运行](https://www.ithome.com/0/788/197.htm)|
+||[我国最深海底隧道完成盾构掘进：水下最大埋深 115 米，全长 13.69 公里](https://www.ithome.com/0/788/196.htm)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI在用 微软总裁疯狂安利的AI小游戏，虐我千千万万遍](https://www.jiqizhixin.com/articles/2024-08-13-9)|
+||[非Transformer架构站起来了！首个纯无注意力大模型，超越开源巨头Llama 3.1](https://www.jiqizhixin.com/articles/2024-08-13-8)|
+||[论文荣登计算机体系结构顶会ISCA，芯片架构成为边缘AI最佳并行计算选择](https://www.jiqizhixin.com/articles/2024-08-13-7)|
+||[不用部署，实现大模型切换自由！Token、算力免费薅！咱AI开发者今年整个秋天的奶茶都省出来了！](https://www.jiqizhixin.com/articles/2024-08-13-6)|
+||[开源AI视频工具，你只需要当导演，HuggingFace工程师打造](https://www.jiqizhixin.com/articles/2024-08-13-5)|
+||[首个支持普通话和方言混说的TTS大模型：河南话、上海话、粤语说得溜](https://www.jiqizhixin.com/articles/2024-08-13-4)|
+||[首个全自动科学发现AI系统，Transformer作者创业公司Sakana AI推出AI Scientist](https://www.jiqizhixin.com/articles/2024-08-13-3)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[牙齿上的黑线是蛀牙吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%89%99%E9%BD%BF%E4%B8%8A%E7%9A%84%E9%BB%91%E7%BA%BF%E6%98%AF%E8%9B%80%E7%89%99%E5%90%97%EF%BC%9F)|
 ||[手上长倒刺，是缺维生素吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%89%8B%E4%B8%8A%E9%95%BF%E5%80%92%E5%88%BA%EF%BC%8C%E6%98%AF%E7%BC%BA%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%90%97%EF%BC%9F)|
 ||[月经推迟几天，正常吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%9C%88%E7%BB%8F%E6%8E%A8%E8%BF%9F%E5%87%A0%E5%A4%A9%EF%BC%8C%E6%AD%A3%E5%B8%B8%E5%90%97%EF%BC%9F)|
