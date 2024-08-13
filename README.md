@@ -2,6 +2,36 @@
 
 |来源|标题|
 |---|---|
+|[36氪](http://36kr.com/feed)|[黄仁勋看好的万亿AI赛道，中国为何冷清？](https://36kr.com/p/2903014605707911?f=rss)|
+||[智氪 市场上还有基金能赚到钱吗？](https://36kr.com/p/2904146712517508?f=rss)|
+||[CEO锦囊·出海季丨中东、拉美的出海秘密](https://36kr.com/p/2902571043773063?f=rss)|
+||[猛卷卖家、扶持红人，TikTok狠推直播电商 焦点分析](https://36kr.com/p/2903978922334850?f=rss)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[龙芯胡伟武：龙芯3B6600性能将比肩12/13代高端酷睿](https://m.cnbeta.com.tw/view/1442015.htm)|
+||[称特朗普访谈前网络遭到攻击，马斯克撒谎了？](https://m.cnbeta.com.tw/view/1442014.htm)|
+||[马斯克“表忠心”、特朗普“吹高铁” 这场全球瞩目的“二人转”聊了这些……](https://m.cnbeta.com.tw/view/1442013.htm)|
+||[微软向专业用户和企业推出Microsoft Defender更新映像](https://m.cnbeta.com.tw/view/1442012.htm)|
+||[讨论20年之后 美国加州首次开通两列电气化列车](https://m.cnbeta.com.tw/view/1442011.htm)|
+||[美监管机构：SpaceX今年多次污染得克萨斯州水体](https://m.cnbeta.com.tw/view/1442010.htm)|
+||[谷歌抢在iPhone 16前发布新机 暗示智能手机技术比苹果领先6个月](https://m.cnbeta.com.tw/view/1442009.htm)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取字体包 Font Collection Bundle Windows、macOS $694→0 ](https://free.apprcn.com/get-font-collection-bundle-for-free-2/)|
+|[老左笔记](https://www.laozuo.org/feed)|[记录免费Obsidian笔记同步免费亚马逊云S3云存储教程](https://www.laozuo.org/29417.html)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[用友BIP3 R6发布，平台技术能力再升级](https://www.infoq.cn/article/usJh6l4qFFKhASkWrdjz)|
+|[蓝点网](https://www.landiannews.com/feed)|[Cloudflare图像转换功能变成免费 可以自动转换为WebP或AVIF格式](https://www.landiannews.com/archives/105389.html)|
+||[欧洲公益组织对X/Twitter提起9项GDPR投诉 指控未经用户同意拿数据训练AI](https://www.landiannews.com/archives/105387.html)|
+||[泰坦尼克号观光潜水器失事后船员家属起诉罗技 因为潜水器使用F170手柄控制](https://www.landiannews.com/archives/105383.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[纯电轿车，还是不好卖](https://36kr.com/p/2903774424324744)|
+||[iOS 18 大改的新相册，为什么遭嫌弃？](https://36kr.com/p/2903039664790408)|
+||[2B多模态新SOTA，华科、华南理工发布Mini-Monkey，专治“切分增大分辨率”后遗症](https://36kr.com/p/2902850944440961)|
+||[“AI抗癌”让脑瘤细胞转为免疫细胞，生存几率猛涨75%，即将进入临床试验](https://36kr.com/p/2903067614255752)|
+||[纠偏仅退款，淘宝拿出“黑白名单”](https://36kr.com/p/2902881144773255)|
+||[8点1氪｜王自如被限制高消费；腾讯回应微信自动清理3天未读消息；哈啰回应男子打1400公里顺风车逃单](https://36kr.com/p/2903841782586246)|
+||[瓶装水超市卖0.57元，老太太都在抢](https://36kr.com/p/2902623829203841)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[这些年，有哪些像电子支付一样的东西改变了我们的生活？](https://daily.zhihu.com/story/9774575)|
+||[徐峥的新电影《逆行人生》看后有什么感受？](https://daily.zhihu.com/story/9774613)|
+||[2024 巴黎奥运会闭幕式有哪些精彩瞬间？哪个环节给你留下了最深的印象？](https://daily.zhihu.com/story/9774623)|
+||[有哪些拥有特别令人印象深刻的技能的生物？](https://daily.zhihu.com/story/9774583)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Sony 全新 SRS-ULT10 無線藍牙喇叭 震撼登場](https://applefans.today/2024-08-sony-srs-ult10-launch/)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[历时 8 年，Notion 终于发布简体中文 Beta 页面](https://www.appinn.com/notion-chinese/)|
 |[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人为什么会愤怒？](https://www.zhihu.com/question/19798825)|
 ||[工作经常会出现「付出的汗水」与「收获的回报」不对等，职场人如何平衡这种情况？](https://www.zhihu.com/question/663988692)|
 ||[美国为什么那么多胖子？](https://www.zhihu.com/question/22125124)|
