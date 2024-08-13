@@ -2,6 +2,50 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[人为什么会愤怒？](https://www.zhihu.com/question/19798825)|
+||[工作经常会出现「付出的汗水」与「收获的回报」不对等，职场人如何平衡这种情况？](https://www.zhihu.com/question/663988692)|
+||[美国为什么那么多胖子？](https://www.zhihu.com/question/22125124)|
+||[为什么詹姆斯将近 40 岁还能在国际赛场上保持统治力?](https://www.zhihu.com/question/664006273)|
+||[你读过宿命感最强的诗句是什么?](https://www.zhihu.com/question/660702522)|
+||[8 月 12 日所有期限利率债收益率全线上行，多家银行停止长债做市，将如何影响市场？](https://www.zhihu.com/question/664120702)|
+||[车辆在高速公路上发生故障无法行驶时，应如何处理？](https://www.zhihu.com/question/663156673)|
+||[山东一地发生弓箭射人射车事件，多名路人被射伤，嫌疑人已落网，持有弓箭违法吗？嫌疑人将承担哪些法律责任？](https://www.zhihu.com/question/664084196)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[梅赛德斯-奔驰中国与火山引擎战略合作，重点探索大模型应用](https://www.jiqizhixin.com/articles/2024-08-13-2)|
+|[少数派](https://sspai.com/feed)|[装满数字生活与青春：我的背包进化史](https://sspai.com/post/91356)|
+|[TecHug](http://www.techug.com/feed)|[【程序员搞笑图片】数据类型简明指导](https://www.techug.com/post/quickguidetodatatypes/)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[微软发现 OpenVPN 漏洞，可通过连锁实现 RCE 和 LPE](https://www.anquanke.com/post/id/299054)|
+||[一名攻击者窃取了与亚利桑那州大学有关联的超过20万人的个人数据](https://www.anquanke.com/post/id/299057)|
+||[FreeBSD 修复了 OpenSSH 中的一个严重漏洞（CVE-2024-7589）](https://www.anquanke.com/post/id/299061)|
+||[未修补的 MS Office 漏洞可能会将 NTLM 哈希泄露给攻击者 （CVE-2024-38200）](https://www.anquanke.com/post/id/299064)|
+||[网络钓鱼攻击如何快速适应以利用当前事件](https://www.anquanke.com/post/id/299066)|
+||[Chrome 和 Edge 浏览器用户受恶意扩展程序困扰，无法轻易删除](https://www.anquanke.com/post/id/299068)|
+||[CrowdStrike 试图与网络安全行业修补关系](https://www.anquanke.com/post/id/299071)|
+||[常见的与业务相关的网络钓鱼诈骗](https://www.anquanke.com/post/id/299075)|
+||[Common Log File System（CLFS）驱动程序漏洞 可能导致 Windows 10、11 系统也崩溃](https://www.anquanke.com/post/id/299078)|
+||[ISC.AI 2024：三城联动，打造“安全+AI”新高地](https://www.anquanke.com/post/id/299080)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软向专业用户和企业推出Microsoft Defender更新映像 可以集成到WIM/VHD中](https://www.landiannews.com/archives/105378.html)|
+||[消息称苹果的AI功能付费计划正在筹备中 预计要到2027年才会收费](https://www.landiannews.com/archives/105375.html)|
+||[SteamOS可能会支持其他游戏掌机 Steam这是要做掌机领域的Windows](https://www.landiannews.com/archives/105373.html)|
+||[笔记和个人知识库应用Notion网页版和iOS版已支持简体中文](https://www.landiannews.com/archives/105372.html)|
+||[知名图像查看器Honeyview停止更新 开发商将其替换为收费的BandiView](https://www.landiannews.com/archives/105374.html)|
+||[谷歌全面停用俄罗斯网站和YouTube创作者广告账户 无法再获得广告分成](https://www.landiannews.com/archives/105371.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[马斯克毛遂自荐 愿在特朗普第二任期扮演削减联邦预算的角色](https://m.cnbeta.com.tw/view/1442008.htm)|
+||[网传小米SU7被偷后续：人已抓到 16岁未成年 没驾照](https://m.cnbeta.com.tw/view/1442006.htm)|
+||[天津港平行进口车销量暴跌 卖辆车赚套房成过去](https://m.cnbeta.com.tw/view/1442005.htm)|
+||[麻辣诱惑创始人回应欠债3亿被限高：十分抱歉 我会一点一点还](https://m.cnbeta.com.tw/view/1442004.htm)|
+||[专家：仅退款直接取消是发展趋势 对商家、用户都是好事](https://m.cnbeta.com.tw/view/1442003.htm)|
+||[谷歌全面停用俄罗斯网站和YouTube创作者广告账户 无法再获得广告分成](https://m.cnbeta.com.tw/view/1442001.htm)|
+||[马斯克对谈特朗普：我们不应该诋毁石油和天然气行业](https://m.cnbeta.com.tw/view/1442000.htm)|
+||[黑客泄露27亿条包含美国社会保障号的数据记录](https://m.cnbeta.com.tw/view/1441999.htm)|
+||[宝马推出电动汽车里程模拟工具 说服车主购买电车](https://m.cnbeta.com.tw/view/1441998.htm)|
+||[Intel 13/14代酷睿最新补丁Linux实测 性能几乎没有损失](https://m.cnbeta.com.tw/view/1441996.htm)|
+||[杭州外卖骑手与保安冲突后下跪 美团回应：将“一管到底”](https://m.cnbeta.com.tw/view/1441994.htm)|
+||[美媒：马斯克为特朗普争取80万关键选民支持 投入超10亿](https://m.cnbeta.com.tw/view/1441993.htm)|
+||[X突遭DDOS攻击 马斯克与特朗普的访谈推迟40分钟后开始](https://m.cnbeta.com.tw/view/1441992.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[js怎样替换dom节点更快？](https://segmentfault.com/q/1010000045167734)|
+||[Python 中 `int* str*` 和 `int str` 有什么区别？](https://segmentfault.com/q/1010000045167653)|
+||[为什么Vite+Vue3与Vue2+Electron处理fetch流式数据结果不同？](https://segmentfault.com/q/1010000045167373)|
+||[三方使用支付宝登录，内嵌iframe问题？](https://segmentfault.com/q/1010000045167311)|
 |[反斗限免](https://free.apprcn.com/feed/)|[ThunderSoft Video Editor - 视频编辑工具 Windows $49.95→0 ](https://free.apprcn.com/thundersoft-video-editor-2/)|
 ||[CALC Smart - 足智多谋的科学计算器 macOS、iOS、Apple Watch ￥8→0 ](https://free.apprcn.com/calc-smart-4/)|
 ||[免费获取字体 Back to School Font Windows、macOS ](https://free.apprcn.com/get-back-to-school-font-for-free-2/)|
