@@ -2,6 +2,90 @@
 
 |来源|标题|
 |---|---|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[牙齿上的黑线是蛀牙吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%89%99%E9%BD%BF%E4%B8%8A%E7%9A%84%E9%BB%91%E7%BA%BF%E6%98%AF%E8%9B%80%E7%89%99%E5%90%97%EF%BC%9F)|
+||[手上长倒刺，是缺维生素吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%89%8B%E4%B8%8A%E9%95%BF%E5%80%92%E5%88%BA%EF%BC%8C%E6%98%AF%E7%BC%BA%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%90%97%EF%BC%9F)|
+||[月经推迟几天，正常吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%9C%88%E7%BB%8F%E6%8E%A8%E8%BF%9F%E5%87%A0%E5%A4%A9%EF%BC%8C%E6%AD%A3%E5%B8%B8%E5%90%97%EF%BC%9F)|
+||[抗初老真的要趁早！赶紧试试它](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%8A%97%E5%88%9D%E8%80%81%E7%9C%9F%E7%9A%84%E8%A6%81%E8%B6%81%E6%97%A9%EF%BC%81%E8%B5%B6%E7%B4%A7%E8%AF%95%E8%AF%95%E5%AE%83)|
+||[男人的花期，为啥那么短啊！？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%94%B7%E4%BA%BA%E7%9A%84%E8%8A%B1%E6%9C%9F%EF%BC%8C%E4%B8%BA%E5%95%A5%E9%82%A3%E4%B9%88%E7%9F%AD%E5%95%8A%EF%BC%81%EF%BC%9F)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[闲来札记：持茅台的个人股东知多少、一鸟在手与两鸟在林、假若牛市不来怎么办](http://xueqiu.com/3491303582/300819331)|
+||[万华化学2024年半年报解读及经营数据分析](http://xueqiu.com/9946312678/300815812)|
+||[长期持公司的收益是否约等于其roe（系列文章一）](http://xueqiu.com/3081204011/300832837)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[蛮漂亮的](https://www.reddit.com/r/real_China_irl/comments/1er1psi/蛮漂亮的/)|
+|[IT之家](https://www.ithome.com/rss/)|[2024Q2 全球平板出货量报告：苹果同比增 17%、三星增 17%、联想增 16%、小米增 138%、亚马逊降 3%](https://www.ithome.com/0/788/195.htm)|
+||[小米推出固速视频监控存储卡：32 / 64 / 128 / 256GB 可选，49 元起](https://www.ithome.com/0/788/193.htm)|
+||[1500 元帮写学术项目代码完成后却遭恶意退款：学校回应“查无此人”、家长称“会进行赔付”](https://www.ithome.com/0/788/192.htm)|
+||[腾讯成长守护新增身份证关联游戏账号查询：实时通知登录、充值状态](https://www.ithome.com/0/788/191.htm)|
+||[50 余款新品首发亮相，2024 世界机器人大会将于 8 月 21 至 25 日在京举办](https://www.ithome.com/0/788/189.htm)|
+||[面向 AI 工作站散热，建准首次推出自驱式相变液冷解决方案](https://www.ithome.com/0/788/188.htm)|
+||[雷神 G80 三模精英手柄 8 月 19 日发布：独立驱动芯片、四马达 H 桥急停](https://www.ithome.com/0/788/187.htm)|
+||[警方通报轿车撞电动自行车后撞树自燃：汽车驾驶员身亡，案件进一步调查中](https://www.ithome.com/0/788/185.htm)|
+||[经典游戏重制作《四海兄弟：最终版》登陆微软 XGP 订阅服务，主机 / PC / 云平台均可玩](https://www.ithome.com/0/788/183.htm)|
+||[95% P3 色域 + 65W 一线连：小米 Redmi 4K 显示器 1392 元再发车](https://www.ithome.com/0/788/181.htm)|
+||[菜鸟正式在香港开通本地快递服务，承诺全港“次日达”](https://www.ithome.com/0/788/179.htm)|
+||[因泄露商业机密，印度撤回有关苹果反垄断调查的报告](https://www.ithome.com/0/788/178.htm)|
+||[微软邀请用户测试 Teams 新会议小窗视图，最多显示 4 个视频源](https://www.ithome.com/0/788/177.htm)|
+||[美国对中国电动汽车加税，Alphabet 旗下 Waymo 公司或受损](https://www.ithome.com/0/788/175.htm)|
+||[斥资超 84 亿新台币，纬创将在中国台湾地区、美国、墨西哥与印度扩产 AI 服务器](https://www.ithome.com/0/788/174.htm)|
+||[讨论 20 年之后，美国加州首次开通两列电动列车](https://www.ithome.com/0/788/173.htm)|
+||[续航提升 38.2% 增至 470 英里，特斯拉 Cybetruck 皮卡官方加装增程电池服务延至明年交付](https://www.ithome.com/0/788/171.htm)|
+||[谷歌增强“圈选即搜”，将支持听歌识曲功能](https://www.ithome.com/0/788/169.htm)|
+||[谷歌呼吁安卓用户禁用 2G 网络，以防范新型短信诈骗](https://www.ithome.com/0/788/168.htm)|
+||[山灵 MG100 陶瓷振膜动圈耳机新增“松石绿”配色：双磁路双腔体，957 元](https://www.ithome.com/0/788/167.htm)|
+||[快睿推出 CR401 风冷散热器：4 热管单风扇单塔，200W 解热能力](https://www.ithome.com/0/788/166.htm)|
+||[Melgeek 赛博 01 磁轴键盘“顶配”预售：全 TTC 新款万磁王轴，1099 元](https://www.ithome.com/0/788/165.htm)|
+||[因 HBM3/3E 内存产能挤占，SK 海力士 DDR5 被曝涨价 15~20%](https://www.ithome.com/0/788/164.htm)|
+||[中国首型首飞即回收火箭，深蓝航天宣布星云一号 8 月底试验](https://www.ithome.com/0/788/163.htm)|
+||[告别低调，Liberty Walk 为特斯拉 Model 3 推出宽体套件](https://www.ithome.com/0/788/161.htm)|
+||[我国科学家首次从地质记录揭示 7 亿年来地球自转阶梯式减速过程](https://www.ithome.com/0/788/160.htm)|
+||[买一得二：WPS 超级会员 2 年 + QQ 音乐绿钻 1 年联合卡 188 元补贴购](https://www.ithome.com/0/788/159.htm)|
+||[鸿蒙智行问界新 M7 汽车年度累计交付突破 13 万台](https://www.ithome.com/0/788/158.htm)|
+||[国产特效大片《刺杀小说家 2》电影今日开机，邓超、董子健主演](https://www.ithome.com/0/788/157.htm)|
+||[14.99 万元起，东风风神 SKY EV01 PRO 精英版 SUV 上市](https://www.ithome.com/0/788/156.htm)|
+||[2025 款宝马 M5 旅行版现身：搭载插电混动系统，8 月 15 日全球首发](https://www.ithome.com/0/788/155.htm)|
+||[消息称某厂骁龙 8 Gen4 新机配备京东方 8T LTPO 2K 等深四曲屏，预计为一加 13](https://www.ithome.com/0/788/154.htm)|
+||[贾跃亭法拉第未来完成第 13 台 FF 91 2.0 新车交付，向全球传播负责人高巍交车](https://www.ithome.com/0/788/152.htm)|
+||[比亚迪仰望：超跑 U9 已陆续到店，全系车型将参加成都车展](https://www.ithome.com/0/788/151.htm)|
+||[双频生物电阻抗测量：小米米家智能体脂秤 S400 京东 90 元百亿补贴](https://www.ithome.com/0/788/150.htm)|
+||[特斯拉 Cybertruck 电动皮卡售价暴涨 2 万美元，入门款车型消失](https://www.ithome.com/0/788/149.htm)|
+||[HBM 带动，三大内存原厂均跻身 2024Q1 半导体 IDM 企业营收前四](https://www.ithome.com/0/788/148.htm)|
+||[已现身索尼游戏商城，PC 版《荒野大镖客：救赎》即将发行](https://www.ithome.com/0/788/147.htm)|
+||[首发价 3299 元：努比亚 Flip 小折叠手机 12+256G 京东 2676 元百亿补贴](https://www.ithome.com/0/788/146.htm)|
+||[极氪回应 2025 款新车“抄”某某摆拍图：非官方主视觉海报，海量美图中的一张](https://www.ithome.com/0/788/144.htm)|
+||[美国能源部：电动汽车电池成本 15 年间下降了 90%](https://www.ithome.com/0/788/142.htm)|
+||[最强 AI 程序员 Genie 砸饭碗：84 秒跑通代码，像人一样思考，团队仅 5 人](https://www.ithome.com/0/788/141.htm)|
+||[泰坦军团 27 英寸 QD-MiniLED 显示器 M27E6V-PRO 首销：4K 160Hz，4999 元](https://www.ithome.com/0/788/140.htm)|
+||[迪士尼揭秘全息瓷砖地板设计，万向滑行构建 VR 突破性创新体验](https://www.ithome.com/0/788/139.htm)|
+||[领克首款纯电旗舰轿车 Z10 极夜黑配色公布，9 月上旬开售](https://www.ithome.com/0/788/138.htm)|
+||[首位“AI 科学家”问世：已独立生成 10 篇学术论文，还顺手搞了 AI 审稿人](https://www.ithome.com/0/788/137.htm)|
+||[SK 海力士：内存 EUV 光刻成本快速增长，考虑转向 4F2 或 3D DRAM](https://www.ithome.com/0/788/135.htm)|
+||[因版权归属问题，《仙剑奇侠传》开发商软星科技启用全新 LOGO](https://www.ithome.com/0/788/134.htm)|
+||[斥资 6.65 亿美元，AMD 完成收购欧洲最大私人 AI 实验室 Silo AI](https://www.ithome.com/0/788/133.htm)|
+||[至高直降 900 元：九号电动自行车 A2z 系列新低 1999 元起](https://www.ithome.com/0/788/132.htm)|
+||[10 款游戏实测：AMD Radeon 890M 核显性能超英伟达 GTX 1650 独显](https://www.ithome.com/0/788/131.htm)|
+||[Falcon Mamba 7B 开源模型登顶：换掉 Transformer，任意长序列都能处理](https://www.ithome.com/0/788/130.htm)|
+||[天玑 8200-Ultra：小米 Civi 3 手机 12+512G 京东 2087 元 6 期免息](https://www.ithome.com/0/788/128.htm)|
+||[小米 67W 桌面快充插座发布：七合一、双 A 双 C 口，首发价 129 元](https://www.ithome.com/0/788/127.htm)|
+||[「AI 数据荒」雪上加霜，MIT 发现网页数据的公开共享正走向衰落](https://www.ithome.com/0/788/126.htm)|
+||[首发价 999 元：努比亚小牛 5G 手机 8GB+256GB 版 799 元京东探新低](https://www.ithome.com/0/788/125.htm)|
+||[2024 二季度 AMD 服务器市场份额创新高，英特尔在客户端市场反击](https://www.ithome.com/0/788/124.htm)|
+||[复旦团队国际首次验证超快闪存集成工艺：20 纳秒超快编程、10 年非易失](https://www.ithome.com/0/788/123.htm)|
+||[1268 米！国际科研团队钻取迄今最深地幔岩石样本](https://www.ithome.com/0/788/122.htm)|
+|[精品MAC应用分享](https://xclient.info/feed)|[Inpaint 11.0.2 图片去水印、瑕疵](https://xclient.info/s/inpaint.html)|
+||[FontBook 5.3.2 理想字体工具](https://xclient.info/s/fontbook.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[苹果最终批准复古系统模拟器iDOS3登陆应用商店 此前认为违规拒绝上架](https://www.landiannews.com/archives/105386.html)|
+||[内容创作者赞助平台Patreon被苹果要求必须内购支付并缴纳30%抽成](https://www.landiannews.com/archives/105401.html)|
+|[极客公园](http://feeds.geekpark.net/)|[Midjourney 也得「站着敬酒」，AI 图片生成新王 Flux 怎么这么强？](http://www.geekpark.net/news/339229)|
+||[阿里把十年后的超时空购物体验店，搬到了巴黎奥运会旁边](http://www.geekpark.net/news/339228)|
+||[马斯克连线特朗普，遭网络攻击迟迟未开始；传微信将删除 3 天未接收消息；传董宇辉至今总薪酬约 6 亿元](http://www.geekpark.net/news/339196)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[什么？IL2CPP APP分析这一篇就够啦！](https://www.anquanke.com/post/id/299096)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[vim断行的问题～求解决方案?](https://segmentfault.com/q/1010000045168934)|
+||[如何在Flutter WebView中获取所有Cookie，包括Http-only Cookies?](https://segmentfault.com/q/1010000045168348)|
+||[如何解决Go编译时出现的'WaitForSingleObject: The handle is invalid'错误？](https://segmentfault.com/q/1010000045168295)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[抑制出于享受的进食](https://www.solidot.org/story?sid=78961)|
+||[DDoSecrets 联合创始人是丝绸之路 2.0 的管理员](https://www.solidot.org/story?sid=78960)|
+||[如果不给佣金苹果威胁移除 Patreon](https://www.solidot.org/story?sid=78959)|
+||[微软应用商店将于 11 月下架 Paint 3D](https://www.solidot.org/story?sid=78958)|
+||[印度计划要求网红登记注册](https://www.solidot.org/story?sid=78957)|
 |[36氪](http://36kr.com/feed)|[黄仁勋看好的万亿AI赛道，中国为何冷清？](https://36kr.com/p/2903014605707911?f=rss)|
 ||[智氪 市场上还有基金能赚到钱吗？](https://36kr.com/p/2904146712517508?f=rss)|
 ||[CEO锦囊·出海季丨中东、拉美的出海秘密](https://36kr.com/p/2902571043773063?f=rss)|
