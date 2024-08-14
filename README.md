@@ -2,6 +2,39 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[法拉利首款电车明年亮相：保留超跑声浪 售价超过350万元](https://m.cnbeta.com.tw/view/1442155.htm)|
+||[黑客公开称手握14亿腾讯用户账号信息 数据包容量多达500GB](https://m.cnbeta.com.tw/view/1442154.htm)|
+||[微软已经修复Windows 10/11自动重启进入BitLocker加密恢复界面的问题](https://m.cnbeta.com.tw/view/1442153.htm)|
+||[性别争议拳手起诉马斯克](https://m.cnbeta.com.tw/view/1442152.htm)|
+||[美国科学家发明“防开车打瞌睡”耳机：自动采取提神措施](https://m.cnbeta.com.tw/view/1442151.htm)|
+||[变性女儿抨击马斯克自转：我成了父亲的替罪羊](https://m.cnbeta.com.tw/view/1442149.htm)|
+||[文远知行无人驾驶汽车获准在美国加州进行载人测试](https://m.cnbeta.com.tw/view/1442148.htm)|
+||[5G-A体验套餐月费399元“吓退”用户 群嘲“大可不必”](https://m.cnbeta.com.tw/view/1442147.htm)|
+||[国内首款摩托车ETC正式发布：已支持11个省市通行](https://m.cnbeta.com.tw/view/1442146.htm)|
+||[俄罗斯要求所有手机必须预装其国产应用商店 遭到部分厂商的反对](https://m.cnbeta.com.tw/view/1442145.htm)|
+||[Google Gemini在发布会的现场演示中失败两次 被迫启用备用机](https://m.cnbeta.com.tw/view/1442144.htm)|
+||[美国NIST发布首套对抗量子计算黑客的算法](https://m.cnbeta.com.tw/view/1442143.htm)|
+||[拥有AI处理能力的PC已占第二季度电脑出货量的14%](https://m.cnbeta.com.tw/view/1442142.htm)|
+||[佛罗里达州因禁止实验室培育肉类的立法被起诉](https://m.cnbeta.com.tw/view/1442141.htm)|
+||[老视频：杰夫·贝索斯1997年的BBC访谈 询问互联网购物何时会兴起](https://m.cnbeta.com.tw/view/1442140.htm)|
+||[持有特斯拉股票的得克萨斯州法官回避特斯拉广告商诉讼案](https://m.cnbeta.com.tw/view/1442139.htm)|
+||[微软今日修复89个安全漏洞 含多个已被黑客利用的零日漏洞](https://m.cnbeta.com.tw/view/1442138.htm)|
+||[白宫希望让取消订阅服务与注册过程一样简单](https://m.cnbeta.com.tw/view/1442136.htm)|
+||[iPhone 16 将加入的“捕捉”按键能做什么？](https://m.cnbeta.com.tw/view/1442130.htm)|
+||[macOS Sequoia中的iPhone镜像功能现在支持抖动模式管理主屏](https://m.cnbeta.com.tw/view/1442129.htm)|
+||[Google称Pixel 9的Gemini AI可帮助用户避免不了解或不信任的供应商](https://m.cnbeta.com.tw/view/1442128.htm)|
+||[研究发现航迹云可能会造成更多的全球变暖问题](https://m.cnbeta.com.tw/view/1442127.htm)|
+||[Google Pixel Watch 3 正式发布 两种尺寸、UWB 和蓝牙 LE 音频](https://m.cnbeta.com.tw/view/1442126.htm)|
+||[Pixel Buds Pro 2 发布 采用 Tensor A1 芯片 噪音消除能力翻倍](https://m.cnbeta.com.tw/view/1442125.htm)|
+||[男子腰缠18台手机特制腰带 因神色紧张、举止异常被查获](https://m.cnbeta.com.tw/view/1442123.htm)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Google 推出三款全新的 Pixel 9 系列手機！注入超強 AI 影攝功能](https://applefans.today/2024-08-google-pixel-9-series-lanuch/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[全球最强AI程序员：GPT-4o加持，需求到跑通只需84秒](https://www.jiqizhixin.com/articles/2024-08-14-2)|
+||[浩瀚智驾2.0首发，2025款极氪001、极氪007全能上市](https://www.jiqizhixin.com/articles/2024-08-14)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[回乡见闻](http://xueqiu.com/6217262310/300779831)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[前端如何实现类似于浏览器头部导航标签功能？](https://segmentfault.com/q/1010000045171268)|
+||[如何将json数组修改组成新的数组？](https://segmentfault.com/q/1010000045171126)|
+|[蓝点网](https://www.landiannews.com/feed)|[NIST发布3项后量子加密标准 用于对抗未来出现的量子计算机破解问题](https://www.landiannews.com/archives/105405.html)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[从零开始制作一个属于你自己的GPU 基于FPGA的图形加速器实现原理](http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 3D PUZZLE - Hospital 1 Windows、macOS、Linux ](https://free.apprcn.com/get-steam-game-3d-puzzle-hospital-1-for-free/)|
 |[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[七夕节氛围黯淡：哪五个原因，让七夕情人节消费离我们而去？](https://lukefan.com/2024/08/14/%e4%b8%83%e5%a4%95%e8%8a%82%e6%b0%9b%e5%9b%b4%e9%bb%af%e6%b7%a1%ef%bc%9a%e5%93%aa%e4%ba%94%e4%b8%aa%e5%8e%9f%e5%9b%a0%ef%bc%8c%e8%ae%a9%e4%b8%83%e5%a4%95%e6%83%85%e4%ba%ba%e8%8a%82%e6%b6%88%e8%b4%b9/)|
 |[IT之家](https://www.ithome.com/rss/)|[特斯拉在“2024 华车展”参展第二天撤展，购车无法抽奖引争议](https://www.ithome.com/0/788/356.htm)|
