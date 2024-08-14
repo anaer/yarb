@@ -2,6 +2,33 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 三年前待过的一家公司的老板突然让我拍学历证书给他，说什么补上之前申请国家高新技术人才的什么什么资料。](https://www.v2ex.com/t/1064952#reply12)|
+||[ 问与答 程序员是否被技术思维限制了，投身农业养殖业是否也可行？](https://www.v2ex.com/t/1064949#reply14)|
+||[ 投资 携百万资金，再次梭哈娜娜](https://www.v2ex.com/t/1064910#reply120)|
+||[ 问与答 老人的支付宝被保险各种扣钱](https://www.v2ex.com/t/1064904#reply29)|
+||[ 程序员 不知道发哪里合适,想问下 V 佬,从服务器 clone 项目非常慢是什么问题.](https://www.v2ex.com/t/1064903#reply20)|
+|[36氪](http://36kr.com/feed)|[36氪研究院 2024年中国AI教育行业研究报告](https://36kr.com/p/2905670552722308?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[Hive中处理大量数据频繁变动的增量更新策略？](https://segmentfault.com/q/1010000045172660)|
+||[有哪个开源的js时间插件支持，年，季度，月，周，日范围选择？](https://segmentfault.com/q/1010000045172345)|
+|[极客公园](http://feeds.geekpark.net/)|[谷歌：Android 手机，听我的，AI 要这么做](http://www.geekpark.net/news/339238)|
+||[谷歌发布新一代AI手机，5700 元起；星巴克换帅，股价大涨 20%；OpenAI 官宣 GPT-4o 更新](http://www.geekpark.net/news/339237)|
+|[爱范儿](https://www.ifanr.com/feed)|[今年最糟的 AI 广告出现了，比审美降级更可怕的是「不做人」](https://www.ifanr.com/1595990?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[早报 外卖骑手下跪，参与声援被封号？美团官方回应 / Android 系统或从 Google 剥离 / 马斯克：没必要立马取代化石燃料](https://www.ifanr.com/1595987?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[这届奥运办得好不好，义乌都知道｜深氪lite](https://36kr.com/p/2904436381375109)|
+||[Kimi 开始回本了](https://36kr.com/p/2903976824151429)|
+||[买不起英伟达“特供”，中国创业者偏爱4090](https://36kr.com/p/2904544817257344)|
+||[8点1氪｜ 新东方孙东旭曾个人赠予董宇辉1500万元；美团回应杭州外卖员下跪事件；英伟达多位高管抛售股票](https://36kr.com/p/2905232545454980)|
+||[黄仁勋看好的万亿AI赛道，中国为何冷清？](https://36kr.com/p/2903014605707911)|
+||[3个隐形的穷人思维，别说我没有提醒你](https://36kr.com/p/2904125175700358)|
+||[马斯克“偏心”，特斯拉高管们坐不住了](https://36kr.com/p/2904460935650185)|
+|[海交史](https://www.haijiaoshi.com/feed)|[大鹏半岛海洋图书馆官网上线](https://www.haijiaoshi.com/archives/12065?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25a4%25a7%25e9%25b9%258f%25e5%258d%258a%25e5%25b2%259b%25e6%25b5%25b7%25e6%25b4%258b%25e5%259b%25be%25e4%25b9%25a6%25e9%25a6%2586%25e5%25ae%2598%25e7%25bd%2591%25e4%25b8%258a%25e7%25ba%25bf)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[Grok-2来了，能生图识图、性能比肩GPT-4o，马斯克：发展猛如火箭](https://www.jiqizhixin.com/articles/2024-08-14-9)|
+||[一直爆料OpenAI「草莓」的账号，竟然是个智能体？斯坦福系创企「炒作」AgentQ](https://www.jiqizhixin.com/articles/2024-08-14-8)|
+||[一夜之间，谷歌版GPT-4o和AI手机全上市了](https://www.jiqizhixin.com/articles/2024-08-14-7)|
+||[OpenAI「草莓」模型再次跳票，凌晨发布的SWE-bench Verified是个啥？](https://www.jiqizhixin.com/articles/2024-08-14-6)|
+||[没有等来OpenAI开源GPT-4o，等来了开源版VITA](https://www.jiqizhixin.com/articles/2024-08-14-5)|
+||[同时操控手机和电脑，100项任务，跨系统智能体评测基准有了](https://www.jiqizhixin.com/articles/2024-08-14-4)|
+||[新成绩！毫末用户智驾里程突破2亿公里](https://www.jiqizhixin.com/articles/2024-08-14-3)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[捷豹路虎高库存窘境：有经销商卖一辆亏十几万](https://m.cnbeta.com.tw/view/1442169.htm)|
 ||[花20万学开飞机 有人一节课没上培训机构跑路被割韭菜](https://m.cnbeta.com.tw/view/1442167.htm)|
 ||[二季度净利润暴增25.9%达13.7亿元 周鸿祎辞任奇富科技董事长](https://m.cnbeta.com.tw/view/1442166.htm)|
