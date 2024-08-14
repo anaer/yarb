@@ -2,6 +2,41 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[捷豹路虎高库存窘境：有经销商卖一辆亏十几万](https://m.cnbeta.com.tw/view/1442169.htm)|
+||[花20万学开飞机 有人一节课没上培训机构跑路被割韭菜](https://m.cnbeta.com.tw/view/1442167.htm)|
+||[二季度净利润暴增25.9%达13.7亿元 周鸿祎辞任奇富科技董事长](https://m.cnbeta.com.tw/view/1442166.htm)|
+||[性别争议拳手起诉马斯克、JK罗琳 开始打击网络暴力](https://m.cnbeta.com.tw/view/1442165.htm)|
+||[新宝马M5旅行版官宣 搭载4.4T插混大V8](https://m.cnbeta.com.tw/view/1442164.htm)|
+||[极氪回应直播被刷屏吐槽：为老车主提供1万元购车抵用券](https://m.cnbeta.com.tw/view/1442162.htm)|
+||[NVIDIA中国特供芯片太贵 创业公司转向RTX 4090](https://m.cnbeta.com.tw/view/1442161.htm)|
+||[全球首个模块式船用电梯实例问世 施工周期缩短90%](https://m.cnbeta.com.tw/view/1442160.htm)|
+||[极氪发布会直播设禁言 大量网友刷礼物“曲线”吐槽](https://m.cnbeta.com.tw/view/1442159.htm)|
+||[ChatGPT发布至今 中国已有近8万家AI公司消失](https://m.cnbeta.com.tw/view/1442158.htm)|
+||[小鹏完成收购滴滴智能电动车业务 MONA系列进军紧凑型车市场](https://m.cnbeta.com.tw/view/1442157.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 投资 携百万资金，再次梭哈娜娜](https://www.v2ex.com/t/1064910#reply22)|
+||[ 问与答 请问怎么实现下雨提醒收衣服的功能?](https://www.v2ex.com/t/1064890#reply22)|
+||[ 问与答 29 岁被优化三个月了，耍的根本不想上班，有什么乐子吗兄弟们](https://www.v2ex.com/t/1064885#reply32)|
+||[ iPad 老款 iPad 运行缓慢有什么优化方案吗？](https://www.v2ex.com/t/1064881#reply13)|
+||[ 问与答 请问有没有隐藏本站头像的油猴脚本？](https://www.v2ex.com/t/1064868#reply13)|
+||[ 程序员 大家第二副业-海外，都是注册哪里的公司？](https://www.v2ex.com/t/1064866#reply14)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[哈佛大学30多年来为何一直反对吃肉？](https://www.jdon.com/75022.html)|
+||[2024年艾滋病大会爆发掌声：新艾滋病疫苗100%有效](https://www.jdon.com/75021.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何查看 implementation 的源码 ?](https://segmentfault.com/q/1010000045171909)|
+||[TypeScript在定义Type的时候，我们一般叫做`类型`，请问是否可以称为`数据类型`, 或者`数据结构类型`呢？](https://segmentfault.com/q/1010000045171899)|
+||[泛型参数R的使用场景是什么呢？](https://segmentfault.com/q/1010000045171832)|
+|[反斗限免](https://free.apprcn.com/feed/)|[随机免费获取 Steam 游戏 Windows ](https://free.apprcn.com/random-get-steam-game-for-free-253/)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[Microsoft Azure 故障导致整个北美地区的服务中断](https://www.4hou.com/posts/kg85)|
+|[少数派](https://sspai.com/feed)|[Google 硬件发布会回顾：Gemini 分量管饱，AI 体验保真](https://sspai.com/post/91450)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[埃隆·马斯克称DDoS攻击导致特朗普的直播采访出现问题](https://www.anquanke.com/post/id/299107)|
+||[针对 Ivanti vTM 关键漏洞的 PoC 攻击代码已发布](https://www.anquanke.com/post/id/299105)|
+||[研究人员在 AI 驱动的 Azure Health Bot Service 中发现漏洞](https://www.anquanke.com/post/id/299111)|
+||[Microsoft 在补丁星期二更新中披露了 10 个零日漏洞](https://www.anquanke.com/post/id/299115)|
+||[联邦调查局关闭了 Dispossessor Ransomware Group 在美国、英国和德国的服务器](https://www.anquanke.com/post/id/299118)|
+||[35% 已暴露的应用程序接口密钥仍然有效，存在重大安全风险](https://www.anquanke.com/post/id/299121)|
+||[微软遭受 DDoS 攻击：2024 年 7 月 30 日全球云服务中断](https://www.anquanke.com/post/id/299125)|
+||[东谷理工学院数据泄露暴露了超过 20万 条记录](https://www.anquanke.com/post/id/299128)|
+||[ISC.AI 2024聚焦新型涉网犯罪打击与治理，共筑网络安全新防线](https://www.anquanke.com/post/id/299131)|
+||[澳大利亚金矿公司遭受勒索软件袭击](https://www.anquanke.com/post/id/299145)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[法拉利首款电车明年亮相：保留超跑声浪 售价超过350万元](https://m.cnbeta.com.tw/view/1442155.htm)|
 ||[黑客公开称手握14亿腾讯用户账号信息 数据包容量多达500GB](https://m.cnbeta.com.tw/view/1442154.htm)|
 ||[微软已经修复Windows 10/11自动重启进入BitLocker加密恢复界面的问题](https://m.cnbeta.com.tw/view/1442153.htm)|
