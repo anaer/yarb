@@ -2,6 +2,62 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[芯片贸易助长中国军事AI实力 美国对华芯片管制效力遭检视](https://m.cnbeta.com.tw/view/1442297.htm)|
+||[谷歌前CEO埃里克施密特认为谷歌在AI领域的落后主要是居家远程办公导致的](https://m.cnbeta.com.tw/view/1442296.htm)|
+||[日本大阪府发生大规模停电 受影响居民一度超24万户](https://m.cnbeta.com.tw/view/1442291.htm)|
+||[Google刚发布的Pixel 9性能不敌4年前iPhone12](https://m.cnbeta.com.tw/view/1442289.htm)|
+||[董宇辉回应和俞敏洪关系：实事求是 我们俩确实没啥问题](https://m.cnbeta.com.tw/view/1442287.htm)|
+||[微软确认Windows 11 24H2版将默认启用BitLocker设备加密功能提高安全性](https://m.cnbeta.com.tw/view/1442286.htm)|
+||[功耗大降30% AMD锐龙9 9950X/9900X处理器图赏](https://m.cnbeta.com.tw/view/1442284.htm)|
+||[华为尊界谍照曝光：定位百万级超高端 气场不输迈巴赫](https://m.cnbeta.com.tw/view/1442283.htm)|
+||[320W闪充、4分钟满电 超级快充就这样卷到头了？](https://m.cnbeta.com.tw/view/1442282.htm)|
+||[小米SU7与极氪007对撞测试博主道歉](https://m.cnbeta.com.tw/view/1442281.htm)|
+||[星巴克允许新CEO远程办公 从1000英里外遥控公司](https://m.cnbeta.com.tw/view/1442279.htm)|
+||[“着急”的极氪，报警了](https://m.cnbeta.com.tw/view/1442278.htm)|
+||[在Google最新广告中 iPhone和Pixel 9 Pro成了好朋友](https://m.cnbeta.com.tw/view/1442277.htm)|
+||[iPhone将帮助判定本赛季英超联赛中的越位行为](https://m.cnbeta.com.tw/view/1442275.htm)|
+||[法官称将"拆除"Google Play应用商店的垄断壁垒](https://m.cnbeta.com.tw/view/1442274.htm)|
+||[小米汽车回应博主对撞测试：不严谨、不完整、不真实](https://m.cnbeta.com.tw/view/1442267.htm)|
+||[俄罗斯美女外教助力中国艺术体操夺金 实力颜值双在线](https://m.cnbeta.com.tw/view/1442265.htm)|
+||[联发科天玑9400有望提前上市 旗舰排期都在10月份](https://m.cnbeta.com.tw/view/1442263.htm)|
+||[微软暂停全屏弹窗升级Windows 11系统 因为部分商业版用户也受到干扰](https://m.cnbeta.com.tw/view/1442262.htm)|
+||[Sonos CEO帕特里克·斯彭斯证实公司裁员100人](https://m.cnbeta.com.tw/view/1442261.htm)|
+||[美国联邦贸易委员会敲定禁止电商虚假评论的规定 包括AI评论](https://m.cnbeta.com.tw/view/1442260.htm)|
+||[Gentoo Linux 终止对 Itanium IA-64 体系的支持](https://m.cnbeta.com.tw/view/1442253.htm)|
+||[拆解视频展示蔚来 Nio Phone 2 的各组件](https://m.cnbeta.com.tw/view/1442252.htm)|
+||[苹果公司何时将所有 Mac 升级到 M4？](https://m.cnbeta.com.tw/view/1442251.htm)|
+||[抨击老东家不拼命工作 谷歌前CEO道歉、下架视频](https://m.cnbeta.com.tw/view/1442250.htm)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[GitHub 遭遇全球宕机](https://www.freebuf.com/news/408688.html)|
+||[Windows TCP IP漏洞影响所有启用IPv6的系统，立即打补丁](https://www.freebuf.com/news/408681.html)|
+||[GitHub Actions 遭利用，14个热门开源项目令牌泄露风险激增](https://www.freebuf.com/news/408680.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[Steam商店游戏评论功能将进行大改 表情包或者玩梗等将被降低排序优先级](https://www.landiannews.com/archives/105450.html)|
+||[戴尔外星人推出双模显示器AW2725QF 支持一键切换4K@180Hz或FHD@360Hz](https://www.landiannews.com/archives/105445.html)|
+||[蓝点网网友分享英特尔第13/14代处理器售后更换流程 2周收到新盒装CPU](https://www.landiannews.com/archives/105436.html)|
+||[开源社区正在将Blink内核移植到iOS 但目前进度缓慢新版Chrome还有的等](https://www.landiannews.com/archives/105434.html)|
+||[Windows 10/11和Linux双系统用户请勿安装最新更新 否则系统将无法启动](https://www.landiannews.com/archives/105433.html)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[My first build of a drone🤭](https://www.reddit.com/r/fpv/comments/1eso2gl/my_first_build_of_a_drone/)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[皮肤长红疹子，是怎么回事？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9A%AE%E8%82%A4%E9%95%BF%E7%BA%A2%E7%96%B9%E5%AD%90%EF%BC%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%EF%BC%9F)|
+||[一个拯救「断崖式衰老」的办法，很多人却不知道（不是医美](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%B8%AA%E6%8B%AF%E6%95%91%E3%80%8C%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E3%80%8D%E7%9A%84%E5%8A%9E%E6%B3%95%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8D%B4%E4%B8%8D%E7%9F%A5%E9%81%93%EF%BC%88%E4%B8%8D%E6%98%AF%E5%8C%BB%E7%BE%8E)|
+||[一次无保护性行为，就会感染梅毒吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E6%AC%A1%E6%97%A0%E4%BF%9D%E6%8A%A4%E6%80%A7%E8%A1%8C%E4%B8%BA%EF%BC%8C%E5%B0%B1%E4%BC%9A%E6%84%9F%E6%9F%93%E6%A2%85%E6%AF%92%E5%90%97%EF%BC%9F)|
+||[一个猪猪身上的黄金部位，错过的人太可惜了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%B8%AA%E7%8C%AA%E7%8C%AA%E8%BA%AB%E4%B8%8A%E7%9A%84%E9%BB%84%E9%87%91%E9%83%A8%E4%BD%8D%EF%BC%8C%E9%94%99%E8%BF%87%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%8F%AF%E6%83%9C%E4%BA%86)|
+||[脚气反复发作到底是为什么啊啊啊啊啊](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%84%9A%E6%B0%94%E5%8F%8D%E5%A4%8D%E5%8F%91%E4%BD%9C%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[创业一年，人间三年](https://daily.zhihu.com/story/9774642)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[1+1=2背后的形式化思考](https://www.jdon.com/75027.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18.1 開放給第三方開發者使用 iPhone 的 NFC 非接觸式交易](https://applefans.today/2024-08-apple-opening-up-iphones-nfc-chip-to-developers/)|
+|[少数派](https://sspai.com/feed)|[长辈们的健康也能被量化：聊聊《中国健康老年人标准》](https://sspai.com/post/91412)|
+||[派早报：Apple 确认将开放 NFC 功能、SteamOS 将支持第三方掌机等](https://sspai.com/post/91485)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[GitHub 开源项目出现攻击媒介，多家公司受影响](https://www.anquanke.com/post/id/299156)|
+||[化学制造公司Orion在BEC骗局中损失了6000万美元](https://www.anquanke.com/post/id/299159)|
+||[新型钓鱼攻击运用恶意软件窃取高级信息](https://www.anquanke.com/post/id/299163)|
+||[Gcore Radar 报告显示，2024 年上半年 DDoS 攻击数量增加了 46%](https://www.anquanke.com/post/id/299166)|
+||[Microsoft 在没有宣布的情况下修补了 SmartScreen 零日漏洞](https://www.anquanke.com/post/id/299170)|
+||[ISAGCA 新报告探讨了 OT 网络安全中的零信任成果](https://www.anquanke.com/post/id/299174)|
+||[印度尼西亚重大袭击事件背后的勒索软件组织戴着多重面具](https://www.anquanke.com/post/id/299177)|
+||[SolarWinds 解决了所有 Web Help Desk 版本中的关键 RCE 问题](https://www.anquanke.com/post/id/299182)|
+||[微软超高危漏洞“狂躁许可”来袭！360终端安全轻松“拿捏”](https://www.anquanke.com/post/id/299184)|
+||[与 Black Basta 有关的攻击者利用 SystemBC 恶意软件攻击用户](https://www.anquanke.com/post/id/299153)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[李沐：创业一年，人间三年](https://www.jiqizhixin.com/articles/2024-08-15)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[XCon2024 完整日程抢先路透！循变之旅，蓄力起航~](https://www.4hou.com/posts/yzoW)|
 |[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大学生想玩儿《黑神话: 悟空》，买什么配置笔记本能够流畅运行？](https://www.zhihu.com/question/664277713)|
 ||[你的快乐是不是也源于钱？](https://www.zhihu.com/question/663965040)|
 ||[如何评价追光动画新作《白蛇：浮生》（白蛇 3）？](https://www.zhihu.com/question/663604797)|
