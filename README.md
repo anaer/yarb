@@ -2,6 +2,23 @@
 
 |来源|标题|
 |---|---|
+|[机器之心](https://www.jiqizhixin.com/rss)|[百万级原子模拟，从头算精度，北京科学智能研究院提出AI+大尺度电子结构模拟新方法](https://www.jiqizhixin.com/articles/2024-08-15-7)|
+||[「每周只上一天班」谷歌散漫制度遭前CEO怒斥：输给OpenAI，再下去要输创业公司了](https://www.jiqizhixin.com/articles/2024-08-15-6)|
+||[1篇Outstanding、5篇Oral！字节跳动今年ACL这么猛？ 来直播间聊聊！](https://www.jiqizhixin.com/articles/2024-08-15-5)|
+||[ACL 2024奖项公布：华科大破译甲骨文最佳论文之一、GloVe时间检验奖](https://www.jiqizhixin.com/articles/2024-08-15-4)|
+||[ACL主席：ACL不是AI会议](https://www.jiqizhixin.com/articles/2024-08-15-3)|
+||[数十年来首次取得进展，陶哲轩高徒、赵宇飞高徒突破组合数学难题](https://www.jiqizhixin.com/articles/2024-08-15-2)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[为什么报错：Required request parameter 'id' for method parameter type Integer is not present？](https://segmentfault.com/q/1010000045177057)|
+||[vue如何让threejs的组件重新加载渲染?](https://segmentfault.com/q/1010000045176657)|
+||[Vim中如何启用和修复语法高亮功能？](https://segmentfault.com/q/1010000045176652)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[推荐一个论文优化助手](https://w2solo.com/topics/4917)|
+||[一个基于 Llama-3.1-70b 的聊天机器人，速度比 ChatGPT 和 Claude 还要快！！！](https://w2solo.com/topics/4916)|
+||[无需登录、不限次数、免费在线使用 18 个 AI 图片生成器](https://w2solo.com/topics/4915)|
+||[最美临时邮箱 https://tempmail100.com](https://w2solo.com/topics/4914)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[WHO 宣布猴痘疫情为全球卫生紧急事件](https://www.solidot.org/story?sid=78986)|
+||[水熊虫如何演化出超能力](https://www.solidot.org/story?sid=78985)|
+||[日本今天将解除南海海槽地震预警](https://www.solidot.org/story?sid=78984)|
+||[Eric Schmidt 声称远程工作导致了 Google 在 AI 竞争中落后](https://www.solidot.org/story?sid=78983)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[芯片贸易助长中国军事AI实力 美国对华芯片管制效力遭检视](https://m.cnbeta.com.tw/view/1442297.htm)|
 ||[谷歌前CEO埃里克施密特认为谷歌在AI领域的落后主要是居家远程办公导致的](https://m.cnbeta.com.tw/view/1442296.htm)|
 ||[日本大阪府发生大规模停电 受影响居民一度超24万户](https://m.cnbeta.com.tw/view/1442291.htm)|
