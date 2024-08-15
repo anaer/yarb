@@ -2,6 +2,51 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 西方精英以及光明会大力宣传扭曲文化的终极目的究竟是什么](https://www.v2ex.com/t/1065280#reply11)|
+||[ 问与答 求一份关于英语学习的技巧](https://www.v2ex.com/t/1065276#reply13)|
+||[ 生活 结婚不需要户口本，会不会导致女方父母无法收到彩礼，导致养女的投入变成一场空？](https://www.v2ex.com/t/1065275#reply13)|
+||[ Python 请教大佬一个 Saas 服务的模式问题？](https://www.v2ex.com/t/1065272#reply16)|
+||[ 程序员 买电脑，糟心的拼多多维权，求指点？](https://www.v2ex.com/t/1065254#reply44)|
+||[ Apple 不买苹果手机就是原罪？](https://www.v2ex.com/t/1065252#reply49)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[GitHub 出现大规模全站服务故障](https://www.oschina.net/news/307178/github-service-unavailable-20240814)|
+|[少数派](https://sspai.com/feed)|[新玩意 191｜少数派的编辑们最近买了啥？](https://sspai.com/post/91507)|
+||[不当赛博文盲，N 个常见问题解决方案不求人](https://sspai.com/post/91469)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[纹身小妹夏美酱酥胸半露诱惑十足](https://www.mmlsl.com/xgmn/2912.html)|
+||[纹身女郎孟狐狸一身骚红赚足你眼球](https://www.mmlsl.com/xgmn/2910.html)|
+||[文艺妹子张冬褪去华服更诱惑更迷人](https://www.mmlsl.com/xgmn/2911.html)|
+||[温婉少女艾莉丁裤蕾丝让人鼻血直流](https://www.mmlsl.com/xgmn/2909.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[丰田全新2.0T发动机曝光 最大600马力](https://m.cnbeta.com.tw/view/1442333.htm)|
+||[暴力事件频发：丰田在巴西推出防弹改装业务](https://m.cnbeta.com.tw/view/1442332.htm)|
+||[“购房送私人飞机” 房企花式卖房“卷上天”](https://m.cnbeta.com.tw/view/1442331.htm)|
+||[乐道L60首车下线 预售21.99万](https://m.cnbeta.com.tw/view/1442330.htm)|
+||[罗技G309 LIGHTSPEED鼠标上市：黑白双色均549元、双模无线连接](https://m.cnbeta.com.tw/view/1442329.htm)|
+||[2024软科世界大学学术排名发布：清华大学全球第22 亚洲第一](https://m.cnbeta.com.tw/view/1442328.htm)|
+||[蔚来乐道L60内饰发布：超大空间碾压特斯拉](https://m.cnbeta.com.tw/view/1442327.htm)|
+||[富士康印度投资计划又有进展 但要先解决性别歧视？](https://m.cnbeta.com.tw/view/1442322.htm)|
+||[NHTSA结束对特斯拉汽车前悬架故障的初步评估](https://m.cnbeta.com.tw/view/1442320.htm)|
+||[机构：加州拟议的新作物上限意味着美国生物柴油将面临更多痛苦](https://m.cnbeta.com.tw/view/1442319.htm)|
+||[马斯克：巴菲特2770亿美元现金储备太疯狂](https://m.cnbeta.com.tw/view/1442318.htm)|
+||[大众开始测试ID.2电动汽车](https://m.cnbeta.com.tw/view/1442317.htm)|
+||[乐道L60首台量产车下线 与蔚来车型共线生产](https://m.cnbeta.com.tw/view/1442316.htm)|
+||[AMD EPYC处理器份额创新高 收入占比已达33.7％](https://m.cnbeta.com.tw/view/1442315.htm)|
+||[SK海力士准备大幅提高 DRAM 价格 DDR5价格最高上涨20%](https://m.cnbeta.com.tw/view/1442314.htm)|
+||[苹果Apple Intelligence存重大安全缺陷 几行代码即可攻破](https://m.cnbeta.com.tw/view/1442312.htm)|
+||[智己自动泊车撞上柱子 要求车主用自己保险维修](https://m.cnbeta.com.tw/view/1442311.htm)|
+||[电动轮椅电池箱改装藏97台手机 因动力迟缓被查获](https://m.cnbeta.com.tw/view/1442310.htm)|
+||[48亿现金收购Silo AI后 AMD在欧洲市场有望超过NVIDIA](https://m.cnbeta.com.tw/view/1442309.htm)|
+||[大疆Neo无人机参数泄露：轻至135克、22GB大存储](https://m.cnbeta.com.tw/view/1442308.htm)|
+||[Windows 10/11和Linux双系统用户请勿安装最新更新 否则将无法启动](https://m.cnbeta.com.tw/view/1442307.htm)|
+||[中国光伏组件产量连续16年居世界首位](https://m.cnbeta.com.tw/view/1442306.htm)|
+||[奥迪最新命名规则在中国有变：A6L不会改 车名在中国有特殊地位](https://m.cnbeta.com.tw/view/1442305.htm)|
+||[联想季度利润超预期 人工智能需求推动电脑行业逐步复苏](https://m.cnbeta.com.tw/view/1442304.htm)|
+||[消息称软银放弃与英特尔合作生产AI芯片计划 专注与台积电谈判](https://m.cnbeta.com.tw/view/1442303.htm)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[苹果公司开源同态加密库](https://www.infoq.cn/article/zz2NPgzsGTfwVqLhtkpC)|
+||[Netflix 开源下一代数据工作流引擎 Maestro](https://www.infoq.cn/article/cgF49VGUjlm4xWm1loIU)|
+||[“创业一年，人间三年”，李沐亲述 LLM 创业第一年的进展、纠结和反思](https://www.infoq.cn/article/DqB1pxfGKdPYhUihzfLF)|
+||[怎样用生成式 AI 给自己找下一份工作](https://www.infoq.cn/article/6s2iHHmGm4FLbsacuSJ2)|
+||[顶级数据团队的构成剖析](https://www.infoq.cn/article/aL5KmUpGEoFDpb7oVTjH)|
+||[Tauri：将JavaScript与Rust混用于GUI桌面应用程序](https://www.infoq.cn/article/LNq0sLz4bhHd5NUSfaOv)|
+|[爱范儿](https://www.ifanr.com/feed)|[AirPods 和三星新耳机上这些小心思，是耳机交互的「秘密武器」｜硬哲学](https://www.ifanr.com/1595103?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[机器之心](https://www.jiqizhixin.com/rss)|[百万级原子模拟，从头算精度，北京科学智能研究院提出AI+大尺度电子结构模拟新方法](https://www.jiqizhixin.com/articles/2024-08-15-7)|
 ||[「每周只上一天班」谷歌散漫制度遭前CEO怒斥：输给OpenAI，再下去要输创业公司了](https://www.jiqizhixin.com/articles/2024-08-15-6)|
 ||[1篇Outstanding、5篇Oral！字节跳动今年ACL这么猛？ 来直播间聊聊！](https://www.jiqizhixin.com/articles/2024-08-15-5)|
