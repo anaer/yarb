@@ -2,6 +2,60 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[大学生想玩儿《黑神话: 悟空》，买什么配置笔记本能够流畅运行？](https://www.zhihu.com/question/664277713)|
+||[你的快乐是不是也源于钱？](https://www.zhihu.com/question/663965040)|
+||[如何评价追光动画新作《白蛇：浮生》（白蛇 3）？](https://www.zhihu.com/question/663604797)|
+||[孙颖莎、樊振东取关早田希娜，后者称想参观「特攻和平会馆」，如何评价此事？](https://www.zhihu.com/question/664268941)|
+||[领导签字只签名不写意见可以视为同意吗?](https://www.zhihu.com/question/660170567)|
+||[网友曝海底捞零食开始收费，海底捞回应称该门店已整改，你能接受零食收费吗？免费零食对门店经营影响有多大？](https://www.zhihu.com/question/664267518)|
+||[暑假你会给小学孩子选择一本比较厚的书进行阅读吗？](https://www.zhihu.com/question/660702584)|
+||[如何评价永定门的复建？](https://www.zhihu.com/question/663153481)|
+||[如何评价《一人之下》第 682（726）话预告？](https://www.zhihu.com/question/664263866)|
+||[如何评价《绝区零》1.1 版本「卧底蓝调」的剧情？](https://www.zhihu.com/question/664256585)|
+||[如何评价《一人之下》第 682 话（726）情报?](https://www.zhihu.com/question/664262809)|
+||[如何评价绝区零 1.1 新剧情？](https://www.zhihu.com/question/664266565)|
+||[你的家乡都有哪些特产？](https://www.zhihu.com/question/491627702)|
+||[NIP 锁定 S14 冒泡赛资格，Rookie 时隔五年还再次冲进世界赛吗？](https://www.zhihu.com/question/664170844)|
+||[《绝区零》1.1 版本的限定 UP 角色「青衣」的抽取价值如何？](https://www.zhihu.com/question/664266657)|
+||[14 岁少女参加训练营疑遭教官 3 次侵犯，警方立案次日轻生，具体情况如何？对未成年人防侵害有何警示？](https://www.zhihu.com/question/664242981)|
+||[保姆相处久了会成为家人吗？](https://www.zhihu.com/question/388075832)|
+||[「陈梦已开办乒乓球学校」冲上热搜，20 天营包食宿收 9000 元，如何看待奥运冠军与学校联合办学？](https://www.zhihu.com/question/664246867)|
+||[如何看待杜兰特越来越倾向考虑退役？](https://www.zhihu.com/question/664167556)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[改款惹众怒，极氪官方回应「背刺用户」，含补偿方案](https://36kr.com/p/2906559557671811)|
+||[马斯克突然发布类 GPT-4 级别模型，能解「9.8 和 9.11 哪个大」，爆火 AI 生图功能被网友玩疯了](https://36kr.com/p/2905932177463938)|
+||[月销量不足1000的新能源车，都是什么人在买？](https://36kr.com/p/2892726022888325)|
+||[商场按头降价，LV不干了](https://36kr.com/p/2905942696057478)|
+||[刚刚，周鸿祎突然辞任，立即生效](https://36kr.com/p/2905737354664837)|
+||[星巴克留不住CEO](https://36kr.com/p/2905873996012168)|
+||[谁坏了中国汽车的大环境？](https://36kr.com/p/2905949619985283)|
+||[8点1氪｜海底捞回应小零食收费；瑞幸咖啡股价涨了20倍；中秋放假调休共3天，假期高速不免费](https://36kr.com/p/2906648588262276)|
+|[36氪](http://36kr.com/feed)|[智氪｜社保百亿定增，押注下一个长江电力？](https://36kr.com/p/2906857068878464?f=rss)|
+||[北京楼市：下一个撑不住的板块，轮到大瓦窑了](https://36kr.com/p/2906764948757126?f=rss)|
+||[一句话生成丝滑的二次元视频，AI视频生成公司「鹿影科技」完成天使轮融资 36氪首发](https://36kr.com/p/2904689218017920?f=rss)|
+||[智氪 股王业绩超预期，那个熟悉的腾讯又回来了？](https://36kr.com/p/2906502765992582?f=rss)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[李飞飞的 AI 初创公司已在两个月内完成两轮融资](https://www.oschina.net/news/307175)|
+||[腾讯与苹果就 iOS 微信小游戏收入事宜进行谈判](https://www.oschina.net/news/307168)|
+||[TiD2024 openKylin 受邀出席质量竞争力大会，分享开源社区治理实践](https://www.oschina.net/news/307164)|
+|[爱范儿](https://www.ifanr.com/feed)|[刚刚发布的 Pixel 9，将手机拍照卷到了一个新高度](https://www.ifanr.com/1595981?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[反斗限免](http://free.apprcn.com/feed/)|[RLT - 阅读跟踪工具 iOS 内购限免 ](https://free.apprcn.com/rlt/)|
+||[免费获取游戏 Galactic Survival Windows $9.99→0 ](https://free.apprcn.com/get-game-galactic-survival-for-free/)|
+||[Hero of the Kingdom: Tales 2 - 王国英雄：失落传说 2 Windows $6.99→0 ](https://free.apprcn.com/hero-of-the-kingdom-tales-2-4/)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[黑客泄露 27 亿条个人信息资料](https://www.4hou.com/posts/rp86)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[前端水印组件设置旋转角度之后部分文字被隐藏了？](https://segmentfault.com/q/1010000045175495)|
+||[Vue 3 + Element Plus 中 el-table 展开所有行时如何避免卡顿并添加 Loading？](https://segmentfault.com/q/1010000045175278)|
+||[关于微信二维码防止重复支付？](https://segmentfault.com/q/1010000045175025)|
+||[Redis 如何有效防止缓存穿透、击穿和雪崩问题？](https://segmentfault.com/q/1010000045174593)|
+||[设置UrlSchemes，云打包下载app后没有实现被第三方应用调用？](https://segmentfault.com/q/1010000045174540)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[才12万并发用户在线就直接崩溃？马斯克直播成“大型翻车现场”，专家：“网络攻击”说法站不住脚](https://www.infoq.cn/article/j0XKshkspXkb8f2W3d0q)|
+||[AICon 上海日程确认，蔚来汽车李斌、面壁智能李大海等同台分享，为你呈现 50+ 大模型前沿实践](https://www.infoq.cn/article/6BdsV5ZJyyZXbAP986Kd)|
+||[Java近期新闻：Hazelcast 5.5、Loom、Valhalla、Hibernate ORM和Hibernate Validation](https://www.infoq.cn/article/DyPoub7555x5ah0Nyl6W)|
+||[百度冯景辉：从数据清洗到安全围栏，深度解析大模型原生安全构建](https://www.infoq.cn/article/fNpLP79iS3iPdQ4wKzKs)|
+|[蓝点网](https://www.landiannews.com/feed)|[macOS的iPhone屏幕镜像现已支持抖动模式 即可在Mac上编辑iPhone的主屏幕](https://www.landiannews.com/archives/105410.html)|
+||[由于Windows TCP/IP漏洞危害过于巨大 研究人员短时间内不会公开细节](https://www.landiannews.com/archives/105430.html)|
+||[谷歌前CEO埃里克施密特认为谷歌在AI领域的落后主要是居家远程办公导致的](https://www.landiannews.com/archives/105431.html)|
+||[苹果最终开放iPhone NFC功能 后续可以变成门卡/门票/工牌/车票等](https://www.landiannews.com/archives/105435.html)|
+||[微软发布适用于Windows 10/11的设备加密和BitLocker密钥备份与恢复指南](https://www.landiannews.com/archives/105413.html)|
+||[微软确认Windows 11 24H2版将默认启用BitLocker设备加密功能提高安全性](https://www.landiannews.com/archives/105412.html)|
 |[反斗限免](https://free.apprcn.com/feed/)|[免费获取字体包 Playful Fun Display Font Bundle Windows、macOS $473→0 ](https://free.apprcn.com/get-playful-fun-display-font-bundle-for-free/)|
 |[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[霸王茶姬招人啦](https://www.freebuf.com/news/408678.html)|
 |[卡瓦邦噶！](https://www.kawabangga.com/feed)|[TCP 长肥管道性能分析](https://www.kawabangga.com/posts/6616)|
