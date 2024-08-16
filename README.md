@@ -2,6 +2,46 @@
 
 |来源|标题|
 |---|---|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[开发了个极简边框 App-框影（appstore 已上架）](https://w2solo.com/topics/4922)|
+||[【随易访谈】LeaferJS 图形框架，绝境中盛开 - 万超](https://w2solo.com/topics/4921)|
+||[🚀vscode 片段提示也被我们玩出花了，和兄弟一起开发的第一个工具。](https://w2solo.com/topics/4920)|
+|[蓝点网](https://www.landiannews.com/feed)|[iOS替代商店AltStore PAL获得EPIC的资助 即日起取消1.5欧元的年度订阅费](https://www.landiannews.com/archives/105454.html)|
+||[根据欧盟规定苹果要求开发者提供真实地址和电话号码 后续将在商店里公布](https://www.landiannews.com/archives/105449.html)|
+|[36氪](http://36kr.com/feed)|[宝洁中国CEO许敏：快准全，是我们对消费者洞察的追求｜最前线](https://36kr.com/p/2906855180540801?f=rss)|
+||[北京“头马”，中海也不灵了](https://36kr.com/p/2908308244601732?f=rss)|
+||[阿里电商份额趋稳、云贡献增量，市场不再悲观｜智氪](https://36kr.com/p/2908244457085573?f=rss)|
+||[「51WORLD」拟通过18C赴港上市，专注数字孪生技术克隆地球｜36氪独家](https://36kr.com/p/2907377220590473?f=rss)|
+||[36氪首发｜年销80万台智能鱼缸，「画法几何」获数千万元Pre-A轮融资](https://36kr.com/p/2907257036069762?f=rss)|
+||[高秉强、李泽湘、甘洁联手投资「玖治科技RingConn」获数千万元天使+轮融资 硬氪首发](https://36kr.com/p/2907341002463873?f=rss)|
+||[当SAF火热，一线投资人怎么看？怎么投？](https://36kr.com/p/2907269249309315?f=rss)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[Gafgyt僵尸网络针对云原生环境，SSH弱密码成GPU挖矿新目标](https://www.freebuf.com/news/408781.html)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[催产药能重启大脑的垃圾处理系统](https://www.jdon.com/75030.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[天融信公布半年报：上半年净利润同比增长近3%](https://www.4hou.com/posts/BvNJ)|
+||[ITRC 调查显示：数据泄露受害者数量显著增加](https://www.4hou.com/posts/33lM)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/91399)|
+|[IT之家](https://www.ithome.com/rss/)|[收到中国知网 28 页侵权告知函，秘塔 AI 宣布不再收录知网文献题录、摘要数据](https://www.ithome.com/0/788/931.htm)|
+||[美团无人机配送服务进京，首条航线在八达岭长城开通](https://www.ithome.com/0/788/930.htm)|
+||[渝昆高铁重庆西至宜宾东段进入运行试验阶段，设计时速 350 公里](https://www.ithome.com/0/788/929.htm)|
+||[别克卖给上汽、雪佛兰退出中国？上汽通用新任总经理卢晓否认](https://www.ithome.com/0/788/927.htm)|
+||[IDC：2024 年 Q2 中国平板电脑市场出货量同比增长 7%，华为咬下苹果份额排名第一](https://www.ithome.com/0/788/926.htm)|
+||[半导体设备巨头应用材料 2024 财年第三财季营收 67.8 亿美元创纪录，同比增 5%](https://www.ithome.com/0/788/925.htm)|
+||[特斯拉韩国公布汽车电池供应商：Model 3 / Y 采用宁德时代、松下、LG 新能源电芯](https://www.ithome.com/0/788/924.htm)|
+||[魏建军时隔 6 年将重返长城汽车发布会，8 月 21 日发布魏牌全新蓝山](https://www.ithome.com/0/788/923.htm)|
+||[微软承认 Office 应用存在打字时意外崩溃问题](https://www.ithome.com/0/788/922.htm)|
+||[微信蚂蚁押注 AI 应用商店，巨头争抢 AI 时代“苹果税”抽成](https://www.ithome.com/0/788/921.htm)|
+||[Meta 发布 Quest HDMI Link 应用，1080P 零延迟有线投屏到 Quest 头显上](https://www.ithome.com/0/788/920.htm)|
+||[realme 真我 13 Pro 系列手机莫奈主题配色公布：《睡莲》紫、《干草垛》金](https://www.ithome.com/0/788/918.htm)|
+||[学生篡改同学高考志愿被刑拘，构成“破坏计算机系统罪”](https://www.ithome.com/0/788/917.htm)|
+||[微软演示 Win11 PowerToys Workspaces 工具：让开发者一键部署 / 启用应用布局](https://www.ithome.com/0/788/916.htm)|
+||[98 英寸华为智慧屏 V5 上市：灵犀指向遥控、SuperMiniLED、鸿鹄 900，到手价 24999 元](https://www.ithome.com/0/788/915.htm)|
+||[要知 App 0.50 大更新：竖排、IT之家账号登录、字号、菜单、无障碍……](https://www.ithome.com/0/788/914.htm)|
+||[西部数据首款 Gen5 固态硬盘 Ultrastar DC SN861 主控确认：韩国 FADU FC5161](https://www.ithome.com/0/788/910.htm)|
+||[动视改进《使命召唤》系列游戏：拆分《战争地带》、减少文件下载量](https://www.ithome.com/0/788/905.htm)|
+||[铭匠 250mm F5.6 全画幅折返镜头发布，首发价 1820 元](https://www.ithome.com/0/788/903.htm)|
+||[苹果 2024 财年印度业务突破 235 亿美元，成印度过去 50 年来增速最快公司](https://www.ithome.com/0/788/901.htm)|
+||[报告称中国 OLED 面板面积份额今年首次超越韩国，但销售额仍不足](https://www.ithome.com/0/788/900.htm)|
+||[零跑汽车：B 平台首款全球化车型 B10 今年 10 月巴黎车展亮相，搭载最新技术架构 LEAP 3.5](https://www.ithome.com/0/788/898.htm)|
+||[比亚迪李云飞否认收购克莱斯勒：不实信息](https://www.ithome.com/0/788/897.htm)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 身边的同事是一群牛马怎么办，该怎么调节自己的心态](https://www.v2ex.com/t/1065426#reply11)|
 ||[ 投资 百万资金，旗开得胜](https://www.v2ex.com/t/1065407#reply11)|
 ||[ 日本 35 岁码农，还有机会去日本求职吗？](https://www.v2ex.com/t/1065403#reply21)|
