@@ -2,6 +2,65 @@
 
 |来源|标题|
 |---|---|
+|[IT之家](https://www.ithome.com/rss/)|[游戏《英雄传说：黎之轨迹 2》登陆 Switch 平台：支持中文，售 292 港币](https://www.ithome.com/0/789/014.htm)|
+||[极越 07 量产下线：配电动车门、升降尾翼，预计下半年上市](https://www.ithome.com/0/789/013.htm)|
+||[华为 Watch D2 腕部动态血压记录仪获得国家医疗器械注册许可](https://www.ithome.com/0/789/009.htm)|
+||[冷头 + 轴心双无限镜灯效，快睿推出 Rheo 系列一体式水冷散热器](https://www.ithome.com/0/789/008.htm)|
+||[兰博基尼 Temerario 跑车官图曝光：六边形日间行车灯、4.0 升双涡轮增压 V8 混动发动机](https://www.ithome.com/0/789/007.htm)|
+||[VGN 联名游戏《艾尔登法环》菈妮 / 褪色者定制键鼠开售：键盘 549 元、鼠标 349 元](https://www.ithome.com/0/789/006.htm)|
+||[英特尔联手豪华车企 Karma 开发 SDV 架构，将用于 Kaveya 电动超级轿跑等车型](https://www.ithome.com/0/789/005.htm)|
+||[大众汽车被曝将中国纯电车研发集中到安徽，打造“东方狼堡”](https://www.ithome.com/0/789/003.htm)|
+||[比亚迪首辆仰望 U9 超跑下线：易四方电机、零百加速 2.36 秒，168 万元起](https://www.ithome.com/0/789/002.htm)|
+||[索尼 PS5 游戏机轻薄版国行限时降价 200 元：光驱标准版 3399 元、数字版 2799 元](https://www.ithome.com/0/789/001.htm)|
+||[消息称某厂新机 50Mp 三摄规格缩水、潜望镜存疑，预计为 iQOO 13](https://www.ithome.com/0/789/000.htm)|
+||[中国引领：7 月全球新能源汽车销量 135 万辆同比增长 21%](https://www.ithome.com/0/788/999.htm)|
+||[中国 CPU 芯片先驱沈绪榜院士逝世，享年 92 岁](https://www.ithome.com/0/788/997.htm)|
+||[剑指英伟达，消息称 ARM 雇佣百人团队开发新 GPU](https://www.ithome.com/0/788/995.htm)|
+||[599 元，索尼 PS5《宇宙机器人》主题 DualSense 手柄国行预售](https://www.ithome.com/0/788/994.htm)|
+||[太空惊悚电影《异形：夺命舰》今日上映，“抱脸虫”再度来袭](https://www.ithome.com/0/788/993.htm)|
+||[菜鸟与“全球最大保健产品电商平台”iHerb 达成合作，扩大香港地区配送业务](https://www.ithome.com/0/788/981.htm)|
+||[“1.5K / 2K 等深微曲直屏”新机外观渲染图曝光，有望为 OPPO Find X8 系列手机](https://www.ithome.com/0/788/980.htm)|
+||[赠 700 元 App Store 充值卡：京东 iPad Pro 开学季教育优惠开启](https://www.ithome.com/0/788/979.htm)|
+||[上海强化 5G-A 的低空智联网覆盖：到 2026 年初步建成低空飞行航线全域连续覆盖的通信网络](https://www.ithome.com/0/788/978.htm)|
+||[梅赛德斯-奔驰召回进口 E 级、AMG GT 汽车 1716 辆，变速箱线束存在起火风险](https://www.ithome.com/0/788/968.htm)|
+||[捷尼赛思在国内召回 1583 辆进口 G80 和 GV80 汽车，燃油泵叶轮存在制造问题](https://www.ithome.com/0/788/966.htm)|
+||[浙江台州警方破获特大“网络刷单兼职”诈骗案，团伙两年开发 200 款 App 骗了 8 万人](https://www.ithome.com/0/788/976.htm)|
+||[北京汽车 BJ60 雷霆魔核电驱版 8 月 20 日上市，搭载 1.5T 增程混动系统](https://www.ithome.com/0/788/975.htm)|
+||[宝马在国内召回超百万台汽车，用户自行改装方向盘可能存在安全气囊隐患](https://www.ithome.com/0/788/967.htm)|
+||[华为面向鸿蒙 HarmonyOS NEXT Beta 升级用户不定期赠送“影视会员”和“超级音乐 VIP”](https://www.ithome.com/0/788/974.htm)|
+||[Canalys：2024 年 Q2 中东智能手机出货量 1150 万部、同比增长 20%，三星、小米、传音前三](https://www.ithome.com/0/788/973.htm)|
+||[红魔 9S Pro 系列手机白昼武士配色开售：骁龙 8 Gen3 领先版、纯平后盖，4799 元起](https://www.ithome.com/0/788/971.htm)|
+||[制动液存在泄漏风险，一汽-大众召回 283 辆进口奥迪 E-TRON GT 系列汽车](https://www.ithome.com/0/788/964.htm)|
+||[会出现明显燃油气味，梅赛德斯-奔驰召回共 1423 辆 E 级、S 级、AMG GT](https://www.ithome.com/0/788/961.htm)|
+||[因考古发现而暂停后，台积电 CoWoS 封装厂获准继续施工建设](https://www.ithome.com/0/788/965.htm)|
+||[国家邮政局：7 月我国快递业务量完成 142.6 亿件，同比增长 22.2%](https://www.ithome.com/0/788/962.htm)|
+||[《绝地求生》开发商 KRAFTON 模拟游戏《inZOI》8 月 21 日开放“捏脸编辑器”限时免费试玩](https://www.ithome.com/0/788/960.htm)|
+||[双槽厚度塞下 16 块 M.2 2280 SSD，HighPoint 推出 SSD7749M2 RAID 附加卡](https://www.ithome.com/0/788/959.htm)|
+||[零跑 C11 累计销量超 16 万辆，现款 14.88 万元起售 / 配备高通骁龙 8295 芯片](https://www.ithome.com/0/788/958.htm)|
+||[消息称一加 Ace 与 realme 真我 Neo 系列手机都将切换为直屏](https://www.ithome.com/0/788/957.htm)|
+||[小米 Redmi Note 14 Pro 手机背面渲染图曝光，居中相机单元设计](https://www.ithome.com/0/788/955.htm)|
+|[少数派](https://sspai.com/feed)|[让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案](https://sspai.com/post/91248)|
+||[关于猴痘病毒，你现在需要了解这些](https://sspai.com/post/74231)|
+|[TecHug](http://www.techug.com/feed)|[从电梯故障到编程新宠，Rust为何连续七年称霸「最受推崇语言」](https://www.techug.com/post/why-rust-has-dominated-the-most-admired-language-for-seven-consecutive-years-from-elevator-b617cb/)|
+|[36氪](http://36kr.com/feed)|[焦点分析｜视频号拉动腾讯Q2毛利，游戏终于回归增长](https://36kr.com/p/2908215784954755?f=rss)|
+||[《中国独角兽企业成长路径白皮书》发布](https://36kr.com/p/2908347597003650?f=rss)|
+||[坚持长期投入，京东后劲显现｜智氪](https://36kr.com/p/2908480633608837?f=rss)|
+||[CEO锦囊丨SpaceX炒红的商业航天，赚钱吗？](https://36kr.com/p/2907202264177541?f=rss)|
+||[阿里巴巴的618财季：淘天克制挣钱，子集团抓紧省钱](https://36kr.com/p/2908207689358216?f=rss)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[绕开华米OV，腾讯绕不过“苹果税”](https://36kr.com/p/2907306409303172)|
+||[最不想上班的人，都跑去“新西南”了](https://36kr.com/p/2907297187846786)|
+||[苹果秘密机器人曝光，7000元一台](https://36kr.com/p/2907360875076231)|
+||[36氪独家 抖音外卖业务离开电商板块，再次重归本地生活](https://36kr.com/p/2905626469538691)|
+||[Kimi投放B站后，其他AI公司都投不起了 焦点分析](https://36kr.com/p/2905833398311816)|
+||[Nature曝惊人内幕：论文被天价卖出喂AI，出版商狂赚上亿，作者0收入](https://36kr.com/p/2907176269765257)|
+||[8点1氪｜结婚登记不再需要户口簿；苹果手机NFC芯片将开放；小米SU7对撞测试博主道歉](https://36kr.com/p/2908050773285762)|
+|[蓝点网](https://www.landiannews.com/feed)|[传统运营商挑战创新技术：AT&T和Verizon要求FCC阻止星链蜂窝网络卫星直连](https://www.landiannews.com/archives/105463.html)|
+||[知名二维码生成器草料二维码被跳转反诈 目前已解封正在逐步恢复](https://www.landiannews.com/archives/105462.html)|
+||[ 教程 近期Office各版本可能会异常崩溃 微软已发布修复方法](https://www.landiannews.com/archives/105451.html)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[滴滴开源 Flutter 混合开发框架 Unify](https://www.oschina.net/news/307354/didi-unify-flutter)|
+||[Claude 推出](https://www.oschina.net/news/307342/anthropic-introduces-prompt-caching)|
+||[全球首发！openKylin RISC-V 64G 镜像上线，支持中科通量 AI PC](https://www.oschina.net/news/307326)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[电影类型拓荒者乌尔善 一直在勇于试错的路上](http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[“好大夫”已现身支付宝 对近期收购报道不予置评](https://m.cnbeta.com.tw/view/1442437.htm)|
 ||[现代汽车拆解特斯拉Cybertruck 意在北美电动皮卡市场](https://m.cnbeta.com.tw/view/1442436.htm)|
 ||[贾跃亭自驾FF 91晒照：其它车辆只能看到它的尾灯](https://m.cnbeta.com.tw/view/1442434.htm)|
