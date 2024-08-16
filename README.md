@@ -2,6 +2,76 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[《iOS 17 捷徑》iPhone 機型浮水印（適用 iPhone 15）](https://applefans.today/ios-17-shortcuts-iphone-models-watermark-support-to-iphone-15/)|
+||[Apple Watch 哪一款好？市調結果 Apple Watch Series 9 最受歡迎](https://applefans.today/2024-08-apple-watch-models-trend/)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[新加坡考虑禁止深度伪造](https://www.solidot.org/story?sid=78996)|
+||[科学家测序动物界最大基因组](https://www.solidot.org/story?sid=78995)|
+||[大林组的太空电梯计划不太可能在 2025 年动工](https://www.solidot.org/story?sid=78994)|
+||[逾 44 亿中低收入国家居民难以获取安全饮用水](https://www.solidot.org/story?sid=78993)|
+||[NIST 正式发布三种后量子加密标准](https://www.solidot.org/story?sid=78992)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[伊朗的“Charming Kitten”黑客组织针对美国大选和以色列军事目标展开行动](https://www.anquanke.com/post/id/299225)|
+||[SolarWinds 针对 Web Help Desk 软件中的重大漏洞发布补丁程序](https://www.anquanke.com/post/id/299190)|
+||[微软 Entra ID 身份环境中的凭证验证流程存在漏洞](https://www.anquanke.com/post/id/299193)|
+||[DARPA，ARPA-H向7名AIxCC半决赛选手奖励1400万美元](https://www.anquanke.com/post/id/299196)|
+||[RansomHub 集团在最新网络攻击中部署了新的 EDR 杀毒工具](https://www.anquanke.com/post/id/299202)|
+||[Black Basta 勒索软件团伙与 SystemBC 恶意软件活动有关](https://www.anquanke.com/post/id/299205)|
+||[GitHub漏洞'ArtiPACKED'使仓库面临潜在的控制权接管风险](https://www.anquanke.com/post/id/299208)|
+||[新的Gafgyt僵尸网络变种针对弱SSH密码进行GPU加密货币挖矿](https://www.anquanke.com/post/id/299211)|
+||[网络犯罪分子利用假冒的巴黎奥运会域名进行犯罪活动](https://www.anquanke.com/post/id/299214)|
+||[Gartner最新报告！360“明星产品”搭载安全大模型战力领跑市场](https://www.anquanke.com/post/id/299217)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E7%96%AB%E6%83%85&type=link&limit=20&sort=new)|[精神透视魔怔猴批](https://www.reddit.com/r/real_China_irl/comments/1etcpl4/精神透视魔怔猴批/)|
+|[IT之家](https://www.ithome.com/rss/)|[全球首例，介入式脑机接口传感器血管内取出试验在北京成功完成](https://www.ithome.com/0/789/050.htm)|
+||[小红书宣布调整职级体系：去除“论资排辈”，简化管理层级](https://www.ithome.com/0/789/049.htm)|
+||[商务部等 7 部门提高汽车报废更新补贴标准：最高可补 2 万元](https://www.ithome.com/0/789/048.htm)|
+||[上海发文支持低空经济发展，加快发展商业载人城市空中交通](https://www.ithome.com/0/789/047.htm)|
+||[领克 Z10“先享预订”24 小时订单破万：21.58 万元起，9 月 5 日上市](https://www.ithome.com/0/789/045.htm)|
+||[4K+240Hz，微星推出 MPG 321CURX QD-OLED 曲面电竞显示器](https://www.ithome.com/0/789/044.htm)|
+||[小米澎湃 OS 招募桌面内测：优化基础布局结构、提升桌面美观度等](https://www.ithome.com/0/789/042.htm)|
+||[王自如被曝已离职，格力电器暂无回应](https://www.ithome.com/0/789/041.htm)|
+||[消息称 Xbox 游戏《微软飞行模拟》将移植到索尼 PlayStation 游戏平台](https://www.ithome.com/0/789/040.htm)|
+||[消息称华为智慧屏 V5 Max 110 英寸 9 月发布，“同尺寸最窄边框、最窄贴墙”](https://www.ithome.com/0/789/038.htm)|
+||[江苏连云港东海县再发“报废汽车黑产链”相关通告：严厉打击循环经济产业违法犯罪](https://www.ithome.com/0/789/037.htm)|
+||[酷凛 ID-COOLING 旗下水冷产品将支持个人送保](https://www.ithome.com/0/789/036.htm)|
+||[微软 Win11 Build 27686 新增 HDR 视频流测试功能](https://www.ithome.com/0/789/035.htm)|
+||[特斯拉墨西哥 Model 3 后轮驱动款入门车型内饰减配：取消座椅加热 / 通风、移除后排小屏幕，售 74.9 万比索](https://www.ithome.com/0/789/034.htm)|
+||[我国首部太空拍摄实景电影《窗外是蓝星》立项，航天员翟志刚等创作](https://www.ithome.com/0/789/033.htm)|
+||[2024 电竞世界杯《星际争霸 2》次日：Oliveira 继续争战小组赛，Coffee 落入淘汰赛](https://www.ithome.com/0/789/030.htm)|
+||[微软 Edge 浏览器更新至 127.0.2651.105 版本 ，修复上传文档时崩溃的问题](https://www.ithome.com/0/789/028.htm)|
+||[商务部：进一步放宽外国投资者战略投资上市公司的限制，鼓励外商聚焦数智技术等领域](https://www.ithome.com/0/789/027.htm)|
+||[百度地图“高阶守护版”上线：首发行人易穿行提醒等功能](https://www.ithome.com/0/789/026.htm)|
+||[Antec 海外推出 Core HS 滑盖游戏掌机：锐龙 7 7840U、6 英寸 1080P 屏，499 美元](https://www.ithome.com/0/789/025.htm)|
+||[微星介绍 CAMM2 DDR5 内存对台式电脑的优势：速度更快、延迟更低、设计更新颖](https://www.ithome.com/0/789/018.htm)|
+||[收到中国知网 28 页侵权告知函，秘塔称多家数据库主动合作、后续服务不受影响](https://www.ithome.com/0/789/017.htm)|
+||[Win10 / Win11 学院：如何延长 Chrome / Edge 浏览器对 uBlock Origin 广告拦截器的支持](https://www.ithome.com/0/789/016.htm)|
+||[我国遥感四十三号 01 组卫星发射成功，开展低轨星座系统新技术试验](https://www.ithome.com/0/789/015.htm)|
+|[FLiNG Trainer](https://flingtrainer.com/feed/)|[Jianghu Chronicles Trainer](https://flingtrainer.com/trainer/jianghu-chronicles-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=jianghu-chronicles-trainer)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[🔁 FakerSSL DV系列证书夏季促销 无需优惠码直接下单即可，不可与其他优惠同时使用 Certum 域名验证型（DV）证书： * 通配符SSL证书（1年期，1域名） CNY 188/...](https://t.me/liyuans/47000)|
+||[#收集控#最新中国免费公共DNS汇总，响应时间测试 via 如有乐享 author: 我是小马甲~ ](https://t.me/liyuans/46999)|
+|[蓝点网](https://www.landiannews.com/feed)|[🤨测试显示Windows 10/11 Administrator账户可提高AMD RYZEN 7000/9000性能](https://www.landiannews.com/archives/105466.html)|
+||[Debian 11结束常规生命周期 接下来将进入2年的扩展安全支持 由LTS团队接手](https://www.landiannews.com/archives/105464.html)|
+|[煎蛋](http://jandan.net/feed)|[发霉啦：今天，同事让我帮某人代课](http://jandan.net/p/117468)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[天融信2024年中报：云计算业务同比增长35.80%，抢占后 VMware 时代制高点](https://www.4hou.com/posts/KG1n)|
+||[天融信：信创赛道彰显行业领军地位，2024年上半年信创收入同比增长22.99%](https://www.4hou.com/posts/J1yo)|
+||[天融信2024半年报：云安全同比增长51.52%，携手华为云开展公有云深度合作](https://www.4hou.com/posts/GAv0)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[小鹏MONA M03全车官图公布：同级颜值最顶 起售不超13.59万元](https://m.cnbeta.com.tw/view/1442461.htm)|
+||[首台比亚迪仰望U9下线 即将开启交付](https://m.cnbeta.com.tw/view/1442460.htm)|
+||[巨型充电宝 中国变速抽水蓄能机组自主研制取得重大突破](https://m.cnbeta.com.tw/view/1442458.htm)|
+||[极星上海体验中心开业 国内首家售前、售后一体门店](https://m.cnbeta.com.tw/view/1442456.htm)|
+||[全新大众帕萨特PRO将于成都车展首发 新款老款有望同台销售](https://m.cnbeta.com.tw/view/1442455.htm)|
+||[一加13正面渲染图出炉 淘汰双曲面屏](https://m.cnbeta.com.tw/view/1442454.htm)|
+||[三星将于2024年Q4或2025年Q1先于台积电安装High-NA EUV光刻机](https://m.cnbeta.com.tw/view/1442452.htm)|
+||[特斯拉Cybertruck成为7月美国10万美元以上最特斯拉畅销车型](https://m.cnbeta.com.tw/view/1442451.htm)|
+||[英国芯片设计巨头Arm正在以色列开发一款新的GPU](https://m.cnbeta.com.tw/view/1442450.htm)|
+||[出国旅游发条朋友圈流量费一万六 八个月另算滞纳金近九千元](https://m.cnbeta.com.tw/view/1442449.htm)|
+||[台湾花莲县海域发生6.1级地震 各大半导体工厂回应](https://m.cnbeta.com.tw/view/1442447.htm)|
+||[知网状告AI搜索：搜到我家论文题目和摘要 你侵权了](https://m.cnbeta.com.tw/view/1442446.htm)|
+||[为啥芯片越来越贵，性能提升却越来越小？](https://m.cnbeta.com.tw/view/1442445.htm)|
+||[小米Wi-Fi 7路由器BE6500开售 全2.5G网口 首发479元](https://m.cnbeta.com.tw/view/1442444.htm)|
+||[华为Q2登顶中国平板电脑市场 苹果紧随其后](https://m.cnbeta.com.tw/view/1442443.htm)|
+||[金主放弃，到手订单被截胡，明星创企成了扶不起的阿斗](https://m.cnbeta.com.tw/view/1442442.htm)|
+||[美国人工智能监管法案SB 1047遭Meta、谷歌反对 将重新修订](https://m.cnbeta.com.tw/view/1442440.htm)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[我有个朋友当老板的，今天聊了一下我才知道真的多恶心了。 要查消防，他自己把消防弄好，让人来查。那边人说，给他一个电话，去找那个机构盖章。他们认那个机构...](https://m.okjike.com/originalPosts/66beebc7a0d6d2ffc4843606)|
+||[去过非常多消费品牌创始人的办公室，今天拜访的这家是品味最好的一类了](https://m.okjike.com/originalPosts/66bec178ff02ae0b651aa325)|
 |[IT之家](https://www.ithome.com/rss/)|[游戏《英雄传说：黎之轨迹 2》登陆 Switch 平台：支持中文，售 292 港币](https://www.ithome.com/0/789/014.htm)|
 ||[极越 07 量产下线：配电动车门、升降尾翼，预计下半年上市](https://www.ithome.com/0/789/013.htm)|
 ||[华为 Watch D2 腕部动态血压记录仪获得国家医疗器械注册许可](https://www.ithome.com/0/789/009.htm)|
