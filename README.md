@@ -2,6 +2,25 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ NAS 想买一个成品 NAS,畅网和天钡怎么选](https://www.v2ex.com/t/1065748#reply12)|
+||[ 职场话题 搞嵌入式的未来在哪？](https://www.v2ex.com/t/1065742#reply12)|
+||[ DNS 请问自建 dns 的朋友都是用什么设备在跑的？](https://www.v2ex.com/t/1065731#reply24)|
+||[ 职场话题 刚毕业就入职老家事业单位但是非编制](https://www.v2ex.com/t/1065730#reply47)|
+||[ Ubuntu Ubuntu 电池问题](https://www.v2ex.com/t/1065729#reply13)|
+||[ 宽带症候群 上海电信这是开始限流阻断 https 等加密类上传的流量了吗？](https://www.v2ex.com/t/1065724#reply13)|
+||[ 游戏 如果黑神话悟空的 60 块的 Upgrade 能提前三天解锁游戏](https://www.v2ex.com/t/1065718#reply38)|
+||[ YouTube 油管能像 B 站一样搞一个后台播放吗](https://www.v2ex.com/t/1065717#reply38)|
+||[ 问与答 饿了么直接送了一个月超级吃货卡四张无门槛优惠券什么操作？](https://www.v2ex.com/t/1065715#reply11)|
+||[ Apple 新的 iPhone Se 曝光了， 4199 ， A18 +全面屏+8g 运存](https://www.v2ex.com/t/1065711#reply17)|
+||[ Apple 如何看待 m4iPad Pro 内存颗粒为 12G，实际可用之有 8G](https://www.v2ex.com/t/1065707#reply26)|
+||[ 问与答 关于"鬼压床"的一些问题，请求有类似情况朋友的解答](https://www.v2ex.com/t/1065702#reply51)|
+||[ 程序员 面试失败! 居然考前端系统架构设计, 好难啊!](https://www.v2ex.com/t/1065701#reply18)|
+||[ 杭州 杭州薪资水平和北京有差距吗？有没有从北京到杭州工作的，请介绍一下](https://www.v2ex.com/t/1065692#reply12)|
+||[ iPhone 苹果已经不是以前那个苹果了](https://www.v2ex.com/t/1065688#reply23)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[# 北漂日志第 1 话：惨淡销量、后续发展](https://w2solo.com/topics/4926)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[投资20年的进化历程与心得](http://xueqiu.com/1095402045/301368372)|
+||[通威股份：光伏硅料之王，高处不胜寒](http://xueqiu.com/1162446352/301218176)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[开源下载工具 Aria 被诈骗份子使用，开发者无奈清空代码仓库](https://www.oschina.net/news/307530)|
 |[马小帮](https://www.maxiaobang.com/feed)|[电脑画面总是经常卡死，键盘鼠标都无法操作，只能强制重启！解决方案](https://www.maxiaobang.com/17608.html)|
 |[Usubeni Fantasy](https://ssshooter.com/rss.xml)|[最初的召唤](https://ssshooter.com/digimon-2/)|
 |[IT之家](https://www.ithome.com/rss/)|[沈阳举办全国首个城市开放道路领航驾驶比赛，理想、小鹏、问界等 10 款车型参与](https://www.ithome.com/0/789/190.htm)|
