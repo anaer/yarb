@@ -2,6 +2,16 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[NVIDIA和 OpenAI 因使用在线视频而面临 YouTube 创作者诉讼](https://m.cnbeta.com.tw/view/1442553.htm)|
+||[顶级奢享 劳斯莱斯幻影私人典藏版发布](https://m.cnbeta.com.tw/view/1442552.htm)|
+||[深受董明珠赞赏的王自如被曝离职 格力员工回应：要签字的文件已换人](https://m.cnbeta.com.tw/view/1442549.htm)|
+||[Epic Games高管表示四年官司耗费数亿美元昂贵成本](https://m.cnbeta.com.tw/view/1442547.htm)|
+||[特斯拉Cybertruck车主的“意外惊喜”：10万美元的新车居然这么脏](https://m.cnbeta.com.tw/view/1442542.htm)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[Rust 团队公布 2024 年发展目标](https://www.oschina.net/news/307523/rust-project-goals-2024h2)|
+|[海交史](https://www.haijiaoshi.com/feed)|[访学申请 澳国立全球中国研究中心6-12周访问学者资助9千澳元 10月15日截止](https://www.haijiaoshi.com/archives/12098?utm_source=rss&utm_medium=rss&utm_campaign=%25e8%25ae%25bf%25e5%25ad%25a6%25e7%2594%25b3%25e8%25af%25b7%25e6%25be%25b3%25e5%259b%25bd%25e7%25ab%258b%25e5%2585%25a8%25e7%2590%2583%25e4%25b8%25ad%25e5%259b%25bd%25e7%25a0%2594%25e7%25a9%25b6%25e4%25b8%25ad%25e5%25bf%25836-12%25e5%2591%25a8%25e8%25ae%25bf%25e9%2597%25ae%25e5%25ad%25a6%25e8%2580%2585%25e8%25b5%2584)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[app 推广好难啊](https://w2solo.com/topics/4925)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[江苏银行2024年中报简评：营收、规模、业绩增速符合预期，资产质量略有下降，投资性价比仍突出](http://xueqiu.com/2466842102/301361225)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[Fusion – 比 miniflux 小，轻量级开源 RSS 聚合阅读器 Web ](https://www.appinn.com/fusion-rss-reader/)|
 |[TecHug](https://www.techug.com/feed)|[【外评】作为全栈开发人员如何跟上 AI/ML 的发展？](https://www.techug.com/post/how-to-keep-up-with-ai-ml-as-a-full-stack-dev/)|
 |[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何知道一个GitHub项目的创建时间呢？](https://segmentfault.com/q/1010000045182535)|
 ||[js数组数据排序?](https://segmentfault.com/q/1010000045182503)|
