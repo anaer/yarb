@@ -2,6 +2,51 @@
 
 |来源|标题|
 |---|---|
+|[马小帮](https://www.maxiaobang.com/feed)|[电脑画面总是经常卡死，键盘鼠标都无法操作，只能强制重启！解决方案](https://www.maxiaobang.com/17608.html)|
+|[Usubeni Fantasy](https://ssshooter.com/rss.xml)|[最初的召唤](https://ssshooter.com/digimon-2/)|
+|[IT之家](https://www.ithome.com/rss/)|[沈阳举办全国首个城市开放道路领航驾驶比赛，理想、小鹏、问界等 10 款车型参与](https://www.ithome.com/0/789/190.htm)|
+||[OPPO A80 5G 手机海外发布：天玑 6300 + 8G + 256G 售 299 欧元](https://www.ithome.com/0/789/189.htm)|
+||[某快递公司寄丢大学毕业证只愿赔不超过三倍邮费，法院判赔 9000 元](https://www.ithome.com/0/789/188.htm)|
+||[巴黎奥运期间出现大量域名相关网络犯罪：骗子盯上买不到票的球迷](https://www.ithome.com/0/789/187.htm)|
+||[优派“VA2479-2K-HD”23.8 英寸显示器开售：2K 75Hz，588 元](https://www.ithome.com/0/789/186.htm)|
+||[Epic 回应手游《堡垒之夜》重返 iOS：为了与苹果 / 谷歌对抗已损失超 10 亿美元，但这一切值得](https://www.ithome.com/0/789/184.htm)|
+||[男子打 1400 公里顺风车逃单后续：车主收到 2200 元转账](https://www.ithome.com/0/789/183.htm)|
+||[因零部件短缺，美国造车新势力 Rivian 暂停生产亚马逊送货车](https://www.ithome.com/0/789/182.htm)|
+||[梅赛德斯-迈巴赫发布北欧炫彩版 S680 轿车：限量 50 辆，621 马力，售 33.9 万美元](https://www.ithome.com/0/789/181.htm)|
+||[哪吒汽车与斯里兰卡企业 DPA 达成合作，拟在当地生产、分销电动汽车](https://www.ithome.com/0/789/180.htm)|
+||[因未经许可抓取 YouTube 内容训练模型，英伟达遭视频创作者起诉](https://www.ithome.com/0/789/179.htm)|
+||[罗永浩回应“网传王自如离职”热议：跟我没关系、我没有想法](https://www.ithome.com/0/789/178.htm)|
+||[《帝国时代 手游》官宣 10 月 17 日发布：腾讯 Level Infinite 发行，天美工作室开发](https://www.ithome.com/0/789/176.htm)|
+||[保时捷展示全球第 3 辆 993 Speedster 超跑：黄色设计，3.8 升六缸发动机、最高 300 马力](https://www.ithome.com/0/789/175.htm)|
+||[7400 MB/s+ 2G 缓存：梵想 TLC 固态硬盘 4T 版 1599 元上市](https://www.ithome.com/0/789/174.htm)|
+||[iQOO Z9 Turbo + 手机通过 3C 认证：支持 80W 快充，换芯天玑 9300+](https://www.ithome.com/0/789/173.htm)|
+||[RTX 4070 改用 GDDR6 导致暂时缺货，英伟达向 AIC 厂商承诺将填补供货量](https://www.ithome.com/0/789/172.htm)|
+||[京东 20 点超级 18 ：18 元薅大羊毛，再抽 618 元惊喜红包](https://www.ithome.com/0/789/171.htm)|
+||[AMG 6.0T 双涡轮 V12 引擎加持，帕加尼 Utopia 敞篷版超跑发布](https://www.ithome.com/0/789/170.htm)|
+||[优派推出“VA2450-H-11”23.8 英寸显示器：1080P 100Hz，适用办公场景](https://www.ithome.com/0/789/169.htm)|
+||[玛莎拉蒂展示 GT2 Stradale 超跑：631 马力、零百加速 2.8 秒、最高 324 公里 / 小时](https://www.ithome.com/0/789/168.htm)|
+||[黑鲨 Watch X-H100 智能手表开售：表侧 2MP 摄像头 + 全网通独立通话，699 元](https://www.ithome.com/0/789/167.htm)|
+||[《黑神话：悟空》PS5 版实机演示发布：帧率流畅、打击爽快，游戏 8 月 20 日发售](https://www.ithome.com/0/789/166.htm)|
+||[卡尔玛展示 9X9 超跑：致敬保时捷 959、零百加速最快 2 秒，210 万美元起](https://www.ithome.com/0/789/164.htm)|
+||[“直角中框方案神秘新机”渲染图曝光，有望为 vivo X200 系列手机](https://www.ithome.com/0/789/163.htm)|
+||[234 元腰斩价：OPPO Enco Free3 真无线降噪耳机探底发车](https://www.ithome.com/0/789/162.htm)|
+||[沈阳将开通东北首条 L4 级自动驾驶测试道路，市民可免费试乘智慧乘用车](https://www.ithome.com/0/789/160.htm)|
+||[谷歌 Contacts 应用被曝 Pixel Besties 功能，轻松查看和挚友通信历史](https://www.ithome.com/0/789/159.htm)|
+||[谷歌 Chromecast with Google TV 确认会适配安卓 TV 14](https://www.ithome.com/0/789/157.htm)|
+||[微软发布临时解决方案，修复 Win10 / Win11 版 Outlook 意外崩溃问题](https://www.ithome.com/0/789/156.htm)|
+||[Excel 中如何用柱形图展示百分比数据](https://www.ithome.com/0/789/155.htm)|
+||[微软撤回 1 月更新，时隔 7 个月重发 Win10 / Win11 补丁修复 WinRE 漏洞](https://www.ithome.com/0/789/154.htm)|
+||[奥运落幕，历史上有哪些被物理耽误的体育狂](https://www.ithome.com/0/789/153.htm)|
+||[用户反馈微软八月 IPv6 补丁存在 BUG：安装失败、拖慢性能、游戏崩溃等](https://www.ithome.com/0/789/152.htm)|
+||[Excel 中使用 Ctrl+R 和 Ctrl+D 完成隔行填充或隔列填充](https://www.ithome.com/0/789/151.htm)|
+||[蜘蛛侠妖娆起舞，下一代 ControlNet 来了！贾佳亚团队推出，即插即用，还能控制视频生成](https://www.ithome.com/0/789/150.htm)|
+||[奥运冠军竟是硅谷 VC，还是哈佛计算机系学霸](https://www.ithome.com/0/789/149.htm)|
+|[36氪](http://36kr.com/feed)|[大众汽车整合纯电业务，欲在安徽打造“东方狼堡”｜36氪独家](https://36kr.com/p/2908291970997126?f=rss)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[别再死磕全麦面包了，这种馅料饱满的面包更推荐！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%88%AB%E5%86%8D%E6%AD%BB%E7%A3%95%E5%85%A8%E9%BA%A6%E9%9D%A2%E5%8C%85%E4%BA%86%EF%BC%8C%E8%BF%99%E7%A7%8D%E9%A6%85%E6%96%99%E9%A5%B1%E6%BB%A1%E7%9A%84%E9%9D%A2%E5%8C%85%E6%9B%B4%E6%8E%A8%E8%8D%90%EF%BC%81)|
+||[尿酸高可以喝茶吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B0%BF%E9%85%B8%E9%AB%98%E5%8F%AF%E4%BB%A5%E5%96%9D%E8%8C%B6%E5%90%97%EF%BC%9F)|
+||[一种让人变臭的食物，你可能天天都在吃（不是螺蛳粉）](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E7%A7%8D%E8%AE%A9%E4%BA%BA%E5%8F%98%E8%87%AD%E7%9A%84%E9%A3%9F%E7%89%A9%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%A4%A9%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%90%83%EF%BC%88%E4%B8%8D%E6%98%AF%E8%9E%BA%E8%9B%B3%E7%B2%89%EF%BC%89)|
+||[男性硬度和时间不够，怎么办？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%94%B7%E6%80%A7%E7%A1%AC%E5%BA%A6%E5%92%8C%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)|
+||[呼气法、粪便抗原……怎么检查幽门螺杆菌更准确？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%91%BC%E6%B0%94%E6%B3%95%E3%80%81%E7%B2%AA%E4%BE%BF%E6%8A%97%E5%8E%9F%E2%80%A6%E2%80%A6%E6%80%8E%E4%B9%88%E6%A3%80%E6%9F%A5%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E6%9B%B4%E5%87%86%E7%A1%AE%EF%BC%9F)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[NVIDIA和 OpenAI 因使用在线视频而面临 YouTube 创作者诉讼](https://m.cnbeta.com.tw/view/1442553.htm)|
 ||[顶级奢享 劳斯莱斯幻影私人典藏版发布](https://m.cnbeta.com.tw/view/1442552.htm)|
 ||[深受董明珠赞赏的王自如被曝离职 格力员工回应：要签字的文件已换人](https://m.cnbeta.com.tw/view/1442549.htm)|
