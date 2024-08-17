@@ -2,6 +2,14 @@
 
 |来源|标题|
 |---|---|
+|[卢昌海个人主页](https://www.changhai.org//feed.xml)|[二〇二四年哥本哈根散记 附瑞典一日 ](https://www.changhai.org/articles/miscellaneous/misc/2024_Copenhagen.php)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 曝王自如格力内部系统显示「离职」/ 机构报告二季度华为平板市场份额超越苹果 / 绿牌特斯拉 Cybertruck 汽车现身天津](https://www.ifanr.com/1596381?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[少数派](https://sspai.com/feed)|[《黑神话：悟空》评测：敢问路在何方，路在脚下](https://sspai.com/post/91560)|
+|[IT之家](https://www.ithome.com/rss/)|[三星发布 Galaxy A06 手机：联发科 Helio G85 芯片、6.7 英寸 90Hz 屏幕](https://www.ithome.com/0/789/134.htm)|
+||[消息称任天堂明年 4-6 月间发布 Switch 2 游戏掌机，售价 499 美元](https://www.ithome.com/0/789/133.htm)|
+|[36氪](http://36kr.com/feed)|[拉美电商巨头净利润翻倍，新大陆市场激战正酣 焦点分析](https://36kr.com/p/2909006817647232?f=rss)|
+||[9点1氪 王自如被曝或从格力离职；运营商回应出国旅游8天流量费1.6万；一私募基金12.52亿元存款丢失](https://36kr.com/p/2909064323701633?f=rss)|
+|[极客公园](http://feeds.geekpark.net/)|[美通过 AI监管法案，硅谷学界抗议；AI 马斯克，1 分钟骗走几十万；大众预热首款电动 GTI｜极客早知道](http://www.geekpark.net/news/339369)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[上海爷叔出国旅游遭遇“天价资费”？官方公布调查结果](https://m.cnbeta.com.tw/view/1442538.htm)|
 ||[Windows 11 Build 27686 上手体验：2TB FAT32、更好的沙盒等功能](https://m.cnbeta.com.tw/view/1442537.htm)|
 ||[拜登IRA和CHIPS法案中的40%的投资被推迟或处于停滞状态](https://m.cnbeta.com.tw/view/1442535.htm)|
