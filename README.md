@@ -2,6 +2,11 @@
 
 |来源|标题|
 |---|---|
+|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[体验下Java 21的虚拟线程-协程](https://nicksxs.me/2024/08/18/%E4%BD%93%E9%AA%8C%E4%B8%8BJava-21%E7%9A%84%E8%99%9A%E6%8B%9F%E7%BA%BF%E7%A8%8B-%E5%8D%8F%E7%A8%8B/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[ts类型体操，字符串类型怎么检测空格？](https://segmentfault.com/q/1010000045184146)|
+||[怎么将answer底部版权信息删除？是不是必须升级到商业版才行？](https://segmentfault.com/q/1010000045183968)|
+||[在`<style scoped>`下`row-class-name`怎么生效?](https://segmentfault.com/q/1010000045183948)|
+|[少数派](https://sspai.com/feed)|[不买可以先收藏 15：如何做一锅好吃的米饭](https://sspai.com/post/91338)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 性格懦弱，如何克服呢？](https://www.v2ex.com/t/1065847#reply13)|
 ||[ 程序员 2024.08.18 现在 cursor 编辑器大家有在用吗？替代 vscode？](https://www.v2ex.com/t/1065842#reply12)|
 ||[ 问与答 为什么国内的影视创作素材来源主要是网文](https://www.v2ex.com/t/1065826#reply20)|
