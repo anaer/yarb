@@ -2,6 +2,20 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 性格懦弱，如何克服呢？](https://www.v2ex.com/t/1065847#reply13)|
+||[ 程序员 2024.08.18 现在 cursor 编辑器大家有在用吗？替代 vscode？](https://www.v2ex.com/t/1065842#reply12)|
+||[ 问与答 为什么国内的影视创作素材来源主要是网文](https://www.v2ex.com/t/1065826#reply20)|
+||[ 旅行 离职旅行求推荐](https://www.v2ex.com/t/1065825#reply11)|
+||[ 南京 马上要到南京求学，南京的饮食属于偏南方还是北方？](https://www.v2ex.com/t/1065821#reply19)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[一张图：30克蛋白质的食物含量](https://www.jdon.com/75063.html)|
+||[一张图：Rust适用场景](https://www.jdon.com/75062.html)|
+||[Go语言两个主要缺点](https://www.jdon.com/75061.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[9家消费公司拿到新钱；茉酸奶上海多家门店关闭；冲锋衣抖音销售额近一年同增163% 创投大视野](https://36kr.com/p/2909778945334153)|
+||[主动阅读：如何成为一个更好的读者](https://36kr.com/p/2894358142081671)|
+||[动画电影，正在失去暑期档大本营](https://36kr.com/p/2909737378175617)|
+||[iOS、Android、PC 近期值得下载的 10 个 App](https://36kr.com/p/2909746819357315)|
+||[我，90后，迷上了赛博算命](https://36kr.com/p/2909704337824391)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[古今文字集成 http://www.ccamc.co/](https://m.okjike.com/originalPosts/66c151a85ad5f2f1d33b4913)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Palantir CEO亚历克斯-卡普表态"不会为军事工作道歉"](https://m.cnbeta.com.tw/view/1442599.htm)|
 ||[打1400公里顺风车逃单2800元车费后续 乘客转钱后已被拘](https://m.cnbeta.com.tw/view/1442598.htm)|
 ||[99元的30W快充 京东京造10000mAh自带线充电宝上市](https://m.cnbeta.com.tw/view/1442597.htm)|
