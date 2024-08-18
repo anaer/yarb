@@ -2,6 +2,24 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 想找个会 Python 和 flask，熟悉 ai 的合伙人](https://www.v2ex.com/t/1065889#reply12)|
+||[ 程序员 web 网页可以实现截图功能吗？类似 QQ 微信的截图功能](https://www.v2ex.com/t/1065874#reply13)|
+||[ 问与答 一个人拆快递拍视频有什么优雅的姿势或工具？](https://www.v2ex.com/t/1065865#reply14)|
+||[ 分享发现 微软的远程桌面原来自带远程唤醒功能！](https://www.v2ex.com/t/1065860#reply13)|
+||[ DNS 请问我有个腾讯云无忧的 4h8g10m 的轻量云，自建了 dot 和 doh，做好了分流，想拿给公司用， 300 个人，轻量云每个月 10m 带宽， 1500g 流量够吗?](https://www.v2ex.com/t/1065851#reply21)|
+||[ 分享发现 分享看电影的感悟：影视是错误的艺术](https://www.v2ex.com/t/1065848#reply11)|
+||[ 问与答 性格懦弱，如何克服呢？](https://www.v2ex.com/t/1065847#reply43)|
+||[ 程序员 2024.08.18 现在 cursor 编辑器大家有在用吗？替代 vscode？](https://www.v2ex.com/t/1065842#reply35)|
+|[反斗限免](http://free.apprcn.com/feed/)|[VOVSOFT Text to MP3 Converter - 将文本转换为音频文件 Windows $19→0 ](https://free.apprcn.com/vovsoft-text-to-mp3-converter-8/)|
+||[Ant Download Manager – 蚂蚁下载工具 Windows $22.5→0 ](https://free.apprcn.com/ant-download-manager-36/)|
+||[Bookwise - 读书记录工具 iPhone 美区内购限免 ](https://free.apprcn.com/bookwise-3/)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[非法抗日罪](https://www.reddit.com/r/China_irl/comments/1euzh2r/非法抗日罪/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Google为Android设备推出新的Gemini面板发光动画效果](https://m.cnbeta.com.tw/view/1442641.htm)|
+||[极星CEO：当前的知名度不高 请给我们时间来证明](https://m.cnbeta.com.tw/view/1442640.htm)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[冲浪看到了这神奇网站 转自x：@章工 // 叫床声图书馆（学术研究性质） https://orgasmsoundlibrary.com/#gallery 收集了来自全世界各地、各民族的叫床声，目前大...](https://m.okjike.com/originalPosts/66c161cca0d6d2ffc4b2b2b8)|
+|[快乐星球 妹子图 收集器 - Tel...](https://rsshub.app/telegram/channel/botmzt)|[🖼 🎉Channel: @botmzt](https://t.me/botmzt/18537)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[RISC-V 初创公司 Akeana 获 1 亿美元融资](https://www.oschina.net/news/307613/risc-v-akeana-100m-funding)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[现在已经要用 AI 来整理杂乱的桌面文件了？（1款AI工具 + 4 款经典工具）](https://xlrocket.blog/2024/08/18/%e7%8e%b0%e5%9c%a8%e5%b7%b2%e7%bb%8f%e8%a6%81%e7%94%a8-ai-%e6%9d%a5%e6%95%b4%e7%90%86%e6%9d%82%e4%b9%b1%e7%9a%84%e6%a1%8c%e9%9d%a2%e6%96%87%e4%bb%b6%e4%ba%86%ef%bc%9f%ef%bc%881%e6%ac%beai%e5%b7%a5/)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[其实，大部分外卖塑料盒都不能加热](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%85%B6%E5%AE%9E%EF%BC%8C%E5%A4%A7%E9%83%A8%E5%88%86%E5%A4%96%E5%8D%96%E5%A1%91%E6%96%99%E7%9B%92%E9%83%BD%E4%B8%8D%E8%83%BD%E5%8A%A0%E7%83%AD)|
 ||[不靠医美，真能让法令纹变淡的新玩意儿，强烈建议你试试](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%8D%E9%9D%A0%E5%8C%BB%E7%BE%8E%EF%BC%8C%E7%9C%9F%E8%83%BD%E8%AE%A9%E6%B3%95%E4%BB%A4%E7%BA%B9%E5%8F%98%E6%B7%A1%E7%9A%84%E6%96%B0%E7%8E%A9%E6%84%8F%E5%84%BF%EF%BC%8C%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E4%BD%A0%E8%AF%95%E8%AF%95)|
 ||[不是痣也不是痘，皮肤上这些小凸起，是病毒感染](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%8D%E6%98%AF%E7%97%A3%E4%B9%9F%E4%B8%8D%E6%98%AF%E7%97%98%EF%BC%8C%E7%9A%AE%E8%82%A4%E4%B8%8A%E8%BF%99%E4%BA%9B%E5%B0%8F%E5%87%B8%E8%B5%B7%EF%BC%8C%E6%98%AF%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93)|
