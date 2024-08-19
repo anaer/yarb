@@ -2,6 +2,13 @@
 
 |来源|标题|
 |---|---|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在Python Playwright中嵌入自定义按钮并用于收集Cookie？](https://segmentfault.com/q/1010000045185966)|
+||[@types/xxx 的作用是用于进行多个项目共用定义的type, interface对吗？](https://segmentfault.com/q/1010000045185781)|
+||[Doxygen CHM文件中文搜索乱码及模糊搜索配置方法？](https://segmentfault.com/q/1010000045185289)|
+|[蓝点网](https://www.landiannews.com/feed)|[因为抢劫和偷盗太严重 谷歌率先在巴西为Android开启防盗保护和自动锁定功能](https://www.landiannews.com/archives/105477.html)|
+||[当闲鱼卖家账号被封后 买家仍可发送消息不会有任何提醒 但也不会收到回复](https://www.landiannews.com/archives/105479.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[预测蛋白质-DNA结合特异性，南加州大学团队开发几何深度学习新方法](https://www.jiqizhixin.com/articles/2024-08-19)|
+|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/33](https://weekly.pychina.org/pyrecap/pyrw-2433.html)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Windows 10 的 MSN Feed 功能现在可覆盖超过一半的桌面屏幕](https://m.cnbeta.com.tw/view/1442689.htm)|
 ||[Waymo的自动驾驶出租车站仍在按喇叭吵醒旧金山的邻居们](https://m.cnbeta.com.tw/view/1442687.htm)|
 ||[一半以上美国大型企业认为AI是其业务的潜在风险](https://m.cnbeta.com.tw/view/1442686.htm)|
