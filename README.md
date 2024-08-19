@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[KAIX.IN](https://kaix.in/feed/)|[好奇害死泥鳅](https://kaix.in/2024/0819-loach/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[可以飞！特斯拉新一代Roadster实车曝光](https://m.cnbeta.com.tw/view/1442769.htm)|
+||[女子小腿绑40块卡西欧手表进境 结果因步态僵硬被查获](https://m.cnbeta.com.tw/view/1442768.htm)|
+||[由于提交的漏洞越来越少 谷歌决定在9月底关停Google Play安全奖励计划](https://m.cnbeta.com.tw/view/1442767.htm)|
+||[国产AI机器人会弹琴泡茶打咏春 还能撸猫？](https://m.cnbeta.com.tw/view/1442762.htm)|
+||[来电科技母公司回应袁冰松失联传闻：早已离职 与公司无关](https://m.cnbeta.com.tw/view/1442760.htm)|
+||[马克·古尔曼：苹果在AI领域远远落后于谷歌](https://m.cnbeta.com.tw/view/1442759.htm)|
+||[卡德罗夫称从马斯克那里获赠特斯拉赛博皮卡 马斯克社交媒体发帖否认](https://m.cnbeta.com.tw/view/1442758.htm)|
+||[ASML CEO认为欧洲需要中国的成熟制程芯片来维持需求 但其技术已落后10年](https://m.cnbeta.com.tw/view/1442756.htm)|
+||[为应对竞争 耳机制造商们正在不断创新](https://m.cnbeta.com.tw/view/1442753.htm)|
+||[美国FDA批准止血凝胶Traumagel上市销售 10秒内止血堪比游戏道具](https://m.cnbeta.com.tw/view/1442751.htm)|
+||[有消费者按网上购买的识别指南采蘑菇食用后全家中毒 随后发现书是AI写的](https://m.cnbeta.com.tw/view/1442750.htm)|
+||[QQ空间第一代女神程琳最新晒照：16年前非主流照片变视频](https://m.cnbeta.com.tw/view/1442748.htm)|
+||[滴滴青桔X《黑神话：悟空》联名筋斗云车明天起随游戏登陆全国](https://m.cnbeta.com.tw/view/1442749.htm)|
+||[逾五万名韩国家长签署请愿书反对 全球首个“AI教科书计划”遭质疑](https://m.cnbeta.com.tw/view/1442746.htm)|
+||[三星押注CXL存储成下一个AI新宠，容量提升至10倍](https://m.cnbeta.com.tw/view/1442745.htm)|
+||[鼓励新能源车开6年报废引热议：更新迭代快、耐久性等都是问题](https://m.cnbeta.com.tw/view/1442743.htm)|
+||[CAMM2内存性能实测：与标准DDR5几乎一模一样](https://m.cnbeta.com.tw/view/1442742.htm)|
+||[商飞C919第二总装厂落地浦东临港片区 满负荷产能破150架](https://m.cnbeta.com.tw/view/1442741.htm)|
+||[多地公布新冠疫苗自费接种价格：最低126元起](https://m.cnbeta.com.tw/view/1442740.htm)|
+||[梵想S790MAX SSD上架：TLC NAND 4TB首发价1699元](https://m.cnbeta.com.tw/view/1442739.htm)|
+||[女子连吃10多颗织纹螺被送进ICU紧急抢救 毒性强的1颗就可能致命](https://m.cnbeta.com.tw/view/1442738.htm)|
+||[GSMArena十大热门手机排行公布 谷歌首次包揽前三](https://m.cnbeta.com.tw/view/1442737.htm)|
+||[12岁小孩哥百米跑出11秒49 超同期苏炳添](https://m.cnbeta.com.tw/view/1442736.htm)|
+||[麦当劳请了11个AI美女为薯条疯狂打call 网友吵翻了](https://m.cnbeta.com.tw/view/1442734.htm)|
+||[苹果可能在下月发布两款全新的 AirPods 4](https://m.cnbeta.com.tw/view/1442729.htm)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[盘点你所不知道的棋类比赛暗战](https://www.4hou.com/posts/4v5x)|
+||[谣言粉碎机 牙齿里装氰化物毒药，真的可能么](https://www.4hou.com/posts/Ey9v)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[250+ AI新创意！百度黑客马拉松大赛“专攻”智能体](https://www.infoq.cn/article/8wQok08Kk6JVuulQCq81)|
+||[拒绝背锅！39岁失业后，我写出了一个超一万亿使用量的数据库](https://www.infoq.cn/article/Y1GrKv1JeIJAyqwG8cab)|
+||[朱啸虎押注的AI公司遭前员工围攻，“去死”成创始人口头禅；小红书取消R职级，将激励和职级晋升解绑；谷歌前CEO：AI创业可先“偷”后“处理”｜AI周报](https://www.infoq.cn/article/WftWfDRVcIPQugIT6g6i)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[网易云音乐崩上热搜，又传员工删库跑路](https://www.freebuf.com/news/408977.html)|
+||[WPS Office两个严重漏洞曝光，已被武器化且在野利用](https://www.freebuf.com/news/408961.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI在用 AI卷起「穷鬼健身」，15天涨粉上万](https://www.jiqizhixin.com/articles/2024-08-19-9)|
+|[36氪](http://36kr.com/feed)|[氪星晚报｜自如官宣旗下整租长签三年不涨租；外国人入境人次激增129.9%；网易云音乐称故障已陆续修复，并公布补偿方案](https://36kr.com/p/2912930236029831?f=rss)|
+||[连锁酒店OYO融资1.75亿美元、美的楼宇与广联达签署合作、国内数字建造市场规模下降｜ PropTech周刊](https://36kr.com/p/2912920096938886?f=rss)|
+||[深度对话｜服务商祈飞CEO萧飞：用科学的全域解决方案，让服饰生意不再难做](https://36kr.com/p/2912834343820160?f=rss)|
+|[蓝点网](https://www.landiannews.com/feed)|[由于提交的漏洞越来越少 谷歌决定在9月底关停Google Play安全奖励计划](https://www.landiannews.com/archives/105482.html)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[去客厅化是否等同于多功能客厅，在现代空间设计中，如何赋予空间 N 种可能？](http://www.zhihu.com/question/663770727/answer/3591925456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 Pro 顏色 預測：哪一款是你的最愛？](https://applefans.today/2024-08-apple-iphone-16-pro-colors-rumors/)|
 |[极道](https://www.jdon.com/jivejdon/rss)|[什么是黑客学习法？](https://www.jdon.com/75065.html)|
 ||[脑肠一体：打开跨微生物-肠-脑轴的沟通之门](https://www.jdon.com/75064.html)|
