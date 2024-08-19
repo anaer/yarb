@@ -2,6 +2,57 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 Pro 顏色 預測：哪一款是你的最愛？](https://applefans.today/2024-08-apple-iphone-16-pro-colors-rumors/)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[什么是黑客学习法？](https://www.jdon.com/75065.html)|
+||[脑肠一体：打开跨微生物-肠-脑轴的沟通之门](https://www.jdon.com/75064.html)|
+|[反斗限免](https://free.apprcn.com/feed/)|[DoYourClone – 磁盘克隆工具 Windows、macOS $59→0 ](https://free.apprcn.com/doyourclone-14/)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[【CDT报告汇】人口学家：中国别无选择，只有大规模引进移民才能解决人口危机 （外二篇）](https://www.reddit.com/r/LiberalGooseGroup/comments/1evtbkz/cdt报告汇人口学家中国别无选择只有大规模引进移民才能解决人口危机_外二篇/)|
+||[又有新剧本了？](https://www.reddit.com/r/real_China_irl/comments/1evsxsu/又有新剧本了/)|
+|[异次元软件世界](https://feed.iplaysoft.com)|[Total Uninstall - 彻底卸载软件并清理残留垃圾的专业工具！让系统保持干净](https://www.iplaysoft.com/total-uninstall.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[Cordova Android 打包错误：找不到 com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3 插件如何解决？](https://segmentfault.com/q/1010000045187177)|
+||[Springboot工程idea中正常，linux上无法启动IllegalArgumentException: name？](https://segmentfault.com/q/1010000045187048)|
+|[36氪](http://36kr.com/feed)|[香港科创大潮进行时](https://36kr.com/p/2878578927686279?f=rss)|
+||[就在明天！「36碳圆桌派」第二期，来和联想、荣耀、亚马逊云科技聊聊绿色AI](https://36kr.com/p/2912558730353545?f=rss)|
+|[](http://blog.fivest.one/feed)|[当我跑完步，我谈些什么 – 5](https://blog.fivest.one/archives/6845)|
+|[蓝点网](https://www.landiannews.com/feed)|[有消费者按网上购买的蘑菇识别指南采蘑菇食用后全家中毒：发现书是AI写的](https://www.landiannews.com/archives/105484.html)|
+||[苹果将在下月发布AirPods 4 并且分成两个版本分别价格更低和更高](https://www.landiannews.com/archives/105478.html)|
+||[ 更新 网易云音乐疑似服务器故障导致无法使用 出现获取播放信息失败](https://www.landiannews.com/archives/105483.html)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[“KAWS:HOLIDAY”上海站即将登场，怀抱月球的 Companion 很浪漫](http://www.toodaylab.com/82997)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[中国出口骤降背后的真相：东盟成关键因素，产能与政策的矛盾加深](https://lukefan.com/2024/08/19/%e4%b8%ad%e5%9b%bd%e5%87%ba%e5%8f%a3%e9%aa%a4%e9%99%8d%e8%83%8c%e5%90%8e%e7%9a%84%e7%9c%9f%e7%9b%b8%ef%bc%9a%e4%b8%9c%e7%9b%9f%e6%88%90%e5%85%b3%e9%94%ae%e5%9b%a0%e7%b4%a0%ef%bc%8c%e4%ba%a7%e8%83%bd/)|
+|[IT之家](https://www.ithome.com/rss/)|[力帆 V400 摩托车官图公布：复古外形 / 圆灯设计，搭 400ml 四冲程水冷双缸发动机](https://www.ithome.com/0/789/531.htm)|
+||[北汽极狐考拉 S 改色膜上线：含超闪绿、电光红、银幻紫等 18 种颜色](https://www.ithome.com/0/789/523.htm)|
+||[消息称“中兴系”将推出电竞平板、大电池骁龙 8 Gen4 手机等新品](https://www.ithome.com/0/789/518.htm)|
+||[RISC-V 初创公司 Akeana 获 1 亿美元融资，将正式推出 SoC IP 定制服务](https://www.ithome.com/0/789/516.htm)|
+||[太空惊悚电影《异形：夺命舰》票房突破 2 亿，进入 2024 暑期档前十](https://www.ithome.com/0/789/515.htm)|
+||[支持 50% 负载停转，技嘉推出 ATX3.1 金牌电源 UD850GM-A PG5](https://www.ithome.com/0/789/513.htm)|
+||[2024 蔚来加电日活动明日举行，公布最新基建布局规划及新技术、新产品](https://www.ithome.com/0/789/512.htm)|
+||[首次公开："吉林一号"2023 全国一张图上线，0.5 米分辨率卫星影像](https://www.ithome.com/0/789/511.htm)|
+||[亮度达 12000 nits，三星显示展示圆形 White OLEDoS 显示面板样品](https://www.ithome.com/0/789/509.htm)|
+||[小米 13 系列手机推送澎湃 OS 1.0.15/13/11 正式版内测：新增 CarWith 个性化定制等功能](https://www.ithome.com/0/789/508.htm)|
+||[黑爵 AK980 三模键盘明日开售：2U0 键类 98 配列、TFT 彩屏，首发 199 元起](https://www.ithome.com/0/789/507.htm)|
+||[索尼 8 系“K-55XR80”电视开售：55 英寸 4K OLED、XR 芯片，13999 元](https://www.ithome.com/0/789/505.htm)|
+||[阿里云盘三方权益包优惠价格调整：月费 10 元变 17 元](https://www.ithome.com/0/789/503.htm)|
+||[6 月美国电动汽车销量逆势增长，特斯拉稳居榜首](https://www.ithome.com/0/789/502.htm)|
+||[Canalys：2024Q2 全球个人智能音频市场出货量 1.1 亿部，同比增长 10.6%](https://www.ithome.com/0/789/500.htm)|
+||[AOC 推出“AG275QXW”27 英寸显示器：2K 180Hz Fast IPS，1699 元](https://www.ithome.com/0/789/497.htm)|
+||[“微信百万保障”服务会自动扣费 2000 元？北京警方紧急提醒](https://www.ithome.com/0/789/496.htm)|
+||[最新研究：导致恐龙灭绝的小行星来自外太阳系](https://www.ithome.com/0/789/493.htm)|
+||[更多 USB 接口，华硕推出 B760M-AYW PRO WIFI 主板](https://www.ithome.com/0/789/491.htm)|
+||[亚马逊送货无人机遭投诉，居民称其噪音太大](https://www.ithome.com/0/789/490.htm)|
+||[网易 RPG 手游《神都夜行录》今起“停止新内容研发”，仅保留“细水长流”单服务器](https://www.ithome.com/0/789/488.htm)|
+||[奇瑞星途瑶光 C-DM 四驱版实车亮相，搭载 1.5T + 三电机插混系统](https://www.ithome.com/0/789/486.htm)|
+||[TrendForce：2030 年 AR 装置出货量预计达 2550 万台，LEDoS 技术将成主流](https://www.ithome.com/0/789/485.htm)|
+||[分级信息显示，R 星《恶霸鲁尼》有望登陆现代主机平台](https://www.ithome.com/0/789/483.htm)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[昆仑万维推出全球首款 AI 短剧平台 SkyReels，「一人一剧」时代来临](https://www.jiqizhixin.com/articles/2024-08-19-8)|
+||[国内首个UI大模型出炉！Motiff妙多大模型打造设计师最佳助手、优化UI设计工作流](https://www.jiqizhixin.com/articles/2024-08-19-7)|
+||[为什么学线代时不知道：矩阵与图竟然存在等价关系](https://www.jiqizhixin.com/articles/2024-08-19-6)|
+||[Nature子刊，上智院、复旦、中国气象局研发次季节AI大模型「伏羲」，突破「可预报性沙漠」](https://www.jiqizhixin.com/articles/2024-08-19-5)|
+||[一文看懂Mamba，Transformer最强竞争者](https://www.jiqizhixin.com/articles/2024-08-19-4)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[人为什么会得癌？关于癌的真相](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BE%97%E7%99%8C%EF%BC%9F%E5%85%B3%E4%BA%8E%E7%99%8C%E7%9A%84%E7%9C%9F%E7%9B%B8)|
+||[小小湿巾，真的救我老命！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B0%8F%E5%B0%8F%E6%B9%BF%E5%B7%BE%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%95%91%E6%88%91%E8%80%81%E5%91%BD%EF%BC%81)|
+||[无糖饮料真的更健康吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9C%9F%E7%9A%84%E6%9B%B4%E5%81%A5%E5%BA%B7%E5%90%97%EF%BC%9F)|
+||[让人尴尬的「儿童擦腿综合征」，每个家长都应该了解](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%AE%A9%E4%BA%BA%E5%B0%B4%E5%B0%AC%E7%9A%84%E3%80%8C%E5%84%BF%E7%AB%A5%E6%93%A6%E8%85%BF%E7%BB%BC%E5%90%88%E5%BE%81%E3%80%8D%EF%BC%8C%E6%AF%8F%E4%B8%AA%E5%AE%B6%E9%95%BF%E9%83%BD%E5%BA%94%E8%AF%A5%E4%BA%86%E8%A7%A3)|
+||[灰指甲不治能自愈吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%81%B0%E6%8C%87%E7%94%B2%E4%B8%8D%E6%B2%BB%E8%83%BD%E8%87%AA%E6%84%88%E5%90%97%EF%BC%9F)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 现在有什么便宜的 SSL 证书吗？免费的只有 3 个月了，很容易忘记续，而国内云厂商的太贵太贵，成本太高。](https://www.v2ex.com/t/1066103#reply13)|
 ||[ Apple 马上 9 月发布新爱疯了，抛开各种剧透，你最想要的功能是什么？](https://www.v2ex.com/t/1066100#reply27)|
 ||[ 分享创造 复刻软件然后低价销售是否可行](https://www.v2ex.com/t/1066090#reply20)|
