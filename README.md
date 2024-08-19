@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 现在有什么便宜的 SSL 证书吗？免费的只有 3 个月了，很容易忘记续，而国内云厂商的太贵太贵，成本太高。](https://www.v2ex.com/t/1066103#reply13)|
+||[ Apple 马上 9 月发布新爱疯了，抛开各种剧透，你最想要的功能是什么？](https://www.v2ex.com/t/1066100#reply27)|
+||[ 分享创造 复刻软件然后低价销售是否可行](https://www.v2ex.com/t/1066090#reply20)|
+||[ 问与答 父母在农村老家做点啥比较好？](https://www.v2ex.com/t/1066076#reply18)|
+||[ 程序员 浏览帖子的时候，有点小问题，感觉需要一个大佬写个插件？](https://www.v2ex.com/t/1066072#reply18)|
+||[ 问与答 今年夏天的菜价为什么这么贵](https://www.v2ex.com/t/1066064#reply12)|
+||[ 生活 和老婆消费观念不同](https://www.v2ex.com/t/1066060#reply41)|
+||[ 程序员 从 n 个数里面随机取 m 个数](https://www.v2ex.com/t/1066059#reply20)|
+||[ 程序员 国内软件公司的产品水分是不是很大](https://www.v2ex.com/t/1066058#reply45)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E7%96%AB%E6%83%85&type=link&limit=20&sort=new)|[猴痘疫情再次成为“国际突发公卫事件”，这种病毒如何传播？](https://www.reddit.com/r/LiberalGooseGroup/comments/1evr18q/猴痘疫情再次成为国际突发公卫事件这种病毒如何传播/)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[CharmsBarReloaded：在 Win10/11 上恢复 Win8/8.1 的 Charms 栏（屏幕侧边栏功能键）](https://www.appinn.com/charmsbarreloaded/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[LUCH - 照片漏光滤镜工具 iOS ￥3→0 ](https://free.apprcn.com/luch-15/)|
+||[小日子 - 提醒你珍惜每个重要的日子 iPhone、Apple Watch 内购限免 ](https://free.apprcn.com/xiao-ri-zi-2/)|
+|[36氪](http://36kr.com/feed)|[Patagonia中国大陆地区负责人曾维刚：好公司不需要ESG部门｜ESG36人](https://36kr.com/p/2911466616920704?f=rss)|
+||[房地产调整至少还要3年](https://36kr.com/p/2912662702431113?f=rss)|
+||[流动性吃紧 刘銮雄12.6亿港元出售伦敦物业](https://36kr.com/p/2912660264459145?f=rss)|
+||[「36碳圆桌派」嘉宾揭晓：和荣耀刘小军，聊聊科技企业如何将ESG融入商业](https://36kr.com/p/2907077060336518?f=rss)|
+||[3省市8辖区17大场景需求 寻找未来城市共建合作伙伴](https://36kr.com/p/2908688112147075?f=rss)|
+||[千寻位置完成新一轮融资，北上等国资入局，估值超160亿元 36氪独家](https://36kr.com/p/2911838095809415?f=rss)|
+||[独家｜对话刘光耀：当一切失控后](https://36kr.com/p/2912496518322823?f=rss)|
+||[「智元」发布5款商用人形机器人，预计今年发货量将达300台｜最前线](https://36kr.com/p/2912432424688512?f=rss)|
+||[「金蝶」出海业务提速，上半年新签企业121家｜最前线](https://36kr.com/p/2912429968923268?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[大模型终端部署新趋势：硬件直接支持混合矩阵乘法](https://www.jiqizhixin.com/articles/2024-08-19-3)|
+||[机器人策略学习的Game Changer？伯克利提出Body Transformer](https://www.jiqizhixin.com/articles/2024-08-19-2)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[ValleyRAT恶意软件瞄准中文用户](https://www.anquanke.com/post/id/299254)|
+||[CISA 将 SolarWinds Web Help Desk 漏洞添加到其已知利用的漏洞目录中](https://www.anquanke.com/post/id/299261)|
+||[报告发现，威胁行为者越来越多地以 macOS 为目标](https://www.anquanke.com/post/id/299263)|
+||[攻击者利用公共 .env 文件在勒索活动中破坏云帐户](https://www.anquanke.com/post/id/299266)|
+||[与 Black Basta 有联系的威胁行为者利用 SystemBC 恶意软件攻击用户](https://www.anquanke.com/post/id/299269)|
+||[数千个Oracle NetSuite电子商务网站暴露敏感客户数据](https://www.anquanke.com/post/id/299271)|
+||[Google Pixel 设备中预装的“Showcase.apk”应用程序存在安全漏洞](https://www.anquanke.com/post/id/299273)|
+||[National Public Data 确认发生了一起严重的数据泄露事件](https://www.anquanke.com/post/id/299249)|
+||[重磅！360 智能化数据安全系列产品发布 实现数据可见、可管、可用！](https://www.anquanke.com/post/id/299276)|
+||[新的 macOS 恶意软件Banshee Stealer 可窃取包括浏览器数据、加密货币钱包和浏览器扩展的数据](https://www.anquanke.com/post/id/299280)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[【深度长文】从钱荒到理财负反馈，历史上几次债市大回调与当前有何重要区别和关联？](http://xueqiu.com/3109136222/301315299)|
+||[价值投资最重要的事](http://xueqiu.com/1707706450/301446991)|
+|[IT之家](https://www.ithome.com/rss/)|[德国地方政界对英特尔马格德堡晶圆厂项目感到忧虑，已在考虑“B 计划”](https://www.ithome.com/0/789/481.htm)|
+||[今年首个“超级月亮”今晚现身](https://www.ithome.com/0/789/480.htm)|
+||[《死侍》等游戏有望重返 Xbox，消息称微软正积极洽谈授权](https://www.ithome.com/0/789/479.htm)|
+||[realme 真我 13 Pro 系列手机预热：首发索尼 LYT-600 潜望长焦，120 倍变焦、镜片透光率 98%](https://www.ithome.com/0/789/478.htm)|
+||[Consensus CEO 回应阿尔特曼“碾压”初创言论：从“套壳”开始也能做出伟大产品](https://www.ithome.com/0/789/477.htm)|
+||[麦当劳请了 11 个 AI 美女为薯条打 Call，引来近千万观看](https://www.ithome.com/0/789/475.htm)|
+||[ChatGPT 成 8 岁娃“导师”，各国中小学成 AI 坚实用户群体](https://www.ithome.com/0/789/474.htm)|
+||[研究发现大象会用名字进行交流，就像人类一样](https://www.ithome.com/0/789/473.htm)|
+||[消息称因极氪 2025 款新车上市客户分流，小米上周新增订单破 4 千](https://www.ithome.com/0/789/471.htm)|
+||[星纪魅族与时空道宇达成合作，“魅族卫星”将征集用户心愿并送上太空](https://www.ithome.com/0/789/463.htm)|
+||[《辐射 76》玩家呼吁：移除女性角色难看的内衣肩带](https://www.ithome.com/0/789/470.htm)|
+||[科技一周大事（8 月 12 日-18 日）：商务部等 7 部门提高汽车报废更新补贴标准；苹果宣布将开放 iPhone 的 NFC 芯片；谷歌年度机皇 Pixel 9 系列手机发布](https://www.ithome.com/0/789/469.htm)|
+||[奇瑞风云 T11 全尺寸 SUV 量产版效果图曝光，号称每个座位都是 C 位](https://www.ithome.com/0/789/468.htm)|
+||[水下超百米，我国最深海底隧道盾构机“深江 1 号”创掘进纪录](https://www.ithome.com/0/789/467.htm)|
+||[低成本、易操作，新型电绷带可使慢性伤口愈合速度提升 30%](https://www.ithome.com/0/789/466.htm)|
+||[M1 芯片：苹果 2020 款 MacBook Air 京东自营 8+256G 版 4999 元清仓](https://www.ithome.com/0/789/464.htm)|
+||[中国首次成功当选亚太经合组织能源工作组主席](https://www.ithome.com/0/789/462.htm)|
+||[反诈电影《孤注一掷》宣布 8 月 24 日重映，位列中国影史票房第 11](https://www.ithome.com/0/789/461.htm)|
+||[沙特阿拉伯购入 8 艘 Candela 飞行电动船，用于载人出行业务](https://www.ithome.com/0/789/460.htm)|
+||[任天堂 Switch 为何坚持不做成就系统？前员工揭秘](https://www.ithome.com/0/789/459.htm)|
+||[小米路由器 AX3000E 上架预约：满血 Wi-Fi 6，众筹价 149 元](https://www.ithome.com/0/789/457.htm)|
+||[《GTA3》的风吹垃圾效果为何被砍？前开发者揭秘幕后原因](https://www.ithome.com/0/789/456.htm)|
+||[Omdia：微软 ARM 芯片架构 AI 笔记本电脑明年出货增长高达 534%](https://www.ithome.com/0/789/455.htm)|
+||[美国 FDA 批准“止血凝胶”上市：可快速止血，媲美游戏道具](https://www.ithome.com/0/789/445.htm)|
+||[SK 海力士计划 2026 年首次导入 ASML High NA EUV 光刻机](https://www.ithome.com/0/789/444.htm)|
+||[联发科 2024 上半年员工分红预估人均 105 万元新台币，同比大涨 70%](https://www.ithome.com/0/789/443.htm)|
+||[佳能宣布进军娱乐领域，通过 MR 技术打造沉浸式视听体验](https://www.ithome.com/0/789/442.htm)|
+||[沃尔沃 S90 推限时优惠：医师 / 律师 / 教师最高 3.5 万元置换补贴，29.69 万元起](https://www.ithome.com/0/789/440.htm)|
+||[科大讯飞推出“星火极速超拟人交互”：可模仿孙悟空、蜡笔小新、小猪佩奇等音色、语气、人设](https://www.ithome.com/0/789/439.htm)|
+||[消息称三星电子今年底启动 HBM4 内存流片，为明年底量产做准备](https://www.ithome.com/0/789/438.htm)|
+||[嘉联支付补税及滞纳金共 3.6 亿余元](https://www.ithome.com/0/789/437.htm)|
+||[任天堂宣布明日举办博物馆主题直面会](https://www.ithome.com/0/789/436.htm)|
+||[北京现代第五代胜达 8 月 30 日正式上市，采用全新方盒子设计语言](https://www.ithome.com/0/789/435.htm)|
+||[小米人在传感器 Pro 上架：7m×6m 动态目标追踪，众筹价 349 元](https://www.ithome.com/0/789/434.htm)|
+||[新王诞生：玩家豪掷 50 万美元砸出 Steam 顶级账号](https://www.ithome.com/0/789/433.htm)|
+||[649 元起，三星 PRO Plus & EVO Plus micro SD 存储卡 1TB 版上市](https://www.ithome.com/0/789/431.htm)|
+||[高合汽车发布售后服务公告：已启动售后配件采购，逐步恢复供应](https://www.ithome.com/0/789/430.htm)|
+||[Smart High Tech 发布石墨烯导热片 GT200PRO，导热系数达 200 W/m·K](https://www.ithome.com/0/789/429.htm)|
+||[比亚迪仰望：U9 已在纽北完成半年驻场测试，将挑战“全球最难赛道”](https://www.ithome.com/0/789/428.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[android RippleDrawable 报错？](https://segmentfault.com/q/1010000045186617)|
+||[micropython怎么正确的把10进制转成16进制？](https://segmentfault.com/q/1010000045186392)|
+||[微信开发者工具，真机调试，节点审查模式没有作用？](https://segmentfault.com/q/1010000045186163)|
+||[安卓机顶盒每次开机都变回720p？](https://segmentfault.com/q/1010000045186125)|
 |[反斗限免](https://free.apprcn.com/feed/)|[免费获取字体包 Wedding Ceremony Font Bundle Windows、macOS $836→0 ](https://free.apprcn.com/get-wedding-ceremony-font-bundle-for-free/)|
 ||[Print Multiple Web Pages – 同时打印多个网页 Windows $19→0 ](https://free.apprcn.com/print-multiple-web-pages-4/)|
 |[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[Google 限制内容创作者将竞争对手的产品与 Pixel 一起展示](https://www.solidot.org/story?sid=79010)|
