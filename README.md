@@ -2,6 +2,52 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://sspai.com/feed)|[中文版全新上线，这 5 条建议伴你高效上手 Notion](https://sspai.com/post/80972)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[饮食、检查、心态，中老年如何提高生活质量？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%A5%AE%E9%A3%9F%E3%80%81%E6%A3%80%E6%9F%A5%E3%80%81%E5%BF%83%E6%80%81%EF%BC%8C%E4%B8%AD%E8%80%81%E5%B9%B4%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F%EF%BC%9F)|
+||[身上起红疹子别大意，有可能会传染](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BA%AB%E4%B8%8A%E8%B5%B7%E7%BA%A2%E7%96%B9%E5%AD%90%E5%88%AB%E5%A4%A7%E6%84%8F%EF%BC%8C%E6%9C%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E4%BC%A0%E6%9F%93)|
+||[坐车时的一个常见行为，很可能让你晕上加晕](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%9D%90%E8%BD%A6%E6%97%B6%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B8%B8%E8%A7%81%E8%A1%8C%E4%B8%BA%EF%BC%8C%E5%BE%88%E5%8F%AF%E8%83%BD%E8%AE%A9%E4%BD%A0%E6%99%95%E4%B8%8A%E5%8A%A0%E6%99%95)|
+||[身体里自带的「减肥药」，可惜很多人不会用](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BA%AB%E4%BD%93%E9%87%8C%E8%87%AA%E5%B8%A6%E7%9A%84%E3%80%8C%E5%87%8F%E8%82%A5%E8%8D%AF%E3%80%8D%EF%BC%8C%E5%8F%AF%E6%83%9C%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E4%BC%9A%E7%94%A8)|
+||[让眼睛无神的关键细节，你可能一直都忽略了！（不是皱纹）](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%AE%A9%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%E7%9A%84%E5%85%B3%E9%94%AE%E7%BB%86%E8%8A%82%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E9%83%BD%E5%BF%BD%E7%95%A5%E4%BA%86%EF%BC%81%EF%BC%88%E4%B8%8D%E6%98%AF%E7%9A%B1%E7%BA%B9%EF%BC%89)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[广东一小区地下停车场新能源汽车电池起火 多车烧毁](https://m.cnbeta.com.tw/view/1442903.htm)|
+||[医施德公司公然诅咒李想本人患癌 理想法务部已报案](https://m.cnbeta.com.tw/view/1442900.htm)|
+||[华为车BU市场估值超千亿元 市场人士认为并不夸张](https://m.cnbeta.com.tw/view/1442899.htm)|
+||[三星Galaxy Tab S10+和Tab S10 Ultra将支持45W快速充电](https://m.cnbeta.com.tw/view/1442897.htm)|
+||[华为与阿维塔签署投资引望协议 后续将继续对战略合作伙伴开放股权](https://m.cnbeta.com.tw/view/1442890.htm)|
+||[马斯克将加入特朗普内阁？本人贴出“就职照” 竟带动狗狗币大涨](https://m.cnbeta.com.tw/view/1442889.htm)|
+||[苹果今年将首次在印度生产高端iPhone Pro机型](https://m.cnbeta.com.tw/view/1442888.htm)|
+||[阿维塔入股华为引望成第二大股东：余承东现身协议签约现场](https://m.cnbeta.com.tw/view/1442887.htm)|
+||[奔驰为韩国地下车库电动车起火事件补偿约45亿韩元](https://m.cnbeta.com.tw/view/1442886.htm)|
+||[来电创始人袁冰松失联？多年好友回应：报道不实 其联络方式未变](https://m.cnbeta.com.tw/view/1442885.htm)|
+||[谷歌AI画质增强影像对比样张曝光：模糊图片秒变清晰](https://m.cnbeta.com.tw/view/1442884.htm)|
+||[中国电动汽车出口遭欧盟高关税冲击 7月份注册量环比暴跌45%](https://m.cnbeta.com.tw/view/1442883.htm)|
+||[理想回应医施德诅咒李想得肝癌：将采取相关法律措施](https://m.cnbeta.com.tw/view/1442880.htm)|
+||[朝鲜黑客集团拉撒路 Lazarus 正在积极利用Windows安全漏洞发起攻击](https://m.cnbeta.com.tw/view/1442879.htm)|
+||[广汇汽车暴雷：旗下宝马奔驰等多家4S店提车难 有门店40台车被抵押](https://m.cnbeta.com.tw/view/1442878.htm)|
+||[宏光MINIEV新增车型上市：售价4.08万 双气囊有快充](https://m.cnbeta.com.tw/view/1442877.htm)|
+||[知情人士：特斯拉FSD在美事故影响了在华审批](https://m.cnbeta.com.tw/view/1442872.htm)|
+||[AI电力需求激增 美国新增发电量创21年来新高](https://m.cnbeta.com.tw/view/1442871.htm)|
+||[特斯拉辅助驾驶落后中国对手 原因在哪？](https://m.cnbeta.com.tw/view/1442870.htm)|
+||[美国怀俄明州市长候选人承诺让OpenAI机器人管理首府 遭强烈反对](https://m.cnbeta.com.tw/view/1442868.htm)|
+||[电量低于90%才能停车库？韩国充电新规定引发电动车主众怒](https://m.cnbeta.com.tw/view/1442867.htm)|
+||[微软将Windows 11小组件模块从任务栏左侧移动到托盘区左侧](https://m.cnbeta.com.tw/view/1442863.htm)|
+||[Z世代接过财富大旗 科技巨头后代如何继承千亿家业？](https://m.cnbeta.com.tw/view/1442861.htm)|
+||[95后清北“赘婿”开撕上海交大前妻 牵出一家65亿上市公司](https://m.cnbeta.com.tw/view/1442860.htm)|
+||[上汽“全线焦虑”：月销量暴跌近四成 管理层“换血”](https://m.cnbeta.com.tw/view/1442858.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 关于调休请假吐槽两句](https://www.v2ex.com/t/1066460#reply19)|
+||[ 游戏 不得不说文化认同这个东西真的是浸染在血脉里的🤣](https://www.v2ex.com/t/1066456#reply16)|
+||[ Chrome 逆天 Chrome，新版本连下载链接都不让看了](https://www.v2ex.com/t/1066450#reply14)|
+||[ 买买买 淘宝真该被扫进垃圾堆](https://www.v2ex.com/t/1066447#reply12)|
+||[ NAS 自己组 nas 求推荐合理的配置](https://www.v2ex.com/t/1066441#reply12)|
+||[ 职场话题 工作中,同事之间钉钉发消息,每次都要带上名字, 纯吐槽](https://www.v2ex.com/t/1066430#reply13)|
+||[ 游戏 老年人请教一下游戏名词](https://www.v2ex.com/t/1066428#reply11)|
+||[ 问与答 黑神话悟空热度真高,想玩,但是我晕 3d,怎么解?](https://www.v2ex.com/t/1066421#reply31)|
+||[ 游戏 看了 B 站上黑神话悟空的宣传片，觉得太有趣了！有问题想请教一下大佬玩家！](https://www.v2ex.com/t/1066418#reply12)|
+||[ 问与答 最近想抽空学习一门乐器， 0 基础，学啥比较好呢，求推荐](https://www.v2ex.com/t/1066416#reply24)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[字节跳动2024奖学金计划报名启动！每人10万，助力科研未来！](https://www.jiqizhixin.com/articles/2024-08-20-6)|
+||[哈萨比斯：谷歌想创造第二个Transformer，还想把AlphaGo和Gemini强强联合](https://www.jiqizhixin.com/articles/2024-08-20-5)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[Java近期新闻：JDK 23 RC1、新HotSpot JEP、Hibernate及Tomcat新版本、GlassFish 8.0-M7](https://www.infoq.cn/article/7LWFJK1SRRPZsUBVu2it)|
+||[未来智能CTO王松：会议中的AI Agent，从小任务到全场景的技术突破](https://www.infoq.cn/article/ASUQJv0DT6JQuFlxZLLA)|
+||[智慧海淀：率先构建人工智能全场景赋能的创新生态](https://www.infoq.cn/article/Gx8XXk8OF8j05DTfbiis)|
 |[少数派](https://sspai.com/feed)|[不等一个阳光明媚的晴天，让这些电影带你去海边](https://sspai.com/post/91498)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 最近想抽空学习一门乐器， 0 基础，学啥比较好呢，求推荐](https://www.v2ex.com/t/1066416#reply12)|
 ||[ 问与答 来群懂哥帮我分析下我目前的情况该买个什么车？](https://www.v2ex.com/t/1066410#reply14)|
