@@ -2,6 +2,23 @@
 
 |来源|标题|
 |---|---|
+|[Usubeni Fantasy](https://ssshooter.com/rss.xml)|[考虑路由来源的 Vue 页面缓存逻辑](https://ssshooter.com/vue-page-cache/)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[Fluximg 重要更新： 解决非英文不友好问题 丰富生成图片规格样式 https://www.fluximg.com](https://m.okjike.com/originalPosts/66c3f9b7b00a43e9104115a0)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[用户不升级即将推出的苹果iPhone 16系列的最大原因是：买不起](https://m.cnbeta.com.tw/view/1442914.htm)|
+||[蔚来发布便携式车车充一体机：充电功率行业最大 5分钟续航增加20公里](https://m.cnbeta.com.tw/view/1442912.htm)|
+||[2024年Q2全球智能手机市场出货量增长12% 三星市场份额首超苹果](https://m.cnbeta.com.tw/view/1442909.htm)|
+||[蔚来发布加电合伙人计划 向全社会开放合作建设充换电站](https://m.cnbeta.com.tw/view/1442907.htm)|
+|[36氪](http://36kr.com/feed)|[湖南广电推数字文博大平台「山海」,想要孵化这个时代的超级IP 早期项目](https://36kr.com/p/2913098041498240?f=rss)|
+||[氪星晚报｜《黑神话：悟空》上线，近4亿销售或已回本；首次试飞发现问题，美国波音777X客机结构出现裂缝；松下据悉将与斯巴鲁、马自达合作建立电动汽车电池生产基地](https://36kr.com/p/2914325756042115?f=rss)|
+||[地产“一哥”，上半年净利润下降近4成](https://36kr.com/p/2914295769717376?f=rss)|
+||[请查收这封AI邀请函——36氪2024具身智能大会官宣](https://36kr.com/p/2914157565991556?f=rss)|
+||[瑞幸新品成不成不知道，但跟《黑神话·悟空》的联名爆了](https://36kr.com/p/2914071396457090?f=rss)|
+||[第十八届中国基金合伙人大会将启，LPGP闭门畅聊](https://36kr.com/p/2914109728004736?f=rss)|
+||[暑期闲不下来的年轻人，在闲鱼搞副业掘金](https://36kr.com/p/2914125267065473?f=rss)|
+||[持续扩招，「国泰航空」预计明年年底内地员工达到4000人｜最前线](https://36kr.com/p/2914093982636930?f=rss)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Flux AI：释放你的想象力，用文字生成图像](https://w2solo.com/topics/4938)|
+||[一直对音乐比较心心念，所以搞了一个自己喜欢的音乐收藏站](https://w2solo.com/topics/4937)|
+||[独立开发周记 79：第一次录英文 vlog](https://w2solo.com/topics/4936)|
 |[少数派](https://sspai.com/feed)|[中文版全新上线，这 5 条建议伴你高效上手 Notion](https://sspai.com/post/80972)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[饮食、检查、心态，中老年如何提高生活质量？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%A5%AE%E9%A3%9F%E3%80%81%E6%A3%80%E6%9F%A5%E3%80%81%E5%BF%83%E6%80%81%EF%BC%8C%E4%B8%AD%E8%80%81%E5%B9%B4%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F%EF%BC%9F)|
 ||[身上起红疹子别大意，有可能会传染](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BA%AB%E4%B8%8A%E8%B5%B7%E7%BA%A2%E7%96%B9%E5%AD%90%E5%88%AB%E5%A4%A7%E6%84%8F%EF%BC%8C%E6%9C%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E4%BC%A0%E6%9F%93)|
