@@ -2,6 +2,51 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://sspai.com/feed)|[不等一个阳光明媚的晴天，让这些电影带你去海边](https://sspai.com/post/91498)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 最近想抽空学习一门乐器， 0 基础，学啥比较好呢，求推荐](https://www.v2ex.com/t/1066416#reply12)|
+||[ 问与答 来群懂哥帮我分析下我目前的情况该买个什么车？](https://www.v2ex.com/t/1066410#reply14)|
+||[ 问与答 为什么 b 站看 4k 经常卡，用油管反而不会](https://www.v2ex.com/t/1066400#reply13)|
+||[ 游戏 不喜欢黑神话这款游戏的朋友都来吐槽一下吧](https://www.v2ex.com/t/1066396#reply52)|
+||[ 问与答 关于在公共场合玩手机，隐私泄露的风险？](https://www.v2ex.com/t/1066395#reply13)|
+||[ 宽带症候群 建议 PCDN 用户去刷 PT](https://www.v2ex.com/t/1066380#reply11)|
+||[ 游戏 想玩黑神话,求推荐电脑升级方案.](https://www.v2ex.com/t/1066377#reply16)|
+||[ NAS 抛砖引玉！基于 ipv6 的外网访问 nas 方案分享](https://www.v2ex.com/t/1066376#reply12)|
+||[ 问与答 为什么技术圈子会有对宝塔嗤之以鼻的感觉啊？孔乙己的长衫？](https://www.v2ex.com/t/1066374#reply16)|
+||[ 游戏 一个人越是见识少，越是不思考，他就会越固执](https://www.v2ex.com/t/1066371#reply16)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[适用于macOS的多个微软应用程序发现库注入漏洞，用户数据安全受威胁](https://www.freebuf.com/news/409025.html)|
+||[丰田再发数据泄露事件，涉及240GB员工和客户信息](https://www.freebuf.com/news/409015.html)|
+||[黑客利用 Xeon Sender 发起大规模短信钓鱼攻击](https://www.freebuf.com/news/409012.html)|
+|[反斗限免](https://free.apprcn.com/feed/)|[JMMGC Operation Center Premium - 文件管理工具 Windows ](https://free.apprcn.com/jmmgc-operation-center-premium/)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[CISA 将 Jenkins 命令行界面 （CLI） 漏洞添加到其已知利用的漏洞目录中](https://www.anquanke.com/post/id/299287)|
+||[被盗、被锁定的支付卡仍然可在数字钱包使用](https://www.anquanke.com/post/id/299290)|
+||[研究人员发现了与网络犯罪集团 FIN7 有关的新基础设施](https://www.anquanke.com/post/id/299294)|
+||[多款 MacOS 版微软应用程序易受库注入攻击影响](https://www.anquanke.com/post/id/299296)|
+||[新型 UULoader 恶意软件 Gh0st RAT 和 Mimikatz 在东亚地区传播](https://www.anquanke.com/post/id/299299)|
+||[网络犯罪分子利用热门软件搜索传播 FakeBat 恶意软件](https://www.anquanke.com/post/id/299301)|
+||[IBM 新发布针对"网络安全"和"数据分析"的 IBM SkillsBuild 证书](https://www.anquanke.com/post/id/299304)|
+||[Xeon Sender Tool 利用云 API 进行大规模短信钓鱼攻击](https://www.anquanke.com/post/id/299307)|
+||[网络犯罪分子利用文件共享服务推进网络钓鱼攻击](https://www.anquanke.com/post/id/299310)|
+||[360零信任安全办公平台升级！构筑一体化数字安全办公空间](https://www.anquanke.com/post/id/299313)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[根据用户协议，《黑神话：悟空》应该是不能随意公开直播的？在各大平台的主播们纷纷抢先直播《黑神话：悟空...](https://www.wikimoe.com/post/qv0g75my)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[「网易云音乐」回应 8.19 服务器故障：业务扩容中出现技术事故](https://www.oschina.net/news/307921)|
+||[FreeBSD 发布 Q2 报告，与 AMD 合作改进操作系统](https://www.oschina.net/news/307910/freebsd-q2-2024)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果失去 Google 搜尋的固定收入，會加速蘋果搜尋引擎的推出？](https://applefans.today/2024-08-apple-search-engine-rumors/)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 7 部作品](https://sspai.com/post/91553)|
+|[极客公园](http://feeds.geekpark.net/)|[靠猜「特朗普下一秒说什么」，他们赚了几百万](http://www.geekpark.net/news/339440)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[爱加密品牌LOGO焕新，新LOGO传递了哪些信号](https://www.4hou.com/posts/VWA1)|
+|[蓝点网](https://www.landiannews.com/feed)|[知乎怕不是疯了？通过搜索引擎打开 内容乱码必须刷新重新加载](https://www.landiannews.com/archives/105521.html)|
+||[企业软件开发商赛富时 Salesforce 开源xGen-MM多模态模型](https://www.landiannews.com/archives/105524.html)|
+||[朝鲜黑客集团拉撒路 Lazarus 正在积极利用Windows安全漏洞发起攻击](https://www.landiannews.com/archives/105503.html)|
+||[ 仅限今日 网易云音乐因崩溃向所有用户赠送7天会员权益 需手动领取](https://www.landiannews.com/archives/105505.html)|
+||[被骂后AMD决定重新为RYZEN 3000处理器发布固件更新修复高危漏洞](https://www.landiannews.com/archives/105502.html)|
+||[微软将Windows 11小组件 天气等模块 从任务栏左侧移动到托盘区左侧](https://www.landiannews.com/archives/105504.html)|
+||[微软推出Windows 11 24H2发布预览频道更新Build 26100.1586 – KB5041865](https://www.landiannews.com/archives/105506.html)|
+||[苹果播客 Apple Podcasts 推出网页版 让用户可以在浏览器中收听各类音频](https://www.landiannews.com/archives/105507.html)|
+||[索泰推出游戏掌机Zotac Zone 采用AMOLED显示屏和120Hz刷新率](https://www.landiannews.com/archives/105517.html)|
+||[树莓派基金会推出2GB内存版树莓派5单板计算机 售价低至50美元](https://www.landiannews.com/archives/105513.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[米粿AI：AI动漫赛道头部创业公司招聘AI算法实习生/工程师](https://www.jiqizhixin.com/articles/2024-08-20-4)|
+||[特斯拉聘请「动捕师」训练人形机器人Optimus，时薪最高48美元](https://www.jiqizhixin.com/articles/2024-08-20-3)|
+||[浙大李玺团队：指代表达理解新方法，ScanFormer粗到细迭代消除视觉冗余](https://www.jiqizhixin.com/articles/2024-08-20-2)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[6 盒牙线 9.9 元包邮？快冲！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+6%20%E7%9B%92%E7%89%99%E7%BA%BF%209.9%20%E5%85%83%E5%8C%85%E9%82%AE%EF%BC%9F%E5%BF%AB%E5%86%B2%EF%BC%81)|
 ||[吃退烧药的一个错误方法，你踩坑了吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%83%E9%80%80%E7%83%A7%E8%8D%AF%E7%9A%84%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E6%96%B9%E6%B3%95%EF%BC%8C%E4%BD%A0%E8%B8%A9%E5%9D%91%E4%BA%86%E5%90%97%EF%BC%9F)|
 ||[无意识保护膝盖的 7 个行为，来看看你中了几个](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%97%A0%E6%84%8F%E8%AF%86%E4%BF%9D%E6%8A%A4%E8%86%9D%E7%9B%96%E7%9A%84%207%20%E4%B8%AA%E8%A1%8C%E4%B8%BA%EF%BC%8C%E6%9D%A5%E7%9C%8B%E7%9C%8B%E4%BD%A0%E4%B8%AD%E4%BA%86%E5%87%A0%E4%B8%AA)|
