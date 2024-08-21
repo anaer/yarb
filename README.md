@@ -2,6 +2,48 @@
 
 |来源|标题|
 |---|---|
+|[爱范儿](https://www.ifanr.com/feed)|[华为 ADS3.0 智驾体验：「端到端」是新的技术墙](https://www.ifanr.com/1596306?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[早报 《黑悟空》销售额超 15 亿，在线人数超两百万/李想被「AI 云诊」患癌，理想汽车：已报警/苹果首款印度制造 Pro 机型于今年推出](https://www.ifanr.com/1596731?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[丰田网络后台遭黑客入侵 大量数据被泄露](https://www.4hou.com/posts/W1Lg)|
+|[IT之家](https://www.ithome.com/rss/)|[Valve 禁止《反恐精英 2》玩家使用键盘 SOCD 功能，违者将被踢出比赛](https://www.ithome.com/0/790/061.htm)|
+||[百度、商汤、智谱前三，IDC 首次发布大模型平台及应用市场份额报告](https://www.ithome.com/0/790/060.htm)|
+||[吉利汽车 2024 上半年净利润同比暴增 575% 达 106 亿元，销量超 95 万辆创历史新高](https://www.ithome.com/0/790/058.htm)|
+||[小鹏公布 MONA M03 轿车动态体验：最小转弯半径 5.3m、转向传动比 14.2，CLTC 620km 续航](https://www.ithome.com/0/790/054.htm)|
+||[欧盟对中国进口纯电动汽车征收 9~36.3% 最终反补贴税，商务部回应称“坚决反对”](https://www.ithome.com/0/790/053.htm)|
+||[搭载自研轴体，华硕推出 ROG 魔导士 ACE HFX 磁轴有线机械键盘](https://www.ithome.com/0/790/052.htm)|
+||[Anthropic 被指控使用盗版书籍训练 AI，作者提起集体诉讼](https://www.ithome.com/0/790/051.htm)|
+||[奇瑞 iCAR 03T 纯电 SUV 官图亮相，2024 成都车展发布](https://www.ithome.com/0/790/050.htm)|
+||[索泰 ZONE 游戏掌机发布：AMD R7 8840U / 1080p 120Hz 7 英寸触控屏，内置双触控板](https://www.ithome.com/0/790/047.htm)|
+||[微软统一版 Teams 应用已全平台上线：支持工作、个人和教育账户](https://www.ithome.com/0/790/046.htm)|
+||[R7-7840HS 准系统：零刻 SER7 迷你主机 1999 元开学探底](https://www.ithome.com/0/790/045.htm)|
+||[采用行业标准可升级组件，惠普推出 OMEN（暗影精灵）35L 整机](https://www.ithome.com/0/790/044.htm)|
+||[国产商用飞机 ARJ21 开启“环青藏高原”演示飞行](https://www.ithome.com/0/790/043.htm)|
+||[长城汽车就遭南方电网“拉黑”一事致歉： 35 台坦克 500 车型交付出现工作疏忽，已进行补偿](https://www.ithome.com/0/790/042.htm)|
+||[零刻发布 EQi12 紧凑型主机：双千兆网口、内置电源、最高酷睿 i7-12650H 处理器，起价 319 美元](https://www.ithome.com/0/790/041.htm)|
+||[阿维塔全球首发宁德时代神行 4C 超级增混电池，CLTC 纯电续航 325km](https://www.ithome.com/0/790/040.htm)|
+||[小米路由器 AX3000E 今日开启众筹：满血 Wi-Fi 6，众筹价 149 元](https://www.ithome.com/0/790/038.htm)|
+||[智能手环真能准确监测健康数据？研究称能量消耗和睡眠数据误差较大](https://www.ithome.com/0/790/037.htm)|
+||[开工三个月，特斯拉陶琳称上海储能超级工厂进度达 45%](https://www.ithome.com/0/790/036.htm)|
+||[鹏辉能源宣布全固态电池“重大突破”，8 月 28 日实物首秀](https://www.ithome.com/0/790/035.htm)|
+||[高通骁龙 8 Gen 4 Adreno 830 GPU 曝光：1250 MHz、比前代高 25%，问鼎最快手机图形芯片](https://www.ithome.com/0/790/034.htm)|
+||[中国汽车工业协会：坚决反对欧盟委员会对华电动汽车加征高额关税](https://www.ithome.com/0/790/032.htm)|
+||[继上海之后，极氪获杭州高快速路 L3 自动驾驶测试牌照](https://www.ithome.com/0/790/030.htm)|
+||[三星 Galaxy Ring 支持 Qi2 标准，但磁吸充电功能缺失](https://www.ithome.com/0/790/028.htm)|
+||[小米人在传感器 Pro 今日开启众筹：7m×6m 动态目标追踪，众筹价 349 元](https://www.ithome.com/0/790/027.htm)|
+||[山灵 MG20 有线耳机上架：10mm 动圈振膜、可选 3.5mm / Type-C，首发 199 元起](https://www.ithome.com/0/790/025.htm)|
+||[华硕发布 NitroPath DRAM 内存插槽技术，频率可提升至多 400MT/s](https://www.ithome.com/0/790/023.htm)|
+||[闲鱼回应“0.01 元黑神话悟空下载即玩”：部分用户标注异常价格引流，已重点关注并下架处理](https://www.ithome.com/0/790/022.htm)|
+||[微软邀测标准版 Xbox Game Pass 订阅：限时 1 美元，不承诺游戏首发入库](https://www.ithome.com/0/790/021.htm)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[Insta360影石科技上市申请四年无果引轩然大波 创始人发文抱怨又道歉，看创业背后的辛酸与无奈](https://lukefan.com/2024/08/21/insta360%e5%bd%b1%e7%9f%b3%e7%a7%91%e6%8a%80%e4%b8%8a%e5%b8%82%e7%94%b3%e8%af%b7%e5%9b%9b%e5%b9%b4%e6%97%a0%e6%9e%9c%e5%bc%95%e8%bd%a9%e7%84%b6%e5%a4%a7%e6%b3%a2%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%8f%91/)|
+|[36氪](http://36kr.com/feed)|[CEO锦囊｜未来，显示屏的极限在哪里？](https://36kr.com/p/2912923052432265?f=rss)|
+||[最前线｜快手发布Q2财报：电商GMV仍有双位数增长，但增速放缓](https://36kr.com/p/2914703853624196?f=rss)|
+||[CEO锦囊·出海季｜出海到非洲，是门好生意吗？](https://36kr.com/p/2912679164566145?f=rss)|
+||[光伏整合大猜想：通威50亿并购只是开始？ 焦点分析](https://36kr.com/p/2912092188121728?f=rss)|
+||[欧洲版三蹦子5万一辆，在德国卖出百亿销售额 出海New Land](https://36kr.com/p/2914271157934984?f=rss)|
+||[寻求直播带货MCN并购标的；寻求医疗器械上下游并购标的｜资情留言板第144期](https://36kr.com/p/2914682117806723?f=rss)|
+||[雅诗兰黛亟需一个更懂中国的CEO](https://36kr.com/p/2914080303667849?f=rss)|
+||[8点1氪｜《黑神话：悟空》超15亿销售额，同时在线人数超220万；东方甄选部分主播或面临“二选一”；日本多地允许带娃上班](https://36kr.com/p/2915146170145670?f=rss)|
+|[极客公园](http://feeds.geekpark.net/)|[后·移动互联网时代，谁是第一个 DAU 破亿的产品？](http://www.geekpark.net/news/339488)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[為什麼 大學生買 iPad 和 Mac 可以幫助學術生涯呢？蘋果告訴你！](https://applefans.today/2024-08-why-college-students-need-mac-and-ipad/)|
 |[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[2024 年 7 月头号恶意软件：Remcos 和 RansomHub 大行其道](https://www.4hou.com/posts/Zg86)|
 |[IT之家](https://www.ithome.com/rss/)|[Android 和桌面端 Chrome 浏览器将简化同步流程：登录谷歌账号即可](https://www.ithome.com/0/790/020.htm)|
