@@ -2,6 +2,61 @@
 
 |来源|标题|
 |---|---|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[亲戚一家五口旅游要求接待，如何拒绝才不会得罪人？](https://www.zhihu.com/question/507346363)|
+||[什么样的人算是中了基因彩票？](https://www.zhihu.com/question/641999434)|
+||[如何评价《黑神话：悟空》序章部分的设计？](https://www.zhihu.com/question/664792308)|
+||[《三国演义》中有哪些经典诗词？](https://www.zhihu.com/question/662785286)|
+||[《黑神话：悟空》有哪些保姆级游戏攻略？](https://www.zhihu.com/question/664774119)|
+||[为什么子女买的房子，一般都会把父母安排在次卧？](https://www.zhihu.com/question/532149249)|
+||[主角的超能力设定为控制水，技能招式如何玩出花样?](https://www.zhihu.com/question/387480003)|
+||[如何看待 2024 年 8 月 21 日 A 股市场行情走势？](https://www.zhihu.com/question/664788502)|
+||[蛋炒饭怎么炒才是一粒一粒的?](https://www.zhihu.com/question/664347187)|
+||[请分享一些含「菊」字的诗词佳文妙句？](https://www.zhihu.com/question/664782878)|
+||[如果两天不吃饭只喝水，能达到减肥的效果吗？](https://www.zhihu.com/question/662395847)|
+||[有哪些早餐小时候经常吃，至今念念不忘？](https://www.zhihu.com/question/664448590)|
+||[以「我来人间一趟」为开头，可以写一篇小短文吗?](https://www.zhihu.com/question/664651826)|
+||[你会穿不到百元的衣服去上班吗？](https://www.zhihu.com/question/662387535)|
+||[学习和打工哪个更有前途？](https://www.zhihu.com/question/664708483)|
+||[阿富汗的瓦罕走廊有什么价值？](https://www.zhihu.com/question/535689236)|
+||[秦灭六国中最困难的战役是哪次？](https://www.zhihu.com/question/492136986)|
+||[写作一次两次看不到成果，到底还要不要坚持？](https://www.zhihu.com/question/660562808)|
+||[《西游记》中法力最大的是谁？](https://www.zhihu.com/question/22147994)|
+||[夜间开车有哪些好习惯，可以提升行车安全？](https://www.zhihu.com/question/663169042)|
+||[「黑神话悟空」的最终 boss 会是谁？](https://www.zhihu.com/question/504314754)|
+||[如何评价《海贼王》漫画第 1124 话情报？](https://www.zhihu.com/question/664826696)|
+||[梅西如果 14 年世界杯夺冠会封球王吗？](https://www.zhihu.com/question/381051860)|
+||[《黑神话：悟空》第一天玩下来的玩家有哪些感受想要分享？](https://www.zhihu.com/question/664836427)|
+||[《黑神话：悟空》总销量已破 450 万份，总销售额超过 15 亿元，对于单机游戏来说，这一成绩意味着什么？](https://www.zhihu.com/question/664824592)|
+||[《潜伏》第一集，周佛海给劳文池的接风宴上，余则成真的没露出一点破绽吗？](https://www.zhihu.com/question/661188235)|
+||[特朗普称当选后考虑为马斯克提供美国内阁或顾问职位，马斯克回应「愿意效劳」，如何看待此事？](https://www.zhihu.com/question/664803484)|
+||[如何看待《黑神话：悟空》员工在招聘网站疯狂被挖，这个项目组成员实力如何？](https://www.zhihu.com/question/664823645)|
+||[俄乌两条战线各打各的，哪一方会先撑不住？](https://www.zhihu.com/question/664703561)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[美国法官阻止 FTC 的竞业禁止协议禁令](https://www.solidot.org/story?sid=79035)|
+||[迪士尼撤回受争议的强制仲裁动议](https://www.solidot.org/story?sid=79034)|
+||[大脑为一个记忆创建三个副本](https://www.solidot.org/story?sid=79033)|
+||[英伟达放弃专用的 G-Sync 模块](https://www.solidot.org/story?sid=79032)|
+||[微软上周释出的更新影响双系统用户](https://www.solidot.org/story?sid=79031)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[CannonDesign遭受Avos Locker勒索软件攻击，1.3万名客户数据泄露](https://www.freebuf.com/news/409112.html)|
+||[攻击手法罕见！ESET披露最新网络钓鱼活动，专门针对Android、iPhone用户](https://www.freebuf.com/news/409102.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[中科院计算所团队提出CarbonNovo，基于AI进行蛋白质结构和序列的端到端从头设计](https://www.jiqizhixin.com/articles/2024-08-21-8)|
+||[腾讯混元大模型负责人王迪：揭秘万亿 MoE 系统工程之道｜智者访谈](https://www.jiqizhixin.com/articles/2024-08-21-7)|
+||[联合Science，面向青年学者，陈天桥推出AI驱动科学研究国际大奖](https://www.jiqizhixin.com/articles/2024-08-21-6)|
+||[支持1024帧、准确率近100％，英伟达「LongVILA」开始发力长视频](https://www.jiqizhixin.com/articles/2024-08-21-5)|
+||[英伟达首个AI NPC入驻游戏，国产大作，4B模型只需2G显存](https://www.jiqizhixin.com/articles/2024-08-21-4)|
+||[多模态模型评测框架lmms-eval发布！全面覆盖，低成本，零污染](https://www.jiqizhixin.com/articles/2024-08-21-3)|
+||[每年能省200万美元，没有爱思唯尔，MIT过得还不错](https://www.jiqizhixin.com/articles/2024-08-21-2)|
+|[少数派](https://sspai.com/feed)|[App+1 用 AI 选出好照片：基于 Aftershot 和 Lightroom 的人像摄影工作流](https://sspai.com/post/91608)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[js根据一个总数去生成随机数？](https://segmentfault.com/q/1010000045195171)|
+||[百度搜索，关键词是提取页面的哪个位置的数据来的？](https://segmentfault.com/q/1010000045194997)|
+||[如何约束函数的入参间的关系?](https://segmentfault.com/q/1010000045194860)|
+||[如何优化Wavesurfer.js以加载并流畅处理3G大小的音频文件？](https://segmentfault.com/q/1010000045194749)|
+||[vue3中element-plus实现表格动态获取数据？](https://segmentfault.com/q/1010000045194305)|
+||[类组件和函数组件定时器每秒加1的区别？](https://segmentfault.com/q/1010000045194222)|
+||[怎样修改机顶盒输出分辨率？](https://segmentfault.com/q/1010000045194157)|
+|[反斗限免](https://free.apprcn.com/feed/)|[PowerAudio Plus Music Player – 音乐播放器 Android $0.99→0 ](https://free.apprcn.com/poweraudio-plus-music-player-3/)|
+|[36氪](http://36kr.com/feed)|[用AI检测对抗AI伪造，「中科睿鉴」完成近亿元融资 36氪首发](https://36kr.com/p/2898952079940227?f=rss)|
+||[对话袁进辉：必须实现Token自由，下一个“张小龙”才会出现 涌现36人](https://36kr.com/p/2915571270851202?f=rss)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[XCon2024完整版参会攻略，速速来看，果断收藏~~](https://www.4hou.com/posts/2X8v)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[国产商用飞机ARJ21开启“环青藏高原”演示飞行 航线开通不远了](https://m.cnbeta.com.tw/view/1443032.htm)|
 ||[小米路由器AX3000E开售：满血Wi-Fi 6 自研Mesh组网 售价149元](https://m.cnbeta.com.tw/view/1443031.htm)|
 ||[曝iPhone 16 Pro Max超窄下巴刷新纪录：很考验用户的贴膜能力](https://m.cnbeta.com.tw/view/1443029.htm)|
