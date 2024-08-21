@@ -2,6 +2,46 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[国产商用飞机ARJ21开启“环青藏高原”演示飞行 航线开通不远了](https://m.cnbeta.com.tw/view/1443032.htm)|
+||[小米路由器AX3000E开售：满血Wi-Fi 6 自研Mesh组网 售价149元](https://m.cnbeta.com.tw/view/1443031.htm)|
+||[曝iPhone 16 Pro Max超窄下巴刷新纪录：很考验用户的贴膜能力](https://m.cnbeta.com.tw/view/1443029.htm)|
+||[传承诺基亚经典、100%芭比风格 HMD Barbie翻盖机8月28日发布](https://m.cnbeta.com.tw/view/1443028.htm)|
+||[中国折叠屏手机市场持续爆发：Q2销量同比大增125% 华为领跑](https://m.cnbeta.com.tw/view/1443026.htm)|
+||[百度百科已屏蔽谷歌/必应等大多数搜索引擎 估计也是怕内容被拿去训练AI？](https://m.cnbeta.com.tw/view/1443023.htm)|
+||[苹果宣布在多个国家/地区延长AppleCare+注册时间至45天 国内仍然为30天](https://m.cnbeta.com.tw/view/1443022.htm)|
+||[金山WPS云文档再次无法正常使用 并且400客服电话竟然是关机的](https://m.cnbeta.com.tw/view/1443021.htm)|
+||[美国空军的"Quicksink"武器可在数秒内将舰船撕成两半](https://m.cnbeta.com.tw/view/1443020.htm)|
+||[港媒探访世界最大iPhone工厂：富士康郑州“变样”了](https://m.cnbeta.com.tw/view/1443019.htm)|
+||[澳大利亚300亿澳元可再生能源项目获批 AAPowerLink将跨海输送太阳能至新加坡](https://m.cnbeta.com.tw/view/1443018.htm)|
+||[AI初创企业Anthropic再遇版权纷争 多位作者集体起诉其侵犯版权](https://m.cnbeta.com.tw/view/1443017.htm)|
+||[SK电信计划使用英伟达GPU 在首尔开设AI数据中心](https://m.cnbeta.com.tw/view/1443016.htm)|
+||[长城汽车回应被南方电网“拉黑”：工作疏忽致交付物与标的物存在差异，已补偿道歉](https://m.cnbeta.com.tw/view/1443015.htm)|
+||[版权联盟强烈反击：绕过付费墙扩展BPC及其3879个复刻均被DMCA投诉删除](https://m.cnbeta.com.tw/view/1443013.htm)|
+||[英伟达与联发科合作生产支持G-SYNC完整功能的显示器 不需要英伟达专有模块](https://m.cnbeta.com.tw/view/1443012.htm)|
+||[南开校友张一鸣、梁汝波共同捐赠2亿元 用于数学研究和人才培养](https://m.cnbeta.com.tw/view/1443011.htm)|
+||[沃尔玛清仓京东“筹钱”37.4亿美元 但双方合作预计不受影响](https://m.cnbeta.com.tw/view/1443010.htm)|
+||[台积电举办德国工厂奠基仪式 朔尔茨、冯德莱恩出席](https://m.cnbeta.com.tw/view/1443009.htm)|
+||[深蓝SL03行驶中戳破底盘起火 深蓝CEO回应：两颗电芯着火 后面自己灭了](https://m.cnbeta.com.tw/view/1443008.htm)|
+||[最新研究：诺和诺德司美格鲁肽与自杀倾向关联](https://m.cnbeta.com.tw/view/1443005.htm)|
+||[欧盟计划对从中国进口特斯拉汽车加征9%关税](https://m.cnbeta.com.tw/view/1443004.htm)|
+||[Waymo：自动驾驶出租车付费服务每周突破10万次](https://m.cnbeta.com.tw/view/1443003.htm)|
+||[Meta部署新网络爬虫机器人 为其AI模型收集大量数据](https://m.cnbeta.com.tw/view/1443000.htm)|
+||[疯狂的英伟达 八天涨出一个特斯拉](https://m.cnbeta.com.tw/view/1442999.htm)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[妩媚佳人杨晨晨前凸后翘搔首弄姿诱人](https://www.mmlsl.com/xgmn/2916.html)|
+||[妩媚狐妖妲己软糯巨乳娇喘中露出](https://www.mmlsl.com/xgmn/2915.html)|
+||[无以纯比的日本大美女伊藤えみ](https://www.mmlsl.com/xgmn/2914.html)|
+||[无限诱惑的床上巨乳美女杉原杏璃](https://www.mmlsl.com/xgmn/2913.html)|
+|[少数派](https://sspai.com/feed)|[基于「在途时间」作旅行规划，这是我的方法和工具](https://sspai.com/post/91147)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Suicide Guy Deluxe Plus Windows、macOS、Linux ](https://free.apprcn.com/get-steam-game-suicide-guy-deluxe-plus-for-free-3/)|
+||[免费获取字体包 Modern Font Bundle Windows、macOS $516→0 ](https://free.apprcn.com/get-modern-font-bundle-for-free/)|
+||[免费获取 Steam 游戏 Crown Champion: Legends of the Arena Windows ](https://free.apprcn.com/get-steam-game-crown-champion-legends-of-the-arena-for-free/)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[【干货分享】一文解析 openKylin KARE 生态兼容方案](https://www.oschina.net/news/308086)|
+||[阿里通义千问启用新域名“tongyi.ai”](https://www.oschina.net/news/308083)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[170k Chinese review, what a market](https://www.reddit.com/r/BlackMythWukong/comments/1exic4a/170k_chinese_review_what_a_market/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[人形机器人到底在工厂里做什么？优必选给出了回答](https://www.jiqizhixin.com/articles/2024-08-21)|
+|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Zerotier配置内网流量转发](https://jasonkayzk.github.io/2024/08/21/Zerotier%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8F%91/)|
+||[关于说话艺术的资源](https://jasonkayzk.github.io/2024/08/21/%E5%85%B3%E4%BA%8E%E8%AF%B4%E8%AF%9D%E8%89%BA%E6%9C%AF%E7%9A%84%E8%B5%84%E6%BA%90/)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[乌尔善：以新技术探索中国电影工业化之路](http://zhuanlan.zhihu.com/p/715661517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[爱范儿](https://www.ifanr.com/feed)|[华为 ADS3.0 智驾体验：「端到端」是新的技术墙](https://www.ifanr.com/1596306?utm_source=rss&utm_medium=rss&utm_campaign=)|
 ||[早报 《黑悟空》销售额超 15 亿，在线人数超两百万/李想被「AI 云诊」患癌，理想汽车：已报警/苹果首款印度制造 Pro 机型于今年推出](https://www.ifanr.com/1596731?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[丰田网络后台遭黑客入侵 大量数据被泄露](https://www.4hou.com/posts/W1Lg)|
