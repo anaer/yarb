@@ -2,6 +2,52 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[适度游戏有益身心健康](https://www.solidot.org/story?sid=79037)|
+||[GIMP 3.0 接近发布](https://www.solidot.org/story?sid=79036)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[拿去吧，奋斗一年的开源项目](https://w2solo.com/topics/4943)|
+||[退役程序员第一个程序 - 血糖记录助手，记录每日的血糖变化情况小程序【微信小程序已上线】](https://w2solo.com/topics/4942)|
+|[爱范儿](https://www.ifanr.com/feed)|[iPhone 16 Pro 最大的更新，背后是苹果设计哲学的摇摆](https://www.ifanr.com/1596809?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[内含大量保密数据的 iPhone 原型机流入二手市场，旧手机怎么处理才安全 附教程](https://www.ifanr.com/1596275?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[极客公园](http://feeds.geekpark.net/)|[被误解的「95 后」，在「大厂」发光](http://www.geekpark.net/news/339518)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在electron中请求管理员权限，然后执行一段js代码呢？](https://segmentfault.com/q/1010000045195623)|
+||[buildozer在linux上怎么打包python代码为apk？](https://segmentfault.com/q/1010000045195455)|
+||[Element UI el-menu 跳转错误：路径变为 /message/detail/index 如何解决？](https://segmentfault.com/q/1010000045195414)|
+||[C++中未初始化指针调用成员函数为何未报错反而执行了？](https://segmentfault.com/q/1010000045195266)|
+|[蓝点网](https://www.landiannews.com/feed)|[Windows 11将支持摄像头多串流功能 即允许多个软件同时调用摄像头](https://www.landiannews.com/archives/105543.html)|
+||[谷歌因未经用户同意同步Chrome数据面临集体诉讼 诉讼称谷歌故意且非法](https://www.landiannews.com/archives/105541.html)|
+||[百度百科已屏蔽谷歌/必应等大多数搜索引擎 估计也是怕内容被拿去训练AI？](https://www.landiannews.com/archives/105546.html)|
+||[ 更新 金山WPS云文档再次崩溃无法正常使用 并且400客服电话竟然是关机的](https://www.landiannews.com/archives/105547.html)|
+||[苹果宣布在多个国家/地区延长AppleCare+注册时间至45天 国内仍然为30天](https://www.landiannews.com/archives/105540.html)|
+||[版权联盟强烈反击：绕过付费墙扩展BPC及其3879个复刻均被DMCA投诉删除](https://www.landiannews.com/archives/105526.html)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[区块链分析公司 Chainalysis 发布报告分析勒索软件支付趋势](https://www.anquanke.com/post/id/299336)|
+||[AWS CloudTrail在检测潜在安全威胁中的应用及最佳实践](https://www.anquanke.com/post/id/299333)|
+||[针对 Android 和 iPhone 用户的新网络钓鱼方法](https://www.anquanke.com/post/id/299341)|
+||[博通赛门铁克的研究人员发现了一个名为 Msupedge 的以前未被发现的后门](https://www.anquanke.com/post/id/299344)|
+||[报告发现，四分之三的公司保留了越来越多的敏感数据](https://www.anquanke.com/post/id/299347)|
+||[微软的托管 Azure Kubernetes Service（AKS）存在严重的特权升级漏洞](https://www.anquanke.com/post/id/299350)|
+||[黑客利用PHP漏洞部署隐蔽的Msupedge后门](https://www.anquanke.com/post/id/299353)|
+||[Oracle NetSuite 配置漏洞可能导致数据泄露](https://www.anquanke.com/post/id/299357)|
+||[“源”聚创新力量，“洞”见安全未来：360漏洞云亮相GOGC，共促开源漏洞安全发展](https://www.anquanke.com/post/id/299360)|
+||[捷克移动用户成为新银行凭证盗窃计划的目标](https://www.anquanke.com/post/id/299355)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Stellar File Eraser - 数据文件安全删除工具 Windows $29.99→0 ](https://free.apprcn.com/stellar-file-eraser/)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[平煤股份：2024年下半年业绩？](http://xueqiu.com/6014436876/301711577)|
+||[我为《查理·芒格的智慧》写的导读](http://xueqiu.com/9598793634/301760894)|
+||[或许游戏动漫才是最适配的新质生产力](http://xueqiu.com/7664781887/301778493)|
+||[啤酒卖不动了？](http://xueqiu.com/4164170693/301722541)|
+||[上市公司｜韦尔股份半年报季的心路历程](http://xueqiu.com/3199838879/301718114)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[AI 与大模型如何助力金融研发效能最大化？](https://www.infoq.cn/article/400hg9QcIGebLvg0BdbV)|
+||[2024 FCon全球金融科技大会精彩回顾，汇集前沿视野与落地实践｜附PPT下载](https://www.infoq.cn/article/e2wELuusIV51kgdpSyRr)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Brand Finance 2024年全球最具价值科技品牌榜单报告出炉](https://m.cnbeta.com.tw/view/1443047.htm)|
+||[网信办、工信部在北京、上海等8城开展IPv6流量提升专项行动](https://m.cnbeta.com.tw/view/1443046.htm)|
+||[“祥云”AS700载人飞艇完成首次长途转场飞行](https://m.cnbeta.com.tw/view/1443044.htm)|
+||[特斯拉上海储能工厂官宣 一块电池可供3600家使用一小时](https://m.cnbeta.com.tw/view/1443043.htm)|
+||[WPS官方：服务已恢复 全体用户可免费领取15天会员](https://m.cnbeta.com.tw/view/1443042.htm)|
+||[长城汽车起诉自媒体一审败诉 法院：知名企业面对非恶意批评应承担容忍义务](https://m.cnbeta.com.tw/view/1443038.htm)|
+||[特斯拉Powerwall生产创下新纪录 一个班次产量超500台](https://m.cnbeta.com.tw/view/1443035.htm)|
+||[京东回应沃尔玛出售股权：对未来双方的合作充满信心](https://m.cnbeta.com.tw/view/1443034.htm)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[全网刷屏的《黑神话：悟空》，在 deepin 23 上玩是一种什么体验？](https://www.oschina.net/news/308098)|
+||[金山文档“崩了”，WPS 共享文档无法打开](https://www.oschina.net/news/308096)|
+||[2GB Raspberry Pi 5 现售价 50 美元](https://www.oschina.net/news/308093/2gb-raspberry-pi-5)|
 |[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[亲戚一家五口旅游要求接待，如何拒绝才不会得罪人？](https://www.zhihu.com/question/507346363)|
 ||[什么样的人算是中了基因彩票？](https://www.zhihu.com/question/641999434)|
 ||[如何评价《黑神话：悟空》序章部分的设计？](https://www.zhihu.com/question/664792308)|
