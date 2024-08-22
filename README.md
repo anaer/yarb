@@ -2,6 +2,16 @@
 
 |来源|标题|
 |---|---|
+|[反斗限免](https://free.apprcn.com/feed/)|[DearMob iPhone Manager – iOS 设备管理工具 Windows、macOS $79.95→0 ](https://free.apprcn.com/dearmob-iphone-manager-43/)|
+||[One Swipe Notes - 浮动笔记 Android $0.99→0 ](https://free.apprcn.com/one-swipe-notes-2/)|
+||[DoYourData NTFS for Mac - NTFS 格式磁盘读写工具 macOS ](https://free.apprcn.com/doyourdata-ntfs-for-mac-2/)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软宣布10月份重新带来回顾 Recall 此前该功能因为严重隐私问题被暂停](https://www.landiannews.com/archives/105563.html)|
+||[AMD即日起推送ZEN 5处理器性能补丁 修复不使用Administrator账户性能下降](https://www.landiannews.com/archives/105549.html)|
+||[微软效仿谷歌将在Microsoft Edge浏览器集成本地AI模型用来离线处理数据](https://www.landiannews.com/archives/105542.html)|
+||[微软最终确认很快将淘汰Windows 11控制面板 用户应善用搜索和设置应用](https://www.landiannews.com/archives/105545.html)|
+||[德国金融监管机构扣押13台加密货币ATM机 称法币兑换业务仅限于银行](https://www.landiannews.com/archives/105544.html)|
+||[游科发布提醒称《黑神话：悟空》在英特尔第13/14代处理器上可能出现崩溃](https://www.landiannews.com/archives/105548.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[行业首发，私域部署，高效执法！Qiko大模型智能本，打造您的专属业务大模型](https://www.4hou.com/posts/5M7R)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 生活 经营贷买房的今年是不是要💣？](https://www.v2ex.com/t/1066878#reply11)|
 ||[ 程序员 想写一个排课功能，请教大佬们](https://www.v2ex.com/t/1066877#reply20)|
 ||[ 程序员 咖啡真是好东西](https://www.v2ex.com/t/1066873#reply58)|
