@@ -2,6 +2,60 @@
 
 |来源|标题|
 |---|---|
+|[反斗限免](https://free.apprcn.com/feed/)|[Pack This - 旅行包装清单 iOS、Apple Watch 内购限免 ](https://free.apprcn.com/pack-this/)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iCloud 雲端最受歡迎？更願意為 iPad 加保 Apple Care+ ？](https://applefans.today/2024-08-icloud-storage-remains-apples-most/)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[睡前喝水，是不是对肾不好？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E5%AF%B9%E8%82%BE%E4%B8%8D%E5%A5%BD%EF%BC%9F)|
+||[脂肪肝可以逆转吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%84%82%E8%82%AA%E8%82%9D%E5%8F%AF%E4%BB%A5%E9%80%86%E8%BD%AC%E5%90%97%EF%BC%9F)|
+||[性跟肾没有直接关系，真正伤肾的是这 4 件事](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%80%A7%E8%B7%9F%E8%82%BE%E6%B2%A1%E6%9C%89%E7%9B%B4%E6%8E%A5%E5%85%B3%E7%B3%BB%EF%BC%8C%E7%9C%9F%E6%AD%A3%E4%BC%A4%E8%82%BE%E7%9A%84%E6%98%AF%E8%BF%99%204%20%E4%BB%B6%E4%BA%8B)|
+||[睡觉流口水正常吗？有几种情况是身体在报警](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9D%A1%E8%A7%89%E6%B5%81%E5%8F%A3%E6%B0%B4%E6%AD%A3%E5%B8%B8%E5%90%97%EF%BC%9F%E6%9C%89%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%8A%A5%E8%AD%A6)|
+||[卫生巾竟然有医用的？真无菌还超能吸，太绝了！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%AB%9F%E7%84%B6%E6%9C%89%E5%8C%BB%E7%94%A8%E7%9A%84%EF%BC%9F%E7%9C%9F%E6%97%A0%E8%8F%8C%E8%BF%98%E8%B6%85%E8%83%BD%E5%90%B8%EF%BC%8C%E5%A4%AA%E7%BB%9D%E4%BA%86%EF%BC%81)|
+|[IT之家](https://www.ithome.com/rss/)|[买 PS5 的理由 + 1：Nature 子刊称游戏机只买不玩都能改善心理健康](https://www.ithome.com/0/790/401.htm)|
+||[要知 App 订阅源更新：增国际新闻、军事新闻、游戏热点榜……](https://www.ithome.com/0/790/399.htm)|
+||[国产黑暗武侠游戏《影之刃零》2024 科隆游戏展 Demo 实机演示视频公开](https://www.ithome.com/0/790/398.htm)|
+||[万代音乐游戏《太鼓之达人》Switch 国行版发售，199 元](https://www.ithome.com/0/790/397.htm)|
+||[摩托罗拉 Moto G55 5G 手机宣传材料曝光：5000 万主摄、5000mAh 电池](https://www.ithome.com/0/790/396.htm)|
+||[华硕 ROG：用户反馈部分型号笔记本出现摄像头功能异常，是系统版本导致](https://www.ithome.com/0/790/395.htm)|
+||[南航、国航本月 28 日将同时接收首架 C919 国产大飞机](https://www.ithome.com/0/790/394.htm)|
+||[传音 Infinix Zero 40 5G 手机真机照曝光：6.78 英寸、1.08 亿主摄、天玑 8200 Ultimate 芯片](https://www.ithome.com/0/790/393.htm)|
+||[外星人 26.5 英寸 AW2725QF 双模电竞显示器开售：4K 180Hz / 1080P 360Hz，5999 元](https://www.ithome.com/0/790/391.htm)|
+||[上汽通用五菱周钘：宝骏旗舰轿车“云光”将会更名](https://www.ithome.com/0/790/389.htm)|
+||[苹果 iCloud 部分地区再度涨价：土耳其区自 12.99 涨至 24.99 里拉逼近国区](https://www.ithome.com/0/790/388.htm)|
+||[盒马鲜生回应重启前置仓：消息属实，但不是搞新模式](https://www.ithome.com/0/790/387.htm)|
+||[消费者投诉特斯拉欺诈、诱导下单：1.4 万购车补贴无法兑现](https://www.ithome.com/0/790/386.htm)|
+||[2025 款摩托罗拉 Moto G Power 5G 手机渲染图曝光，升级三摄方案](https://www.ithome.com/0/790/385.htm)|
+||[《饿狼传说 City of the Wolves》游戏明年 4 月发行，不知火舞换上黑色皮衣](https://www.ithome.com/0/790/384.htm)|
+||[小米 100W GaN 笔记本适配器套装发布：USB-C 单口、恒功率输出，199 元](https://www.ithome.com/0/790/383.htm)|
+||[宁波补贴全国购：小米 13 Ultra 手机 512G 版 4087 元京东新低赠耳机](https://www.ithome.com/0/790/382.htm)|
+||[世界最快显微镜问世，首次观察到电子运动](https://www.ithome.com/0/790/380.htm)|
+||[AMD 800 系主板中低阶型号 B850、B840 有望明年推出](https://www.ithome.com/0/790/379.htm)|
+||[中国信通院：2024 年 Q2 我国上市互联网企业总市值 9.95 万亿元，环比上涨 5.9%](https://www.ithome.com/0/790/378.htm)|
+||[五菱星光 S 车型 8 月 28 日上市：插混 / 纯电可选，预售 10.28 万元起](https://www.ithome.com/0/790/377.htm)|
+||[国内油价今晚不作调整：今年第四次搁浅，累计“七涨六跌四搁浅”](https://www.ithome.com/0/790/374.htm)|
+||[历时 5 年技术攻关，我国成功研制首座超临界二氧化碳光热发电机组](https://www.ithome.com/0/790/373.htm)|
+||[小米米家智能晾衣机 1C 发布：35kg 承重、22W 照明灯，799 元](https://www.ithome.com/0/790/372.htm)|
+||[极氪 CEO 安聪慧：全新猎装车型基于 007 架构打造，明年上市](https://www.ithome.com/0/790/371.htm)|
+||[阿维塔宣布将登陆卡塔尔市场，与当地汽车集团 AL ATTIYA 完成签约](https://www.ithome.com/0/790/369.htm)|
+||[世嘉、万代南梦宫游戏《海贼王 赏金猎人》上架 Steam，年内发售](https://www.ithome.com/0/790/368.htm)|
+||[斯宾塞回应新 Xbox 独占游戏《夺宝奇兵：古老之圈》明年登陆索尼 PS5 主机](https://www.ithome.com/0/790/367.htm)|
+||[Meta Quest 2 头显已支持多模态输入，可同时追踪双手和 Touch 控制器](https://www.ithome.com/0/790/366.htm)|
+|[36氪](http://36kr.com/feed)|[深度对话｜服务商扬趣总裁Alex：增长破局，要做好这“三类题”](https://36kr.com/p/2917025375574920?f=rss)|
+||[高奢酒店也做不下去了？](https://36kr.com/p/2917005901224837?f=rss)|
+||[长亭科技朱文雷：收购又分拆，再次独立后，我拒绝躺平 36氪专访](https://36kr.com/p/2916710391306889?f=rss)|
+||[回购潮下，谁能站在创业者这一边？](https://36kr.com/p/2916906496203399?f=rss)|
+||[北上广深，谁能造出低空经济的「比亚迪」？｜氪金 · 硬科技](https://36kr.com/p/2916791565621889?f=rss)|
+|[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[supernote，要懂它，就是一个笔记本，在任何时候（上）](https://sspai.com/post/91364)|
+||[记录一下全职做独立开发者半年，差一点被诈骗的经历](https://sspai.com/post/91682)|
+||[从一见钟情到同行万里。这辆车，我选对了吗？](https://sspai.com/post/91668)|
+|[极客公园](http://feeds.geekpark.net/)|[欧盟披露对华电动车反补贴税草案；小米汽车二季度收入同比增长32%；高盛预测《黑神话：悟空》收入可达30亿元](http://www.geekpark.net/news/339531)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 没玩过魂类游戏，但是忠实游戏玩家，该入手黑悟空吗？](https://www.v2ex.com/t/1066998#reply11)|
+||[ 问与答 大城市有啥八小时的体力劳动能做吗](https://www.v2ex.com/t/1066988#reply15)|
+||[ 问与答 一个小城市的地方平台如何推广？](https://www.v2ex.com/t/1066987#reply11)|
+||[ 问与答 结婚 30 来岁结婚之后多久一次夫妻生活是正常的](https://www.v2ex.com/t/1066981#reply51)|
+||[ 问与答 如何在外 ipv4 环境 访问只有 ipv6 的 nas](https://www.v2ex.com/t/1066978#reply14)|
+|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[Shire 0.5 发布：构建数据安全 RAG，充分整合研发资产](http://www.phodal.com/blog/shire-0.5-secure-rag-and-shireql/)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[Windows 10 优于 Windows 11 的 10 个原因](https://www.oschina.net/news/308294/windows-10-better-than-windows-11)|
+||[deepin 23丨如意玲珑正式集成至 deepin 23，生态适配超千款](https://www.oschina.net/news/308283)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[刚揭晓的 2024 雨果奖有种“纠偏”的味道，但中国元素仍然非常抢眼](http://www.toodaylab.com/83002)|
 |[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[妩媚丽人尤妮丝白嫩美乳惊爆眼球](https://www.mmlsl.com/xgmn/2920.html)|
 ||[妩媚美女陈思琪性感美胸催人狂](https://www.mmlsl.com/xgmn/2919.html)|
 ||[妩媚马青莉娅娇艳如花湿身诱惑](https://www.mmlsl.com/xgmn/2918.html)|
