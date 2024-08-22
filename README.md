@@ -2,6 +2,55 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 我感觉计算机类的同学好像都不太会谈恋爱](https://www.v2ex.com/t/1066930#reply46)|
+||[ iPhone 没想到骚扰电话居然是 2024 年让我用不下去 iPhone 的最大原因](https://www.v2ex.com/t/1066927#reply17)|
+||[ 游戏 大家用的啥手柄玩 PC 黑神话：悟空？手感怎么样？](https://www.v2ex.com/t/1066919#reply19)|
+||[ 分享创造 浪费你 2s 时间，看看这个网站，点评一下](https://www.v2ex.com/t/1066916#reply11)|
+||[ 汽车 兄弟们，出了事故无论大小一定要现场报警处理，不要相信任何人。](https://www.v2ex.com/t/1066910#reply20)|
+||[ Windows Tiny11 安装完之后空间并没有小很多？换 LTSC？](https://www.v2ex.com/t/1066906#reply18)|
+||[ 生活 为什么我一玩游戏女朋友就跟我生气?](https://www.v2ex.com/t/1066904#reply90)|
+||[ 问与答 上海这边高中老师让买这个英语电子辞典，有用过的吗，好用吗？](https://www.v2ex.com/t/1066901#reply23)|
+||[ 问与答 陆陆续续给朋友借了几十万, 只有转账记录, 怎么能快速的把钱要回来](https://www.v2ex.com/t/1066896#reply24)|
+||[ 程序员 有没有人等着毕业的？](https://www.v2ex.com/t/1066894#reply20)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[微软“砍刀部”出手 —— 「Windows 控制面板」将被淘汰](https://www.oschina.net/news/308281/ms-confirms-its-killing-windows-control-panel)|
+||[PieCloudDB Database 社区版全新改版：一键启动，轻松体验数仓虚拟化技术](https://www.oschina.net/news/308270)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[为逃避赡养子女义务，美国一男子黑进系统让自己”去世“](https://www.freebuf.com/news/409196.html)|
+||[Litespeed 曝出高速缓存漏洞，数百万 WordPress 网站面临安全威胁](https://www.freebuf.com/news/409193.html)|
+|[36氪](http://36kr.com/feed)|[这个夏天，可乐在中国不好卖了？ 氪金 · 大消费](https://36kr.com/p/2916574411529091?f=rss)|
+||[2024世界机器人大会在京开幕](https://36kr.com/p/2916737573952129?f=rss)|
+||[武汉一知名项目直降近万元，被质疑“恶意降价”，新房市场陷入“价格战”？](https://36kr.com/p/2916752394934913?f=rss)|
+||[小米汽车毛利率15.4%，超过特斯拉，总裁卢伟冰总结三大原因](https://36kr.com/p/2915734119603081?f=rss)|
+||[最前线｜阿维塔将于年内发布多款增程车型，进一步降低购车门槛](https://36kr.com/p/2916703897656196?f=rss)|
+||[急需赚钱的医疗大模型，还没找到杀手级应用｜焦点分析](https://36kr.com/p/2916727102691973?f=rss)|
+||[在机器人最全的展会上，我却有点不相信机器“人”了丨焦点分析](https://36kr.com/p/2916650996193928?f=rss)|
+||[进入Apple国内线下渠道，「Cleer」定义开放式AI智能耳机 早期项目](https://36kr.com/p/2916119499447175?f=rss)|
+||[27款人形机器人齐聚「2024WRC」，既能写毛笔、干家务，还可以做搬运和质检｜最前线](https://36kr.com/p/2916001413700230?f=rss)|
+||[8点1氪｜华强北商家推出《黑神话：悟空》定制主机；12306推出两项学生购票新功能 ；韩国大白菜涨价至37元一颗](https://36kr.com/p/2916573288340100?f=rss)|
+||[我国科学家发布月壤研究新发现，1吨月壤有望生产超50千克水](https://36kr.com/newsflashes/2916792028289667?f=rss)|
+||[玄铁处理器新品R908亮相RISC-V中国峰会，将面向高端工控和车载场景](https://36kr.com/newsflashes/2916808451611268?f=rss)|
+||[恒指午间休盘涨0.4%，小米集团涨超8%](https://36kr.com/newsflashes/2916801084168835?f=rss)|
+||[科大讯飞在浙江成立讯医科技公司](https://36kr.com/newsflashes/2916768488036993?f=rss)|
+||[半日主力资金加仓银行、电力设备股，抛售电子股](https://36kr.com/newsflashes/2916779706407557?f=rss)|
+||[A股三大指数午间休盘集体下跌，四大行股价续创历史新高](https://36kr.com/newsflashes/2916770693913479?f=rss)|
+||[文远知行回应推迟纳斯达克IPO：更新交易文件所需时间比预期的要长](https://36kr.com/newsflashes/2916753291565705?f=rss)|
+||[券商股震荡走低，锦龙股份一度跳水逼近跌停](https://36kr.com/newsflashes/2916740797241986?f=rss)|
+||[美航天局将开展两项审查以决定滞留宇航员返航安排](https://36kr.com/newsflashes/2916734452702083?f=rss)|
+||[现货黄金下破2500.00美元/盎司关口，日内跌0.49%](https://36kr.com/newsflashes/2916734609267337?f=rss)|
+||[人民币连续9个月位居全球第四大支付货币，占比升至4.74%](https://36kr.com/newsflashes/2916723150707587?f=rss)|
+||[雷军回应小米汽车单车亏损超6万：还在投入期，造车很苦](https://36kr.com/newsflashes/2916728721824391?f=rss)|
+||[监管部门进一步规范互联网保险业务，严厉打击机构和人员无资质“挂靠”行为](https://36kr.com/newsflashes/2916726550092419?f=rss)|
+||[“原启生物”宣布GPRC5D CAR-T获FDA 授予快速通道资格认定](https://36kr.com/newsflashes/2916723485514632?f=rss)|
+||[创新能量器械平台公司“迈微医疗”完成近亿元A轮融资](https://36kr.com/newsflashes/2916720898644615?f=rss)|
+||[房地产板块快速拉升，中交地产涨停](https://36kr.com/newsflashes/2916720293632646?f=rss)|
+||[商业航天板块震荡反弹，探路者、航天晨光触及涨停](https://36kr.com/newsflashes/2916717566499721?f=rss)|
+||[刘光耀辞去伯喜服饰董事长职务](https://36kr.com/newsflashes/2916714736278153?f=rss)|
+||[人类首次商业太空行走预计将于8月26日拉开帷幕](https://36kr.com/newsflashes/2916705400920965?f=rss)|
+||[中证协拟要求对IPO网下报价的客观性、审慎性进行回溯验证](https://36kr.com/newsflashes/2916702215969672?f=rss)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Project First Contact Windows ](https://free.apprcn.com/get-steam-game-project-first-contact-for-free-2/)|
+|[蓝点网](https://www.landiannews.com/feed)|[谷歌推出Chrome v128.0.6613.84/.85紧急安全更新修复已被黑客利用的漏洞](https://www.landiannews.com/archives/105565.html)|
+||[iOS又出现神秘代码：输入 “”:: 会导致崩溃 不过这并不是安全问题](https://www.landiannews.com/archives/105564.html)|
+|[煎蛋](http://jandan.net/feed)|[当今世界最长寿的人本周在睡梦中去世，享年117岁](http://jandan.net/p/117537)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[分享一个酒店协议代码（hotel corporate codes）大全的网站](https://w2solo.com/topics/4945)|
 |[反斗限免](https://free.apprcn.com/feed/)|[DearMob iPhone Manager – iOS 设备管理工具 Windows、macOS $79.95→0 ](https://free.apprcn.com/dearmob-iphone-manager-43/)|
 ||[One Swipe Notes - 浮动笔记 Android $0.99→0 ](https://free.apprcn.com/one-swipe-notes-2/)|
 ||[DoYourData NTFS for Mac - NTFS 格式磁盘读写工具 macOS ](https://free.apprcn.com/doyourdata-ntfs-for-mac-2/)|
