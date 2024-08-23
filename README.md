@@ -2,6 +2,47 @@
 
 |来源|标题|
 |---|---|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774842)|
+||[核聚变的主要难点之一为什么是材料？](https://daily.zhihu.com/story/9774820)|
+||[在进化史上有没有特别有趣或者奇葩的进化？](https://daily.zhihu.com/story/9774830)|
+||[曾有国家试图培养猫猫做「间谍」，除此外猫猫还在哪些领域有过尝试？](https://daily.zhihu.com/story/9774814)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[b站都要做“电台”频道了……](https://m.okjike.com/originalPosts/66c7fdc259d1a984c663d407)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Bear Warrior Windows ](https://free.apprcn.com/get-steam-game-bear-warrior-for-free/)|
+||[免费获取 Steam 游戏 Volcanic Blocks Windows、macOS、Linux ](https://free.apprcn.com/get-steam-game-volcanic-blocks-for-free/)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[行业探讨｜制造业里有没有好公司？](http://xueqiu.com/3199838879/302038119)|
+||[兴业银行2024年中报点评：只可远观不能细看](http://xueqiu.com/8534614057/302052642)|
+||[警惕追高的投资建议](http://xueqiu.com/1340904670/302114198)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[AMD B850、B840主流主板明年上市 不支持USB4](https://m.cnbeta.com.tw/view/1443259.htm)|
+||[360儿童手表“已读乱回” 周鸿祎致歉后仍面临大模型安全挑战](https://m.cnbeta.com.tw/view/1443257.htm)|
+||[中国商务部讨论提高大排量燃油车进口关税的意见建议](https://m.cnbeta.com.tw/view/1443254.htm)|
+||[半导体资深人士陈立武退出Intel董事会](https://m.cnbeta.com.tw/view/1443252.htm)|
+||[中国国航首架C919变装全程影像 国产大飞机首次披上五星红旗](https://m.cnbeta.com.tw/view/1443251.htm)|
+||[2024年上半年中国半导体产业投资额5173亿元 同比骤降37.5%](https://m.cnbeta.com.tw/view/1443249.htm)|
+||[Intel下下代至强Diamond Rapids又换接口了 9324个针脚你没有看错](https://m.cnbeta.com.tw/view/1443248.htm)|
+||[特斯拉Semi电动卡车发生事故引发大火 监管机构介入调查](https://m.cnbeta.com.tw/view/1443246.htm)|
+||[通用汽车Cruise召回近1200辆自动驾驶出租车 为结束在美调查](https://m.cnbeta.com.tw/view/1443244.htm)|
+||[亚马逊收购芯片制造商和AI模型压缩公司Perceive](https://m.cnbeta.com.tw/view/1443243.htm)|
+||[中国这个地方，要禁止卖燃油车了](https://m.cnbeta.com.tw/view/1443242.htm)|
+||[从百度收入下滑看AI变现：人工智能的钱为何不好赚？](https://m.cnbeta.com.tw/view/1443241.htm)|
+||[比亚迪超越本田和日产 跻身全球第七大车企](https://m.cnbeta.com.tw/view/1443240.htm)|
+||[国产最大无人运输机成功首飞：最大商载3200公斤 航程2200公里](https://m.cnbeta.com.tw/view/1443238.htm)|
+||[Windows控制面板将淘汰 39年历史回顾](https://m.cnbeta.com.tw/view/1443236.htm)|
+||[中国联通开通首个海上采油平台5.5G站点](https://m.cnbeta.com.tw/view/1443235.htm)|
+||[《黑神话：悟空》超241万人同时在玩 游戏爆火引中国家长担心](https://m.cnbeta.com.tw/view/1443233.htm)|
+||[三星降频版Exynos 2400e处理器现身跑分网站](https://m.cnbeta.com.tw/view/1443232.htm)|
+||[贝佐斯5.7亿买下第四架私人飞机 马斯克也看上了](https://m.cnbeta.com.tw/view/1443230.htm)|
+||[阿里巴巴：自愿转换为于香港联交所双重主要上市 8月28日生效](https://m.cnbeta.com.tw/view/1443229.htm)|
+||[营收净利双降 百度的“焦虑”又来了](https://m.cnbeta.com.tw/view/1443228.htm)|
+||[测试发现Pixel 9 Pro XL的Tensor G4处理器在运行游戏时比G2表现还差](https://m.cnbeta.com.tw/view/1443227.htm)|
+||[英特尔计划用Arc Battlemage"Xe2"向游戏GPU市场发起第二次冲击](https://m.cnbeta.com.tw/view/1443226.htm)|
+||[特朗普家族正在推出一个加密货币平台 而我们却不知道它是做什么的](https://m.cnbeta.com.tw/view/1443225.htm)|
+||[华盛顿哥伦比亚特区对亚马逊的反垄断诉讼起死回生](https://m.cnbeta.com.tw/view/1443224.htm)|
+|[CHEGVA](https://chegva.com/feed/)|[Docker 启动失败 no such device storage-driver=overlay2](https://chegva.com/6188.html)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[n.eko – 跑在 Docker 里的多合一浏览器：Firefox、Chrome、Edge、vivaldi、VLC](https://www.appinn.com/n-eko/)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[华为开发者联盟生态市场上线原生鸿蒙样板间专区，推动金融、新闻行业加速鸿蒙化](https://www.infoq.cn/article/K7Obi274QQ1JefRxeHAQ)|
+||[跟着小扎不白干，9 个月“出师”：用学到的 10 条经验搞出 AI 界“带货王”，年入 1 亿美元](https://www.infoq.cn/article/s8bfk2wlAdJJODyViD0c)|
+||[携手攀登安全“芯”高地！2024紫光同芯合作伙伴大会安全芯片创新应用论坛圆满落幕](https://www.infoq.cn/article/OyhqIHriWz00fr7k3xcH)|
+||[科大讯飞做大模型：功能不需样样顶尖，先打造业务需要的能力](https://www.infoq.cn/article/xLgQzB1Wc1OSYZCXe8c7)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[尿频尿急尿不尽……尿路感染怎么办？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B0%BF%E9%A2%91%E5%B0%BF%E6%80%A5%E5%B0%BF%E4%B8%8D%E5%B0%BD%E2%80%A6%E2%80%A6%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)|
 ||[这个常见的问题，备孕路上不能忽视](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%99%E4%B8%AA%E5%B8%B8%E8%A7%81%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%A4%87%E5%AD%95%E8%B7%AF%E4%B8%8A%E4%B8%8D%E8%83%BD%E5%BF%BD%E8%A7%86)|
 ||[注意！这种维生素 83% 的人都没吃够，可能引起疲劳、易怒、皮肤差！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%B3%A8%E6%84%8F%EF%BC%81%E8%BF%99%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%2083%25%20%E7%9A%84%E4%BA%BA%E9%83%BD%E6%B2%A1%E5%90%83%E5%A4%9F%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%BC%95%E8%B5%B7%E7%96%B2%E5%8A%B3%E3%80%81%E6%98%93%E6%80%92%E3%80%81%E7%9A%AE%E8%82%A4%E5%B7%AE%EF%BC%81)|
