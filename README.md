@@ -2,6 +2,63 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[狮门影业因捏造影评撤下《大都市》预告](https://www.solidot.org/story?sid=79055)|
+||[也门军火商在 X 上出售军火](https://www.solidot.org/story?sid=79054)|
+||[微软计划淘汰 Windows 控制面板](https://www.solidot.org/story?sid=79053)|
+||[惠普新笔记本捆绑 Google 应用](https://www.solidot.org/story?sid=79052)|
+||[饮用水含氟量超过推荐限制两倍与儿童 IQ 低相关](https://www.solidot.org/story?sid=79051)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[妈呀这月饼也太绝了！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A6%88%E5%91%80%E8%BF%99%E6%9C%88%E9%A5%BC%E4%B9%9F%E5%A4%AA%E7%BB%9D%E4%BA%86%EF%BC%81)|
+||[吃起来越甜的水果，含糖就越多吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%83%E8%B5%B7%E6%9D%A5%E8%B6%8A%E7%94%9C%E7%9A%84%E6%B0%B4%E6%9E%9C%EF%BC%8C%E5%90%AB%E7%B3%96%E5%B0%B1%E8%B6%8A%E5%A4%9A%E5%90%97%EF%BC%9F)|
+||[长头发别只知道黑芝麻，盘点真的能拯救发量的 11 种方法！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%95%BF%E5%A4%B4%E5%8F%91%E5%88%AB%E5%8F%AA%E7%9F%A5%E9%81%93%E9%BB%91%E8%8A%9D%E9%BA%BB%EF%BC%8C%E7%9B%98%E7%82%B9%E7%9C%9F%E7%9A%84%E8%83%BD%E6%8B%AF%E6%95%91%E5%8F%91%E9%87%8F%E7%9A%84%2011%20%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%81)|
+||[一个拯救发量的小东西，越早用效果越好](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%B8%AA%E6%8B%AF%E6%95%91%E5%8F%91%E9%87%8F%E7%9A%84%E5%B0%8F%E4%B8%9C%E8%A5%BF%EF%BC%8C%E8%B6%8A%E6%97%A9%E7%94%A8%E6%95%88%E6%9E%9C%E8%B6%8A%E5%A5%BD)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[鸿海董事长回应印度iPhone制造良率低：与中国大陆制造没有差别](https://m.cnbeta.com.tw/view/1443270.htm)|
+||[滴滴专车携宠出行49城上线：加价3.9元-22.9元不等](https://m.cnbeta.com.tw/view/1443269.htm)|
+||[海力士、台积电、NVIDIA共同开发下一代HBM](https://m.cnbeta.com.tw/view/1443267.htm)|
+||[三星展示可向外拉伸25%的Micro LED显示屏](https://m.cnbeta.com.tw/view/1443265.htm)|
+||[配备3D V-Cache的AMD Ryzen 9000X3D将于明年1月的CES上亮相](https://m.cnbeta.com.tw/view/1443264.htm)|
+||[宝马7月欧洲电动汽车销量首次超过特斯拉](https://m.cnbeta.com.tw/view/1443263.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[前端 实现行转列，行数不确定，该怎么实现？](https://segmentfault.com/q/1010000045202475)|
+||[Vue中v-if切换时组件数据干扰问题？](https://segmentfault.com/q/1010000045202403)|
+||[android-x86_64 如何设置有线网卡 ？](https://segmentfault.com/q/1010000045202339)|
+||[VIM怎么用大扩号快速切换位置呢?](https://segmentfault.com/q/1010000045202191)|
+||[请问在VSCode 中如何才能查看到每个interface的定义的内容（包括继承过来的属性）？](https://segmentfault.com/q/1010000045202172)|
+||[如何在Echarts矩形树图中实现大小矩形交替分布的布局？](https://segmentfault.com/q/1010000045202005)|
+||[虚拟内存分段中堆的起始地址与偏移量计算问题？](https://segmentfault.com/q/1010000045201882)|
+||[编译 php 时，mbstring 模块编译错误，如何解决？](https://segmentfault.com/q/1010000045201812)|
+||[JSON.parse是否存在解析超大json字符串导致的拒绝服务DOS问题呢？](https://segmentfault.com/q/1010000045201641)|
+||[bmcweb的console如何设置成多路sol？？](https://segmentfault.com/q/1010000045201629)|
+||[如何实现类似窗口的UI组件，替代Element UI Dialog？](https://segmentfault.com/q/1010000045201399)|
+|[36氪](http://36kr.com/feed)|[多项核心业务高增长 科大讯飞上半年营收、毛利均增长19% 下半年继续推进提质增效](https://36kr.com/p/2918560426744450?f=rss)|
+||[研发智能粉刷机器人，「蔚建科技」完成超1亿元融资丨36氪首发](https://36kr.com/p/2918546156804742?f=rss)|
+||[阿里云携手优酷，用AI重塑影视IP创新边界 阿里云Create@AI江湖创作大赛](https://36kr.com/p/2918502643604359?f=rss)|
+||[最前线｜KubeCon China 2024在香港举办，中国成为全球第二大开源贡献国](https://36kr.com/p/2918452817287815?f=rss)|
+||[第十八届中国基金合伙人大会：LPGP聚智解码行业生态](https://36kr.com/p/2918399307684741?f=rss)|
+|[摄影世界](https://feedx.net/rss/photoworld.xml)|[IP 联名新玩法！索尼大头贴打卡机，定格你的乐趣瞬间](https://www.photoworld.com.cn/post/177373)|
+||[徕卡相机旗舰店入驻武汉 SKP-S](https://www.photoworld.com.cn/post/177383)|
+||[SmallRig 斯莫格一键全开液压三脚架套件获 BIRTV2024 推荐项目奖](https://www.photoworld.com.cn/post/177467)|
+||[SmallRig 斯莫格携影像场景全生态解决方案亮相 BIRTV2024｜一键全开三脚架套件国内首秀](https://www.photoworld.com.cn/post/177462)|
+||[佳能携 XR 虚拟制作系统等解决方案和专业影像设备亮相 BIRTV 2024](https://www.photoworld.com.cn/post/177440)|
+|[少数派](https://sspai.com/feed)|[用快捷指令和 Python，做一个极简的时间记录器](https://sspai.com/post/91260)|
+||[与 AI 共个创：无代码经验的我开发了一款图文卡片小工具](https://sspai.com/post/91443)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Wise Care 365 Pro – 系统清理优化软件 Windows $29.95→0 ](https://free.apprcn.com/wise-care-365-pro-105/)|
+||[WidsMob AI Retoucher - AI 照片增强工具 macOS ￥298→0 ](https://free.apprcn.com/widsmob-ai-retoucher/)|
+||[小象片 - 为照片加上拍立得相框 iPhone 内购限免 ](https://free.apprcn.com/elephotos/)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[抽3人送《黑神话：悟空》豪华版！](https://www.freebuf.com/fevents/409337.html)|
+||[官方强烈建议更新，关键漏洞影响GitHub Enterprise Server 所有版本](https://www.freebuf.com/news/409274.html)|
+||[NGate安卓恶意软件可利用 NFC 窃取 ATM 内资金](https://www.freebuf.com/news/409267.html)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[在线转换音频文件格式 https://www.aconvert.com/cn/audio/](https://m.okjike.com/originalPosts/66c82b8f5a349a06ed872759)|
+||[阿里盘搜，为您提供阿里云盘资源 https://www.alipanx.com](https://m.okjike.com/originalPosts/66c82b385a349a06ed871fce)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI在用 发现一个AI调色板，还真整出了「五彩斑斓的黑」](https://www.jiqizhixin.com/articles/2024-08-23-7)|
+||[AI首次解决量子物理学难题，DeepMind精确计算量子激发态，登Science](https://www.jiqizhixin.com/articles/2024-08-23-6)|
+||[一句话生成《黑神话：悟空》3D资产，胡渊鸣创业项目Meshy上新，免费试用](https://www.jiqizhixin.com/articles/2024-08-23-5)|
+||[终于，Claude上线LaTeX公式渲染功能，评论区网友沸腾了](https://www.jiqizhixin.com/articles/2024-08-23-4)|
+||[重返谷歌的Transformer作者，开始掌管Gemini AI](https://www.jiqizhixin.com/articles/2024-08-23-3)|
+||[总说具身智能的数据太贵，鹏城实验室开源百万规模标准化数据集](https://www.jiqizhixin.com/articles/2024-08-23-2)|
+||[如何让等变神经网络可解释性更强？试试将它分解成「简单表示」](https://www.jiqizhixin.com/articles/2024-08-23)|
+|[极客公园](http://feeds.geekpark.net/)|[国内首个端到端语音大模型——心辰Lingo 开放内测预约！](http://www.geekpark.net/news/339667)|
+||[卖一台 SU7 亏 6 万？小米汽车的账不是这么算的](http://www.geekpark.net/news/339652)|
+||[云鲸 J5 的「科学清洁」，让我看到了扫拖一体机器人的下一场变革](http://www.geekpark.net/news/339626)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[循万变·见未来——XCon2024安全焦点信息安全技术峰会在京成功举办](https://www.4hou.com/posts/kg2X)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774842)|
 ||[核聚变的主要难点之一为什么是材料？](https://daily.zhihu.com/story/9774820)|
 ||[在进化史上有没有特别有趣或者奇葩的进化？](https://daily.zhihu.com/story/9774830)|
