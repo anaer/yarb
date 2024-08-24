@@ -2,6 +2,18 @@
 
 |来源|标题|
 |---|---|
+|[极道](https://www.jdon.com/jivejdon/rss)|[线粒体可能是精神问题的核心](https://www.jdon.com/75137.html)|
+||[对话故事：Rust 与 Zig 比较](https://www.jdon.com/75136.html)|
+||[NTP 专著：氟化物暴露与神经发育和认知的元研究](https://www.jdon.com/75135.html)|
+||[14个github有趣项目spring-rs等](https://www.jdon.com/75134.html)|
+|[少数派](https://sspai.com/feed)|[武功山穿越指南：「坚持」是最好的技巧](https://sspai.com/post/91152)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[GitHub 收到 DMCA 通知移除流行插件 Bypass Paywalls](https://www.solidot.org/story?sid=79061)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[社区速递 058 你没见过的社区文章、一周最热评、派友在用的电纸书](https://sspai.com/post/91639)|
+|[IT之家](https://www.ithome.com/rss/)|[英特尔发布 101.5972 版显卡驱动，优化《使命召唤：黑色行动 6》《神之浩劫 2》等游戏](https://www.ithome.com/0/790/874.htm)|
+||[科沃斯推出 T50 PRO 扫拖一体机：厚度 81mm 号称“业内最薄”，售 3999 元起](https://www.ithome.com/0/790/873.htm)|
+||[反诈电影《孤注一掷》今日重映，总票房已达 38.48 亿元](https://www.ithome.com/0/790/870.htm)|
+||[迎广 ModFree Mini-Mod-III Mesh Up 魔飞迷你铁网 ITX 机箱开售：散热 / 硬盘二合一支架，599 元](https://www.ithome.com/0/790/869.htm)|
+||[消息称 IBM 中国研发岗位员工被收回访问权限，涉全国各地千余人](https://www.ithome.com/0/790/868.htm)|
 |[反斗限免](http://free.apprcn.com/feed/)|[Babio - 宝宝相册 iOS 内购限免 ](https://free.apprcn.com/babio-2/)|
 ||[免费获取游戏 Gelu Windows ](https://free.apprcn.com/get-game-gelu-for-free-2/)|
 ||[免费获取 Steam 游戏 SCP: Containment Breach Multiplayer Windows ](https://free.apprcn.com/get-steam-game-scp-containment-breach-multiplayer-for-free/)|
