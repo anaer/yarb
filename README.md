@@ -2,6 +2,27 @@
 
 |来源|标题|
 |---|---|
+|[IT之家](https://www.ithome.com/rss/)|[深蓝明确 S07 延期交付补偿政策：每天补偿 120 元，上限为 1 万元](https://www.ithome.com/0/790/886.htm)|
+||[成熟度较高，《龙腾世纪：影障守护者》获 M18 游戏评级](https://www.ithome.com/0/790/884.htm)|
+||[杭州出台汽车新政，置换更新补贴 6000 元至 12000 元](https://www.ithome.com/0/790/883.htm)|
+||[上市价 5999 元：追觅 X30 Pro 扫拖一体机 2268 元官翻新低](https://www.ithome.com/0/790/882.htm)|
+||[吉利：今年至今已上市 3 款全新新能源车型，剩余 6 款将陆续上市](https://www.ithome.com/0/790/880.htm)|
+||[16G x 2 套条 869 元，宏碁掠夺者 DDR5 6400MHz 台式机内存条开售](https://www.ithome.com/0/790/879.htm)|
+||[香港 MTR 港铁今起可用银联信用卡闪付过闸，支持实体卡 / 手机虚拟卡](https://www.ithome.com/0/790/878.htm)|
+||[中国信通院：固定宽带接入用户稳步增长，千兆用户占比近三成](https://www.ithome.com/0/790/876.htm)|
+||[AOC 上架“U32V5N”31.5 英寸显示器：4K 60Hz VA 面板，1599 元](https://www.ithome.com/0/790/875.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Python 0 基础自学 Python ，这个付费 Python 课程如何？请大佬给点建议](https://www.v2ex.com/t/1067502#reply20)|
+||[ Apple 看消息说 iPhone16 中国版要支持 esim 了， 美版 iPhone 是不是要涨价了](https://www.v2ex.com/t/1067492#reply16)|
+||[ 生活 闲鱼被骗经历](https://www.v2ex.com/t/1067490#reply12)|
+||[ 问与答 旅游，女友问前台可不可以只登记一张身份证](https://www.v2ex.com/t/1067487#reply29)|
+||[ 问与答 现在装光伏不用钱了吗？ 给场地租金，还有国家补贴，还有没有坑？](https://www.v2ex.com/t/1067467#reply17)|
+||[ 程序员 使用 AES 生成伪随机数如何？](https://www.v2ex.com/t/1067465#reply11)|
+||[ Apple 日常支付，你是用微信还是支付宝](https://www.v2ex.com/t/1067463#reply15)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Project Zero Windows ](https://free.apprcn.com/get-steam-game-project-zero-for-free/)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[整理了一波今天逛池袋太阳城的照片。](https://www.wikimoe.com/post/yp9xklpv)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Chillin - 下一代 AI 视频动画编辑器](https://w2solo.com/topics/4956)|
+||[黑鸭点评 - 安心入职](https://w2solo.com/topics/4955)|
+||[YouTube 视频优化小工具](https://w2solo.com/topics/4954)|
 |[极道](https://www.jdon.com/jivejdon/rss)|[线粒体可能是精神问题的核心](https://www.jdon.com/75137.html)|
 ||[对话故事：Rust 与 Zig 比较](https://www.jdon.com/75136.html)|
 ||[NTP 专著：氟化物暴露与神经发育和认知的元研究](https://www.jdon.com/75135.html)|
