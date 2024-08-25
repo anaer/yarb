@@ -2,6 +2,19 @@
 
 |来源|标题|
 |---|---|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[🔁 https://mp.weixin.qq.com/s/c5O6EtpWWj1N8whVdiek8Q](https://t.me/liyuans/47009)|
+||[🔁 MOD 简易大地图 制作与上传：wmm555 最新版本：v1.0.1 《黑神话：悟空》简易大地图 MOD ⌛️ 安装 1）安装 ue4ss 2）将 b1 文件夹解压到游戏根目录 3）在...](https://t.me/liyuans/47008)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[NASA 宣布波音 Starliner 宇航员将搭乘 SpaceX Crew-9 返回地面](https://www.solidot.org/story?sid=79068)|
+||[Telegram CEO 在法国机场被捕](https://www.solidot.org/story?sid=79067)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[TypeScript中如何定义复杂的字符串，并且不会多出换行？](https://segmentfault.com/q/1010000045204540)|
+||[请问如何对namespace内定义的内容直接使用，而不需要namespace点出来？](https://segmentfault.com/q/1010000045204427)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[和大家分享我的 notion 头像生成器，个性化定制你的社交头像](https://w2solo.com/topics/4960)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 怎么办，我发现我亲姐，就是网上说的集美？](https://www.v2ex.com/t/1067587#reply25)|
+||[ 知乎 知乎是疯了吗？还是我眼瞎了？](https://www.v2ex.com/t/1067570#reply16)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[从"学渣"到行业巨头，《黑神话·悟空》制作人冯骥够狠够强](https://36kr.com/p/2918245235170438)|
+||[AI搜索新贵，开始卖广告位了](https://36kr.com/p/2918813188529281)|
+||[中基协发布今年首期《私募基金登记备案动态》, 于官网开设“登备动态”专栏](https://36kr.com/p/2919712676551303)|
+||[AI界的Visa！Skyfire用AI“操控”你的钱包](https://36kr.com/p/2918828623256705)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[德国的宰相是皇帝任命的，为什么宰相还会限制皇帝的权力？](https://daily.zhihu.com/story/9774881)|
 ||[有什么廉价但是技术含量很高的东西？](https://daily.zhihu.com/story/9774894)|
 ||[泥巴是怎样做成瓷器的？](https://daily.zhihu.com/story/9774902)|
