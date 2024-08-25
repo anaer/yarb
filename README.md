@@ -2,6 +2,30 @@
 
 |来源|标题|
 |---|---|
+|[IT之家](https://www.ithome.com/rss/)|[赛力斯 2024 上半年营业收入 650.44 亿元，同比增长 489.58%](https://www.ithome.com/0/791/011.htm)|
+||[赛力斯拟以 115 亿元入股华为引望，占 10% 股权](https://www.ithome.com/0/791/010.htm)|
+||[七彩虹新款 CMNH01 迷你主机开售：换用 i7-13620H 处理器，售 2499 元起](https://www.ithome.com/0/791/009.htm)|
+||[今年 1-7 月中国进口汽车超 40 万辆、同比降 2%，宝马独占四分之一](https://www.ithome.com/0/791/008.htm)|
+||[Steam 国区 27.8 元史低，经典游戏重制作《四海兄弟：最终版》迎 2 折促销](https://www.ithome.com/0/791/005.htm)|
+||[杭州：小客车增量摇号 48 次及以上可申请“久摇不中”类指标、取消区域指标申请限制](https://www.ithome.com/0/791/004.htm)|
+||[长城山海炮穿越版皮卡官图公布：配涉水喉 / AT 胎，8 月 30 日成都车展开启预售](https://www.ithome.com/0/791/003.htm)|
+||[东方 Project 同人地下城游戏《不可思议的幻想乡 -FORESIGHT-》9 月 19 日登 PS4 / Switch](https://www.ithome.com/0/791/002.htm)|
+||[紫光同芯发布汽车 MCU 芯片 THA6412：Arm Cortex-R52+、主频 400MHz](https://www.ithome.com/0/791/001.htm)|
+||[消息称云鲸扫拖机器人 J5“华为全屋版本”预计 11 月上市](https://www.ithome.com/0/791/000.htm)|
+||[上汽荣威向吉林捐赠 30 辆医疗巡诊专用车：打通基层医疗“最后一公里”](https://www.ithome.com/0/790/999.htm)|
+||[发动机存起火隐患，福特在美召回超 8.5 万辆警用版探险者 SUV](https://www.ithome.com/0/790/997.htm)|
+||[消息称徕卡 Q3 定焦相机有望年底推出 43mm f/2 焦段特别版，现款 28mm f/1.7](https://www.ithome.com/0/790/996.htm)|
+||[昂达推出魔固 B760PRO-W 主板：2.5G 网卡 + M.2 WiFi 接口、适配 12-14 代酷睿处理器，579 元](https://www.ithome.com/0/790/995.htm)|
+||[全新电动 MINI ACEMAN 将于 8 月 27 日上市，宝马、长城合资生产](https://www.ithome.com/0/790/994.htm)|
+||[游戏科学联合创始人杨奇回应《黑神话：悟空》PS5 优化问题：程序同学正在绞尽脑汁](https://www.ithome.com/0/790/993.htm)|
+||[腾龙 50-400mm F4.5-6.3 尼康 Z 卡口版相机镜头外观谍照曝光，有望近日官宣](https://www.ithome.com/0/790/992.htm)|
+||[无线充电新规 9 月 1 日施行：MagSafe / Qi2 因频率冲突或将停售，苹果 iPhone 无线功率改为 7.5W](https://www.ithome.com/0/790/991.htm)|
+||[AI 硬件创业者应该看看，世界第一款智能手环的诞生故事](https://www.ithome.com/0/790/989.htm)|
+||[鸿蒙智行享界汽车回应 S9 飞坡后“无法保持直线行驶”：结论不客观、不严谨，对消费者形成误导](https://www.ithome.com/0/790/988.htm)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[慢慢变富的内在逻辑是什么？](http://xueqiu.com/2386334596/302253799)|
+||[江苏银行2024年中报深度解读](http://xueqiu.com/1707706450/302254255)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[吃饭前多做这一步，居然能让你少吃超多油！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%83%E9%A5%AD%E5%89%8D%E5%A4%9A%E5%81%9A%E8%BF%99%E4%B8%80%E6%AD%A5%EF%BC%8C%E5%B1%85%E7%84%B6%E8%83%BD%E8%AE%A9%E4%BD%A0%E5%B0%91%E5%90%83%E8%B6%85%E5%A4%9A%E6%B2%B9%EF%BC%81)|
+|[36氪](http://36kr.com/feed)|[今年的「具身智能」，不就是机器人圈的潘展乐吗？丨焦点分析](https://36kr.com/p/2918107722210176?f=rss)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[腰痛的人，不要睡太硬的床！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%85%B0%E7%97%9B%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%9D%A1%E5%A4%AA%E7%A1%AC%E7%9A%84%E5%BA%8A%EF%BC%81)|
 ||[脂肪肝的罪魁祸首，其实不是脂肪](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%84%82%E8%82%AA%E8%82%9D%E7%9A%84%E7%BD%AA%E9%AD%81%E7%A5%B8%E9%A6%96%EF%BC%8C%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%98%AF%E8%84%82%E8%82%AA)|
 ||[这个方法真能让你睡更好，很多人却不敢用](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%99%E4%B8%AA%E6%96%B9%E6%B3%95%E7%9C%9F%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9D%A1%E6%9B%B4%E5%A5%BD%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8D%B4%E4%B8%8D%E6%95%A2%E7%94%A8)|
