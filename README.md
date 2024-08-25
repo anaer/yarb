@@ -2,6 +2,81 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[赛力斯与华为签署投资协议 拟以115亿元入股华为引望](https://m.cnbeta.com.tw/view/1443422.htm)|
+||[奇安信还原“黑悟空崩溃”事件：近60个僵尸网络 攻击暴涨2万倍](https://m.cnbeta.com.tw/view/1443421.htm)|
+||[顾客举报胖东来隔夜三文鱼获赔10万：相关商品已下架](https://m.cnbeta.com.tw/view/1443420.htm)|
+||[前7月中国进口汽车超40万辆 宝马10.43万辆排名第一](https://m.cnbeta.com.tw/view/1443419.htm)|
+||[全新电动MINI ACEMAN将于8月27日上市](https://m.cnbeta.com.tw/view/1443418.htm)|
+||[央视曝光外卖店乱象：30家外卖店铺共用一张执照 厨房卫生触目惊心](https://m.cnbeta.com.tw/view/1443417.htm)|
+||[碳化硅晶圆巨头Wolfspeed濒临破产](https://m.cnbeta.com.tw/view/1443415.htm)|
+||[国内最大汽车经销商广汇汽车将于8月28日摘牌退市](https://m.cnbeta.com.tw/view/1443414.htm)|
+||[39岁科技大佬面临最高20年监禁 马斯克发声](https://m.cnbeta.com.tw/view/1443409.htm)|
+||[享界汽车回应S9高速飞坡后“无法保持直线行驶”：结论不客观不严谨](https://m.cnbeta.com.tw/view/1443408.htm)|
+||[IBM中国研发岗访问权限一夜关闭 千人或被裁](https://m.cnbeta.com.tw/view/1443407.htm)|
+||[韩国首尔拟禁止90%电量以上的车进地下车库 被批武断](https://m.cnbeta.com.tw/view/1443405.htm)|
+||[IBM突然关闭中国研发岗访问权限](https://m.cnbeta.com.tw/view/1443404.htm)|
+||[免费项目太多 西安大唐不夜城半年仅赚23.53万元](https://m.cnbeta.com.tw/view/1443403.htm)|
+||[苹果M4 Mac内存有望16GB起步](https://m.cnbeta.com.tw/view/1443402.htm)|
+||[周鸿祎再回应360儿童手表错误问答：惩罚产品经理接1个月客服电话](https://m.cnbeta.com.tw/view/1443401.htm)|
+||[新款奔驰V级正式上市 起售价49.68万元](https://m.cnbeta.com.tw/view/1443400.htm)|
+||[ 指南 微软发布Windows-Linux双系统无法启动的完整修复方案](https://m.cnbeta.com.tw/view/1443399.htm)|
+||[数据缓存软件Redis推出Redis 8 这更改许可证后首个重大版本更新](https://m.cnbeta.com.tw/view/1443398.htm)|
+||[PFAS联盟致力于开发行业友好型科学 美国半导体制造再受阻](https://m.cnbeta.com.tw/view/1443397.htm)|
+||[台积电从日本及中国政府获得巨额补贴](https://m.cnbeta.com.tw/view/1443395.htm)|
+||[iPhone 16系列相机将支持使用JPEG-XL格式保存图像 体积更小渲染速度也更快](https://m.cnbeta.com.tw/view/1443391.htm)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Ashampoo Home Design 9 – 家居设计软件 Windows $49.99→0 ](https://free.apprcn.com/ashampoo-home-design-9-6/)|
+||[免费获取游戏 Highland Runner Windows $5.99→0 ](https://free.apprcn.com/get-game-highland-runner-for-free/)|
+||[免费获取字体包 Display Font Bundle Windows、macOS $650→0 ](https://free.apprcn.com/get-display-font-bundle-for-free/)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[还记得那些被选召的孩子们吗？动画25周年纪念《数码宝贝大冒险》展](https://www.wikimoe.com/post/nhwg0tv0)|
+|[蓝点网](https://www.landiannews.com/feed)|[ 指南 微软发布Windows-Linux双系统无法启动的完整修复方案](https://www.landiannews.com/archives/105592.html)|
+||[数据缓存软件Redis推出Redis 8 这也是更改许可证后首个重大版本更新](https://www.landiannews.com/archives/105594.html)|
+||[iPhone 16系列相机将支持使用JPEG-XL格式保存图像 体积更小渲染速度也更快](https://www.landiannews.com/archives/105604.html)|
+||[微软将在9月10日安全峰会 讨论CrowdStrike引起的蓝屏死机和内核访问问题](https://www.landiannews.com/archives/105603.html)|
+||[测试2年后微软最终决定删除Microsoft Edge选项卡背景的圆角样式](https://www.landiannews.com/archives/105602.html)|
+||[技嘉开始向AMD AM4/AM5部分CPU发布BIOS固件修复Sinkclose高危安全漏洞](https://www.landiannews.com/archives/105595.html)|
+||[NAND闪存芯片制造商铠侠向东京证券交易所提交IPO申请 估值超过100亿美元](https://www.landiannews.com/archives/105593.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么尼罗河泛滥带来的肥沃土地而黄河泛滥给两岸带来的却是盐碱地？](https://www.zhihu.com/question/68110737)|
+||[杨慎的《临江仙·滚滚长江东逝水》在中国诗词界什么地位？](https://www.zhihu.com/question/30475074)|
+||[金融监管总局拟发布小贷公司监管规则，网络小贷单户消费贷余额不得超 20 万，将带来哪些影响？](https://www.zhihu.com/question/665163235)|
+||[你会让孩子读万卷书去学习知识，还是更愿意让孩子在行万里路中汲取知识？](https://www.zhihu.com/question/664042812)|
+||[如何看待近年日本 GDP 总量被德国超越，人均 GDP 被韩国超越？](https://www.zhihu.com/question/661187032)|
+||[如何评价《黑神话：悟空》第一回「火照黑云」？在难度、剧情、地图和战斗设计方面有哪些值得聊聊？](https://www.zhihu.com/question/664877011)|
+||[赵国该不该接受上党郡？](https://www.zhihu.com/question/648371055)|
+||[樊振东退出 ​​WTT 北京大满贯，退出原因有哪些？](https://www.zhihu.com/question/665200506)|
+||[《英雄联盟》一级无脑对拼哪个英雄伤害最高？](https://www.zhihu.com/question/394628488)|
+||[为什么比起汤姆吃了杰瑞，更多人希望灰太狼吃了喜羊羊？](https://www.zhihu.com/question/63416110)|
+||[如何评价檀健次在古装剧《四方馆》中饰演的元莫一角？](https://www.zhihu.com/question/665095872)|
+||[如何评价《边水往事》第十四集「放飞鸽」？](https://www.zhihu.com/question/665161230)|
+||[放不下一个人，还应该开启下一段感情吗？](https://www.zhihu.com/question/664659082)|
+||[剃须刀有没有必要买贵的？](https://www.zhihu.com/question/311499768)|
+||[职场新人，前辈们都告诉我要耐得住，成长需要时间，但我想快速独当一面，可行吗？](https://www.zhihu.com/question/665121217)|
+||[女子乘飞机行李箱超了 2 厘米被加收 700 元托运费，怒怼「凭什么」，这个加收价格合理吗？](https://www.zhihu.com/question/665072860)|
+||[《黑神话：悟空》里的老猴子到底是谁？](https://www.zhihu.com/question/665053539)|
+||[WBG 战胜 TES 进决赛，为什么突然变这么猛？](https://www.zhihu.com/question/665208066)|
+||[如何评价方大同的最新单曲《才二十三》?](https://www.zhihu.com/question/665018412)|
+||[如何理解《黑神话：悟空》第三回「夜生白露」金蝉子所说「祸乱人心，倒果为因」？](https://www.zhihu.com/question/665128609)|
+||[林黛玉 6 、 7 岁就读完四书了，是否符合现实？](https://www.zhihu.com/question/664541632)|
+||[10 岁女孩扁桃体手术去世，家长称术前被「暗示」送医生红包，涉事医生被免职，暴露出医院存在哪些问题？](https://www.zhihu.com/question/665171279)|
+||[白居易有哪些难以理解的诗句？](https://www.zhihu.com/question/657505913)|
+||[如何看待自称「风灵月影」的账号直播《黑神话: 悟空》开修改器直播间被封禁？](https://www.zhihu.com/question/664972807)|
+||[为什么大车司机连续开四个小时不累？而小车司机开两个小时就累了？](https://www.zhihu.com/question/663522207)|
+||[年轻人开始去洗浴中心打游戏，玩《黑神话：悟空》要排队，在洗浴中心打游戏是啥体验？反映了什么现象？](https://www.zhihu.com/question/665167537)|
+||[住建部将试点建立房屋养老金公共账户，上海等 22 个城市正在试点，资金从何而来？将带来哪些影响？](https://www.zhihu.com/question/665166482)|
+||[孙杨复出赛报名成绩为 3 分 45 秒，如何评价他的报项成绩？](https://www.zhihu.com/question/665174718)|
+|[煎蛋](http://jandan.net/feed)|[波音公司将让星际客机空载返回，两位宇航员等SpaceX带回地球](http://jandan.net/p/117568)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【译】「手写笔记党」狂喜，用 Nebo 进行数字笔记的几个理由](https://xlrocket.blog/2024/08/25/%e3%80%90%e8%af%91%e3%80%91%e3%80%8c%e6%89%8b%e5%86%99%e7%ac%94%e8%ae%b0%e5%85%9a%e3%80%8d%e7%8b%82%e5%96%9c%ef%bc%8c%e7%94%a8-nebo-%e8%bf%9b%e8%a1%8c%e6%95%b0%e5%ad%97%e7%ac%94%e8%ae%b0%e7%9a%84/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 农村，山区，有一条大河，省道边上，距离高速公路出口 1.5KM，距离火车站（慢车）4.5KM，到县城 30 分钟，到市区 1 小时，到省城 4 小时，到外省大城市 6 小时，有修房的价值么？](https://www.v2ex.com/t/1067626#reply11)|
+||[ 硬件 可通过电脑控制的 usb 键盘输入设备](https://www.v2ex.com/t/1067623#reply14)|
+||[ 微信 微信不同国家的手机号之间竟然会冲突](https://www.v2ex.com/t/1067615#reply11)|
+||[ Apple 2024macmini 据说会做的很小](https://www.v2ex.com/t/1067612#reply19)|
+||[ Telegram 怎样获取的 TG 账号能够防封，耐用？](https://www.v2ex.com/t/1067592#reply38)|
+||[ 奇思妙想 开发一款 APP 用来识别西瓜是否成熟，可行吗？](https://www.v2ex.com/t/1067591#reply27)|
+||[ 问与答 12700 玩黑神话 配个啥显卡呢](https://www.v2ex.com/t/1067590#reply19)|
+||[ Bitcoin 比特币的找零地址极为蛋疼](https://www.v2ex.com/t/1067589#reply15)|
+||[ 问与答 怎么办，我发现我亲姐，就是网上说的集美？](https://www.v2ex.com/t/1067587#reply74)|
+||[ 问与答 有无类似朋友圈但是可以上传原图的 app](https://www.v2ex.com/t/1067585#reply25)|
+||[ 程序员 建个技术交流群，欢迎加入](https://www.v2ex.com/t/1067582#reply12)|
+||[ 旅行 国庆小众旅游地推荐](https://www.v2ex.com/t/1067579#reply17)|
 |[IT之家](https://www.ithome.com/rss/)|[赛力斯 2024 上半年营业收入 650.44 亿元，同比增长 489.58%](https://www.ithome.com/0/791/011.htm)|
 ||[赛力斯拟以 115 亿元入股华为引望，占 10% 股权](https://www.ithome.com/0/791/010.htm)|
 ||[七彩虹新款 CMNH01 迷你主机开售：换用 i7-13620H 处理器，售 2499 元起](https://www.ithome.com/0/791/009.htm)|
