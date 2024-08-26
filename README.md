@@ -2,6 +2,118 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 推广 抽奖 媳妇儿蛋糕店的纯手工月饼支持预定啦～](https://www.v2ex.com/t/1067877#reply27)|
+||[ 宽带症候群 成都宽带求推荐](https://www.v2ex.com/t/1067863#reply11)|
+||[ 程序员 局域网 web 服务 HTTPS](https://www.v2ex.com/t/1067859#reply27)|
+||[ 问与答 你们的 对象/女朋友 嬉闹不注意惹疼她 会大喊大叫吗?](https://www.v2ex.com/t/1067856#reply12)|
+||[ 问与答 都把手机反诈说的这么可怕。不道听途说看新闻，有亲身经历的现身说法吗](https://www.v2ex.com/t/1067853#reply14)|
+||[ 问与答 摩旅大炮充电，有什么方法可以防盗](https://www.v2ex.com/t/1067852#reply12)|
+||[ 生活 国内房价的租售比什么时候能降到 200 以内？](https://www.v2ex.com/t/1067850#reply29)|
+||[ Steam steam，同一台电脑两个人玩黑神话，怎么避免自己的存档不会被覆盖](https://www.v2ex.com/t/1067845#reply17)|
+||[ 酷工作 我们用了 4 年时间，一直在做一款远程控制工具](https://www.v2ex.com/t/1067844#reply40)|
+||[ 职场话题 Android 和 iOS 原生开发已死？ 随着手机性能的提升 H5 或者 flutter 这些跨平台完全可以取代原生](https://www.v2ex.com/t/1067840#reply14)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[住房养老金，到底收割谁？住房养老金突然袭来，是否为房产税前奏？22个城市试点带来什么影响？——解读住房养老金制度](https://lukefan.com/2024/08/26/%e4%bd%8f%e6%88%bf%e5%85%bb%e8%80%81%e9%87%91%ef%bc%8c%e5%88%b0%e5%ba%95%e6%94%b6%e5%89%b2%e8%b0%81%ef%bc%9f%e4%bd%8f%e6%88%bf%e5%85%bb%e8%80%81%e9%87%91%e7%aa%81%e7%84%b6%e8%a2%ad%e6%9d%a5%ef%bc%8c/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Stitch Photos - 长图截取工具 Android $2.99→0 ](https://free.apprcn.com/stitch-photos-5/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[岚图知音双车正式量产下线 8月30日开启预售](https://m.cnbeta.com.tw/view/1443495.htm)|
+||[天津东疆海关查到483吨洋垃圾 为何外国垃圾这么喜欢运来中国？](https://m.cnbeta.com.tw/view/1443493.htm)|
+||[Intel下代核显驱动已就位 Arc 140V、130V核心现身](https://m.cnbeta.com.tw/view/1443491.htm)|
+||[韩国LTPO OLED面板技术近10年专利申请量第一](https://m.cnbeta.com.tw/view/1443489.htm)|
+||[1688平台打击恶意仅退款 称以“听劝”姿态回应商家利益关切](https://m.cnbeta.com.tw/view/1443488.htm)|
+||[欧盟对上汽“下重手”原因曝光：应对不够专业 内部作风官僚](https://m.cnbeta.com.tw/view/1443485.htm)|
+||[谷歌Pixel 9芯片大翻车 都怪AI战略过于激进？](https://m.cnbeta.com.tw/view/1443484.htm)|
+||[BMW iDrive系统升级 引入更人性化的智能助理](https://m.cnbeta.com.tw/view/1443483.htm)|
+||[资本相信人形机器人](https://m.cnbeta.com.tw/view/1443482.htm)|
+||[还剩5个多亿债务要还 罗永浩宣布恢复婚丧嫁娶主持业务](https://m.cnbeta.com.tw/view/1443481.htm)|
+||[台积电今年前三季3nm及5nm营收将超310亿美元](https://m.cnbeta.com.tw/view/1443480.htm)|
+||[Imagination获得1亿美元投资 助力边缘AI技术开发](https://m.cnbeta.com.tw/view/1443479.htm)|
+||[罗永浩再谈“真还传”：一共还了8.24亿 远超之前说的6个多亿](https://m.cnbeta.com.tw/view/1443478.htm)|
+||[淘宝与小米合作“虚拟试车”：9月9日上线 系自研引擎技术](https://m.cnbeta.com.tw/view/1443477.htm)|
+||[紫光闪存UNIS UF 100 MicroSD存储卡上市 最高可选128GB](https://m.cnbeta.com.tw/view/1443474.htm)|
+||[极越CEO夏一平：严肃批评公关负责人 友商既是对手也是战友](https://m.cnbeta.com.tw/view/1443472.htm)|
+||[西部数据联名任天堂推出“宝可梦”系列microSD卡](https://m.cnbeta.com.tw/view/1443471.htm)|
+||[无线充电新规9月1日施行 苹果官网已将iPhone无线充电功率改为7.5W](https://m.cnbeta.com.tw/view/1443470.htm)|
+||[奔驰EQE起火殃及880辆车 韩国将推进电动汽车电池认证计划](https://m.cnbeta.com.tw/view/1443469.htm)|
+||[打破x86/ARM垄断 全球首款国产南湖CPU RISC-V笔记本发布](https://m.cnbeta.com.tw/view/1443467.htm)|
+||[华为车BU已扭亏为盈：前5大客户收入占比超9成 赛力斯一家贡献60%+](https://m.cnbeta.com.tw/view/1443466.htm)|
+||[华为手机回归让苹果中国份额一直降 还带动各手机厂商毛利齐降](https://m.cnbeta.com.tw/view/1443465.htm)|
+||[Android 15稳定版最快9月登场 谷歌Pixel 9首发](https://m.cnbeta.com.tw/view/1443464.htm)|
+||[享界S9高速飞坡测试博主被禁言 回应称若造谣可起诉我](https://m.cnbeta.com.tw/view/1443463.htm)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[审计发现 FBI 的数据存储管理存在重大漏洞](https://www.freebuf.com/articles/409453.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜ 国务院食安办通报油罐车事件；美国滞留太空宇航员将于明年返回；孙杨复出后连签两笔代言](https://36kr.com/p/2922212782103169)|
+||[36氪出海·首发｜跨境供应链平台易芽EasyYa完成1.5亿人民币融资，中金天姥览盛基金战略领投](https://36kr.com/p/2916674306988681)|
+||[Midjourney地位不稳？AI绘图又一黑马出现，附4款产品一手实测](https://36kr.com/p/2921058896403075)|
+||[最近疯狂刷屏的《黑神话》，我们不想无脑吹](https://36kr.com/p/2920873319291525)|
+||[四个日常减负信条](https://36kr.com/p/2921110719060616)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[世界机器人大会风靡，具身智能如何落地？](https://www.infoq.cn/article/2cTFj3WX6eYIb8wf7RF6)|
+||[大降本时代开启，谁来关心企业的云原生落地难题？](https://www.infoq.cn/article/C8jBT5HZwMXvhAMUuiHZ)|
+||[码上报名 跨越安卓和 iOS：开启国产 OS 移动开发新时代](https://www.infoq.cn/article/xYCtLCJOeKZ5KzRW3f8K)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[妩媚尤物小紫儿大尺度私房诱惑足](https://www.mmlsl.com/xgmn/2940.html)|
+||[妩媚尤物筱慧美腿翘臀让你流连忘返](https://www.mmlsl.com/xgmn/2939.html)|
+||[妩媚尤物温心怡美乳翘臀香艳无比](https://www.mmlsl.com/xgmn/2938.html)|
+||[妩媚尤物唐思琪童颜巨乳诱惑十足](https://www.mmlsl.com/xgmn/2937.html)|
+|[少数派](https://sspai.com/feed)|[重塑旅行体验：Exping 城市路线探索的幕后故事](https://sspai.com/post/91416)|
+|[IT之家](https://www.ithome.com/rss/)|[经典游戏《轩辕剑叁：云和山的彼端》Switch 版“反向跳票”12 月 4 日发售，实体版 368 港币](https://www.ithome.com/0/791/227.htm)|
+||[（更新：活动已开启）华为鸿蒙 HarmonyOS NEXT Beta 用户招募开启：适配 Mate 60、Pura 70 等机型](https://www.ithome.com/0/791/206.htm)|
+||[AMD gfx1201 GPU 现身基准测试，预计对应 Radeon 8000 系列 RDNA4 显卡](https://www.ithome.com/0/791/226.htm)|
+||[和熠光显 AMOLED 首片成功点亮，扬州市政府投资企业新成果](https://www.ithome.com/0/791/225.htm)|
+||[北通推出“灵感”三模机械键盘：配旋钮屏幕、TTC 定制轴体，369 元起](https://www.ithome.com/0/791/224.htm)|
+||[奇瑞 iCAR 03T 纯电 SUV 官宣 8 月 30 日成都车展上市，增添越野风格套件](https://www.ithome.com/0/791/220.htm)|
+||[艾泰克 ATK 推出烈空 Z1 Pro Max 双模鼠标：原相 3950、非对称右手型，299 元](https://www.ithome.com/0/791/218.htm)|
+||[消息称 vivo X200 系列手机配 5500/5600 毫安时电池，厚度 8.x 毫米](https://www.ithome.com/0/791/212.htm)|
+||[问界新 M7 Pro 汽车目标上市首周交付 3000 台，首月交付破万台](https://www.ithome.com/0/791/211.htm)|
+||[消息称年底部分“骁龙 8 Gen4”新机没有独显芯片，将普及类原生超帧](https://www.ithome.com/0/791/207.htm)|
+||[高通将收购 Sequans 物联网 4G 技术，增强工业 IoT 产品组合](https://www.ithome.com/0/791/205.htm)|
+||[鸿蒙智行问界新 M7 Pro 发布：搭载华为 ADS 智驾基础版，24.98 万元起](https://www.ithome.com/0/791/204.htm)|
+||[2025 款东风风神 L7 PHEV 定档 8 月 30 日发布，现款售 12.89 万元起](https://www.ithome.com/0/791/203.htm)|
+||[洛图科技：2024 上半年中国消费级 XR 设备销量为 26.1 万台，同比下降 20.4%](https://www.ithome.com/0/791/202.htm)|
+||[小米米家无线吸尘器 3C 开启预售：60 分钟续航、防缠绕地刷，首发 799 元](https://www.ithome.com/0/791/201.htm)|
+||[博主称 AMD X870 系列主板使用体验分享 9 月 30 日解禁](https://www.ithome.com/0/791/200.htm)|
+||[小鹏 MONA M03 轿车配备车道级 3D 导航地图，号称“重庆山城也能奏效、比 20 万元以上车更好用”](https://www.ithome.com/0/791/198.htm)|
+||[华为余承东：24.98 万元问界新 M7 Pro 卖一辆亏近 3 万元](https://www.ithome.com/0/791/197.htm)|
+||[IBM 中国内部通知关闭部分研发业务，员工诉求 2N 赔偿与 6 个月缓冲期](https://www.ithome.com/0/791/196.htm)|
+||[雷蛇 × 三丽鸥联名外设上市：键鼠、耳机、鼠标垫，199~899 元](https://www.ithome.com/0/791/195.htm)|
+||[“夸克 inside”笔记本电脑曝光，浏览器厂商有望进军 AI PC 硬件行业](https://www.ithome.com/0/791/193.htm)|
+||[罗永浩称将起诉锤子科技投资人郑刚，后者回应称“月亮从来只让你看一边”](https://www.ithome.com/0/791/192.htm)|
+||[我国首个深水高压天然气开发项目，“深海一号”二期工程完成钻完井作业](https://www.ithome.com/0/791/189.htm)|
+||[深圳首条自动驾驶公交线路 B998 开通：途经前海大厦、桂湾地铁站，试点期间免费预约乘坐](https://www.ithome.com/0/791/187.htm)|
+||[【IT之家开箱】vivo Y37 Pro 手机杏海色图赏：简洁轻灵，色泽清新](https://www.ithome.com/0/791/186.htm)|
+||[2025 款北京现代库斯途 MPV 上市：新增隐藏式日行灯 / 智能迎宾灯，17.18 万元起](https://www.ithome.com/0/791/183.htm)|
+||[我国首个区块链专用计算硬件开放架构 BUDA“菩提”发布](https://www.ithome.com/0/791/175.htm)|
+||[消息称索尼 PS5 Pro 即将登场：渲染、光追、机器学习性能全面提升](https://www.ithome.com/0/791/174.htm)|
+||[华为余承东：鸿蒙智行豪华轿车享界 S9 上市 20 天取得大定 8000 台](https://www.ithome.com/0/791/173.htm)|
+||[积极扩产 HBM 内存与先进封装，消息称美光有意购入友达闲置工厂](https://www.ithome.com/0/791/172.htm)|
+||[《三体：远征》VR 游戏登陆 PICO 平台：还原“人列计算机”等小说名场面，限时免费](https://www.ithome.com/0/791/171.htm)|
+||[华为引望今年上半年 63.38% 收入来自赛力斯汽车，达 66.14 亿元](https://www.ithome.com/0/791/169.htm)|
+||[R7-7840HS 准系统 + 30 天试玩：零刻 SER7 迷你主机 1993 元开学新低](https://www.ithome.com/0/791/168.htm)|
+||[米哈游《原神》5.0 版本更新开放预下载，游戏配置要求公布](https://www.ithome.com/0/791/167.htm)|
+||[三星宣布将 Bixby 语音助手引入 BESPOKE AI 家电，语音控制更智能](https://www.ithome.com/0/791/166.htm)|
+||[单 2.5G 网口 + Wi-Fi 7：TP-LINK BE7200 路由器 436 元京东新低](https://www.ithome.com/0/791/165.htm)|
+||[比亚迪王朝网全新 MPV 官宣：8 月 30 日“新朝代大幕将启”](https://www.ithome.com/0/791/164.htm)|
+||[万丽官网上线 RTX 4070 GDDR6 显卡，含品牌同系列首款三风扇型号](https://www.ithome.com/0/791/162.htm)|
+||[高德地图 iOS 版更新 15.0.0 大版本：性能全面提升，北斗卫星无网导航、卫星求救等](https://www.ithome.com/0/791/160.htm)|
+||[云知声推出山海多模态大模型：实时生成文本、音频和图像](https://www.ithome.com/0/791/159.htm)|
+||[罗永浩名下限制消费令均已解除，此前称已还债 8.24 亿元](https://www.ithome.com/0/791/158.htm)|
+||[河南与中国邮政共同打造全球性国际邮政快递枢纽，占地 1600 余亩 / 总投资超百亿元](https://www.ithome.com/0/791/157.htm)|
+||[索尼旗下工作室顽皮狗拥抱 AI，正招聘相关人才](https://www.ithome.com/0/791/156.htm)|
+||[1999 元 → 1631 元：小米米家无线洗地机 3 Pro 京东 3 期免息送配件](https://www.ithome.com/0/791/155.htm)|
+||[科技一周大事（8 月 19 日-25 日）：比亚迪首次超本田跻身第七大车企；古尔曼称苹果 9 月 10 日举办发布会；《黑神话：悟空》全平台销量超 1000 万套](https://www.ithome.com/0/791/154.htm)|
+||[岚图知音双车量产下线，8 月 30 日 2024 成都车展开启预售](https://www.ithome.com/0/791/153.htm)|
+||[特斯拉 Cybertruck 迎来首个驾驶辅助功能：视觉泊车辅助](https://www.ithome.com/0/791/151.htm)|
+||[央视曝光氢疗馆“包治百病”骗局：氢氧机每台利润超万元，市场监管立案调查](https://www.ithome.com/0/791/150.htm)|
+||[罗永浩称锤子科技投资人郑刚长期造谣、诽谤，稍后将正式起诉](https://www.ithome.com/0/791/149.htm)|
+||[哪吒汽车 CEO 张勇：哪吒 S 猎装增程 300 Max 版计划 11 月或 12 月推出，若订单多拟提前投放](https://www.ithome.com/0/791/147.htm)|
+||[裁员风暴下，英特尔资深 CPU 架构师另起炉灶创办 RISC-V 初创公司](https://www.ithome.com/0/791/146.htm)|
+||[数学系本科生卧室尝试“手搓核聚变反应堆”：Claude 3.5 立大功，0 基础狂肝 1 个月](https://www.ithome.com/0/791/145.htm)|
+||[商汤科技：元萝卜 AI 下棋机器人“国际象棋专业版”9 月下旬上市](https://www.ithome.com/0/791/144.htm)|
+||[TrendForce：2025 年手机中高端背板技术渗透率在折叠屏手机推动下有望突破 60%](https://www.ithome.com/0/791/142.htm)|
+||[《拳皇》30 周年庆：SNK 将陆续揭晓 30 个项目](https://www.ithome.com/0/791/141.htm)|
+||[神舟发布系列优雅 U5 轻薄本，搭载英特尔 Ultra 5 125H 处理器](https://www.ithome.com/0/791/140.htm)|
+||[国产 CMOS 厂商思特威 2024 上半年扭亏为盈，智能手机业务营收同比大增近 3 倍](https://www.ithome.com/0/791/139.htm)|
+||[消息称 Valve 正开发两款《半衰期》游戏：VR 与传统模式双版本，可进行联动](https://www.ithome.com/0/791/138.htm)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[IBM 关闭中国研发部门](https://www.solidot.org/story?sid=79073)|
+||[小鼠研究显示通用流感候选疫苗引发强免疫反应](https://www.solidot.org/story?sid=79072)|
+||[澳大利亚工人下班后有权拒绝工作邮件和工作电话](https://www.solidot.org/story?sid=79071)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Cash 加強監管：500 美元以上交易需身份驗證](https://www.iphonetaiwan.org/2024/08/apple-cash-verification-rules.html)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[大部分肠癌和肠息肉有关，必须切吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%A7%E9%83%A8%E5%88%86%E8%82%A0%E7%99%8C%E5%92%8C%E8%82%A0%E6%81%AF%E8%82%89%E6%9C%89%E5%85%B3%EF%BC%8C%E5%BF%85%E9%A1%BB%E5%88%87%E5%90%97%EF%BC%9F)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 我相信： 未来有一天 chrome 能跑，能玩《黑神话·悟空》。](https://www.v2ex.com/t/1067830#reply16)|
 ||[ 问与答 没人聊聊住房养老金吗?](https://www.v2ex.com/t/1067824#reply22)|
