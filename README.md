@@ -2,6 +2,55 @@
 
 |来源|标题|
 |---|---|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[大部分肠癌和肠息肉有关，必须切吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%A7%E9%83%A8%E5%88%86%E8%82%A0%E7%99%8C%E5%92%8C%E8%82%A0%E6%81%AF%E8%82%89%E6%9C%89%E5%85%B3%EF%BC%8C%E5%BF%85%E9%A1%BB%E5%88%87%E5%90%97%EF%BC%9F)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 我相信： 未来有一天 chrome 能跑，能玩《黑神话·悟空》。](https://www.v2ex.com/t/1067830#reply16)|
+||[ 问与答 没人聊聊住房养老金吗?](https://www.v2ex.com/t/1067824#reply22)|
+||[ 生活 现代婚姻已经解离的如此厉害了吗？是个例，还是普遍现象？](https://www.v2ex.com/t/1067817#reply34)|
+||[ 问与答 有用魅族的朋友吗，有几个问题想问一下](https://www.v2ex.com/t/1067811#reply11)|
+||[ 程序员 Python celery 替代](https://www.v2ex.com/t/1067797#reply11)|
+||[ 健康 跟管真的很疼吗？有没有经历过的朋友们来分享一下](https://www.v2ex.com/t/1067796#reply74)|
+||[ Apple TV 马上要搬新家了，准备采购个 85 寸电视主要用来连 apple tv 观看，预算 8000 以内，有什么电视推荐吗？](https://www.v2ex.com/t/1067793#reply47)|
+||[ 分享创造 赠送使用码 第一个三端 iOS、Android、Web 应用正式上线了，添加了中文语言，优化了文字不能取消高亮的问题，优化了输入法遮挡住文字的问题，感谢大家的反馈](https://www.v2ex.com/t/1067792#reply12)|
+||[ 青岛 4 天 3 夜游青岛回来了](https://www.v2ex.com/t/1067791#reply13)|
+||[ 生活 求助：去哪个城市好 考虑教育和生活 ](https://www.v2ex.com/t/1067790#reply40)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[外媒称普华永道可能停业 6 个月，并面临巨额罚款，具体情况如何？](https://www.zhihu.com/question/665004793)|
+||[在古代如果前线的士兵牺牲阵亡，那么他们的妻子或者配偶会怎么办？](https://www.zhihu.com/question/647160214)|
+||[游戏中的 BOSS 之一亢金龙在角色设定上与原著《西游记》有何不同？](https://www.zhihu.com/question/664774540)|
+||[汽车的圆形方向盘明显更方便和安全，为什么有的新能源汽车要标新立异做成半圆形？这不是不安全了吗？](https://www.zhihu.com/question/665048126)|
+||[为什么鸡转头是「一下一下」「瞬移」，而不是像人一样有肉眼可见的转头过程？](https://www.zhihu.com/question/665173840)|
+||[《黑神话：悟空》第二回剧情中虎先锋、疯虎、虎伥，三兄弟为什么会反目成仇？](https://www.zhihu.com/question/665128967)|
+||[求教，大学手机买 128G 还是 256G 够用？](https://www.zhihu.com/question/662583416)|
+||[24-25 赛季西甲西甲第 2 轮皇家马德里 3:0 巴拉多利德，如何评价这场比赛？](https://www.zhihu.com/question/665286107)|
+||[如果你中奖一个亿，你会想要瞒着所有人，自己偷偷的离开吗？](https://www.zhihu.com/question/664483678)|
+||[为什么有些股票可以融资融券，有些却不能，是由谁决定能不能融资融券的？](https://www.zhihu.com/question/527144433)|
+||[如何评价《黑神话：悟空》的战斗设计？](https://www.zhihu.com/question/664774003)|
+||[大陆怎么开通港股通?](https://www.zhihu.com/question/493552852)|
+||[作为职场新人，如何克服职场中的学历自卑，发挥个人潜力？](https://www.zhihu.com/question/662639551)|
+||[如何评价综艺《喜剧之王单口季》第二期？](https://www.zhihu.com/question/665061424)|
+||[《如懿传》这部剧中有哪些情节堪称「逆天」？](https://www.zhihu.com/question/664259367)|
+||[假如时光倒流，你还会选择结婚吗？](https://www.zhihu.com/question/664971044)|
+||[IBM 关闭中国研发部门，涉及员工数量超过 1000 人，具体原因有哪些？IBM 未来发展前景如何？](https://www.zhihu.com/question/665194999)|
+||[23 岁，男朋友工资 12000 左右，我 8000 左右，上下浮动不会很大，我想辞职做家庭主妇很奇怪吗？](https://www.zhihu.com/question/664983000)|
+||[郑钦文呼吁球迷宽容一点「网球是有起伏的」，如何评价她这一言论？](https://www.zhihu.com/question/665194904)|
+||[你跟你家猫第一次见面是在哪里呢？还记得第一次见面的场景吗？](https://www.zhihu.com/question/664706156)|
+||[第二轮家电以旧换新实施细则发布，每件商品最高补贴 2000 元，释放了什么信号？](https://www.zhihu.com/question/665262687)|
+||[胖东来发布隔夜进口三文鱼刺身退赔公告，奖励投诉者 10 万，补偿购买者 1000 元，如何看待此事？](https://www.zhihu.com/question/665235028)|
+||[在当时《还珠格格》为什么能够大火？](https://www.zhihu.com/question/267484971)|
+||[电影《异形》新作会不会因为「吓坏人」这类的报道而吸引更多人去电影院看？](https://www.zhihu.com/question/664943483)|
+||[锻刀大赛里「日式寄一半」是什么原因?](https://www.zhihu.com/question/664738545)|
+||[NASA 宣布波音宇航员将于明年二月搭乘「龙」飞船返回，这对波音意味着什么？](https://www.zhihu.com/question/665211682)|
+|[蓝点网](https://www.landiannews.com/feed)|[国内无线充电新规将在9月1日起施行 Qi2/MagSafe等无线充电设备将被停产](https://www.landiannews.com/archives/105606.html)|
+||[创始人被捕后Telegram称遵守欧盟法律 但平台和所有者不应对滥用行为负责](https://www.landiannews.com/archives/105605.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[CodeMirror.MergeView使用中的问题？](https://segmentfault.com/q/1010000045210754)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[Threads 测试允许帖子在 24 小时后消失](https://www.solidot.org/story?sid=79070)|
+|[少数派](https://sspai.com/feed)|[Game+1 希望永无二周目：把流氓软件做成游戏是什么体验？](https://sspai.com/post/91347)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[网络身份证是强制，会影响正常上网？公安部详细回应](https://www.freebuf.com/news/409447.html)|
+||[FreeBuf 全球网络安全产业投融资观察（7月）](https://www.freebuf.com/news/409436.html)|
+||[新型 Linux 恶意软件 “sedexp ”利用 Udev 规则隐藏信用卡盗刷器](https://www.freebuf.com/news/409427.html)|
+|[36氪](http://36kr.com/feed)|[北京宸园产品全球发布，刷新东四环想象](https://36kr.com/p/2922599378066052?f=rss)|
+||[美联储即将开闸放水，全球股市提前沸腾？丨智氪](https://36kr.com/p/2922587229444995?f=rss)|
+||[医疗健康行业周报 AI如何和线下医疗场景有效整合；小红书谈非处方药营销](https://36kr.com/p/2921494135052931?f=rss)|
+||[36氪首发｜户外品牌「UPPERVOID二普纬度」完成数千万元融资，加速全球化进程](https://36kr.com/p/2918585522166657?f=rss)|
 |[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[《黑神话：悟空》被指抄袭，原作者开撕；IBM中国被曝数千研发权限突然被关；曝360儿童手表智能回答毁三观，周鸿祎道歉 AI周报](https://www.infoq.cn/article/l3qfHs68zB3dAxYvQrqa)|
 |[爱范儿](https://www.ifanr.com/feed)|[早报 消息称苹果 9 月 10 日发布 iPhone 16/曝 IBM 中国上千名研发岗员工被收回访问权限/测试享界汽车飞坡博主微博显示禁言](https://www.ifanr.com/1597274?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[少数派](https://sspai.com/feed)|[派早报：专家回应网号、网证热点问题](https://sspai.com/post/91788)|
