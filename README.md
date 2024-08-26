@@ -2,6 +2,12 @@
 
 |来源|标题|
 |---|---|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[《黑神话：悟空》被指抄袭，原作者开撕；IBM中国被曝数千研发权限突然被关；曝360儿童手表智能回答毁三观，周鸿祎道歉 AI周报](https://www.infoq.cn/article/l3qfHs68zB3dAxYvQrqa)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 消息称苹果 9 月 10 日发布 iPhone 16/曝 IBM 中国上千名研发岗员工被收回访问权限/测试享界汽车飞坡博主微博显示禁言](https://www.ifanr.com/1597274?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[少数派](https://sspai.com/feed)|[派早报：专家回应网号、网证热点问题](https://sspai.com/post/91788)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[是否有这样的开源库，可以让import/require的引入文件，得到文件的引用的链数据结构？](https://segmentfault.com/q/1010000045206720)|
+||[Vue项目中scrollTo在加载好后回到原来的地方？](https://segmentfault.com/q/1010000045206336)|
+||[为什么React中input设定了value 不设置onChange 后 就无法不能被修改了?](https://segmentfault.com/q/1010000045206166)|
 |[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9774942)|
 ||[儿时农村跳蚤很多，现在感觉已绝迹了，是使用含磷洗衣粉造成的吗？](https://daily.zhihu.com/story/9774922)|
 ||[中国古建筑的瓦是如何固定在房顶之上的？](https://daily.zhihu.com/story/9774930)|
