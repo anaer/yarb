@@ -2,6 +2,32 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[听说“桌上一沙漏⏳，半小时不上菜免费等这类餐厅就说明你进了预制菜餐厅” 很多商场不允许明火，预制菜居多。 不知道是不是真的。](https://m.okjike.com/originalPosts/66cbc69ba0d6d2ffc47da88e)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[能耗降低93.3%，复旦、港大团队开发受大脑启发的动态神经网络，实现超强2D、3D视觉](https://www.jiqizhixin.com/articles/2024-08-26-16)|
+||[Yann LeCun不看好强化学习：「我确实更喜欢 MPC」](https://www.jiqizhixin.com/articles/2024-08-26-15)|
+||[来外滩大会，论一论大模型的边界](https://www.jiqizhixin.com/articles/2024-08-26-14)|
+||[49位科学家上榜，清华方璐、复旦周鹏等获得科学探索奖](https://www.jiqizhixin.com/articles/2024-08-26-13)|
+||[本科生福利！爱丁堡大学图解版「伽罗瓦理论」课程笔记公开了](https://www.jiqizhixin.com/articles/2024-08-26-12)|
+||[RTX3090可跑，360AI团队开源最新视频模型FancyVideo，红衣大叔都说好](https://www.jiqizhixin.com/articles/2024-08-26-11)|
+||[连续五年！百度智能云蝉联中国AI公有云市场第一](https://www.jiqizhixin.com/articles/2024-08-26-10)|
+|[晚点LatePost](https://feedpress.me/wx-postlate)|[科大讯飞的 0 到 7500 万，SaaS 的机遇与挑战](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247519503&idx=2&sn=e701b4acd521d15aba285d4fd88721ca)|
+||[晚点独家丨元气森林有了第三个大单品；抖音商城独立应用目标年内 DAU 涨至超 680 万人](http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247519503&idx=1&sn=f71645b2789b3f7b9db9f146b74863e2)|
+|[老左笔记](https://www.laozuo.org/feed)|[CoalCloud 英国原生IP 家宅ISP云服务器 最高10G带宽](https://www.laozuo.org/29462.html)|
+||[DMIT 补货香港国际线路HKG T1机型云服务器 年付$36.9](https://www.laozuo.org/29459.html)|
+|[36氪](http://36kr.com/feed)|[飞跃大湾区 汇聚非凡创科力量](https://36kr.com/p/2875703225667971?f=rss)|
+||[36氪独家 长安汽车入股，固态电池公司太蓝新能源完成数亿元B轮融资](https://36kr.com/p/2913096693832329?f=rss)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[KCon 2024大会：同道携手并进 技术引领行业变革](https://www.4hou.com/posts/vwQr)|
+||[安全动态回顾 北京市国家网络安全宣传周网络安全作品征集活动开始 石油巨头Halliburton遭受网络攻击导致系统关闭](https://www.4hou.com/posts/nlRl)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E8%BE%9F%E8%B0%A3&type=link&limit=20&sort=new)|[很多“辟谣”的都说不存在社会信用分，实际上问问近年那些移居东南亚和迪拜的，多少人因为分数不够触发了这个机制](https://www.reddit.com/r/China_irl/comments/1f1kq59/很多辟谣的都说不存在社会信用分实际上问问近年那些移居东南亚和迪拜的多少人因为分数不够触发了这个机制/)|
+|[开源中国-最新资讯](https://rsshub.app/oschina/news)|[Zadig V3.1.0 发布：为复杂场景而生，企业工作流随心定制](https://my.oschina.net/koderover/blog/15399936)|
+||[天津大学开设全国首个脑机接口专业方向](https://www.oschina.net/news/308873)|
+||[斗罢艰险又出发 —— deepin 操作系统大模型取经之路](https://www.oschina.net/news/308871)|
+||[摩尔线程开源音频理解大模型 MooER](https://www.oschina.net/news/308841)|
+||[IBM 中国研发岗位员工被收回访问权限](https://www.oschina.net/news/308838)|
+||[What's new in PikiwiDB Pika v3.5.5](https://my.oschina.net/dubbogo/blog/15492291)|
+|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/34](https://weekly.pychina.org/pyrecap/pyrw-2434.html)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[目前来看，智能家居的「理想态」是什么？中国品牌在智能家居上有了哪些突破和可能性？](http://www.zhihu.com/question/663851174/answer/3589558198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[全合成的意义是什么？](http://www.zhihu.com/question/29971756/answer/3595718726?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 推广 抽奖 媳妇儿蛋糕店的纯手工月饼支持预定啦～](https://www.v2ex.com/t/1067877#reply27)|
 ||[ 宽带症候群 成都宽带求推荐](https://www.v2ex.com/t/1067863#reply11)|
 ||[ 程序员 局域网 web 服务 HTTPS](https://www.v2ex.com/t/1067859#reply27)|
