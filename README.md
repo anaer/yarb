@@ -2,6 +2,24 @@
 
 |来源|标题|
 |---|---|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[一个小细节，剪映做视频时不配乐，而是发布在各个平台时再配乐，就能避免音乐侵权问题了。 原告说没授权给剪映，但是在抖音发没问题，也就是说，剪映配乐抖音发...](https://m.okjike.com/originalPosts/66cd258730a365786f293f26)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Event It’s Glowtime 主題視覺，藏有什麼產品特色呢？](https://applefans.today/2024-08-apple-event-itsglowtime-hashflag/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[ChatPDF - 利用 ChatGPT 对 PDF 文档进行总结 MacOS、iOS 美区内购限免 ](https://free.apprcn.com/chatpdf-3/)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[存在严重供应链安全风险，MLOps平台曝20多个漏洞](https://www.freebuf.com/news/409541.html)|
+||[Mirai 僵尸网络发现新漏洞，能同时被攻守双方利用](https://www.freebuf.com/news/409539.html)|
+||[2024年网安最高处罚记录诞生，Uber因违反GDPR被罚23亿](https://www.freebuf.com/news/409535.html)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 7 部作品](https://sspai.com/post/91745)|
+|[36氪](http://36kr.com/feed)|[百万粉丝网红医生背后，MCN机构是怎么操盘的｜早期项目](https://36kr.com/p/2923834623302530?f=rss)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[下凡尤物萌汉药搔首弄姿花样百出](https://www.mmlsl.com/xgmn/2944.html)|
+||[下凡仙女杨晨晨爆乳醉心黑丝迷情](https://www.mmlsl.com/xgmn/2943.html)|
+||[西田麻衣性感美胸绝对震撼眼球](https://www.mmlsl.com/xgmn/2942.html)|
+||[妩媚御姐芝芝丝滑香臀展开美体盛宴](https://www.mmlsl.com/xgmn/2941.html)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[容易被忽视的「小中风」，及早发现能救命](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%AE%B9%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%E7%9A%84%E3%80%8C%E5%B0%8F%E4%B8%AD%E9%A3%8E%E3%80%8D%EF%BC%8C%E5%8F%8A%E6%97%A9%E5%8F%91%E7%8E%B0%E8%83%BD%E6%95%91%E5%91%BD)|
+||[超水润舒服的大厂面膜，居然只要 3.3 元 / 片？！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%B6%85%E6%B0%B4%E6%B6%A6%E8%88%92%E6%9C%8D%E7%9A%84%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%86%9C%EF%BC%8C%E5%B1%85%E7%84%B6%E5%8F%AA%E8%A6%81%203.3%20%E5%85%83%20/%20%E7%89%87%EF%BC%9F%EF%BC%81)|
+||[慢性胃炎会变成胃癌吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%85%A2%E6%80%A7%E8%83%83%E7%82%8E%E4%BC%9A%E5%8F%98%E6%88%90%E8%83%83%E7%99%8C%E5%90%97%EF%BC%9F)|
+||[头上冒出白头发，你最该做的事情只有一件！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%B4%E4%B8%8A%E5%86%92%E5%87%BA%E7%99%BD%E5%A4%B4%E5%8F%91%EF%BC%8C%E4%BD%A0%E6%9C%80%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BB%B6%EF%BC%81)|
+||[这些囊肿很危险，体检发现要警惕](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%99%E4%BA%9B%E5%9B%8A%E8%82%BF%E5%BE%88%E5%8D%B1%E9%99%A9%EF%BC%8C%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%A6%81%E8%AD%A6%E6%83%95)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[iQOO Neo9S Pro+ 开箱：在轻薄的机身下，有游戏娱乐的大满足](http://www.toodaylab.com/83012)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[新法允许打工人下班断联 澳总理发声：没挣24小时工资就不该全天待命](https://m.cnbeta.com.tw/view/1443585.htm)|
 ||[吉祥航空通报“儿童被关厕所”事件 对两名旅客在机上提供协助的行为表示理解](https://m.cnbeta.com.tw/view/1443584.htm)|
 ||[去掉物理按键 小米真全面屏旗舰有望重现MIX荣光](https://m.cnbeta.com.tw/view/1443583.htm)|
