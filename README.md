@@ -2,6 +2,41 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[Forgejo 许可证切换到 GPLv3+](https://www.solidot.org/story?sid=79085)|
+||[三星为其智能电视提供七年操作系统更新](https://www.solidot.org/story?sid=79084)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[Ass-shifter – .ass 字幕批量偏移工具 开源，跨平台 ](https://www.appinn.com/ass-shifter/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Hasleo Disk Clone Professional - 磁盘克隆工具 Windows $69→0 ](https://free.apprcn.com/hasleo-disk-clone-professional/)|
+||[Apeaksoft Screen Recorder – 屏幕录像工具 Windows $47.96→0 ](https://free.apprcn.com/apeaksoft-screen-recorder-5/)|
+||[免费获取字体 Super School Font Windows、macOS ](https://free.apprcn.com/get-super-school-font-for-free/)|
+|[IT之家](https://www.ithome.com/rss/)|[支持双 HDMI 输入，SPARKLE 撼与推出 PCIe 采集卡 EJ525DX](https://www.ithome.com/0/791/539.htm)|
+||[京东集团：未来 36 个月内将实施不超过 50 亿美元的股票回购计划](https://www.ithome.com/0/791/538.htm)|
+||[Steam 新一周游戏销量榜：《黑神话：悟空》三连冠，《GTA5》再上榜](https://www.ithome.com/0/791/537.htm)|
+||[realme 真我 GT7 Pro 手机渲染图曝光，方形相机模组](https://www.ithome.com/0/791/536.htm)|
+||[【IT之家评测室】七彩虹 iGame RTX 4080 SUPER Advanced OC 16GB x 黑神话悟空定制显卡评测，重走西游路必备“赛博法器”](https://www.ithome.com/0/791/535.htm)|
+||[【IT之家开箱】石头自清洁扫拖机器人 P20 Pro 图赏：首创底盘升降，还有 18500Pa 飓风吸力](https://www.ithome.com/0/791/533.htm)|
+||[江淮汽车 2024 上半年营业收入 212.98 亿元，同比下降 4.79%](https://www.ithome.com/0/791/529.htm)|
+||[雷克沙推出 PS5 专用 SSD“Play 2280”：连续读取速度 7400MB/s，写入 6500MB/s](https://www.ithome.com/0/791/526.htm)|
+||[索尼 PSN 商店泄露游戏《乐高地平线大冒险》11 月 14 日发售，登 PS5 / Switch / PC 平台](https://www.ithome.com/0/791/523.htm)|
+||[【IT之家开箱】七彩虹 iGame RTX 4080 SUPER Advanced OC 16GB x 黑神话悟空定制显卡图赏，乌铁战甲 + 金刚圆环设计](https://www.ithome.com/0/791/522.htm)|
+||[AMD 锐龙“Shimada Peak”处理器采用 96 个 Zen 5 核心，预计为线程撕裂者 9000 系列](https://www.ithome.com/0/791/521.htm)|
+||[微信开源跨平台数据库框架 WCDB 升级 2.1.7 版：C++ 支持 OpenHarmony 系统](https://www.ithome.com/0/791/520.htm)|
+||[博主“小蒜苗长”败诉小米名誉侵权官司：赔偿小米超 5.65 万元，并公开道歉](https://www.ithome.com/0/791/518.htm)|
+||[加拿大拟对从中国进口电动汽车加征 100% 关税，商务部回应称将坚决捍卫中企正当权益](https://www.ithome.com/0/791/517.htm)|
+||[TCL 中环回应硅片涨价：为了积极引领光伏行业走出低价竞争的困境](https://www.ithome.com/0/791/516.htm)|
+||[超频三推出风刃 T90 系列 9225 规格散热风扇，定价 29.9 元起](https://www.ithome.com/0/791/515.htm)|
+||[全新智己 LS6 汽车 8 月 30 日亮相成都车展：配备半幅式方向盘、“灵蜥”数字底盘](https://www.ithome.com/0/791/512.htm)|
+||[智谱 AI 宣布 GLM-4-Flash 大模型免费开放：支持中文、英语、日语、韩语等 26 种语言](https://www.ithome.com/0/791/502.htm)|
+||[零跑汽车：没有剥离智能化团队的相关计划，持续加大该领域人才、资金投入](https://www.ithome.com/0/791/500.htm)|
+||[英伟达公布更多 Blackwell 细节及未来产品路线图：单价 3~4 万美元，支持 10 万亿参数模型进行 AI 训练](https://www.ithome.com/0/791/499.htm)|
+||[中国星网：创新推动北斗规模应用先行先试行动方案将于 9 月 2 日在重庆发布](https://www.ithome.com/0/791/497.htm)|
+||[松下 Lumix DC-GH7 M43 相机套机上架：附 12-60mm F2.8-4 镜头，18298 元](https://www.ithome.com/0/791/496.htm)|
+|[36氪](http://36kr.com/feed)|[苹果官宣两则爆炸性消息！进军机器人行业，9月10日推出首款AI iPhone](https://36kr.com/p/2924174688770689?f=rss)|
+||[第二十六届中国机器人及人工智能大赛全国决赛圆满结束](https://36kr.com/p/2924130757073542?f=rss)|
+|[蓝点网](https://www.landiannews.com/feed)|[知识库软件Notion宣布自9月9日起停止在俄罗斯提供服务 用户需尽快备份数据](https://www.landiannews.com/archives/105623.html)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[在JavaScript中从外部解决Promise：实际应用场景](https://segmentfault.com/a/1190000045152056)|
+||[不使用 JS 纯 CSS 获取屏幕宽高](https://segmentfault.com/a/1190000045218144)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[哪些国货小家电精准地满足了你的「特定」小需求？](http://www.zhihu.com/question/663676204/answer/3597550849?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[AI在家电领域有哪些应用，哪些是有实用价值的？中国家电品牌应该如何融入AI时代？](http://www.zhihu.com/question/663787796/answer/3591217637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 中国科学技术大学 - 化学与材料科学学院](https://t.me/awesomeRSSHub/6762)|
 |[reddit.com: search...](https://www.reddit.com/search.rss?q=%E7%96%AB%E6%83%85&type=link&limit=20&sort=new)|[老中00后:大家都是怎么脱殖的？](https://www.reddit.com/r/real_China_irl/comments/1f2b8b5/老中00后大家都是怎么脱殖的/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Linux系统份额史上首次逼近4.5％ 明年有望超5％](https://m.cnbeta.com.tw/view/1443630.htm)|
