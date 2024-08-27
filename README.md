@@ -2,6 +2,48 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[新法允许打工人下班断联 澳总理发声：没挣24小时工资就不该全天待命](https://m.cnbeta.com.tw/view/1443585.htm)|
+||[吉祥航空通报“儿童被关厕所”事件 对两名旅客在机上提供协助的行为表示理解](https://m.cnbeta.com.tw/view/1443584.htm)|
+||[去掉物理按键 小米真全面屏旗舰有望重现MIX荣光](https://m.cnbeta.com.tw/view/1443583.htm)|
+||[知名特斯拉投资人“心灰意冷”：持仓已砍半 AI和机器人都救不了它](https://m.cnbeta.com.tw/view/1443582.htm)|
+||[深圳新科技地标 腾讯前海新总部大楼2025年初开建](https://m.cnbeta.com.tw/view/1443581.htm)|
+||[Rivian工厂发生火灾：超50台车被烧 起火原因未明](https://m.cnbeta.com.tw/view/1443580.htm)|
+||[研究人员发现硬件后门 RFID智能卡可能潜伏影响全球的安全隐患](https://m.cnbeta.com.tw/view/1443579.htm)|
+||[问界新M7卖一辆亏近3万：余承东重申没做到20万以下成本汽车的能力](https://m.cnbeta.com.tw/view/1443577.htm)|
+||[豪威集团推出1/2.88英寸5000万像素图像传感器OV50M40 具备优异低光性能](https://m.cnbeta.com.tw/view/1443576.htm)|
+||[新能源车年检新规明年3月实施 动力电池必检](https://m.cnbeta.com.tw/view/1443575.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[请问如何理解：引入`抽象数据类型`的目的是把`数据类型`的表示和`数据类型`上运算的实现与这些数据类型和运算在程序中的引用隔开，使它们相互独立？](https://segmentfault.com/q/1010000045218256)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么其他动物幼崽都抢着吃饭，唯独人类幼崽需要求着哄着才吃饭？](https://www.zhihu.com/question/620889402)|
+||[《黑神话：悟空》的剧情大致相当于什么水平？](https://www.zhihu.com/question/664929057)|
+||[如何看待《黑神话：悟空》steam 好评如潮，销量破千万，但剧情出现较大争议的现象？这是特例还是常态？](https://www.zhihu.com/question/665342675)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 全球裁员当下我该怎么办 - 技术硬核永远吃香!](https://www.v2ex.com/t/1068091#reply13)|
+||[ 问与答 想买 macbook，看花了眼，应该怎么选啊。](https://www.v2ex.com/t/1068080#reply11)|
+||[ 程序员 有什么活跃的副业的群吗？很多群时间长了就成死群了](https://www.v2ex.com/t/1068071#reply12)|
+||[ 生活 一开车就生一肚子气，该怎么化解？](https://www.v2ex.com/t/1068067#reply51)|
+||[ 职场话题 骑驴找马的一个小小悖论](https://www.v2ex.com/t/1068063#reply14)|
+||[ 投资 招行闪电贷利率到 2.88 了，越来越低了](https://www.v2ex.com/t/1068055#reply18)|
+||[ 问与答 杠上了，在苏州没按规定佩戴头盔感觉被白罚了 20](https://www.v2ex.com/t/1068054#reply40)|
+||[ 创业组队 找个前端伙伴](https://www.v2ex.com/t/1068053#reply14)|
+||[ 问与答 高新技术企业申报是真的吗？](https://www.v2ex.com/t/1068046#reply14)|
+|[蓝点网](https://www.landiannews.com/feed)|[啊这？引起争议后微软修改Windows 11说明暂时可能不删除控制面板了](https://www.landiannews.com/archives/105625.html)|
+||[澳大利亚新法案赋予普通打工人断联权利 下班后可以拒绝回复公司的非紧急信息](https://www.landiannews.com/archives/105608.html)|
+||[法国司法部对Telegram CEO杜罗夫提出12项犯罪指控 马克龙称交给法官处理](https://www.landiannews.com/archives/105610.html)|
+||[苹果良心发现？消息称搭载M4芯片的Mac将全系列配备至少16GB内存](https://www.landiannews.com/archives/105639.html)|
+||[英伟达正在调查Linux版显卡驱动程序导致的内核错误 看视频和玩游戏都会卡顿](https://www.landiannews.com/archives/105620.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[8点1氪｜ 吉祥航空回应两女子把孩子关厕所教育 ；IBM关闭中国研发部涉及上千员工；印度总理首次回应女实习医生遭奸杀案](https://36kr.com/p/2923660752362373)|
+||[36氪独家 长安汽车入股，固态电池公司太蓝新能源完成数亿元B轮融资](https://36kr.com/p/2913096693832329)|
+||[海底捞偷偷开了个炸鸡店，人均40元](https://36kr.com/p/2922754086378119)|
+||[折叠MacBook又跳票了，苹果产品折叠为何就这样难？](https://36kr.com/p/2922353364770183)|
+||[“中厂”挡不住抖音](https://36kr.com/p/2922888624561024)|
+||[新一代打工人神水：冰中式](https://36kr.com/p/2922462058453895)|
+||[iPhone 16定了，安卓阵营强势“偷城”，苹果生态护城河没了？](https://36kr.com/p/2923726175706242)|
+|[est の 输入输出](https://blog.est.im/rss)|[php是最好的……serverless](https://blog.est.im/2024/stdout-17)|
+|[36氪](http://36kr.com/feed)|[解码数字绘画品牌「绘王」，用创新成就“专精特新”小巨人](https://36kr.com/p/2923802238229125?f=rss)|
+|[极客公园](http://feeds.geekpark.net/)|[苹果官宣 iPhone16 新品发布时间；罗永浩：已还债 8.24 亿；传索尼PS5 Pro下月发布，性能暴涨](http://www.geekpark.net/news/339747)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[网络攻击影响《黑神话：悟空》发布：Steam平台遭受威胁](https://www.4hou.com/posts/zA68)|
+||[Litespeed Cache 漏洞导致数百万 WordPress 网站遭受接管攻击](https://www.4hou.com/posts/9j93)|
+||[乘KCon 2024场域之势 赴网络安全「同道」盛宴](https://www.4hou.com/posts/yzwW)|
+|[爱范儿](https://www.ifanr.com/feed)|[24.98 万元！华为发布问界 M7 Pro，还有一辆智界 R7](https://www.ifanr.com/1597322?utm_source=rss&utm_medium=rss&utm_campaign=)|
 |[海交史](https://www.haijiaoshi.com/feed)|[张建 鸦片战争期间边外满蒙军队的征调](https://www.haijiaoshi.com/archives/12109?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25bc%25a0%25e5%25bb%25ba-%25e9%25b8%25a6%25e7%2589%2587%25e6%2588%2598%25e4%25ba%2589%25e6%259c%259f%25e9%2597%25b4%25e8%25be%25b9%25e5%25a4%2596%25e6%25bb%25a1%25e8%2592%2599%25e5%2586%259b%25e9%2598%259f%25e7%259a%2584%25e5%25be%2581%25e8%25b0%2583)|
 |[机器之心](https://www.jiqizhixin.com/rss)|[科波拉的史诗级巨制还没上映，就被AI搞砸了预告片](https://www.jiqizhixin.com/articles/2024-08-27)|
 |[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[数据类型 DT 和抽象数据类型 ADT 的区别是什么？我看概念没有差异呢？](https://segmentfault.com/q/1010000045218118)|
