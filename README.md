@@ -2,6 +2,37 @@
 
 |来源|标题|
 |---|---|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #40：结束了](https://w2solo.com/topics/4969)|
+|[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[NAS的数据管理，备份和使用](https://sspai.com/post/91818)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[韩国调查通过 Telegram 传播的深度伪造换脸淫秽影像案](https://www.solidot.org/story?sid=79093)|
+||[微软将 Mono 项目捐赠给 Wine](https://www.solidot.org/story?sid=79092)|
+|[Xieisabug](https://www.xiejingyang.com/feed/)|[工具-Cursor](https://www.xiejingyang.com/2024/08/28/tools-cursor/)|
+|[老左笔记](https://www.laozuo.org/feed)|[注册亚马逊云国际领取免费服务器且送「无线耳机和键盘」](https://www.laozuo.org/29488.html)|
+||[国内莱卡云服务商国内国外多款云服务器促销活动](https://www.laozuo.org/29478.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 酷工作 长沙-外企 招聘 React 前端工程师](https://www.v2ex.com/t/1068420#reply12)|
+||[ 分享创造 看了版上这么多跟女朋友/老婆吵架的帖子，于是我做了这个..](https://www.v2ex.com/t/1068416#reply23)|
+||[ JetBrains jetbrains2024 系列的 IDE 太卡了](https://www.v2ex.com/t/1068407#reply13)|
+||[ 职场话题 我在公司匿名表白了一个人](https://www.v2ex.com/t/1068406#reply30)|
+||[ 签证 伤心，刚刚美签面试被拒了，总结一下自己的经验吧](https://www.v2ex.com/t/1068402#reply24)|
+||[ 程序员 程序员自由创业周记#40：结束了](https://www.v2ex.com/t/1068399#reply26)|
+||[ Apple 希望 M4 的 16G 内存跟以前的 8G 内存一个价钱](https://www.v2ex.com/t/1068391#reply14)|
+|[36氪](http://36kr.com/feed)|[降价的iPhone，到底都是谁在买？｜氪金 · 硬科技](https://36kr.com/p/2925327884835713?f=rss)|
+||[CEO锦囊·出海季｜欧美、东南亚、拉美的出海避坑指南](https://36kr.com/p/2925290482211720?f=rss)|
+||[HomeLight完成2000万美元D+轮融资、住建部部长倪虹：推进建筑业转型升级、广联达发布L2 级场景大模型｜ PropTech周刊](https://36kr.com/p/2925267038902920?f=rss)|
+||[箭牌家居：上半年净利暴跌77%，价格战导致预期悲观](https://36kr.com/p/2925240996960900?f=rss)|
+||[中国金茂：一年内到期债务占比仅15%，保持三道红线全绿](https://36kr.com/p/2925237974702727?f=rss)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[黑客使用鲜为人知的隐秘技术攻击东南亚高级别组织](https://www.anquanke.com/post/id/299557)|
+||[Halliburton 遭受攻击，对全球能源行业产生影响](https://www.anquanke.com/post/id/299560)|
+||[WPML WordPress 插件中的严重漏洞影响了超 100 万个网站](https://www.anquanke.com/post/id/299564)|
+||[Versa Director 零日漏洞被利用来破坏 ISP 和 MSP （CVE-2024-39717）](https://www.anquanke.com/post/id/299568)|
+||[研究人员揭露了臭名昭著的威胁行为者 USDoD](https://www.anquanke.com/post/id/299571)|
+||[Microsoft 365 Copilot 中漏洞允许攻击者窃取用户敏感信息](https://www.anquanke.com/post/id/299574)|
+||[HZ RAT后门软件 macOS 版本瞄准中国消息应用用户](https://www.anquanke.com/post/id/299581)|
+||[网络攻击扰乱了西雅图-塔科马机场的运营](https://www.anquanke.com/post/id/299584)|
+||[360告警：全球知名大模型框架被曝漏洞！或致AI设备集体失控](https://www.anquanke.com/post/id/299587)|
+||[去年近 1/3 的公司遭受了 SaaS 数据泄露](https://www.anquanke.com/post/id/299577)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[经久不衰的联名仍然有更多可能性，这 4 组最新的跨界合作很有趣](http://www.toodaylab.com/83013)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[如何评价《黑神话：悟空》第五回「日落红尘」？在难度、剧情、地图和战斗设计方面有哪些值得聊聊？](http://www.zhihu.com/question/664966240/answer/3607867268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[带娃省心、少跑医院，这个做法适合 0～3 岁新手家长](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B8%A6%E5%A8%83%E7%9C%81%E5%BF%83%E3%80%81%E5%B0%91%E8%B7%91%E5%8C%BB%E9%99%A2%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%81%9A%E6%B3%95%E9%80%82%E5%90%88%200%EF%BD%9E3%20%E5%B2%81%E6%96%B0%E6%89%8B%E5%AE%B6%E9%95%BF)|
 ||[靠喝酸奶通便？你可能一直都搞错了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%9D%A0%E5%96%9D%E9%85%B8%E5%A5%B6%E9%80%9A%E4%BE%BF%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E9%83%BD%E6%90%9E%E9%94%99%E4%BA%86)|
 ||[这个加剧口臭的地方，你一直都没刷到](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%99%E4%B8%AA%E5%8A%A0%E5%89%A7%E5%8F%A3%E8%87%AD%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E4%BD%A0%E4%B8%80%E7%9B%B4%E9%83%BD%E6%B2%A1%E5%88%B7%E5%88%B0)|
