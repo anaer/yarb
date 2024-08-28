@@ -2,6 +2,51 @@
 
 |来源|标题|
 |---|---|
+|[蓝点网](https://www.landiannews.com/feed)|[字节跳动豆包AI编程助手MarsCode上线拉新活动 邀请好友使用赠送京东E卡](https://www.landiannews.com/archives/105650.html)|
+||[微软也将在Windows 10开始菜单用户头像中添加Microsoft 365黄点提醒](https://www.landiannews.com/archives/105649.html)|
+||[如果安卓手机解锁BL则可能会被谷歌限制使用AI功能 在Pixel已经出现这种情况](https://www.landiannews.com/archives/105648.html)|
+||[波音星际航线CST-100出现各种事故后 波音可能会取消整个星际航线项目](https://www.landiannews.com/archives/105647.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[微信小程序如何准确监听点击分享到朋友圈事件？](https://segmentfault.com/q/1010000045222783)|
+||[linux安装mysql，诸如Rea Hat这样的发行版和Linux - Generic有何区别?](https://segmentfault.com/q/1010000045222746)|
+||[前端有没有办法实现页面截图？](https://segmentfault.com/q/1010000045222670)|
+|[晓空blog](https://blog.moeworld.tech/feed/)|[使用企业策略来推迟Chrome的Manifest v2禁用时间](https://blog.moeworld.tech/2024/08/28/%e4%bd%bf%e7%94%a8%e4%bc%81%e4%b8%9a%e7%ad%96%e7%95%a5%e6%9d%a5%e6%8e%a8%e8%bf%9fchrome%e7%9a%84manifest-v2%e7%a6%81%e7%94%a8%e6%97%b6%e9%97%b4/)|
+|[obaby@mars](https://h4ck.org.cn/feed/)|[暴打渣男未遂 — 《黑神话 悟空》](https://h4ck.org.cn/2024/08/17943)|
+|[IT之家](https://www.ithome.com/rss/)|[一汽-大众与宝钢股份签署合作备忘录，目标年内行业首个批量生产低碳“绿钢”供货汽车零件](https://www.ithome.com/0/791/751.htm)|
+||[零一万物回应核心成员加入字节跳动：公司正进行架构调整，使业务更聚焦](https://www.ithome.com/0/791/750.htm)|
+||[懒人福音：三星新款 AI 冰箱支持电动开门](https://www.ithome.com/0/791/749.htm)|
+||[谷歌安卓 15 测试新输入法切换键：对话框更现代，单击可快速切换](https://www.ithome.com/0/791/748.htm)|
+||[起升高度 168 米国内最高，海上风电安装平台“港航平 5”在青岛交付](https://www.ithome.com/0/791/747.htm)|
+||[极星汽车任命新任首席执行官 Michael Lohscheller](https://www.ithome.com/0/791/745.htm)|
+||[TechInsights：2024 年 Q2 华为领跑全球折叠屏手机市场，传音增速最快达 3150%](https://www.ithome.com/0/791/744.htm)|
+||[提供 10 年漏液赔付，首席玩家推出澈 TS1 360 一体式 CPU 水冷散热器](https://www.ithome.com/0/791/743.htm)|
+||[美国加州通过人工智能训练数据透明度法案，要求企业披露 AI 模型数据来源](https://www.ithome.com/0/791/741.htm)|
+||[中国信通院：7 月国内市场手机出货量 2420.4 万部、同比增长 30.5%，5G 手机占比 85.3%](https://www.ithome.com/0/791/738.htm)|
+||[2024Q2 欧洲手机出货量报告：三星同比增 8%、苹果增 18%、小米增 1%、realme 增 18%、传音 TECNO 增 196%](https://www.ithome.com/0/791/737.htm)|
+||[现代汽车：计划实现混动车型阵容翻倍，在中国等市场推出增程式产品](https://www.ithome.com/0/791/736.htm)|
+||[群晖 DSM 系统升级 7.2.2：H.265/264 等编解码负载从服务器端转移至终端设备](https://www.ithome.com/0/791/735.htm)|
+||[安徽“皖事通”App 引入国家网络身份认证，支付宝认证已取消](https://www.ithome.com/0/791/734.htm)|
+||[初探微软 Win11 开始菜单新视图：类苹果 iOS 资源库设计，含 29 个类目](https://www.ithome.com/0/791/733.htm)|
+||[莫翠天担任法拉第未来阿联酋负责人，曾任乐视控股首席营销官、魅族副总裁](https://www.ithome.com/0/791/732.htm)|
+||[交通运输部：7 月份共收到网约车订单信息 10.1 亿单，环比上升 4.3%](https://www.ithome.com/0/791/730.htm)|
+||[《黑神话：悟空》线下音乐会开票，2 分钟售罄](https://www.ithome.com/0/791/729.htm)|
+||[三星 Galaxy Z Fold 折叠机皇新曝料：非 Slim / Ultra，叫“特别版”](https://www.ithome.com/0/791/728.htm)|
+||[RISC-V 处理器成功运行《巫师 3》游戏，15 帧勉强跑动](https://www.ithome.com/0/791/727.htm)|
+||[阿维塔科技相关负责人：或继续增持华为引望股份至 20%](https://www.ithome.com/0/791/726.htm)|
+||[2024 年全球百强科技集群公布，“深圳 — 香港 — 广州”连续 5 年蝉联第二](https://www.ithome.com/0/791/725.htm)|
+||[Counterpoint 预估 2024 年苹果全球收入将首次突破 4000 亿美元：硬件同比增 3%、服务同比增 14%](https://www.ithome.com/0/791/724.htm)|
+||[美国政府计划向惠普拨款至多 5000 万美元，支持微流控半导体工厂](https://www.ithome.com/0/791/723.htm)|
+||[纯电版 Panamera 推出后，保时捷将继续提供燃油版车型](https://www.ithome.com/0/791/722.htm)|
+||[富岳继任者、性能飙至 10 倍，日本计划明年研发全球首台 AI 计算 ZettaFLOPS 规模超算](https://www.ithome.com/0/791/720.htm)|
+||[《战锤 40K：星际战士 2》游戏 9 月 9 日发行，2024-2025 路线图已公布](https://www.ithome.com/0/791/719.htm)|
+||[微软 Excel 表单回复启用新同步方案：更稳定、性能更强，10 月 20 日弃用旧版](https://www.ithome.com/0/791/718.htm)|
+||[不只有报废更新，北京个人乘用车换新能源汽车可补 1.5 万元](https://www.ithome.com/0/791/715.htm)|
+||[NASA 百米高发射塔成本飙升至 27 亿美元，比全球最高摩天大楼贵 1 倍](https://www.ithome.com/0/791/711.htm)|
+||[工信部通报 21 款侵害用户权益行为的 App 及 SDK，权鑫记账、贪吃蛇对决等在列](https://www.ithome.com/0/791/710.htm)|
+||[支持电源接口右侧置安装，安钛克推出 FLUX Pro 全塔侧透机箱](https://www.ithome.com/0/791/709.htm)|
+||[IDC 调高 2024 全年手机交付预测：同比增长 5.8% 至 12.3 亿部，AI 手机将占 18% 份额](https://www.ithome.com/0/791/708.htm)|
+||[AI 威胁菲律宾外包呼叫中心，5 年内或取代 30 万个岗位](https://www.ithome.com/0/791/706.htm)|
+||[电动汽车省电利器：现代起亚展示辐射加热系统、48 伏加热玻璃](https://www.ithome.com/0/791/704.htm)|
+|[少数派](https://sspai.com/feed)|[夕阳无限好，天色已黄昏：我的落日观赏经验谈](https://sspai.com/post/91610)|
 |[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[数字化转型中，“迷糊”与“清醒”的界限在哪里？](https://www.infoq.cn/article/0sY1LpsIyijLW0eM6DSf)|
 ||[解读二十届三中全会《决定》：金融深化改革的新基调是什么？](https://www.infoq.cn/article/GmvA9uXZAp9zP3vGXAoj)|
 ||[2024 上半年 AI 外呼 3 亿次，平安银行数字化驱动降本增效](https://www.infoq.cn/article/3z7RELYlE4Tg13lmjYRl)|
