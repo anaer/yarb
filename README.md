@@ -2,6 +2,35 @@
 
 |来源|标题|
 |---|---|
+|[smallyu的博客](https://smallyu.net/atom.xml)|[我的加密货币定投策略（一）](https://smallyu.net/2024/08/28/%E6%88%91%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%80%EF%BC%89/)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[白金睾丸: @无聊图](http://i.jandan.net/t/5743253)|
+||[黄山泰山长白: @无聊图](http://i.jandan.net/t/5743231)|
+|[极客公园](http://feeds.geekpark.net/)|[在电商围剿战中，拼多多拿出了 100 亿元的弹药](http://www.geekpark.net/news/339845)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[车主抱怨丰田bZ3开153公里耗电65% 4S店称标称续航只是理想状态](https://m.cnbeta.com.tw/view/1443759.htm)|
+||[国航、南航今晚同时接收首架国产C919 四大航今年都将运营](https://m.cnbeta.com.tw/view/1443757.htm)|
+||[消息称苹果iPhone 17将升级12GB内存 为AI功能做足准备](https://m.cnbeta.com.tw/view/1443756.htm)|
+||[Android 15 将使键盘切换更轻松 而且只需单手操作](https://m.cnbeta.com.tw/view/1443754.htm)|
+||[传音在2024柏林IFA展会上展示其三折叠概念手机](https://m.cnbeta.com.tw/view/1443753.htm)|
+||[通用汽车与三星SDI签署协议 投资约35亿美元在美国合建电池厂](https://m.cnbeta.com.tw/view/1443752.htm)|
+||[墨西哥成中国车企第二大海外市场 仅次于俄罗斯](https://m.cnbeta.com.tw/view/1443749.htm)|
+||[AI威胁菲律宾外包呼叫中心 5年内或取代30万个岗位](https://m.cnbeta.com.tw/view/1443748.htm)|
+||[曝比亚迪参与iPhone 16 Pro生产 曾斥资百亿收购成都捷普工厂](https://m.cnbeta.com.tw/view/1443747.htm)|
+||[拼多多“砍”了股东一刀](https://m.cnbeta.com.tw/view/1443746.htm)|
+||[比亚迪执行副总裁：未来近一半销量将来自海外](https://m.cnbeta.com.tw/view/1443745.htm)|
+||[知情人士透露陈立武退出英特尔董事会是因严重的内部分歧](https://m.cnbeta.com.tw/view/1443744.htm)|
+||[传苹果服务部门罕见裁员近百人 波及图书、新闻等应用业务](https://m.cnbeta.com.tw/view/1443740.htm)|
+||[英伟达今夜恐出现3千亿美元波动 市场已准备好爆米花](https://m.cnbeta.com.tw/view/1443739.htm)|
+||[美国新罕布什尔州一居民死于东方马脑炎 致死率高达30%](https://m.cnbeta.com.tw/view/1443738.htm)|
+||[中东首家私营太空基础设施公司问世 亿级投资直指LEO卫星市场](https://m.cnbeta.com.tw/view/1443737.htm)|
+||[AI带来新需求？ IDC上调全年全球智能手机出货量预测](https://m.cnbeta.com.tw/view/1443736.htm)|
+||[比亚迪欲借海外工厂应对关税 副总裁李柯透露目标](https://m.cnbeta.com.tw/view/1443735.htm)|
+|[IT之家](https://www.ithome.com/rss/)|[IONIQ 9 曝光：现代首款三排电动 SUV，有望 11 月亮相洛杉矶车展](https://www.ithome.com/0/791/758.htm)|
+||[NASA 毅力号开启火星新挑战：开始向陨石坑边缘攀登](https://www.ithome.com/0/791/757.htm)|
+||[腾讯云将捐赠 TXSQL 数据库内核](https://www.ithome.com/0/791/755.htm)|
+||[东风风行星海 S7 纯电版开启预售：定位中大型轿车，风阻系数 0.191](https://www.ithome.com/0/791/754.htm)|
+|[SegmentFault 最新的文章](https://segmentfault.com/articles/feeds)|[一些react使用小技巧（上）](https://segmentfault.com/a/1190000045222308)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[最近比较火的国产免费 NAS 系统 fnOS，大家怎么看？](https://www.v2ex.com/t/1068366#reply60)|
+||[搜狗输入法使用了 windows 啥漏洞，发通知广告竟然无法关闭](https://www.v2ex.com/t/1068320#reply50)|
 |[蓝点网](https://www.landiannews.com/feed)|[字节跳动豆包AI编程助手MarsCode上线拉新活动 邀请好友使用赠送京东E卡](https://www.landiannews.com/archives/105650.html)|
 ||[微软也将在Windows 10开始菜单用户头像中添加Microsoft 365黄点提醒](https://www.landiannews.com/archives/105649.html)|
 ||[如果安卓手机解锁BL则可能会被谷歌限制使用AI功能 在Pixel已经出现这种情况](https://www.landiannews.com/archives/105648.html)|
