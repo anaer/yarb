@@ -5,6 +5,7 @@ import asyncio
 import requests
 import smtplib
 import subprocess
+import re
 from email.header import Header
 from email.mime.text import MIMEText
 from pathlib import Path
@@ -191,6 +192,10 @@ class telegramBot:
             Color.print_failed('[-] telegramBot 连接失败')
             return False
 
+    def replace_brackets_with_space(string):
+        replaced_string = re.sub(r'[()\[\]|<> \s]+', ' ', string)
+        return replaced_string
+
     async def sendMsg(self, chat_id, text):
         async with self.bot:
             print(await self.bot.send_message(chat_id=chat_id, text = text, parse_mode='HTML'))
@@ -201,8 +206,10 @@ class telegramBot:
         ids = []
         text = ''
         for (id, feed_name, feed_url, title, url) in results:
+            newfeedname = self.replace_brackets_with_space(feed_name)
+            newtitle = self.replace_brackets_with_space(title)
             ids.append(id)
-            text += f'<a href="{url}">[{feed_name}] {title}</a>\n\n'
+            text += f'<a href="{url}">[{newfeedname}] {newtitle}</a>\n\n'
         text += '频道: <a href="https://t.me/icocoon">@icocoon</a>'
 
         return ids, text
