@@ -2,6 +2,72 @@
 
 |来源|标题|
 |---|---|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[数字化转型中，“迷糊”与“清醒”的界限在哪里？](https://www.infoq.cn/article/0sY1LpsIyijLW0eM6DSf)|
+||[解读二十届三中全会《决定》：金融深化改革的新基调是什么？](https://www.infoq.cn/article/GmvA9uXZAp9zP3vGXAoj)|
+||[2024 上半年 AI 外呼 3 亿次，平安银行数字化驱动降本增效](https://www.infoq.cn/article/3z7RELYlE4Tg13lmjYRl)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[降息希望降温，英镑涨至两年高位](http://www.ftchinese.com/story/001104029)|
+||[澳大利亚将设定学生签证数量上限](http://www.ftchinese.com/story/001104028)|
+|[小众软件](http://feeds.appinn.com/appinns)|[PI-CI – 树莓派虚拟机 Docker 镜像：预配置 Raspberry Pi 3、4 和 5 设备，然后写入 SD 卡](https://www.appinn.com/pi-ci-rpi-vm/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[饮用水少卖19亿，农夫山泉大本营失守](https://www.huxiu.com/article/3406800.html?f=rss)|
+||[牵手Uber，比亚迪杀向海外](https://www.huxiu.com/article/3406274.html?f=rss)|
+||[房屋养老金三问](https://www.huxiu.com/article/3406811.html?f=rss)|
+||[2024年，全国百强市、区、县都是哪儿？](https://www.huxiu.com/article/3406437.html?f=rss)|
+||[胖东来并不是好欺负的](https://www.huxiu.com/article/3403283.html?f=rss)|
+||[这么多AI大模型，就没一个能算清今年这破调休的？](https://www.huxiu.com/article/3406316.html?f=rss)|
+||[Open AI首位投资人：AI将带来12大变革](https://www.huxiu.com/article/3406455.html?f=rss)|
+||[谁给前谷歌AI研究员创业者，下了诅咒？](https://www.huxiu.com/article/3406434.html?f=rss)|
+||[“不用听老头们的意见，要关心年轻人喜欢什么”](https://www.huxiu.com/article/3403310.html?f=rss)|
+||[辞职后的广告人，过上了怎样的生活？](https://www.huxiu.com/article/3406269.html?f=rss)|
+||[AIGC帮跨境商家们省钱的诀窍是什么?](https://www.huxiu.com/article/3400796.html?f=rss)|
+||[《黑神话：悟空》能赚多少钱？](https://www.huxiu.com/article/3404375.html?f=rss)|
+||[261亿港元，维达被卖了](https://www.huxiu.com/article/3406288.html?f=rss)|
+||[租金回到十年前，餐饮人却不敢开新店了](https://www.huxiu.com/article/3406278.html?f=rss)|
+||[从“机关术”到“古风”，游戏如何传承文化？](https://www.huxiu.com/article/3404006.html?f=rss)|
+||[人效管理的能量守恒定律](https://www.huxiu.com/article/3406276.html?f=rss)|
+||[农夫山泉：别被“水战”吓破胆，首富压力交棒成了？](https://www.huxiu.com/article/3406249.html?f=rss)|
+||[人靠衣和妆，但年轻人不装了](https://www.huxiu.com/article/3406252.html?f=rss)|
+||[中产三宝的拉夫劳伦，如何从零起点逆袭成为奢侈名牌？](https://www.huxiu.com/article/3404040.html?f=rss)|
+||[越住院越亏损，“慢科室”的医保拉锯战](https://www.huxiu.com/article/3405900.html?f=rss)|
+||[具身智能吹得那么凶，真要落地千难万难](https://www.huxiu.com/article/3406268.html?f=rss)|
+||[凯迪拉克“迟暮”](https://www.huxiu.com/article/3405928.html?f=rss)|
+||[95%的跨境团队都用错了新人](https://www.huxiu.com/article/3406253.html?f=rss)|
+||[AI换脸，该抵制吗？](https://www.huxiu.com/article/3405941.html?f=rss)|
+||[手机电池集体“注水”，背后究竟发生了什么？](https://www.huxiu.com/article/3404030.html?f=rss)|
+||[打价格战，抢加盟商，零食量贩店激战“局中局”](https://www.huxiu.com/article/3404852.html?f=rss)|
+||[没有一个文明社会，能够容忍将孩子关进厕所](https://www.huxiu.com/article/3405007.html?f=rss)|
+||[莲宝叶则：东方魔幻世界](https://www.huxiu.com/article/3405949.html?f=rss)|
+||[0融资，用户过亿：这家公司做对了什么？](https://www.huxiu.com/article/3405947.html?f=rss)|
+||[半个世纪前的简单实验，改变了人们对量子效应的认知](https://www.huxiu.com/article/3405927.html?f=rss)|
+||[安慰剂效应是如何产生的？](https://www.huxiu.com/article/3404639.html?f=rss)|
+||[下沉的风向吹到手游领域](https://www.huxiu.com/article/3405920.html?f=rss)|
+||[日元式“套利交易”，有望在原油市场重演？](https://www.huxiu.com/article/3405940.html?f=rss)|
+||[水泥电池会是下一场能源革命吗？](https://www.huxiu.com/article/3405926.html?f=rss)|
+||[从IBM裁撤中国研发团队聊起](https://www.huxiu.com/article/3405930.html?f=rss)|
+||[当代年轻人，开始用奶茶钱买健康险](https://www.huxiu.com/article/3405707.html?f=rss)|
+||[“幽灵外卖”被曝光，外卖业将迎来一场“革命”](https://www.huxiu.com/article/3405923.html?f=rss)|
+||[当一个高中数学老师决定去种地](https://www.huxiu.com/article/3405918.html?f=rss)|
+||[老年食堂，变成青年“避难所”](https://www.huxiu.com/article/3405924.html?f=rss)|
+||[网球这个名利场，也是被中国人挤进来了](https://www.huxiu.com/article/3403981.html?f=rss)|
+||[对话TCL中环CIO渠本强：如何用工业4.0破解制造难题？](https://www.huxiu.com/article/3386335.html?f=rss)|
+||[“德企之乡”的进化逻辑](https://www.huxiu.com/article/3405015.html?f=rss)|
+||[我们为什么不愿回县城？](https://www.huxiu.com/article/3405008.html?f=rss)|
+||[进击的中国企业：2024年，到海外去收购一批公司](https://www.huxiu.com/article/3405908.html?f=rss)|
+||[花天价当“韭菜”，研学游到底怎么了？](https://www.huxiu.com/article/3404834.html?f=rss)|
+||[Telegram创始人被捕无关政治？普京盟友：美国是幕后黑手](https://www.huxiu.com/article/3405710.html?f=rss)|
+||[不恋爱不结婚，能过好这一生吗？](https://www.huxiu.com/article/3405709.html?f=rss)|
+||[iPhone16史诗级更新？苹果秋季发布会前瞻来了](https://www.huxiu.com/article/3405011.html?f=rss)|
+||[哈里斯：多建300万套房、设400亿美元基金，让美国人“有房住”](https://www.huxiu.com/article/3405694.html?f=rss)|
+||[在低谷期“恢复能量”的20件小事](https://www.huxiu.com/article/3404814.html?f=rss)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[微软将开源 .NET 框架 Mono 捐赠给 Wine](https://www.oschina.net/news/309189/ms-gives-mono-to-wine)|
+||[何小鹏宣布小鹏自研图灵芯片已流片成功](https://www.oschina.net/news/309179)|
+||[对话 Linux 之父！openKylin 核心开发者受邀参与内核顶会](https://www.oschina.net/news/309177)|
+|[标志情报局](http://www.logonews.cn/feed)|[苹果2024秋季发布会LOGO隐藏的彩蛋，附两款绝美壁纸!](https://www.logonews.cn/apple-2024-autumn-special-event.html)|
+||[教育科技公司 Life is Tech 多变的动态新LOGO](https://www.logonews.cn/life-is-tech-new-logo.html)|
+||[马来西亚摩托车制造商MODENAS启用新LOGO](https://www.logonews.cn/modenas-new-logo.html)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[程序员自由创业周记#40：结束了](https://www.v2ex.com/t/1068399#reply29)|
+||[请问语音克隆服务器搭建成本](https://www.v2ex.com/t/1068317#reply17)|
+||[最近比较火的国产免费 NAS 系统 fnOS，大家怎么看？](https://www.v2ex.com/t/1068366#reply53)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[yoRHa15: @无聊图](http://i.jandan.net/t/5743184)|
 |[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员自由创业周记 #40：结束了](https://w2solo.com/topics/4969)|
 |[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[NAS的数据管理，备份和使用](https://sspai.com/post/91818)|
 |[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[韩国调查通过 Telegram 传播的深度伪造换脸淫秽影像案](https://www.solidot.org/story?sid=79093)|
