@@ -9,9 +9,8 @@ def getRss():
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
-    # select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 500) order by random() limit 200
     query_sql = '''
-    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY random() limit 300
+    select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 1000) order by random() limit 500
     '''
 
     cur.execute(query_sql)

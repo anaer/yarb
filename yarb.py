@@ -96,12 +96,12 @@ def update_rss(rss: dict, proxy_url=''):
 def check_reply_number(text):
     # 使用正则表达式查找#reply及其后面的数字
     match = re.search(r'#reply(\d+)', text)
-    
+
     # 如果找到了匹配项
     if match:
         # 获取匹配的数字
         number = int(match.group(1))
-        
+
         # 判断数字是否大于10
         if number > 10:
             return True
@@ -147,7 +147,7 @@ def parseThread(url: str, proxy_url=''):
             if pubday > beginTime and pubday < tomorrow:
                 result.append(entry)
                 continue
-            
+
             # 因rss一般是按时间新->旧排序, 当遇到一条发布时间不满足的情况, 基本可以确定后续都不满足, 直接跳出循环
             break
         Color.print_success(f'[+] {title}\t{url}\t{len(result)}/{len(r.entries)}')
