@@ -2,6 +2,67 @@
 
 |来源|标题|
 |---|---|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[带娃省心、少跑医院，这个做法适合 0～3 岁新手家长](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B8%A6%E5%A8%83%E7%9C%81%E5%BF%83%E3%80%81%E5%B0%91%E8%B7%91%E5%8C%BB%E9%99%A2%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%81%9A%E6%B3%95%E9%80%82%E5%90%88%200%EF%BD%9E3%20%E5%B2%81%E6%96%B0%E6%89%8B%E5%AE%B6%E9%95%BF)|
+||[靠喝酸奶通便？你可能一直都搞错了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%9D%A0%E5%96%9D%E9%85%B8%E5%A5%B6%E9%80%9A%E4%BE%BF%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E9%83%BD%E6%90%9E%E9%94%99%E4%BA%86)|
+||[这个加剧口臭的地方，你一直都没刷到](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%99%E4%B8%AA%E5%8A%A0%E5%89%A7%E5%8F%A3%E8%87%AD%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E4%BD%A0%E4%B8%80%E7%9B%B4%E9%83%BD%E6%B2%A1%E5%88%B7%E5%88%B0)|
+||[劝你用铁锅的理由，一个就够了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%8A%9D%E4%BD%A0%E7%94%A8%E9%93%81%E9%94%85%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F%E4%BA%86)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[中国数据库前世今生第5集：2020年代/国产数据库“百团大战”](https://www.infoq.cn/article/oK0d52icRBMwRpUfzQ3y)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[最近react圈有没有打包或者状态管理的新技术？](https://segmentfault.com/q/1010000045222030)|
+|[IT之家](https://www.ithome.com/rss/)|[滴滴宣布出资 6.7 亿元入股四维智联，消息称 300 人智驾座舱团队已转移](https://www.ithome.com/0/791/703.htm)|
+||[24.98 万元起，问界新 M7 Pro 首批车辆开启交付](https://www.ithome.com/0/791/702.htm)|
+||[《俄罗斯方块：永恒》发布：纪念该系列发行 40 周年，收录超 15 款经典游戏](https://www.ithome.com/0/791/701.htm)|
+||[打破国外长期垄断，首套国产 1300MW 级核电发电机护环锻件成功研制](https://www.ithome.com/0/791/700.htm)|
+||[vivo Y300 Pro 5G 手机跑分曝光：高通骁龙 6 Gen 1 芯片、12GB 内存](https://www.ithome.com/0/791/699.htm)|
+||[德州仪器推出 DLPC8445 显示控制器：尺寸缩小 90%，适配 4K 240Hz 投影仪](https://www.ithome.com/0/791/697.htm)|
+||[高压电池存短路风险，宝马将召回 12535 辆 Mini Cooper SE 电动汽车](https://www.ithome.com/0/791/696.htm)|
+||[奇瑞星途瑶光 C-DM 新增电四驱版车型，2024 成都车展开启预售](https://www.ithome.com/0/791/695.htm)|
+||[万代南梦宫《蓝色协议》游戏 2025 年 1 月 18 日停服，上线不到两年](https://www.ithome.com/0/791/694.htm)|
+||[XB-1 超音速原型机完成第 2 次试飞：速度达 430 公里 / 小时](https://www.ithome.com/0/791/693.htm)|
+||[比亚迪仰望汽车：U9 纯电超跑已陆续交付，全系车型参加成都车展](https://www.ithome.com/0/791/692.htm)|
+||[特斯拉哨兵模式预览功能登陆安卓平台：海外用户可远程查看车辆拍摄的视频片段](https://www.ithome.com/0/791/691.htm)|
+||[小米米家桌面学习灯 Pro 开启众筹：显色指数 Ra97、入座亮灯，众筹价 469 元](https://www.ithome.com/0/791/690.htm)|
+||[消息称苹果公司服务部门将裁员约百人，波及 Apple Books / Apple News 等业务](https://www.ithome.com/0/791/687.htm)|
+||[传音 Tecno 展示 Phantom Ultimate 2 概念三折叠手机：厚 11 毫米，折叠 6.48 英寸 / 展开 10 英寸](https://www.ithome.com/0/791/686.htm)|
+||[Freepik Mystic 发布，号称目前最先进的 AI 图像生成器](https://www.ithome.com/0/791/685.htm)|
+||[广颖电通推出其首款 microSD Express 存储卡，具备“SSD 等级”效能](https://www.ithome.com/0/791/684.htm)|
+||[最低不到 1500 元，采埃孚发布高速公路自动驾驶领航辅助系统 RFA](https://www.ithome.com/0/791/683.htm)|
+||[NASA 吸取历史教训：星际客机任务决策受两起航天飞机灾难影响](https://www.ithome.com/0/791/682.htm)|
+||[国内最大汽车经销商广汇今日摘牌退市：股票连续 20 个交易日低于 1 元](https://www.ithome.com/0/791/681.htm)|
+||[我国首艘氢燃料电池海上交通船“蠡湖未来”号成功下水，主要动力源 100% 国产化](https://www.ithome.com/0/791/680.htm)|
+||[谷歌发布 3 款 Gemini 实验 AI 模型：1.5 Pro 冲榜第二、1.5 Flash 从第 23 蹿升至第 6](https://www.ithome.com/0/791/676.htm)|
+||[比亚迪发布王朝网全新 MPV 预告图，号称“王朝新奢，宜家宜商”](https://www.ithome.com/0/791/670.htm)|
+||[2025 款比亚迪宋 L EV 新增玄空灰内饰，8 月 30 日成都车展上市](https://www.ithome.com/0/791/669.htm)|
+||[PS5 日本涨价 19%，索尼股价应声上涨](https://www.ithome.com/0/791/668.htm)|
+||[传音 Infinix Zero 40 系列手机曝光：含 4G / 5G 版、6.78 英寸屏幕、1.08 亿主摄，起价 279 美元](https://www.ithome.com/0/791/666.htm)|
+||[腾讯 QQ 宣布频道与米哈游《原神》数据打通：查看游戏成就、深渊进度等](https://www.ithome.com/0/791/665.htm)|
+||[比亚迪执行副总裁李柯：未来公司“近一半销量”将来自海外](https://www.ithome.com/0/791/664.htm)|
+||[799 元，HMD Barbie 芭比联名手机国行开启预售](https://www.ithome.com/0/791/662.htm)|
+||[红魔电竞平板预热：行业首款内置高速离心风扇，17x17mm、20000 转速](https://www.ithome.com/0/791/661.htm)|
+||[三星 SDI、通用汽车达成在美建设合资电池工厂协议，总投资约 35 亿美元](https://www.ithome.com/0/791/659.htm)|
+||[英伟达推出 NIM Agent Blueprints 服务，加速企业创建 AI 应用](https://www.ithome.com/0/791/658.htm)|
+||[“续航灭霸”vivo Y300 Pro 手机官宣：vivo 史上最大蓝海电池、vivo 首款全等深微四曲屏](https://www.ithome.com/0/791/657.htm)|
+||[石头迷你洗衣机 Q1M 预售：上排水设计、洗净比 1.1、0.8kg 容量，1399 元](https://www.ithome.com/0/791/653.htm)|
+||[两年过去了，Boring 公司单向隧道中的特斯拉汽车仍未能实现自动驾驶](https://www.ithome.com/0/791/651.htm)|
+||[传音 Tecno Phantom V Fold2 / Flip2 折叠屏手机曝光](https://www.ithome.com/0/791/649.htm)|
+||[创维集团 2024 上半年营收 301.53 亿元，同比下降 6.6%](https://www.ithome.com/0/791/648.htm)|
+||[美光收购友达台南、台中厂房，总交易价值 81 亿新台币](https://www.ithome.com/0/791/647.htm)|
+||[Cerebras 推出全球最快 AI 推理解决方案，速度是英伟达方案的 20 倍](https://www.ithome.com/0/791/646.htm)|
+||[OPPO Enco X3 真无线耳机参数被曝：双动圈单元、50dB 降噪、丹拿联合调音、IP55，10 月发布](https://www.ithome.com/0/791/645.htm)|
+||[AMD 锐龙 5 7600X3D 处理器曝光：售价 249 美元，有望 9 月亮相](https://www.ithome.com/0/791/644.htm)|
+||[小米王腾称不会做升降摄像头手机，对整机设计影响太大](https://www.ithome.com/0/791/643.htm)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[工信部通报17款涉嫌侵害用户权益的APP](https://www.4hou.com/posts/Dxqn)|
+||[新型 Styx 窃取程序攻击用户窃取登录密码](https://www.4hou.com/posts/6MW9)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 深圳 国庆去深圳转转，能告诉哪里逛吃逛吃的地方吗？](https://www.v2ex.com/t/1068383#reply19)|
+||[ 游戏 黑神话最粪的怪](https://www.v2ex.com/t/1068373#reply51)|
+||[ NAS 最近比较火的国产免费 NAS 系统 fnOS，大家怎么看？](https://www.v2ex.com/t/1068366#reply37)|
+||[ 问与答 空调的机身显示温度真是生活中最大的 bug](https://www.v2ex.com/t/1068362#reply19)|
+||[ 问与答 大伙觉得最准确的天气 app 是哪个？接受付费](https://www.v2ex.com/t/1068361#reply26)|
+||[ 问与答 如何给在家干活的媳妇提供情绪价值？](https://www.v2ex.com/t/1068360#reply30)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[微软Sway在大规模二维码钓鱼活动中被滥用](https://www.freebuf.com/news/409605.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软宣布将开源.NET项目Mono移交给WineHQ 希望未来能够顺利发展](https://www.landiannews.com/archives/105646.html)|
+||[微软发布Windows Terminal v1.21正式版和v1.22预览版 带来多个重要功能更新](https://www.landiannews.com/archives/105645.html)|
+||[AMD将分支预测优化移植到Windows 11 23H2 不用Admin账户也可以提高性能](https://www.landiannews.com/archives/105644.html)|
+||[苹果添加新工具可以将Apple Music播放列表无损迁移到YouTube Music](https://www.landiannews.com/archives/105643.html)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[你的 iPhone 被人偷偷追蹤了嗎？五個方法檢查 iPhone 是否被追蹤](https://applefans.today/2024-08-6-ways-to-know-if-your-iphone-is-being-tracked/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[马斯克的电动车宣言从特斯拉官网消失](https://m.cnbeta.com.tw/view/1443732.htm)|
 ||[加密货币急挫，比特币一度逼近58000关口](https://m.cnbeta.com.tw/view/1443731.htm)|
