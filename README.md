@@ -2,6 +2,22 @@
 
 |来源|标题|
 |---|---|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[为什么儿童不够专注](https://www.solidot.org/story?sid=79096)|
+||[不同类型的爱激活大脑的不同部位](https://www.solidot.org/story?sid=79095)|
+||[越来越多的大学生在 AI 帮助下写论文](https://www.solidot.org/story?sid=79094)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[Fit Records - 健身锻炼记录工具 iOS、Apple Watch 内购限免 ](https://free.apprcn.com/fit-records/)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[搜狗输入法使用了 windows 啥漏洞，发通知广告竟然无法关闭](https://www.v2ex.com/t/1068320#reply64)|
+||[记得在 V2EX 上看到过一个网页翻译工具但是不记得叫什么了](https://www.v2ex.com/t/1068437#reply30)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-08-28](https://decohack.com/producthunt-daily-24-08-28/)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[ServiceBridge泄露 3200万份文件，大量企业数据被曝光](https://www.freebuf.com/news/409656.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[元象推出国内首个基于物理的3D动作生成模型MotionGen](https://www.jiqizhixin.com/articles/2024-08-28-7)|
+||[识别精度高达76.32%，浙大、之江团队用深度学习加速大规模药物发现和再利用](https://www.jiqizhixin.com/articles/2024-08-28-6)|
+||[孟瑜获杰出博士论文奖，中科大获最佳学生论文，KDD 2024全部奖项放出](https://www.jiqizhixin.com/articles/2024-08-28-5)|
+||[来外滩大会密态计算论坛，洞察数据可信流通产业生态重构](https://www.jiqizhixin.com/articles/2024-08-28-4)|
+||[Llama-3不算真开源：今年10月，权威定义就要来了](https://www.jiqizhixin.com/articles/2024-08-28-3)|
+||[「草莓」即将上线，OpenAI新旗舰大模型曝光，代号「猎户座」](https://www.jiqizhixin.com/articles/2024-08-28-2)|
+||[牛津光计算论文登Nature正刊，分析帕金森患者步态准确率达92.2%](https://www.jiqizhixin.com/articles/2024-08-28)|
+|[GamerNoTitle](https://bili33.top/atom.xml)|[2024年“羊城杯”粤港澳大湾区网络安全大赛个人WriteUp](https://bili33.top/posts/CTF-Yangcheng2024-Writeup/)|
 |[smallyu的博客](https://smallyu.net/atom.xml)|[我的加密货币定投策略（一）](https://smallyu.net/2024/08/28/%E6%88%91%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%AE%9A%E6%8A%95%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%80%EF%BC%89/)|
 |[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[白金睾丸: @无聊图](http://i.jandan.net/t/5743253)|
 ||[黄山泰山长白: @无聊图](http://i.jandan.net/t/5743231)|
