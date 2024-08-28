@@ -9,8 +9,9 @@ def getRss():
     conn = sqlite3.connect('rss/rss.db3')
     cur = conn.cursor()
 
+    # select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 500) order by random() limit 200
     query_sql = '''
-    select * from (SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY sort desc limit 500) order by random() limit 200
+    SELECT title, xml_url FROM t_rss WHERE status = 1 ORDER BY random() limit 300
     '''
 
     cur.execute(query_sql)
@@ -176,7 +177,7 @@ def deleteHistory():
     fromDate = datetime.datetime.combine(datetime.datetime.now() + datetime.timedelta(days=-365), datetime.time.min)
 
     cur.execute('''
-    delete from t_article where published_at < ? 
+    delete from t_article where published_at < ?
     ''', [
         fromDate
         ])
