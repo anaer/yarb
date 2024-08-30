@@ -2,6 +2,107 @@
 
 |来源|标题|
 |---|---|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[永续合约快进快出套利策略](https://juejin.cn/post/7408458428110929946)|
+||[6.JS高级-函数一等公民](https://juejin.cn/post/7408463805578199076)|
+||[每日知识积累 Day 9](https://juejin.cn/post/7408436392815738889)|
+||[IndexedDB-极速本地存储：浏览器中的超级数据库](https://juejin.cn/post/7408424953702596646)|
+||[如何进行前端代码质量检测](https://juejin.cn/post/7408468874682793999)|
+||[浅谈前端性能优化之加载策略优化](https://juejin.cn/post/7408468874682777615)|
+||[纯css实现无限循环滚动logo墙](https://juejin.cn/post/7408441793790410804)|
+||[FormCreate中实现组件之间动态联动教程](https://juejin.cn/post/7408474012940025890)|
+||[分享一些电商 API 接口不稳定的解决方案](https://juejin.cn/post/7408448858257342518)|
+||[Vue 插件开发与全局错误处理和日志记录插件实战](https://juejin.cn/post/7408379631093579827)|
+||[理解生产者-消费者问题：JavaScript实现](https://juejin.cn/post/7408394788066738176)|
+||[如何理解浏览器的空闲时间](https://juejin.cn/post/7408365495475765248)|
+||[{"errMsg":"navigateTo:fail timeout"}](https://juejin.cn/post/7408436392814346249)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 为什么最流行的编码算法是刚好带两个符号破坏兼容性的 base64，而不是能够无视大小写的 base36、不带符号的 base62？这两个符号不仅严重影响兼容性使标准码表的 base64 不能直接拼在 url 中，还没有增加多少信息密度](https://www.v2ex.com/t/1069022#reply13)|
+||[ 职场话题 我这种需求应该去学什么](https://www.v2ex.com/t/1069010#reply11)|
+||[ 程序员 为什么国外使用 cookies 就需要用户明确同意？我把 cookies 序列化后丢进 localStorage，写个 interceptor 给所有 api 请求都加个请求头 cakes 把这个值发出去不是也能一样的效果](https://www.v2ex.com/t/1068994#reply13)|
+||[ 宽带症候群 感觉 500M 宽带是比较合理的选择](https://www.v2ex.com/t/1068982#reply20)|
+||[ MacBook Pro 求助购买二手或者官翻 mbp 建议](https://www.v2ex.com/t/1068979#reply12)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[演员曾黎称家里有 1500 斤自制酵素，放了五六年依旧能吃，这科学吗？自制酵素要注意些什么？](https://www.zhihu.com/question/665628529)|
+||[请问安切洛蒂为什么不让姆巴佩打他擅长的左边锋？](https://www.zhihu.com/question/665522734)|
+||[美经济学家预警「1 万亿美元资金将回流中国，推动人民币或升值 10%」，这释放出什么信号？](https://www.zhihu.com/question/665596255)|
+||[炮兵到底有多少技术含量?](https://www.zhihu.com/question/661957618)|
+||[如何评价《异形：夺命舰》成为中国内地影史恐怖片票房冠军？该片票房为何这么高？](https://www.zhihu.com/question/665372135)|
+||[陈清泉学外语为啥高小琴第一反应好像不愿意？](https://www.zhihu.com/question/533524169)|
+||[《黑神话：悟空》能够被载入中国互联网史书吗？为什么？](https://www.zhihu.com/question/665606465)|
+||[二孩夫妻又生四胞胎，孩子父亲回应质疑称「减胎的风险很高」，减胎风险有多大？多胎孕妇怎么选是最优解？](https://www.zhihu.com/question/665599987)|
+||[如果我有一个葫芦原本可以饮用 X 次，每次饮用葫芦有概率 p 不消耗次数，葫芦可以饮用次数的期望是多少？](https://www.zhihu.com/question/665362643)|
+||[如何评价电视剧《新三国》？](https://www.zhihu.com/question/63100661)|
+||[《黑神话：悟空》爆火后我有个疑问，什么算 3A 游戏？是谁来负责评定？](https://www.zhihu.com/question/665598504)|
+||[北京人心目中北京当地高校的排名是怎么样的?](https://www.zhihu.com/question/39361221)|
+||[对于未来中国的城市格局，你有怎样的构想？](https://www.zhihu.com/question/51911025)|
+||[银行股集体下挫，「工农中建」四大行均跌超 4%，厦门银行一度跌超 8%，银行股后市怎么走？](https://www.zhihu.com/question/665614131)|
+||[《黑神话：悟空》「安身法」没办法拦怪也没回血，那这个火圈到底干啥的？](https://www.zhihu.com/question/665496647)|
+||[跑步、骑行、羽毛球，为什么有「体育三大毒」的说法？](https://www.zhihu.com/question/660995664)|
+||[猫咪能记得住自己的名字吗？](https://www.zhihu.com/question/664751090)|
+||[新手健身不知道做哪些动作，有没有什么书籍或视频提供参考？](https://www.zhihu.com/question/664431814)|
+||[OpenAI 或在今年内发布 GPT-4 继任模型「猎户座」，并称有超现任模型的推理和生成能力，你如何评价？](https://www.zhihu.com/question/665523993)|
+||[Steam 称超 48 万人买《黑神话：悟空》却不玩，如何看待此事？](https://www.zhihu.com/question/665685785)|
+||[2024 年还买油车的人是怎么想的？](https://www.zhihu.com/question/665629920)|
+||[为什么冷兵器战场上很少出现棍子？](https://www.zhihu.com/question/665555134)|
+||[二郎神说的「听调不听宣」是什么？听调和听宣的区别是什么？](https://www.zhihu.com/question/496963917)|
+||[痞老板写歌 diss 乙游发到网易云，遭网易乙游《时空中的绘旅人》下架，下架原因是什么？是否合理？](https://www.zhihu.com/question/665641456)|
+||[24-25 赛季西甲西甲第 3 轮拉斯帕尔马斯 1:1 皇家马德里，如何评价这场比赛？](https://www.zhihu.com/question/665653397)|
+||[家里有个抑郁的孩子是种怎样的体验？该怎么办？](https://www.zhihu.com/question/664782278)|
+||[周杰伦起诉网易不正当竞争，二审被驳回「公众人物应对话题有容忍度」，如何从法律角度解读这一判决结果？](https://www.zhihu.com/question/665607181)|
+||[做完《原神》5.0 纳塔剧情，你有什么感想？](https://www.zhihu.com/question/665549091)|
+||[《西游记》中，为什么天庭没有追查孙悟空第一个师傅——菩提祖师？](https://www.zhihu.com/question/403995759)|
+||[山西大同一面馆因阴阳价被立案调查，目前调查情况如何？对相关行业起到哪些警示作用？](https://www.zhihu.com/question/665408814)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国科技公司能否在硅谷找到立足之地？](https://cn.nytimes.com/technology/20240830/china-venture-capital/dual)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[Efficient 与格芯合作，利用后者 22FDX 制程打造 Fabric 高能效处理器](https://www.ithome.com/0/792/234.htm)|
+||[电动版路虎揽胜路测照曝光：无伪装膜，采用半封闭式进气格栅](https://www.ithome.com/0/792/213.htm)|
+||[石头自清洁扫拖机器人 P20 Pro 预售：0 缠清扫、18500Pa 吸力、底盘升降](https://www.ithome.com/0/792/202.htm)|
+||[全球最大影视盗版流媒体网络 Fmovies 被关闭](https://www.ithome.com/0/792/191.htm)|
+||[腾讯、网易被曝拟缩减在日本游戏投资：前者回应“仍致力于合作”，后者“无可奉告”](https://www.ithome.com/0/792/188.htm)|
+||[被美议员指控“威胁美国安全”，宁德时代称毫无根据](https://www.ithome.com/0/792/186.htm)|
+||[微软明年停用 Action Pack 推动客户云迁移，新计划年费从 390 升至 735 英镑、新增 20 多项产品使用权益](https://www.ithome.com/0/792/181.htm)|
+||[滴滴出行辟谣平台可人工操纵改派预约单，造谣者手写道歉信致歉](https://www.ithome.com/0/792/179.htm)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[高阶智驾，极越全面降维打击](https://www.tmtpost.com/7231263.html)|
+||[复盘暑期酒店市场：落寞的高端和爆火的平价商务酒店](https://www.tmtpost.com/7231105.html)|
+||[蒙牛乳业营收利润双降，年内市值没了两百多亿](https://www.tmtpost.com/7231104.html)|
+||[三年5万家便捷店，库迪抄“底”能成吗？](https://www.tmtpost.com/7231020.html)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国科技公司能否在硅谷找到立足之地？](https://cn.nytimes.com/technology/20240830/china-venture-capital/?utm_source=RSS)|
+||[沙利文与习近平、张又侠会面，推动中美军事沟通](https://cn.nytimes.com/world/20240830/china-us-sullivan-xi/?utm_source=RSS)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[派评 近期值得关注的 App](https://sspai.com/post/91806)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[面对入职背调，我还敢美化简历吗？](https://www.huxiu.com/article/3413911.html?f=rss)|
+||[“铁头”被抓：打假不是一门好生意](https://www.huxiu.com/article/3413919.html?f=rss)|
+||[睡眠，真的能进化掉吗？](https://www.huxiu.com/article/3413907.html?f=rss)|
+||[当下这种环境，还剩下什么创业方向？](https://www.huxiu.com/article/3413914.html?f=rss)|
+||[《姥姥的外孙》凭什么冲上豆瓣9.0？](https://www.huxiu.com/article/3412499.html?f=rss)|
+||[AI革新：蛋白质设计新突破，助力癌症与痴呆症研究](https://www.huxiu.com/article/3413577.html?f=rss)|
+||[谷歌大手笔挖走创始人后，Character.AI上演裁员风波](https://www.huxiu.com/article/3413891.html?f=rss)|
+||[边捡漏，边回血，年轻人在二手交易里找回人生残值](https://www.huxiu.com/article/3412687.html?f=rss)|
+||[2024年，十大商业新趋势](https://www.huxiu.com/article/3374836.html?f=rss)|
+|[36氪](https://36kr.com/feed)|[连美国副总统都在蹭的「坏女孩风」，让整个外网沸腾了](https://36kr.com/p/2928099923237766?f=rss)|
+||[「浓人」杨天真：我就是「既要又要」](https://36kr.com/p/2928088486697859?f=rss)|
+|[张洪Heo](https://blog.zhheo.com/rss.xml)|[感冒了怎么办？流鼻涕、鼻炎纸巾推荐：洁柔乳霜纸](https://blog.zhheo.com/p/6ccd.html)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775053)|
+||[《黑神话：悟空》发布「性能测试工具」检测玩家 PC 配置表现，各系硬件表现怎么样？有哪些信息值得关注？](https://daily.zhihu.com/story/9775043)|
+||[「四川」，到底是哪 4 个川？](https://daily.zhihu.com/story/9775046)|
+||[为什么草莓这种水果一旦做成果汁或零食，味道闻起来没有那么清新？甚至有点臭臭的？](https://daily.zhihu.com/story/9775036)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[给人生经历加点料：打工人的低成本留学之旅](https://sspai.com/post/91741)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[FreeBSD 社区大讨论：基础系统中使用 Rust](https://www.oschina.net/news/309556/freebsd-considers-rust-in-the-base-system)|
+||[《生成式人工智能行业自律倡议》发布](https://www.oschina.net/news/309552)|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[圣荷西谋杀案](https://leimao.github.io/essay/%E5%9C%A3%E8%8D%B7%E8%A5%BF%E8%B0%8B%E6%9D%80%E6%A1%88-Fatal-Visit/)|
+|[新浪专栏-创事记](https://plink.anyfeeder.com/sina/csj)|[成功出海的中国品牌，都做对了什么？](https://finance.sina.com.cn/tech/csj/2024-08-30/doc-incmkumk3619919.shtml)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[IntelliJ IDEA 2024.2.1 发布](https://www.oschina.net/news/309519/intellij-idea-2024-2-1)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[kanye Haikou, China](https://www.reddit.com/r/Kanye/comments/1f4nylb/kanye_haikou_china/)|
+||[卧槽 大日本帝国海军](https://www.reddit.com/r/real_China_irl/comments/1f4myex/卧槽_大日本帝国海军/)|
+|[蓝点网](https://www.landiannews.com/feed)|[波音最终决定星际航线CST-100将在9月6日通过远程遥控方式返回地面](https://www.landiannews.com/archives/105680.html)|
+||[欧盟监管机构正在调查Telegram是否违规 疑似未正确上报用户数据规避DSA法案](https://www.landiannews.com/archives/105679.html)|
+||[微软继续改进：存在安全与隐私争议的回顾 Recall 变成可选功能可以卸载](https://www.landiannews.com/archives/105678.html)|
+||[苹果AI功能已取消区域限制 现除欧盟和中国大陆市场外均可启用](https://www.landiannews.com/archives/105677.html)|
+|[极客公园](http://www.geekpark.net/rss)|[专访宇树科技王兴兴：在人形机器人的巨变前夜，做一个敏锐的谨慎派](http://www.geekpark.net/news/339953)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[21款APP及SDK存在侵害用户权益行为被通报](https://www.4hou.com/posts/MXZ3)|
+||[Fortra 修复了关键的 FileCatalyst Workflow 硬编码密码问题](https://www.4hou.com/posts/LGZ4)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[15 岁编程少年重返校园，总分 670 分，以 600 分考上最好高中 - 宋浩铜](https://w2solo.com/topics/4980)|
+||[开始了！在这里分享和记录我的出海开荒之旅 ---【大型连载】第 000 篇](https://w2solo.com/topics/4979)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[启明星辰2024半年报：营收15.74亿，亏损1.82亿](https://www.freebuf.com/news/409840.html)|
+||[攻击者冒充VPN提供商对员工发起攻击，超130家公司已“中招”](https://www.freebuf.com/news/409821.html)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[4篇论文入选数据库顶会，腾讯云数据库再迎新突破](https://www.infoq.cn/article/EcwEANhURyiFfaRyk6TJ)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[有哪些天生自带鲜味的食材？](http://www.zhihu.com/question/664293162/answer/3610523061?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub has new routes 成都大学 - 教务处通知公告](https://t.me/awesomeRSSHub/6767)|
 |[人人都是产品经理](https://www.woshipm.com/feed)|[体验落差，微信又一个“逆”更新。](https://www.woshipm.com/share/6106682.html)|
 ||[《黑神话：悟空》背后：产品经理如何借鉴游戏化思维打造爆款产品？](https://www.woshipm.com/pd/6106635.html)|
