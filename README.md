@@ -2,6 +2,165 @@
 
 |来源|标题|
 |---|---|
+|[IT之家-24 小时最热](https://rsshub.app/ithome/ranking/24h)|[“年轻人的第一台 GT”比亚迪海豹 06 GT 发布，盲订价 15 万-20 万元](https://www.ithome.com/0/792/215.htm)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[最被低估的公司之一，手持4张顶级王牌，复星核心产业赛道优势加速估值回升](https://xueqiu.com/1859139457/302984351)|
+||[内蒙华电与陕西能源的对比](https://xueqiu.com/8790885129/302959677)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[持續運動九年記：沉澱與重啟](https://taiwan.chtsai.org/2024/08/30/chixu_yundong_jiu_nian_ji/)|
+|[IT之家](https://www.ithome.com/rss/)|[市场监管总局督导阿里巴巴集团控股有限公司完成三年整改](https://www.ithome.com/0/792/329.htm)|
+||[艾泰克 ATK 烈空 Z1 Pro Max 双模鼠标开售：原相 3950、非对称右手型，299 元](https://www.ithome.com/0/792/328.htm)|
+||[晋江文学城痛批“部分博主偷取多部知名小说喂 AI”：无耻嚣张的侵权行为](https://www.ithome.com/0/792/325.htm)|
+||[小米小爱音箱陆续推送“大模型小爱”：支持文本创作、实时搜索等](https://www.ithome.com/0/792/323.htm)|
+||[荣耀 MagicBook Art 14 骁龙版曝光：IFA 展亮相，还有新配色](https://www.ithome.com/0/792/322.htm)|
+||[正交棋盘式按键布局，Keyboardio 推出 Preonic 机械键盘](https://www.ithome.com/0/792/320.htm)|
+||[Steam 国区 115.2 元，游戏《霍格沃茨之遗》迎 3 折史低折扣](https://www.ithome.com/0/792/318.htm)|
+||[通义网页版上线“PPT 创作”功能：一句话或一个文档即可生成 PPT](https://www.ithome.com/0/792/317.htm)|
+||[浙江大学合成新型铬基笼目晶格反铁磁体 CsCr3Sb5：在磁性边缘实现超导电性，成果登 Nature](https://www.ithome.com/0/792/311.htm)|
+||[深蓝 L07 车型亮相成都车展：搭载华为乾崑智驾，提供纯电、增程双版本](https://www.ithome.com/0/792/308.htm)|
+||[特斯拉中国上架旧款 Model Y 车型用仪表台氛围灯，含安装服务售 1299 元](https://www.ithome.com/0/792/306.htm)|
+||[小天才就电话手表回答“中国人不诚实”一事发布整改公告，小度科技回应称已全面排查清理](https://www.ithome.com/0/792/305.htm)|
+||[北京现代第五代胜达上市：可选 6 座 / 7 座布局，19.58 万元起](https://www.ithome.com/0/792/304.htm)|
+||[乘联分会崔东树：2024 年 7 月中国车企市场份额 31%，世界汽车销量 722 万台、同比下降 1%](https://www.ithome.com/0/792/302.htm)|
+||[摩托罗拉海外推出 Moto G55 5G 手机：天玑 7025、4G RAM 起步，249 欧元起](https://www.ithome.com/0/792/299.htm)|
+||[台积电角力玻璃基板：和英特尔、三星竞争，首批芯片最快有望 2025 年投产](https://www.ithome.com/0/792/297.htm)|
+||[2025 款比亚迪宋 L EV 上市：续航 550km~662km，18.98 万元起](https://www.ithome.com/0/792/294.htm)|
+||[售价 86.34 万元，全新梅赛德斯-AMG EQE 53 4MATIC + 纯电 SUV 国内上市](https://www.ithome.com/0/792/291.htm)|
+||[安克 250W 智能多口桌充开售：单口最高 140W、智控旋钮、时钟模式屏显，799 元](https://www.ithome.com/0/792/286.htm)|
+||[小米米家净水器 1200G Pro 上架：零陈水 3.0 技术、支持多档定量取水，1999 元](https://www.ithome.com/0/792/285.htm)|
+||[海外多家主流媒体网站对苹果 AI 内容抓取机器人 Applebot 说不](https://www.ithome.com/0/792/284.htm)|
+||[消息称陈立武退出英特尔董事会实因与高管存在意见分歧](https://www.ithome.com/0/792/281.htm)|
+||[售 17.88 万元起，长城 2.4T 越野炮上市](https://www.ithome.com/0/792/280.htm)|
+||[文石 T10C 彩墨办公本电纸书 9 月 5 日发布，有望配备 Kaleido 3 面板](https://www.ithome.com/0/792/279.htm)|
+||[行驶中存在失去动力、无预警碰撞风险，克莱斯勒召回 70 辆进口大切诺基汽车](https://www.ithome.com/0/792/273.htm)|
+||[梅赛德斯-奔驰中国召回 11 辆进口 GLB SUV 汽车：后轴制动软管未按要求进行布置](https://www.ithome.com/0/792/272.htm)|
+||[饰板可能会从车辆上脱落，特斯拉召回 870 辆进口 Model X 电动汽车](https://www.ithome.com/0/792/269.htm)|
+||[现代 IONIQ 6 N 电动汽车路测照片曝光](https://www.ithome.com/0/792/277.htm)|
+||[山灵 AE10 十单元动铁 HiFi 耳机上架：4 颗山灵定制 + 2 颗楼氏 + 4 颗声扬单元，6998 元](https://www.ithome.com/0/792/276.htm)|
+||[联想小新大象黑白激光打印机 9 月 10 日开售：每分钟至高打 26 页，售 1299 元](https://www.ithome.com/0/792/275.htm)|
+||[长城山海炮穿越版开启预售：2.4T 柴油发动机，预售价 24.98 万元](https://www.ithome.com/0/792/270.htm)|
+||[三星 W25（Galaxy Z Fold 特别版）折叠手机曝料：9 月量产、升级超薄玻璃，主销中国](https://www.ithome.com/0/792/268.htm)|
+||[五单元 240W 输出：宝华韦健 Zeppelin 飞艇 5 代音箱 3294 元百亿补贴](https://www.ithome.com/0/792/266.htm)|
+||[朝代之首：比亚迪王朝网全新车型 IP“夏”发布](https://www.ithome.com/0/792/264.htm)|
+||[消息称美光将在西安工厂率先启动 LPCAMM 和 MRDIMM 内存模组量产](https://www.ithome.com/0/792/265.htm)|
+||[OPPO Enco Air4 真无线蓝牙耳机上架：充电 10 分钟播放 4 小时、IP55](https://www.ithome.com/0/792/263.htm)|
+||[韩国 N 号房卷土重来：这一次是 Deepfake，波及超 200 所学校](https://www.ithome.com/0/792/262.htm)|
+||[售价 25.98 万元，比亚迪腾势 N7 702 智驾 Pro 猎影版上市](https://www.ithome.com/0/792/261.htm)|
+||[浙江：加力推动跨境电商发展，力争到 2027 年规模较今年翻一番](https://www.ithome.com/0/792/260.htm)|
+||[媒体实测 SLC 高速缓存技术对 NVMe 固态硬盘性能的影响](https://www.ithome.com/0/792/259.htm)|
+||[澜起科技 2024 上半年营业收入 16.65 亿元，同比增长 79.49%](https://www.ithome.com/0/792/258.htm)|
+||[纽约 45 层高楼部署擦窗机器人：全球首次，速度比人快 3 倍](https://www.ithome.com/0/792/256.htm)|
+||[蔚来总裁秦力洪再谈汽车销量周榜：每周交强险的数据不是销售数据](https://www.ithome.com/0/792/255.htm)|
+||[暴雪《炉石传说》国服开启预约，9 月 25 日回归](https://www.ithome.com/0/792/253.htm)|
+||[比亚迪仰望 U8 豪华版新增全新黑色内饰，灵感来自山影之光](https://www.ithome.com/0/792/252.htm)|
+||[Ubuntu 24.04 LTS 发行版首个维护更新发布，改善装机体验](https://www.ithome.com/0/792/251.htm)|
+||[华为 Sound Joy 2 蓝牙音箱现身海外官网：40W 充电 / 续航 26 小时，支持 IP67 防尘防水](https://www.ithome.com/0/792/250.htm)|
+||[NASA 宇航员鼓励波音乘组：我也曾被困太空，你们做得不错](https://www.ithome.com/0/792/249.htm)|
+||[谷歌推送安卓 15 QPR1 Beta 1.1 更新，修复 Pixel 设备意外重启 BUG](https://www.ithome.com/0/792/248.htm)|
+||[理想汽车：行业首发全自动紧急转向 AES，截至 8 月 29 日智驾总里程 22 亿公里](https://www.ithome.com/0/792/246.htm)|
+||[微软 Edge 浏览器调整“内存限制器”：滑块变下拉菜单，预设 5 种选项](https://www.ithome.com/0/792/245.htm)|
+||[现代汽车艾尼氪 IONIQ 5 N 中国版上市：百公里加速 3.4 秒，38.88 万元](https://www.ithome.com/0/792/244.htm)|
+||[英特尔自救方案曝光，美芯片巨头陷 56 年来最艰难时刻](https://www.ithome.com/0/792/243.htm)|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[Linux 文件权限](https://www.mr-wu.cn/linux-file-permissions/)|
+||[ 视频 ASML 的 High-NA EUV 光刻系统](https://www.mr-wu.cn/asml-high-na-euv/)|
+|[SegmentFault 最新的文章](https://segmentfault.com/articles/feeds)|[专访王峰：Apache Paimon，在业务中生长](https://segmentfault.com/a/1190000045228764)|
+|[月光博客](http://www.williamlong.info/rss.xml)|[暴雪《炉石传说》国服开启预约](https://www.williamlong.info/archives/7452.html)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[中非合作论坛｜综述：中非合作推动非洲科技创新与绿色能源建设](http://www.news.cn/20240830/33851e8a3d334f56b9f0f97351e1a88d/c.html)|
+||[川青铁路：科技攻关突破建设难题](http://www.news.cn/20240830/2499e8219c944e2e8eff900eba1f3848/c.html)|
+||[第六届世界佛教论坛将于10月在中国浙江宁波举办](http://www.news.cn/20240830/22ad4d42895446a1ab60b1a1b117eb13/c.html)|
+||[“长城-2024”反恐国际论坛闭幕](http://www.news.cn/20240830/e6e447d9ed764884993ea1999820ac43/c.html)|
+||[拎包入住！保租房托起应届毕业生的“安居梦”](http://www.news.cn/20240830/adfd2416a8334788a150117a8db0ddac/c.html)|
+||[新职业故事丨万般角色皆是他——虚拟“大圣”们背后的动捕演员](http://www.news.cn/20240830/b1aeb001a7144224a204629cbec50f07/c.html)|
+||[当冼星海遇见延安——85年前《黄河大合唱》诞生的背后](http://www.news.cn/20240830/8e3272b240684735afb799b776851c53/c.html)|
+||[中方强烈谴责以色列在约旦河西岸发动大规模袭击](http://www.news.cn/20240830/469182b573494ef6be2aca3259f351e4/c.html)|
+||[新华社消息｜以色列与哈马斯同意暂时停火为儿童接种脊灰疫苗](http://www.news.cn/20240830/59bc90bf2ba2481c87b8f2a8d6d73acd/c.html)|
+||[锚定现代化 改革再深化 从一个圈看“幼有所育”新探索](http://www.news.cn/20240830/41fb170d5ca641c59ba1aa036c8313e4/c.html)|
+||[央行开展公开市场业务现券买断交易](http://www.news.cn/20240830/30319a5cf2584dc9867f1ff6039a120e/c.html)|
+||[在中国东北之巅守护绿色：长白山生态卫士的科研手记](http://www.news.cn/20240830/5997b728ff2e4faab3a56861ef0476ba/c.html)|
+||[山西电网光伏“绿电”出力超六成](http://www.news.cn/20240830/eaa96864a3db4416ac3da255d751ae2a/c.html)|
+||[心相近｜助力非洲可持续发展的“绿色金子”](http://www.news.cn/20240830/166de15b8ef54f65a1a665a47cb933d6/c.html)|
+||[新华视评｜房屋养老金保房屋安全](http://www.news.cn/20240830/e8ed2ae228ad4d83bcd2f3ce0e019864/c.html)|
+||[中非合作论坛｜通讯：一个喀麦隆青年的中国功夫“追梦记”](http://www.news.cn/20240830/8a40163671404b25b21690895dcdf3de/c.html)|
+||[新华社消息｜俄称乌在库尔斯克损失7450人](http://www.news.cn/20240830/fec84a17c48a4ad2b58252e8fb540a27/c.html)|
+||[学习《决定》每日问答丨完善海外引进人才支持保障机制有哪些主要要求](http://www.news.cn/20240830/20c0e5eb78164842b7eb9178a9b5b325/c.html)|
+||[新华社消息｜国际原子能机构总干事将赴扎波罗热核电站评估形势](http://www.news.cn/20240830/0450379ad6b34c31a743deaf9a318470/c.html)|
+||[中非合作论坛｜通讯：向阳花开 逐光而行——中企承建光热电站项目助力南非能源转型](http://www.news.cn/20240830/f52066811b794e20b5bb44bdad51eb6d/c.html)|
+||[马里中部两车相撞造成至少14人死亡](http://www.news.cn/20240830/1b69fbafb1d74c3f86e6c7d23dbfcd06/c.html)|
+||[人民币市场汇价（8月30日）](http://www.news.cn/20240830/48298227d6524c74a5f0f3880a1a20d2/c.html)|
+||[通讯｜“今天，我目睹了民主的运作”——记发展中国家议员观察中国基层立法工作](http://www.news.cn/20240830/74e0598f05774a58822232535c13d62d/c.html)|
+||[镜观·回响丨中非农业合作，结出“看得见摸得着”的硕果](http://www.news.cn/20240830/3019612f46f943f7a6ddfb3a0fc7be99/c.html)|
+||[中国“织密”山区交通网 助推物流跑出“加速度”](http://www.news.cn/20240830/db06882cf1404f58bb91f75d3336ab59/c.html)|
+||[公益微视频 胜男说防范：孩子追星、游戏充值背后的诈骗需警惕](http://www.news.cn/20240830/e467d1377a2d4507afbf52ef3d4ed3a3/c.html)|
+||[“中国数谷”上新无人驾驶小巴](http://www.news.cn/20240830/74dcebc249734031b052f6e172739879/c.html)|
+||[海报｜个个都是“显眼包” 台青“嗨聊”中华传统文化](http://www.news.cn/20240830/6392163d79f1439e8049b3e05e74e62a/c.html)|
+||[全球连线 在中国，一件快递如何抵达大山深处](http://www.news.cn/20240830/6b5b449f8af140a28b290d2a62f32627/c.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Android 是直接买一加 12 还是再等等 13](https://www.v2ex.com/t/1069054#reply13)|
+||[ 电动汽车 小鹏 mona03 咋样啊？](https://www.v2ex.com/t/1069053#reply18)|
+||[ 职场话题 求职 7 年研发， GAP100 多天，寻找出路。](https://www.v2ex.com/t/1069044#reply16)|
+||[ 健康 也不知道是眼压高还是鼻窦炎，隔三差五前额偏头痛。。](https://www.v2ex.com/t/1069025#reply25)|
+||[ 程序员 为什么最流行的编码算法是刚好带两个符号破坏兼容性的 base64，而不是能够无视大小写的 base36、不带符号的 base62？这两个符号不仅严重影响兼容性使标准码表的 base64 不能直接拼在 url 中，还没有增加多少信息密度](https://www.v2ex.com/t/1069022#reply27)|
+||[ NAS 家用，少量但重要的数据做冷备，用刻盘还是硬盘，还是二者兼备？](https://www.v2ex.com/t/1069016#reply22)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[加密货币诈骗者声称他们黑进了麦当劳的Instagram账户并窃取了70万美元](https://www.anquanke.com/post/id/299642)|
+||[联邦调查局称一名系统管理员锁定了数千台 Windows 工作站并索要赎金](https://www.anquanke.com/post/id/299645)|
+||[黑客利用未修补的 AVTECH IP 摄像机漏洞进行僵尸网络攻击](https://www.anquanke.com/post/id/299648)|
+||[CISA 将 Apache OFBiz 严重漏洞添加至已知已利用漏洞目录](https://www.anquanke.com/post/id/299651)|
+||[AitM 网络钓鱼工具包如何绕过多重安全防线及应对策略](https://www.anquanke.com/post/id/299654)|
+||[SANS Institute 发布 2024 年关键基础设施战略指南](https://www.anquanke.com/post/id/299656)|
+||[巴西广告欺诈网络“Camu”每日竞价请求数超过20亿次](https://www.anquanke.com/post/id/299659)|
+||[午夜暴雪通过被入侵的政府网站发送 iOS 和 Chrome 浏览器漏洞](https://www.anquanke.com/post/id/299661)|
+||[Volt Typhoon 黑客利用 MSP、ISP 使用的 Versa Director 服务器中的零日漏洞](https://www.anquanke.com/post/id/299663)|
+||[记一次AccessKey值泄露的挖掘和分析](https://www.anquanke.com/post/id/298882)|
+||[360携20+“终端能力者”！组建ISC终端安全生态联盟](https://www.anquanke.com/post/id/299667)|
+||[2024字节跳动“安全范儿”高校挑战赛报名开启！CTF、AI、HACK三大赛道等你来战！](https://www.anquanke.com/post/id/299640)|
+||[知道创宇发布《海外大模型应对中国核心价值观能力评测报告》（文末获取完整报告）](https://www.anquanke.com/post/id/299674)|
+|[掘金专栏-字节跳动技术团队](https://rsshub.app/juejin/posts/1838039172387262)|[kitexcall：用 JSON 发起 RPC 请求的命令行神器](https://juejin.cn/post/7408463818953195574)|
+||[Kitex Thrift Streaming 在字节跳动 Prompt 平台的实践](https://juejin.cn/post/7408488304550182931)|
+|[爱范儿](https://plink.anyfeeder.com/ifanr)|[成都车展重磅新车！23.99 万元的极氪 7X，要为极氪扛起大旗](https://www.ifanr.com/1597712?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[抢先华为一步，「非洲手机之王」发布三折叠原型机](https://www.ifanr.com/1597729?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[一周干七天，干到一两点，英伟达员工爆料：赚了大钱没空花](https://www.ifanr.com/1597631?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[开源 OA 办公系统 — 勾股 OA 5.0 新版发布](https://www.oschina.net/news/309550/gougu-oa-5-0-released)|
+||[CausalMatch v0.0.1 正式发布，字节跳动开源因果推理利器，助力科学决策分析](https://www.oschina.net/news/309546/causalmatch-0-0-1-released)|
+||[PHP 8.3.11 发布](https://www.oschina.net/news/309543/php-8-3-11-released)|
+||[将军百战死，程序十年成](https://www.oschina.net/news/309541)|
+|[36氪](https://36kr.com/feed)|[智谱AI的“类GPT-4o”，让我看到了作业帮、小红书、下厨房的影子](https://36kr.com/p/2928356939143809?f=rss)|
+||[下沉vs升级：小城里的新消费故事](https://36kr.com/p/2928369044020097?f=rss)|
+||[央视网人工智能行业片《AI先行者》上线，“人工智能”如何助力行业应用？](https://36kr.com/p/2928247719565961?f=rss)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[ChatGPT 周活跃用户超过 2 亿](https://www.solidot.org/story?sid=79115)|
+||[当电动汽车创业公司倒闭](https://www.solidot.org/story?sid=79114)|
+|[smallyu的博客](https://smallyu.net/atom.xml)|[写博客的意义是什么](https://smallyu.net/2024/08/30/%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88/)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[IJCAI 2024：论文提交量增加了23.8%，但录用率并无上升](https://www.leiphone.com/category/ai/RUBq74DEkRwOjQpU.html)|
+||[前小马智行孙又晗创立 Trans-N.ai，出海日本获最大种子轮融资](https://www.leiphone.com/category/ai/VTnT0Cjt3E5bckV8.html)|
+||[机器人公司 Swiss-Mile 获估值 1 亿美元融资，贝佐斯领投；Midjourney 进军硬件领域丨AI情报局](https://www.leiphone.com/category/ai/soGc0VrchRCh7YUv.html)|
+||[IT巨头反复推迟两千多名应届生入职，员工：我们每天干14小时、哪还有工作给新人；段永平称还是看不懂拼多多；蔡浩宇劝游戏开发转行丨雷峰早报](https://www.leiphone.com/category/zaobao/qPskdYONCsUpB91S.html)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[美联储降息背后有何动机？资本市场又有何变化？](http://www.huxiu.com/article/3413564.html?f=wangzhan)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[“行长也不能不尊重合规官的意见”如何得到制度性保障？｜圆桌派④](https://www.infzm.com/contents/277987)|
+|[u3blog](https://u3blog.xyz/feed.php)|[鸿蒙next中web组件和navigation的一个bug以及处理方案](https://u3blog.xyz/?id=706)|
+|[小众软件](http://feed.appinn.com/)|[pin.gl – 超低延迟屏幕共享，只需3秒，分享你的桌面和摄像头](https://www.appinn.com/pin-gl/)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[恒指午间休盘涨1.81%，恒生科技指数涨3.08%](https://www.36kr.com/newsflashes/2928125304511362)|
+||[央行官网上线“公开市场国债买卖业务公告”页面，或预示着人民银行下场买卖国债脚步渐进](https://www.36kr.com/newsflashes/2928122528471689)|
+||[通义网页版升级：推出通义效率版块，上线“PPT创作”](https://www.36kr.com/newsflashes/2928121796680579)|
+||[A股三大指数午间休盘集体上涨，两市半日成交金额超5200亿元](https://www.36kr.com/newsflashes/2928094228126598)|
+||[雷军：小米智能驾驶再度升级，实现城市NOA](https://www.36kr.com/newsflashes/2928069053520772)|
+||[比亚迪多地开启“万人招聘”](https://www.36kr.com/newsflashes/2928062913436551)|
+||[港股汽车股持续走高，理想汽车、小鹏汽车涨超8%](https://www.36kr.com/newsflashes/2928062233762436)|
+||[高瓴：今年已投37个项目，将持续投早投小投硬核](https://www.36kr.com/newsflashes/2928061762443908)|
+||[创业板指大涨超3%，全市场近5000只个股上涨](https://www.36kr.com/newsflashes/2928057169877638)|
+||[Tims天好中国：二季度系统销售额超4亿元，调整后EBITDA首次实现盈利](https://www.36kr.com/newsflashes/2928054685325961)|
+||[A股国有五大行集体大跌](https://www.36kr.com/newsflashes/2928051144825479)|
+||[国家发改委：新版《市场准入负面清单》已形成了修订版，将按程序报批后印发实施](https://www.36kr.com/newsflashes/2928039581637509)|
+||[苹果产业链持续走强，领益智造2连板](https://www.36kr.com/newsflashes/2928039435934601)|
+||[全球半导体关联股总市值缩水1万亿美元](https://www.36kr.com/newsflashes/2928037496019592)|
+||[深成指、创业板指双双涨超2%，上涨个股超4700只](https://www.36kr.com/newsflashes/2928035511851656)|
+||[白酒股继续反弹，岩石股份拉升封板](https://www.36kr.com/newsflashes/2928032226810758)|
+||[北京集成电路产业基金成立，出资额85亿元](https://www.36kr.com/newsflashes/2928027745639298)|
+||[消费电子板块持续拉升，折叠屏、AI眼镜、智能穿戴等方向领涨](https://www.36kr.com/newsflashes/2928027197430663)|
+||[AI眼镜概念股大幅反弹，博士眼镜涨超10%](https://www.36kr.com/newsflashes/2928023554513795)|
+||[红利板块持续调整，宁沪高速跌超5%](https://www.36kr.com/newsflashes/2928012975790979)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[天天说华语乐坛“完了”，怎么唱片公司收入暴增？](https://www.huxiu.com/article/3414178.html?f=rss)|
+||[当优秀成为一种“防御”：我优秀，但不快乐](https://www.huxiu.com/article/3414155.html?f=rss)|
+||[黑鱼片价格连涨3个月，上游厂商却开始“逃亡”？](https://www.huxiu.com/article/3414141.html?f=rss)|
+||[成都车展最值得看的10辆车](https://www.huxiu.com/article/3412152.html?f=rss)|
+||[AI时代，著作权为何成争议焦点？如何化解？](https://www.huxiu.com/article/3412524.html?f=rss)|
+||[腾讯和网易为什么缩减在日本的游戏投资？](https://www.huxiu.com/article/3414128.html?f=rss)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[为什欧洲各国联赛球队都希望参加欧冠联赛？](http://www.zhihu.com/question/49542581/answer/3610799856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[掘金 前端](https://rsshub.app/juejin/category/frontend)|[永续合约快进快出套利策略](https://juejin.cn/post/7408458428110929946)|
 ||[6.JS高级-函数一等公民](https://juejin.cn/post/7408463805578199076)|
 ||[每日知识积累 Day 9](https://juejin.cn/post/7408436392815738889)|
