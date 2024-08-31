@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[联想控股2024中报业绩环比改善：估值触达击球区](https://xueqiu.com/4857977486/303134535)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 生活 母亲今早遭遇交通事故，请教下事故判责相关问题？希望有过类似经历或法律从业者分享点经验。](https://www.v2ex.com/t/1069208#reply14)|
+||[ 游戏 想玩黑神话悟空，但不想配电脑了，市面上的云游戏平台怎么样？](https://www.v2ex.com/t/1069187#reply32)|
+||[ 奇思妙想 问题代问服务，解决玻璃心受不了某些平台答题人脾气不好的痛点。求有根据地骂醒。](https://www.v2ex.com/t/1069183#reply13)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 A Case of the Crabs: Rehash Windows ](https://free.apprcn.com/get-steam-game-a-case-of-the-crabs-rehash-for-free/)|
+||[免费获取 Steam 游戏 Sentience: The Android's Tale Windows、macOS ](https://free.apprcn.com/get-steam-game-sentience-the-androids-tale-for-free/)|
+||[免费获取音频插件 Wusik Limiter Windows、macOS $49.95→0 ](https://free.apprcn.com/get-wusik-limiter-for-free/)|
+|[虎嗅](https://rss.huxiu.com/)|[从被日本垄断到产能过剩，中国打了一场锂电池原料翻身仗](https://www.huxiu.com/article/3414710.html?f=rss)|
+||[让诺基亚“老人机”卖爆的公司，要用“抄袭”走下去](https://www.huxiu.com/article/3418061.html?f=rss)|
+||[大A3000点保卫战打赢啦？一劳永逸还是掩耳盗铃？](https://www.huxiu.com/article/3414704.html?f=rss)|
+||[韩国N 号房再现，大量女性被AI 换脸在微博求助，涉及500所学校，超过22万人参与](https://www.huxiu.com/article/3418078.html?f=rss)|
+||[日式便利店“鼻祖”，711要卖了？](https://www.huxiu.com/article/3417559.html?f=rss)|
+||[第一代国内游乐园正在加速死亡](https://www.huxiu.com/article/3417060.html?f=rss)|
+||[茅台终于要从“东方神水”，回归到消费品白酒了吗？](https://www.huxiu.com/article/3414707.html?f=rss)|
+||[SiC巨头，跌下神坛](https://www.huxiu.com/article/3417549.html?f=rss)|
+|[年华转瞬](https://blog.xiaket.org/feed.xml)|[Pensieve: 2408](https://xiaket.github.io/2024/pensieve-2408.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[数千家中国健身房，都得向这家新西兰公司交钱](https://36kr.com/p/2928312269626249)|
+||[排队10小时，黄牛价300一杯，杭州这家奶茶店疯了](https://36kr.com/p/2928525013949830)|
+||[麦当劳新品，为什么有这么大争议？](https://36kr.com/p/2928583033739911)|
+||[传英特尔考虑分拆代工厂](https://36kr.com/p/2928569013049986)|
+||[美政府欲阻天网降临，GPT-5先做「末日测试」](https://36kr.com/p/2928476896811912)|
+||[9点1氪｜阿里巴巴全面停止“二选一”垄断行为；iPhone 16开始在印度量产；米哈游创始人称AlGC已经彻底颠覆游戏开发](https://36kr.com/p/2929204796643972)|
+||[韩国N号房卷土重来，这一次是Deepfake，波及超200所学校](https://36kr.com/p/2928488045714057)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[不挨饿、不伤身，这样跟着吃，不运动也能瘦](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%8D%E6%8C%A8%E9%A5%BF%E3%80%81%E4%B8%8D%E4%BC%A4%E8%BA%AB%EF%BC%8C%E8%BF%99%E6%A0%B7%E8%B7%9F%E7%9D%80%E5%90%83%EF%BC%8C%E4%B8%8D%E8%BF%90%E5%8A%A8%E4%B9%9F%E8%83%BD%E7%98%A6)|
+||[一种可以当主食吃的「菜」，替代米饭好选择](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E7%A7%8D%E5%8F%AF%E4%BB%A5%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%90%83%E7%9A%84%E3%80%8C%E8%8F%9C%E3%80%8D%EF%BC%8C%E6%9B%BF%E4%BB%A3%E7%B1%B3%E9%A5%AD%E5%A5%BD%E9%80%89%E6%8B%A9)|
+||[大腿粗，其实是件好事](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%A7%E8%85%BF%E7%B2%97%EF%BC%8C%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BB%B6%E5%A5%BD%E4%BA%8B)|
+||[妈呀，散养走地鸡也太生猛了！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A6%88%E5%91%80%EF%BC%8C%E6%95%A3%E5%85%BB%E8%B5%B0%E5%9C%B0%E9%B8%A1%E4%B9%9F%E5%A4%AA%E7%94%9F%E7%8C%9B%E4%BA%86%EF%BC%81)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[秀我中国｜给电影人的一封“情书”——第十九届中国长春电影节的光影之约](http://www.news.cn/20240831/566471ec6edf49898ad1807844ef1ce4/c.html)|
+||[微视频｜青春必修课](http://www.news.cn/20240831/069e4f2504984a0a923dbcd9a9d37e70/c.html)|
+||[新华视评｜这届年轻人“去班味儿”有新招](http://www.news.cn/20240831/8f2856c5d00440eaa4bb264fdeb138f4/c.html)|
+||[文明交响 数字筑梦——“非洲伙伴”媒体行动在京举行 李书磊以视频方式出席并发表主旨讲话](http://www.news.cn/20240831/d1e6ba3e904c49d99a10a0ada5b2b0f7/c.html)|
+||[贵州：数据赋能促养殖产业提效升级](http://www.news.cn/20240831/ff8effa6b8294473997ecfb51c5621ee/c.html)|
+||[小葡萄串起“甜蜜”大产业——广西兴安推进特色产业发展见闻](http://www.news.cn/20240831/ecface71680e4d239bab52fb1e5152d5/c.html)|
+||[瞭望·治国理政纪事｜共筑高水平中非命运共同体](http://www.news.cn/20240831/4c59176176194942884fcbd911ad4690/c.html)|
+||[“数智”赋能电力保供 助力重庆应对高温天气](http://www.news.cn/20240831/df053cb6e7ad4853a17c304b4169675a/c.html)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[“天网”行动第十年：“百名红通”还有38人在逃丨时政周报](https://www.infzm.com/contents/278027)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[Alibaba Shares Jump Nearly 4% Midday after Chinese Regulator Concludes Three-Year Rectification](https://www.tmtpost.com/7232941.html)|
+||[对赌失败！估值150亿的中国GPU独角兽象帝先一夜之间解散，数百人被裁｜硅基世界](https://www.tmtpost.com/7232799.html)|
+||[下游失速，巨头降维，怡合达上半年净利骤降逾3成｜看财报](https://www.tmtpost.com/7232131.html)|
 |[虎嗅](https://plink.anyfeeder.com/huxiu)|[日本变态的全新版本，味儿太冲，上班先测口臭？](https://www.huxiu.com/article/3414192.html?f=rss)|
 ||[今年出手37次，高瓴投了什么？](https://www.huxiu.com/article/3417560.html?f=rss)|
 ||[F-16战机坠毁后，乌克兰空军司令被解职](https://www.huxiu.com/article/3417554.html?f=rss)|
