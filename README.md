@@ -2,6 +2,22 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[汽车“以旧换新”，美日德怎么做的？](https://m.cnbeta.com.tw/view/1444081.htm)|
+||[消息称特斯拉将在华纳兄弟好莱坞工作室推出Robotaxi](https://m.cnbeta.com.tw/view/1444079.htm)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[社区精神文明建设的三明样本：共建+自管打造和谐社区，老年人有了幸福驿站](https://m.thepaper.cn/detail/28578454)|
+||[夏季赛总决赛BLG3比0横扫WBG，达成队史联赛二连冠](https://m.thepaper.cn/detail/28588767)|
+||[体坛联播｜国米大胜亚特兰大，郑钦文、王雅繁挺进美网16强](https://m.thepaper.cn/detail/28588585)|
+||[理解沙利文访华与中美关系，应有超越“获得多少成果”的视角](https://m.thepaper.cn/detail/28582739)|
+||[景德镇交警通报“民辅警开警车不系安全带”：记分罚款，依规纪律处理](https://m.thepaper.cn/detail/28583378)|
+||[我爱我家：上半年扭亏为盈，北京、上海、杭州等二手房成交呈现较好复苏趋势](https://m.thepaper.cn/detail/28583367)|
+||[残疾人托养服务中心遭小区业主反对，残联回应不会引入暴力倾向精神疾病患者](https://m.thepaper.cn/detail/28580072)|
+||[四川坠河失联驻村书记何小青遗体被找到，村民落泪：我舍不得她](https://m.thepaper.cn/detail/28580326)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[Llama AI 模型下载量已接近 3.5 亿次](https://www.oschina.net/news/309697/meta-llama-ai-models-350m-downloads)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 游戏 想玩黑神话悟空，但不想配电脑了，市面上的云游戏平台怎么样？](https://www.v2ex.com/t/1069187#reply20)|
+|[触乐](http://www.chuapp.com/feed)|[2024年8月117款版号发放，《明日方舟：终末地》过审，大、中型厂商各有明星产品亮相](http://www.chuapp.com/article/290181.html)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[以SOP为匙，开启用户培育之门](https://www.woshipm.com/it/6106833.html)|
+||[产品的力量：从理论到实践（十四）](https://www.woshipm.com/share/6106845.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[React 类组件报错：Parsing error: '>' expected.eslint 找不到名称“div”。ts 2304 ？](https://segmentfault.com/q/1010000045231712)|
 |[IT之家](https://www.ithome.com/rss/)|[苹果扩充 Vision Pro 头显生态，将推新游戏、电影和电视剧、应用](https://www.ithome.com/0/792/459.htm)|
 ||[售 32.99 万元，2024 款广汽埃安昊铂 HT 鸥翼版 SUV 开启交付](https://www.ithome.com/0/792/458.htm)|
 ||[索尼第一方《宇宙机器人》发售宣传片公开，游戏 9 月 6 日上市售 468 港币起](https://www.ithome.com/0/792/457.htm)|
