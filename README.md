@@ -2,7 +2,47 @@
 
 |来源|标题|
 |---|---|
-|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[汽车“以旧换新”，美日德怎么做的？](https://m.cnbeta.com.tw/view/1444081.htm)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[日本变态的全新版本，味儿太冲，上班先测口臭？](https://www.huxiu.com/article/3414192.html?f=rss)|
+||[今年出手37次，高瓴投了什么？](https://www.huxiu.com/article/3417560.html?f=rss)|
+||[F-16战机坠毁后，乌克兰空军司令被解职](https://www.huxiu.com/article/3417554.html?f=rss)|
+||[中产最爱的Lululemon为何熄火？](https://www.huxiu.com/article/3417073.html?f=rss)|
+||[零收入，困住律师们](https://www.huxiu.com/article/3415566.html?f=rss)|
+||[如何设计一个大模型产品？](https://www.huxiu.com/article/3412141.html?f=rss)|
+||[8月多地持续提示各类网络新型骗局](https://www.huxiu.com/article/3417548.html?f=rss)|
+||[“法务”中专、陪聊引流、案例靠P图，游戏代退费是骗局？](https://www.huxiu.com/article/3413895.html?f=rss)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[曝国产GPU独角兽全员被裁，欠薪记在账上，有钱后再结算；传中金多人被降职降薪，不接受可离职；欠薪长达17个月，爱驰上百辆车被查封丨雷峰早报](https://www.leiphone.com/category/zaobao/5lpHBPO047jdisiy.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[windows的NVIDIA Container 能关闭吗?](https://segmentfault.com/q/1010000045232034)|
+|[36氪](https://www.36kr.com/feed)|[抗衰新成分走红，智商税还是新顶流？ ｜ 医氪](https://36kr.com/p/2929481495452544?f=rss)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[OpenAI任命全球政策负责人](https://www.36kr.com/newsflashes/2929366827260808)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[AI搜索，为何体验能远超传统搜索产品？](https://www.woshipm.com/evaluating/6106786.html)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[如果羊膜动物和两栖动物全部灭绝，鱼类还可能重新登陆吗?](https://daily.zhihu.com/story/9775060)|
+||[如何快速理解永磁同步电机？](https://daily.zhihu.com/story/9775069)|
+||[计算器的历史为什么网上都搜不到？](https://daily.zhihu.com/story/9775075)|
+||[拉普拉斯变换中的 S 是个什么鬼？](https://daily.zhihu.com/story/9775084)|
+||[小事 · 哪一刻你觉得现实很美好？](https://daily.zhihu.com/story/9775059)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 游戏 想玩黑神话悟空，但不想配电脑了，市面上的云游戏平台怎么样？](https://www.v2ex.com/t/1069187#reply26)|
+||[ 奇思妙想 问题代问服务，解决玻璃心受不了某些平台答题人脾气不好的痛点。求有根据地骂醒。](https://www.v2ex.com/t/1069183#reply11)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Facebook 技術問題導致圖示變色，Meta 已修復錯誤](https://www.iphonetaiwan.org/2024/08/facebook-icon-color-change-issue.html)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[社区速递 059 你没见过的社区文章、一周最热评、派友的黑神话体验](https://sspai.com/post/91831)|
+|[61’s life](https://61.life/feed.xml)|[20240831](http://61.life/2024/0831)|
+|[异次元软件世界](https://feed.iplaysoft.com)|[免费 AI 编程助手！豆包 MarsCode - 国产好用 Copilot 替代品 代码智能补全 ](https://www.iplaysoft.com/marscode.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[荷兰首相称会在对华出口限制决定中权衡ASML的经济利益](https://m.cnbeta.com.tw/view/1444104.htm)|
+||[X平台遭巴西最高法院全面叫停 违法使用者每日罚款高达8900美元](https://m.cnbeta.com.tw/view/1444102.htm)|
+||[英特尔称即将推出的Lunar Lake和 Arrow Lake CPU不会受不稳定问题的影响](https://m.cnbeta.com.tw/view/1444101.htm)|
+||[秋老虎肆虐：多地再冲40℃ 杭州高温天数已达52天](https://m.cnbeta.com.tw/view/1444100.htm)|
+||[初创公司Efficient委托GlobalFoundries生产效率提高166倍的嵌入式芯片](https://m.cnbeta.com.tw/view/1444098.htm)|
+||[最高法院下令禁止埃隆·马斯克的社交网络X在巴西经营](https://m.cnbeta.com.tw/view/1444097.htm)|
+||[红旗首款手机入网 “套娃”魅族21 PRO 定制开机动画](https://m.cnbeta.com.tw/view/1444091.htm)|
+||[全新一代凯迪拉克XT5实车亮相成都车展 更长更宽更高](https://m.cnbeta.com.tw/view/1444090.htm)|
+||[iPhone 16 Pro新渲染图展示全新古铜配色](https://m.cnbeta.com.tw/view/1444089.htm)|
+||[洛斯阿拉莫斯原子弹诞生地成网红公园 "酸峡谷"充斥着有毒物质](https://m.cnbeta.com.tw/view/1444088.htm)|
+||[OpenAI据称考虑改变公司结构 或取消投资者的利润上限](https://m.cnbeta.com.tw/view/1444087.htm)|
+||[广汽埃安高管：可靠的智驾不能没有激光雷达](https://m.cnbeta.com.tw/view/1444086.htm)|
+||[市场监管总局督导阿里集团完成三年整改“成效良好” 释放了哪些信号？](https://m.cnbeta.com.tw/view/1444085.htm)|
+||[比亚迪将收购其德国经销商Hedin 强化欧洲市场定价与供应能力](https://m.cnbeta.com.tw/view/1444084.htm)|
+||[怕被逮捕 马斯克：我以后出门只能去这些国家](https://m.cnbeta.com.tw/view/1444083.htm)|
+||[巴西总统卢拉：马斯克应尊重巴西最高法院裁决](https://m.cnbeta.com.tw/view/1444082.htm)|
+||[汽车“以旧换新”，美日德怎么做的？](https://m.cnbeta.com.tw/view/1444081.htm)|
 ||[消息称特斯拉将在华纳兄弟好莱坞工作室推出Robotaxi](https://m.cnbeta.com.tw/view/1444079.htm)|
 |[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[社区精神文明建设的三明样本：共建+自管打造和谐社区，老年人有了幸福驿站](https://m.thepaper.cn/detail/28578454)|
 ||[夏季赛总决赛BLG3比0横扫WBG，达成队史联赛二连冠](https://m.thepaper.cn/detail/28588767)|
