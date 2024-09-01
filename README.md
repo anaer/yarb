@@ -2,6 +2,106 @@
 
 |来源|标题|
 |---|---|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[基于竞价广告推荐系统工作流商业策略优化方向](https://www.woshipm.com/share/6107109.html)|
+||[《黑神话：悟空》爆火背后的原因：品牌营销值得学习的五点奥义](https://www.woshipm.com/share/6107537.html)|
+||[技术 or 业务？数据分析发展路径大盘点](https://www.woshipm.com/share/6107529.html)|
+||[接手已有产品的项目，怎么做中长期产品规划？](https://www.woshipm.com/zhichang/2273195.html)|
+||[聊聊产品思维上的点线面的思考](https://www.woshipm.com/share/6107279.html)|
+||[从代码到产品：我的IT职业成长之路](https://www.woshipm.com/share/6106873.html)|
+||[不做打折活动实现私域GMV10倍增长，美妆品牌如何做私域运营？](https://www.woshipm.com/share/6107042.html)|
+|[虎嗅](https://rss.huxiu.com/)|[就业率领跑，高职院校扩招突进](https://www.huxiu.com/article/3421239.html?f=rss)|
+||[特朗普团队：若赢得大选，将废除拜登的清洁能源政策](https://www.huxiu.com/article/3421240.html?f=rss)|
+||[太关注宏观经济并没有好处](https://www.huxiu.com/article/3421230.html?f=rss)|
+||[巴菲特“清仓式减持”美银：累计套现440亿](https://www.huxiu.com/article/3421234.html?f=rss)|
+||[零首付购房：难以承受的诱惑与风险](https://www.huxiu.com/article/3420886.html?f=rss)|
+||[人类开始模仿AI了](https://www.huxiu.com/article/3408005.html?f=rss)|
+||[村干部离职，折射乡村治理之“困”](https://www.huxiu.com/article/3420439.html?f=rss)|
+||[A股史上最久股东大会：凌晨2点都在开，1天多还没开完](https://www.huxiu.com/article/3420884.html?f=rss)|
+||[挂面大王陈克明，72岁辞职当网红](https://www.huxiu.com/article/3412123.html?f=rss)|
+||[《黑神话》爆火背后：青年文化与反抗精神的崛起](https://www.huxiu.com/article/3420243.html?f=rss)|
+||[全球消费引擎美国即将熄火？中低消费者捉襟见肘？](https://www.huxiu.com/article/3417567.html?f=rss)|
+||[开了两年的增程，我变了... 聊聊那些只有买了电车才知道的事](https://www.huxiu.com/article/3417072.html?f=rss)|
+||[小米打印机是拍立得平替？富士&小米1S成片对比来了](https://www.huxiu.com/article/3415179.html?f=rss)|
+||[一口气看完孝庄太后，培养两代帝王，不输武则天，却甘居幕后](https://www.huxiu.com/article/3417058.html?f=rss)|
+||[青年养老院火了，这门生意有多“坑”？](https://www.huxiu.com/article/3420240.html?f=rss)|
+||[孙悟空的忧郁，就是现代人的忧郁](https://www.huxiu.com/article/3420236.html?f=rss)|
+||[高位买房三年后，价格跌了100万](https://www.huxiu.com/article/3411602.html?f=rss)|
+||[被“退货”之后，他们在疾控中心“假装上班”](https://www.huxiu.com/article/3413579.html?f=rss)|
+||[“平替”生活，收割了多少抠门中产](https://www.huxiu.com/article/3420237.html?f=rss)|
+||[开店600家，一年赚5亿！茶颜悦色，为啥走不出长沙？](https://www.huxiu.com/article/3415155.html?f=rss)|
+||[上市公司做短剧：起大早赶晚集，谁吆喝谁在赚？](https://www.huxiu.com/article/3419076.html?f=rss)|
+||[日本的便利店里，藏着一个世界](https://www.huxiu.com/article/3420229.html?f=rss)|
+||[直播带货，带不动农业大县](https://www.huxiu.com/article/3420095.html?f=rss)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[消息称BRS技术的运用令iPhone 16 Pro Max的屏幕边框比前作更薄](https://m.cnbeta.com.tw/view/1444180.htm)|
+||[固态电池离我们还有多远？曾毓群：1-9评价 宁德时代目前处于4的水平](https://m.cnbeta.com.tw/view/1444179.htm)|
+||[iPhone 16发布在即 果链已在日以继夜两班倒赶工](https://m.cnbeta.com.tw/view/1444178.htm)|
+||[别克君越车主称车辆召回未收到通知 发生车祸后商家拒赔](https://m.cnbeta.com.tw/view/1444176.htm)|
+||[小米SU7单月销量超奥迪A6L 同级仅次于奔驰E](https://m.cnbeta.com.tw/view/1444175.htm)|
+||[博主曝遭哪吒汽车违法解除劳动合同 被诽谤与CEO关系暧昧](https://m.cnbeta.com.tw/view/1444174.htm)|
+||[三星与韩国SK电信联手发布量子安全智能手机Galaxy Quantum 5](https://m.cnbeta.com.tw/view/1444172.htm)|
+||[英特尔IDM2.0战略可能会缺角？](https://m.cnbeta.com.tw/view/1444171.htm)|
+||[X正式被巴西关停 马斯克炮轰最高法院法官](https://m.cnbeta.com.tw/view/1444167.htm)|
+||[无线充电新规今起施行：限制解除 功率放宽至80W](https://m.cnbeta.com.tw/view/1444166.htm)|
+||[小米SU7登上小学一年级美术课本](https://m.cnbeta.com.tw/view/1444165.htm)|
+||[俞敏洪首次公开回应网暴：有人骂你、毁你、辱你 那又如何呢？](https://m.cnbeta.com.tw/view/1444163.htm)|
+||[台风“珊珊”影响持续 日本部分地区遭强降雨](https://m.cnbeta.com.tw/view/1444162.htm)|
+||[俄一架载有22人的直升机在堪察加地区失联 同日有安-2飞机发生硬着陆事件](https://m.cnbeta.com.tw/view/1444161.htm)|
+||[法国亿万富翁泽维尔·尼尔进入字节跳动董事会](https://m.cnbeta.com.tw/view/1444160.htm)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[山东省体育局回应「孙颖莎来者不善」争议表述，「系被恶意解读」，如何看待这一表述？](https://www.zhihu.com/question/665718789)|
+||[宗馥莉接任娃哈哈集团董事长，如何看待此事？对娃哈哈发展会带来哪些影响？](https://www.zhihu.com/question/665797084)|
+||[为什么昆汀、诺兰等这么热衷胶片摄影技术？胶片摄影比目前最先进的数码摄影质量更高？](https://www.zhihu.com/question/24696635)|
+||[为什么猎豹比一般的猫科动物更为亲人一点？](https://www.zhihu.com/question/431741784)|
+||[杨戬代替悟能，哪吒代替悟净，取经可以不找外援吗？](https://www.zhihu.com/question/665404731)|
+||[山西一血站称学生两个半月献四次血浆可获得 200 元助学补助，当地卫健局「合法合规 」，具体情况如何？](https://www.zhihu.com/question/665415916)|
+||[如何看待朋友圈里一直在旅行的人？](https://www.zhihu.com/question/451744977)|
+||[未来郑州还有机会成为中国前十的城市吗？](https://www.zhihu.com/question/662460737)|
+||[男子入职 2 天拒绝周末加班被辞退，耗时 1 年多与公司连打 5 场官司全赢，如何从法律角度解读？](https://www.zhihu.com/question/665790183)|
+||[为什么外星科幻电影很多都喜欢虫族的社会结构?](https://www.zhihu.com/question/52318027)|
+||[如何看待 V 社今年关于 Dota2 国际邀请赛取消赞助商展示的决定？](https://www.zhihu.com/question/665496155)|
+||[《原神》 5.0 「纳塔」地区已经开启，大家体验如何？](https://www.zhihu.com/question/665510261)|
+||[如何评价《边水往事》大结局？](https://www.zhihu.com/question/665595533)|
+||[各位认为文笔最好的网络小说作家是谁？](https://www.zhihu.com/question/660417619)|
+||[为什么越来越多的人不想找工作了，在家待业？](https://www.zhihu.com/question/660333421)|
+||[24-25 赛季西甲第 4 轮巴塞罗那 7:0 巴拉多利德，如何评价这场比赛？](https://www.zhihu.com/question/665845794)|
+||[24-25 赛季英超第 3 轮西汉姆联 1:3 曼城，如何评价这场比赛？](https://www.zhihu.com/question/665845774)|
+||[如何评价《黑神话：悟空》中哪吒的形象？](https://www.zhihu.com/question/665621277)|
+||[小天才手表应用称「中国人最虚伪」，官方回应「下架小度 App」，此事暴露出哪些问题？如何加强监管？](https://www.zhihu.com/question/665718966)|
+||[《原神》5.0 版本「璃月武学」任务有人看懂了么？是否还会有后续？](https://www.zhihu.com/question/665524456)|
+||[如何评价马龙这个运动员?](https://www.zhihu.com/question/619426866)|
+||[大学期间，有必要竞选班干部吗？有什么利弊？](https://www.zhihu.com/question/664198082)|
+||[瑞幸一店长被指诱骗 17 岁女孩致其服毒，警方已处理，真实情况如何？此事带来哪些警示？](https://www.zhihu.com/question/665787016)|
+||[中金公司「降职降薪」传言属实，上半年已减员超 240 人，具体情况如何？将带来哪些影响？](https://www.zhihu.com/question/665786091)|
+||[作为老师，你认为「教学水平」和「责任心 / 情怀」哪个更重要？](https://www.zhihu.com/question/665615421)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[Cmake 3.30.3 发布，开源构建系统](https://www.oschina.net/news/309820/cmake-3-30-3-released)|
+||[Marsh v1.8.0 已经发布，微服务开发脚手架](https://www.oschina.net/news/309819/marsh-1-8-0-released)|
+||[Debian 12.7 发布](https://www.oschina.net/news/309818/debian-12-7-released)|
+|[IT之家](https://www.ithome.com/rss/)|[攀升推出“Q27S”27 英寸显示器：2K 300Hz Fast IPS，1849 元](https://www.ithome.com/0/792/654.htm)|
+||[格力电器 2024 上半年营收 997.83 亿元，净利润 141.36 亿元同比增长 11.54%](https://www.ithome.com/0/792/652.htm)|
+||[东风纳米 01“焕新版”“共创版”SUV 车型上市，7.58 万元起](https://www.ithome.com/0/792/651.htm)|
+||[大规模商用的 Redcap 靠什么被选中](https://www.ithome.com/0/792/650.htm)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 毕业 4 年在 Q 音干到 T11，准备跑路了，谈一谈想法](https://www.v2ex.com/t/1069344#reply21)|
+||[ 奇思妙想 有没有结合 AI 和硬件想创业的朋友聊聊想法？](https://www.v2ex.com/t/1069337#reply11)|
+||[ OpenWrt 感觉 openclash 的设置好反人类，一个自定义规则搞了好久](https://www.v2ex.com/t/1069333#reply16)|
+||[ 问与答 在新加坡的收入怎么转回国内更划算](https://www.v2ex.com/t/1069327#reply31)|
+||[ 分享发现 疑似有人用“轻松筹”等爱心方式诈骗](https://www.v2ex.com/t/1069318#reply27)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[這輩子有了](https://www.reddit.com/r/real_China_irl/comments/1f661w7/這輩子有了/)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[长安汽车董事长朱华荣：新能源汽车追求大和重违背行业发展初衷](https://www.36kr.com/newsflashes/2930968833694601)|
+||[北斗航天集团计划投资超百亿元，建设佛山大湾区时空大数据产业基地](https://www.36kr.com/newsflashes/2930965249645441)|
+||[曾毓群：用技术和制造成熟度1-9评价 宁德时代的全固态电池研发目前处于4](https://www.36kr.com/newsflashes/2930964065786752)|
+||[中泰免签半年，云南磨憨出入境泰国籍旅客占比超74%](https://www.36kr.com/newsflashes/2930954768276100)|
+||[十四届全国政协常委苗圩：未来预计我国新能源车还将保持10%-20%的增长趋势](https://www.36kr.com/newsflashes/2930951742249600)|
+||[曾毓群：搭载宁德时代电池的eVTOL将在2024年底首次飞行](https://www.36kr.com/newsflashes/2930949308226434)|
+||[法国电信大亨泽维尔·尼尔进入字节跳动董事会](https://www.36kr.com/newsflashes/2930896998570884)|
+||[乐道汽车超百家门店今日开业](https://www.36kr.com/newsflashes/2930894307007365)|
+||[国产大飞机C919 旅客已达50万人次](https://www.36kr.com/newsflashes/2930889968933508)|
+||[小米汽车：8月小米SU7交付量超1万台](https://www.36kr.com/newsflashes/2930869929728905)|
+||[上半年沪市公司实现营收近25万亿元，深市公司合计营收超9.88万亿元](https://www.36kr.com/newsflashes/2930869080627846)|
+||[理想汽车2024年8月交付48,122辆，同比增长37.8%](https://www.36kr.com/newsflashes/2930868635638656)|
+||[光大证券：A股下行空间有限 底部上行可期](https://www.36kr.com/newsflashes/2930830232656771)|
+||[因发动机故障，福特在美召回逾9万辆汽车](https://www.36kr.com/newsflashes/2930828555672200)|
+||[湖南宁乡：“以旧换新”购买新房的，可按“认房不认贷”政策享受首套房优惠](https://www.36kr.com/newsflashes/2930827589868424)|
+||[小米汽车9月计划新增16家新门店](https://www.36kr.com/newsflashes/2930826921401224)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[《黑神话：悟空》背后的游戏经济学](https://www.woshipm.com/it/6107536.html)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[没错，今晚就是要吃鸡啦！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%B2%A1%E9%94%99%EF%BC%8C%E4%BB%8A%E6%99%9A%E5%B0%B1%E6%98%AF%E8%A6%81%E5%90%83%E9%B8%A1%E5%95%A6%EF%BC%81)|
 ||[一种清洁剂的错误用法，很危险](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E7%A7%8D%E6%B8%85%E6%B4%81%E5%89%82%E7%9A%84%E9%94%99%E8%AF%AF%E7%94%A8%E6%B3%95%EF%BC%8C%E5%BE%88%E5%8D%B1%E9%99%A9)|
 ||[不靠医美，让脸白净斑变少的办法，很多人没试过](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%8D%E9%9D%A0%E5%8C%BB%E7%BE%8E%EF%BC%8C%E8%AE%A9%E8%84%B8%E7%99%BD%E5%87%80%E6%96%91%E5%8F%98%E5%B0%91%E7%9A%84%E5%8A%9E%E6%B3%95%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E8%AF%95%E8%BF%87)|
