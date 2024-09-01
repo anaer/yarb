@@ -2,6 +2,12 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 疑似有人用“轻松筹”等爱心方式诈骗](https://www.v2ex.com/t/1069318#reply12)|
+||[ Apple Apple Store 外币 CC 结账](https://www.v2ex.com/t/1069315#reply11)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[关税生效第一个月，中国新能源汽车欧洲销量有所下滑｜钛度车库](https://www.tmtpost.com/7233329.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[AMH7.1怎么修改mysql8的密码?](https://segmentfault.com/q/1010000045233351)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[高仿 X](https://w2solo.com/topics/4983)|
+|[渚碧](https://jubeny.com/feed.xml)|[读书小结四](https://jubeny.com/2024/09/book-summaries-04/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[余承东首度回应享界S9飞坡事件：给钱就好评 不给钱就恶评](https://m.cnbeta.com.tw/view/1444156.htm)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[永辉超市首家自主调改店试营业：首日销售额151.43万，客流量超1.4万人](https://www.36kr.com/newsflashes/2930789290203778)|
 ||[零跑汽车8月交付达30305台](https://www.36kr.com/newsflashes/2930786288294792)|
