@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[Fernweh](https://blog.wohin.me/index.xml)|[读博这半年](https://blog.wohin.me/posts/phd-0_5/)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[🍀 如何上手 Nuxt：Vue 开发者的学习和实践心得](https://juejin.cn/post/7408851018501455926)|
+||[Mako 试玩 编译速度6到飞起！](https://juejin.cn/post/7408911737628016681)|
+||[顺着趋势且跟对团队，成长更快且收获更多](https://juejin.cn/post/7408848095616253967)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[3 年后，Elasticsearch 再次开源，还与 AWS 成为关系牢固的“伙伴”！网友：OpenSearch 怎么办？](https://www.infoq.cn/article/HlyJL6hyOtSImoNTOL32)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[电商ERP-运费模版与运费](https://www.woshipm.com/share/6107359.html)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：林强新专辑《时间浸渍》公布、TOM FORD 发布 2024 冬季系列广告大片](http://www.toodaylab.com/83024)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[SQL SERVER聚集索引](https://www.jianshu.com/p/b413e5f69664)|
+||[浙版数媒力推《黑神话：悟空》，加速游戏产业国际化进程](https://www.jianshu.com/p/97313e9352d9)|
+||[《逆世战神》](https://www.jianshu.com/p/0449fcd57f31)|
+||[《魔法传奇之傲世风云》](https://www.jianshu.com/p/f0affc3c876c)|
+|[虎嗅](https://rss.huxiu.com/)|[外资美妆中国市场跌落](https://www.huxiu.com/article/3421248.html?f=rss)|
+||[沃尔玛告别“电商老师”京东，想在印度扶持一个阿里巴巴](https://www.huxiu.com/article/3421245.html?f=rss)|
+||[为颈椎消费过万，年轻人组团“吊脖子”](https://www.huxiu.com/article/3421244.html?f=rss)|
+||[新能源车“卖电”有多赚？多地试点车对桩反向充电](https://www.huxiu.com/article/3421242.html?f=rss)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[哈里斯呼吁“全程开麦”辩论：特朗普正向他的顾问们投降！](https://m.cnbeta.com.tw/view/1444195.htm)|
+||[逮捕Telegram老板的背后 是一个野心勃勃的巴黎反网络犯罪执法分队](https://m.cnbeta.com.tw/view/1444193.htm)|
+||[宁德时代曾毓群：2023年新能源汽车火灾发生率为万分之0.96 一些动力电池安全系数远远不够](https://m.cnbeta.com.tw/view/1444192.htm)|
+||[泰康保险创始人谈企业家精神：任正非就是这样做的](https://m.cnbeta.com.tw/view/1444191.htm)|
+||[院士欧阳明高：只有用上绿电才能叫真正的新能源汽车](https://m.cnbeta.com.tw/view/1444190.htm)|
+||[华硕全球首款1440P 480Hz OLED电竞显示器上市 首发7999元](https://m.cnbeta.com.tw/view/1444189.htm)|
+||[宝马首款国产M性能车型X1 M35Li车型上市 售40.99万元](https://m.cnbeta.com.tw/view/1444188.htm)|
+||[长安汽车朱华荣：新能源车不断扩大油箱、增加电池容量续航 违背行业发展初衷](https://m.cnbeta.com.tw/view/1444187.htm)|
+||[罗永浩回应主持婚丧嫁娶还债：普通家庭负担不了 土豪家庭才有可能](https://m.cnbeta.com.tw/view/1444186.htm)|
+||[全新前脸+大屏内饰 全新奥迪Q5将于9月3日首发](https://m.cnbeta.com.tw/view/1444185.htm)|
+||[因欺诈发行退市被追偿10.86亿 光存储第一股紫晶存储案迎新进展](https://m.cnbeta.com.tw/view/1444184.htm)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[女医生被奸杀，引爆了全印度的怒火](https://www.infzm.com/contents/278087)|
+||[八年多免费发放盒饭，汕头这个饭堂让爱心传递](https://www.infzm.com/contents/278057)|
+||[南昌民融登：一家民间融资登记机构如何变成“吞金兽”？](https://www.infzm.com/contents/278065)|
+|[IT之家](https://www.ithome.com/rss/)|[法国电信大亨泽维尔・尼尔进入字节跳动董事会](https://www.ithome.com/0/792/677.htm)|
+||[《魔兽世界》国服赞助《DOTA2》XG、iG 战队征战 TI13](https://www.ithome.com/0/792/676.htm)|
+||[岚图汽车法务部：有水军账号恶意攻击抹黑岚图，公司已固定证据将追责](https://www.ithome.com/0/792/674.htm)|
+||[岚图汽车 8 月交付 6156 辆同比增长 54%，今年累销 42547 辆同比增长 90%](https://www.ithome.com/0/792/673.htm)|
+||[长城汽车 8 月总销量 94461 辆，同比下降 17.21%](https://www.ithome.com/0/792/672.htm)|
+||[2024 年铁路暑运收官，累计发送旅客 8.87 亿人次创历史新高](https://www.ithome.com/0/792/671.htm)|
+||[3499 元 12mm 碳膜单元：宝华韦健 Pi8 旗舰 HIFI 耳机新品开售](https://www.ithome.com/0/792/670.htm)|
+||[赛力斯 2024 年 8 月新能源汽车销量 36181 辆，同比增长 479.55%](https://www.ithome.com/0/792/668.htm)|
+||[小米 SU7 车外唤醒防御功能上线：抑制率达 99%，基于自研声音大模型](https://www.ithome.com/0/792/667.htm)|
+||[2024 版《国铁集团客规》公布：防止严重超员引发风险，无运输能力时列车有权拒绝旅客补票和继续乘车](https://www.ithome.com/0/792/666.htm)|
+||[石头 G20S Ultra 自清洁扫拖机器人预热：7.98cm 机身、底盘升降，9 月 5 日上市](https://www.ithome.com/0/792/664.htm)|
+||[鸿蒙智行问界新 M7 Pro 车型开始全国规模交付，售 24.98 万元起](https://www.ithome.com/0/792/663.htm)|
+||[蔚来乐道汽车首批百家门店开业：覆盖北京、上海、广州、深圳等全国 55 座城市](https://www.ithome.com/0/792/662.htm)|
+||[上市不到半年，东风奕派累计销量突破 3 万台](https://www.ithome.com/0/792/661.htm)|
+||[欺诈发行退市被追偿 10.86 亿元，“光存储第一股”紫晶存储案投资者迎赔偿](https://www.ithome.com/0/792/660.htm)|
+||[抖音 App 接入荣耀 MagicOS 任意门服务：支持图搜答疑、快速视频观看](https://www.ithome.com/0/792/659.htm)|
+||[远航 H8 SUV 车型新增 3 款后驱版本：可选 560/700 公里，售 21.98 万元起](https://www.ithome.com/0/792/658.htm)|
+||[vivo 手机支持发布小红书 Live 图：覆盖 X100/90、X Fold 3/2、S19/18 等机型](https://www.ithome.com/0/792/657.htm)|
+||[OpenAI、Perplexity 都在用的 AI 编辑器，成了硅谷码农最爱](https://www.ithome.com/0/792/655.htm)|
+|[月光博客](http://www.williamlong.info/rss.xml)|[看完IMDb250后的体验](https://www.williamlong.info/archives/7453.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[打破原有“笨重”架构，微卡片平台提升大型企业敏捷性丨创新场景](https://www.tmtpost.com/7233569.html)|
+||[万亿银行“缩表”：民生银行，也选择了“保守治疗”？](https://www.tmtpost.com/7233196.html)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[亿纬锂能董事长刘金成：提升储能电芯的市场价值 不能靠一味降价](https://www.36kr.com/newsflashes/2931091114367880)|
+||[余承东：新能源汽车的下半场是智能化](https://www.36kr.com/newsflashes/2931033346710144)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[九月的青山红钢城](https://www.coolapk.com/feed/58594805?shareKey=ODJmYjc4MmU2YjkyNjZkNDE3ZDA~)|
+||[ 笔记 Proxmox VE安装xfce4桌面环境，AIO+HTPC的另类玩法](https://www.coolapk.com/feed/58594720?shareKey=OTU3OWVkZTEwNzk5NjZkNDE3ZDA~)|
+||[大家看下谷歌相机和自带相机，哪个效果好些？](https://www.coolapk.com/feed/58593878?shareKey=NGI5N2QzZWU2ZmIwNjZkNDE3ZDA~)|
+||[四时大佬0719富士配置直出](https://www.coolapk.com/feed/58593798?shareKey=YjU0MTM1MWI5ZWMxNjZkNDE3ZDA~)|
+||[你...还在避暑？此地已率先“穿两件”！重庆人民慕了吗？！](https://www.coolapk.com/feed/58593533?shareKey=NDgyYjIyMWFlNzVmNjZkNDE3ZDA~)|
+||[疯狂八月碎片](https://www.coolapk.com/feed/58592837?shareKey=NGE0ZDE4YTVhYmUxNjZkNDE3ZDA~)|
+||[分享一些哈尔滨的餐馆，可以让你大饱口福。大多数都是我去过的。](https://www.coolapk.com/feed/58593247?shareKey=YjUxYTE3Y2UyNWMwNjZkNDE3ZDA~)|
+||[可以看看大家手机拍照作品吗](https://www.coolapk.com/feed/58593387?shareKey=YThlMjJhNWJiNWViNjZkNDE3ZDA~)|
+||[美美的水印](https://www.coolapk.com/feed/58593237?shareKey=ZmU3YTg4MDQwNWFjNjZkNDE3ZDA~)|
+||[蓝厂工具箱iQOO11s橘子3无法使用](https://www.coolapk.com/feed/58593211?shareKey=OTExOWNmZWZkZjNiNjZkNDE3ZDA~)|
+||[另辟蹊径，扔掉车机盒子，升级瑞虎8有线carlife为无线carlife。](https://www.coolapk.com/feed/58593170?shareKey=YWVjOTg4M2NlMWYyNjZkNDE3ZDA~)|
+||[低成本同步降压方案](https://www.coolapk.com/feed/58592930?shareKey=MDE3NTE3ZWNjYWE5NjZkNDE3ZDA~)|
+||[校园wifi免认证上网很简单的，](https://www.coolapk.com/feed/58592890?shareKey=OTFmMzEyZTI4YTY3NjZkNDE3ZDA~)|
+||[潜望式长焦杂谈:vivo X30 Pro](https://www.coolapk.com/feed/58592751?shareKey=NWVkOTA1ZWY4YTc2NjZkNDE3ZDA~)|
+||[盘点我这个暑假买过的数码产品](https://www.coolapk.com/feed/58591869?shareKey=ZmFhNmI0MTAwOWJiNjZkNDE3ZDA~)|
+||[性价比很高酷科氮化镓充电器](https://www.coolapk.com/feed/58591944?shareKey=MjliMjAyNGNmOTY2NjZkNDE3ZDA~)|
+||[1300手搓一加ace3？！](https://www.coolapk.com/feed/58591963?shareKey=YjA5MTM5MWQxZDhkNjZkNDE3ZDA~)|
+||[我的华为白月光—mate20 Pro UD](https://www.coolapk.com/feed/58591818?shareKey=ZWU2NjY1OTNlNmM0NjZkNDE3ZDA~)|
+||[电脑diy入门级指南以及部分问题解答（碎碎念）](https://www.coolapk.com/feed/58591574?shareKey=Nzc3YmUyODMwZjk1NjZkNDE3ZDA~)|
+|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 毕业 4 年在 Q 音干到 T11，准备跑路了，谈一谈想法](https://www.v2ex.com/t/1069344#reply36)|
+||[ 程序员 迁移一个开源 Python Flask 的项目，选 Go 还是 Rust](https://www.v2ex.com/t/1069343#reply11)|
+||[ 问与答 家有学生，需要打印的资料非常多，哪款激光打印机性价比高？主要考虑耗材，平均大概几毛一页？](https://www.v2ex.com/t/1069342#reply12)|
+||[ 问与答 Thinkbook 14+ 品质探究](https://www.v2ex.com/t/1069341#reply14)|
+||[ 职场话题 有固定涨薪不卷的厂吗？在大厂卷累了](https://www.v2ex.com/t/1069340#reply12)|
+||[ 奇思妙想 有没有结合 AI 和硬件想创业的朋友聊聊想法？](https://www.v2ex.com/t/1069337#reply12)|
+||[ 问与答 自驾 9h 回老家带十个月的婴儿](https://www.v2ex.com/t/1069336#reply14)|
 |[人人都是产品经理](https://www.woshipm.com/feed)|[基于竞价广告推荐系统工作流商业策略优化方向](https://www.woshipm.com/share/6107109.html)|
 ||[《黑神话：悟空》爆火背后的原因：品牌营销值得学习的五点奥义](https://www.woshipm.com/share/6107537.html)|
 ||[技术 or 业务？数据分析发展路径大盘点](https://www.woshipm.com/share/6107529.html)|
