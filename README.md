@@ -2,6 +2,63 @@
 
 |来源|标题|
 |---|---|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[产品要懂点数据分析（三）- 分析过程](https://www.woshipm.com/share/6106688.html)|
+||[基金惨跌下，AI助力产品经理分析基金公司新布局，基金公司小程序功能全解析](https://www.woshipm.com/evaluating/6107691.html)|
+||[必看，项目管理小白进阶宝典！](https://www.woshipm.com/share/3484908.html)|
+||[交易工具：智能条件单，底层逻辑是什么？](https://www.woshipm.com/share/6107688.html)|
+||[Axure使用教程，如何用Axure做智慧水务管理系统高保真原型及如何写PRD需求文档？](https://www.woshipm.com/share/6107570.html)|
+||[产品的力量：从理论到实践（十六）](https://www.woshipm.com/share/6107682.html)|
+||[私域客户关系到这层，才算真一劳永逸](https://www.woshipm.com/share/6107669.html)|
+||[不露脸不拍图做穿搭号，一个月赚2万](https://www.woshipm.com/share/6105741.html)|
+||[80%的人不掌握的职场利器：高质量访谈](https://www.woshipm.com/share/6107646.html)|
+||[学而思新一代学练机首发，是产品创新还是割用户韭菜？](https://www.woshipm.com/evaluating/6107307.html)|
+||[业财产品也要懂点财务-资产组、商誉减值](https://www.woshipm.com/share/6107481.html)|
+||[从0到1做新项目的思考逻辑](https://www.woshipm.com/share/2005910.html)|
+||[产品的力量：从理论到实践（十五）](https://www.woshipm.com/share/6107436.html)|
+||[世界上最讨厌仅退款的，其实是丰巢](https://www.woshipm.com/it/6107749.html)|
+|[虎嗅](https://rss.huxiu.com/)|[法国亿万富翁加入，字节跳动董事会新成员什么来头？](https://www.huxiu.com/article/3422177.html?f=rss)|
+||[我在成都车展见证燃油车摆烂](https://www.huxiu.com/article/3423757.html?f=rss)|
+||[泛滥的共享充电宝，收割代理商，背刺消费者](https://www.huxiu.com/article/3423252.html?f=rss)|
+||[国际货币政策进入降息周期，资本市场会如何波动？](https://www.huxiu.com/article/3418084.html?f=rss)|
+||[到底谁能从共享充电宝中赚到钱？](https://www.huxiu.com/article/3423254.html?f=rss)|
+||[世界是个草台班子，然后呢？](https://www.huxiu.com/article/3422392.html?f=rss)|
+||[网红一姐要带着她的品牌上市了](https://www.huxiu.com/article/3422133.html?f=rss)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[🔥🔥🔥国产自研工作流引擎 flowlong 发布 1.0.1 版本](https://www.oschina.net/news/309911/flowlong-1-0-1)|
+||[🎉smart-servlet v2.2 发布，不足 1MB 的国产 Servlet 容器](https://www.oschina.net/news/309910/smart-servlet-2-2)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[MiniMax公布首个AI高清视频生成模型，闫俊杰：做技术其实是一件很“奢侈”的事｜钛媒体AGI](https://www.tmtpost.com/7234059.html)|
+||[国内AI算力公司“无问芯穹”完成近5亿元A轮融资，成立16个月累计融资近10亿｜钛媒体AGI](https://www.tmtpost.com/7234113.html)|
+||[“361度”们，反攻安踏](https://www.tmtpost.com/7233535.html)|
+||[康佳业绩不佳，问题出在哪？](https://www.tmtpost.com/7233263.html)|
+||[微信小店上线，是时候重新认识微信电商了](https://www.tmtpost.com/7233377.html)|
+||[年薪百万请军师，茶饮能否解海底捞之渴？](https://www.tmtpost.com/7233382.html)|
+||[国内芯片公司象帝先回应全员解散传闻：正进行人员优化，积极寻找外部融资机会｜钛媒体AGI](https://www.tmtpost.com/7233966.html)|
+|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[工劳小报堂堂突入线下！独立志01：《青年失业潮下：劳动调查》](https://feed.laborinfocn7.com/zine01-survey/)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[本期封面来自一款名为 Hatch Restore 2↗︎ 的闹钟它可以模拟日出，在 30 分钟内逐渐增加光线亮度，从柔和的红色过渡到明亮的日光色。 https://xiaobot.net/p/De...](https://m.okjike.com/originalPosts/66d5062ea0d6d2ffc43549ac)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 大家身边有没有这样的同事，喜欢把你的话重复一遍？](https://www.v2ex.com/t/1069513#reply30)|
+||[ 问与答 提供人肉信息（查号码之类的）的服务靠谱吗](https://www.v2ex.com/t/1069499#reply14)|
+||[ 程序员 客户端程序代码如果做权限控制](https://www.v2ex.com/t/1069498#reply11)|
+||[ 问与答 除了银行预约换汇，换港币还有什么简单省心的方式吗？](https://www.v2ex.com/t/1069491#reply16)|
+||[ Apple 广州政府补贴七千一拿下 MBA m2 16+256 亏不亏](https://www.v2ex.com/t/1069482#reply22)|
+||[ 问与答 大家在公司都是用的什么屏幕啊](https://www.v2ex.com/t/1069479#reply14)|
+||[ 问与答 有没有韩国的朋友,韩国中秋节放几天假?](https://www.v2ex.com/t/1069478#reply29)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[大五座旗舰 SUV！余承东确认问界 M9 五座版发布时间：9 月 10 日](https://www.ithome.com/0/792/779.htm)|
+||[消息称高盛计划全球裁员超 1300 人](https://www.ithome.com/0/792/777.htm)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[韩国最高情报机构官员被指控向中国泄露卧底特工名单](https://cn.nytimes.com/asia-pacific/20240902/south-korea-spy-leak-china/)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 大家身边有没有这样的同事，喜欢把你的话重复一遍？](https://www.v2ex.com/t/1069513#reply31)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[紧日子还热衷于装点门面？半月谈：警惕“装修风”向基层蔓延](https://m.thepaper.cn/detail/28600528)|
+||[半年退货手机77次，男子滥用七日无理由退货主张权益被驳回](https://m.thepaper.cn/detail/28600494)|
+||[开学了，上海58所高科技、高颜值中小学校园“上新”](https://m.thepaper.cn/detail/28600567)|
+||[暖心帧周报丨凡人微光，聚可照亮远方](https://html.thepaper.cn/collection/b1ohh7gy)|
+||[澎湃早晚报｜早餐湃·元气满满启新程](https://m.thepaper.cn/papernews/morningEveningPaper?n=144910)|
+||[讲好劳动故事，天津市职工作家创作文丛研讨会举办](https://m.thepaper.cn/detail/28597710)|
+||[上海文化润疆，2024喀什星空音乐节将于9月下旬举办](https://m.thepaper.cn/detail/28597860)|
+||[十大券商看后市｜全球资金有望迎来再配置，或利好中国资产](https://m.thepaper.cn/detail/28597763)|
+||[一周观展指南｜香港故宫溯源文明，伦敦探寻文艺复兴](https://m.thepaper.cn/detail/28578711)|
+||[牛市早报｜国常会最新发声，要培育壮大保险资金等耐心资本，打通制度障碍](https://m.thepaper.cn/detail/28600512)|
+||[江西与粤港澳大湾区金融合作对接会召开，加速拥抱大湾区资本](https://m.thepaper.cn/detail/28600553)|
+|[少数派](http://sspai.me/feed)|[派早报：市场监管总局督导阿里完成三年整改](https://sspai.com/post/91952)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何解决Windows 11下通义灵码与VSCode不兼容的问题？](https://segmentfault.com/q/1010000045235031)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[无问芯穹获近 10 亿元累计融资，致力于成为大模型时代首选的“算力运营商”](https://www.jiqizhixin.com/articles/2024-09-02)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[暑期档究竟怎么了](https://www.tmtpost.com/7233730.html)|
 ||[钛媒体科股早知道：又一行业盛会将举行，该领域有望掀起重大革新带动产业链发展](https://www.tmtpost.com/7233800.html)|
 ||[济川药业中报营收净利双降，225亿曹龙祥父子面临挑战](https://www.tmtpost.com/7233758.html)|
