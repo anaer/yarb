@@ -2,6 +2,105 @@
 
 |来源|标题|
 |---|---|
+|[爱范儿](https://www.ifanr.com/feed)|[这些在课上「玩手机」的孩子，创造力在萌芽](https://www.ifanr.com/1597894?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[Vue.js模版语法](https://juejin.cn/post/7409850315203280915)|
+||[改造PDF.js源码，实现审批系统对PDF阅读器的集成（五）—— 定制化源码的正确打开方式](https://juejin.cn/post/7409599751749009442)|
+||[基于 Lexical 写个编辑器（一）](https://juejin.cn/post/7409848788447199247)|
+||[通用校验字段数据方法](https://juejin.cn/post/7409675898327253031)|
+||[对象有顺序吗？](https://juejin.cn/post/7409668839199883314)|
+||[vue2和vue3 keep-alive的实现](https://juejin.cn/post/7409629702434455561)|
+||[全面解读 HTTP 缓存机制：200 内存与硬盘缓存、304 状态码及 Nginx 实现静态资源缓存](https://juejin.cn/post/7409608924053929999)|
+||[vue中没有及时更新视图和数据？适当使用$forceUpdate ](https://juejin.cn/post/7409668839199817778)|
+||[如何用ts搭建一个vue3通用项目底座 第四篇：utils函数](https://juejin.cn/post/7409497125863915520)|
+||[ECharts实现雷达图详解](https://juejin.cn/post/7409523890853347354)|
+||[HarmonyOS开发：自定义弹框使用案例分享（CustomDialog+TextPicker组合使用）](https://juejin.cn/post/7409580670233362495)|
+||[sentry常见运维问题](https://juejin.cn/post/7409523890853265434)|
+||[JS实用小方法-数字处理（小数位数、金额千分位、四舍五入）](https://juejin.cn/post/7409503443004981263)|
+||[小程序五花八门的分享](https://juejin.cn/post/7409608924053307407)|
+||[富文本格式粘贴的问题](https://juejin.cn/post/7409580670233182271)|
+||[带你入门着色器](https://juejin.cn/post/7409497125863407616)|
+||[算法学习：二分查找](https://juejin.cn/post/7409599751747960866)|
+||[【算法】替换后的最长重复字符](https://juejin.cn/post/7409585902647476275)|
+||[5个前端JS函数，只为了优雅解决 a.b.c.d = 1 问题（小程序用户配置实战）](https://juejin.cn/post/7409629702434029577)|
+||[我所知道的HTML——WebSocket](https://juejin.cn/post/7409503443004653583)|
+|[36氪](http://36kr.com/feed)|[专注新一代硅碳负极材料，「格源新材料」半年内完成两轮亿元融资 36氪首发](https://36kr.com/p/2931046988700295?f=rss)|
+||[医疗健康行业周报 「微元合成」获超3亿元A轮融资；先衍生物完成近亿元融资](https://36kr.com/p/2931505289812609?f=rss)|
+||[最前线 蜂巢能源杨红新：短刀+叠片，是10分钟快充的最优解](https://36kr.com/p/2932276793449350?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[固态电池研发“百花齐放”，2030年或为商业化关键节点｜直击2024动力电池大会](https://www.tmtpost.com/7234890.html)|
+||[三大IDC服务商发布Q2财报：有的扭亏为盈，有的聚焦海外](https://www.tmtpost.com/7234597.html)|
+||[【产业互联网周报】中国石油发布330亿参数昆仑大模型；腾讯HR助手将整体退出市场；国家数据局：公共数据、企业数据两份开发利用文件年内出台](https://www.tmtpost.com/7234462.html)|
+||[【生态环境周观察】八部门联合发布《关于进一步做好金融支持长江经济带绿色低碳高质量发展的指导意见》；国新办发布《中国的能源转型》白皮书；第八次中澳气候变化部长级对话成功召开](https://www.tmtpost.com/7234103.html)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[2023 年中国 CAD 市场份额达 54.8 亿元，同比增长 12.8%](https://www.oschina.net/news/310008)|
+||[Apache SeaTunnel 2.3.7 发布：全新支持大型语言模型数据转换](https://www.oschina.net/news/309997/apache-seatunnel-2-3-7-released)|
+||[deepin 23 下如何运行绝大数 Windows 游戏？](https://www.oschina.net/news/309992/deepin-23-runs-windows-games)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[SpaceX Starship 重型火箭的爆炸制造了巨大的电离层空洞](https://www.solidot.org/story?sid=79140)|
+||[ElasticSearch 和 Kibana 再次变成自由软件](https://www.solidot.org/story?sid=79138)|
+||[微软让受争议的 Recall 功能可卸载](https://www.solidot.org/story?sid=79137)|
+||[Telegram 是言论自由和恋童癖的天堂](https://www.solidot.org/story?sid=79136)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[今年最香活法，收割了多少抠门中产](https://36kr.com/p/2930787251903111)|
+||[遭遇“背刺”，暴跌36%！农夫山泉，年内跌没1800亿](https://36kr.com/p/2930824795331712)|
+||[小鹏急了](https://36kr.com/p/2930869417663107)|
+||[8点1氪｜宗馥莉接手娃哈哈集团公司股份；中金公司降职降薪传言属实；部分地方恢复或新建国道收费站](https://36kr.com/p/2932138396932997)|
+||[拼多多暴跌背后，黄峥或许不想做首富？](https://36kr.com/p/2930933986958215)|
+||[越破越火！“反精致”席卷咖啡圈，全国多店登上热门榜](https://36kr.com/p/2930810755832708)|
+||[智氪 每月如果多省 400 元房贷，真的就可以拉动消费么？](https://36kr.com/p/2930883598031750)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 推荐一个屏蔽涩图的插件](https://www.v2ex.com/t/1069685#reply14)|
+||[ 健康 近视手术问题请教社友](https://www.v2ex.com/t/1069674#reply14)|
+||[ 生活 关于结婚领取补贴的忧愁](https://www.v2ex.com/t/1069663#reply17)|
+||[ 生活 怎样才是看病的正确方法](https://www.v2ex.com/t/1069653#reply23)|
+||[ 剧集 寻美剧片段，竞选者是单身，幕僚或者什么人劝他找一个伴侣， gay 也行，因为美国人无法共情、理解这样没有亲密关系、家庭的竞选者](https://www.v2ex.com/t/1069652#reply14)|
+||[ 职场话题 马上中秋了，各位佬儿公司发什么了](https://www.v2ex.com/t/1069646#reply24)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-02](https://decohack.com/producthunt-daily-24-09-02/)|
+|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[GitHub项目评论被用来传播Lumma Stealer恶意软件](https://www.freebuf.com/news/409987.html)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[Atlassian Confluence 漏洞被利用于加密货币挖矿活动](https://www.anquanke.com/post/id/299683)|
+||[新的网络攻击以Cobalt Strike有效载荷瞄准华语企业](https://www.anquanke.com/post/id/299686)|
+||[SANS研究所发布2024年关键基础设施战略指南：呼吁采取行动保护ICS/OT环境](https://www.anquanke.com/post/id/299689)|
+||[‘Voldemort’ 恶意软件利用全球税务机构对组织发动攻击](https://www.anquanke.com/post/id/299693)|
+||[与韩国有关联的组织 APT-C-60 利用了 WPS Office 零日漏洞](https://www.anquanke.com/post/id/299696)|
+||[网络攻击者在可能的间谍活动中利用 Google Sheets 进行恶意软件控制](https://www.anquanke.com/post/id/299698)|
+||[网络安全巨头持续加码 AI 投资：Check Point 和 Cisco 最新收购动向](https://www.anquanke.com/post/id/299701)|
+||[Fortra 修复了 FileCatalyst Workflow 中的两个严重漏洞](https://www.anquanke.com/post/id/299704)|
+||[模拟“noblox.js”的恶意 npm 包会破坏 Roblox 开发人员的系统](https://www.anquanke.com/post/id/299708)|
+||[摆脱高级威胁“达摩克利斯之剑”，科教行业再添安全“buff”](https://www.anquanke.com/post/id/299710)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[Atomic - 习惯跟踪工具 macOS、iOS 内购限免 ](https://free.apprcn.com/atomic/)|
+||[Water Now - 喝水跟踪提醒工具 iOS、Apple Watch 内购限免 ](https://free.apprcn.com/water-now/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取字体包 Sensational Font Bundle Windows、macOS $3144→0 ](https://free.apprcn.com/get-sensational-font-bundle-for-free-2/)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[HeHeDa: @无聊图](http://i.jandan.net/t/5746536)|
+||[fith: @无聊图](http://i.jandan.net/t/5746501)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5746427)|
+||[HeHeDa: @无聊图](http://i.jandan.net/t/5746423)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5746406)|
+|[IT之家](https://www.ithome.com/rss/)|[TrendForce：供应链急单助全球前十大晶圆代工企业 2024Q2 产值环比增 9.6%](https://www.ithome.com/0/792/941.htm)|
+||[《生成式人工智能行业自律倡议》发布，BAT、华为小米 OPPO 荣耀、北大清华等参编](https://www.ithome.com/0/792/940.htm)|
+||[摩尔线程与索贝实现 CPU、GPU、软件、系统全链条国产化全域超清解决方案](https://www.ithome.com/0/792/939.htm)|
+||[商务部发布声明：从未发布《关于以旧换新惠民款补贴发放的公证通知》](https://www.ithome.com/0/792/938.htm)|
+||[太空惊悚电影《异形：夺命舰》官宣延长放映至 10 月 15 日，累计票房突破 6.65 亿](https://www.ithome.com/0/792/937.htm)|
+||[Bigme 大我 10.3'' 彩墨屏智能办公本 B1051C 预热：天玑 900、Android 14](https://www.ithome.com/0/792/934.htm)|
+||[Firefox 火狐浏览器将改进“画中画”，打开其他网页自动显示视频浮窗](https://www.ithome.com/0/792/932.htm)|
+||[百度人工智能产业基地落地广东东莞，招引培育 20 余家数字生态上下游企业](https://www.ithome.com/0/792/931.htm)|
+||[工信部征求意见：2027 年轻工骨干企业基本实现数字化改造全覆盖](https://www.ithome.com/0/792/930.htm)|
+||[寒武纪 2024 上半年营收 6476.53 万元、同比下降 43.42%，净亏损 5.3 亿元](https://www.ithome.com/0/792/929.htm)|
+||[消息称努比亚新机首发 1.5K 屏下前摄，TOP5 某厂内部迭代测试 2K 方案](https://www.ithome.com/0/792/927.htm)|
+||[高德重启顺风车业务，已开通 65 个城市](https://www.ithome.com/0/792/926.htm)|
+||[微软称 Win11 的 Recall 功能支持卸载是一个 Bug，将进行修复](https://www.ithome.com/0/792/924.htm)|
+||[清华系 AI 公司无问芯穹完成近 5 亿元 A 轮融资，投资方含联想创投、小米等](https://www.ithome.com/0/792/922.htm)|
+||[曜越发布 CTE E550 TG 中塔机箱，前左后三面强化玻璃面板](https://www.ithome.com/0/792/921.htm)|
+||[上海：到 2026 年直播电商零售额力争达到 6000 亿元，形成 10 个全国领先、具有国际竞争力的头部直播平台](https://www.ithome.com/0/792/920.htm)|
+||[大眼橙 X7D Ultra 投影仪发布：1700CVIA / lm、0.47''DMD，首发 3799 元](https://www.ithome.com/0/792/919.htm)|
+||[特斯拉加强数据收集，为 Robotaxi 发布做准备](https://www.ithome.com/0/792/918.htm)|
+||[创维汽车创始人黄宏生保健式营销再引争议，称车内午休亚健康问题全部消失](https://www.ithome.com/0/792/916.htm)|
+||[小米 Watch S4 系列手表通过无线电核准，有望提供 eSIM 版和蓝牙版](https://www.ithome.com/0/792/915.htm)|
+||[嘀嗒出行 CEO 宋中杰：无人驾驶技术将为顺风车和出租车带来新机遇，正探索与相关方合作](https://www.ithome.com/0/792/914.htm)|
+||[神秘深红色特斯拉 Model Y 现身，或为新配色](https://www.ithome.com/0/792/913.htm)|
+||[AI 人眼追踪、一键 2D 转 3D，红魔平板・3D 探索版亮相](https://www.ithome.com/0/792/912.htm)|
+||[《鬼泣》《龙之信条》系列制作人、卡普空 30 年老将伊津野英昭离职](https://www.ithome.com/0/792/911.htm)|
+||[起拍价调低 6.9 亿至 12.25 亿元，广汽菲克长沙工厂开启第三轮拍卖](https://www.ithome.com/0/792/909.htm)|
+||[符合英伟达 SFF-Ready 标准，同德推出 RTX 40 SUPER Infinity 3 系列显卡](https://www.ithome.com/0/792/908.htm)|
+||[奔驰将合并 S 级和 EQS 轿车阵容，采用同一设计语言](https://www.ithome.com/0/792/907.htm)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[10年内，人类有什么能力是AI暂时无法替代的](https://www.woshipm.com/ai/6107658.html)|
+||[存量客户迁移，一文说清银行企微外呼获客这件事](https://www.woshipm.com/pd/6107727.html)|
+|[SegmentFault 推荐的文章](https://segmentfault.com/feeds/blogs)|[使用JavaScript读取手机联系人列表](https://segmentfault.com/a/1190000045234958)|
+|[葉開 • 時光記](https://qq.md/feed/)|[蘑菇带来的忙碌一天](https://qq.md/post/45)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[韩国将在2025年创纪录地削减外汇稳定基金规模](https://www.36kr.com/newsflashes/2932571576736388)|
 ||[国家烟草专卖局：国产内销电子烟产品出厂价、建议零售价由企业自主确定](https://www.36kr.com/newsflashes/2932564121557637)|
 ||[理想汽车OTA 6.2发布：基于高德车道级动态信息，保障施工场景通行安全](https://www.36kr.com/newsflashes/2932550182541955)|
