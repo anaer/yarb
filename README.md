@@ -2,6 +2,113 @@
 
 |来源|标题|
 |---|---|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[揭秘奥乐齐的在华策略：笼络中产，暴打“沪币”](https://www.tmtpost.com/7234263.html)|
+||[RPD206元，恺英网络《仙剑奇侠传：新的开始》出海成绩如何？](https://www.tmtpost.com/7234253.html)|
+||[《黑神话：悟空》为何会陷入剧情争议？](https://www.tmtpost.com/7234105.html)|
+||[理想熬过了最困难的阶段](https://www.tmtpost.com/7234152.html)|
+||[咖啡消费逐渐日常化，部分精品咖啡“剑指”超低价](https://www.tmtpost.com/7234083.html)|
+||[泛滥的共享充电宝，收割代理商，背刺消费者](https://www.tmtpost.com/7234040.html)|
+||[魏建军「需要」周鸿祎](https://www.tmtpost.com/7233998.html)|
+||[网易腾讯出手，这场对女性乙游玩家的赛博猎巫该停下了](https://www.tmtpost.com/7233972.html)|
+||[新茶饮闪别佳禾食品](https://www.tmtpost.com/7233908.html)|
+||[英伟达与戴尔表现分化，AI投资逻辑有变？](https://www.tmtpost.com/7234099.html)|
+||[卖月饼已成酒店人的“第四座大山”](https://www.tmtpost.com/7234107.html)|
+||[瑞士食品科技公司ecorobotix开发人工智能驱动的超高精度喷雾器，实现作物逐株精确处理 瑞士创新100强](https://www.tmtpost.com/7234142.html)|
+||[新造车8月销量：理想第一，小米破万，零跑创新高](https://www.tmtpost.com/7234150.html)|
+||[价格战的底线在哪？](https://www.tmtpost.com/7234154.html)|
+||[花20块钱就能体验“贵族运动”，有商家热销30万件](https://www.tmtpost.com/7234168.html)|
+||[没有OS的肿瘤药，在国内也悬了](https://www.tmtpost.com/7234206.html)|
+||[跌了又跌，中国中免业绩难看](https://www.tmtpost.com/7234211.html)|
+||[医美也学拼多多，9块9动脸也能行？](https://www.tmtpost.com/7234214.html)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[让黑头变少，又不伤皮肤，一个超简单的办法就能搞定！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%AE%A9%E9%BB%91%E5%A4%B4%E5%8F%98%E5%B0%91%EF%BC%8C%E5%8F%88%E4%B8%8D%E4%BC%A4%E7%9A%AE%E8%82%A4%EF%BC%8C%E4%B8%80%E4%B8%AA%E8%B6%85%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%9E%E6%B3%95%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%EF%BC%81)|
+||[二手烟对婴儿的危害，可能比你想象的大](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BA%8C%E6%89%8B%E7%83%9F%E5%AF%B9%E5%A9%B4%E5%84%BF%E7%9A%84%E5%8D%B1%E5%AE%B3%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E5%A4%A7)|
+||[以为很爽，实则让你长胖又变丑的 7 个睡眠小习惯](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BB%A5%E4%B8%BA%E5%BE%88%E7%88%BD%EF%BC%8C%E5%AE%9E%E5%88%99%E8%AE%A9%E4%BD%A0%E9%95%BF%E8%83%96%E5%8F%88%E5%8F%98%E4%B8%91%E7%9A%84%207%20%E4%B8%AA%E7%9D%A1%E7%9C%A0%E5%B0%8F%E4%B9%A0%E6%83%AF)|
+||[身上起了红疙瘩，是湿疹还是荨麻疹？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BA%AB%E4%B8%8A%E8%B5%B7%E4%BA%86%E7%BA%A2%E7%96%99%E7%98%A9%EF%BC%8C%E6%98%AF%E6%B9%BF%E7%96%B9%E8%BF%98%E6%98%AF%E8%8D%A8%E9%BA%BB%E7%96%B9%EF%BC%9F)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 智能家电 小米智能家居的控制，全部走无线，真稳定吗？](https://www.v2ex.com/t/1069561#reply11)|
+||[ 问与答 为什么骂小米的这么多，但是小米几乎每进入一个领域，销量都最高？](https://www.v2ex.com/t/1069554#reply28)|
+||[ 问与答 卖车被骗 8.4W，如何维权？](https://www.v2ex.com/t/1069549#reply57)|
+||[ 汽车 豹 5 1000KM 体验](https://www.v2ex.com/t/1069537#reply11)|
+||[ 游戏 各位多久时间完成黑神话悟空一周目？感觉那个关卡的怪最难打？](https://www.v2ex.com/t/1069536#reply44)|
+||[ 程序员 app 初始化时需要通过接口获取上千个独立的配置项，如何优化？](https://www.v2ex.com/t/1069523#reply31)|
+||[ 职场话题 大家身边有没有这样的同事，喜欢把你的话重复一遍？](https://www.v2ex.com/t/1069513#reply74)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[信息差周刊第 17 期：独立开发者出海产品分发渠道](https://w2solo.com/topics/4986)|
+|[IT之家](https://www.ithome.com/rss/)|[智云写趣新旗舰稳定器 9 月 4 日发布，口号“轻上加轻，价格惊喜”](https://www.ithome.com/0/792/819.htm)|
+||[直面丰田埃尔法：比亚迪腾势 D9 右舵版本月将在香港特区开启交付](https://www.ithome.com/0/792/818.htm)|
+||[小鹏汇天“陆地航母”飞行汽车明天发布，今年 Q4 预订 / 明年 Q4 量产交付](https://www.ithome.com/0/792/816.htm)|
+||[蔚来汽车第 2500 座换电站在内蒙古通辽上线，系蒙东地区首站](https://www.ithome.com/0/792/814.htm)|
+||[消息称苹果、OpenAI 成为台积电 A16 制程首批客户](https://www.ithome.com/0/792/813.htm)|
+||[补偿 1.8 米数据线，小鸡九尾狐手柄获推 1.04 版固件修复摇杆漂移等问题](https://www.ithome.com/0/792/812.htm)|
+||[阿维塔 8 月交付 3712 台汽车，同比增长 88%](https://www.ithome.com/0/792/810.htm)|
+||[公安机关已侦破“广告推广型”网络黑灰产犯罪相关案件 170 余起、抓获嫌犯 460 余名](https://www.ithome.com/0/792/809.htm)|
+||[realme 真我 13 Pro 手机预热：天玑 7300 处理器、120Hz 高刷直屏，9 月 3 日发布](https://www.ithome.com/0/792/806.htm)|
+||[联想 moto razr 50 Ultra AI 元启版小折叠手机推出「哥特玫瑰」配色：16GB+1TB，6999 元](https://www.ithome.com/0/792/802.htm)|
+||[小米米家全新吸顶灯套系开售：到手 169 元-849 元 / 多种规格，全光谱灯珠](https://www.ithome.com/0/792/801.htm)|
+||[字节跳动 PICO 4 Ultra 混合现实 MR 一体机今日开售，4299 元](https://www.ithome.com/0/792/800.htm)|
+||[比亚迪腾势联名九号 F2 升级版电动滑板车上市：支持苹果“查找”、40 公里续航，2999 元](https://www.ithome.com/0/792/799.htm)|
+||[打击在线支付欺诈，万事达卡计划在线上购物交易中用令牌代替银行卡号](https://www.ithome.com/0/792/798.htm)|
+||[荣耀 Play 9T 手机亮相：黑 / 白 / 绿三色，最高 12GB+256GB 内存组合](https://www.ithome.com/0/792/797.htm)|
+||[京东宣布 2025 届校招生岗位薪酬全面上调](https://www.ithome.com/0/792/795.htm)|
+||[小米米家恒温淋浴花洒 S1 开启预售：温度数显、智能出水，首发 1399 元](https://www.ithome.com/0/792/794.htm)|
+||[星纪魅族将与时空道宇合作发射“星纪魅族幸运星号”卫星，本月举行 AI 生态发布会](https://www.ithome.com/0/792/793.htm)|
+||[首发价 1399 元，小米 Redmi 显示器 A27U Type-C 版开启预售](https://www.ithome.com/0/792/785.htm)|
+||[镰刀手里剑 3 下压风冷发售：全高 39mm，龙门扇框，1190 新台币](https://www.ithome.com/0/792/784.htm)|
+||[红魔电竞平板预热：10100mAh“魔能电池”+120W“魔闪快充”，45 分钟充满电](https://www.ithome.com/0/792/783.htm)|
+||[小米 Life 气门芯帽（Are you OK 手型版）上架：适用汽车 / 摩托车 / 自行车，29.9 元两个](https://www.ithome.com/0/792/781.htm)|
+||[消息称华为 9 月新品发布会将带来问界 M9 / 智界 R7 汽车、三折叠屏手机，鸿蒙 NEXT 系统不会首发](https://www.ithome.com/0/792/780.htm)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[新型恶意软件Voldemort 利用谷歌工作表向全球70多家企业发起网络攻击](https://www.freebuf.com/news/409960.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[吉利星愿官图发布 Flyme Auto车机加持](https://m.cnbeta.com.tw/view/1444261.htm)|
+||[余承东：华为最具引领性、创新性、颠覆性的产品来了](https://m.cnbeta.com.tw/view/1444260.htm)|
+||[奥迪最畅销SUV 新一代Q5官图发布 全系配轻混](https://m.cnbeta.com.tw/view/1444259.htm)|
+||[华为新品发布会定档9月10日：三折叠手机与苹果iPhone 16同一天发布](https://m.cnbeta.com.tw/view/1444258.htm)|
+||[今年第11号台风“摩羯”生成 最强可达超强台风级](https://m.cnbeta.com.tw/view/1444257.htm)|
+||[手机无线充电终于可以开卷了 苹果却先挨了一枪](https://m.cnbeta.com.tw/view/1444250.htm)|
+||[GoPro新品官宣：全新一代运动相机Hero 13 Black来了](https://m.cnbeta.com.tw/view/1444248.htm)|
+||[苹果开始更多关注散热 iPhone 17系列将配备VC+石墨散热片](https://m.cnbeta.com.tw/view/1444247.htm)|
+||[国产大飞机C919承运旅客突破50万人次 安全飞行超1万小时](https://m.cnbeta.com.tw/view/1444246.htm)|
+||[新一代千元神机 Redmi Note 14系列入网：最高支持90W快充](https://m.cnbeta.com.tw/view/1444244.htm)|
+||[为什么年轻人热衷于“玄学”？这个心理学答案真没想到](https://m.cnbeta.com.tw/view/1444243.htm)|
+||[长安数亿押注固态电池 能量密度超4680电池3倍 全球最高](https://m.cnbeta.com.tw/view/1444242.htm)|
+||[高通发布骁龙6 Gen3处理器 基于三星4nm工艺 性能大增](https://m.cnbeta.com.tw/view/1444241.htm)|
+||[金融时报：拼多多已积累380亿美元现金储备](https://m.cnbeta.com.tw/view/1444238.htm)|
+||[华为余承东：2026年ADS 4.0将实现高速L3自动驾驶商用](https://m.cnbeta.com.tw/view/1444235.htm)|
+||[GPU公司象帝先回应解散传闻：未采取解散或清算 正进行人员优化](https://m.cnbeta.com.tw/view/1444234.htm)|
+||[理想8月蝉联新势力销冠 零跑突破3万辆，哪吒遇冷](https://m.cnbeta.com.tw/view/1444233.htm)|
+||[明星投资人刚走 亿万富翁加入 字节跳动董事会新成员什么来头？](https://m.cnbeta.com.tw/view/1444232.htm)|
+||[亏损超营收，优必选继续“亏钱赚吆喝”](https://m.cnbeta.com.tw/view/1444231.htm)|
+||[美对冲基金大佬力挺马斯克：封杀X将让巴西成为“不可投资市场”](https://m.cnbeta.com.tw/view/1444230.htm)|
+||[消息称英特尔CEO将向董事会提出剥离资产和削减成本计划](https://m.cnbeta.com.tw/view/1444229.htm)|
+||[逼真到被打假：OpenAI投的机器人身穿衣服做家务 被怀疑人类套壳拍视频](https://m.cnbeta.com.tw/view/1444228.htm)|
+||[董宇辉“离巢”满月：30天爆卖7亿 开始“挖角”老东家？](https://m.cnbeta.com.tw/view/1444227.htm)|
+|[KAIX.IN](https://kaix.in/feed/)|[追求](https://kaix.in/2024/0902-pursue/)|
+|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/35](https://weekly.pychina.org/pyrecap/pyrw-2435.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[安全动态回顾 工信部通报21款APP及SDK存在侵害用户权益行为 Uber因将司机数据从欧洲转移到美国被罚款3.25亿美元](https://www.4hou.com/posts/NGOz)|
+||[为什么所有账户（甚至测试账户）都需要强密码](https://www.4hou.com/posts/rpkK)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[韩国最高情报机构官员被指控向中国泄露卧底特工名单](https://cn.nytimes.com/asia-pacific/20240902/south-korea-spy-leak-china/dual)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《黑神话：悟空》防破解的 D 加密技术是什么东西？](https://www.zhihu.com/question/665793411)|
+||[8 月百城二手房价格继续下行，新建住宅价格同比上涨 1.76%，透露了哪些信息？未来楼市走势如何？](https://www.zhihu.com/question/665875580)|
+||[2024 赛季 F1 意大利大奖赛，勒克莱尔夺冠，皮亚斯特里第二，诺里斯第三，如何评价这场比赛？](https://www.zhihu.com/question/665931122)|
+||[如何看待「2024 乒乓球亚锦赛中国队名单」，对此有何期待？](https://www.zhihu.com/question/665717043)|
+||[如何看待比亚迪 8 月销量 373083 辆？](https://www.zhihu.com/question/665920933)|
+||[在公司犯错了，老板已经发现并找了其他同事了解情况，我应该去主动承认错误，还是选择继续隐瞒？](https://www.zhihu.com/question/665652332)|
+||[《黑神话：悟空》中的观音禅院，在原著中到底发生过什么？](https://www.zhihu.com/question/665340174)|
+||[如何评价《音乐缘计划》第三期?](https://www.zhihu.com/question/665932198)|
+|[虎嗅](https://rss.huxiu.com/)|[情绪吞噬互联网](https://www.huxiu.com/article/3410076.html?f=rss)|
+||[让十几万人睡不好觉的回购协议，到底是个什么东西？](https://www.huxiu.com/article/3410580.html?f=rss)|
+||[新造车8月销量：理想第一，小米破万，零跑创新高](https://www.huxiu.com/article/3423770.html?f=rss)|
+||[最讨厌仅退款的，其实是丰巢](https://www.huxiu.com/article/3423785.html?f=rss)|
+||[我，一粒小麦，西进吞并，南下武统，一战为美国逆天改命](https://www.huxiu.com/article/3420446.html?f=rss)|
+||[“万亿”具身智能的师徒“江湖”](https://www.huxiu.com/article/3423748.html?f=rss)|
+||[江湖骗术、千门八将：脱胎于易经，精炼于百家争鸣](https://www.huxiu.com/article/3417074.html?f=rss)|
+||[游走在官方与同人之间：二次元周边产业链观察](https://www.huxiu.com/article/3423251.html?f=rss)|
+||[为什么跨境电商越来越“难做”了？](https://www.huxiu.com/article/3423763.html?f=rss)|
+||[2024，银发经济，三大机会](https://www.huxiu.com/article/3420454.html?f=rss)|
+||[用摄影“杀死”故乡](https://www.huxiu.com/article/3422176.html?f=rss)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[存量客户迁移，一文说清银行企微外呼获客这件事](https://www.woshipm.com/share/6107727.html)|
+||[产品/运营经理的数据分析思维和学习路径](https://www.woshipm.com/share/6107738.html)|
+||[AI大模型实战篇：AI Agent设计模式 – REWOO](https://www.woshipm.com/ai/6107713.html)|
+||[让用户上瘾的秘诀，Hook模型的用户习惯养成术](https://www.woshipm.com/share/6107700.html)|
+||[为什么要建立全渠道交付体系？](https://www.woshipm.com/share/6107644.html)|
+|[Xuanwo's Blog](https://xuanwo.io/index.xml)|[BackON Reaches v1](https://xuanwo.io/2024/08-backon-reaches-v1/)|
 |[人人都是产品经理](https://www.woshipm.com/feed)|[产品要懂点数据分析（三）- 分析过程](https://www.woshipm.com/share/6106688.html)|
 ||[基金惨跌下，AI助力产品经理分析基金公司新布局，基金公司小程序功能全解析](https://www.woshipm.com/evaluating/6107691.html)|
 ||[必看，项目管理小白进阶宝典！](https://www.woshipm.com/share/3484908.html)|
