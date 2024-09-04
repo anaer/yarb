@@ -2,6 +2,118 @@
 
 |来源|标题|
 |---|---|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【产品自荐】Yes/No 塔罗 AI](https://w2solo.com/topics/4999)|
+||[推荐大家一个超实用的免费通配符 SSL 证书平台](https://w2solo.com/topics/4998)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[China Said to Threaten Severe Retaliation if Japan Adopts New Chip Curbs](https://www.tmtpost.com/7237379.html)|
+||[Competition Heats Up as Chinese Cities Vie to Lead in Humanoid Robotics Innovation](https://www.tmtpost.com/7237350.html)|
+||[独家对话功夫熊猫茶：新茶饮出海打出“文化牌”](https://www.tmtpost.com/7236620.html)|
+||[股息高于定存，估值低于美银，六大行有机会？](https://www.tmtpost.com/7237176.html)|
+||[国产“救命神器”突破“卡脖子”，反向卷到海外](https://www.tmtpost.com/7237198.html)|
+||[大模型正在重新定义数据分析的未来 上篇](https://www.tmtpost.com/7231123.html)|
+||[大模型的号角已在数据分析市场吹响｜下篇](https://www.tmtpost.com/7237177.html)|
+||[中报净利增速下滑，浙商银行的“薛定谔分红”会不会来？](https://www.tmtpost.com/7237234.html)|
+||[当打假网红被打假](https://www.tmtpost.com/7237224.html)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[拜登首席气候外交官波德斯塔访华](https://cn.nytimes.com/world/20240904/podesta-china-climate-change/?utm_source=RSS)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[拜登首席气候外交官波德斯塔访华](https://cn.nytimes.com/world/20240904/podesta-china-climate-change/dual)|
+||[万物皆可疑？一份中国国安部眼中的不完整威胁清单](https://cn.nytimes.com/china/20240904/china-security-threats/dual)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[聊聊大宗商品的走势](https://www.huxiu.com/article/3431830.html?f=rss)|
+||[2024，银发经济，3大趋势](https://www.huxiu.com/article/3431352.html?f=rss)|
+||[大学排名暴跌30名，同学纷纷转学自救，我慌了](https://www.huxiu.com/article/3431336.html?f=rss)|
+||[贴在非洲的“旧标签”，早该撕了](https://www.huxiu.com/article/3429248.html?f=rss)|
+||[正常老化还是日渐痴呆？](https://www.huxiu.com/article/3431329.html?f=rss)|
+||[“市场调查”逃离一线](https://www.huxiu.com/article/3431373.html?f=rss)|
+||[腾讯反抗“苹果税”，iPhone和微信终究要二选一？](https://www.huxiu.com/article/3429458.html?f=rss)|
+||[一个人，13年，70个创业项目，独立开发的超级传奇](https://www.huxiu.com/article/3431358.html?f=rss)|
+||[史上最没意思的iPhone？2024苹果秋季发布会前瞻](https://www.huxiu.com/article/3428739.html?f=rss)|
+||[古代谥号，都是啥意思？](https://www.huxiu.com/article/3428741.html?f=rss)|
+||[美国战通胀大势已定，将渐进降息](https://www.huxiu.com/article/3431377.html?f=rss)|
+||[走好生命最后一程，到底有多贵？](https://www.huxiu.com/article/3431372.html?f=rss)|
+||[回顾最近一次美国经济危机，商业巨头们如何活下来？](https://www.huxiu.com/article/3431385.html?f=rss)|
+||[英伟达暴跌，一夜蒸发近3000亿美元](https://www.huxiu.com/article/3431364.html?f=rss)|
+||[42种商品27个在跌，全球大宗商品已步入熊市周期？](https://www.huxiu.com/article/3431376.html?f=rss)|
+||[雅诗兰黛：一个时代的缩影](https://www.huxiu.com/article/3427357.html?f=rss)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[从旅游观察经济](http://xueqiu.com/1573935736/303483654)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 网上看到的段子照进了现实，这种代码出现在我的项目中！](https://www.v2ex.com/t/1070137#reply13)|
+||[ iPhone ESIM 国！内！什！么！时！候！上！啊！](https://www.v2ex.com/t/1070126#reply32)|
+||[ 问与答 银河 E5 和极越 01](https://www.v2ex.com/t/1070104#reply35)|
+||[ 推广 2024 自家红心猕猴桃上市了😋， 中秋送礼佳品🧺，送 v 站福利回帖抽奖🥝！](https://www.v2ex.com/t/1070103#reply128)|
+||[ 程序员 我晕了 论坛社区 ICP 怎么搞](https://www.v2ex.com/t/1070101#reply36)|
+||[ OpenAI ChatGPT 和 Claude 现在哪个更强一点，想换了](https://www.v2ex.com/t/1070095#reply32)|
+||[ Python 请教下有什么方案可以在服务器上把 html 转成图片](https://www.v2ex.com/t/1070094#reply16)|
+||[ 投资 40w 本金，已经亏损 4w 了，天要塌了。](https://www.v2ex.com/t/1070090#reply84)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[明德战略对话聚焦“中国式现代化与世界未来”](http://www.news.cn/20240904/35d87f0e83c2477a95d399cb7efaca3f/c.html)|
+||[东京股市早盘大跌](http://www.news.cn/20240904/4199013d86ab4822a152ead4682db6e7/c.html)|
+||[中国首次对外公布2590名美国籍抗日航空英烈名录](http://www.news.cn/20240904/07b5766e1ae34313bfd0542d06c5bde6/c.html)|
+|[少数派](https://sspai.com/feed)|[在无线入耳时代上手一副有线平头耳塞](https://sspai.com/post/91725)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[近100亿股份回购，安踏的信心来自哪里？ 氪金 · 大消费](https://36kr.com/p/2935103471786627?f=rss)|
+||[入股引望，长安市值半月缩水150亿丨智氪](https://36kr.com/p/2935129843522436?f=rss)|
+|[est の 输入输出](http://feeds.feedburner.com/initiative)|[创始人模式](https://blog.est.im/2024/stdin-13)|
+|[虎嗅](https://rss.huxiu.com/)|[印度生产、国行 AI 阉割，iPhone 16的前途不够光明？](https://www.huxiu.com/article/3431848.html?f=rss)|
+||[世界上缺陷最多的工程在哪？](https://www.huxiu.com/article/3431828.html?f=rss)|
+||[谷爱凌：从天才少女到双面人“谷圣”](https://www.huxiu.com/article/3429491.html?f=rss)|
+||[一家融到D轮的公司，倒闭了](https://www.huxiu.com/article/3431844.html?f=rss)|
+||[“完美妈妈”的隐忍和付出，真的值得鼓吹吗？](https://www.huxiu.com/article/3431842.html?f=rss)|
+||[进口农产品，让中国农业压力山大](https://www.huxiu.com/article/3431864.html?f=rss)|
+||[假后大学生“自信”返校，打工人“自愿”上班](https://www.huxiu.com/article/3429791.html?f=rss)|
+||[“土味”餐厅，越土越火？](https://www.huxiu.com/article/3429792.html?f=rss)|
+||[不上兴趣班的暑假，为什么依旧不快乐？](https://www.huxiu.com/article/3427306.html?f=rss)|
+||[害怕裁员，她们选择“战略性怀孕”](https://www.huxiu.com/article/3431826.html?f=rss)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如果战锤 40k 世界中，混沌邪神新添一员和 4 神一样强大的恶意神祗，会是哪种恶质？](https://www.zhihu.com/question/453143069)|
+||[上海一中学通报学生体锻课晕倒无人问津，「教师失职行为将严肃处理」，如何看待此事？涉事方需承担什么责任？](https://www.zhihu.com/question/666075571)|
+||[孩子在国有行做客户经理，准备给他存 1000 万，会让他在单位过得舒服一些吗？](https://www.zhihu.com/question/647964235)|
+||[为什么技术落后的铅酸电池还生产这么多，都产能过剩了？](https://www.zhihu.com/question/659123218)|
+||[林平之快剑让令狐冲都能大吃一惊，如果向问天遇到，正面 pk，胜负几何？](https://www.zhihu.com/question/525729552)|
+||[作为面试官，面试时你会更注重长相还是经验？](https://www.zhihu.com/question/666032487)|
+||[做一个听话的「乖孩子」是件好事吗？](https://www.zhihu.com/question/595473201)|
+||[为什么今年这么多游戏大作没首发上 Xbox？](https://www.zhihu.com/question/666071255)|
+||[宠物店流行的猫咪免费领养是真的吗？](https://www.zhihu.com/question/545444584)|
+||[上海对个人消费者购买符合要求的家电、家装、家居产品，按销售价格的 15% 予以补贴，有何影响？](https://www.zhihu.com/question/666085938)|
+||[教师职业，最重要的责任和义务是什么？](https://www.zhihu.com/question/666033776)|
+||[为什么《崩坏：星穹铁道》没有琪亚娜或对应的人物？](https://www.zhihu.com/question/607046022)|
+||[悟空成佛了，大家对大圣都这么喜欢，为什么我从来没有见过一个大圣的庙宇香火？](https://www.zhihu.com/question/665752791)|
+||[作为公司中层干部的你，发现老板非常喜欢绕过你，直接给基层的员工下达指令，遇到这样的情况你如何处理？](https://www.zhihu.com/question/665918348)|
+||[华住的酒店为什么住的越多，感觉越贵？](https://www.zhihu.com/question/454605951)|
+||[如何评价河南电视台包括台长在内全员基础工资调整为 3500 元，薪酬激励按劳分配、优劳优得？](https://www.zhihu.com/question/665755302)|
+||[不要慌太阳下山有月光，能分享一些治愈时刻的照片吗？](https://www.zhihu.com/question/666028247)|
+||[2024 美网女单 1/4 决赛，郑钦文不敌对手萨巴伦卡，无缘美网四强，如何评价这场比赛？](https://www.zhihu.com/question/666154486)|
+||[打工人称「大专文凭的工作少, 不如做日结」，如何看待此职场现象？](https://www.zhihu.com/question/665693967)|
+||[幼儿园组织家长宣誓「绝不给老师甩脸子」，园方的做法可能出于什么考虑？背后反映了哪些问题？](https://www.zhihu.com/question/666093246)|
+||[网红辛巴疑似因卖大闸蟹与小杨哥互撕，三只羊合伙人回应「没底线搞流量」，具体情况如何？](https://www.zhihu.com/question/666059399)|
+||[为什么印度人征兵抽中签哈哈大笑，泰国人抽中了就会嚎啕大哭呢？](https://www.zhihu.com/question/665067194)|
+||[大学你更喜欢在哪学习？图书馆、空教室、宿舍、自习室?](https://www.zhihu.com/question/665871018)|
+||[一个人的性格容易改变么？比方说「社恐」上了大学之后有机会改变么？](https://www.zhihu.com/question/665975640)|
+||[《原神》玛拉尼是不是对单爆了龙王，倍率好高?](https://www.zhihu.com/question/666031497)|
+||[为什么《黑神话：悟空》里的「投技」让人感觉如此不适？](https://www.zhihu.com/question/665497010)|
+||[为什么微信不主动下架 AppStore 来胁迫 Apple 取消 30% 抽成呢？](https://www.zhihu.com/question/665993891)|
+||[老师会不会因为教尖子生没有成就感和情绪价值，更喜欢教中等生和差生？](https://www.zhihu.com/question/666077432)|
+||[如何看待上汽高层吐槽小米汽车抄袭保时捷？暴露出当前车圈竞争的哪些问题？](https://www.zhihu.com/question/666061718)|
+||[安徽 17 岁男生退学摆地摊，10 天毛收入万元，父母该支持孩子选择还是引导孩子回学校？理由有哪些？](https://www.zhihu.com/question/665966807)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[澳大利亚经济增长依然低迷，消费者控制支出](https://www.36kr.com/newsflashes/2935113175997317)|
+||[旧金山联储研究显示美国住房成本放缓延续至年底](https://www.36kr.com/newsflashes/2935107891321736)|
+||[细胞免疫治疗概念快速反弹，南华生物直线涨停](https://www.36kr.com/newsflashes/2935102119959426)|
+||[中国稀土集团1亿元在深圳成立新公司](https://www.36kr.com/newsflashes/2935096462678920)|
+||[油气股持续下挫，中国石油、中国海油均跌超5%](https://www.36kr.com/newsflashes/2935090321611401)|
+||[AI眼镜概念回调，博士眼镜跌逾11%](https://www.36kr.com/newsflashes/2935087878544002)|
+||[光伏设备板块震荡走高，赛伍技术涨停](https://www.36kr.com/newsflashes/2935073011063433)|
+||[中国8月财新服务业PMI 51.6，前值52.1](https://www.36kr.com/newsflashes/2935068467518086)|
+||[国家统计局：8月下旬生猪（外三元）价格环比下降5.7%](https://www.36kr.com/newsflashes/2935063718648708)|
+||[折叠屏概念股开盘走低，国风新材跌停](https://www.36kr.com/newsflashes/2935062140197504)|
+||[保险、银行等金融股震荡走强，天茂集团涨停](https://www.36kr.com/newsflashes/2935060390189958)|
+||[房地产板块开盘走强，华丽家族涨停](https://www.36kr.com/newsflashes/2935058928491401)|
+||[凯雷据悉已为Acrotec Group的IPO选择了银行](https://www.36kr.com/newsflashes/2935058717137801)|
+||[医药商业股快速拉升，老百姓2连板](https://www.36kr.com/newsflashes/2935055577127811)|
+||[央行今日开展7亿元7天期逆回购操作](https://www.36kr.com/newsflashes/2935053812406917)|
+||[A股三大指数集体低开，消费电子板块下挫](https://www.36kr.com/newsflashes/2935050636958340)|
+||[恒指开盘跌1%，恒生科技指数跌0.83%](https://www.36kr.com/newsflashes/2935045969025670)|
+||[9月4日人民币对美元中间价调贬36个基点](https://www.36kr.com/newsflashes/2935039626140290)|
+||[中信证券：基数影响下价减量增，出行消费景气仍高](https://www.36kr.com/newsflashes/2935026396502912)|
+||[华为官方视频明确提及三折叠屏手机](https://www.36kr.com/newsflashes/2935038989294214)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[加法混合](https://www.jianshu.com/p/65d82f720475)|
+||[春日消磨](https://www.jianshu.com/p/af8bbd1e1105)|
+||[从西安到延安（之二）观钟鼓楼](https://www.jianshu.com/p/f74bce48fb82)|
+||[2022-07-26](https://www.jianshu.com/p/6643ace9437d)|
+||[写出好代码并不难](https://www.jianshu.com/p/b2d5140da1d5)|
+||[【工作】板书窥课-“课间活动”（2）](https://www.jianshu.com/p/c400c4a4f992)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 投资 40w 本金，已经亏损 4w 了，天要塌了。](https://www.v2ex.com/t/1070090#reply17)|
 ||[ 问与答 jiang 萍的事情就这样烟消云散了？成绩也不公布了，网传还退学了？](https://www.v2ex.com/t/1070081#reply17)|
 ||[ 问与答 想买一台小主机打代码](https://www.v2ex.com/t/1070079#reply18)|
