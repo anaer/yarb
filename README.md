@@ -2,6 +2,217 @@
 
 |来源|标题|
 |---|---|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[我国已制定发布儿童和学生用品相关国家标准193项](https://m.thepaper.cn/detail/28639609)|
+||[讲座｜颜歌：在爱丁堡谈英文写作](https://m.thepaper.cn/detail/28597765)|
+||[海口楼市新政：落户海南即可享本地购房待遇，挂牌原有住房可换购1套](https://m.thepaper.cn/detail/28639212)|
+||[富力集团68间酒店及一幢写字楼被接管，系2017年收购万达资产包一部分](https://m.thepaper.cn/detail/28639443)|
+||[网友骑行“鳌太线”发现失联驴友遗体，派出所：排除刑案](https://m.thepaper.cn/detail/28639659)|
+||[石彬律师：“薅羊毛”的认定标准和适用范围尚存在优化空间](https://m.thepaper.cn/detail/28628120)|
+||[京华城案羁押庭今日重开，柯文哲或将再度面临羁押禁见](https://m.thepaper.cn/detail/28639527)|
+||[马上评丨行人闯红灯造成伤亡，定交通肇事罪：法治应该如此](https://m.thepaper.cn/detail/28639683)|
+||[湘潭警方辟谣“冷藏车发现15名被拐儿童”，当事司机：装槟榔的](https://m.thepaper.cn/detail/28639607)|
+||[极地气候变化年报：南极海冰持续快速减少，再创消融纪录](https://m.thepaper.cn/detail/28639617)|
+||[海南省防灾减灾救灾委员会将防汛防风应急响应提升至Ⅰ级](https://m.thepaper.cn/detail/28639518)|
+||[全球首款儿童心脏支架在美获批，可与小患者共同“成长”](https://m.thepaper.cn/detail/28639520)|
+||[习近平在中非合作论坛北京峰会开幕式上的主旨讲话（全文）](https://m.thepaper.cn/detail/28639546)|
+||[上海市副市长解冬：近期将出台推进金融科技中心建设行动方案](https://m.thepaper.cn/detail/28639302)|
+||[习近平说，中方愿同非方开展中非携手推进现代化十大伙伴行动](https://m.thepaper.cn/detail/28639402)|
+|[36氪](https://www.36kr.com/feed)|[车企出海，先别急着勇敢](https://36kr.com/p/2936909175282309?f=rss)|
+||[ESG再获MSCI A评级，逸仙集团让「美」变得可持续](https://36kr.com/p/2936927782247304?f=rss)|
+||[暑期「黑神话」笼罩下，游戏大厂们被拉爆了](https://36kr.com/p/2936923221842820?f=rss)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[法庭裁决互联网档案馆的数字借阅不是合理使用](https://www.solidot.org/story?sid=79171)|
+||[Snapchat 将在用户消息旁放置广告](https://www.solidot.org/story?sid=79170)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[朝鲜谴责美韩军演加剧半岛紧张](http://www.news.cn/20240905/ecf34b2c1e494b20ba6bed4d5aa07b9f/c.html)|
+||[中非合作论坛｜有朋自非洲来](http://www.news.cn/20240905/6671ef3d892f400a947770ef2566b537/c.html)|
+||[在林芝海拔4000米的小学，看教育援藏开花结果](http://www.news.cn/20240905/8dfb695823514a27b5a30edaa405d787/c.html)|
+||[中非合作论坛｜南非非国大总司库拉莫豪帕：将非中合作推向新的高度](http://www.news.cn/20240905/2d6a13c865904efc98330f172bc25cc5/c.html)|
+||[中非合作论坛丨中国技术助力毛里求斯珊瑚保护](http://www.news.cn/20240905/0cd54487fd984c1d85d82f7f34274136/c.html)|
+||[新华全媒+｜从“黑泥地”到“七彩社区”——一个西南乡村的蝶变](http://www.news.cn/20240905/2ba162b37714408880c7b575b074c34e/c.html)|
+||[中国人民银行：截至7月末 境外投资者持有我国债券4.5万亿元 创历史新高](http://www.news.cn/20240905/048284f4cb1941069e19109670c82c2b/c.html)|
+||[坦桑尼亚总统哈桑：中非团结一致共建进步繁荣未来](http://www.news.cn/20240905/fbd2137bba4b46dfadac63ee9f44cf5a/c.html)|
+||[南非总统拉马福萨：非中致力于非洲大陆的现代化、发展和进步](http://www.news.cn/20240905/b9a9f30bb9824f8bb99005f694dcc4d1/c.html)|
+||[新华时评｜把教师的时间还给教学](http://www.news.cn/20240905/39920bd3a5164c418d34c5808f6d4469/c.html)|
+||[尼日利亚总统提努布：全球发展不是零和游戏](http://www.news.cn/20240905/020092051e45446cb9870f807183810f/c.html)|
+||[尼日利亚总统提努布：中非关系直面全球性挑战](http://www.news.cn/20240905/016fc8e8409c49eaaa85362fa919fa73/c.html)|
+||[中非合作论坛｜看到中非合作范例 拉美记者直呼：“我们必须跟中国合作！”](http://www.news.cn/20240905/07e46fdf8aef423994257a987b54a56d/c.html)|
+||[南非总统拉马福萨：感谢中国 感谢习主席](http://www.news.cn/20240905/c93463a163ef40ae887dea2a4c4f2cb5/c.html)|
+||[北交所累计服务国债发行7.67万亿元](http://www.news.cn/20240905/17c80d3c8c9543d095d4f2ef6ec0f215/c.html)|
+||[新华社权威快报丨我国天问三号任务计划2028年前后实施发射](http://www.news.cn/20240905/4ceeecac43d14497a9fbc956304c7aef/c.html)|
+||[国际月球科研站扩大全球合作“朋友圈”](http://www.news.cn/20240905/cd442f02ad314ce697b57c63baab5632/c.html)|
+||[中非合作论坛｜非洲朋友在京“邂逅”中国传统文化](http://www.news.cn/20240905/3035238c186c40edab129e17ffedab13/c.html)|
+||[森林康养产业带来黔台合作新契机](http://www.news.cn/20240905/ddf489b5cf0b4aebb4d018c4ad35c788/c.html)|
+||[新华社消息丨习近平会见联合国秘书长古特雷斯](http://www.news.cn/20240905/4d2b69c3af344a9ca949cdfa6137acc3/c.html)|
+||[新华社消息｜习近平会见博茨瓦纳总统马西西](http://www.news.cn/20240905/505b103288794f1695280915b7795fb4/c.html)|
+||[中非合作论坛丨习近平会见博茨瓦纳总统马西西](http://www.news.cn/20240905/7321953b6302435e9d9fcdb952033142/c.html)|
+||[新研究：定期低强度运动即可促进恐怖记忆消退](http://www.news.cn/20240905/9cfe2bc78146441cb153dcae22c83a58/c.html)|
+||[中非合作论坛丨习近平会见联合国秘书长古特雷斯](http://www.news.cn/20240905/b84232e0d6ee44ceb95859ea21da1e28/c.html)|
+||[聚焦防汛抗洪丨广西将重大气象灾害（台风）应急响应提升至Ⅱ级](http://www.news.cn/20240905/162c46982fec4a028dc8388e2dc9c7ba/c.html)|
+||[聚焦防汛抗洪丨20余万人需转移 海南提升防汛防风应急响应至最高级别](http://www.news.cn/20240905/36531908c1694834a5e10515ded90e49/c.html)|
+||[爱心老人的慈善接力](http://www.news.cn/20240905/92449aa6364d4d5e8181981a22fc5359/c.html)|
+||[沈铁推出高铁旅游计次票提供多样出行选择](http://www.news.cn/20240905/248b072d026b4b3aaffaf808be9bf076/c.html)|
+||[“八号风球”在即 香港特区政府全力应对](http://www.news.cn/20240905/3b0a0b35709f43b59b71fa2ea1864733/c.html)|
+||[观测发现长江南京段江豚种群数量增至约65头](http://www.news.cn/20240905/c0447b9c2c93427c96c628617c332d58/c.html)|
+||[中国代表：存在合成毒品滥用的国家应正视自身问题，而非转嫁责任](http://www.news.cn/20240905/f3ce357ad5674fb988eee81dd71f8eb0/c.html)|
+||[中非合作论坛｜云南这所小学见证中赤几两国友谊](http://www.news.cn/20240905/317e2dcf436d476cb5be7d632f79bd27/c.html)|
+||[联合国秘书长古特雷斯：联合国全力支持中非伙伴关系发展](http://www.news.cn/20240905/4ea83d72c7544c59a4c73cc895b40715/c.html)|
+||[中非合作论坛｜雨燕何处来！来中非合作论坛体验非遗文化魅力](http://www.news.cn/20240905/6844e5b060ea42388c67da70ac2b881f/c.html)|
+||[新疆阿勒泰：鹭飞鹤舞湿地美](http://www.news.cn/20240905/90940b84f2b74240926fb6469da8413a/c.html)|
+||[中企在中东欧国家首个医疗工程“交钥匙”项目开业](http://www.news.cn/20240905/a49ecd5fdb5b4099a1a9d7a2bc791170/c.html)|
+||[昆仑山深处青稞成熟](http://www.news.cn/20240905/0581826c565b47bc9a3ff79bba8c5b83/c.html)|
+||[中非合作论坛·高端访谈｜中非合作论坛北京峰会将为非中关系注入新动力——访卢旺达总统卡加梅](http://www.news.cn/20240905/8e7385ce6fe44978844957170f08bc77/c.html)|
+||[新华社消息｜世贸组织：三季度全球货物贸易保持复苏态势](http://www.news.cn/20240905/62ce14046fba4fd5b7269e37fce979dd/c.html)|
+||[C罗、梅西无缘金球奖30人候选名单](http://www.news.cn/20240905/5e207961ab674480b65fd368438e95f2/c.html)|
+||[联合国秘书长古特雷斯：中非伙伴关系是南南合作主要支柱](http://www.news.cn/20240905/f1e85c3f5c9b4d0ab51e01dcb5e0a51d/c.html)|
+||[塞内加尔总统法耶：不会忘记中国在疫情中第一个向非洲伸出援手](http://www.news.cn/20240905/b86278f504234a81b389e4b8c57e31ba/c.html)|
+||[中非合作论坛丨习近平出席中非合作论坛北京峰会开幕式并发表主旨讲话](http://www.news.cn/20240905/0976e7f08c994b99af79daec00828821/c.html)|
+||[塞内加尔总统法耶：致敬“一带一路”倡议](http://www.news.cn/20240905/0c3ed8e7ce16481483d108a6512bd895/c.html)|
+||[新华社消息丨中非合作论坛北京峰会通过《关于共筑新时代全天候中非命运共同体的北京宣言》《中非合作论坛－北京行动计划（2025－2027）》](http://www.news.cn/20240905/24890b79c60f438992cfab543ab4441f/c.html)|
+||[新华社权威快报 习近平宣布将实施中非携手推进现代化十大伙伴行动](http://www.news.cn/20240905/e3e7ff2a366c4873a6393afcc4f4dcfc/c.html)|
+||[新华社权威快报 习近平提出中非携手推进“六个现代化”](http://www.news.cn/20240905/c5cd9e607d274a98b6df80ab3bc4c277/c.html)|
+||[国际月球科研站迎来全球合作新伙伴](http://www.news.cn/20240905/987cae4137e546b2a298a1e618a40b27/c.html)|
+||[新华社权威快报丨习近平宣布中非关系新定位](http://www.news.cn/20240905/221c207785884b9595a0fc0a37096482/c.html)|
+||[新华社快讯：中非合作论坛北京峰会通过《关于共筑新时代全天候中非命运共同体的北京宣言》《中非合作论坛－北京行动计划（2025－2027）》](http://www.news.cn/20240905/8ba9cb10e16d432fb4154c58a3d96d90/c.html)|
+||[聚焦防汛抗洪｜国家防总提升广东防汛防台风应急响应至三级](http://www.news.cn/20240905/1cbc47e652064242888b42809f349798/c.html)|
+||[镜观·镜语 笑容是所有人的通用语](http://www.news.cn/20240905/5a12047056fd425285dc0fc0503da690/c.html)|
+||[学习《决定》每日问答丨健全有利于高质量发展、社会公平、市场统一的税收制度，优化税制结构，需要把握哪些重点](http://www.news.cn/20240905/e5b5ab59e78d4f6e95190d70d5fcbe1f/c.html)|
+||[中非合作论坛·高端访谈丨中非合作论坛为构建人类命运共同体提供重要动力——访博茨瓦纳总统马西西](http://www.news.cn/20240905/93ce8dc9dc1a4133a7e600058dfb51d6/c.html)|
+||[中非合作论坛·高端访谈丨在实现梦想的道路上，中国是伟大的伙伴——访马拉维总统查克维拉](http://www.news.cn/20240905/5794db2e6cef46148314a315685e9fca/c.html)|
+||[中非合作论坛丨习近平在中非合作论坛北京峰会开幕式上的主旨讲话（全文）](http://www.news.cn/20240905/7d17dc1ee510460daf25d380f3866439/c.html)|
+||[中非合作论坛丨中非合作论坛助力非中携手奔赴现代化——专访摩洛哥驻华大使安萨里](http://www.news.cn/20240905/b2e471bf4cf6412a957c68f5b9697537/c.html)|
+||[新华社消息丨习近平说，中方愿同非方开展中非携手推进现代化十大伙伴行动](http://www.news.cn/20240905/52b180fdd37445c0873901327e986df4/c.html)|
+||[新华社消息丨“摩羯”加强为17级超强台风 海南提升应急响应为Ⅱ级](http://www.news.cn/20240905/e3c649f48a344d0aa807570666c441fc/c.html)|
+||[2024年中非合作论坛北京峰会开幕](http://www.news.cn/20240905/ad159b95c9794b72beb9a7ef6217e766/c.html)|
+||[智慧农机农技助力黑龙江粮食稳产增产](http://www.news.cn/20240905/c2f2cfe2e2d248c2bd57858ff277c775/c.html)|
+||[节令之美｜7日11时11分白露：露从今夜白，月是故乡明](http://www.news.cn/20240905/8eded4104acb49d2b197952a80fad267/c.html)|
+||[2024年芬兰千年技术奖授予绝缘栅双极晶体管发明者](http://www.news.cn/20240905/1c40b25786c14557b5ec228e0062dc49/c.html)|
+||[解码文化自信的城市样本丨一江两岸传奇地——解码百年名城哈尔滨的文化自信样本](http://www.news.cn/20240905/2b505e9204c54257baa9f96497879b1b/c.html)|
+||[台风暴雨来临 如何应对？](http://www.news.cn/20240905/80670d4b47d54e40a788b28eaa2ba8f3/c.html)|
+||[新华社消息丨习近平说，将中非关系整体定位提升至新时代全天候中非命运共同体](http://www.news.cn/20240905/d1d21169531c45e08676ac744e5cbf6e/c.html)|
+||[图片快讯｜中非合作论坛北京峰会开幕](http://www.news.cn/20240905/d04038547a0c4ba2be35c66be046b2e9/c.html)|
+||[新华社快讯：习近平说，中方愿同非方开展中非携手推进现代化十大伙伴行动](http://www.news.cn/20240905/3117e6df391f46ad9ac4528da3d501a0/c.html)|
+||[水利遗产中的治水智慧丨探访山西这处绵延千年的灌溉工程](http://www.news.cn/20240905/131bc77870d747388da5d16b1321d18e/c.html)|
+||[新华视评丨山海情长 命运与共](http://www.news.cn/20240905/e9f08b87b5014267b9c3700e279c5929/c.html)|
+||[新华社快讯：习近平说，中非共逐现代化之梦，必将掀起全球南方现代化热潮](http://www.news.cn/20240905/01a1e86009524d988854520cbf1c05d5/c.html)|
+||[中方呼吁维护以《不扩散核武器条约》为基石的国际核裁军与核不扩散体系](http://www.news.cn/20240905/9de5a9d6a9984888b66165d3ffa6c219/c.html)|
+||[新华社快讯：习近平说，将中非关系整体定位提升至新时代全天候中非命运共同体](http://www.news.cn/20240905/3d617b2ac4b34120b0ae29980fc1e15c/c.html)|
+||[新华社消息丨习近平在中非合作论坛北京峰会开幕式上发表主旨讲话](http://www.news.cn/20240905/8801c989db28460d9d6f12c83f67950a/c.html)|
+||[中非合作论坛·高端访谈丨希望峰会推动非中在更多领域开展合作——访刚果（布）外长加科索](http://www.news.cn/20240905/bdd7c4e7885d4e9f990c4925b632904b/c.html)|
+||[新华社快讯：习近平在中非合作论坛北京峰会开幕式上发表主旨讲话](http://www.news.cn/20240905/99425978da5c4cd0a72ef13a0602f4b1/c.html)|
+||[新华社消息丨习近平出席中非合作论坛北京峰会开幕式](http://www.news.cn/20240905/874b5802cdf24ef8ba5c11e6b8cf1056/c.html)|
+||[新华社消息丨美国佐治亚州校园枪击事件造成4死9伤 嫌疑人为该校学生](http://www.news.cn/20240905/9f91135ae6bc45a890501f240fb480b0/c.html)|
+||[人民币市场汇价（9月5日）](http://www.news.cn/20240905/f4a69e4f86fd453a91450ad9e71f09cd/c.html)|
+||[新华社快讯：习近平出席中非合作论坛北京峰会开幕式](http://www.news.cn/20240905/07b2d70242aa4aedb59931c6f46d4dac/c.html)|
+||[澳大利亚研究：脑癌与手机使用无关联](http://www.news.cn/20240905/5f6f7bcd7ca346b6b55d420c3d67a9a5/c.html)|
+||[中方呼吁为平息加沙战火采取切实行动](http://www.news.cn/20240905/b30cdaa0f8144e359d6947ff1df5dfae/c.html)|
+||[新华社快讯：习近平同出席中非合作论坛北京峰会的外方领导人集体合影](http://www.news.cn/20240905/d344c61c5fd14aaca764e635b78925c4/c.html)|
+||[“摩羯”加强为17级超强台风 海南提升应急响应为Ⅱ级](http://www.news.cn/20240905/5e4bdcfa66db4f88a65a8e683743b500/c.html)|
+||[高清大图丨2024年中非合作论坛北京峰会即将开幕](http://www.news.cn/20240905/5428497e24af4c759c2877e0a1e03906/c.html)|
+||[峰会近距离丨2024年中非合作论坛北京峰会即将开幕](http://www.news.cn/20240905/169cc7ccaece474d92cd2e6991680fa5/c.html)|
+||[青海地质灾害应急响应提升至Ⅲ级](http://www.news.cn/20240905/d3a3697075b944418ff3a5aaa1456602/c.html)|
+||[铸牢共同体 中华一家亲｜“离海最高”的西藏，请你吃海鲜！](http://www.news.cn/20240905/304f1a0c94be4e5badcdf565818408cf/c.html)|
+||[新华社消息丨广东提升防风应急响应至Ⅱ级防御台风“摩羯”](http://www.news.cn/20240905/7c437faa9d834457a71deed737721cc6/c.html)|
+|[IT之家-24 小时最热](https://rsshub.app/ithome/ranking/24h)|[中保研 2024 年测评车型第一次结果公布：小米 SU7、极氪 007、理想 MEGA 等获评 G+](https://www.ithome.com/0/793/598.htm)|
+||[刘德华担任 Mate XT 非凡大师品牌大使，华为三折叠手机外观首次公开](https://www.ithome.com/0/793/553.htm)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[支付宝宣布推出独立AI原生App“支小宝”](https://www.infoq.cn/article/OWQFBhjChhJWYcu0dQ37)|
+||[中国AI Agent应用研究报告 2024](https://www.infoq.cn/article/bTgj82D3gFJK9ZLRM5Ci)|
+||[《云上新视界》第二季第三期：抖音巴黎奥运会赛事直播技术揭秘](https://www.infoq.cn/article/P6oJpDhSjDulLhQosVfc)|
+||[人工智能缺乏“激励机制”，如何重新定位和思考 AI 的发展？](https://www.infoq.cn/article/pAk7bZJOQeQg2Ss3rOWJ)|
+|[虎嗅](https://rss.huxiu.com/)|[U盘、移动硬盘、清灰工具......开学必备数码配件怎么选？](https://www.huxiu.com/article/3436408.html?f=rss)|
+||[iPhone SE4用上OLED 屏幕，LCD 永不为奴的时代终结](https://www.huxiu.com/article/3436665.html?f=rss)|
+||[市场加速回暖，存储芯片的“超级周期”来了吗？](https://www.huxiu.com/article/3433585.html?f=rss)|
+||[4元柠檬茶，跑不出品牌巨头](https://www.huxiu.com/article/3435926.html?f=rss)|
+||[失业两年后，我重新过上了租房生活](https://www.huxiu.com/article/3435913.html?f=rss)|
+||[当代淡人：攒出两套房，我比父母还抠](https://www.huxiu.com/article/3435925.html?f=rss)|
+||[韩国出现AI版N号房，AI换脸风险怎么破？](https://www.huxiu.com/article/3435725.html?f=rss)|
+||[创业仅11周，融资10亿美元的Ilya新公司，幕后大佬是谁？](https://www.huxiu.com/article/3435924.html?f=rss)|
+||[韩国色情产业为何屡禁不止](https://www.huxiu.com/article/3436422.html?f=rss)|
+||[儿童骑行被碾压案，司机被逮捕冤不冤？](https://www.huxiu.com/article/3436404.html?f=rss)|
+||[你必须要知道，语言与思维的关系](https://www.huxiu.com/article/3435192.html?f=rss)|
+||[欧盟大逆袭，三年智商终于上线](https://www.huxiu.com/article/3432816.html?f=rss)|
+||[ChatGPT下一代模型官宣，比GPT-4强100倍](https://www.huxiu.com/article/3435702.html?f=rss)|
+||[开始大撒钱了？那钱是哪来的？](https://www.huxiu.com/article/3435900.html?f=rss)|
+||[IBM败走中国](https://www.huxiu.com/article/3435738.html?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[vue3-print-nb怎么去掉顶部和底部自动生成的内容？](https://segmentfault.com/q/1010000045248136)|
+||[如何使用php实现fusionstorage 对象存储文件上传？](https://segmentfault.com/q/1010000045248127)|
+||[HTML video标签频繁请求云端视频解决方案？](https://segmentfault.com/q/1010000045247992)|
+||[如何在VSCode中解决Doxygen注释中Markdown语法显示问题？](https://segmentfault.com/q/1010000045247680)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 觸控失靈怎麼辦？立即修復的 10 個簡單步驟！](https://www.iphonetaiwan.org/2024/09/touch-iphone-screen.html)|
+||[iPhone 螢幕破裂怎麼辦？9 個保固、費用和省錢秘訣](https://www.iphonetaiwan.org/2024/09/iphone-screen-broken.html)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[React第二章 开发环境搭建 ](https://juejin.cn/post/7411043646126653475)|
+||[3个React关于memo，useCallback的应用和开发及面试常发生的场景](https://juejin.cn/post/7410951286860136486)|
+||[性能优化：H5的线程池](https://juejin.cn/post/7410703833326829587)|
+||[📢 vue3.5正式发布，解构Props](https://juejin.cn/post/7410768757221916735)|
+||[GoView潜伏的重大隐患: 组件配置项修改后, 报vnode为null错误, 如何解决它?](https://juejin.cn/post/7410722638141046822)|
+||[JavaScript原型理解](https://juejin.cn/post/7410703833326698515)|
+||[使用Nest+LangChain给低代码平台赋上AI代码生成能力，让低代码变成低低代码！ 掘金一周 9.5](https://juejin.cn/post/7410786086580011020)|
+||[vite hmr update 不执行问题](https://juejin.cn/post/7410798727621017610)|
+||[UniApp中使用`live-pusher`实现实时摄像头预览与图像识别的完整技术文档](https://juejin.cn/post/7410768757221605439)|
+||[不要再编写冗余的ECharts代码了，带你封装一个EChatrs Hook](https://juejin.cn/post/7410798727620771850)|
+||[关于一道简单的面试编程题我做了一个多小时这件事](https://juejin.cn/post/7410760487812022272)|
+||[echarts封装小技巧](https://juejin.cn/post/7410718005221589002)|
+||[低代码平台精髓：速搭（soda）低代码平台设计思路](https://juejin.cn/post/7410760487811973120)|
+||[什么是 Pointer Events？](https://juejin.cn/post/7410776732552937511)|
+||[Shopify发入门](https://juejin.cn/post/7410728156854648884)|
+||[鸿蒙应用开发从入门到入行 - 篇7：http网络请求](https://juejin.cn/post/7410728156854534196)|
+||[（11）城市选择页开发——① Header 组件 Vue.js 项目实战： 移动端“旅游网站”开发](https://juejin.cn/post/7410711559964803122)|
+||[CyPress技巧](https://juejin.cn/post/7410722638139949094)|
+||[Vue 3.5最大的提升是在SSR渲染上！](https://juejin.cn/post/7410710728783462451)|
+||[高效接口背后的秘密：高并发接口优化指南](https://juejin.cn/post/7410645914586185755)|
+|[异次元软件世界](http://feed.iplaysoft.com/)|[值爆！爱奇艺 电视端 VIP 年卡 + 京东 Plus 会员 ￥148 元起](https://www.iplaysoft.com/news/4313)|
+|[触乐](http://www.chuapp.com/feed)|[触乐怪话：这家公司准备做“休闲加CRPG”](http://www.chuapp.com/article/290192.html)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[Clare Waight Keller 出任优衣库品牌创意总监，她能帮助优衣库重拾竞争力吗？](http://www.toodaylab.com/83032)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[思覺失調: @无聊图](http://i.jandan.net/t/5748288)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5748266)|
+||[fith: @无聊图](http://i.jandan.net/t/5748258)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 职场话题 毕业十年，想要水个硕士，还来得及吗，该咋选？](https://www.v2ex.com/t/1070526#reply13)|
+||[ 问与答 小公司监控远程客服员工使用的公司电脑，有什么工具推荐？](https://www.v2ex.com/t/1070498#reply15)|
+||[ MacBook Pro MacBook Pro 的音响好在哪里？我有台 14 寸 MacBook Pro 2023（处理器是 M2 Max） ，感觉乐器高频糊成一团，之前用过 16 寸的 Mac，感觉稍好一点，但觉得随便一个 5~6k 的电视音箱都能秒杀](https://www.v2ex.com/t/1070491#reply15)|
+||[ 问与答 人一定要晚上睡觉吗，白天睡觉可以吗...失眠](https://www.v2ex.com/t/1070490#reply27)|
+||[ 职场话题 坐标郑州，老前端 er 已失业](https://www.v2ex.com/t/1070489#reply12)|
+||[ 问与答 如何界定资本家和企业家？](https://www.v2ex.com/t/1070487#reply32)|
+||[ iPhone 各位的 iPhone 都停留在多少版本？ 15PM 有必要停留在 iOS17 吗。](https://www.v2ex.com/t/1070485#reply16)|
+||[ 生活 街头诈骗卖手机套路，差点被骗的经历...](https://www.v2ex.com/t/1070480#reply46)|
+|[小众软件](https://www.appinn.com/feed/)|[Open and Shut – 这个项目过于抽象，以至于我觉得很符合大家的气质…](https://www.appinn.com/open-and-shut/)|
+|[爱范儿](https://www.ifanr.com/feed)|[让你的旧手机拍照追上新旗舰，这个应用凭什么｜附安装包](https://www.ifanr.com/1598139?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[iPhone SE 4 用上 OLED 屏幕，LCD 永不为奴的时代终结](https://www.ifanr.com/1598290?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[IT之家](https://www.ithome.com/rss/)|[比亚迪开启“夏”IP 标识共创征集，被选用者可获夏 MPV 三年使用权](https://www.ithome.com/0/793/756.htm)|
+||[iQOO 产品经理邢程： Z9 Turbo 和 Z9 手机全批次华星 C8 屏幕，没有混用](https://www.ithome.com/0/793/755.htm)|
+||[恒大汽车：个别债权人向法院申请对恒驰进行破产清算，股票明日复牌](https://www.ithome.com/0/793/754.htm)|
+||[加注合练完成，我国新型火箭长征八号甲将于年底首飞](https://www.ithome.com/0/793/753.htm)|
+||[黄仁勋再度抛售英伟达股票，今年 6 月至今已套现约 6 亿美元](https://www.ithome.com/0/793/750.htm)|
+||[蔚来 2024 年第二季度营收和交付量双创新高，营收 174.5 亿元同比暴涨 98.9%](https://www.ithome.com/0/793/749.htm)|
+||[星际荣耀双曲线三号火箭计划明年底首次“入轨 + 海上回收”飞行试验](https://www.ithome.com/0/793/746.htm)|
+||[奥迪中国市场新车规划：Q6L e-tron 明年中上市，“南北奥迪”均投产 A5](https://www.ithome.com/0/793/745.htm)|
+||[鸿蒙智行享界 S9 轿车获推 V4.5.2.7 更新：升级 HUAWEI ADS 3.0 城区智驾领航辅助、离车泊入等功能](https://www.ithome.com/0/793/742.htm)|
+||[曾获 C 罗 4000 万美元投资，免费足球游戏《UFL》延期至 12 月 5 日](https://www.ithome.com/0/793/741.htm)|
+||[国内首条第 8.6 代 AMOLED 生产线冲刺年底封顶，京东方计划 2026 年量产](https://www.ithome.com/0/793/740.htm)|
+||[高通 CEO：正与三星和谷歌合作开发混合现实眼镜](https://www.ithome.com/0/793/733.htm)|
+||[今晚国内油价下调，加满一箱 92 号汽油将少花 4 元](https://www.ithome.com/0/793/732.htm)|
+||[明基 27 英寸显示器 MA270U 开售：适配苹果 iKeyboard 操控、4K 分辨率，首发 4399 元](https://www.ithome.com/0/793/731.htm)|
+||[奇瑞汽车被指 2024 成都车展车模“擦边”，工作人员回应称“上级领导正在严肃处理此事”](https://www.ithome.com/0/793/730.htm)|
+||[TrendForce：二季度比亚迪自研逆变器市占率与 Denso 并列全球第一](https://www.ithome.com/0/793/729.htm)|
+||[消息称英特尔敦促美政府加速支付《CHIPS 法案》拨款，但年内难以到账](https://www.ithome.com/0/793/726.htm)|
+||[比亚迪：5300 多家 A 股上市公司里，上半年我们研发费用排第一](https://www.ithome.com/0/793/725.htm)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[看懂配料表、营养成分表，我是这样通过包装选购食品的](https://sspai.com/post/91911)|
+||[开学季 付费栏目、正版软件上新 + 多重优惠](https://sspai.com/post/92009)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[专访盛邦安全董事长权小文：不做保安做保镖，卫星互联网安全需坚持“长期主义”](https://www.4hou.com/posts/8gMo)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-05](https://decohack.com/producthunt-daily-24-09-05/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[国际原油“大跳水”，九月国内油价下调开局](https://www.tmtpost.com/7239361.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[欧盟新规影响有限 8月苹果App Store营收同比增长12%](https://m.cnbeta.com.tw/view/1444738.htm)|
+||[马斯克在京1.5亿美元买房？销售人士：买房一事属实 更多细节无法透露](https://m.cnbeta.com.tw/view/1444737.htm)|
+||[造谣蔚来破产倒闭 蔚来法务部：当事人已被警方抓获](https://m.cnbeta.com.tw/view/1444734.htm)|
+||[国产大邮轮与大飞机联手 买爱达魔都号船票送C919等航线机票](https://m.cnbeta.com.tw/view/1444733.htm)|
+||[英伟达本月启动RTX 5080/90预案 600W散热模组推进中](https://m.cnbeta.com.tw/view/1444732.htm)|
+||[特斯拉拟明年一月在华推出FSD全自动驾驶](https://m.cnbeta.com.tw/view/1444731.htm)|
+||[支付宝正式发布AI独立App支小宝 动动嘴就能用、说句话就能办](https://m.cnbeta.com.tw/view/1444730.htm)|
+||[消费者组织称FTC应阻止科技公司的产品通过软件锁定自我淘汰](https://m.cnbeta.com.tw/view/1444729.htm)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[两部门印发《关于进一步做好事业单位公开招聘工作的通知》](https://www.infzm.com/contents/278343)|
+||[网传“中国高铁一公里耗一万度电”？官方：与事实不符](https://www.infzm.com/contents/278339)|
+||[中学要求女生必须理运动短发：学校管束学生的度部分反映家长需求丨快评](https://www.infzm.com/contents/278305)|
+||[鼓浪屿、张三疯、赵小姐……2005年的网红城市现在怎么样了？](https://www.infzm.com/contents/277752)|
+||[商鞅如何设计秦国的军功爵制？三条不同的赛道，一台高效的战争机器](https://www.infzm.com/contents/278302)|
+|[戴铭的博客 - 星光社](https://ming1016.github.io/atom.xml)|[二刷 iOS 性能与编译，简单点说](https://starming.com/2024/09/05/iOS-performance-optimization-second-time/)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[豁，月入5-20w，但我还是那句话，人可以在自己的认知内赚到钱，也可以在自己的认知内被骗得体无完肤。](https://m.okjike.com/originalPosts/66d915a529890e3080f27743)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[秋天美白，光靠捂着真不够！建议多做这一步！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%A7%8B%E5%A4%A9%E7%BE%8E%E7%99%BD%EF%BC%8C%E5%85%89%E9%9D%A0%E6%8D%82%E7%9D%80%E7%9C%9F%E4%B8%8D%E5%A4%9F%EF%BC%81%E5%BB%BA%E8%AE%AE%E5%A4%9A%E5%81%9A%E8%BF%99%E4%B8%80%E6%AD%A5%EF%BC%81)|
 ||[咽下去的痰会对身体有害吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%92%BD%E4%B8%8B%E5%8E%BB%E7%9A%84%E7%97%B0%E4%BC%9A%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E5%AE%B3%E5%90%97%EF%BC%9F)|
 ||[吃肉没它味道差一半，很多人却还在嫌弃它（不是蒜](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%83%E8%82%89%E6%B2%A1%E5%AE%83%E5%91%B3%E9%81%93%E5%B7%AE%E4%B8%80%E5%8D%8A%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8D%B4%E8%BF%98%E5%9C%A8%E5%AB%8C%E5%BC%83%E5%AE%83%EF%BC%88%E4%B8%8D%E6%98%AF%E8%92%9C)|
