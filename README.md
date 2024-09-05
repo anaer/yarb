@@ -2,6 +2,101 @@
 
 |来源|标题|
 |---|---|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[阿里国际举办全球电商挑战赛：三名新加坡大二学生夺冠](https://www.leiphone.com/category/ai/4Qa5sA5sldExSA55.html)|
+||[海康机器人：10万台AMR走下产线，只是刚刚开始](https://www.leiphone.com/category/robot/CwdoKPKItFRCF4G9.html)|
+||[前 OpenAI 首席科学家 Ilya 获 10 亿美元融资；曝 OpenAI 将筹数百亿美元打造 AI 基础设施丨AI情报局](https://www.leiphone.com/category/ai/uOoxB87fs69HSUk8.html)|
+||[46亿元「员工福利」爆雷，保洁阿姨都投了，老板回应：矿拿回来钱才有着落；传中国销售部门裁员，三星电子回应；彭志辉回应被称天才少年丨雷峰早报](https://www.leiphone.com/category/zaobao/jxfun9vWB1dWJ0PI.html)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[自己开贴，自己搞](https://www.coolapk.com/feed/58670116?shareKey=YjE2NjE0MTM1NWYzNjZkOTJjMmM~)|
+||[翻出以前拍的一些照片，感觉还是挺好看的，分享一下](https://www.coolapk.com/feed/58669724?shareKey=ODU1YWIxNjdlMTZjNjZkOTJjMmM~)|
+||[夏日氛围感](https://www.coolapk.com/feed/58669818?shareKey=NWZhZmNkNDFmZTA3NjZkOTJjMmM~)|
+||[499的耳机线材卖388？四舍五入白枫木面盖+镀铍单元白送吧！Sivga鹊入耳有线耳机](https://www.coolapk.com/feed/58669808?shareKey=ODZiODJjMjhjNDdmNjZkOTJjMmM~)|
+||[分身大师破解，已经去除弹窗激活码](https://www.coolapk.com/feed/58669776?shareKey=ZmFiMjg4MGQ0M2JkNjZkOTJjMmM~)|
+||[乐高LEGO 90周年纪念系列高清壁纸合集，儿时心中的专属乐高。](https://www.coolapk.com/feed/58669744?shareKey=MTc2MGM2ZTA2OWRhNjZkOTJjMmM~)|
+||[9年前的梦想在此时圆了](https://www.coolapk.com/feed/58669461?shareKey=NDk2YjVjZGJhMWI2NjZkOTJjMmM~)|
+||[9.05 风景壁纸 多图](https://www.coolapk.com/feed/58669340?shareKey=ZjZhNzM2ZGMzZDU0NjZkOTJjMmM~)|
+||[9.05 插画壁纸 多图](https://www.coolapk.com/feed/58669282?shareKey=YjQ5NmZhNjRjNGQ1NjZkOTJjMmM~)|
+||[vivo智能车载又更新啦](https://www.coolapk.com/feed/58669185?shareKey=ZjA0MzA4MjFmZDc5NjZkOTJjMmM~)|
+||[HarmonyOS NEX 内置壁纸](https://www.coolapk.com/feed/58668972?shareKey=MTMwZWI0YWVhNmYyNjZkOTJjMmM~)|
+||[游摄湿地公园](https://www.coolapk.com/feed/58668833?shareKey=ZWIyMGJkNWE4MDE5NjZkOTJjMmM~)|
+||[小米mix陶瓷版，当时4000元！现在屏幕还是好润！坏点是从二楼摔下坏了！](https://www.coolapk.com/feed/58668684?shareKey=ZTljOThlYWU5YWRjNjZkOTJjMmM~)|
+||[手机热点一打开电脑就蓝屏](https://www.coolapk.com/feed/58668535?shareKey=MDhlNTI0YzFlMDBlNjZkOTJjMmM~)|
+||[通关后客观谈一下黑神话的剧情](https://www.coolapk.com/feed/58668283?shareKey=ODZkMjkzMDlkZjg3NjZkOTJjMmM~)|
+||[每日一贴，灌灌水](https://www.coolapk.com/feed/58668182?shareKey=MDIxNjliZTJmYmRhNjZkOTJjMmM~)|
+||[图源wb:王维琳](https://www.coolapk.com/feed/58668038?shareKey=OGU3OWRmOWZkOTE5NjZkOTJjMmM~)|
+||[久违的海滩](https://www.coolapk.com/feed/58668034?shareKey=NjFiYzljYjJmNWYzNjZkOTJjMmM~)|
+||[最不Pixel的一代Pixel，9ProXL好用好看好贵。](https://www.coolapk.com/feed/58667207?shareKey=M2RjYjFlNGI4YzQ4NjZkOTJjMmM~)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[drtwww: @无聊图](http://i.jandan.net/t/5748202)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5748114)|
+||[大铁锹: @无聊图](http://i.jandan.net/t/5748095)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[8月新能源车批发销量首破百万，国产品牌持续领跑](https://www.huxiu.com/article/3431838.html?f=rss)|
+||[人效低，该甩锅给中后台吗？](https://www.huxiu.com/article/3435390.html?f=rss)|
+||[“穷鬼套餐”大血拼！汉堡王正面“宣战”麦当劳](https://www.huxiu.com/article/3431835.html?f=rss)|
+||[读懂了勃朗特三姐妹，才能理解爱情的不同层次](https://www.huxiu.com/article/3431328.html?f=rss)|
+|[方永、南天紫云](https://www.vinoca.org/atom.xml)|[理解单子是自函子范畴上的幺半群（五）](https://www.vinoca.org/li-jie-dan-zi-shi-zi-han-zi-fan-chou-shang-de-yao-ban-qun-wu/)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 今天我 30 岁了！](https://www.v2ex.com/t/1070454#reply43)|
+||[ Go 编程语言 求助： Go 代码注释貌似是某个插件生成的](https://www.v2ex.com/t/1070450#reply14)|
+||[ NAS 铁马威的 Nas 怎么样？](https://www.v2ex.com/t/1070444#reply14)|
+||[ 问与答 有没有适合老人玩的简易游戏](https://www.v2ex.com/t/1070437#reply11)|
+||[ 问与答 什么电动剃须刀刮得干净](https://www.v2ex.com/t/1070436#reply35)|
+||[  WATCH 现在用着 iPhoneX，如果打算买 iwatchS4 或者 S3 有必要吗？](https://www.v2ex.com/t/1070431#reply19)|
+||[ 优惠信息 冲啊胸弟们，约等于 0 元撸，东哥给的一包国风漫画抽纸](https://www.v2ex.com/t/1070429#reply38)|
+||[ 投资 观《百万纳指》疑问：如果你有这 100w，到底应该如何配置才能收益最大化](https://www.v2ex.com/t/1070422#reply18)|
+||[ Linux 请教大佬， centos 忘记用户密码问题](https://www.v2ex.com/t/1070415#reply11)|
+||[ Apple 有没有买断式的 Apple Watch 表盘 app？](https://www.v2ex.com/t/1070413#reply14)|
+||[ 生活 大无语，中秋国庆都要回娘家](https://www.v2ex.com/t/1070412#reply81)|
+|[虎嗅](https://rss.huxiu.com/)|[人形机器人，进厂“打工”难](https://www.huxiu.com/article/3435895.html?f=rss)|
+||[大厂卷AI，卷到了小学生身上](https://www.huxiu.com/article/3435699.html?f=rss)|
+||[高价低配、侮辱言论、制造焦虑，儿童手表为何大卖？](https://www.huxiu.com/article/3433001.html?f=rss)|
+||[仅差1亿，汾酒杀到洋河城下](https://www.huxiu.com/article/3435740.html?f=rss)|
+||[生而不养的韩国父母，拿不到子女一分钱](https://www.huxiu.com/article/3435404.html?f=rss)|
+||[“正常的事情”太久不发生，就变得不正常了](https://www.huxiu.com/article/3435419.html?f=rss)|
+||[从平台抽12亿，到冯骥的12亿，拆解黑猴背后的资金流](https://www.huxiu.com/article/3433545.html?f=rss)|
+||[喝山姆矿泉水能生男孩？生物学都傻眼了](https://www.huxiu.com/article/3432797.html?f=rss)|
+||[关于降低存量房贷利率对风险资产价格的影响](https://www.huxiu.com/article/3435380.html?f=rss)|
+||[“报复性出游”之后，OTA还有何增量？](https://www.huxiu.com/article/3435408.html?f=rss)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[阿里通义千问全系列大模型被 GitHub 下架，所有仓库页面「404」](https://www.oschina.net/news/310448/qwenlm-github-repo-404)|
+||[RWKV 模型已部署到 5 亿台 Windows 电脑？真正开源的新一代 AI 架构](https://www.oschina.net/news/310440)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[侦听属性：Vue3探秘系列— watch的实现原理（七）](https://juejin.cn/post/7410621482349690932)|
+||[计算属性：Vue3探秘系列— computed的实现原理（六）](https://juejin.cn/post/7410621482349658164)|
+||[【Fultter】版本迭代这么快，Flutter 3.24 冲不冲？先踩为敬！](https://juejin.cn/post/7410599171122839591)|
+||[HTML 文档上的每个表情都分别代表什么含义？](https://juejin.cn/post/7410645914585137179)|
+||[Nest.js 从零到壹详细系列（三）：模块Module](https://juejin.cn/post/7410599171122823207)|
+||[Flutter 系列 - 拖动元素](https://juejin.cn/post/7410624782418935862)|
+||[面试情景题一：webpack](https://juejin.cn/post/7410611033147228172)|
+||[不是copilot用不起🔥而是完全免费的MarsCode更有性价比](https://juejin.cn/post/7410673952345161778)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[WHO 委托的研究称脑癌与手机使用无关](https://www.solidot.org/story?sid=79169)|
+||[宏碁推出了它的 AMD APU 掌机 Nitro Blaze 7](https://www.solidot.org/story?sid=79168)|
+||[Telegram 与韩国合作删除部分深度伪造色情视频](https://www.solidot.org/story?sid=79167)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[台风红色预警，“摩羯”将于明天下午至夜间登陆我国](https://www.infzm.com/contents/278293)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个简单 API，一键实现多通道消息推送](https://w2solo.com/topics/5003)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[彬复资本完成上海基金二关及无锡二期等基金设立](https://www.36kr.com/newsflashes/2936717074684805)|
+||[汽车整车股震荡拉升，金龙汽车午后冲击涨停](https://www.36kr.com/newsflashes/2936706998147719)|
+||[纺织服装股震荡走强，安奈儿午后触及涨停](https://www.36kr.com/newsflashes/2936698894883459)|
+||[多家中小银行宣布9月初下调存款利率，调整幅度为5至30个基点](https://www.36kr.com/newsflashes/2936698407328388)|
+||[首批中证A500ETF上报名单即将出炉](https://www.36kr.com/newsflashes/2936697194404489)|
+||[海口楼市新政：落户海南即可享本地购房待遇，挂牌原有住房可换购1套](https://www.36kr.com/newsflashes/2936696694463366)|
+||[深圳华强再度涨停，录得16天15板](https://www.36kr.com/newsflashes/2936690013461384)|
+||[腾讯会议：海外会议数已经较年初增长近50%](https://www.36kr.com/newsflashes/2936679619680897)|
+||[凯文·凯利对AI时代三大预测：全球主义、创新加速和AI驱动生成](https://www.36kr.com/newsflashes/2936624637664129)|
+||[甘肃电力现货市场今天正式运行](https://www.36kr.com/newsflashes/2936654168119945)|
+||[美国、英国和欧盟据悉将签署人工智能标准协议](https://www.36kr.com/newsflashes/2936652924148352)|
+||[Omdia：第三季度全球一线电视厂商计划削减7%出货量](https://www.36kr.com/newsflashes/2936640330553988)|
+||[日本央行将于10月16日召开市场操作会议](https://www.36kr.com/newsflashes/2936634443586439)|
+||[腾讯钟翔平：腾讯已经与超过100家车企和出行科技公司合作](https://www.36kr.com/newsflashes/2936625719548549)|
+||[腾讯汤道生：过去一年腾讯云成功服务万家海外客户 ，国际业务双位数增长](https://www.36kr.com/newsflashes/2936614923656071)|
+||[香港恒生指数午间休盘跌0.46%，恒生科技指数跌0.41%](https://www.36kr.com/newsflashes/2936622789237385)|
+||[蚂蚁集团将在外滩大会发布三款AI新产品，包括AI独立App支小宝](https://www.36kr.com/newsflashes/2936611257899648)|
+||[永辉超市等在广州成立供应链管理公司](https://www.36kr.com/newsflashes/2936605660027520)|
+||[腾讯云公布国际业务成绩单，海外客户数突破10000家](https://www.36kr.com/newsflashes/2936603066112903)|
+||[通用汽车将在巴西推出首款乙醇混合动力汽车](https://www.36kr.com/newsflashes/2936601777166976)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[🔁 Mejiro Network 全场优惠 25%（托管服务不参加优惠） 优惠码：6FQ7V5EVVT 可适用于以下产品： HK Dedicated Server EX10 60.00USD->45.00USD EX21 100.00US...](https://t.me/liyuans/47032)|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[Adobe Acrobat Pro DC 2024 软件分享 更新到v2024.003.20054 ](https://www.mr-wu.cn/adobe-acrobat-pro-dc-2024-free-download/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[第一个100%开源的MoE大模型，7B的参数，1B的推理成本](https://www.jiqizhixin.com/articles/2024-09-05-2)|
+||[刚刚，Ilya新公司SSI融资10亿、估值50亿美元，网友：它甚至还没有产品](https://www.jiqizhixin.com/articles/2024-09-05)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[抖音小时达必须要跑马拉松](https://www.woshipm.com/it/6109662.html)|
+||[美团、抖音的线上医疗新战事](https://www.woshipm.com/it/6109625.html)|
+||[AI大模型实战篇：AI Agent设计模式 - Plan & Execute](https://www.woshipm.com/ai/6109946.html)|
+||[抖音再战搜索，成色几何？](https://www.woshipm.com/it/6109921.html)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[动力电池下半场：新场景、“外卷”、+AI丨直击2024动力电池大会](https://www.tmtpost.com/7238885.html)|
 ||[君亭酒店的直营店总是处于爬坡期](https://www.tmtpost.com/7238627.html)|
 ||[酒企扎堆短剧营销，想和年轻人交朋友？](https://www.tmtpost.com/7238657.html)|
