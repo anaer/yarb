@@ -2,6 +2,123 @@
 
 |来源|标题|
 |---|---|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/1965894836/303810908)|
+||[市场就像人和狗在散步，创新永不停止，即使是在衰退的时候 书途同归邀您与拉斯·特维德面对面](https://xueqiu.com/6323109995/303802590)|
+|[极客公园](https://plink.anyfeeder.com/geekpark)|[一年亏 50 亿美元后，传 OpenAI 考虑涨价 100 倍](http://www.geekpark.net/news/340332)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[让neovim插上翅膀的几款插件](https://www.jianshu.com/p/899ffc1f7b8b)|
+||[岁月的帆](https://www.jianshu.com/p/8e7b66d797f0)|
+||[npm安装依赖出现npm WARN registry Unexpected warning for https://registry.npmjs.org/:Error: connect ECON...](https://www.jianshu.com/p/0309fb54cafa)|
+||[专业名词](https://www.jianshu.com/p/747f45e3ec6b)|
+||[乡音](https://www.jianshu.com/p/f14c08de9dad)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[俄罗斯购买有 25 年历史 ASML 机器制造军用芯片](https://www.solidot.org/story?sid=79182)|
+||[德银 CEO 督促德国人更努力的工作](https://www.solidot.org/story?sid=79181)|
+||[高通探讨收购部分英特尔芯片设计业务](https://www.solidot.org/story?sid=79180)|
+||[2024 年 8 月为有记录以来最热的 8 月](https://www.solidot.org/story?sid=79179)|
+||[Telegram 允许举报私聊内容](https://www.solidot.org/story?sid=79178)|
+||[OpenAI 考虑将先进 AI 模型的月订阅费提高到 2000 美元](https://www.solidot.org/story?sid=79177)|
+||[半导体制造设备近半销往中国大陆](https://www.solidot.org/story?sid=79176)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 做一个简单的网站大概多少钱呢？](https://www.v2ex.com/t/1070804#reply14)|
+||[ 生活 二次元肥宅的日本一年以及如何润日](https://www.v2ex.com/t/1070801#reply14)|
+||[ 职场话题 币圈某知名交易所 Offer 能接吗，失业在家，有点纠结；](https://www.v2ex.com/t/1070792#reply12)|
+||[ iCloud 能否使用 immich 来替代 icloud 同步照片](https://www.v2ex.com/t/1070787#reply17)|
+||[ 问与答 prasec 被墙了么？今天突然都打不开了，天塌了！求推荐远程](https://www.v2ex.com/t/1070774#reply12)|
+||[ iPhone 老 iPhone6s，有越狱，电池坏了无法开机，怎么简单销毁数据？](https://www.v2ex.com/t/1070770#reply24)|
+||[ 程序员 写 Go 真的好爽](https://www.v2ex.com/t/1070765#reply26)|
+||[ Java 关于 mybatis 和 dto 的一点疑问](https://www.v2ex.com/t/1070748#reply11)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[我们的外卖，什么时候开始变成了同一个样子？](http://www.huxiu.com/article/3436966.html?f=wangzhan)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[面试技巧 - 前端架构岗](https://w2solo.com/topics/5006)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[研究人员发现Yubikeys中存在一个难以利用但也难修复的漏洞](https://www.anquanke.com/post/id/299856)|
+||[Cisco 修复 Smart Licensing Utility 中的两个严重漏洞以防止远程攻击](https://www.anquanke.com/post/id/299859)|
+||[在针对中国贸易公司的攻击中发现新的跨平台恶意软件KTLVdoor](https://www.anquanke.com/post/id/299863)|
+||[Cisco Talos 发现威胁行为者利用 MacroPack 生成框架传播恶意软件](https://www.anquanke.com/post/id/299865)|
+||[PyPI Revival 劫持使数千个应用程序面临风险](https://www.anquanke.com/post/id/299868)|
+||[Microchip Technology 确认员工数据被盗](https://www.anquanke.com/post/id/299871)|
+||[恶意广告活动针对Lowe's员工构建钓鱼陷阱](https://www.anquanke.com/post/id/299874)|
+||[Earth Lusca将其多平台恶意软件KTLVdoor添加到其武器库中](https://www.anquanke.com/post/id/299877)|
+||[Veeam修复了Veeam Backup & Replication软件中的一个严重漏洞](https://www.anquanke.com/post/id/299879)|
+||[周鸿祎谈360安全大模型：相当于已具备L4级“自动驾驶” 360数字安全](https://www.anquanke.com/post/id/299881)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[15元吃饱，20元吃撑，打工人的最香午餐终于被我找到了](https://www.huxiu.com/article/3438600.html?f=rss)|
+||[“高端就业”骗局：那些被中介忽悠“内推”的受害者](https://www.huxiu.com/article/3439658.html?f=rss)|
+||[平民西餐之王，萨莉亚是如何成功的？](https://www.huxiu.com/article/3438577.html?f=rss)|
+||[刚刚，iPhone微信版本正式更新了，苹果公司究竟打的什么算盘？](https://www.huxiu.com/article/3439709.html?f=rss)|
+||[如何成长为一家市值140亿美元的公司](https://www.huxiu.com/article/3439694.html?f=rss)|
+||[大模型进化分岔口：多模态、成本、代码推理](https://www.huxiu.com/article/3436959.html?f=rss)|
+||[先菌子，后小人？欢迎来到云南魔幻森林](https://www.huxiu.com/article/3439184.html?f=rss)|
+||[酒店、餐饮向会员权益“黑灰产”动刀了](https://www.huxiu.com/article/3439655.html?f=rss)|
+||[总统下场，举国“炒币”：比特币的“社会实验”成了吗？](https://www.huxiu.com/article/3439638.html?f=rss)|
+||[马斯克抄底北京豪宅，所有人都高兴的假消息](https://www.huxiu.com/article/3439211.html?f=rss)|
+||[客单价跌回7年前，网红酸菜鱼，没人吃了？](https://www.huxiu.com/article/3436679.html?f=rss)|
+||[让机器人帮你跑腿做家务，AI能做到吗？](https://www.huxiu.com/article/3438972.html?f=rss)|
+||[社会舆论的极化：挑战与回应](https://www.huxiu.com/article/3436433.html?f=rss)|
+||[月薪三万的陆家嘴精英，都在偷偷爬墙](https://www.huxiu.com/article/3438987.html?f=rss)|
+||[县城女人，在服装加工厂里改变命运](https://www.huxiu.com/article/3439196.html?f=rss)|
+||[从飞机引擎到总统座驾，林肯到底有多牛？](https://www.huxiu.com/article/3436462.html?f=rss)|
+||[人生首野，都市健身人正涌向越野跑](https://www.huxiu.com/article/3437424.html?f=rss)|
+||[巴菲特清仓，早有预兆](https://www.huxiu.com/article/3439193.html?f=rss)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[美国大选结果或左右中美气候谈判前景](https://cn.nytimes.com/climate/20240906/us-election-looms-over-climate-talks-with-china/dual)|
+|[少数派](http://sspai.me/feed)|[「空气炸锅真是伟大的发明」](https://sspai.com/prime/story/air-fryer-recipes)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[香港查处“公屋富户”](http://www.ftchinese.com/story/001104135)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[国内首个大模型攻防赛启动，蚂蚁集团参与国际标准、可信度报告等多项成果发布](https://www.infoq.cn/article/1DFM1lg2a92qzK3G38eN)|
+||[加速“AI+金融”落地，招行上半年IT支出达48.6亿](https://www.infoq.cn/article/ugWVzb8oL0fH5m4Xeim3)|
+||[案件量增加400%，理赔员却减少30%？保险企业如何通过数智化实现高效运营](https://www.infoq.cn/article/WJ1azT7v0UyYQph2Oweu)|
+|[36氪](https://36kr.com/feed)|[专注超临界物理发泡材料研发和制造，「申赛新材料」完成近2亿元B轮融资 36氪首发](https://36kr.com/p/2936810265090951?f=rss)|
+||[抢滩工商业储能，发布零碳综能产品，远景发力用户侧市场 最前线](https://36kr.com/p/2938298883086977?f=rss)|
+||[「翌晶能源」获数千万元天使轮融资，SOEC高效制氢技术产业化再添助力 36氪首发](https://36kr.com/p/2936919565408897?f=rss)|
+||[飞书“开卷”效率，发布新一代多维表格及低代码平台 最前线](https://36kr.com/p/2937961923877511?f=rss)|
+||[氪星晚报｜拼多多下调商家店铺保证金，首批已覆盖近70个类目；蚂蚁集团AI金融管家“蚂小财”新版升级，月活用户数7000万；淘宝Vision体验将快速迭代到3.0版本](https://36kr.com/p/2938317397203590?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[spring如何动态注册控制器的路由？](https://segmentfault.com/q/1010000045251441)|
+||[wangeditor插入文本的问题？](https://segmentfault.com/q/1010000045251421)|
+||[Leaflet-Geoman编辑多边形：如何仅允许拖动顶点？](https://segmentfault.com/q/1010000045251255)|
+||[如何在CSS中创建弧形线段（如图）？](https://segmentfault.com/q/1010000045251239)|
+||[有没有人发现umi官网的mpa模式根本跑不起来？](https://segmentfault.com/q/1010000045251112)|
+||[大文件在Linux上md5sum校验不稳定，可能的原因及解决方案？](https://segmentfault.com/q/1010000045251019)|
+||[请问在一个项目中一般是创建多个ioc容器，还是一个ioc容器？](https://segmentfault.com/q/1010000045250834)|
+||[有没有简单的web编辑器？](https://segmentfault.com/q/1010000045250789)|
+||[有用过CodeMirror的吗,对与html代码怎么显示？](https://segmentfault.com/q/1010000045250729)|
+||[接口failed to fetch是什么场景？](https://segmentfault.com/q/1010000045250712)|
+||[VIM编辑器支持内码输入字符的方法是什么？](https://segmentfault.com/q/1010000045250654)|
+||[wsl内npm命令特别的慢？](https://segmentfault.com/q/1010000045250624)|
+||[这个demo中 React的render函数为什么会执行三次?](https://segmentfault.com/q/1010000045250427)|
+||[可以用到vue3的能打印前端页面的库？](https://segmentfault.com/q/1010000045250418)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[刀郎视频号直播，给品牌营销上了重要一课](https://www.woshipm.com/share/6110893.html)|
+||[这年头谁还烧钱做品牌？我给老板们找了一条捷径](https://www.woshipm.com/share/6110870.html)|
+||[这才是数据分析成果落地，而不是交了个ppt](https://www.woshipm.com/share/6110867.html)|
+||[适合产品经理的3个自由职业](https://www.woshipm.com/share/6110864.html)|
+||[如何做业务增长](https://www.woshipm.com/share/6110779.html)|
+||[眼瞅要发offer，却被这道题刷下。](https://www.woshipm.com/share/6110811.html)|
+||[产品架构设计之产品实体设计一，二](https://www.woshipm.com/share/6110810.html)|
+||[小红书养生赛道，千赞爆款是怎么炼成的？](https://www.woshipm.com/share/6110808.html)|
+||[微信对决苹果，谁先“装睡”](https://www.woshipm.com/share/6110781.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[男童骑行摔倒遭碾压身亡，涉事司机被刑拘：案件定性应符合客观事实丨快评](https://www.infzm.com/contents/278364)|
+||[牛魔王家族三大战役之牛魔王篇：一个居家好男人，两任赘婿](https://www.infzm.com/contents/278281)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[全国顶尖战队同台博弈，第二届“天网杯”网络安全大赛圆满收官](https://www.4hou.com/posts/l026)|
+||[Windows再现高危漏洞？！你的“两高一弱”安全问题短板，是时候补齐了！](https://www.4hou.com/posts/0M0X)|
+||[邀请函 梆梆安全诚邀您共襄盛举——2024年国家网络安全宣传周深度参与之旅](https://www.4hou.com/posts/jB05)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[第一款內建「尋找」功能的 USB-C 充電器](https://applefans.today/2024-09-twelve-south-plugbug-support-findmy/)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[兜兜: @无聊图](http://i.jandan.net/t/5749079)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5749057)|
+||[xqxq: @无聊图](http://i.jandan.net/t/5749034)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5748952)|
+||[浮华暂借问: @无聊图](http://i.jandan.net/t/5748944)|
+||[非必要不中出: @无聊图](http://i.jandan.net/t/5748938)|
+||[流浪炼金术师: @无聊图](http://i.jandan.net/t/5748933)|
+||[Mr_C: @无聊图](http://i.jandan.net/t/5748912)|
+||[Mr_C: @无聊图](http://i.jandan.net/t/5748909)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5748902)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5748899)|
+||[創须易: @无聊图](http://i.jandan.net/t/5748895)|
+||[戒烟爱好者: @无聊图](http://i.jandan.net/t/5748878)|
+||[戒烟爱好者: @无聊图 周四周四！](http://i.jandan.net/t/5748877)|
+||[戒烟爱好者: @无聊图](http://i.jandan.net/t/5748874)|
+||[文豪野犬: @无聊图](http://i.jandan.net/t/5748862)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5748850)|
+||[制式仪刀: @无聊图 恐怖之眼](http://i.jandan.net/t/5748846)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5748832)|
+||[非必要不中出: @无聊图](http://i.jandan.net/t/5748827)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5748826)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5748825)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5748811)|
+|[Leonn的博客 - Telegra...](https://rsshub.app/telegram/channel/liyuans)|[📣 PQS 沪日IPLC 热销中! 📣 为庆祝PQS沪日IPLC新品上架 沪日IPLC全系列产品限时优惠中! 优惠活动期间: 即日起 ~ 9/6 5pm 🇨🇳PQS沪日IPLC VDS ✅市场前...](https://t.me/liyuans/47034)|
 |[书伴](https://feeds.feedburner.com/bookfere)|[Kindle 应用将于 2024 年 11 月 15 日移除“生词卡”功能](https://bookfere.com/post/1118.html)|
 |[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[微信公众平台发布 2024 年 8 月辟谣报告，打击处理 2071 篇不实文章](https://www.ithome.com/0/793/975.htm)|
 ||[快手员工涉嫌泄密被开除，举报称其卖公司机密半年赚 70 万](https://www.ithome.com/0/793/971.htm)|
