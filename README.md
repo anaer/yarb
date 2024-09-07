@@ -2,6 +2,73 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[日本多地"大米荒"持续 政府部门被指"无对策"](https://www.36kr.com/newsflashes/2939595124726408)|
+||[欧美航线运价从高位暴跌，加班船加剧运价下跌速度](https://www.36kr.com/newsflashes/2939595031337863)|
+||[金价创记录新高之际 央行连续四个月未增加黄金储备](https://www.36kr.com/newsflashes/2939594959690633)|
+||[9月7日10时起，三亚凤凰国际机场计划逐步恢复航班运行](https://www.36kr.com/newsflashes/2939594892516224)|
+||[央行：降准还有一定空间](https://www.36kr.com/newsflashes/2939475602905734)|
+||[黄仁勋近3个月合计套现约45亿元，英伟达市值一周蒸发2.88万亿元](https://www.36kr.com/newsflashes/2939457627298441)|
+||[金禾实业：对三氯蔗糖未来价格和需求充满信心](https://www.36kr.com/newsflashes/2939456658905986)|
+||[华为MateXT非凡大师9月7日12:08开启预订](https://www.36kr.com/newsflashes/2939455552084873)|
+||[中信证券：成本和需求端均已迎来改善 黑电龙头配置机会或已出现](https://www.36kr.com/newsflashes/2939453295713152)|
+||[湖南消费品以旧换新实施方案：部分家电3.5折可到手](https://www.36kr.com/newsflashes/2939453219428996)|
+||[一级市场本周融资总额约40.23亿元环比增加14.10%](https://www.36kr.com/newsflashes/2939453113965441)|
+||[一夜5家公司被证监会立案！其中3家均与东旭集团有关](https://www.36kr.com/newsflashes/2939452672531333)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 硬件 感觉现在 DIY 主机性价比还不如笔记本？](https://www.v2ex.com/t/1070930#reply13)|
+||[ PHP 没人觉得写 PHP 真的好爽吗？](https://www.v2ex.com/t/1070906#reply16)|
+||[ Google 有没有可能实现跨 App 搜索？](https://www.v2ex.com/t/1070905#reply11)|
+||[ 问与答 头皮痒，什么洗发水止痒去头皮屑的比较好用](https://www.v2ex.com/t/1070900#reply20)|
+||[ 程序员 架构复杂度增加是不是导致了稳定性下降？最近动不动就是谷歌崩了、微信崩了、淘宝崩了、网易崩了，以前都没这么多事件](https://www.v2ex.com/t/1070899#reply19)|
+||[ 宽带症候群 上海电信已经在试点万兆](https://www.v2ex.com/t/1070890#reply25)|
+||[ 京东 被京东官方人员给 雷到了 ](https://www.v2ex.com/t/1070889#reply25)|
+||[ 问与答 请问如何阻止 wps 这种垃圾修改电脑的默认程序?](https://www.v2ex.com/t/1070887#reply24)|
+||[ 问与答 如果不借助 AI，你们还能工作的下去吗？](https://www.v2ex.com/t/1070885#reply14)|
+||[ 问与答 如何快速恢复重启前的应用呢?](https://www.v2ex.com/t/1070882#reply22)|
+|[孤岛客](http://www.huangjiwei.com/blog/?feed=rss2)|[斩立决丨一周语文（2436）](https://www.huangjiwei.com/blog/?p=12224)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Deemo – 古树旋律 iOS 美区 $1.99→0 ](https://free.apprcn.com/deemo-13/)|
+||[Cytus II – 音乐世界 iOS、Android 美区$1.99→0 ](https://free.apprcn.com/cytus-ii-17/)|
+||[Copialos - 粘贴板管理工具 macOS、iOS ￥15→0 ](https://free.apprcn.com/copialos/)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[一只大闸蟹，为何会让两大头部主播撕破脸？](http://www.huxiu.com/article/3439923.html?f=wangzhan)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[扫地机器人二十载，追觅为何总有新点子？](https://www.tmtpost.com/7242118.html)|
+||[55万“淡人”，买爆江南布衣](https://www.tmtpost.com/7241760.html)|
+||[食材价格飙升，餐饮业如何应对成本压力？](https://www.tmtpost.com/7241722.html)|
+||[独家｜百度ACG架构调整，百度网盘回归MEG](https://www.tmtpost.com/7242158.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[被丢下20年，她想看看父亲的“好日子”](https://www.huxiu.com/article/3442296.html?f=rss)|
+||[做了15年动物保护，他们现在怎么样了？](https://www.huxiu.com/article/3441602.html?f=rss)|
+|[触乐](http://www.chuapp.com/feed)|[触乐本周行业大事：《星鸣特攻》不到2周即下线，《黑神话：悟空》销量达到1800万](http://www.chuapp.com/article/290194.html)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[vivo 发布的 Y300 Pro 带来品牌史上最大电池，它还有超薄机身和全能配置](http://www.toodaylab.com/83036)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-07](https://decohack.com/producthunt-daily-2024-09-07/)|
+|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[云端与 IDE 智能体整合：解决工具碎片化，实现 AI 全流程自动编码](http://www.phodal.com/blog/hybird-agents-build-ide-intelli-with-cloud-agent/)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华全媒+｜创意手绘动画：露润秋华](http://www.news.cn/20240907/82f2837ca75f4d1eaa7d94d7f592faa7/c.html)|
+||[美国波音“星际客机”飞船不载人返回地球](http://www.news.cn/20240907/bc3cfeb19bbf465988223447ca0230bb/c.html)|
+||[新华社消息｜台风“摩羯”离开海南 灾后恢复工作加紧展开](http://www.news.cn/20240907/7dcd43311e5f46a794aa8b0531aef6c2/c.html)|
+||[2亿元中央预算内投资支持海南、广东台风灾害灾后应急恢复](http://www.news.cn/20240907/d4b0b75796bf4c6291b06a79765f2bdf/c.html)|
+||[北京市通州区委原书记王云峰接受审查调查](http://www.news.cn/20240907/42f585f17ee649908f389059c9586e4b/c.html)|
+||[海南三亚凤凰国际机场逐步恢复航班运行](http://www.news.cn/20240907/f6992929a6784e7b9a3b444a096b2a34/c.html)|
+||[《法规规章备案审查条例》出台 增强维护国家法治统一制度保障](http://www.news.cn/20240907/14c4e410c5164781a8bee5377d3ed3fa/c.html)|
+||[心相近丨为非洲现代化培育英才，鲁班工坊在行动](http://www.news.cn/20240907/72bbf12d06c24ebd8fae39a5c1f89778/c.html)|
+||[巴黎残奥会 谭玉娇当选国际残奥委会运动员委员会委员](http://www.news.cn/20240907/d5d8b7fe1e5c44898b7ef7b9361b8d73/c.html)|
+||[新华社快讯：美国波音公司“星际客机”飞船于美国东部时间7日凌晨不载人返回地球](http://www.news.cn/20240907/513bc871f5c74fd2af55fc249e1a43a1/c.html)|
+||[2024年柏林国际消费电子展开幕](http://www.news.cn/20240907/9f0f0319af044ce7b58e8f281a20228d/c.html)|
+||[解码文化自信的城市样本丨塞上明珠今更殊——解码古城银川的文化自信样本](http://www.news.cn/20240907/36190abbd8394de78b649d275f6d59f4/c.html)|
+||[巴基斯坦学者称赞巴中经济走廊建设和中国发展经验](http://www.news.cn/20240907/0ae0023dceda4cc18bfa123950385bf0/c.html)|
+||[韵动节拍丨秋风送爽，在白露时节赴一场运动之约](http://www.news.cn/20240907/76a3f11694384714a80e3bf0dfc7e37f/c.html)|
+||[新华社消息｜多方面创新成果亮相2024年网络安全博览会暨网络安全产品和服务供需洽谈会](http://www.news.cn/20240907/aa4a127ac5e04087836f8590a2a38fcc/c.html)|
+||[蓝细菌能感知季节变化准备过冬](http://www.news.cn/20240907/eb58cf89f3fa4354a976a9e316ef6775/c.html)|
+||[聚焦防汛抗洪丨台风“摩羯”离开海南 灾后恢复工作加紧展开](http://www.news.cn/20240907/09571a1539bd446282765104b9033db8/c.html)|
+||[新华社消息丨我国外汇储备规模连续9个月稳定在3.2万亿美元以上](http://www.news.cn/20240907/9536201957ad4fb9b56b9862a8300bf3/c.html)|
+||[秀我中国丨白露：气爽风凉月渐明](http://www.news.cn/20240907/3579f256d36243c9b86a4c2369411e29/c.html)|
+||[新华社消息｜美国宣布再向乌克兰提供2.5亿美元军援](http://www.news.cn/20240907/e370cba28ef74107b0c03f03df38359c/c.html)|
+||[8月末我国外汇储备规模为32882亿美元](http://www.news.cn/20240907/3805025442fd448bad391d2ac8ac2cac/c.html)|
+||[联合国大会宣布7月6日为“世界农村发展日”](http://www.news.cn/20240907/f620f567edda45c69e5dadaad811a115/c.html)|
+||[学习《决定》每日问答丨怎样理解完善政府债务管理制度](http://www.news.cn/20240907/a248ee7fb04e4bdf845555b0a86bf5d5/c.html)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[法式黑边: @无聊图 汇报一下近期最有成就感的事。先是将她绝育后原地放归，一年的时间她被我喂成了小区流浪猫圈的女王，并两次帮助邻居找到猫咪，最后事实证明家...](http://i.jandan.net/t/5749560)|
+||[yoRHa15: @无聊图](http://i.jandan.net/t/5749559)|
+||[yoRHa15: @无聊图](http://i.jandan.net/t/5749558)|
+||[yoRHa15: @无聊图](http://i.jandan.net/t/5749526)|
+||[fith: @无聊图](http://i.jandan.net/t/5749525)|
+|[虎嗅](https://rss.huxiu.com/)|[2030年，Scaling Law会到达极限吗？GPT-6能出来吗？](https://www.huxiu.com/article/3442294.html?f=rss)|
+||[“生仔水”辟谣后仍爆卖，饮料集体变“民间偏方”](https://www.huxiu.com/article/3439218.html?f=rss)|
 |[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[攻击辱骂国家运动员，4600余体育饭圈化账号被查处](https://m.thepaper.cn/detail/28664849)|
 ||[4家A股公司同日被立案，严监管信号持续释放](https://m.thepaper.cn/detail/28664894)|
 ||[广西广东海南警惕龙卷雷暴](https://m.thepaper.cn/detail/28664862)|
