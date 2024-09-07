@@ -2,6 +2,87 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[从钢制武器到具装甲骑：魏晋南北朝，中国军事技术大发展时代](https://www.infzm.com/contents/278405)|
+||[颜歌：虚构的平乐镇里承载着真实的乡愁](https://www.infzm.com/contents/278409)|
+|[IT之家](https://www.ithome.com/rss/)|[3539 元：小米 14 手机京东自营限时百亿补贴](https://www.ithome.com/0/794/221.htm)|
+||[苹果 iPhone 16 系列 A18 芯片基于 Arm 最新 V9 架构，进一步强化 AI 性能](https://www.ithome.com/0/794/217.htm)|
+||[总设计师刘继忠：天问三号任务 2028 年分两次发射，在火星克律塞平原和乌托邦平原初步选定候选着陆点](https://www.ithome.com/0/794/216.htm)|
+||[KDE 发布 2023 年度报告：集中构建 Plasma 6 Linux 桌面环境、亏损 10.7 万欧元](https://www.ithome.com/0/794/215.htm)|
+||[新型钢材：打造更强、更轻的汽车](https://www.ithome.com/0/794/214.htm)|
+||[smart 精灵#5 大五座 SUV 定档 9 月 20 日预售：搭字节豆包 AI 大模型、“方盒子”造型](https://www.ithome.com/0/794/213.htm)|
+||[Retroid Pocket Mini 安卓游戏掌机发布：3.7 英寸屏、骁龙 865 + 6G + 128G 售 199 美元](https://www.ithome.com/0/794/212.htm)|
+||[AOC“AG326UD”31.5 英寸显示器开售：4K 165Hz QD-OLED，6499 元](https://www.ithome.com/0/794/209.htm)|
+||[重庆查处首例非法破解无人机“电子围栏”案：江北机场净空保护区黑飞，飞手已被行政拘留](https://www.ithome.com/0/794/208.htm)|
+||[消息称任天堂不会在本月宣布 Switch 2 游戏机，但会推出 OLED 款机型《马利欧兄弟 惊奇》同捆包](https://www.ithome.com/0/794/207.htm)|
+||[男子做“地推”骗取个人信息并出售，获利 11 万余元被判 3 年](https://www.ithome.com/0/794/206.htm)|
+||[特斯拉 Semi 半挂卡车生产工作正步入正轨](https://www.ithome.com/0/794/205.htm)|
+||[全国可用广州补贴：无需更改定位，数码家电立减 2000 元（笔记本新低）](https://www.ithome.com/0/794/198.htm)|
+||[Steam 国区 95.6 元，科幻动作游戏《原子之心》4 折史低](https://www.ithome.com/0/794/204.htm)|
+||[摩托罗拉 Razr 50s 折叠屏手机首曝，支持 HDR10+](https://www.ithome.com/0/794/203.htm)|
+||[极氪 7X 大五座 SUV 发布一周订单突破 2 万台，起售价 23.99 万元](https://www.ithome.com/0/794/201.htm)|
+||[雷神 G80 三模游戏手柄开售：四马达 H 桥急停、扳机微动霍尔双切换，299 元起](https://www.ithome.com/0/794/200.htm)|
+||[消息称超一半外卖骑手不愿意交社保，62.6% 在京全职者平均劳动时长 10 小时](https://www.ithome.com/0/794/199.htm)|
+||[三星 Galaxy Tab S10 Plus / Ultra 平板售价曝光：最高 16GB+1TB，起价 1179 瑞士法郎](https://www.ithome.com/0/794/197.htm)|
+||[捷尼赛思 2025 款 GV70 SUV 开启预售：换装 OLED 双联屏，29.8 万元起](https://www.ithome.com/0/794/195.htm)|
+||[华谊兄弟总裁王中磊：希望《黑神话：悟空》可以去影院，但游戏改编成电影的成功案例没有多少](https://www.ithome.com/0/794/194.htm)|
+||[小鹏汽车充电站正式上线“积分抵扣”功能：1 分抵 0.1 元、可抵电费 / 服务费 / 占位费](https://www.ithome.com/0/794/192.htm)|
+||[我国监测网首次对预警小行星开展接力追踪观测，小行星防御工作取得重要进展](https://www.ithome.com/0/794/191.htm)|
+||[理想汽车：8 月智驾累积训练里程达 22.6 亿公里，用户数新增 4.4 万达 90.8 万](https://www.ithome.com/0/794/190.htm)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[【Hi-res】游戏：“饿殍明末千里行”之《千里饿殍行》by Hanser](https://www.coolapk.com/feed/58713703?shareKey=M2I2ZTZlMjE3NjAzNjZkYzA3Mjg~)|
+||[入门监听新神——声音记忆G50体验/评测](https://www.coolapk.com/feed/58713685?shareKey=Y2E3ZTNhOWJmMTA1NjZkYzA3Mjg~)|
+||[苹果Mfi认证尼龙编织一拖三线，完美支持苹果carplay和苹果手机](https://www.coolapk.com/feed/58713635?shareKey=M2U5YTMyNzU4MTBjNjZkYzA3Mjg~)|
+||[哥们儿，今天吃点啥子？](https://www.coolapk.com/feed/58713585?shareKey=ZTdjYWQ4OTQxNDI2NjZkYzA3Mjg~)|
+||[华为荣耀仿iOS-《鸿果17》纯仿v3发布](https://www.coolapk.com/feed/58713485?shareKey=MGQyZGRhZWQwMTE5NjZkYzA3Mjg~)|
+||[印象莫奈的日落和日出](https://www.coolapk.com/feed/58713492?shareKey=NzEwNGEyN2ZiNDI4NjZkYzA3Mjg~)|
+||[莫奈图标の自我补全计划](https://www.coolapk.com/feed/58713171?shareKey=ODQ0OTgyZDU4ODI4NjZkYzA3Mjg~)|
+||[ 字体 使用FontCreator组合中英文字体](https://www.coolapk.com/feed/58713164?shareKey=YTAzZDU3NTUxODU5NjZkYzA3Mjg~)|
+||[国行设备开启apple intelligence](https://www.coolapk.com/feed/58712915?shareKey=YTUzODBmNDA4ODFjNjZkYzA3Mjg~)|
+||[安克30W小方块“宇宙”新成员，【冰点快充】充电器，抖音商城仅售29.9——安克Zolo 30W体验评测](https://www.coolapk.com/feed/58712848?shareKey=YTg0NjJiZjMwNDY2NjZkYzA3Mjg~)|
+||[闵行九亭五洲云景花苑电梯8楼 美女租客转租](https://www.coolapk.com/feed/58712838?shareKey=Yjc0NTg3MjVlNDE2NjZkYzA3Mjg~)|
+||[黑武士改装完毕](https://www.coolapk.com/feed/58711724?shareKey=Y2JhOThiODgxMjNjNjZkYzA3Mjg~)|
+||[不能解锁BL 你还会买小米吗](https://www.coolapk.com/feed/58712714?shareKey=ZTMxYTAyNmJmMTI0NjZkYzA3Mjg~)|
+||[酷安最差的（也是最好的）大学宿舍](https://www.coolapk.com/feed/58712696?shareKey=OWIyODk5OTIxYmJjNjZkYzA3Mjg~)|
+||[自制户外太阳能监控（改进篇）](https://www.coolapk.com/feed/58712149?shareKey=ZjJiNjNmNDZmMDMyNjZkYzA3Mjg~)|
+||[rising os for mi6](https://www.coolapk.com/feed/58711962?shareKey=ZjQ3YmMwYWJmYTU0NjZkYzA3Mjg~)|
+||[浅谈笔记本电脑选购](https://www.coolapk.com/feed/58711882?shareKey=ZTNhYTY5YWUxNTE4NjZkYzA3Mjg~)|
+||[求推荐屏幕和后盖，已经碎成这样了，然后那个修手机的后盖也给我弄不好，求求了，我去换过，然后轻轻一摔就坏了](https://www.coolapk.com/feed/58711347?shareKey=MjRjMGI1ZTVhNGEyNjZkYzA3Mjg~)|
+||[《青瞬》每帧都是壁纸的 MV](https://www.coolapk.com/feed/58711244?shareKey=NDdlNDU1ZTQ0MTE2NjZkYzA3Mjg~)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[中国科技的下一个“黑神话”在哪？](http://www.huxiu.com/article/3439930.html?f=wangzhan)|
+|[喷嚏-70](https://plink.anyfeeder.com/pentitugua)|[【喷嚏图卦20240907】让俄罗斯人吃上健康放心的食品](https://www.dapenti.com/blog/more.asp?name=xilei&id=181016)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 请问，如何自学英文（看到单词就可以大概读出来，不需要懂得啥意思）](https://www.v2ex.com/t/1070940#reply12)|
+||[ 硬件 感觉现在 DIY 主机性价比还不如笔记本？](https://www.v2ex.com/t/1070930#reply16)|
+||[ 问与答 做独立开发， 1 毛钱收入都没有，你们是怎么坚持下来的？](https://www.v2ex.com/t/1070913#reply17)|
+|[闲人LIFE](https://www.xianrenlife.com/feeds/posts/default)|[科技以人为本：读《人月神话》和《人件》](https://www.xianrenlife.com/2024/09/blog-post.html)|
+|[热门文章 - 日榜 - 人人都是产品...](https://plink.anyfeeder.com/woshipm/popular)|[互联网巨头的默契](https://www.woshipm.com/it/6111168.html)|
+||[反垄断下的和解！淘宝微信11年斗法终结](https://www.woshipm.com/it/6110924.html)|
+||[30天涨粉293万，瑞幸、蜜雪冰城们是如何成为流量黑洞的？](https://www.woshipm.com/marketing/6111093.html)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[当我们谈论品牌人格化时，到底在谈论什么？](https://www.woshipm.com/share/6111218.html)|
+||[企业数字化项目，潜藏着IT与业务致命的矛盾！](https://www.woshipm.com/share/6111198.html)|
+||[品牌破圈，先破自己。](https://www.woshipm.com/share/6111197.html)|
+||[面试官问：你有什么创新的设计方案？我该如何回答？](https://www.woshipm.com/share/6111194.html)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #68：2023 年 Python 开发者调查结果（摘要）](https://w2solo.com/topics/5007)|
+|[虎嗅](https://rss.huxiu.com/)|[百度ACG架构调整，百度网盘回归MEG](https://www.huxiu.com/article/3442293.html?f=rss)|
+||[月薪三万的陆家嘴打工人，抠抠搜搜](https://www.huxiu.com/article/3442889.html?f=rss)|
+||[美国航工的最大尴尬, 并非宇航员滞留太空](https://www.huxiu.com/article/3442300.html?f=rss)|
+||[日本现在是未来中国？](https://www.huxiu.com/article/3436446.html?f=rss)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[调查发现美国成年人正以创纪录的速度使用迷幻药和大麻](https://m.cnbeta.com.tw/view/1444961.htm)|
+||[AT&T因VMware授权改成订阅制起诉博通 后者拒绝为现有买断产品提供支持](https://m.cnbeta.com.tw/view/1444959.htm)|
+||[微软发布Windows Server 2025新预览版 调整时间炸弹 请用户尽快更新](https://m.cnbeta.com.tw/view/1444958.htm)|
+||[开源虚拟化软件QEMU 9.1正式版发布 改进Arm和RISC-V平台的硬件支持](https://m.cnbeta.com.tw/view/1444957.htm)|
+||[微软将在Office 2024中默认关闭ActiveX控件以提高整体安全性](https://m.cnbeta.com.tw/view/1444956.htm)|
+||[快递无甲方](https://m.cnbeta.com.tw/view/1444951.htm)|
+||[GPT-4o不会数r 被外国小哥原地逼疯 Google论文揭秘原因](https://m.cnbeta.com.tw/view/1444950.htm)|
+||[地图App“维修刺客”扎堆 消保委约谈后平台商家仍有线下“查无此店”现象](https://m.cnbeta.com.tw/view/1444949.htm)|
+||[市值一周蒸发逾4000亿美元 英伟达股价的波幅已是比特币的两倍？](https://m.cnbeta.com.tw/view/1444948.htm)|
+||[华为新员工生存手册 任正非：我们不赞成您去指点江山，激扬文字](https://m.cnbeta.com.tw/view/1444947.htm)|
+||[电动汽车销售势头趋缓 丰田将2026年电车预期产量下调三分之一](https://m.cnbeta.com.tw/view/1444946.htm)|
+||[美国新增一例人感染H5型禽流感病毒病例](https://m.cnbeta.com.tw/view/1444945.htm)|
+||[美散户“带头大哥”归来 一张图引多只网红股异动 有账户速赚近400万](https://m.cnbeta.com.tw/view/1444944.htm)|
+||[日本多地"大米荒"持续 政府部门被指"无对策"](https://m.cnbeta.com.tw/view/1444943.htm)|
+||[黄仁勋又卖股票了：近3个月合计套现约45亿元 英伟达市值一周蒸发2.88万亿元](https://m.cnbeta.com.tw/view/1444942.htm)|
+||[英伟达市值一周蒸发4060亿美元 超过AMD和高通之和](https://m.cnbeta.com.tw/view/1444941.htm)|
+||[华为三折叠开启预订：预约人数已超24万 外观正式曝光](https://m.cnbeta.com.tw/view/1444940.htm)|
+|[如有乐享](http://51.ruyo.net/feed/)|[迷你主机利用Ventoy安装PVE 8 Proxmox 虚拟机](https://51.ruyo.net/18743.html)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[日本多地"大米荒"持续 政府部门被指"无对策"](https://www.36kr.com/newsflashes/2939595124726408)|
 ||[欧美航线运价从高位暴跌，加班船加剧运价下跌速度](https://www.36kr.com/newsflashes/2939595031337863)|
 ||[金价创记录新高之际 央行连续四个月未增加黄金储备](https://www.36kr.com/newsflashes/2939594959690633)|
