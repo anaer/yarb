@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[新华社消息｜加快灾后恢复 海南进出岛交通有序复航](http://www.news.cn/20240908/5a360ed0c5f7412b94e0cb900306bfa4/c.html)|
+||[德媒：非洲期待中国绿色产能](http://www.news.cn/20240908/42fc052cf9f34e32a88c33e4294126ac/c.html)|
+||[委内瑞拉政府方面证实反对派前总统候选人已离境寻求庇护](http://www.news.cn/20240908/c2b1d7b10362410fb39841159725546c/c.html)|
+||[受台风“摩羯”影响 广西9条河流13个站点出现超警洪水](http://www.news.cn/20240908/702ff1f21c3f42f18f7941c8451360d6/c.html)|
+||[铸牢共同体 中华一家亲｜雪域高原焕新貌：草原传来声声“黄河情”](http://www.news.cn/20240908/6268a8729b7241f689e060c072821c61/c.html)|
+||[新华社消息｜“深海一号”船完成1000公里多波束测线任务](http://www.news.cn/20240908/3eaed86970274d109ce4da982063a212/c.html)|
+||[心相近丨“我们就是未来”——习近平主席的关怀激励中非青春“同路人”](http://www.news.cn/20240908/cec41c882d674fde9ec9cb43411794de/c.html)|
+||[学习《决定》每日问答丨怎样理解完善金融机构定位和治理，健全服务实体经济的激励约束机制](http://www.news.cn/20240908/d363c47e2c89467586cd8587297f60f0/c.html)|
+||[新研究：抑郁症患者脑部特定神经网络较大](http://www.news.cn/20240908/d266089e1b0a42b2838fac03bc58e60e/c.html)|
+||[加快灾后恢复 海南进出岛交通有序复航](http://www.news.cn/20240908/be321adce38f4d1ab0e7a55712dc3206/c.html)|
+||[新华社消息｜也门胡塞武装称再次击落美军MQ-9无人机](http://www.news.cn/20240908/e3b59d1b71034234b0bbe1ac0132a171/c.html)|
+||[科特迪瓦北部车祸致13人死亡](http://www.news.cn/20240908/c85080f9c1714477a4d72312419fc9a7/c.html)|
+||[新华视评｜课间一刻钟，贵在真延长](http://www.news.cn/20240908/0163b650f958452faefd878fd796370c/c.html)|
+||[中非合作论坛·高端访谈｜“想要吸引鸟儿进来，先要筑巢”——埃塞前总理谈埃中合作如何助力埃塞发展](http://www.news.cn/20240908/9c1a01956ad8424ba820d2fecc275dbc/c.html)|
+||[专访｜希望非洲的孩子们在安全、健康、快乐的环境中茁壮成长——访联合国儿童基金会大使王源](http://www.news.cn/20240908/206c7f964554463ca4b3f4d1f03d0baf/c.html)|
+||[金正恩视察多项军事工作](http://www.news.cn/20240908/7e7e1d60209f451f85de279e9e612ddf/c.html)|
+||[新华社消息｜多部门会商部署重点地区应对台风“摩羯”](http://www.news.cn/20240908/69c2ffe625894079a3af1d697e3f4e66/c.html)|
+||[玻利维亚因森林火灾宣布进入全国紧急状态](http://www.news.cn/20240908/e17ffd10eb5948e0b43d2f98a0096464/c.html)|
+||[汤加附近海域发生6.0级地震](http://www.news.cn/20240908/b4ab1029f284463c91bbaafbf3511c32/c.html)|
+||[香港故事｜为贫困家庭教育“补天”的香港义工校长](http://www.news.cn/20240908/c1dacff11ebf4601bee9c420c743ce87/c.html)|
+|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[用netty实现一个简单的http server](https://nicksxs.me/2024/09/08/%E7%94%A8netty%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84http-server/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[他靠AI音乐狂赚1200万美元，却被FBI起诉面临20年监禁，生成式音乐刑事第一案引发争议](https://www.huxiu.com/article/3446179.html?f=rss)|
+||[在北京，人们度过了一个接待任务很重的暑期](https://www.huxiu.com/article/3446172.html?f=rss)|
+||[消失了的179亿港元：香港地产豪门也开始亏钱了](https://www.huxiu.com/article/3446170.html?f=rss)|
+||[韩国恋综，终于对中老年群体下手了](https://www.huxiu.com/article/3445699.html?f=rss)|
+||[一家零售巨头要破产了](https://www.huxiu.com/article/3445703.html?f=rss)|
+||[波兰正在成为中国企业欧洲桥头堡](https://www.huxiu.com/article/3445702.html?f=rss)|
+||[酒企需要警惕的五大“认知陷阱”](https://www.huxiu.com/article/3445698.html?f=rss)|
+||[我希望所有人都能够不劳而获](https://www.huxiu.com/article/3445693.html?f=rss)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[历时1个月26天，用时53小时，终于将《黑白的莫比乌斯》通关了。先说游戏的画面和演出效果，考虑作为以...](https://www.wikimoe.com/post/f397dpwq)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 700 块钱一个整机和显示器真的很爽](https://www.v2ex.com/t/1071094#reply21)|
+||[ MacBook 求助 MacBook Pro 2020 Intel 有必要购买 eGPU 吗？](https://www.v2ex.com/t/1071090#reply11)|
+||[ Apple iPhone 用小火箭感觉那个 ping 不太准，显示延迟低，一用就断](https://www.v2ex.com/t/1071075#reply14)|
+||[ 程序员 有没有什么插件可以屏蔽“爽”字？](https://www.v2ex.com/t/1071072#reply20)|
+||[ VPS 甲骨文的主机，国内经常联通可以访问，电信、移动访问不了，换个 ip 后，电信可以了，但是移动又不行了；](https://www.v2ex.com/t/1071065#reply14)|
+||[ 职场话题 家人们，该来的还是来了，帮忙给拿个主意吧](https://www.v2ex.com/t/1071062#reply37)|
+||[ 酷工作 北京 AI 产品招聘前端（React）](https://www.v2ex.com/t/1071060#reply24)|
+||[ 优惠信息 如何找到本地的黄牛？想进薅大羊毛的群](https://www.v2ex.com/t/1071059#reply22)|
+||[ Windows 我可以卸载 windows 安全中心及相关组件吗？会不会导致系统出问题](https://www.v2ex.com/t/1071056#reply17)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[2024年，可能是宋城最好的年份](http://xueqiu.com/1867047092/303927985)|
+||[12家银行历史经营数据比较：净息差处于历史最低，资产质量稳定，拨备历史最佳](http://xueqiu.com/8534614057/303928641)|
+||[重点：从长江电力路径图看当今长电的投资机遇](http://xueqiu.com/6966442626/303920784)|
+||[没那么糟，伊利股份2024年半年报分析！](http://xueqiu.com/2614692505/303905008)|
+||[美联储降息，外资会不会买A股？会！](http://xueqiu.com/1843761023/303921461)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[神州高铁：部分智能产品已进入样机测试阶段](https://www.36kr.com/newsflashes/2941013959547521)|
+||[2024中国产业转移发展对接活动（云南）在昆明举行](https://www.36kr.com/newsflashes/2940989121960585)|
+||[国家发改委：制造业领域外资准入限制措施全面取消](https://www.36kr.com/newsflashes/2940884530977666)|
+||[节能环境：推动环保装备板块发展固废装备新业务](https://www.36kr.com/newsflashes/2940882604268169)|
+||[瑞慈医疗：智慧医疗生态平台“方舟智检”正式上线](https://www.36kr.com/newsflashes/2940881377057673)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[大众ID.3 GTX特别版发布：动力续航均有提升 运动轮毂+炫紫车身](https://m.cnbeta.com.tw/view/1445044.htm)|
+||[宽带通200兆网速实际只有20兆 男子3千升级光纤费白花引热议](https://m.cnbeta.com.tw/view/1445038.htm)|
+||[台风摩羯过境吹断多台风力发电机 单台造价近千万元](https://m.cnbeta.com.tw/view/1445037.htm)|
+||[华为Mate XT非凡大师玄黑配色曝光](https://m.cnbeta.com.tw/view/1445036.htm)|
+||[男子坐电动轮椅进境因开的太慢被查 内藏102部苹果iPhone](https://m.cnbeta.com.tw/view/1445035.htm)|
+||[海口花梨王在台风中倒下 树龄已60年 估价260万](https://m.cnbeta.com.tw/view/1445033.htm)|
+||[埃隆·马斯克现在控制着三分之二的现役卫星](https://m.cnbeta.com.tw/view/1445032.htm)|
+||[Z世代有许多电脑高手 但他们大多不会盲打键盘](https://m.cnbeta.com.tw/view/1445031.htm)|
+||[AI被连续否定30次：ChatGPT越改越错 Claude坚持自我、已读不回](https://m.cnbeta.com.tw/view/1445029.htm)|
+||[特斯拉在专利申请中披露家用电动汽车无线充电站](https://m.cnbeta.com.tw/view/1445028.htm)|
+||[重庆大厂猪八戒网的烦恼：被投资人告上法庭 员工称工资延迟发放](https://m.cnbeta.com.tw/view/1445027.htm)|
+||[iPhone 16能改变苹果在华颓势吗？](https://m.cnbeta.com.tw/view/1445026.htm)|
+||[华为问界M9五座版内部空间曝光：二排大到惊人、劳斯莱斯库里南同款钓鱼座](https://m.cnbeta.com.tw/view/1445025.htm)|
+||[特斯拉近期新品传闻不断 火力全开攻向新势力命门？](https://m.cnbeta.com.tw/view/1445024.htm)|
+||[代言华为超高端品牌非凡大师后 孟晚舟现身刘德华演唱会](https://m.cnbeta.com.tw/view/1445023.htm)|
+||[奔驰EQS轿车将被淘汰 计划开发新一代S级纯电轿车](https://m.cnbeta.com.tw/view/1445022.htm)|
+||[马斯克回应中国车主冷落特斯拉的报道：愚蠢 上海工厂正满负荷运转](https://m.cnbeta.com.tw/view/1445021.htm)|
+||[特斯拉要与xAI分享FSD收入？马斯克否认](https://m.cnbeta.com.tw/view/1445020.htm)|
+||[“失去”东南亚的中国光伏企业该去哪里？](https://m.cnbeta.com.tw/view/1445019.htm)|
+||[英国富豪沉船案初步尸检结果出炉 迈克·林奇死于缺氧窒息](https://m.cnbeta.com.tw/view/1445018.htm)|
+||[荷兰宣布将扩大光刻机管制范围 商务部：中方对此坚决反对](https://m.cnbeta.com.tw/view/1445017.htm)|
+||[苹果秋季发布会前瞻：iPhone 16或开启苹果历史上最大升级周期](https://m.cnbeta.com.tw/view/1445016.htm)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[山东梁山彩礼纠纷上热搜，司法应公正保护一方财产丨快评](https://www.infzm.com/contents/278443)|
+||[农村青年如何在城市安家？](https://www.infzm.com/contents/278431)|
+||[寻找湘江新区的隐形冠军](https://www.infzm.com/contents/278247)|
+||[曹操煮酒论英雄，刘备究竟害怕什么？《三国演义》与真实历史大不同](https://www.infzm.com/contents/278439)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[webpack打包老项目，那种jquery的，然后多页面的？](https://segmentfault.com/q/1010000045253960)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 程序员 700 块钱一个整机和显示器真的很爽](https://www.v2ex.com/t/1071094#reply22)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[Resume Builder‧ - 简历生成器 iOS ￥38→0 ](https://free.apprcn.com/resume-builder-2/)|
+||[Fuze - 照片美化及拼图工具 iOS 内购限免 ](https://free.apprcn.com/fuze/)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPhone 用小火箭感觉那个 ping 不太准，显示延迟低，一用就断](https://www.v2ex.com/t/1071075#reply11)|
 ||[ 程序员 有没有什么插件可以屏蔽“爽”字？](https://www.v2ex.com/t/1071072#reply17)|
 ||[ VPS 甲骨文的主机，国内经常联通可以访问，电信、移动访问不了，换个 ip 后，电信可以了，但是移动又不行了；](https://www.v2ex.com/t/1071065#reply12)|
