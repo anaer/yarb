@@ -2,6 +2,96 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple iPhone 用小火箭感觉那个 ping 不太准，显示延迟低，一用就断](https://www.v2ex.com/t/1071075#reply11)|
+||[ 程序员 有没有什么插件可以屏蔽“爽”字？](https://www.v2ex.com/t/1071072#reply17)|
+||[ VPS 甲骨文的主机，国内经常联通可以访问，电信、移动访问不了，换个 ip 后，电信可以了，但是移动又不行了；](https://www.v2ex.com/t/1071065#reply12)|
+||[ 职场话题 家人们，该来的还是来了，帮忙给拿个主意吧](https://www.v2ex.com/t/1071062#reply34)|
+||[ 酷工作 北京 AI 产品招聘前端（React）](https://www.v2ex.com/t/1071060#reply15)|
+||[ 优惠信息 如何找到本地的黄牛？想进薅大羊毛的群](https://www.v2ex.com/t/1071059#reply19)|
+||[ Windows 我可以卸载 windows 安全中心及相关组件吗？会不会导致系统出问题](https://www.v2ex.com/t/1071056#reply14)|
+||[ 问与答 数码荔枝是不是下一个思杰](https://www.v2ex.com/t/1071055#reply18)|
+||[ 汇丰银行 汇丰把我的账户停了，而且拒绝告诉我原因，然后我直接起诉了](https://www.v2ex.com/t/1071049#reply85)|
+||[ 浏览器 求一款油管视频下载器](https://www.v2ex.com/t/1071048#reply27)|
+||[ 宽带症候群 华为交换机 5720-28P 设置问题](https://www.v2ex.com/t/1071047#reply37)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[三部门：拟允许在京粤津沪等地设立外商独资医院](https://www.infzm.com/contents/278447)|
+||[息差保卫战的大行样本：提升普惠金融，压降付息成本](https://www.infzm.com/contents/278427)|
+||[今日男足，不能只剩“摆烂”](https://www.infzm.com/contents/278441)|
+||[德格印经院：工作也是修行](https://www.infzm.com/contents/278433)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[平替风来了：中产消费企业如何走出深V谷底？](https://www.tmtpost.com/7242175.html)|
+|[36氪](http://36kr.com/feed)|[娃哈哈遭职工集体诉讼；优衣库挖角奢侈品；价格没谈拢的7-11暂时还不卖丨品牌周报](https://36kr.com/p/2939620919090053?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[在v-for下使用v-if控制按钮的显示隐藏？](https://segmentfault.com/q/1010000045253672)|
+||[如何在UICollectionView滑动时隐藏键盘而不影响contentInset？](https://segmentfault.com/q/1010000045253649)|
+||[Vite+Vue3，怎样实现标签的内容加密，不是代码混淆 ？](https://segmentfault.com/q/1010000045253633)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[重回基本款、开出专门空间，MUJI Labo 透露了即将带来的一系列改变](http://www.toodaylab.com/83039)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/3685691142/303926086)|
+||[](https://xueqiu.com/3802694859/303925972)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[从今日起，我的导航站开放免费收录，送 dofollow 反链](https://w2solo.com/topics/5008)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[商贩卖盒饭遭驱赶，城管怒怼农民工：吃饭找工地去，跟我说不着](https://www.jianshu.com/p/ec8c088f7681)|
+||[卒子58](https://www.jianshu.com/p/fa0ac554d4f4)|
+||[两家千亿市值巨头将合并？船舶超级巨无霸要来了该咋看？](https://www.jianshu.com/p/97e1b794e6cb)|
+||[泰国新总理佩通坦上任！延续赛塔政策，经济刺激计划即刻启动！](https://www.jianshu.com/p/88b2e6fd4cbc)|
+||[老郭那么反对主流相声界，为什么自己还是拜了侯耀文先生为师呢？](https://www.jianshu.com/p/2332bc1567d1)|
+|[IT之家](https://www.ithome.com/rss/)|[夏普宣布进军电动汽车市场，将推出概念车 LDK+](https://www.ithome.com/0/794/332.htm)|
+||[华为已建立 2100 余家服务店，覆盖全国 99% 地级市以及 92% 县区](https://www.ithome.com/0/794/331.htm)|
+||[黑鲨无线电竞键盘官宣 9 月 20 日发布](https://www.ithome.com/0/794/330.htm)|
+||[奇瑞风云 T9 推送 Lion5.0 升级版：新增星火大模型，升级华为 HiCar](https://www.ithome.com/0/794/329.htm)|
+||[特斯拉迎 2024.32.3 软件更新：前备箱新增自动开启功能](https://www.ithome.com/0/794/328.htm)|
+||[长虹发布首款沧海智能体 AI TV 和智汇家 AI 大模型](https://www.ithome.com/0/794/326.htm)|
+||[Bose QuietComfort 消噪耳机 / 消噪耳塞 Ultra 60 周年钻光纪念款开售，2299 元起](https://www.ithome.com/0/794/325.htm)|
+||[美的多功能锅 DLS332266 预售：2100W 功率、纳米钛陶不粘技术，799 元](https://www.ithome.com/0/794/324.htm)|
+||[特斯拉将获得 xAI 的 AI 模型授权并与其分享收入？马斯克回应称不准确](https://www.ithome.com/0/794/322.htm)|
+||[宏碁首款掌机 Nitro Blaze 7 被曝“套娃”未来人类 Handle 5](https://www.ithome.com/0/794/321.htm)|
+||[消息称微软 9 月 26 日东京电玩展将公布 SE 游戏《最终幻想 16》Xbox 版](https://www.ithome.com/0/794/320.htm)|
+||[团伙租电子产品后低价变卖获刑，共诈骗 20 家店铺 31 次](https://www.ithome.com/0/794/319.htm)|
+||[电动轮椅藏匿 102 台旧手机，因行驶缓慢被海关查获](https://www.ithome.com/0/794/317.htm)|
+||[TIOBE 编程指数 9 月排行榜公布：C 语言被 Java 超越，跌至第四“处于历史最低位置”](https://www.ithome.com/0/794/315.htm)|
+||[TCL 华星展出全球首款 7.85" 屏下人脸认证柔性 OLED 等多款显示屏](https://www.ithome.com/0/794/314.htm)|
+||[星途星纪元全系即将开启 EXEED OS 1.3.0 OTA 推送：升级哨兵模式、智能泊车等](https://www.ithome.com/0/794/313.htm)|
+||[问界 M9 五座版预热视频公布：后备箱灵活百变，9 月 10 日发布](https://www.ithome.com/0/794/312.htm)|
+||[AOC“U32G4ZMN”31.5 英寸显示器开售：4K 240Hz QD-Mini LED，5499 元](https://www.ithome.com/0/794/311.htm)|
+||[花钱看不了国足中日世预赛 18 强赛，爱奇艺体育已退款](https://www.ithome.com/0/794/310.htm)|
+||[长城魏牌 WEY 07 SUV 官图公布：9 月 13 日起海外接受预定，对应国内蓝山车型](https://www.ithome.com/0/794/308.htm)|
+||[乘联分会崔东树：2024 年 1~8 月国内市场总体降价品牌车型数 173 个，超 2023 全年](https://www.ithome.com/0/794/307.htm)|
+||[消息称华为路由 BE7 Pro 和 BE7 规格基本一样，预计在网口部分存在差异](https://www.ithome.com/0/794/306.htm)|
+||[为什么大厂会避免自家的 AI 助手与用户产生浪漫](https://www.ithome.com/0/794/305.htm)|
+||[2 男子盗播超 8 万部剧集获利 3.92 亿，分别被判处有期徒刑 5 年 6 个月和 3 年](https://www.ithome.com/0/794/304.htm)|
+||[音乐创作者喊话 R 星太小气：想用 7500 美元买断自己歌曲版权用于《GTA6》游戏](https://www.ithome.com/0/794/303.htm)|
+||[拜雅 MMX 330 Pro 游戏耳机国行版发布：开放式设计、3.5mm 有线连接，2999 元](https://www.ithome.com/0/794/302.htm)|
+||[福建公布消费品以旧换新实施方案：涉及汽车、家电、家装厨卫等](https://www.ithome.com/0/794/301.htm)|
+||[GitHub 提醒用户 10 月 22 日前启用双重验证，否则将被限制使用部分账户功能](https://www.ithome.com/0/794/300.htm)|
+||[宽带通曝光“网速升级”猫腻：承诺接入光纤网络实际未接，200 兆网速测速只有 20 兆](https://www.ithome.com/0/794/298.htm)|
+||[领克 Z10 汽车获无锡 L3 自动驾驶测试牌照，号称 5 类场景 100% 通过率](https://www.ithome.com/0/794/297.htm)|
+||[长城哈弗 H6 经典版车型 9 月 10 日上市：网状前格栅设计、定位家用 SUV](https://www.ithome.com/0/794/296.htm)|
+||[是什么推高了游戏公司的成本？](https://www.ithome.com/0/794/295.htm)|
+||[马斯克：首艘前往火星的星舰飞船将在 2 年后发射，如果着陆顺利则 4 年后执行载人飞行](https://www.ithome.com/0/794/294.htm)|
+||[Excel 用条件格式也能制作甘特图](https://www.ithome.com/0/794/293.htm)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[中秋旅游市场，“旺季不旺”？](https://www.huxiu.com/article/3445695.html?f=rss)|
+||[真正的爱，从放弃“对的人”开始](https://www.huxiu.com/article/3445688.html?f=rss)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[流到内裤上的分泌物是黄色的，是妇科病的表现吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%B5%81%E5%88%B0%E5%86%85%E8%A3%A4%E4%B8%8A%E7%9A%84%E5%88%86%E6%B3%8C%E7%89%A9%E6%98%AF%E9%BB%84%E8%89%B2%E7%9A%84%EF%BC%8C%E6%98%AF%E5%A6%87%E7%A7%91%E7%97%85%E7%9A%84%E8%A1%A8%E7%8E%B0%E5%90%97%EF%BC%9F)|
+||[经常掏耳朵，会发生什么？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%BB%8F%E5%B8%B8%E6%8E%8F%E8%80%B3%E6%9C%B5%EF%BC%8C%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%EF%BC%9F)|
+||[这支牙膏「槽点满满」，我却强烈推荐你用它！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%BF%99%E6%94%AF%E7%89%99%E8%86%8F%E3%80%8C%E6%A7%BD%E7%82%B9%E6%BB%A1%E6%BB%A1%E3%80%8D%EF%BC%8C%E6%88%91%E5%8D%B4%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E4%BD%A0%E7%94%A8%E5%AE%83%EF%BC%81)|
+|[奇趣网站收藏家 - 即刻圈子](https://rsshub.app/jike/topic/55d81b4b60b296e5679785de)|[文字工作者必备的找词找字工具：https://www.shenyandayi.com](https://m.okjike.com/originalPosts/66dd1232b00a43e9102ee0e0)|
+|[新浪专栏-创事记](https://plink.anyfeeder.com/sina/csj)|[“疯狂小猴哥”遭遇水军网爆的记者发布会](https://finance.sina.com.cn/tech/csj/2024-09-08/doc-incnmrap9599973.shtml)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[上海浦东警方：一辆集卡侧翻压到途经小客车，致5人死亡](https://m.thepaper.cn/detail/28672634)|
+||[一场沪上少儿跑活动，见证“跑二代”的精神传承](https://m.thepaper.cn/detail/28672595)|
+||[七金得主蒋裕燕：走下领奖台，一切归零](https://m.thepaper.cn/detail/28672601)|
+||[福清一学校称曾协助华夏银行为贷款客户提供过桥资金，双方对簿公堂](https://m.thepaper.cn/detail/28672566)|
+||[中国城市科技创新颠覆性水平如何？这份研究报告在上海发布](https://m.thepaper.cn/detail/28671825)|
+||[搞政治攀附的厅官安九熊被“双开”，还曾在职务提拔方面为他人谋利](https://m.thepaper.cn/detail/28672173)|
+||[一支新晋成立的社区足球队，为何“惊动”了申花俱乐部](https://m.thepaper.cn/detail/28672599)|
+||[朝鲜外务省谴责美韩的军事勾结意图](https://m.thepaper.cn/detail/28672605)|
+||[国家图书馆组织第九次古籍数字资源联合发布](https://m.thepaper.cn/detail/28671701)|
+||[脑洞大开，这位青年编导让《聊斋志异》变成舞蹈剧场](https://m.thepaper.cn/detail/28671734)|
+||[青春华章·初为人师｜讲述：我在小学一年级当语文老师](https://m.thepaper.cn/detail/28653339)|
+||[陈思和从教42周年：始终坚持知识分子的底色](https://m.thepaper.cn/detail/28672171)|
+||[7月以来，5位“全国优秀县委书记”跻身正厅级或履新正厅岗位](https://m.thepaper.cn/detail/28672130)|
+||[海南发布《致全省人民的一封信》：希望大家主动投身灾后志愿服务，共克时艰](https://m.thepaper.cn/detail/28671824)|
+||[《中国区域科技创新评价报告2024》发布，京沪粤分列前三](https://m.thepaper.cn/detail/28671773)|
+||[《外商投资准入特别管理措施 负面清单 2024年版 》发布](https://m.thepaper.cn/detail/28671859)|
+||[大道同行天地宽——习近平主席出席中非合作论坛北京峰会纪实](https://h.xinhuaxmt.com/vh512/share/12179430?d=134da0c)|
+|[少数派](http://sspai.me/feed)|[贾想请继续：不带立场，感知风流](https://sspai.com/post/92085)|
+|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[如何减少标签对自己分享带来的压力](https://www.edony.ink/how-to-be-sharer-without-the-pressure-of-tagging/)|
+|[ZWWoOoOo](https://zww.me/feed)|[如果非要在这份爱上加一个期限，我希望是等中国足球赢了](https://zww.me/27614.zsay)|
 |[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[Perplexity 之类的 「AI 答案引擎」会成为 下一代的「搜索引擎」吗？（附几款特色 AI 答案引擎工具）](https://xlrocket.blog/2024/09/08/perplexity-%e4%b9%8b%e7%b1%bb%e7%9a%84-%e3%80%8cai-%e7%ad%94%e6%a1%88%e5%bc%95%e6%93%8e%e3%80%8d%e4%bc%9a%e6%88%90%e4%b8%ba-%e4%b8%8b%e4%b8%80%e4%bb%a3%e7%9a%84%e3%80%8c%e6%90%9c%e7%b4%a2%e5%bc%95/)|
 |[小众软件](https://feeds.appinn.com/appinns/)|[文颜 – 使用 Markdown 书写、排版，一键复制文章到微信公众号、知乎、今日头条、掘金 macOS ](https://www.appinn.com/wenyan-markdown/)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[吹爆这个国货之光！直接送正装了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%B9%E7%88%86%E8%BF%99%E4%B8%AA%E5%9B%BD%E8%B4%A7%E4%B9%8B%E5%85%89%EF%BC%81%E7%9B%B4%E6%8E%A5%E9%80%81%E6%AD%A3%E8%A3%85%E4%BA%86)|
