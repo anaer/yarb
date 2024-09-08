@@ -2,6 +2,43 @@
 
 |来源|标题|
 |---|---|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[Perplexity 之类的 「AI 答案引擎」会成为 下一代的「搜索引擎」吗？（附几款特色 AI 答案引擎工具）](https://xlrocket.blog/2024/09/08/perplexity-%e4%b9%8b%e7%b1%bb%e7%9a%84-%e3%80%8cai-%e7%ad%94%e6%a1%88%e5%bc%95%e6%93%8e%e3%80%8d%e4%bc%9a%e6%88%90%e4%b8%ba-%e4%b8%8b%e4%b8%80%e4%bb%a3%e7%9a%84%e3%80%8c%e6%90%9c%e7%b4%a2%e5%bc%95/)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[文颜 – 使用 Markdown 书写、排版，一键复制文章到微信公众号、知乎、今日头条、掘金 macOS ](https://www.appinn.com/wenyan-markdown/)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[吹爆这个国货之光！直接送正装了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%B9%E7%88%86%E8%BF%99%E4%B8%AA%E5%9B%BD%E8%B4%A7%E4%B9%8B%E5%85%89%EF%BC%81%E7%9B%B4%E6%8E%A5%E9%80%81%E6%AD%A3%E8%A3%85%E4%BA%86)|
+||[去年打的流感疫苗，今年还管用吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%8E%BB%E5%B9%B4%E6%89%93%E7%9A%84%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97%EF%BC%8C%E4%BB%8A%E5%B9%B4%E8%BF%98%E7%AE%A1%E7%94%A8%E5%90%97%EF%BC%9F)|
+||[爸妈！千万别再让我把肉拿出来解冻了](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%88%B8%E5%A6%88%EF%BC%81%E5%8D%83%E4%B8%87%E5%88%AB%E5%86%8D%E8%AE%A9%E6%88%91%E6%8A%8A%E8%82%89%E6%8B%BF%E5%87%BA%E6%9D%A5%E8%A7%A3%E5%86%BB%E4%BA%86)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[刚在攻略《黑白莫比乌斯》的时候突然出现了《白色相簿》的梗，让我会心一笑。其中第三张图，「セツナ派の俺...](https://www.wikimoe.com/post/s9dd4o8b)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[三部门：在医疗领域开展扩大开放试点工作](https://www.36kr.com/newsflashes/2940830095841929)|
+||[开启预订不到24小时 华为三折叠手机预订量破200万](https://www.36kr.com/newsflashes/2940823760460676)|
+||[科技金融联合研究中心上海揭牌](https://www.36kr.com/newsflashes/2940822994623112)|
+||[京东（邓州）智慧物流港正式开园](https://www.36kr.com/newsflashes/2940820809227137)|
+||[欧盟统计局：欧元区经济增长下调 欧洲央行可能降息](https://www.36kr.com/newsflashes/2940790460996482)|
+||[美的推出AI ECO智慧节能解决方案](https://www.36kr.com/newsflashes/2940788708072067)|
+||[北方华创：公司自研的射频电源已经批量应用于多款产品上](https://www.36kr.com/newsflashes/2940768306535044)|
+||[鼎汉技术：公司参与了非洲有关高铁项目](https://www.36kr.com/newsflashes/2940767373253513)|
+||[海口三港将于今日13时恢复运输](https://www.36kr.com/newsflashes/2940715924413064)|
+||[华泰证券：从美国13F报告视角出发 看海外资管机构对中资股的季度调仓](https://www.36kr.com/newsflashes/2940714914093705)|
+||[海阳核电3号核岛安全壳吊装封顶](https://www.36kr.com/newsflashes/2940706624543621)|
+||[民生证券：三重因素叠加 造船大周期正处于景气前期](https://www.36kr.com/newsflashes/2940685511694981)|
+||[新疆通航与汇嘉时代联手发展“低空经济”](https://www.36kr.com/newsflashes/2940683489483657)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[You truly never know what you get to see when watching older period dramas](https://www.reddit.com/r/CDrama/comments/1fbq1j3/you_truly_never_know_what_you_get_to_see_when/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ VPS 甲骨文的主机，国内经常联通可以访问，电信、移动访问不了，换个 ip 后，电信可以了，但是移动又不行了；](https://www.v2ex.com/t/1071065#reply11)|
+||[ 职场话题 家人们，该来的还是来了，帮忙给拿个主意吧](https://www.v2ex.com/t/1071062#reply27)|
+||[ 酷工作 北京 AI 产品招聘前端（React）](https://www.v2ex.com/t/1071060#reply12)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[Tesla新智能驾驶FSD对SaaS+AI的启发（遐想模式）](https://www.woshipm.com/share/6111303.html)|
+||[互联网近十年最大变数：拼多多、抖音、快手集体熄火](https://www.woshipm.com/share/6111300.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[淘宝和微信支付“好”上了，打翻了支付宝的“醋坛子”？](https://www.tmtpost.com/7242150.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[苹果放行微信更新，据称腾讯正与苹果就微信小游戏分成事宜进行谈判，如何看待此事？](https://www.zhihu.com/question/666382325)|
+||[如何看待柯洁在第 26 届农心杯世界团体锦标赛第 3 局中，在巨大优势下超时负？](https://www.zhihu.com/question/666464241)|
+||[有哪些你以为很大，其实很小的城市？](https://www.zhihu.com/question/658242776)|
+||[郭啸天有什么魅力，他的儿子值得江南七怪寻找那么久?](https://www.zhihu.com/question/666395995)|
+||[如何看待杭温高铁？](https://www.zhihu.com/question/67897729)|
+||[如何看待小米 SU7 中保研碰撞成绩获得 3 项 G+，对比其它车型如何？](https://www.zhihu.com/question/666264552)|
+||[为什么大厂人在小公司待不长？](https://www.zhihu.com/question/666282529)|
+||[深圳将手机、平板电脑、消费级无人机等产品纳入以旧换新补贴范围，最高补贴 2000 元，如何看待此举？](https://www.zhihu.com/question/666392652)|
+||[如何评价李晓愚说「是非成败转头空，青山依旧在，几度夕阳红」这句诗最能代表中国人的精神追求？](https://www.zhihu.com/question/666359079)|
+||[马斯克将自己的脸合成到黑神话悟空上，如何看待马斯克这一举动？](https://www.zhihu.com/question/666446049)|
+||[吉利汽车李书福努力拼了 3 年，最后反而跌了 2000 多亿，其原因是什么?](https://www.zhihu.com/question/664528060)|
 |[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“大佬”奔赴Pharma](https://www.tmtpost.com/7242179.html)|
 |[葉開 • 時光記](https://qq.md/feed/)|[岁月静默，情感流转](https://qq.md/post/49)|
 ||[繁忙生活中的片段](https://qq.md/post/48)|
