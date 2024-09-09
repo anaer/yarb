@@ -2,6 +2,148 @@
 
 |来源|标题|
 |---|---|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[浮华暂借问: @无聊图](http://i.jandan.net/t/5750775)|
+||[堪萨斯黄牛: @无聊图](http://i.jandan.net/t/5750759)|
+||[堪萨斯黄牛: @无聊图](http://i.jandan.net/t/5750715)|
+||[Simon0322: @无聊图](http://i.jandan.net/t/5750705)|
+||[Simon0322: @无聊图](http://i.jandan.net/t/5750703)|
+||[Evaneska: @无聊图](http://i.jandan.net/t/5750698)|
+|[你不知道的行业内幕 - 即刻圈子](https://rsshub.app/jike/topic/5699f451d3e8351200bffdc8)|[这个，99%是给PC男准备的](https://m.okjike.com/originalPosts/66de7ac1c63728acc458bb9a)|
+||[全国各个省份都是赤字 这种情况，哪里还能搞到钱呢](https://m.okjike.com/originalPosts/66de537b604f0c629ab760bf)|
+|[反斗限免](https://free.apprcn.com/feed/)|[MobiKin Doctor for iOS – 手机数据恢复软件 Windows $49.95→0 ](https://free.apprcn.com/mobikin-doctor-for-ios-7/)|
+||[iTop Screen Recorder Pro - 屏幕录像工具 Windows $21.49→0 ](https://free.apprcn.com/itop-screen-recorder-pro-12/)|
+||[Blur Multiple Images - 多张图片模糊工具 Windows $19→0 ](https://free.apprcn.com/blur-multiple-images-5/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[截至 2023 年底我国已有 60 余款生成式 AI 服务完成备案](https://www.oschina.net/news/311188)|
+||[华为鸿蒙超越苹果 iOS，成为中国市场第二大移动操作系统](https://www.oschina.net/news/311183)|
+||[文心一言市场负责人否认放弃通用大模型](https://www.oschina.net/news/311159)|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[上周前端发生哪些新鲜事儿？ #379](https://juejin.cn/post/7412490227550240795)|
+||[通过构建一个现代JavaScript框架来学习其工作原理](https://juejin.cn/post/7412490227550142491)|
+||[前端入门JAVA：基础开发环境配置](https://juejin.cn/post/7412486655862816794)|
+||[从生成器函数Generator出发，聊聊Async await](https://juejin.cn/post/7412487295729139712)|
+||[前端福利:免费云服务器和更多福利](https://juejin.cn/post/7412490116792549414)|
+||[用rust写个flutter插件并上传 pub.dev](https://juejin.cn/post/7412486655862734874)|
+||[Cloudflare D1 - 免费数据存储](https://juejin.cn/post/7412505356741672994)|
+||[Fabric.js 有手就行，面试官硬要问我会不会](https://juejin.cn/post/7412505356741607458)|
+||[大文件分片上传、断点续传及文件秒传](https://juejin.cn/post/7412490391915593766)|
+||[JavaScript 中的 10 个常见错误及解决方法](https://juejin.cn/post/7412507670177038377)|
+||[前端javascript实现AR增强效果的几种技术方案](https://juejin.cn/post/7412487295728861184)|
+||[出差解决了一个史诗级大BUG](https://juejin.cn/post/7412502916642619404)|
+||[Cursor 初体验](https://juejin.cn/post/7411812014048591883)|
+||[自定义界面扫码，满足应用个性化定制需求](https://juejin.cn/post/7411812014048575499)|
+||[如何让 Vue.js 网站在 PC 端自适应移动端](https://juejin.cn/post/7412124636240527411)|
+||[基于 Lexical 写个编辑器（二）](https://juejin.cn/post/7412040523819319305)|
+||[推荐工具vite-plugin-fake-server，可线上部署使用mock](https://juejin.cn/post/7412124636240461875)|
+||[Canvas-矩形的基本绘制](https://juejin.cn/post/7412151874713468978)|
+||[（12）城市选择页开发——② “搜索框”、“列表”和“字母表”布局 Vue.js 项目实战： 移动端“旅游网站”开发](https://juejin.cn/post/7411833413668470811)|
+||[vue3 + element-plus 当表单遇上翻页](https://juejin.cn/post/7411841499988443176)|
+|[少数派 -- Matrix](https://plink.anyfeeder.com/ssapi/matrix)|[当下人生还能绕得开一辆宝马 3 系吗：325i 用车总结](https://sspai.com/post/92092)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[中美举行气候会谈](http://www.ftchinese.com/story/001104153)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[线粒体、肾脏和植物营养素补剂的相互关系](https://www.jdon.com/75351.html)|
+||[什么是衰老信息理论？](https://www.jdon.com/75350.html)|
+||[多主数据库使用向量时钟同步](https://www.jdon.com/75349.html)|
+|[标志情报局](http://www.logonews.cn/feed)|[加拿大国家芭蕾舞团品牌重塑，新LOGO以讲故事为核心](https://www.logonews.cn/national-ballet-of-canada-new-logo.html)|
+||[英国博利厄国家汽车博物馆启用新LOGO](https://www.logonews.cn/national-motor-museum-new-logo.html)|
+||[四方光电启用新LOGO](https://www.logonews.cn/gassensor-new-logo.html)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[新主唱加盟，时隔 7 年回归的林肯公园准备好重新出发了](http://www.toodaylab.com/83041)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[Pink Piko - 情绪日记本 iPhone 内购限免 ](https://free.apprcn.com/pink-piko/)|
+||[7 Minute TV Workout - 7 分钟电视锻炼 iOS、Apple TV ￥15→0 ](https://free.apprcn.com/7-minute-tv-workout-3/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[蛋白质AI生成模型发布，阻断癌症靶点在望](https://www.infzm.com/contents/278478)|
+|[新华社新闻_新华网](https://plink.anyfeeder.com/newscn/whxw)|[权威数读丨CPI继续回升 同比涨幅扩大](http://www.news.cn/20240909/eb54e329049e43d9a269ce8d00c3b8fa/c.html)|
+||[沪青对口支援14年 教育帮扶点亮高原孩子未来](http://www.news.cn/20240909/5915f669ebbc465f9fc4bfa81f7d7885/c.html)|
+||[奋进强国路 阔步新征程｜向上的中国·0.015毫米“手撕钢”是怎样“擀”出来的](http://www.news.cn/20240909/231e4f73c91440c39fbe16fdf0e6b82c/c.html)|
+||[文化中国行｜从紫袍俑到绿面俑 快来近距离欣赏彩色兵马俑](http://www.news.cn/20240909/ce1994d12aef430a90ea547572918094/c.html)|
+||[综述｜科技创新助力家电领域可持续发展——探访柏林国际消费电子展](http://www.news.cn/20240909/f44dd9da6d6b4fa38a13751fe293497d/c.html)|
+||[中消协提示：警惕早教、健身等领域“职业闭店人”侵害消费者权益](http://www.news.cn/20240909/af5ce18bce9541d4a1ee469ee7b92265/c.html)|
+||[日本小幅下调二季度经济增幅](http://www.news.cn/20240909/197a314975a2468b9358089ac52a7b07/c.html)|
+||[海南出台灾后恢复七条措施保就业保民生](http://www.news.cn/20240909/9b8a1540f3694bde8576e2d0ee43d835/c.html)|
+||[福建省莆田市政协党组成员、副主席杨朝东接受审查调查](http://www.news.cn/20240909/91ac160fdd344c8a8cf409e246ed94e4/c.html)|
+|[少数派](http://sspai.me/feed)|[又逢开学季，又到读书时：这些文章帮你找好书、好读书](https://sspai.com/post/92045)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谷歌推出“咳嗽模型”：一声咳嗽，告知你身体是否健康](https://www.huxiu.com/article/3448792.html?f=rss)|
+||[“新款”iPhone&华为Pura体验，安兔兔都把握不住](https://www.huxiu.com/article/3448508.html?f=rss)|
+||[苏州重元寺，千年古刹的魅力](https://www.huxiu.com/article/3448946.html?f=rss)|
+||[湖北国资容错免责清单来了](https://www.huxiu.com/article/3449387.html?f=rss)|
+||[“去非洲打工搞钱”，成为95后最新的职业理想](https://www.huxiu.com/article/3448955.html?f=rss)|
+||[环游库尔德斯坦见闻录：旅行的意义是什么？](https://www.huxiu.com/article/3410821.html?f=rss)|
+||[网文圈越来越卷，爽文却没人看了？](https://www.huxiu.com/article/3448940.html?f=rss)|
+||[又开始喷嚏了？为什么秋季花粉过敏更严重？](https://www.huxiu.com/article/3448950.html?f=rss)|
+||[电摩在肯尼亚的狂飙](https://www.huxiu.com/article/3448945.html?f=rss)|
+||[在英国生活两年，我的白人饭倒也没那么“干巴”](https://www.huxiu.com/article/3448939.html?f=rss)|
+||[印度的不安全感来自何处？](https://www.huxiu.com/article/3448761.html?f=rss)|
+||[美国非农就业数据将揭晓，美联储和市场将如何选择方向？](https://www.huxiu.com/article/3438085.html?f=rss)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[自己一直是做移动端的，现在想学学后端，以后自己想做产品了不用找别人，节约成本，有人说 C#做起来最轻松，还有说 Nodejs, Python 的，哪个比较容易学，做起来比较轻松呀？ Java 就算了，好像没看见有人说过 Java 易用，哈哈](https://www.v2ex.com/t/1071201#reply55)|
+||[架构师都是怎样炼成的](https://www.v2ex.com/t/1071252#reply31)|
+||[有用过天翼云的朋友吗，谈谈使用体验](https://www.v2ex.com/t/1071225#reply26)|
+||[大家写 JS/TS 的时候会在表达式后面加;吗？语法上加不加都行，大家团队有要求吗？](https://www.v2ex.com/t/1071299#reply35)|
+||[做了款加密的文件分享软件,有可能会违法吗?](https://www.v2ex.com/t/1071301#reply17)|
+|[老左笔记](https://www.laozuo.org/feed)|[VMISS新增英国VPS 英国家宅IP AS9929联通优化网络](https://www.laozuo.org/29518.html)|
+||[CloudCone中秋新增两款大硬盘VPS 年付14.5美元 100G SSD缓存](https://www.laozuo.org/29515.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[张继海 记湖南博物院的两面八卦铜镜](https://www.infzm.com/contents/278460)|
+|[虹墨空间站](https://www.imaegoo.com/atom.xml)|[使用 HTTP API 从 WPS 在线表格中增删改查数据示例](https://www.imaegoo.com/2024/http-crud-data-from-wps/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[苹果华为新机同日上市 靠谱剧透都在这里了](https://m.cnbeta.com.tw/view/1445134.htm)|
+||[全新国产宝马X3长轴版将于明年一季度上市 尺寸直逼X5](https://m.cnbeta.com.tw/view/1445133.htm)|
+||[中国商飞：不法分子假冒中国商飞名义行骗 “买股权送黄金”千万别信](https://m.cnbeta.com.tw/view/1445132.htm)|
+||[氢能源汽车就是移动炸弹？丰田：断章取义、耸人听闻](https://m.cnbeta.com.tw/view/1445131.htm)|
+||[华为在沙特建立全球最大光储微网电站“红海” 年供电超10亿度](https://m.cnbeta.com.tw/view/1445130.htm)|
+||[全国首个地铁5G-A共建共享网络部署完成 中国广电、移动联手打造](https://m.cnbeta.com.tw/view/1445129.htm)|
+||[Apple Watch Ultra 3缺席明日凌晨苹果发布会 二代将新增黑色钛合金表壳款](https://m.cnbeta.com.tw/view/1445128.htm)|
+||[苹果iPhone 16国行售价、参数传闻列表汇总](https://m.cnbeta.com.tw/view/1445126.htm)|
+||[新款北京奔驰C级上市：33.48万起售 车机智能化大幅提升](https://m.cnbeta.com.tw/view/1445125.htm)|
+||[公司订51份黄焖鸡超20人食物中毒 涉事门店回应：已报警 网络传言并非全部事实](https://m.cnbeta.com.tw/view/1445124.htm)|
+||[华为Mate XT非凡大师影像规格首曝：5000万主摄+1300万广角+潜望三摄](https://m.cnbeta.com.tw/view/1445123.htm)|
+||[蔚来法务部：对自媒体抹黑造谣维权所得赔偿已捐赠慈善公益事业](https://m.cnbeta.com.tw/view/1445122.htm)|
+||[东风本田CR-V达成300万辆销量里程碑](https://m.cnbeta.com.tw/view/1445121.htm)|
+||[中国船舶iCER双燃料发动机12X92DF-2.0顺利交付](https://m.cnbeta.com.tw/view/1445120.htm)|
+||[马来西亚监管机构决定放弃ISP DNS拦截策略 不再利用DNS屏蔽网站](https://m.cnbeta.com.tw/view/1445119.htm)|
+||[1分钟1块钱：新能源汽车充电占位费被吐槽太贵](https://m.cnbeta.com.tw/view/1445117.htm)|
+||[罗永浩回应郑刚七问：锤子D轮到账只有6个亿 交个朋友不是内部孵化](https://m.cnbeta.com.tw/view/1445116.htm)|
+||[ABS软件故障增加撞车风险 Stellantis在全球召回146万辆汽车](https://m.cnbeta.com.tw/view/1445115.htm)|
+||[英特尔将3纳米以下制程全面委托台积电 计划全球裁员15%](https://m.cnbeta.com.tw/view/1445114.htm)|
+||[xAI将用技术换特斯拉收入分成？马斯克：报道并不准确](https://m.cnbeta.com.tw/view/1445113.htm)|
+||[苹果发布会今晚重磅来袭 除了新款iPhone我们还能期待什么？](https://m.cnbeta.com.tw/view/1445112.htm)|
+||[科技圈“春晚”明天见 华为苹果同台竞技，谁将成赢家？](https://m.cnbeta.com.tw/view/1445111.htm)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[离职男子利用原公司客户名单推销自己经销的酒，被判赔8万元](https://m.thepaper.cn/detail/28677641)|
+||[薛其坤院士：研制出通用量子计算机，至少需要10-20年](https://m.thepaper.cn/detail/28677715)|
+||[浦江创新论坛上的大咖：新型材料的未来想象空间有多大](https://m.thepaper.cn/detail/28677518)|
+||[NBA四大明星与上海相遇，体验这座城市的独特魅力](https://m.thepaper.cn/detail/28677745)|
+||[不小心被拍出一对血红色的瞳孔？恭喜你](https://m.thepaper.cn/detail/28674703)|
+||[快告诉痛风的朋友，这么吃就能减少复发](https://m.thepaper.cn/detail/28677038)|
+||[“回笼觉”越睡危害越大？](https://m.thepaper.cn/detail/28677117)|
+||[这件小事一分钱都不用花，竟然还能减肥？医生：要适量](https://m.thepaper.cn/detail/28677114)|
+||[中方担任上合组织轮值主席国，外交部介绍中方任期内工作重点](https://m.thepaper.cn/detail/28677660)|
+||[四大球星空降上海，“大师漫步”展现城市魅力](https://m.thepaper.cn/detail/28677739)|
+||[愿风雨过后阳光满路！台风来袭时海南一家子的24小时](https://m.thepaper.cn/detail/28677668)|
+||[如何惩治统计造假？人大法工委：健全责任制，增加禁止性行为](https://m.thepaper.cn/detail/28677670)|
+||[2024年，我们究竟要记住多少个密码？](https://m.thepaper.cn/detail/28628144)|
+||[中国慢性病前瞻性研究项目20周年大会召开](https://m.thepaper.cn/detail/28677600)|
+||[传染病防治法拟完善疫情控制措施：严格限定适用条件](https://m.thepaper.cn/detail/28677597)|
+||[最高检：检察人员要做犯罪的追诉者、无辜的保护者和正义的捍卫者](https://m.thepaper.cn/detail/28677590)|
+||[西班牙首相访华：中西关系稳中有升，对中欧关系也有积极作用](https://m.thepaper.cn/detail/28677373)|
+||[云南福贡一项目发生物体打击事故致1人死亡，多家单位被红牌警示](https://m.thepaper.cn/detail/28677523)|
+||[新片｜《毒液：最后一舞》10月23日在中国大陆上映](https://m.thepaper.cn/detail/28677471)|
+||[长三角共“护苗”：沪苏浙皖八市（区）携手成立“护苗”联盟](https://m.thepaper.cn/detail/28677476)|
+||[网友反映“平遥古城乱收停车费管理混乱”，晋中：推进公共车位施划](https://m.thepaper.cn/detail/28677498)|
+||[以色列空袭叙利亚已致5死19伤](https://m.thepaper.cn/detail/28676934)|
+||[国家统计局：8月份居民消费价格同比上涨0.6%](https://m.thepaper.cn/detail/28677301)|
+||[澎湃AI早新闻丨2024年9月9日](https://m.thepaper.cn/detail/28677125)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[上半年，腾讯云渠道营收增速跑赢大盘，原因何在？](https://www.leiphone.com/category/CorporateServices/WxQPBzrBViPI0pcL.html)|
+||[智元机器人、穹彻智能获新一轮融资，数亿热钱涌入具身智能；xAI 模型将授权特斯拉并分享其收入？马斯克回应丨AI情报局](https://www.leiphone.com/category/ai/EbY9I5HNfPV7prAt.html)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[查出幽门螺杆菌，不治疗会得胃癌吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%9F%A5%E5%87%BA%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%EF%BC%8C%E4%B8%8D%E6%B2%BB%E7%96%97%E4%BC%9A%E5%BE%97%E8%83%83%E7%99%8C%E5%90%97%EF%BC%9F)|
+||[乳腺结节 3 类、4 类，严重吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B9%B3%E8%85%BA%E7%BB%93%E8%8A%82%203%20%E7%B1%BB%E3%80%814%20%E7%B1%BB%EF%BC%8C%E4%B8%A5%E9%87%8D%E5%90%97%EF%BC%9F)|
+|[36氪](http://36kr.com/feed)|[特斯拉无线充电站专利曝光，雷诺CEO炮轰欧洲电动车政策 ｜ 海外日报](https://36kr.com/p/2942373470509956?f=rss)|
+|[爱范儿](https://www.ifanr.com/feed)|[石头发布 A30 洗地机： 0 缠毛、0 死角、0 负担，1999 元起](https://www.ifanr.com/1598756?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[这部两米高的 iPhone，抢了苹果发布会的风头](https://www.ifanr.com/1598739?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[9有大牛能解决吗？](https://www.coolapk.com/feed/58749591?shareKey=MzcxZWRhNTdiMjllNjZkZTg5NzQ~)|
+||[把你的爱机当做桌宠放在系统桌面上](https://www.coolapk.com/feed/58749221?shareKey=ZjE0Y2QyOGY5YzA1NjZkZTg5NzQ~)|
+||[小米澎湃OS全局仿iOS（免root）](https://www.coolapk.com/feed/58749072?shareKey=MDUwYjYzZWQ0MDBmNjZkZTg5NzQ~)|
+||[入手一个多月终于等来了OTA](https://www.coolapk.com/feed/58749071?shareKey=YTQ3YWIyNTk1YTZiNjZkZTg5NzQ~)|
+||[小米14 Ultra与iPhone 15 Pro Max的简单使用体验对比](https://www.coolapk.com/feed/58748625?shareKey=YjU5NjBkMzA0OWZlNjZkZTg5NzQ~)|
+||[翼龙 15 pro](https://www.coolapk.com/feed/58748017?shareKey=MDMxOTNhOTQ5NjZhNjZkZTg5NzQ~)|
+||[p70你最爱哪个颜色？](https://www.coolapk.com/feed/58747744?shareKey=NTMxNzAxNWQ5MDQ3NjZkZTg5NzQ~)|
+||[k40的优化](https://www.coolapk.com/feed/58747144?shareKey=YzUwYTdmODZlN2FmNjZkZTg5NzQ~)|
+||[20环形电量教程](https://www.coolapk.com/feed/58747108?shareKey=NDg4NDAzZDIxYWY3NjZkZTg5NzQ~)|
+||[这是bug吗](https://www.coolapk.com/feed/58746413?shareKey=ZTNmMTM3OGJmNjc1NjZkZTg5NzQ~)|
+||[出售苹果11](https://www.coolapk.com/feed/58744960?shareKey=NjdhMzA1NjI2NzVlNjZkZTg5NzQ~)|
+|[异次元软件世界](https://feed.iplaysoft.com)|[破解成功！国行 iPhone 开启苹果 Apple Intelligence 简单教程 解锁无限制 ](https://www.iplaysoft.com/enable-apple-intelligence.html)|
 |[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[美国是时候加大对核武库的投资了](https://cn.nytimes.com/opinion/20240909/nuclear-power-us-invest/dual)|
 ||[“一个时代的终结”：中国不再允许外国家庭收养中国儿童](https://cn.nytimes.com/china/20240909/china-foreign-adoptions-ban/dual)|
 |[简书首页](https://plink.anyfeeder.com/jianshu/home)|[为什么我……](https://www.jianshu.com/p/a6b4a8d9ca6b)|
