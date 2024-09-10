@@ -2,6 +2,92 @@
 
 |来源|标题|
 |---|---|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[苹果推出首款人工智能iPhone](https://cn.nytimes.com/technology/20240910/apple-event-iphone-16-watch/?utm_source=RSS)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[赛力斯应用豆包大模型打造“用户之声”管理平台](https://www.jiqizhixin.com/articles/2024-09-10-6)|
+||[刚刚，苹果首款AI手机发布！A18芯片，新增拍照按钮，AirPods变助听器](https://www.jiqizhixin.com/articles/2024-09-10-5)|
+||[还在人工炼丹？自动提示工程指南来了，还带从头实现](https://www.jiqizhixin.com/articles/2024-09-10-4)|
+||[表格增强生成TAG登场：解锁AI自然语言与数据库的完美结合](https://www.jiqizhixin.com/articles/2024-09-10-3)|
+||[还在死磕AI咒语？北大-百川搞了个自动提示工程系统PAS](https://www.jiqizhixin.com/articles/2024-09-10-2)|
+||[清华、北大等发布Self-Play强化学习最新综述](https://www.jiqizhixin.com/articles/2024-09-10)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple Watch Series 10 全新登場 8 大升級重點一次掌握](https://applefans.today/2024-09-all-new-apple-watch-series-10/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[Apple Intelligence 将于下月起登陆 iPhone、iPad 与 Mac](https://www.oschina.net/news/311300/apple-intelligence-comes-to-iphone-ipad-and-mac-next-month)|
+||[Apache Cassandra 5.0 正式 GA，带来向量搜索、JDK 17 支持、存储附加索引等功能](https://www.oschina.net/news/311298/cassandra-5-0-ga-released)|
+||[Apple 推出 iPhone 16 系列新产品](https://www.oschina.net/news/311297/apple-introduces-iphone-16-iphone-16-plus)|
+||[域名证书检测平台 Domain Admin 加入 Dromara 开源社区](https://www.oschina.net/news/311292)|
+||[首期！deepin 技术双周报上线，最新进展和未来双周计划](https://www.oschina.net/news/311285)|
+||[Java 的 AI 大模型开发及编排框架，Agents-Flex beta.10 发布](https://www.oschina.net/news/311262/agents-flex-alpha-10)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[整治足球职业联赛“假赌黑”，44人终身禁止从事足球行业](https://www.infzm.com/contents/278558)|
+||[脱口秀舞台上的她们](https://www.infzm.com/contents/278513)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[达斯·维德配音演员 James Earl Jones 去世，享年 93 岁](https://www.solidot.org/story?sid=79206)|
+||[苹果发布 iPhone 16 和 iPhone 16 Plus](https://www.solidot.org/story?sid=79205)|
+|[极客公园](http://feeds.geekpark.net/)|[智能汽车，进入「红米时刻」](http://www.geekpark.net/news/340451)|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[A股三大指数小幅高开](https://www.36kr.com/newsflashes/2943543981562496)|
+||[恒指开盘涨0.05%，蔚来涨超10%](https://www.36kr.com/newsflashes/2943539428727431)|
+||[人民币兑美元中间价调贬147个基点](https://www.36kr.com/newsflashes/2943534975277959)|
+||[中信证券：在美联储降息预期进一步升温背景下，下阶段数量与利率型货币政策仍有发力空间](https://www.36kr.com/newsflashes/2943523510360967)|
+||[首批中证A500ETF发行大战“一触即发”](https://www.36kr.com/newsflashes/2943522739821446)|
+||[中秋节临近短途游升温，户外用品企业抢抓商机](https://www.36kr.com/newsflashes/2943521991433092)|
+||[澳大利亚银行业将逐步废除AT1债券](https://www.36kr.com/newsflashes/2943521301420680)|
+||[全国碳市场迎首轮扩容，水泥、钢铁、电解铝三行业纳入](https://www.36kr.com/newsflashes/2943519264987776)|
+||[中金：美国CPI今年大概率可以维持在2.5%-3%区间](https://www.36kr.com/newsflashes/2943518430714505)|
+||[“金九银十”钢价待回暖，生产企业亏损面或缩窄](https://www.36kr.com/newsflashes/2943517273693061)|
+||[头部厂商纷纷加码AI PC市场，2024年或成发展“元年”](https://www.36kr.com/newsflashes/2943515264211584)|
+||[中信证券：看好先进封装材料赛道的龙头公司强α属性与行业β的共振](https://www.36kr.com/newsflashes/2943511764867971)|
+||[补短板拉长板，农机电动化智能化提速](https://www.36kr.com/newsflashes/2943516605668229)|
+||[中国车企是否有意在沙特设厂，中沙可再生能源领域合作如何？中国驻沙特大使回应](https://www.36kr.com/newsflashes/2943514037918593)|
+||[政策供给加码，央企深度“拥抱”人工智能](https://www.36kr.com/newsflashes/2943497803799433)|
+||[政策和市场共振，新型储能发展可期](https://www.36kr.com/newsflashes/2943512880077445)|
+||[专注主业，企业集团财务公司加速出清金融股权](https://www.36kr.com/newsflashes/2943497102760585)|
+||[两市融资余额增加4.86亿元](https://www.36kr.com/newsflashes/2943511475395208)|
+||[马斯克或因X平台被英国议会传唤](https://www.36kr.com/newsflashes/2943496276204424)|
+||[上市连锁药店继续“跑马圈地”，上半年普遍增收不增利](https://www.36kr.com/newsflashes/2943495877761923)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[性感教主绯月樱袒胸露乳香艳诱人](https://www.mmlsl.com/xgmn/2984.html)|
+||[性感娇娃小探戈千娇百媚勾魂夺魄](https://www.mmlsl.com/xgmn/2983.html)|
+||[性感娇娘孙梦瑶万分魅惑令人心血澎湃](https://www.mmlsl.com/xgmn/2982.html)|
+||[性感娇娘顾灿诱人胴体惊艳你眼球](https://www.mmlsl.com/xgmn/2981.html)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[轻量级开源自动化运维平台，批量执行、在线终端、发布部署一应俱全](https://w2solo.com/topics/5015)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[消息称 Rapidus 搁置 1000 亿日元银行贷款计划，转而寻求同等规模股权投资](https://www.ithome.com/0/794/764.htm)|
+||[荣耀和苹果是唯二 AI Agent 手机品牌，赵明称苹果和荣耀 AI Agent 殊途同归](https://www.ithome.com/0/794/746.htm)|
+||[菜鸟启动第二批全球 eHub 建设，旗下 L4 级无人车正式发售](https://www.ithome.com/0/794/733.htm)|
+||[信越化学 12 英寸氮化镓外延生长 QST 衬底出样，有助于降低 GaN 产品成本](https://www.ithome.com/0/794/732.htm)|
+||[新品不止 iPhone 16 / Pro，苹果 Apple Watch / AirPods 京东开启预约](https://www.ithome.com/0/794/728.htm)|
+||[京东、淘宝等 62 款 App 完成个人信息收集使用合规整改](https://www.ithome.com/0/794/723.htm)|
+||[T3 出行计划于 2026 年在南京全域开展自动驾驶服务](https://www.ithome.com/0/794/708.htm)|
+||[台积电砍价成功：消息称其首台 High NA EUV 光刻机远低于 ASML 3.5 亿欧元的报价](https://www.ithome.com/0/794/703.htm)|
+||[澳大利亚拟立法禁止儿童使用社交媒体，希望他们多出门运动](https://www.ithome.com/0/794/696.htm)|
+||[科技昨夜今晨 0910：苹果 2024 秋季新品发布会汇总；比亚迪 2025 款汉上市；鸿蒙智行智界 R7 内饰公开](https://www.ithome.com/0/794/691.htm)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[只敢在酷安上寻求一点建议](https://www.coolapk.com/feed/58767515?shareKey=ZTllYmYxMmY5Yzc0NjZkZmIyNmU~)|
+||[三星 壁纸](https://www.coolapk.com/feed/58767445?shareKey=YzZhMDcxNTJmMTExNjZkZmIyNmU~)|
+||[哥几个，这几个咋选，推荐一下，求求了](https://www.coolapk.com/feed/58767147?shareKey=ZGQyNzAwNDBjYjcyNjZkZmIyNmU~)|
+||[凑个热闹 小米洗衣机售后记录](https://www.coolapk.com/feed/58767027?shareKey=NzM4NjgxOGE4MjEwNjZkZmIyNmU~)|
+||[无聊，随拍](https://www.coolapk.com/feed/58766358?shareKey=ODIyZGMxMzcwYjM4NjZkZmIyNmU~)|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[ 视频 下一代Xpedition PCB Layout工具的新界面](https://www.mr-wu.cn/the-new-interface-of-the-next-generation-xpedition-pcb-layout-tool/)|
+|[蓝点网](https://www.landiannews.com/feed)|[中国和印尼版Apple Watch S10不支持快速充电及充电器不兼容其他区](https://www.landiannews.com/archives/105799.html)|
+|[IT之家](https://www.ithome.com/rss/)|[尼康发布尼克尔 Z 50mm f/1.4 镜头：4099 元，9 月 26 日开售](https://www.ithome.com/0/794/769.htm)|
+||[全线国产：西门子医疗宣布新一代 7T 磁共振通过医疗器械注册](https://www.ithome.com/0/794/768.htm)|
+||[HKC“G24H1 经典版”23.8 英寸显示器开售：1080P 原生 200Hz，549 元](https://www.ithome.com/0/794/766.htm)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[从不被理解，到被600万人每月使用](https://www.woshipm.com/it/6112443.html)|
+||[微信，还是太抠了！](https://www.woshipm.com/share/6112430.html)|
+||[近期观察：知识付费的花式玩法](https://www.woshipm.com/share/6112422.html)|
+||[微信更新私域大杀器？或将盘活社群运营？小程序或迎来重生？](https://www.woshipm.com/share/6112405.html)|
+||[流量还可以这样玩？](https://www.woshipm.com/share/6112374.html)|
+||[半年积累百万用户却战略性放弃？又一家AI公司凭创意赚到钱了](https://www.woshipm.com/share/6112014.html)|
+||[iphone16的AI能力最全面解析，第一手内容都在这了！](https://www.woshipm.com/ucd/6112304.html)|
+||[拼多多没有流量怎么办](https://www.woshipm.com/share/6112039.html)|
+||[高手都在用的简历结构黄金法则](https://www.woshipm.com/share/6112216.html)|
+||[网文作者转战「短剧」赛道，AI如何神助攻？](https://www.woshipm.com/share/6112301.html)|
+||[产品经理与项目管理：协同创新，引领成功](https://www.woshipm.com/share/6111489.html)|
+||[微信读书产品分析报告 ｜ 深度剖析产品、用户、商业、运营](https://www.woshipm.com/share/6112038.html)|
+||[互联网社交产品制胜的法宝：回归社交工具这一本位](https://www.woshipm.com/share/6111957.html)|
+||[私域运营指南：全面解读私域体系搭建与运营流程，搭建高效转化私域闭环](https://www.woshipm.com/share/6112041.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不懂就问，公司每个月交 16%的养老金，这笔钱未来退休会返还到个人吗？](https://www.v2ex.com/t/1071578#reply24)|
+||[ 汽车 新手下地库刮了前翼子板，怎么处理比较合适？](https://www.v2ex.com/t/1071577#reply18)|
+||[ 问与答 兄弟们，有好吃的外卖推荐没，我要饿死了](https://www.v2ex.com/t/1071576#reply19)|
+||[ 职场话题 入职机械行业后，对社会一些现象的看法](https://www.v2ex.com/t/1071575#reply19)|
+||[ JavaScript JavaScript 比 C 有更重的心智负担， Jser 们别卷框架了，卷点语言吧](https://www.v2ex.com/t/1071566#reply18)|
+||[ 程序员 mac 上 sublime 公司不让用，有啥替代品？](https://www.v2ex.com/t/1071565#reply21)|
+||[ 问与答 苹果 or 华为](https://www.v2ex.com/t/1071563#reply16)|
+||[ 职场话题 对前端成为小公司产研负责人大家有什么建议](https://www.v2ex.com/t/1071559#reply21)|
 |[TecHug](http://www.techug.com/feed)|[【外评】哪些开源项目被广泛使用，但仅由少数人维护？](https://www.techug.com/post/which-open-source-projects-are-widely-used-but-maintained-by-just-a-few-people/)|
 |[标志情报局](http://www.logonews.cn/feed)|[利物浦足球俱乐部使用「利物鸟」作为新赛季官方数字标志](https://www.logonews.cn/liverpool-football-club-logo.html)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[苹果发布首款爱马仕版Apple Watch Hermès Ultra 2手表 售价11799元](https://m.cnbeta.com.tw/view/1445247.htm)|
