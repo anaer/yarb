@@ -2,6 +2,138 @@
 
 |来源|标题|
 |---|---|
+|[摄影世界](https://feedx.net/rss/photoworld.xml)|[索尼轻量化人像定焦 G 大师镜头 FE 85mm F1.4 GM II 发布](https://www.photoworld.com.cn/post/177512)|
+||[QooCam 3 Ultra｜全方位升级的 8K 360°全景相机](https://www.photoworld.com.cn/post/177500)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[fith: @无聊图](http://i.jandan.net/t/5751402)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5751347)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5751346)|
+||[fith: @无聊图](http://i.jandan.net/t/5751341)|
+||[咩咩熊: @无聊图](http://i.jandan.net/t/5751335)|
+|[V2EX](https://v2ex.com/index.xml)|[ 职场话题 失业回老家躺平一年半，大家一起谈论下大龄程序员的路在何方？](https://www.v2ex.com/t/1071728#reply19)|
+||[ 分享发现 周末租车被坑](https://www.v2ex.com/t/1071727#reply18)|
+||[ 职场话题 划水新姿势](https://www.v2ex.com/t/1071721#reply15)|
+||[ Android 华为三折叠，各位怎么看？](https://www.v2ex.com/t/1071718#reply47)|
+||[ 职场话题 裸辞后大家交社保吗？心态如何](https://www.v2ex.com/t/1071708#reply12)|
+||[ 分享创造 做了一套免费任务管理系统，但是怎么宣传？](https://www.v2ex.com/t/1071706#reply18)|
+||[ 买买买 华为 Mate XT， 16+256， 19999 元](https://www.v2ex.com/t/1071703#reply23)|
+||[ 职场话题 远程办公是什么体验](https://www.v2ex.com/t/1071702#reply13)|
+||[ 生活 感觉牙齿黄，都不好意思笑](https://www.v2ex.com/t/1071690#reply11)|
+|[36氪](http://36kr.com/feed)|[科技支付助力出海产业安全及增长丨电子商务主持人大会暨跨境电商主播发展研讨会](https://36kr.com/p/2944074068269702?f=rss)|
+||[亚太文化共鸣下的本土短剧营销丨电子商务主持人大会暨跨境电商主播发展研讨会](https://36kr.com/p/2944067739310723?f=rss)|
+||[如何打造主播的市场定位与品牌建设丨电子商务主持人大会暨跨境电商主播发展研讨会](https://36kr.com/p/2944058308270725?f=rss)|
+||[“风”从“海”上来——新时代创投机构机遇与挑战丨电子商务主持人大会暨跨境电商主播发展研讨会](https://36kr.com/p/2944048318732933?f=rss)|
+||[品牌出海破局之路：全球化营销的探索与协同丨电子商务主持人大会暨跨境电商主播发展研讨会](https://36kr.com/p/2944027339709319?f=rss)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[微信问一问或是涨粉新赛道！](https://www.woshipm.com/share/6112772.html)|
+||[当闲鱼开始“淘宝化”](https://www.woshipm.com/share/6112724.html)|
+|[TecHug](http://www.techug.com/feed)|[Android 全力押注 Rust，Linux 却在原地踏步？谷歌：用 Rust 重写固件太简单了！](https://www.techug.com/post/android-is-fully-betting-on-rust-but-linux-is-stagnant-google-rewriting-firmware-with-rust-f06b2b/)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[2024网安周 中国网络安全创新创业大赛，梆梆安全荣获解决方案二等奖](https://www.4hou.com/posts/gyn9)|
+||[梆梆安全首批入驻海淀网信办网络安全公共服务平台，实力推助产业融合发展新生态](https://www.4hou.com/posts/jB0W)|
+||[再度登榜 梆梆安全入选CCIA2024年中国网安产业竞争力50强](https://www.4hou.com/posts/wxKw)|
+|[IT之家](https://www.ithome.com/rss/)|[消息称华为 Mate XT 三折叠手机备货约 100 万台，预约量已破 400 万](https://www.ithome.com/0/794/884.htm)|
+||[欧洲“超级高铁”技术试车成功，目标时速 700 公里 / 小时](https://www.ithome.com/0/794/883.htm)|
+||[上市价 3999 元：石头 H1 Neo 分子筛洗烘一体机 2944 元补贴新低](https://www.ithome.com/0/794/882.htm)|
+||[联发科 8 月营收 415.28 亿新台币，同比下降 1.72％](https://www.ithome.com/0/794/881.htm)|
+||[TEL、塔塔电子签署战略合作备忘录，加速后者印度半导体工厂设备基础设施建设](https://www.ithome.com/0/794/880.htm)|
+||[因“用户需求变化”，索尼称今年将不会推出 Xperia 5 VI 手机](https://www.ithome.com/0/794/874.htm)|
+||[SpaceX：执行首次私人太空行走任务的载人飞船发射升空](https://www.ithome.com/0/794/871.htm)|
+||[消息称欧盟将降低对自中国进口电动汽车拟议的加征关税](https://www.ithome.com/0/794/870.htm)|
+||[酷比魔方掌玩 mini 2 平板 4G 通信版上架：8.4 英寸屏、联发科 G99 + 8G + 128G 售 799 元](https://www.ithome.com/0/794/868.htm)|
+||[美国 2023 年加密货币诈骗案激增，受害者经济损失高达 56 亿美元](https://www.ithome.com/0/794/867.htm)|
+||[日本 NTT Docomo 与夏普合资公司发布 XR 眼镜 MiRZA：首发骁龙 AR2 Gen1，24.8 万日元](https://www.ithome.com/0/794/865.htm)|
+||[【一图知】华为见非凡品牌盛典及鸿蒙智行新品发布会：Mate XT 非凡大师三折叠屏手机与问界 M9 大五座发布，智界 R7 开启小订](https://www.ithome.com/0/794/863.htm)|
+||[英国 71% 成年人通过网络获取新闻，首度超越传统电视媒介](https://www.ithome.com/0/794/862.htm)|
+||[联力包豪斯 O11D EVO RGB 兰博基尼版联名限量机箱上市，2399 元](https://www.ithome.com/0/794/861.htm)|
+||[追觅 Pocket P10 Pro 吹风机“澳白玫瑰升级款”开售：双出风口、290 克折叠机身，849 元](https://www.ithome.com/0/794/860.htm)|
+||[消息称华为 Mate XT 非凡大师三折叠手机搭载麒麟 9010 处理器](https://www.ithome.com/0/794/859.htm)|
+||[Steam 国区 56 元，休闲游戏《潜水员戴夫》开启 7 折史低优惠](https://www.ithome.com/0/794/858.htm)|
+||[奇瑞：与蔚来能源达成充电网络服务合作，覆盖奇瑞、星途、捷途汽车](https://www.ithome.com/0/794/857.htm)|
+||[华为 Mate XT 非凡大师三折叠手机真机实拍，展开厚度约 3 张银行卡](https://www.ithome.com/0/794/851.htm)|
+||[8 月我国动力电池装车量 47.2GWh：同比增长 35.3%，宁德时代、比亚迪位列前二](https://www.ithome.com/0/794/845.htm)|
+||[46.98 万元起：问界 M9 五座版 SUV 车型上市，同级最大 3500mm 乘用空间](https://www.ithome.com/0/794/844.htm)|
+||[Steam 新一周游戏销量榜：《战锤 40K：星际战士 2》全球登顶，《黑神话：悟空》紧随其后](https://www.ithome.com/0/794/843.htm)|
+||[比亚迪方程豹豹 8 车型首发支持华为 Mate XT 手机 UWB 车钥匙](https://www.ithome.com/0/794/842.htm)|
+||[百度地图 V20 首发适配华为 Mate XT 三折叠屏手机](https://www.ithome.com/0/794/840.htm)|
+||[问界 M9 全系六大升级，国产新能源首发钓鱼凳](https://www.ithome.com/0/794/839.htm)|
+||[采埃孚后轮转向系统 AKC 首次国产化，将搭载于国内新能源汽车头部制造商车型](https://www.ithome.com/0/794/838.htm)|
+||[问界、享界、智界鸿蒙智行全系车型明日起陆续升级华为 ADS 3.0](https://www.ithome.com/0/794/835.htm)|
+||[AMD 高管确认较低规格 Zen5 架构 APU“Krackan”将于 2025 年初推出](https://www.ithome.com/0/794/833.htm)|
+||[南卡 OE Pro 2 开放式耳机开售：无线充电、60ms 延迟，1399 元](https://www.ithome.com/0/794/832.htm)|
+||[墨将迅龙 2 星闪手柄开售：2KHz 无线回报率、碳膜 / TMR 双版本，379 元](https://www.ithome.com/0/794/831.htm)|
+||[电动版奥迪 RS6 E-tron Avant 旅行车首曝：设计更具运动感，可产生 805 马力](https://www.ithome.com/0/794/830.htm)|
+||[中国充电联盟：8 月公共充电桩新增 5.4 万台、同比增长 43.6%，累计 326.3 万台](https://www.ithome.com/0/794/829.htm)|
+||[《DOTA2》TI13 淘汰赛次日：中国战队 Team Zero 止步败者组首轮](https://www.ithome.com/0/794/825.htm)|
+||[安克小飞碟三合一 Qi2 15W 无线充电器 9 月 20 日开售：支持手机 / 耳机 / 手表同充，499 元](https://www.ithome.com/0/794/824.htm)|
+||[国产大飞机 C919 身披五星红旗首航，获民航最高礼仪“过水门”](https://www.ithome.com/0/794/822.htm)|
+||[黑鲨预热凤鸣真无线蓝牙耳机电竞版 9 月 20 日发布，主打“低延迟”](https://www.ithome.com/0/794/821.htm)|
+||[19999 元起全球首款量产三折叠手机：华为 Mate XT 非凡大师发布，10.2 英寸全球最大屏](https://www.ithome.com/0/794/820.htm)|
+||[消息称三星 Galaxy S25 Ultra 手机重 219g，电池 5000mAh](https://www.ithome.com/0/794/816.htm)|
+||[谷歌升级安卓 Files 文件管理器，支持以 ZIP 格式压缩文件、文件夹](https://www.ithome.com/0/794/815.htm)|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[字节跳动冯佳时：大语言模型在计算机视觉领域的应用、问题和我们的解](https://www.infoq.cn/article/39LiyJdBGlRYXzJpUEM3)|
+||[国产OS移动开发新时代，如何做好应用生态“中间层”？](https://www.infoq.cn/article/T41PfG8eufUWSHxaWWjj)|
+||[企业数智化升级，大模型低成本、高效能落地的密码是什么？丨InfoQ《极客有约》](https://www.infoq.cn/article/IlO83s6DvV7o7dfz1swO)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[看到苹果和华为「互抡大锤」，我不厚道地笑了](https://www.jiqizhixin.com/articles/2024-09-10-10)|
+||[节省数年时间，AI发现更高效绿氢催化剂仅需几天，36,000多种混合金属氧化物训练](https://www.jiqizhixin.com/articles/2024-09-10-9)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在最尴尬的是不是用 Swift 做 iOS 开发的？](https://www.v2ex.com/t/1071522#reply35)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[css3如何实现这样的渐变背景?](https://segmentfault.com/q/1010000045260711)|
+|[爱范儿](https://www.ifanr.com/feed)|[华为 Mate XT 非凡大师：预测未来的最好方式是创造未来](https://www.ifanr.com/1598901?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[华为 Mate XT 三折叠手机发布！最大 10.2 英寸，仅厚 3.6 毫米，19999 元起](https://www.ifanr.com/1598870?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[【硬科技周报】第32周:AI技术研发商“秘塔科技”完成超1亿元人民币融资，英伟达对手Groq获6.4亿美元融资](https://www.tmtpost.com/7245297.html)|
+||[短剧App，正在成为收入仅次于TikTok的非游出海应用](https://www.tmtpost.com/7245273.html)|
+||[折叠屏手机简史](https://www.tmtpost.com/7245359.html)|
+||[“围剿”高端酒店，煤老板意欲何为？](https://www.tmtpost.com/7245384.html)|
+||[“煤老板”的钱救不了高星酒店](https://www.tmtpost.com/7245394.html)|
+||[这个中秋国庆，被搞懵了的酒旅商家](https://www.tmtpost.com/7245416.html)|
+||[丰巢上市，为什么受伤的是菜鸟？](https://www.tmtpost.com/7245448.html)|
+||[数据告诉你：银行业为何在珠三角栽了一个大跟头｜钛媒体金融](https://www.tmtpost.com/7245415.html)|
+||[在线、离线业务融合场景，天均CPU利用率提升至55% 创新场景](https://www.tmtpost.com/7245430.html)|
+||[企业级AI落地三步走](https://www.tmtpost.com/7245127.html)|
+||[再现申万宏源走势，券商“航母”还缺天时地利人和 钛媒体金融](https://www.tmtpost.com/7245199.html)|
+||[U. S. Proposes New Reporting Requirements for AI Developers and Cloud Providers](https://www.tmtpost.com/7245398.html)|
+||[绵阳安州区国资入主浮亏过亿，二度跨界的麦迪科技光伏梦碎](https://www.tmtpost.com/7245177.html)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[英伟达 AI 芯片在中国的租赁费用比美国便宜](https://www.solidot.org/story?sid=79212)|
+||[实体版《星鸣特攻》成为热门收藏品](https://www.solidot.org/story?sid=79211)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[读《朱允熥重生 打造大明巅峰》279](https://www.jianshu.com/p/4188010e01fe)|
+||[开学的第一个周末](https://www.jianshu.com/p/083011740b75)|
+||[干净整洁](https://www.jianshu.com/p/b59e13f404f5)|
+||[陆远华：艺术投资的明日之星，作品价值持续攀升](https://www.jianshu.com/p/53f00e1a6f86)|
+||[我与男友谈恋爱7年，第一次去他家，我却向婆婆提出一个无理要求](https://www.jianshu.com/p/9fa067afa3d3)|
+||[打靶归来](https://www.jianshu.com/p/3657ddb735ad)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[美国经济软着陆概率大，全球股市深v反弹后何去何从？｜《钛牛了，股市！》](https://www.tmtpost.com/7244839.html)|
+|[热帖 - 雪球](https://plink.anyfeeder.com/xueqiu/hot)|[](https://xueqiu.com/5591278169/304152837)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[拼完续航焦虑，车企还能拼什么？](http://www.huxiu.com/article/3452974.html?f=wangzhan)|
+||[算法的真相：为什么算法不是创作者的万能钥匙](http://www.huxiu.com/article/3452064.html?f=wangzhan)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[国产夏威夷果采收季开启：国产化让价格从百元降至十几元](https://www.leiphone.com/category/industrynews/jCx61NG1hEiJUmgd.html)|
+||[预约超百万，手机大厂的又一次豪赌](https://www.leiphone.com/category/weiwu/lO7xxgEm4Q96ThyP.html)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Darker - Safari 暗色模式扩展 macOS、iOS 美区内购限免 ](https://free.apprcn.com/darker/)|
+||[Hydrated - 喝水记录、提醒工具 iPhone、Apple Watch 内购限免 ](https://free.apprcn.com/hydrated/)|
+||[免费获取字体 Butter Pumpkin Duo Font Windows、macOS ](https://free.apprcn.com/get-butter-pumpkin-duo-font-for-free/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[私人太空行走首秀：亿万富翁再次创造太空历史](https://www.huxiu.com/article/3453449.html?f=rss)|
+||[鼓励老年人就业，首先要取消考公35岁限制](https://www.huxiu.com/article/3452573.html?f=rss)|
+||[文人的面子](https://www.huxiu.com/article/3453445.html?f=rss)|
+||[不赚钱不收管理费，这只基金退钱了](https://www.huxiu.com/article/3453440.html?f=rss)|
+||[华为三折屏手机Mate XT预售价格被炒至7万，供应链等待狂欢](https://www.huxiu.com/article/3453397.html?f=rss)|
+||[拼完续航焦虑，车企还能拼什么？](https://www.huxiu.com/article/3452974.html?f=rss)|
+||[库克“技穷”](https://www.huxiu.com/article/3453413.html?f=rss)|
+||[19999元起的华为三折叠手机，会成为苹果的iPhone4时刻吗？](https://www.huxiu.com/article/3453390.html?f=rss)|
+||[宇宙文明到底分几级？](https://www.huxiu.com/article/3452091.html?f=rss)|
+||[“煤老板”的钱救不了高星酒店](https://www.huxiu.com/article/3453375.html?f=rss)|
+||[股价腰斩，市值蒸发，lululemon为什么从顶点坠落？](https://www.huxiu.com/article/3452563.html?f=rss)|
+||[那些对骑行祛魅的人](https://www.huxiu.com/article/3452979.html?f=rss)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[脆皮打工人们的职场好物竟然是……？](https://www.coolapk.com/feed/58776334?shareKey=ZjE3ZDE1MmZiYTkxNjZlMDA3ZDk~)|
+||[看Apple秋季发布会的感受](https://www.coolapk.com/feed/58775225?shareKey=NzcwNzM0M2IyNmJkNjZlMDA3ZDk~)|
+||[近段时间，k70至尊版拼多多好价，16+512☞2849；16+1T☞3129](https://www.coolapk.com/feed/58775516?shareKey=ZWMyMjA0NzVhZWZkNjZlMDA3ZDk~)|
+||[工作遇到群众下跪](https://www.coolapk.com/feed/58775510?shareKey=NmU2YTBiYjlkYjFlNjZlMDA3ZDk~)|
+||[9.10 iPhone16 官方壳壁纸](https://www.coolapk.com/feed/58775228?shareKey=ODVmMzZiNjdlMWZjNjZlMDA3ZDk~)|
+||[nova Flip的AI技能点拉满！这些趣味且实用的功能你知道几个](https://www.coolapk.com/feed/58775179?shareKey=YjljMGU3OGVhZjUzNjZlMDA3ZDk~)|
+||[自己动手更换潜望摄像头，10倍回来了](https://www.coolapk.com/feed/58774832?shareKey=YWY3YjRmYWY1MTFmNjZlMDA3ZDk~)|
+||[兄弟们看看我这还能值多少钱](https://www.coolapk.com/feed/58774472?shareKey=MzI4MDc4ZjU3ZTZkNjZlMDA3ZDk~)|
+||[开箱小米67W桌面快充插座 支持PPS 65W和SCP 22W](https://www.coolapk.com/feed/58774375?shareKey=M2MzYTk0M2VmOWMxNjZlMDA3ZDk~)|
+||[写真，, , , ,](https://www.coolapk.com/feed/58773528?shareKey=ZWZiMmM0ZGI4ODQ2NjZlMDA3ZDk~)|
+||[9.10 AI 美女 多图](https://www.coolapk.com/feed/58772927?shareKey=ODI5YjY1MjNmNmQ3NjZlMDA3ZDk~)|
+||[反正是一顿乱拍，没有技术和技巧，全凭](https://www.coolapk.com/feed/58772923?shareKey=YTc4OWE2NWVmMjgyNjZlMDA3ZDk~)|
+||[Linux NAS 下部署spt-server](https://www.coolapk.com/feed/58772788?shareKey=MjU1ZjZmNDZiNzAxNjZlMDA3ZDk~)|
+||[Apple 发布会三大看点](https://www.coolapk.com/feed/58772460?shareKey=ZTQyNzE1M2Y5N2YyNjZlMDA3ZDk~)|
+||[Apple 秋季发布会三大看点](https://www.coolapk.com/feed/58772417?shareKey=NGRiMWU4ODA2OGNjNjZlMDA3ZDk~)|
 |[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[腿粗臀部大的人，竟然更长寿？](https://m.thepaper.cn/detail/28689087)|
 ||[“降妖除魔”累到头晕恶心？中医推荐两大招“回血”](https://m.thepaper.cn/detail/28689012)|
 ||[一图读懂丨周围性面瘫 VS 中枢性面瘫](https://m.thepaper.cn/detail/28682912)|
