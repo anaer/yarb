@@ -2,6 +2,164 @@
 
 |来源|标题|
 |---|---|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[腿粗臀部大的人，竟然更长寿？](https://m.thepaper.cn/detail/28689087)|
+||[“降妖除魔”累到头晕恶心？中医推荐两大招“回血”](https://m.thepaper.cn/detail/28689012)|
+||[一图读懂丨周围性面瘫 VS 中枢性面瘫](https://m.thepaper.cn/detail/28682912)|
+||[青春华章·初为人师丨00后教师黄珊珊：班主任不只是教书，还要育人](https://m.thepaper.cn/detail/28680599)|
+||[中国消防4×100接力摘金](https://m.thepaper.cn/detail/28683522)|
+||[新生举手机亮灯拼字庆祝教师节](https://m.thepaper.cn/detail/28689408)|
+||[四川一乡党委书记获刑，全乡18万救助金他套取了10万多](https://m.thepaper.cn/detail/28653181)|
+||[沿街商铺如何治理？欢迎邮件订阅《澎湃城市报告》第13期](https://m.thepaper.cn/detail/28689701)|
+||[跨越12年成就一段传奇，国际奥委会教师节致敬陈若琳](https://m.thepaper.cn/detail/28689729)|
+||[拍照控制键争议，国行AI迟到！新iPhone发布会不会引发换机潮](https://m.thepaper.cn/detail/28688728)|
+||[张涛甫：澎湃十年，纵横四海](https://m.thepaper.cn/detail/28689653)|
+||[国家医保局：已有20个省份含新疆生产建设兵团将辅助生殖纳入医保](https://m.thepaper.cn/detail/28689485)|
+||[专访｜硅谷创投教父霍夫曼：创业者要寻找你自己的路](https://m.thepaper.cn/detail/28668593)|
+||[中国足协：原山东泰山外援孙准浩被终身禁止从事足球行业](https://m.thepaper.cn/detail/28689538)|
+||[官方：查实涉嫌假赌球比赛120场，44人终身禁止从事足球行业](https://m.thepaper.cn/detail/28689451)|
+||[药明康德、药明生物、华大智造回应美国“生物安全法案”：未收集任何基因数据](https://m.thepaper.cn/detail/28689037)|
+||[云南三家医院“给男性做妇科诊疗”被国家医保局点名，腾冲等三地回应](https://m.thepaper.cn/detail/28689308)|
+||[iPhone 16上手体验：配置拍照控制按钮，沙漠金最受欢迎](https://m.thepaper.cn/detail/28688150)|
+||[青春华章·跨越山海｜“组团式”帮扶援滇，90后教师成了孩子们的“大哥哥”](https://m.thepaper.cn/detail/28680604)|
+||[澎湃AI早新闻丨2024年9月10日](https://m.thepaper.cn/detail/28689259)|
+|[伪医生律师的博客](https://chidd.net/feed)|[史上最长的暑假](https://chidd.net/2024/09/10/shu-jia-2.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[可以分享一下平凡生活里的小幸福吗？](https://www.zhihu.com/question/478867747)|
+||[伊朗总统提议迁都，「德黑兰问题太多了」，迁都基于什么考量？迁移后问题就能解决吗？](https://www.zhihu.com/question/666634392)|
+||[为什么人口大爆发的清朝，汉族人口越来越多，而汉蒙一家的满族人越来越少？](https://www.zhihu.com/question/571789240)|
+||[9 月 10 日是世界预防自杀日，如何识别身边有自杀倾向的人？该如何帮助他们？](https://www.zhihu.com/question/666259325)|
+||[国足 18 强赛，第二轮对阵沙特，你对本场比赛有何期待？](https://www.zhihu.com/question/666637649)|
+||[工作中处于摸鱼状态领导真的不知道吗？](https://www.zhihu.com/question/666058474)|
+||[如何评价 Apple 2024 秋季新品发布会，有哪些值得关注的信息？](https://www.zhihu.com/question/666680642)|
+||[沈阳激励外卖骑手「随手拍」监督食品安全问题，会带来哪些变化？有可能推广到更多城市吗？](https://www.zhihu.com/question/666558394)|
+||[如何看待老人去文殊院拜佛推猫引热议？文殊院小猫有什么来头？](https://www.zhihu.com/question/666400319)|
+||[GEN 决赛爆冷 2:3 不敌 HLE 无缘联赛五连冠，问题出在哪里？](https://www.zhihu.com/question/666587333)|
+||[今天是我国第 40 个教师节，你心目中的好老师是什么样的？有哪些令你终身难忘的老师吗？](https://www.zhihu.com/question/666626164)|
+||[足球联赛「假赌黑」整治，44 人终身禁止从事足球行业，将带来哪些影响？](https://www.zhihu.com/question/666729595)|
+||[游戏行业真的很暴利吗？](https://www.zhihu.com/question/54400008)|
+||[如何用 AI 为科研学习提效？](https://www.zhihu.com/question/666088182)|
+||[乌克兰远程无人机为啥都只装 20 公斤战斗部？](https://www.zhihu.com/question/665989588)|
+||[气温 40 度，办公室新同事把空调关了并说：「我身体不好，吹不了空调，希望大家理解！」你怎么高情商回答？](https://www.zhihu.com/question/666691632)|
+||[《黑神话：悟空》里的「毒敌大王」他为什么怕血月？](https://www.zhihu.com/question/665619611)|
+||[为什么大道理都懂，就是过不好这一生？](https://www.zhihu.com/question/665968405)|
+||[请问医生为什么周末拒绝给病人做手术？](https://www.zhihu.com/question/665849452)|
+||[济南一女生疑被同桌用铁锥扎数百下，教育局回应称「未达到校园霸凌标准」，校园霸凌的标准是什么？](https://www.zhihu.com/question/666641156)|
+||[多个养老机构「抢聘」毕业生，首批养老专业本科生为何这么抢手？其职业发展前景如何？](https://www.zhihu.com/question/666647367)|
+||[为什么清朝那么大疆域，养二十三万大军都很费劲，而生产力落后战国期间却动辄几十万大军？](https://www.zhihu.com/question/659980730)|
+||[詹姆斯是历史上唯一一个以核心身份带领三支不同球队获得总冠军的超巨，他会被三支球队退役球衣的第一人吗？](https://www.zhihu.com/question/666457838)|
+||[电视剧《凡人歌》为什么那么多网友纷纷说「沈磊」是好男人，仅因为他是北京的公务员吗？](https://www.zhihu.com/question/666406124)|
+||[《英雄联盟》前教练白色月牙开团高振宁，发生了什么？](https://www.zhihu.com/question/666650643)|
+||[什么样的教师节，对老师来说最有意义？](https://www.zhihu.com/roundtable/24teacher)|
+||[你支持取消教师节吗？](https://www.zhihu.com/question/665897283)|
+||[如何评价 9 月 10 日发布的 AirPods 4，普通版本和主动降噪版有什么不同？](https://www.zhihu.com/question/666698837)|
+||[如何评价 9 月 10 日发布的 iPhone 16 系列，哪些升级值得关注？](https://www.zhihu.com/question/666699170)|
+|[蓝点网](https://www.landiannews.com/feed)|[ 安全指南 什么是密码喷洒攻击以及如何防范/对抗密码喷洒攻击？](https://www.landiannews.com/archives/105777.html)|
+||[F5宣布将NGINX源代码迁移到GitHub上 让开发者们更方便提交改进](https://www.landiannews.com/archives/105781.html)|
+||[AMD宣布将RDNA和CDNA架构合并为UDNA架构 用于挑战英伟达CUDA架构](https://www.landiannews.com/archives/105778.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[观赛报名｜第九届“创客中国”视觉智能专题赛复赛邀您共赴智汇盛宴！](https://www.tmtpost.com/7244688.html)|
+||[沉浸式剧场内卷：从小剧场到大庄园](https://www.tmtpost.com/7244899.html)|
+||[即时零售，电商平台们的「新战场」？](https://www.tmtpost.com/7245046.html)|
+||[谁给了高奢酒店“一城双店”加速的勇气？](https://www.tmtpost.com/7245054.html)|
+||[AI功能爽约，苹果并未迎来“高光时刻”](https://www.tmtpost.com/7245061.html)|
+||[“日益拥挤”的本地生活，还容得下小红书吗？](https://www.tmtpost.com/7245126.html)|
+||[我花了十几万，和上百个主播连麦算命](https://www.tmtpost.com/7245137.html)|
+||[当闲鱼开始“淘宝化”](https://www.tmtpost.com/7245179.html)|
+||[Huawei Announces Major AI Training Upgrade Ahead of iPhone 16 Launch](https://www.tmtpost.com/7245170.html)|
+||[9月10日A股分析：三大指数小幅上涨，两市合计成交5276.48亿元，资金流入最多的行业板块为通信设备、银行](https://www.tmtpost.com/7245144.html)|
+||[推出小型化纳米孔测序仪，华大智造主营业务获新增长点丨钛快讯](https://www.tmtpost.com/7245059.html)|
+||[【产业互联网周报】 沈向洋：人工智能的颠覆性力量逐步显化，须打造负责任的AI；高盛：未来十年人工智能或对油价带来压力；字节跳动被曝寻求95亿美元贷款；英伟达CEO黄仁勋身家暴跌100亿美元；蚂蚁数科发布新一代AI数据标注产品](https://www.tmtpost.com/7245100.html)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[华为三折叠Mate XT真机实拍抢先看](https://m.cnbeta.com.tw/view/1445299.htm)|
+||[特斯拉上周在华保险注册量达1.6万辆 分析师称第三季度注册量有望创新高](https://m.cnbeta.com.tw/view/1445296.htm)|
+||[HUAWEI Mate XT非凡大师9月20开售 售价19999元起](https://m.cnbeta.com.tw/view/1445295.htm)|
+||[刘德华再度携手华为 成为Mate XT非凡大师品牌大使](https://m.cnbeta.com.tw/view/1445294.htm)|
+||[微软通知Windows 11 21H2 / 22H2 PC将于下月强制升级至23H2](https://m.cnbeta.com.tw/view/1445293.htm)|
+||[首款三折屏 华为Mate XT非凡大师发布 售价19999元起](https://m.cnbeta.com.tw/view/1445292.htm)|
+||[改写行业历史 为Mate XT非凡大师三折叠屏正式亮相](https://m.cnbeta.com.tw/view/1445290.htm)|
+||[马斯克再次嘲讽苹果新款iPhone无新意：500亿美元研发费用 真是太划算了！](https://m.cnbeta.com.tw/view/1445288.htm)|
+||[瑞典电池制造商Northvolt考虑裁员 以节省成本](https://m.cnbeta.com.tw/view/1445287.htm)|
+||[苹果iPhone 16和iPhone 16 Pro在主要国际市场的定价信息汇总](https://m.cnbeta.com.tw/view/1445285.htm)|
+||[巴基斯坦的中国式防火墙令其科技行业惶恐不安](https://m.cnbeta.com.tw/view/1445284.htm)|
+||[过于火爆 华为Mate XT在深圳旗舰店预订名额已满](https://m.cnbeta.com.tw/view/1445282.htm)|
+||[AMD宣布将RDNA和CDNA架构合并为UDNA架构 用于挑战英伟达CUDA架构](https://m.cnbeta.com.tw/view/1445280.htm)|
+||[F5宣布将NGINX源代码迁移到GitHub上 让开发者们更方便提交改进](https://m.cnbeta.com.tw/view/1445279.htm)|
+||[外媒：华为三折叠手机代表其技术实力](https://m.cnbeta.com.tw/view/1445278.htm)|
+||[苹果 iPhone 16 和 iPhone 16 Pro Max 原版壁纸现已可下载](https://m.cnbeta.com.tw/view/1445276.htm)|
+||[凯特王妃正式官宣：已结束癌症化疗](https://m.cnbeta.com.tw/view/1445275.htm)|
+||[东风本田回应“裁员2000人”：阶段性调整](https://m.cnbeta.com.tw/view/1445274.htm)|
+||[为防中国企业加班 有德国办公楼周五下班后强制关电源](https://m.cnbeta.com.tw/view/1445273.htm)|
+||[华为三折叠设备专利已获授权 今日发布](https://m.cnbeta.com.tw/view/1445272.htm)|
+||[已成立30余年的天津三星公司注销 明年还要在中国裁员30%](https://m.cnbeta.com.tw/view/1445271.htm)|
+||[国产芯片企业华夏芯破产清算 域名等资产被公开拍卖](https://m.cnbeta.com.tw/view/1445270.htm)|
+||[美国二手车品牌可靠性排名公布：日系包揽前五、倒数全是美系](https://m.cnbeta.com.tw/view/1445269.htm)|
+||[微软向开发者推出Office插件开发工具包 VSC版 方便开发者们制作插件与加载项](https://m.cnbeta.com.tw/view/1445266.htm)|
+||[中国和印尼版Apple Watch S10不支持快速充电 充电器不兼容其它地区型号](https://m.cnbeta.com.tw/view/1445265.htm)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[年轻卵泡能恢复衰老卵母细胞发育潜力](https://www.solidot.org/story?sid=79210)|
+||[Redox OS 0.9.0 释出](https://www.solidot.org/story?sid=79209)|
+||[巴基斯坦科技行业对本国的防火墙忧心忡忡](https://www.solidot.org/story?sid=79208)|
+||[AMD 宣布统一 GPU 架构为 UDNA](https://www.solidot.org/story?sid=79207)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[城乡治理的困局与破局](https://www.huxiu.com/article/3452967.html?f=rss)|
+||[正常直接地谈论自杀，是预防自杀的关键](https://www.huxiu.com/article/3452587.html?f=rss)|
+|[张洪Heo](https://blog.zhheo.com/rss.xml)|[聊一聊Apple新品：iPhone16、Apple Watch S10、AirPods深度解析](https://blog.zhheo.com/p/ee67.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[“快乐大宝贝”李雯雯，举起卫冕奥运冠军重担](https://www.infzm.com/contents/278582)|
+||[头部带货主播辛巴与小杨哥“互撕”，源于市场逐渐饱和，竞争愈发激烈](https://www.infzm.com/contents/278564)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[黑客利用 GeoServer 漏洞植入后门和僵尸网络恶意软件](https://www.anquanke.com/post/id/299929)|
+||[北卡罗来纳州男子因涉嫌AI生成音乐欺诈在流媒体平台窃取版税面临刑事指控](https://www.anquanke.com/post/id/299933)|
+||[Progress Software 修复了 LoadMaster 中的一个严重漏洞（CVE-2024-7591）](https://www.anquanke.com/post/id/299936)|
+||[新的 Android SpyAgent 恶意软件使用 OCR 窃取加密钱包恢复密钥](https://www.anquanke.com/post/id/299939)|
+||[支付网关遭到网络攻击，170 万张信用卡信息泄露](https://www.anquanke.com/post/id/299941)|
+||[Veeam Backup & Replication 的远程代码执行漏洞可能很快会被勒索软件团伙利用](https://www.anquanke.com/post/id/299944)|
+||[Blind Eagle 威胁组织利用定制 Quasar RAT 攻击哥伦比亚保险业](https://www.anquanke.com/post/id/299947)|
+||[Akira 勒索软件行为者利用 SonicWall 漏洞实现远程代码执行](https://www.anquanke.com/post/id/299950)|
+||[新型RAMBO攻击利用RAM无线电信号从物理隔离网络中窃取数据](https://www.anquanke.com/post/id/299952)|
+||[吹响开学第一哨，北京邮电大学&360专业实习实训项目开班](https://www.anquanke.com/post/id/299955)|
+|[Xieisabug](https://www.xiejingyang.com/feed/)|[Weekly-03](https://www.xiejingyang.com/2024/09/10/weekly-03/)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[与贺锦丽辩论，特朗普将咆哮着走向失败](https://cn.nytimes.com/opinion/20240910/trump-kamala-harris-debate/)|
+||[苹果推出首款人工智能iPhone](https://cn.nytimes.com/technology/20240910/apple-event-iphone-16-watch/)|
+|[36氪](http://36kr.com/feed)|[聪明的钱丨新能源车，哪些方向不卷？](https://36kr.com/p/2943900195658370?f=rss)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[瑞幸的谐音梗文案，又又又上新了！](https://www.woshipm.com/share/6112732.html)|
+||[AI如何用在市场营销上？](https://www.woshipm.com/ai/6112706.html)|
+||[走上管理岗才明白：领导在意的压根不是你能不能干，而是值不值得信任](https://www.woshipm.com/zhichang/6112679.html)|
+||[订单和发货单要不要一致？](https://www.woshipm.com/share/6112658.html)|
+||[迪卡侬的私域，再也没能赚走我一分钱](https://www.woshipm.com/share/6112406.html)|
+||[关于视频云平台的思考](https://www.woshipm.com/share/6112372.html)|
+||[产品的力量：从理论到实践（二十五）](https://www.woshipm.com/share/6112424.html)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[萝卜快跑回应致外卖员身亡：不实，纯属恶意杜撰](https://www.ithome.com/0/794/817.htm)|
+||[粤港澳大湾区（内地、澳门）个人信息跨境流动标准合同实施指引发布](https://www.ithome.com/0/794/814.htm)|
+||[阿里云新加坡节点“崩了”，官方称当地机房出现火灾、正紧急处理](https://www.ithome.com/0/794/809.htm)|
+||[甲骨文、亚马逊 AWS 建立战略合作伙伴关系，联手推出数据库云服务产品](https://www.ithome.com/0/794/806.htm)|
+||[小米宣布雷士照明未来光全系产品已接入米家 App](https://www.ithome.com/0/794/797.htm)|
+||[台积电 2024 年 8 月销售额 2508.7 亿新台币，同比增长 33%](https://www.ithome.com/0/794/780.htm)|
+||[国行苹果 Apple Watch Series 10 /Ultra 2 / SE（第 2 代）智能手表附赠充电器不支持快充](https://www.ithome.com/0/794/779.htm)|
+||[B站宣布与世嘉 SEGA Fave 达成合作，获得 fuwa petit 系列产品在中国大陆的独家销售权](https://www.ithome.com/0/794/772.htm)|
+|[摄影世界](https://feedx.net/rss/photoworld.xml)|[回归体育本质｜巴黎奥运会拍摄手记](https://www.photoworld.com.cn/post/177694)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Boss AI - AI 邮件写作助手 iOS 美区内购限免 ](https://free.apprcn.com/boss-ai-2/)|
+||[Codye - 代码片段美化展示工具 macOS 内购限免 ](https://free.apprcn.com/codye/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[“产业数字化·模创新时代” 2024第八届上海人工智能大会 聚焦数字产业发展](https://www.jiqizhixin.com/articles/2024-09-10-8)|
+||[9月13日iPhone 16全系新品在天猫开启预售](https://www.jiqizhixin.com/articles/2024-09-10-7)|
+|[标志情报局](http://www.logonews.cn/feed)|[香港中华煤气更新标志，中文字「煤气」消失](https://www.logonews.cn/towngas-new-logo.html)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-10](https://decohack.com/producthunt-daily-2024-09-10/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[react-router-dom v6 如何根据数据动态渲染路由？](https://segmentfault.com/q/1010000045260545)|
+||[vue 2 自定义指令根据权限判断是否阻止事件执行？](https://segmentfault.com/q/1010000045260221)|
+||[idea使用git拉去github项目报错，但是用cmd就可以，为什么？](https://segmentfault.com/q/1010000045260202)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 7 部作品](https://sspai.com/post/92082)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 属于 Apple 历史的垃圾时间](https://www.v2ex.com/t/1071687#reply18)|
+||[  WATCH Apple Watch S10 和二手 Ultra2 你会选哪个](https://www.v2ex.com/t/1071679#reply12)|
+||[ 求职 jobA 还是 jobB](https://www.v2ex.com/t/1071664#reply18)|
+||[ 程序员 谈谈大家对微前端的看法](https://www.v2ex.com/t/1071651#reply15)|
+||[ macOS 1Password 为什么骂人？](https://www.v2ex.com/t/1071649#reply13)|
+||[ Apple 为什么一定要弄这么不符合国人审美 丑 的模特拍照给国人看？有几张图丑已经不能形容了，有点儿让我觉得恶心生理不适。](https://www.v2ex.com/t/1071644#reply21)|
+||[ 问与答 除了 AirPods 还有哪个蓝牙耳机可以方便的在多个设备之间切换呢？](https://www.v2ex.com/t/1071637#reply25)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[李斌是「理想主义者」，也是商人](https://www.leiphone.com/category/transportation/fjqgAy35Bdg51AlH.html)|
+||[AI芯片公司知合计算完成数亿元融资；大乌龙！高盛误判ChatGPT流量下滑引发市场恐慌丨AI情报局](https://www.leiphone.com/category/ai/65hvAU6gh7fznh5A.html)|
+||[曝德国办公楼周五下班强制拉闸断电，不允许中国企业周末加班；苹果发布iPhone 16系列，5999元起售；百度否认放弃通用大模型丨雷峰早报](https://www.leiphone.com/category/zaobao/mujH1avldh2rg3Da.html)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[Q.Z.: @无聊图](http://i.jandan.net/t/5751317)|
+||[万寿无疆: @无聊图](http://i.jandan.net/t/5751292)|
+||[开玩喜: @无聊图](http://i.jandan.net/t/5751245)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5751225)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[Apple Watch 和 AirPods Pro 2 提供突破性睡眠和聽力檢測](https://www.iphonetaiwan.org/2024/09/apple-health-features-sleep-apnea-hearing-aid.html)|
+||[Apple Watch Ultra 2 黑色鈦金屬版，瞄準高端市場與運動用戶](https://www.iphonetaiwan.org/2024/09/apple-watch-ultra-2-black-titanium.html)|
+||[蘋果宣布：Apple Intelligence下月登陸iPhone、iPad與Mac](https://www.iphonetaiwan.org/2024/09/apple-intelligence-ai-ios18-new-features.html)|
+||[【影片欣賞】3 分 49 秒看完 98 分鐘 iPhone 16 發表會](https://www.iphonetaiwan.org/2024/09/apple-september-event-highlights-iphone16.html)|
+||[【影片欣賞】iPhone 16和iPhone 16 Pro有何不同？如何選擇](https://www.iphonetaiwan.org/2024/09/iphone-16-series-new-features.html)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[东南亚，中国老板真正的福地](https://www.tmtpost.com/7244983.html)|
 ||[快手本地生活的“局部战争”](https://www.tmtpost.com/7244942.html)|
 ||[华熙生物再难“称王”](https://www.tmtpost.com/7244491.html)|
