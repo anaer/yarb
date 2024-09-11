@@ -2,6 +2,62 @@
 
 |来源|标题|
 |---|---|
+|[张小凯的博客](https://jasonkayzk.github.io/atom.xml)|[Excel通过身份证号列计算性别](https://jasonkayzk.github.io/2024/09/11/Excel%E9%80%9A%E8%BF%87%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E5%88%97%E8%AE%A1%E7%AE%97%E6%80%A7%E5%88%AB/)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[长三角观察｜各地竞逐人形机器人：沪杭锡领跑，区县跃跃欲试](https://m.thepaper.cn/detail/28701700)|
+||[国新办发布会丨介绍中国—东盟经贸合作情况](https://m.thepaper.cn/detail/28703029)|
+||[哈里斯与特朗普举行首场电视辩论，将持续90分钟](https://m.thepaper.cn/detail/28702507)|
+||[台风“摩羯”及其后续影响在越南已致141人死亡、59人失踪](https://m.thepaper.cn/detail/28702998)|
+||[上海商场、交通枢纽等场所的“母婴室”靠不靠谱？记者走访](https://m.thepaper.cn/detail/28702119)|
+||[著名油画家、上海油画雕塑院一级美术师马宏道逝世，享年81岁](https://m.thepaper.cn/detail/28702489)|
+||[第79届联合国大会在纽约联合国总部开幕](https://m.thepaper.cn/detail/28701560)|
+||[8架C919投入商业飞行，专家：我国民航业实现运力自主可控](https://m.thepaper.cn/detail/28701583)|
+||[五问国足：为何坚持用联赛机制？为何成年人踢不出一个样子？](https://m.thepaper.cn/detail/28701581)|
+||[握手开辩！哈里斯特朗普开启关键对决](https://m.thepaper.cn/detail/28702523)|
+||[上海共有教职工34.12万人：中小学正高级教师900名、特级校长300名](https://m.thepaper.cn/detail/28701648)|
+||[东方英才说｜顾捷：让人形机器人成为下一代智能终端](https://m.thepaper.cn/detail/28178446)|
+||[澎湃AI早新闻丨2024年9月11日](https://m.thepaper.cn/detail/28702545)|
+||[中介因业绩差偷卖房东6台空调，非法获利两千余元被提起公诉](https://m.thepaper.cn/detail/28695622)|
+||[江苏22岁小伙勇救落水女孩，自己却没能上来](https://m.thepaper.cn/detail/28665968)|
+||[在雨中，俞湘君“彼岸”6.0钢琴超媒体音乐会一亲自然](https://m.thepaper.cn/detail/28691643)|
+||[首位为《义勇军进行曲》配器作曲家，上海交响乐团要纪念他](https://m.thepaper.cn/detail/28692788)|
+||[美国大选 哈里斯还要走多远，才能抵达白宫？](https://m.thepaper.cn/detail/28701527)|
+||[多位院士热议“超材料”：可与AI相结合实现具身智能的未来](https://m.thepaper.cn/detail/28696175)|
+||[湖北恩施一洒水车撞倒左转骑车人致其身亡，是否抢灯引争议](https://m.thepaper.cn/detail/28701629)|
+||[男子捡手机试出密码狂刷四千元被抓](https://m.thepaper.cn/detail/28668687)|
+||[时政微纪录丨总书记眼中的“大先生”](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=10449256732989516478&toc_style_id=feeds_default&track_id=F00B6D3B-CAC8-4094-B7BD-4AE7DCEF99DF_747663285197&share_to=copy_url)|
+|[极道](https://www.jdon.com/jivejdon/rss)|[Chai-1 击败 AlphaFold 3](https://www.jdon.com/75381.html)|
+||[生育能力下降可能因为卵母细胞水平下降](https://www.jdon.com/75380.html)|
+||[为何说ampk是刹车mTor是油门？](https://www.jdon.com/75379.html)|
+|[蓝点网](https://www.landiannews.com/feed)|[为弥补财务问题传OpenAI考虑将订阅价格提升990%到2000美元/月](https://www.landiannews.com/archives/105798.html)|
+||[Windows 11 22H2版将在下月结束支持 微软从10月8日起开始强制更新](https://www.landiannews.com/archives/105808.html)|
+||[微软正式推出Xbox Game Pass标准版订阅 每月14.99美元提供更多游戏福利](https://www.landiannews.com/archives/105814.html)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[顺风车市场再起风云：高德、T3加入战局，滴滴嘀嗒哈啰如何应对？](https://www.tmtpost.com/7246060.html)|
+||[拼多多偶像--Costco 正是零售 “人间理想型”？](https://www.tmtpost.com/7245680.html)|
+||[大厂硬件梦：字节、腾讯“向首”，华为、小米“向手”](https://www.tmtpost.com/7245690.html)|
+||[联想创投合伙人王光熙：人形机器人的市场预期，短期过于乐观而长期过于悲观](https://www.tmtpost.com/7245747.html)|
+||[TCL空调：智慧健康是第三代空调需要解决的问题｜科技前线](https://www.tmtpost.com/7245409.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 加密货币 被大 A 伤透了心，准备去币圈当韭菜了，请大佬给点建议](https://www.v2ex.com/t/1071889#reply22)|
+||[ 问与答 想了解一下有多少 iPhone 转安卓的？](https://www.v2ex.com/t/1071885#reply18)|
+||[ Apple 某些国人对苹果广告的被害妄想](https://www.v2ex.com/t/1071875#reply44)|
+||[ 问与答 IOS 为啥不支持版本降级（越狱除外）](https://www.v2ex.com/t/1071873#reply12)|
+||[ 问与答 华为 Mate XT 的受众用户是哪些？](https://www.v2ex.com/t/1071871#reply37)|
+||[ 生活 没有那方面的欲望怎么办？](https://www.v2ex.com/t/1071870#reply35)|
+||[ 职场话题 养老金计算公式的疑问](https://www.v2ex.com/t/1071864#reply31)|
+||[ 问与答 你们觉得微信还能活几年？](https://www.v2ex.com/t/1071863#reply58)|
+||[ iPhone 纠结 16 Pro 还是 16 Pro Max](https://www.v2ex.com/t/1071861#reply18)|
+||[ 问与答 准备装机，大佬帮忙看看配置](https://www.v2ex.com/t/1071860#reply23)|
+||[ 问与答 iPhone 转安卓，求推荐一款安卓手机](https://www.v2ex.com/t/1071857#reply29)|
+||[ 宽带症候群 无公网， qbittorrent 是否可以用 frp 提高上传？](https://www.v2ex.com/t/1071856#reply15)|
+||[ 咖啡 上班携带咖啡用什么容器 ?](https://www.v2ex.com/t/1071855#reply43)|
+||[ iPhone iPhone16 的摄像键会不会误触啊](https://www.v2ex.com/t/1071853#reply11)|
+||[ Linux 有没有发现 Linux 桌面的操作响应速度全面秒杀 win 11](https://www.v2ex.com/t/1071851#reply41)|
+||[ 问与答 请教大家一个点阵激光问题](https://www.v2ex.com/t/1071850#reply12)|
+||[ iPhone 我宣布，继 Intel 之后， Apple 成为下一个牙膏厂。](https://www.v2ex.com/t/1071849#reply18)|
+||[ 问与答 医保断交三个月以上，现在开始交什么时候可以医保统筹报销](https://www.v2ex.com/t/1071848#reply20)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[AMD 宣布统一 GPU 架构为 UDNA](https://www.oschina.net/news/311443)|
+||[openKylin 社区生态委员会第八次会议圆满召开](https://www.oschina.net/news/311438)|
+|[36氪](http://36kr.com/feed)|[荣耀CEO赵明：如果5年前折叠屏就是Magic V3的样子，市场早就爆了](https://36kr.com/p/2943958568622723?f=rss)|
+||[特朗普带火的安克创新，上半年赚了8个亿 焦点分析](https://36kr.com/p/2944425372212100?f=rss)|
 |[V2EX](http://www.v2ex.com/index.xml)|[ iPhone 纠结 16 Pro 还是 16 Pro Max](https://www.v2ex.com/t/1071861#reply13)|
 ||[ 咖啡 上班携带咖啡用什么容器 ?](https://www.v2ex.com/t/1071855#reply26)|
 ||[ Linux 有没有发现 Linux 桌面的操作响应速度全面秒杀 win 11](https://www.v2ex.com/t/1071851#reply21)|
