@@ -2,6 +2,144 @@
 
 |来源|标题|
 |---|---|
+|[InfoQ 推荐](https://plink.anyfeeder.com/infoq/recommend)|[微软如何完成AI转型？微软中国CTO韦青亲述：我们需要的不是一个无所不知的模型](https://www.infoq.cn/article/68NmXXFxrZObFEvICIKd)|
+||[三个月建成“世界最大”Nvidia GPU 计算集群，马斯克：不够，还要再加10万个](https://www.infoq.cn/article/NmjtW9BeY7HaN8dHLPRM)|
+||[走近张大鹏教授：哈工大走出的中国第一位人工智能博士](https://www.infoq.cn/article/yMDtbBbGAEPSLhPZDttm)|
+||[面壁小钢炮 3.0 重磅发布！“无限”长文本，性能超 Kimi](https://www.infoq.cn/article/3bmauitUuaQ3d9vmlKrp)|
+||[Android全力押注Rust，Linux却在原地踏步？谷歌：用Rust重写固件太简单了！](https://www.infoq.cn/article/9z7OYVi315St03g6AJtt)|
+||[中小银行如何通过组织力建设与人才培养，构建转型组织保障体系](https://www.infoq.cn/article/60DUTuHAoPdaAKFo2xsg)|
+||[如何应对企业架构中的复杂度问题？](https://www.infoq.cn/article/MRDjtXsuaj25Hr9E5Sjw)|
+||[Gödel Scheduler 性能优化: 算法设计思想与数据结构应用](https://www.infoq.cn/article/FAGgYDQPmsB0Dmcth5GU)|
+|[iOS - 反斗限免](http://free.apprcn.com/category/ios/feed/)|[Duplete - 相似照片删除工具 iPhone 内购限免 ](https://free.apprcn.com/duplete/)|
+|[IT之家](https://www.ithome.com/rss/)|[奔驰携手 Factorial 推出新型全固态电池：能量密度达 450Wh/kg，2030 年前投产](https://www.ithome.com/0/795/151.htm)|
+||[百度地图发布北斗高精车道级导航 3.0，覆盖全国超 4.1 万城乡镇](https://www.ithome.com/0/795/150.htm)|
+||[英飞凌实现全球首个 300mm 功率氮化镓 GaN 晶圆技术](https://www.ithome.com/0/795/148.htm)|
+||[消息称三星电子开启海外裁员，部分部门裁员幅度高达 30%](https://www.ithome.com/0/795/146.htm)|
+||[京东方 MLED 生产基地落户珠海，预计明年一季度全面量产](https://www.ithome.com/0/795/143.htm)|
+||[宁德时代回应“江西锂矿停产”：根据市场情况对生产进行调整](https://www.ithome.com/0/795/140.htm)|
+||[微星 X870 E 主板配备 8Pin PCIe 补充供电口，支持 ATX 3.1，9 月 26 日上市](https://www.ithome.com/0/795/136.htm)|
+||[深圳机器人企业数量全国居首，共 5.11 万家](https://www.ithome.com/0/795/132.htm)|
+||[消息称抖音生活服务市场营销负责人王丁虓离职](https://www.ithome.com/0/795/131.htm)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[说说唯一 ID 与 CAS](https://my.oschina.net/u/5783135/blog/15742076)|
+||[Apache Doris Flink Connector 24.0.0 版本正式发布](https://www.oschina.net/news/311505/doris-flink-connector-24-0-0)|
+||[鸿蒙生态繁荣背后：WPS 全面适配 HarmonyOS NEXT 的故事](https://www.oschina.net/news/311492)|
+||[李彦宏内部讲话曝光：谈大模型三大认知误区，未来模型之间的差距会变大](https://www.oschina.net/news/311486)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[WordPress优化加速插件–FlyingPress v4.14.4 破解版](https://www.cheshirex.com/8658.html)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[海内外集体暴涨，存储行业又可以了？](http://www.huxiu.com/article/3454477.html?f=wangzhan)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[特朗普与哈里斯首次激辩，该如何解读？](https://www.huxiu.com/article/3456693.html?f=rss)|
+||[号称百分百就业率的殡葬专业到底香不香？](https://www.huxiu.com/article/3456695.html?f=rss)|
+||[Cursor创始人万字访谈：全球爆火的AI编程应用是怎么炼成的？](https://www.huxiu.com/article/3456683.html?f=rss)|
+||[突击检查：你家微波炉多久没擦了？](https://www.huxiu.com/article/3457044.html?f=rss)|
+||[不给小学生吹空调，何必没苦硬吃呢](https://www.huxiu.com/article/3456668.html?f=rss)|
+||[海伦司走向三线城市](https://www.huxiu.com/article/3456698.html?f=rss)|
+||[位于“极北之地”的金字塔：神话中的许珀尔波瑞亚？](https://www.huxiu.com/article/3455368.html?f=rss)|
+||[《指环王》新剧开播，亚马逊押宝再失策](https://www.huxiu.com/article/3455180.html?f=rss)|
+||[一次认知的微调：很小，但很重要](https://www.huxiu.com/article/3456678.html?f=rss)|
+||[“不备货、更不可能压货”，牛奶经销商为何放弃中秋市场？](https://www.huxiu.com/article/3456677.html?f=rss)|
+||[折叠后有多厚？华为Mate XT三折叠手机现场体验](https://www.huxiu.com/article/3455770.html?f=rss)|
+||[土味短剧调转“枪口”，开始对准中老年人](https://www.huxiu.com/article/3455754.html?f=rss)|
+||[认清“雪球”产品的真相](https://www.huxiu.com/article/3456661.html?f=rss)|
+||[AI可能造成人类灭绝，真的还是炒作？](https://www.huxiu.com/article/3455809.html?f=rss)|
+||[如何正确利用名校光环？](https://www.huxiu.com/article/3456676.html?f=rss)|
+||[用momo当马甲的年轻人，集体改名叫“关雅荻”](https://www.huxiu.com/article/3456671.html?f=rss)|
+||[价格战、规模战背后，茶饮品牌的“速”与“序”](https://www.huxiu.com/article/3455769.html?f=rss)|
+||[高管裸辞，老板不放](https://www.huxiu.com/article/3455756.html?f=rss)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[XDM今天生日自己奖励自己点啥好呢](https://www.coolapk.com/feed/58797471?shareKey=MGFiODA2NWNhY2RkNjZlMTY0NzI~)|
+||[华为FreeBuds 6i触控手势怎么操作？](https://www.coolapk.com/feed/58797384?shareKey=MjI0ZjBlYjBjNTY4NjZlMTY0NzI~)|
+||[不能充电的影腾充电宝补全充电功能](https://www.coolapk.com/feed/58796340?shareKey=ZTZkN2IwMTI3YjUwNjZlMTY0NzI~)|
+||[以Online形式三个月拿到佐治亚在线硕士](https://www.coolapk.com/feed/58796118?shareKey=ZmE4N2I4NDBiZGZhNjZlMTY0NzI~)|
+||[为什么我选择了apple watch s8–iwatch开箱+选购建议](https://www.coolapk.com/feed/58795728?shareKey=YmQxOGRiMjFkMWViNjZlMTY0NzI~)|
+||[开屏启动应用的防跳转功能的设置小技巧 ColorOS14 ](https://www.coolapk.com/feed/58795378?shareKey=ZDU3NTQ2ZDAxOTUyNjZlMTY0NzI~)|
+||[方程豹豹8，首个支持华为三折叠屏新机UWB的车型](https://www.coolapk.com/feed/58794231?shareKey=YWFlZDAwOGE2N2JjNjZlMTY0NzI~)|
+||[游戏爱好者狂喜！这是入门级游戏耳机的表现？竹林鸟麒麟深度测评](https://www.coolapk.com/feed/58794617?shareKey=NGIwZGRlZjMyMzg0NjZlMTY0NzI~)|
+||[9.11 卡贴角色壁纸 多图](https://www.coolapk.com/feed/58794605?shareKey=YzYxNzVjYWU0MjM0NjZlMTY0NzI~)|
+||[最近折腾了奔驰的车机互联。](https://www.coolapk.com/feed/58794331?shareKey=ZDg2YzFkYzBlOWZjNjZlMTY0NzI~)|
+||[9.11 插画壁纸 多图 2](https://www.coolapk.com/feed/58794317?shareKey=OTJhMjZhNWYzYmY1NjZlMTY0NzI~)|
+||[想不到我还是太年轻了](https://www.coolapk.com/feed/58794199?shareKey=ZTUzYmFiODQ3NTY2NjZlMTY0NzI~)|
+||[9.11 风景壁纸 多图](https://www.coolapk.com/feed/58794113?shareKey=MzBkMjcwZjA4YThiNjZlMTY0NzI~)|
+||[华为，真有你的！](https://www.coolapk.com/feed/58793690?shareKey=ZGQ5ZjM0YjY5MGU1NjZlMTY0NzI~)|
+||[9.11 文字壁纸 多图](https://www.coolapk.com/feed/58793908?shareKey=ZDM5M2IxY2JkMzgzNjZlMTY0NzI~)|
+||[9.11 插画壁纸 多图](https://www.coolapk.com/feed/58793792?shareKey=NDg0ZWIxOTFjYTEwNjZlMTY0NzI~)|
+||[经典都是满满的回忆，无论黑白还是彩色。](https://www.coolapk.com/feed/58793602?shareKey=MThiOWRiMGM2M2E0NjZlMTY0NzI~)|
+||[解锁低价新车车](https://www.coolapk.com/feed/58793522?shareKey=ODMwYjE1MzU5MTVjNjZlMTY0NzI~)|
+||[美妆线报回收档口](https://www.coolapk.com/feed/58792822?shareKey=NmFhZjE2N2RmODQ4NjZlMTY0NzI~)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[在Electron中，是否默认情况下，一般都是只有一个window？](https://segmentfault.com/q/1010000045264350)|
+||[el-table自定义列模板使用el-tag或者el-button会出现省略号。这是bug吗,是怎么回事?](https://segmentfault.com/q/1010000045264302)|
+||[Chrome扩展如何添加自定义Referer头信息以通过服务器验证？](https://segmentfault.com/q/1010000045264178)|
+||[小程序中WebView页面为何出现自动生成的返回按钮？如何去除？](https://segmentfault.com/q/1010000045264150)|
+||[tsconfig.json中的files字段的理解？](https://segmentfault.com/q/1010000045263646)|
+||[H5页面背景图片布局，盒子高度如何计算，能做到高度响应式展示?](https://segmentfault.com/q/1010000045263627)|
+||[如何在uni-app中自定义previewImage预览图片的关闭按钮样式？](https://segmentfault.com/q/1010000045263554)|
+||[nextjs 服务器端渲染的问题?](https://segmentfault.com/q/1010000045262984)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 程序员纠结 Macbook pro 买 M3 + 24g 还是 M3 pro+18g](https://www.v2ex.com/t/1072080#reply14)|
+||[ 职场话题 大专应届，有项目但是还是找不到，为什么](https://www.v2ex.com/t/1072053#reply19)|
+||[ 摄影 现在底大一级压死人还有意义吗？](https://www.v2ex.com/t/1072049#reply12)|
+||[ 问与答 求推荐不会卡档的，内裤](https://www.v2ex.com/t/1072044#reply16)|
+||[ 汽车 记一次与非机动车的交通事故（16 年驾龄来的第一次交通事故）](https://www.v2ex.com/t/1072035#reply11)|
+||[ 问与答 移动端学后端，装个 MySQL 一直报错，到 start the server 一直过不去，能搜到的解决办法都试了](https://www.v2ex.com/t/1072025#reply74)|
+||[ 程序员 江湖救急！公司内网开移动热点问题](https://www.v2ex.com/t/1072020#reply14)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[Q.Z.: @无聊图](http://i.jandan.net/t/5752192)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5752173)|
+||[也許似乎大概: @无聊图](http://i.jandan.net/t/5752129)|
+||[WCNMBCSN: @无聊图](http://i.jandan.net/t/5752123)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5752119)|
+||[Lepisma: @无聊图](http://i.jandan.net/t/5752115)|
+||[咕咕咕: @无聊图](http://i.jandan.net/t/5752110)|
+||[Lepisma: @无聊图](http://i.jandan.net/t/5752109)|
+||[LonelyTinker: @无聊图 今天我去送了一位9年老朋友最后一程，把它从交警的扣车场取了出来。它是我的第一辆车，我儿子很喜欢它，亲昵地叫它小白车。 前几天我妹开...](http://i.jandan.net/t/5752104)|
+||[猫猫123: @无聊图](http://i.jandan.net/t/5752103)|
+||[Lepisma: @无聊图](http://i.jandan.net/t/5752101)|
+||[老酸奶: @无聊图](http://i.jandan.net/t/5752047)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[CASETiFY 全新 iPhone 16 系列防摔手機殼與 Apple Watch 錶帶 集防護力、功能性、風格力於一體的極致穿戴體驗！](https://applefans.today/2024-09-casetify-iphone-16-case/)|
+||[AirPods Pro 2 韌體更新：支援點頭、搖頭、遊戲化個人音訊](https://applefans.today/2024-09-airpods-pro-2-new-firmware-update/)|
+||[Beats 為 iPhone 16 新機推出全新的 MagSafe 保護殼](https://applefans.today/2024-09-beats-iphone-16-case/)|
+||[iOS 18 更新時間 已確定！更新前你應該注意的 6 件事](https://applefans.today/2024-09-what-to-do-before-ios-18-upgrade/)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[证书满天飞，碳认证遭“大扫除”](https://www.infzm.com/contents/278667)|
+||[天气破纪录的夏天](https://www.infzm.com/contents/278672)|
+||[教育财政应“以孩子为中心”丨快评](https://www.infzm.com/contents/278669)|
+||[免费盒饭？汕头这个饭堂全年无休奉献爱心超过八年](https://www.infzm.com/contents/278620)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[贾跃亭称苹果正变得平庸：离开乔布斯 越来越像失去灵魂的巨人](https://m.cnbeta.com.tw/view/1445438.htm)|
+||[俄罗斯将斥资590亿卢布封杀VPN](https://m.cnbeta.com.tw/view/1445436.htm)|
+||[监控视频记录理想L9自动泊车失败：车辆驶入马路中央](https://m.cnbeta.com.tw/view/1445434.htm)|
+||[大众帕萨特上市发布会演示AI语音助手翻车：问米线却回答座椅靠背](https://m.cnbeta.com.tw/view/1445432.htm)|
+||[提现5万收50元 研究生起诉微信提现手续费高](https://m.cnbeta.com.tw/view/1445431.htm)|
+||[联邦法官认为犹他州限制社交媒体的立法可能违反美国宪法第一修正案](https://m.cnbeta.com.tw/view/1445429.htm)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[打工，没有什么公平可言](https://www.jianshu.com/p/cf145f1f4530)|
+||[《龙之主》16](https://www.jianshu.com/p/c9a99b4efe24)|
+||[周末在家干啥，画画🤔](https://www.jianshu.com/p/d65f4ad3e3ef)|
+||[又一次想起了海子](https://www.jianshu.com/p/93d4f12c324c)|
+||[每个人的条件、资源和能力都各不相同，别人的答案只能作为参考，你得学会自己做判断](https://www.jianshu.com/p/b40f09c3e25b)|
+||[散文‖竹](https://www.jianshu.com/p/d5b3a3fb1421)|
+||[新邻居03](https://www.jianshu.com/p/d57c0ced22bd)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Tipard DVD Creator – DVD 镜像制作工具 Windows $35→0 ](https://free.apprcn.com/tipard-dvd-creator-8/)|
+|[少数派](http://sspai.me/feed)|[开学季 学习不止在课堂：这些方法和技巧帮你做好知识管理](https://sspai.com/post/68623)|
+|[虎嗅](https://rss.huxiu.com/)|[《黑神话》悟空变美女：二创让游戏更自由？](https://www.huxiu.com/article/3457097.html?f=rss)|
+||[0:7，中国男足输球还有底线吗？](https://www.huxiu.com/article/3453434.html?f=rss)|
+||[掘金中东：多极化的未来十年](https://www.huxiu.com/article/3457075.html?f=rss)|
+||[iPhone16上的究极按键](https://www.huxiu.com/article/3457281.html?f=rss)|
+||[摊牌了，大众汽车终止了30多年的就业保障协议](https://www.huxiu.com/article/3457095.html?f=rss)|
+||[印度设备连夜搬回中国，富士康又来“赏饭”了？](https://www.huxiu.com/article/3456680.html?f=rss)|
+||[台风“摩羯”刮跑文昌鸡，椰子鸡品牌遭殃？](https://www.huxiu.com/article/3457090.html?f=rss)|
+||[为什么人体工学椅，不一定能帮到你](https://www.huxiu.com/article/3454490.html?f=rss)|
+||[多家出版单位布局游戏产业，这个赛道能赚钱吗？](https://www.huxiu.com/article/3457083.html?f=rss)|
+||[国有行股价将进入“上下摆动”区间](https://www.huxiu.com/article/3457061.html?f=rss)|
+||[地理决定了英国的命运？](https://www.huxiu.com/article/3456230.html?f=rss)|
+||[电摩出海，东南亚向左，大马向右](https://www.huxiu.com/article/3457060.html?f=rss)|
+||[“你的人生，根本不需要长远的职业规划”](https://www.huxiu.com/article/3456224.html?f=rss)|
+||[华为三折叠手机价格算贵吗？](https://www.huxiu.com/article/3456214.html?f=rss)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[西班牙首相呼吁欧盟重新考虑对华电动汽车关税](http://www.ftchinese.com/story/001104185)|
+||[日本制铁高管为收购交易作最后努力](http://www.ftchinese.com/story/001104183)|
+||[美国称俄罗斯帮助中国发展军事技术](http://www.ftchinese.com/story/001104182)|
+||[美联储拟将大银行资本上调要求减半](http://www.ftchinese.com/story/001104179)|
+|[smallyu的博客](https://smallyu.net/atom.xml)|[最近找工作的记录](https://smallyu.net/2024/09/11/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI这个「狗头军师」，教年轻人说「土味情话」贼油腻](https://www.jiqizhixin.com/articles/2024-09-11-7)|
+||[超越AlphaFold3，OpenAI投资的AI生物初创发布Chai-1，分子结构预测新SOTA](https://www.jiqizhixin.com/articles/2024-09-11-6)|
+||[Scaling Law瓶颈，Cursor编程为什么这么强？团队参与新研究掏出秘密武器](https://www.jiqizhixin.com/articles/2024-09-11-5)|
+||[召唤100多位学者打分，斯坦福新研究：「AI科学家」创新确实强](https://www.jiqizhixin.com/articles/2024-09-11-4)|
+||[OpenAI「草莓」两周内发布？网传不是多模态，反应慢了10多秒](https://www.jiqizhixin.com/articles/2024-09-11-3)|
+||[iPhone16跑分泄露，8G内存，A18多核不敌上上代A16，网友：假的吧](https://www.jiqizhixin.com/articles/2024-09-11-2)|
+||[ACL杰出论文奖｜GPT-4V暴露致命缺陷？JHU等发布首个多模态ToM 测试集，全面提升大模型心智能力](https://www.jiqizhixin.com/articles/2024-09-11)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[iPhone 16 Pro 四種鈦金屬顏色怎麼選？看完不再掙扎](https://www.iphonetaiwan.org/2024/09/iphone-16-pro-color-choice-advice.html)|
 |[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[消息称三星电子再获 2nm 订单，为安霸 Ambarella 代工高级驾驶辅助系统芯片](https://www.ithome.com/0/795/074.htm)|
 ||[知情人士回应“东风本田裁员补偿 N+2+1”：内部不希望传播补偿方案让其他企业效仿](https://www.ithome.com/0/795/071.htm)|
 |[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[假冒银行，高频外呼，精准获客：贷款中介何以打爆你的电话？](https://www.infzm.com/contents/278663)|
