@@ -2,6 +2,80 @@
 
 |来源|标题|
 |---|---|
+|[掘金 前端](https://rsshub.app/juejin/category/frontend)|[APP 全屏适配方案](https://juejin.cn/post/7412861986017902642)|
+||[哈士奇的学习笔记：聊聊闭包和它的应用场景](https://juejin.cn/post/7412901346355822604)|
+||[前端工程化：使用 lint-staged 实现高效代码检查😉😉😉](https://juejin.cn/post/7412931320067735593)|
+||[200美金/月 OpenAI新模型-草莓？](https://juejin.cn/post/7412893752090820618)|
+||[APP端 用户来源追踪接入友盟SDK实现参数传递](https://juejin.cn/post/7412936177042636838)|
+||[11.纯函数及柯里化](https://juejin.cn/post/7412922870521856000)|
+||[一文搞懂 TS中 函数、枚举、别名 TypeScript 入门指南 06](https://juejin.cn/post/7412894237018325031)|
+||[性能优化之数据层方案](https://juejin.cn/post/7412899060827897907)|
+||[JavaScript 访问者模式：打造高扩展性的对象结构](https://juejin.cn/post/7412906006537388071)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[华为推出三折叠屏手机Mate XT，售价19999元起](https://cn.nytimes.com/technology/20240911/huawei-trifold-iphone/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[叶甜春：中国不能抛弃全球化，国产“替代”不是中国芯片产业发展主题｜硅基世界](https://www.tmtpost.com/7246354.html)|
+||[Tesla Confirms Plan to Roll Out FSD in China in Q1 2025](https://www.tmtpost.com/7246299.html)|
+||[独家 山姆会员店对线上业务的最新回应](https://www.tmtpost.com/7246306.html)|
+||[狼人降温，土味逆袭风起，60万DAU的短剧厂商如何做投放？](https://www.tmtpost.com/7245880.html)|
+||[酒店人员优化的大刀，竟挥向了总经理](https://www.tmtpost.com/7246067.html)|
+||[瑞士机器人科技公司ANYbotics研发四足自主机器人，实现工业检测自动化 瑞士创新100强](https://www.tmtpost.com/7246171.html)|
+||[“急诊医生”胖东来，救不了中国超市零售业｜钛媒体·封面](https://www.tmtpost.com/7240480.html)|
+||[新实控人“失联”阴影笼罩，创兴资源三重危机袭来](https://www.tmtpost.com/7246015.html)|
+||[Huawei Launches World's First Trifold Smartphone Right after iPhone 16 Release](https://www.tmtpost.com/7246192.html)|
+||[麦德龙连关4家会员店背后的深层次危机](https://www.tmtpost.com/7245738.html)|
+||[《雪迷宫》：悬疑剧如何融入东北人的幽默与生活](https://www.tmtpost.com/7245854.html)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[阻冲之: @无聊图](http://i.jandan.net/t/5752039)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5752026)|
+||[Mr_C: @无聊图](http://i.jandan.net/t/5752018)|
+||[香菇菜鸡: @无聊图](http://i.jandan.net/t/5752008)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5751997)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5751987)|
+||[阻冲之: @无聊图](http://i.jandan.net/t/5751980)|
+||[咩咩熊: @无聊图](http://i.jandan.net/t/5751936)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5751877)|
+||[饕餮: @无聊图](http://i.jandan.net/t/5751874)|
+||[饕餮: @无聊图](http://i.jandan.net/t/5751870)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[沙特资本，阳谋中国炼化](https://www.huxiu.com/article/3455778.html?f=rss)|
+||[中国男足浪费纳税人的钱了吗？](https://www.huxiu.com/article/3456199.html?f=rss)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[微软警告正在利用的 0day 会回滚安全补丁](https://www.solidot.org/story?sid=79219)|
+||[索尼宣布售价 700 美元的 PS5 Pro](https://www.solidot.org/story?sid=79218)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[全职做自由职业独立开发者是一种什么体验？我的全职独立开发半年体验分享](https://w2solo.com/topics/5022)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[开学前夕遭遇业主强拆，一所职中的租赁办学困境](https://www.infzm.com/contents/278658)|
+||[上海最大居民小区“炒掉物业“｜政经十事](https://www.infzm.com/contents/278650)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[DeepMind 危，OpenAI 押注成立六个月 AI 药物发现公司；四川具身人形机器人科技公司成立，彭倍教授牵头丨AI情报局](https://www.leiphone.com/category/ai/BtmmNB2jwvK21D4A.html)|
+||[从工业雷达，看海康的场景数字化是怎样「炼成」的](https://www.leiphone.com/category/mandigital/yv9edSCEMLQtKUuE.html)|
+||[华为三折叠手机最高被炒到10万；杭州外卖员猝死，知情人：一天干16个小时、跑够五百块才下班；阿里25周年，马云内网发声丨雷峰早报](https://www.leiphone.com/category/zaobao/m4ZmKSr3h4gPY8Dn.html)|
+|[标点符](http://feeds.feedburner.com/biaodianfu)|[Python标准库学习之枚举enum](https://www.biaodianfu.com/python-enum.html)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[Namecheap域名注册优惠net域名4.48美元年（31.89人民币）](https://www.cheshirex.com/8656.html)|
+|[虹线](https://1q43.blog/feed)|[记录一次濒死体验](https://1q43.blog/post/7757)|
+|[V2EX](https://v2ex.com/index.xml)|[ 教育 我最近发现中国大城市的教育质量反而不如 20 多年前我自己读书时候！](https://www.v2ex.com/t/1071947#reply51)|
+||[ iPhone 关于日版 iPhone 16 系列的一些总结](https://www.v2ex.com/t/1071944#reply20)|
+||[ 问与答 同居期间女朋友上厕所反锁门](https://www.v2ex.com/t/1071941#reply70)|
+||[ iPhone 港版 iPhone 16 的大语言模型供应商会是哪家](https://www.v2ex.com/t/1071927#reply21)|
+||[ 问与答 求个便宜好用的机场，目前用的涨价了](https://www.v2ex.com/t/1071926#reply19)|
+||[ 生活 丰巢靠快递柜滞留金三年半营收 8 个亿 附 永久取消丰巢入柜 指南 ](https://www.v2ex.com/t/1071921#reply39)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775395)|
+||[淝水之战后东晋为什么没能乘胜灭掉前秦，或者至少收复西晋失地？](https://daily.zhihu.com/story/9775380)|
+||[数学中有哪些巧合让人眼前一亮？](https://daily.zhihu.com/story/9775390)|
+||[沙子的供不应求会带来哪些影响？](https://daily.zhihu.com/story/9775379)|
+|[36氪](https://www.36kr.com/feed)|[让不足百元的AI数字人替人打工，风平智能获近亿元A轮系列融资 智涌首发](https://36kr.com/p/2945188216248966?f=rss)|
+||[奔驰展示全新固态电池，美国电动车增速放缓 ｜ 海外日报](https://36kr.com/p/2945091298925449?f=rss)|
+|[爱范儿](https://www.ifanr.com/feed)|[Phone 16 选购指南，4 款机型这样买最省钱｜附全系新品购买建议](https://www.ifanr.com/1599059?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[白带有异味、像豆腐渣？这 4 种异常是身体在报警](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%99%BD%E5%B8%A6%E6%9C%89%E5%BC%82%E5%91%B3%E3%80%81%E5%83%8F%E8%B1%86%E8%85%90%E6%B8%A3%EF%BC%9F%E8%BF%99%204%20%E7%A7%8D%E5%BC%82%E5%B8%B8%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%8A%A5%E8%AD%A6)|
+||[每天吃鸡蛋可以超过一个吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%AF%8F%E5%A4%A9%E5%90%83%E9%B8%A1%E8%9B%8B%E5%8F%AF%E4%BB%A5%E8%B6%85%E8%BF%87%E4%B8%80%E4%B8%AA%E5%90%97%EF%BC%9F)|
+||[容易得糖尿病的 1 个坏习惯，你可能每天都在做](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%AE%B9%E6%98%93%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%201%20%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%81%9A)|
+||[国内唯一获批可以吃的减肥药，真能安全减肥？！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%9B%BD%E5%86%85%E5%94%AF%E4%B8%80%E8%8E%B7%E6%89%B9%E5%8F%AF%E4%BB%A5%E5%90%83%E7%9A%84%E5%87%8F%E8%82%A5%E8%8D%AF%EF%BC%8C%E7%9C%9F%E8%83%BD%E5%AE%89%E5%85%A8%E5%87%8F%E8%82%A5%EF%BC%9F%EF%BC%81)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[iPhone新的按键让 Siri 从此有了眼睛](https://www.woshipm.com/share/6112895.html)|
+|[虎嗅](https://rss.huxiu.com/)|[羊毛党的演变史：互联网背面的掘金者](https://www.huxiu.com/article/3455329.html?f=rss)|
+||[“摩羯”致风机倒塔后续：预估损失上亿，赔付多少？](https://www.huxiu.com/article/3455364.html?f=rss)|
+||[华为三折叠上市便创下4个行业记录，爆款或成定局？](https://www.huxiu.com/article/3455373.html?f=rss)|
+|[IT 之家 - IT 资讯](https://rsshub.app/ithome/it)|[丰巢靠快递柜滞留金三年半营收 8 个亿](https://www.ithome.com/0/794/967.htm)|
+||[AMD 北京时间 10 月 11 日举行直播活动，展示新款 Instinct 加速器与霄龙 CPU](https://www.ithome.com/0/794/958.htm)|
+||[科技昨夜今晨 0911：19999 元起华为 Mate XT 非凡大师发布；龙芯称“9A2000 对标 RTX 2080”；索尼 PS5 Pro 发布](https://www.ithome.com/0/794/952.htm)|
+||[ChatGPT 革新，消息称 OpenAI“草莓”大模型两周内发布](https://www.ithome.com/0/794/949.htm)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[ThinkORM V3.0.27 版本发布 —— 引入枚举类型支持](https://www.oschina.net/news/311442/thinkorm-3-0-27)|
+|[IT之家](https://www.ithome.com/rss/)|[三星电子又遭集体罢工，印度一工厂员工要求提高待遇](https://www.ithome.com/0/795/057.htm)|
+||[PIXHELL 声学攻击曝光：调制 LCD 屏幕窃取数据，有效距离 2 米、传输每秒 20 bits](https://www.ithome.com/0/795/055.htm)|
+|[少数派 -- Matrix](https://rsshub.app/sspai/matrix)|[一篇文章搞懂「繁体字」](https://sspai.com/post/91297)|
 |[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[麦兜咖啡: @无聊图](http://i.jandan.net/t/5751864)|
 ||[老叔爱大咪: @无聊图 你们也能看到烟雾中那位大n美女不？](http://i.jandan.net/t/5751809)|
 |[爱范儿](https://www.ifanr.com/feed)|[iPhone 16 上的究极按键 硬哲学](https://www.ifanr.com/1598931?utm_source=rss&utm_medium=rss&utm_campaign=)|
