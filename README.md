@@ -2,6 +2,79 @@
 
 |来源|标题|
 |---|---|
+|[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[信创板块走高，南天信息等涨停](https://www.36kr.com/newsflashes/2946442434419586)|
+||[小摩和美银将限制年轻员工工作时间，防止过劳死](https://www.36kr.com/newsflashes/2946441625164673)|
+||[央行今日进行1608亿元7天期逆回购操作](https://www.36kr.com/newsflashes/2946440934120068)|
+||[银行股震荡走高，常熟银行涨超2%](https://www.36kr.com/newsflashes/2946439218682753)|
+||[北京金融监管局披露保险“炒停售”三大套路](https://www.36kr.com/newsflashes/2946432015391368)|
+||[习近平向2024年中国国际服务贸易交易会致贺信](https://www.36kr.com/newsflashes/2946424826370953)|
+||[白酒板块震荡下挫，贵州茅台创2022年11月以来新低](https://www.36kr.com/newsflashes/2946421843106694)|
+||[电网设备概念拉升走高，金冠股份涨超12%](https://www.36kr.com/newsflashes/2946413051189893)|
+||[柔性屏概念震荡走低，科森科技跌停](https://www.36kr.com/newsflashes/2946412293593730)|
+||[小鹏汽车申请注册小鹏AI汽车商标](https://www.36kr.com/newsflashes/2946411453029249)|
+||[夸克发布全新智能对话助手CueMe](https://www.36kr.com/newsflashes/2946410797685380)|
+||[充电桩概念股继续活跃，金冠股份涨超10%](https://www.36kr.com/newsflashes/2946401738562185)|
+||[中小企业服务机构服务能力评估工作正式启动](https://www.36kr.com/newsflashes/2946400821255047)|
+||[保险股短线跳水，中国人保跌近2%](https://www.36kr.com/newsflashes/2946396888832899)|
+||[中国石油在天津成立燃料油新公司](https://www.36kr.com/newsflashes/2946392459598727)|
+||[国企改革概念再度活跃，保变电气9天6板](https://www.36kr.com/newsflashes/2946387355130757)|
+||[光伏概念股持续活跃，海源复材2连板](https://www.36kr.com/newsflashes/2946387020421763)|
+||[创业板指涨超1%，海南自贸等板块领涨](https://www.36kr.com/newsflashes/2946386358164352)|
+||[Sora概念股开盘反弹，华扬联众2连板](https://www.36kr.com/newsflashes/2946382282824325)|
+||[CPO概念股开盘冲高，中际旭创涨超5%](https://www.36kr.com/newsflashes/2946378985380487)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Android 2024 年了，国产安卓的推送延迟问题解决了吗？](https://www.v2ex.com/t/1072236#reply34)|
+||[ 问与答 电动车还没充满被别人拔了，怎么处理](https://www.v2ex.com/t/1072227#reply23)|
+||[ 问与答 彦祖们说说几百块以内买的最值的产品？](https://www.v2ex.com/t/1072226#reply24)|
+||[ 汽车 关于第一辆车的问题](https://www.v2ex.com/t/1072221#reply70)|
+||[ iPhone iP16 pro vs pro max](https://www.v2ex.com/t/1072212#reply11)|
+||[ 程序员 网络问题请教下大家怎么定位。](https://www.v2ex.com/t/1072209#reply11)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[若特朗普当选，最大受益人可能是中国](https://cn.nytimes.com/opinion/20240912/trump-electric-vehicles-china/?utm_source=RSS)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：部分旧版 Windows 11 即将结束支持、Xbox Game Pass Standard 上架等](https://sspai.com/post/92236)|
+|[36氪](https://www.36kr.com/feed)|[PS5 Pro亮相，但索尼仍在危险区 产品观察](https://36kr.com/p/2946500929723269?f=rss)|
+||[36氪冯大刚：浪奔、浪流丨36氪2024产业未来大会](https://36kr.com/p/2945273080748931?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[港大发布OpenCity: 大模型驱动下的智慧城市"新内核"](https://www.jiqizhixin.com/articles/2024-09-12-2)|
+||[帕萨特发布会语音助手翻车 ，知情人士爆料：PPT多切了一页](https://www.jiqizhixin.com/articles/2024-09-12)|
+|[标志情报局](http://www.logonews.cn/feed)|[2025世俱杯会徽引争议，为什么大型赛事的会徽设计趋向极简？是创新还是“敷衍”？](https://www.logonews.cn/2025-fifa-club-world-cup-logo.html)|
+||[日本人气动画《樱桃小丸子》开播35周年纪念标志发布](https://www.logonews.cn/the-35th-anniversary-logo-of-the-animation-chibi-maruko-chan.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[2024 年第二季度 APT 趋势报告](https://www.4hou.com/posts/RXOR)|
+||[热烈欢迎中关村网络安全与信息化产业联盟专家团莅临交流，打造联企合作新模式](https://www.4hou.com/posts/pnk1)|
+||[明天万物安全精品发布会，可预约直播](https://www.4hou.com/posts/omjz)|
+||[梆梆安全亮相多省国家网络安全宣传周，构筑全国网络安全防线](https://www.4hou.com/posts/nlg4)|
+||[开启AI赋能新纪元，共绘网络安全新篇章，CCS2024成都网络安全系列活动盛大开幕！](https://www.4hou.com/posts/mkYp)|
+|[InfoQ 推荐](https://rsshub.app/infoq/recommend)|[Spring 新闻汇总：Spring Boot、Cloud、Security、Session和Spring AI发布里程碑版本](https://www.infoq.cn/article/G3uqY11whx9rW3NzQkUb)|
+||[车企掀起“造芯潮”后，软硬一体的规模量产变智驾竞争关键：出货低于100万即面临投产失衡](https://www.infoq.cn/article/QiWT133yOvuVQOKsgNmL)|
+|[少数派](http://sspai.me/feed)|[加州连线：聊聊 Apple 新品发布会现场体验](https://sspai.com/post/92238)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[我国半导体制造核心技术实现突破](https://www.oschina.net/news/311580)|
+||[李开复：中国人工智能大模型落后美国同行 6 至 9 个月](https://www.oschina.net/news/311577/chinas-ai-models-lag-their-us-counterparts-by-6-to-9-months)|
+||[彭博社：OpenAI 以 1500 亿美元估值洽谈融资](https://www.oschina.net/news/311572/bloomberg-openai-fundraising-150b-valuation)|
+||[.NET 9 RC1](https://www.oschina.net/news/311569/dotnet-9-rc1)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[人•秘（编序0832）](https://www.jianshu.com/p/ef7b6d0f3af7)|
+||[《还珠格格》含香与蒙丹：朋友圈太窄，是女性“向下择偶”的一大坑](https://www.jianshu.com/p/c28968e57b55)|
+||[免费电影](https://www.jianshu.com/p/3585e21a830e)|
+||[《冰封之心的守望与重生》](https://www.jianshu.com/p/7dd98fd577c9)|
+||[天凉好个秋](https://www.jianshu.com/p/10b8781a0e9d)|
+||[扎染](https://www.jianshu.com/p/a4e9c9a3cbc5)|
+||[一碗面而已](https://www.jianshu.com/p/bccbfa4a567b)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[字节跳动，拉来一位特殊人物当董事](https://36kr.com/p/2945645177494406)|
+||[8点1氪｜“交个朋友”销售月饼品牌涉嫌造假，将退一赔三；日本陷入寿司危机；iPhone 16系列手机出货量或超前代](https://36kr.com/p/2946290717366917)|
+||[千万女生的梦中情鞋要被卖了](https://36kr.com/p/2945546724252545)|
+||[华为手机折三折，两万天价不违和丨产品观察](https://36kr.com/p/2944876732308352)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[用AI找客户，半年怒赚200万美元！AI销售是Agent的下一站](https://www.woshipm.com/aigc/6113740.html)|
+||[一纵一横，搭建全面的数据分析体系](https://www.woshipm.com/share/6113714.html)|
+||[原来全案是这样产生的吗？](https://www.woshipm.com/share/6113305.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[美国手游市场报告重磅发布：点点互动、元趣、壳木、三七领衔](https://www.tmtpost.com/7247729.html)|
+||[单项奖金1000万元，两位海外学者获2024世界顶尖科学家协会奖｜钛快讯](https://www.tmtpost.com/7247858.html)|
+||[医疗双轨制，意味着什么？](https://www.tmtpost.com/7247762.html)|
+||[2024年剧集暑期档：市场“爽”点变化下的新格局](https://www.tmtpost.com/7246590.html)|
+||[EU Reported to Trim Proposed EV Tariffs on Tesla and Geely](https://www.tmtpost.com/7247784.html)|
+||[“协鑫系”公司业绩逆风，“硅王”朱共山身家缩水](https://www.tmtpost.com/7247641.html)|
+||[华为PK苹果：折叠屏手机是中场，AI手机是终场](https://www.tmtpost.com/7247546.html)|
+||[中青旅：古北水镇遇冷，多因素到致增收不增利，将探索增量业务 直击业绩会](https://www.tmtpost.com/7247548.html)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[New Rock rep shop](https://www.reddit.com/r/FashionReps/comments/1fergnm/new_rock_rep_shop/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[已经配置了tsconfig.json的alias路径，但是渲染进程使用时候为何还是报错？](https://segmentfault.com/q/1010000045267052)|
+||[typeORM定义entity为何会报错： alias PrimaryGeneratedColumn : import PrimaryGeneratedColumn？](https://segmentfault.com/q/1010000045266334)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[当心！有攻击者伪装成招聘者诱导开发人员执行恶意代码](https://www.freebuf.com/news/410804.html)|
+|[开源中国-软件更新资讯](https://rsshub.app/oschina/news/project)|[Semi Design v2.66.0 发布，抖音企业级 UI 库](https://www.oschina.net/news/311570/semi-design-2-66-0-released)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[Geekbench测试结果 iPhone 16的A18芯片快了吗？](https://m.cnbeta.com.tw/view/1445505.htm)|
 ||[《纽约时报》：当机器人夺人之爱时，会发生什么？](https://m.cnbeta.com.tw/view/1445503.htm)|
 ||[辛巴开始为小杨哥售出的梅菜扣肉和假茅台进行赔付](https://m.cnbeta.com.tw/view/1445502.htm)|
