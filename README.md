@@ -2,6 +2,130 @@
 
 |来源|标题|
 |---|---|
+|[36氪](https://www.36kr.com/feed)|[特斯拉全新制造工艺曝光，Lucid 新车亮相，松下量产 4680 电池 ｜ 海外日报](https://36kr.com/p/2946505255803780?f=rss)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ iPhone 有没有人发现 iPhone 微信朋友圈照片浏览体验已经被安卓完爆？](https://www.v2ex.com/t/1072291#reply12)|
+||[ 程序员 有严重的 “被送礼物” 心理障碍怎么排解？](https://www.v2ex.com/t/1072288#reply17)|
+||[ 生活 交付 4 年的小区，已经渐渐沦为农家乐了](https://www.v2ex.com/t/1072281#reply16)|
+||[ Apple 今天都在传 16 系列充电速率最高到 45w 了 但是官方文档并没有这么写啊](https://www.v2ex.com/t/1072264#reply18)|
+||[ Apple TV 没有盼来 Apple TV 的更新](https://www.v2ex.com/t/1072259#reply20)|
+||[ 程序员 需要给一个小孩远程教 javascript，有没有类似 CodePen 这种网站，但有实时协同功能](https://www.v2ex.com/t/1072252#reply15)|
+||[ 宽带症候群 成都电信过于恶心了](https://www.v2ex.com/t/1072242#reply18)|
+|[澎湃新闻 - 首页头条](https://plink.anyfeeder.com/thepaper)|[韩国称朝鲜向半岛东部海域发射弹道导弹，朝方暂无回应](https://m.thepaper.cn/detail/28716491)|
+||[法媒：修复工作进展顺利，巴黎圣母院将于12月8日重新开放](https://m.thepaper.cn/detail/28716430)|
+||[习近平向2024年中国国际服务贸易交易会致贺信](https://m.thepaper.cn/detail/28716507)|
+||[日本自民党发布总裁竞选公告，已有9人宣布参选](https://m.thepaper.cn/detail/28716433)|
+||[国安部披露：境外公司收买境内高管，窃取我稀土领域国家秘密](https://m.thepaper.cn/detail/28716265)|
+||[浙江衢州有群银发”守护神”](https://m.thepaper.cn/detail/28708575)|
+||[海南曝光11起台风期间价格违法案件，3家酒店哄抬价格被调查](https://m.thepaper.cn/detail/28716111)|
+||[圆桌｜“要防范阶段性通缩风险，货币政策宜出重手，财政政策需加力”](https://m.thepaper.cn/detail/28701534)|
+||[长期政商勾连大搞利益交换，云南省原副省长张祖林被开除党籍](https://m.thepaper.cn/detail/28716473)|
+||[黑龙江省政协原副主席李海涛被双开：贪婪无度，大搞权钱交易](https://m.thepaper.cn/detail/28716472)|
+||[国防部：美国是名副其实的“谎言帝国”](https://www.douyin.com/video/7395578138958368052)|
+||[澎湃AI早新闻丨2024年9月12日](https://m.thepaper.cn/detail/28715339)|
+||[读报｜央媒集中刊发评论：朝着建成教育强国战略目标扎实迈进](https://m.thepaper.cn/detail/28715057)|
+||[呼吸是一种奢侈：那些正经历尘肺之痛的年轻人](https://m.thepaper.cn/detail/28704774)|
+|[热榜 - 煎蛋](https://rsshub.app/jandan/top)|[Lepisma: @无聊图](http://i.jandan.net/t/5752740)|
+||[丹丹: @无聊图](http://i.jandan.net/t/5752657)|
+||[嗜奶: @无聊图](http://i.jandan.net/t/5752651)|
+||[Q.Z.: @无聊图](http://i.jandan.net/t/5752630)|
+||[制式仪刀: @无聊图](http://i.jandan.net/t/5752627)|
+||[drtwww: @无聊图](http://i.jandan.net/t/5752610)|
+||[Packy_T: @无聊图](http://i.jandan.net/t/5752557)|
+||[Packy_T: @无聊图](http://i.jandan.net/t/5752555)|
+|[爱范儿](https://www.ifanr.com/feed)|[谨慎升级！iOS 18 会对二手 iPhone 零件进行保护和验证，华强北炸了锅](https://www.ifanr.com/1599229?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[简书首页](https://plink.anyfeeder.com/jianshu/home)|[边缘时刻](https://www.jianshu.com/p/75e14cda61c6)|
+||[我养不活我自己了](https://www.jianshu.com/p/fd8f2192a1c1)|
+||[18.四数之和](https://www.jianshu.com/p/25cb44bbcbaf)|
+|[IT之家](https://www.ithome.com/rss/)|[杭州余杭通报“网约车走小路女子称被吓到跳车”：正在调查处置](https://www.ithome.com/0/795/341.htm)|
+||[微软发布 .NET 9 RC1 版本，增强 WebSocket API](https://www.ithome.com/0/795/340.htm)|
+||[华硕注册 Z890 主板，同时出现 ROG HERO、APEX 系列标准和迭代款](https://www.ithome.com/0/795/338.htm)|
+||[三星调整 Galaxy Store 应用商店：9 月 25 日生效，下载应用需登录账号](https://www.ithome.com/0/795/334.htm)|
+||[掌阅宣布其全球首款彩墨阅读器 iReader Smart5C 将于 9 月 23 日上市](https://www.ithome.com/0/795/331.htm)|
+||[天玑 9400、骁龙 8 Gen 4 参数全曝光，两大旗舰手机处理器年底正面对拼](https://www.ithome.com/0/795/326.htm)|
+||[安卓侧载套上“紧箍咒”：ChatGPT 等应用已部署，可阻止运行并引导至 Play 应用商店](https://www.ithome.com/0/795/325.htm)|
+||[比亚迪方程豹“豹 8”动力公布：550kW 系统综合功率，百公里加速 4.8s](https://www.ithome.com/0/795/324.htm)|
+||[谷歌 NotebookLM 新增 Audio Overview 功能：生成 2 位 AI 主播，围绕用户文档展开播客式交流](https://www.ithome.com/0/795/323.htm)|
+||[索尼发布领夹式麦克风 ECM-L1，1999 元](https://www.ithome.com/0/795/320.htm)|
+||[4706 米，我国建成启用世界海拔最高北斗探空站](https://www.ithome.com/0/795/319.htm)|
+||[尼康与子公司 RED 合作推出 4 款创意 LUT 和 1 款技术 LUT，均可免费使用](https://www.ithome.com/0/795/318.htm)|
+||[云鲸逍遥 001 Max 全智能清洁机器人发布：4999 元，9 月 23 日开售](https://www.ithome.com/0/795/317.htm)|
+||[2025 款本田缤智舒享版 SUV 上市：支持 Carplay、HiCar、Carlife 连接，售价 12.29 万元](https://www.ithome.com/0/795/316.htm)|
+||[交个朋友直播间回应售卖假洋品牌月饼“停售并退一赔三”，罗永浩致歉](https://www.ithome.com/0/795/315.htm)|
+||[佳能推出炫飞 SELPHY QX20 小型照片打印机，149.99 美元](https://www.ithome.com/0/795/314.htm)|
+||[佳能发布 RF 28-70mm F2.8 IS STM 镜头，1099 美元](https://www.ithome.com/0/795/313.htm)|
+||[育碧游戏《渡神纪 芬尼斯崛起》国行正式发售：主机版 199 元，腾讯 WeGame 版 129 元](https://www.ithome.com/0/795/311.htm)|
+||[辛巴快手账号直播功能被封，曾称拿出 1 亿元替小杨哥赔付消费者](https://www.ithome.com/0/795/310.htm)|
+||[三星 Galaxy Tab S10 系列平板被曝 9 月 26 日发售：Plus 版起价 1119 欧元、Ultra 版起价 1339 欧元](https://www.ithome.com/0/795/309.htm)|
+||[联发科天玑 9400 工程机现身 Geekbench：X925 超大核 3.63 GHz](https://www.ithome.com/0/795/308.htm)|
+||[华擎四内存槽 Z890 主板信息曝光：原生 DDR5-5600，支持 9200+ MT/s 超频](https://www.ithome.com/0/795/307.htm)|
+||[消息称山姆中国 COO 换人，电商业务转向 CMO 汇报](https://www.ithome.com/0/795/305.htm)|
+||[摩托罗拉延长手机支持周期，Edge 50 Neo 率先享受 5 年系统 / 安全更新](https://www.ithome.com/0/795/304.htm)|
+||[小米推出 Redmi 14R 5G 手机：搭载高通骁龙 4 Gen 2，1099~1899 元](https://www.ithome.com/0/795/303.htm)|
+||[国产 GPU 独角兽公司壁仞科技启动上市 IPO](https://www.ithome.com/0/795/301.htm)|
+||[别克第 200 万台 MPV 将于 9 月 23 日下线，将公布未来 MPV 新畅想](https://www.ithome.com/0/795/299.htm)|
+||[AMD 发布 Ryzen AI HX 300 系列处理器新驱动：支持 AFMF 2、VGM，《赛博朋克 2077》游戏帧率最高提升 78%](https://www.ithome.com/0/795/291.htm)|
+||[有赞支付被罚 2787 万元：违规开展条码支付业务等](https://www.ithome.com/0/795/290.htm)|
+||[小米中国区总裁王晓雁：8 位合作伙伴成为「人车家全生态」智能家居官方授权商](https://www.ithome.com/0/795/289.htm)|
+||[雪佛兰科尔维特 Zora“怪兽”超跑曝光，动力有望超 1200 马力](https://www.ithome.com/0/795/288.htm)|
+||[索尼 PS5 版《幻兽帕鲁》将于 2024 东京电玩展亮相](https://www.ithome.com/0/795/287.htm)|
+||[微星推出 Modern MD342CQP 系列显示器：21:9 1440p 120Hz 曲面带鱼屏](https://www.ithome.com/0/795/286.htm)|
+||[中国兵器装备摩托车产业管理关系划归中国长安](https://www.ithome.com/0/795/284.htm)|
+||[天文学家首次拍摄到太阳以外恒星表面气体运动图像](https://www.ithome.com/0/795/283.htm)|
+||[相距“仅” 300 光年，罕见超大质量黑洞双星系统被发现](https://www.ithome.com/0/795/282.htm)|
+||[吉利星愿纯电小车 9 月 14 日预售，搭 Flyme Auto 车机系统](https://www.ithome.com/0/795/281.htm)|
+||[网民建议“取消营运车辆、摩托车使用一定年限后强制报废”，商务部回应](https://www.ithome.com/0/795/280.htm)|
+||[垂直起降技术新飞跃，Piasecki 公司倾转涵道垂直起降飞机完成首飞](https://www.ithome.com/0/795/279.htm)|
+||[消息称某厂工程机采用四窄边等深四曲屏、2 亿像素大底潜望镜，预计为 vivo X200 Ultra](https://www.ithome.com/0/795/278.htm)|
+||[春风动力 675SR-R 摩托车上市：675cc 三缸水冷发动机，41580 元](https://www.ithome.com/0/795/277.htm)|
+||[安耐美推出 PlatimaxII 1000DF 全模组电源：双白金认证，999 元](https://www.ithome.com/0/795/275.htm)|
+||[谷歌 YouTube 开始在电视端投放“暂停广告”](https://www.ithome.com/0/795/274.htm)|
+|[小众软件](http://feeds.appinn.com/appinns)|[水准仪 – 开源安卓小工具：可校准的水平仪和直尺](https://www.appinn.com/bubble-for-android/)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[老板眼中的“好产品”，都有这个共同点](https://www.woshipm.com/share/6113801.html)|
+||[拼多多百亿补贴，你能拿到](https://www.woshipm.com/share/6113837.html)|
+||[甲方避坑指南](https://www.woshipm.com/share/6113800.html)|
+|[酷安 - 新鲜图文](https://rsshub.app/coolapk/tuwen-xinxian)|[无意找到个牛的配置](https://www.coolapk.com/feed/58811701?shareKey=MmIwZjE0YmU5OTc0NjZlMjY5MGQ~)|
+||[乐话漫谈108：谁持彩练当空舞——评绯乐 Lyric诗](https://www.coolapk.com/feed/58811496?shareKey=YWM5N2Q3YjQyMzQ5NjZlMjY5MGQ~)|
+||[拍立得富士sq10&奥林巴斯ccd](https://www.coolapk.com/feed/58811227?shareKey=MGQ3M2U3N2EwMGU3NjZlMjY5MGQ~)|
+||[浅谈与国产相比， iPhone16系列算不算挤牙膏](https://www.coolapk.com/feed/58810805?shareKey=ZDMyYzAxNmI0OWUyNjZlMjY5MGQ~)|
+||[QCY MeloBuds Pro全能舱主动降噪真无线蓝牙耳机长续航低延迟金标](https://www.coolapk.com/feed/58810678?shareKey=ZDBlYmM4M2VhNGQ5NjZlMjY5MGQ~)|
+||[互联网漫游指南（1/N）](https://www.coolapk.com/feed/58810082?shareKey=YWNkNzBhNGYwMWNiNjZlMjY5MGQ~)|
+||[盘点一下三星超好用的那些功能，都是我离不开的。](https://www.coolapk.com/feed/58810030?shareKey=MjE2MDVjMTg4ZjMwNjZlMjY5MGQ~)|
+||[在拼多多缴纳2.1万开店，啥也没卖说我违规全部扣除](https://www.coolapk.com/feed/58810020?shareKey=MzY0YWI5Y2Y1ODc3NjZlMjY5MGQ~)|
+||[刚下完雨，徕卡鲜艳随便拍](https://www.coolapk.com/feed/58809272?shareKey=NDIzYTBmZmJhOWM5NjZlMjY5MGQ~)|
+||[Z60Ultra大连旅顺口白玉山掠影](https://www.coolapk.com/feed/58808231?shareKey=OGExZjYwNjhmYzkxNjZlMjY5MGQ~)|
+||[红魔9系列，工程模式看电池健康度](https://www.coolapk.com/feed/58808195?shareKey=N2VlNDFlN2VlOGUzNjZlMjY5MGQ~)|
+|[极客公园](https://plink.anyfeeder.com/geekpark)|[ChatGPT 发布近两年，4B 的端侧模型已经能够复刻当年的水平](http://www.geekpark.net/news/340533)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[若特朗普当选，最大受益人可能是中国](https://cn.nytimes.com/opinion/20240912/trump-electric-vehicles-china/)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[远嫁的你们吵架后一般都做些什么？](https://www.zhihu.com/question/666787615)|
+||[美英拟对乌克兰「解禁」，如何看待此举？接下来会有哪些动向？](https://www.zhihu.com/question/666844781)|
+||[领导安排了一个事，去帮别的团队一天忙，没人回复他，私下里来找我，这种事是应该从根源就拒绝他吗？](https://www.zhihu.com/question/665032395)|
+||[为什么「被否定」之后会伤心？](https://www.zhihu.com/question/666735728)|
+||[《大明王朝 1566》，陈洪和黄锦谁更强？](https://www.zhihu.com/question/446318545)|
+||[内向的人，在大学独来独往，会被认为孤僻吗？](https://www.zhihu.com/question/666887556)|
+||[《黑神话: 悟空》中紫蛛儿的前五个女儿是怎么来的？](https://www.zhihu.com/question/666676920)|
+||[日本知名声优平野绫因家暴问题爆发离婚危机，女方表示部分属实正在协商离婚 ，具体情况如何？](https://www.zhihu.com/question/666838586)|
+||[如何评价乒乓球运动员张继科的职业生涯？](https://www.zhihu.com/question/640177144)|
+||[你怎么看「没有教不会的学生，只有不会教的老师」这一观点？](https://www.zhihu.com/question/666617617)|
+||[经济学专家称「未来房子不大幅增值或将变消费品，持有成本会很高」，怎样看待他的观点？](https://www.zhihu.com/question/666874696)|
+||[博一发现大导存在压论文情况，师兄普遍延毕严重，劝我考虑清楚，这种情况我该不该退学重考？](https://www.zhihu.com/question/666456206)|
+||[我发现身边很多奶奶辈的女性都是短发，出现这一现象的原因是什么？](https://www.zhihu.com/question/644975800)|
+||[职场新人，到底应该自信高调一点，还是谦卑低调一点？](https://www.zhihu.com/question/666649135)|
+||[知乎直答在哪些场景使用能达到事半功倍的效果？](https://www.zhihu.com/question/663774583)|
+||[如何看待付鹏称「未来 10-15 年如果房子不大幅增值，就会变成消费品」？](https://www.zhihu.com/question/666831150)|
+||[你会让上大班的孩子独自下楼去买东西吗？](https://www.zhihu.com/question/666577220)|
+||[女子替朋友熬药中毒身亡判赔 23 万，法院认为「事实上存在雇佣关系」，如何从法律角度解读？](https://www.zhihu.com/question/666448106)|
+||[如何看待国内外各大手机厂商纷纷推出 AI Agent 智能体，方向对了吗？你怎么看？](https://www.zhihu.com/question/666857800)|
+||[中国古代为何没有公共广场？](https://www.zhihu.com/question/666795311)|
+||[大一新生纯纯内向 i 人，害怕大学交不到朋友，怎么办？](https://www.zhihu.com/question/666786494)|
+||[美国 8 月 CPI 同比上升 2.5%，连续第 5 个月回落，交易员下调对美联储 9 月大幅降息的押注，如何解读？](https://www.zhihu.com/question/666878739)|
+||[出国旅游你都吃过哪些大亏？](https://www.zhihu.com/question/666835027)|
+||[假如清空你一切资源, 但是你获得一个可以每天百分之一增长的一千块钱, 你愿意吗?](https://www.zhihu.com/question/665684791)|
+||[为什么王灵官在《黑神话：悟空》中的设计里，他的头被设计成了一张手？](https://www.zhihu.com/question/666829305)|
+||[海银财富被立案调查，多人被抓，700 亿元「资金池」爆雷，大部分资金去向不明，具体情况如何？](https://www.zhihu.com/question/666843400)|
+||[网传 Steam 将修改结算政策，首次结款为发售后六个月，此事真实性怎么样？](https://www.zhihu.com/question/666842441)|
+||[无人机导致天津大面积航班延误，具体情况如何？无人机禁飞区域是如何监管的？无人机操控者将承担哪些责任？](https://www.zhihu.com/question/666915522)|
+||[《黑神话悟空》里的金箍棒两头都不能握持，更像是双头狼牙棒，而不是棍子，是不是设计的不合理？](https://www.zhihu.com/question/666482809)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[为推送定制化广告，福特汽车新专利拟广泛采集驾驶员数据](https://www.freebuf.com/news/410857.html)|
 |[36氪 - 快讯](https://rsshub.app/36kr/newsflashes)|[信创板块走高，南天信息等涨停](https://www.36kr.com/newsflashes/2946442434419586)|
 ||[小摩和美银将限制年轻员工工作时间，防止过劳死](https://www.36kr.com/newsflashes/2946441625164673)|
 ||[央行今日进行1608亿元7天期逆回购操作](https://www.36kr.com/newsflashes/2946440934120068)|
