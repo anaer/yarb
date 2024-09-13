@@ -2,6 +2,104 @@
 
 |来源|标题|
 |---|---|
+|[36氪](http://36kr.com/feed)|[氪星晚报｜华为将启动“鸿蒙生态伙伴及开发者见非凡体验计划”；闲鱼首次将AI技术运用在闲置物品交易流通中；全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定](https://36kr.com/p/2946833381825410?f=rss)|
+||[「益恒光伏」完成亿元级融资，持续推进异质结钙钛矿叠层电池产业化 36氪首发](https://36kr.com/p/2945526578158208?f=rss)|
+||[远景田庆军：储能出海要避免重蹈光伏风电的覆辙 最前线](https://36kr.com/p/2947870488746881?f=rss)|
+||[以光化学产业化创新绿色生产，善施科技完成千万元级Pre A+轮融资 36氪首发](https://36kr.com/p/2947843205339781?f=rss)|
+||[聚焦全球医疗健康开放式创新，探讨新兴技术与商业模式！](https://36kr.com/p/2948220889799301?f=rss)|
+|[少数派](https://sspai.com/feed)|[不止金钱：经济形势、就业环境、焦虑情绪和松弛感](https://sspai.com/post/92272)|
+|[靜風說](http://www.jingfengshuo.com/feed)|[健身一年](https://www.jingfengshuo.com/archives/2943.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[#葛晓倩怒怼张雨绮插足#，娱乐圈人设塌房不新鲜](https://www.infzm.com/contents/278772)|
+||[全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定](https://www.infzm.com/contents/278774)|
+||[科研人“高考放榜”，项目中标率迎新低](https://www.infzm.com/contents/278764)|
+||[我在横琴，double精彩](https://www.infzm.com/contents/278754)|
+|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[在新世界的第一个影像之前 评论: 李尔王 ](https://movie.douban.com/review/16178664/)|
+|[触乐](http://www.chuapp.com/feed)|[触乐怪话：战锤，战锤！](http://www.chuapp.com/article/290205.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ 随想 我真的好奇，怀念教员的都是什么人？](https://www.v2ex.com/t/1072743#reply13)|
+||[ 问与答 对 V 站很失望](https://www.v2ex.com/t/1072723#reply45)|
+||[ 问与答 请问一下大家买耐克一般在哪买，得物还是实体店](https://www.v2ex.com/t/1072718#reply19)|
+||[ 程序员 LLM 大模型产品的前端架构选择 - React vs Vue?](https://www.v2ex.com/t/1072705#reply17)|
+||[ 职场话题 大家帮我看看这个社保还需要交吗](https://www.v2ex.com/t/1072699#reply14)|
+||[ 问与答 现阶段最低社保+实缴公积金是不是理想模式了](https://www.v2ex.com/t/1072697#reply12)|
+||[ 程序员 各位大佬， Java SE 和 Java EE 看完了，还是不会做项目，咋整啊](https://www.v2ex.com/t/1072694#reply19)|
+||[ DNS 分享一个自己用 Cloudflare Workers 实现的 0 运维成本 DNS 方案](https://www.v2ex.com/t/1072693#reply16)|
+||[ 投资 技术分析看上证指数（不构成投资建议）- 2024.09.13](https://www.v2ex.com/t/1072692#reply16)|
+||[ 问与答 明天有不上班的不 以及国庆不补班的 ，让我羡慕一下？](https://www.v2ex.com/t/1072690#reply22)|
+||[ 生活 头发白了，能回滚吗？](https://www.v2ex.com/t/1072686#reply14)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[除了三折叠，2024年手机市场还有哪些新变化？](https://www.tmtpost.com/7250104.html)|
+||[解码奥乐齐中国“既要又要”的低价打法](https://www.tmtpost.com/7247852.html)|
+||[瑞幸“轻轻”入场，星巴克也加入，餐饮业开始“熬时长”](https://www.tmtpost.com/7249988.html)|
+||[热门暑假档也遭遇滑铁卢，电影市场如何变革才能挽回市场？](https://www.tmtpost.com/7250004.html)|
+||[国产内窥镜市场份额大增，背后CDMO是最大助攻](https://www.tmtpost.com/7250031.html)|
+||[超25亿，核药重磅交易+1](https://www.tmtpost.com/7250046.html)|
+||[Chinese AI Protein Design Platform Molecule Mind Secures Hundreds of Millions in Series A Funding](https://www.tmtpost.com/7250118.html)|
+||[方正阀门“烧脑风暴”：创始人离世、遗产继承变更“眼花缭乱”，与前子公司交易迷雾重重｜IPO观察](https://www.tmtpost.com/7248411.html)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[众议院共和党人为何在大选前频繁对抗中国](https://cn.nytimes.com/usa/20240913/china-congress-republicans/dual)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[三星2nm代工拿下重要客户 明年有望投产](https://m.cnbeta.com.tw/view/1445711.htm)|
+||[“法定退休年龄计算器”上线](https://m.cnbeta.com.tw/view/1445708.htm)|
+||[员工月薪2690元 高合丁磊辟谣跑路：车主不散 高合不死](https://m.cnbeta.com.tw/view/1445709.htm)|
+||[余承东：自己搞中国足球是门外汉不合适 但可分享带团队经验](https://m.cnbeta.com.tw/view/1445707.htm)|
+||[华图教育回应不雅广告：系老师自行引用的网络段子 已严肃处理](https://m.cnbeta.com.tw/view/1445706.htm)|
+||[微信、抖音加码电商 搜索框新增电商入口](https://m.cnbeta.com.tw/view/1445704.htm)|
+||[谁是中国最强车企？15大玩家半年报横比：上汽最能卖，比亚迪最能赚](https://m.cnbeta.com.tw/view/1445702.htm)|
+||[消息称苹果已将折叠屏iPhone的研发进度提前](https://m.cnbeta.com.tw/view/1445701.htm)|
+||[FF第二品牌发布会定档9月20日 贾跃亭：将打造AI未来之车、AI人民之车](https://m.cnbeta.com.tw/view/1445700.htm)|
+||[计算机科学家小组披露苹果Vision Pro的安全漏洞 可重建用户输入内容](https://m.cnbeta.com.tw/view/1445699.htm)|
+||[全国人大常委会公布《关于实施渐进式延迟法定退休年龄的决定》](https://m.cnbeta.com.tw/view/1445686.htm)|
+||[新能源车禁入地下车库涉嫌歧视？律师、专家释疑](https://m.cnbeta.com.tw/view/1445695.htm)|
+||[三星Galaxy S25渲染图曝光：史上最小的骁龙8 Gen4旗舰](https://m.cnbeta.com.tw/view/1445694.htm)|
+||[苹果中国官网开始维护 今晚8点开抢iPhone 16](https://m.cnbeta.com.tw/view/1445693.htm)|
+||[小米自带线充电宝10000mAh 165W上市 支持90W自充](https://m.cnbeta.com.tw/view/1445692.htm)|
+||[全新奥迪Q3曝光：分体式大灯+全新前脸设计 外观变化明显](https://m.cnbeta.com.tw/view/1445691.htm)|
+||[一升油跑39.6公里 丰田Prius解锁吉尼斯新世界纪录 车辆未经任何改装](https://m.cnbeta.com.tw/view/1445689.htm)|
+||[遏制被盗零部件买卖 苹果iOS 18为iPhone带来零部件激活锁](https://m.cnbeta.com.tw/view/1445687.htm)|
+||[项立刚：领导用华为 服务生用苹果是事实](https://m.cnbeta.com.tw/view/1445685.htm)|
+||[美国一机场险些发生客机相撞事故 机轮在制动过程中爆裂](https://m.cnbeta.com.tw/view/1445684.htm)|
+||[助长金融地下市场的“影子美元” - 泰达币（Tether）](https://m.cnbeta.com.tw/view/1445683.htm)|
+||[微软承诺采取措施终结全球大蓝屏事件 与安全公司达成合作协议](https://m.cnbeta.com.tw/view/1445682.htm)|
+||[ZSF基金会宣布将Ziglang从亚马逊AWS迁移到超低价云服务器节省成本](https://m.cnbeta.com.tw/view/1445681.htm)|
+||[北大Little Girl亮相 具有人类伦理和道德观念](https://m.cnbeta.com.tw/view/1445676.htm)|
+||[OpenAI“草莓”值万亿吗？](https://m.cnbeta.com.tw/view/1445673.htm)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[全国人大常委会通过延迟退休决定](https://www.solidot.org/story?sid=79251)|
+||[三千年前刮到日本的沙尘比现在少一半](https://www.solidot.org/story?sid=79250)|
+||[英伟达向 AI 初创公司投资逾百亿美元](https://www.solidot.org/story?sid=79249)|
+||[OpenAI 发布新 AI 模型 o1](https://www.solidot.org/story?sid=79248)|
+||[十年前的现象级手游 Flappy Bird 将重新上线](https://www.solidot.org/story?sid=79247)|
+|[IT之家](https://www.ithome.com/rss/)|[上海：力争陆上风电项目 2025 年 6 月前核准，光伏电站项目 2025 年 6 月前开工](https://www.ithome.com/0/795/704.htm)|
+||[普华永道中天合计被罚 4.41 亿元，回应称尊重并坚决服从相关行政处罚决定](https://www.ithome.com/0/795/702.htm)|
+||[美的集团：确定 H 股发行价为每股 54.8 港元，预计 9 月 17 日于港交所挂牌上市](https://www.ithome.com/0/795/701.htm)|
+||[小鹏汽车新一代 S5 超快充桩在上海等 4 城落地，充电速度 1 秒超 1 公里](https://www.ithome.com/0/795/700.htm)|
+||[北京发出首张“具身智能机器人食品经营许可证”：“AI 大厨”即将登场](https://www.ithome.com/0/795/699.htm)|
+||[111 名在缅北掸邦第四特区实施电信网络诈骗犯罪的嫌疑人被移交我方](https://www.ithome.com/0/795/695.htm)|
+||[第 20 万辆腾势 D9 交付，比亚迪总裁王传福为歌唱家谭晶交车](https://www.ithome.com/0/795/694.htm)|
+||[360 智能门锁 Q30 Pro 预售：4.5 英寸屏 / 3D 人脸识别 / 掌静脉识别，到手 1999 元](https://www.ithome.com/0/795/693.htm)|
+||[铭匠推出“胶卷”外形磁吸 RGB 全彩补光灯：内置 15 颗灯珠，39 元](https://www.ithome.com/0/795/691.htm)|
+||[《赛博朋克 2077》新增 AMD FSR3 帧生成，PC 版发布 2.13 版本更新](https://www.ithome.com/0/795/690.htm)|
+||[消息称小鹏 MONA M03 汽车日均新增订单 2000+，本周五天已破万](https://www.ithome.com/0/795/689.htm)|
+||[适马推出 28-45mm T2.0 AF CINE 电影镜头，提供 E / L 卡口版本可选](https://www.ithome.com/0/795/688.htm)|
+||[一汽丰田第 10 万辆格瑞维亚汽车下线，投产近 1 年零 9 个月](https://www.ithome.com/0/795/687.htm)|
+||[TrendForce：2024Q2 企业级 SSD 合约价环比增长超 25%，原厂营收环比增幅超五成](https://www.ithome.com/0/795/686.htm)|
+||[东风日产全新天籁“真心版”车型上市，限时售 12.78 万元起](https://www.ithome.com/0/795/685.htm)|
+||[工行伦敦分行回应“勒索团伙声称窃取 6.6TB 文件”：发现潜在的可疑活动，已在彻查](https://www.ithome.com/0/795/683.htm)|
+||[高合汽车创始人丁磊现身直播间：公司没有跑路，团队正经历脱胎换骨改变](https://www.ithome.com/0/795/682.htm)|
+||[realme 真我中国区总裁徐起展示固态按键：滑动变焦、按压拍照](https://www.ithome.com/0/795/680.htm)|
+||[Meta 承认使用澳大利亚 Facebook、Instagram 成年用户发布的公开内容训练 AI 模型](https://www.ithome.com/0/795/668.htm)|
+||[2023－2024 年中国家电行业品牌评价结果发布，格力、美的、海尔等 80 个品牌上榜](https://www.ithome.com/0/795/667.htm)|
+||[华为 Mate XT 三折叠手机非凡大师限时体验空间 9 月 14~27 日登陆上海](https://www.ithome.com/0/795/666.htm)|
+||[英睿达 MX500 固态硬盘被曝固件更新机制存问题，易受缓冲区溢出影响](https://www.ithome.com/0/795/665.htm)|
+||[20 点蹲点速抢：苹果 iPhone 16 / Pro 系列手机京东预售](https://www.ithome.com/0/795/662.htm)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[婴儿底？](http://xueqiu.com/2792218779/304542137)|
+||[他山之石： “失去XX年”的日本股市指数估值变迁](http://xueqiu.com/2356382715/304554634)|
+||[白酒市场，继续 or 洗牌？](http://xueqiu.com/1010392927/304524164)|
+||[关于风电运营的一些数据和想法、判断](http://xueqiu.com/4111857140/304555219)|
+||[一种承载能源金属——铝，兼谈云铝股份](http://xueqiu.com/3151137858/304527846)|
+||[Open AI发布o1新模型：强化学习和LLM的双飞轮启动！](http://xueqiu.com/4934696230/304556209)|
+||[全球资本市场都在小心翼翼！生怕暴跌](http://xueqiu.com/1843761023/304499883)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[并购标的财务造假，智云股份与资阳国资上演仲裁罗生门](https://www.tmtpost.com/7250065.html)|
+||[腾讯与阿里，世界大和解](https://www.tmtpost.com/7250239.html)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[跨国收养政策调整背后](https://www.infzm.com/contents/278770)|
+||[人社部：对法定退休年龄进行调整主要有三方面考虑](https://www.infzm.com/contents/278782)|
+||[延迟退休改革文件解读：延迟多久、如何实施？能否自愿选择弹性提前退休？](https://www.infzm.com/contents/278776)|
 |[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[没有性生活的婚姻可能幸福吗](https://cn.nytimes.com/style/20240913/sexless-marriage/)|
 ||[前CIA官员因向中国政府提供机密信息获刑10年](https://cn.nytimes.com/usa/20240913/alexander-yuk-ching-ma-china-spy-sentenced/)|
 ||[韩国深伪色情犯罪激增，厌女文化助长网络性暴力](https://cn.nytimes.com/asia-pacific/20240913/south-korea-deepfake-videos/)|
