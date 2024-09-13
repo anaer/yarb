@@ -2,6 +2,76 @@
 
 |来源|标题|
 |---|---|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[谈谈 Function Calling](https://my.oschina.net/u/7992208/blog/15589589)|
+||[NPU 与 GPU 相比，有什么差别？](https://my.oschina.net/IDP/blog/15787377)|
+||[9月21日，源创会西安，聊聊大模型技术与产业应用](https://www.oschina.net/event/2333696)|
+||[点赞！Genmai 荣获 2024 中国互联网发展创新与投资大赛（开源）二等奖！](https://www.oschina.net/news/311733)|
+||[“你的开源项目影响了我赚钱，希望你考虑闭源”](http://osc.cool/3LSUHF93)|
+||[OpenAI 发布全新的 o1 系列模型](https://www.oschina.net/news/311730/openai-o1)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[增长黑客新理论：找到了PMF，如何拿下第一批用户？](https://www.tmtpost.com/7249252.html)|
+||[全球风投收缩，但AI仍未熄火](https://www.tmtpost.com/7249289.html)|
+||[遵循广撒网战略：这家厂商年均测试十几款新游，终获两款月流水超5000万的产品](https://www.tmtpost.com/7249290.html)|
+||[一亿赔付之争：大主播翻车，赔偿全凭良心](https://www.tmtpost.com/7249312.html)|
+||[美股后段大逆转，降息又有变数？](https://www.tmtpost.com/7249313.html)|
+||[等一个影像学设备的国产巨头](https://www.tmtpost.com/7249354.html)|
+||[《黑神话：悟空》真的带火云电脑了吗？](https://www.tmtpost.com/7249355.html)|
+||[Chinese Commerce Minister to Visit Europe ahead of a Make-or-Break EU EV Tariff Vote](https://www.tmtpost.com/7249484.html)|
+||[6万家中国企业，追着马斯克，上天](https://www.tmtpost.com/7249381.html)|
+||[月薪3k，我在《三国杀》当职业顶流](https://www.tmtpost.com/7249434.html)|
+||[今年的月饼，不是特别圆](https://www.tmtpost.com/7249032.html)|
+||[OpenAI o1草莓模型：AI安全了，但看起来AI大模型公司更危险了](https://www.tmtpost.com/7248967.html)|
+||[金龙鱼，攻守兼备](https://www.tmtpost.com/7249045.html)|
+||[英伟达的麻烦还在后头？](https://www.tmtpost.com/7249067.html)|
+||[China Said to Limit EV Tech Export, Encouraging Key Auto Parts Produced Domestically](https://www.tmtpost.com/7249335.html)|
+||[“自在水”大卖，你的健康焦虑让元气森林又赚了10个亿](https://www.tmtpost.com/7249076.html)|
+||[乙游CV劝退玩家，配音演员的“养老保险”还保险吗？](https://www.tmtpost.com/7249079.html)|
+||[“过度旅游”下的酒店生存法则](https://www.tmtpost.com/7249134.html)|
+||[Open AI发布新一代模型01](https://www.tmtpost.com/7249155.html)|
+||[华为、极氪、蔚来围攻特斯拉Model Y，小米坐山观虎斗](https://www.tmtpost.com/7249190.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 發表會 10 件買前必看重點！你不能不知的細節，一次看懂！](https://applefans.today/2024-09-iphone-16-event-must-be-know/)|
+||[iOS 18 下週即將登場， Netflix 宣布 不支援 iOS 16 了！](https://applefans.today/2024-09-netflix-not-support-ios16/)|
+|[反斗限免](https://free.apprcn.com/feed/)|[StreamGet All-In-One Video Downloader - 一站式流媒体视频下载工具 Windows、macOS $99.9→0 ](https://free.apprcn.com/streamget-all-in-one-video-downloader/)|
+||[免费获取 1 年桌面远程工具 AnyViewer Pro 激活码 Windows、iOS、Android ](https://free.apprcn.com/get-1-year-anyviewer-pro-license-for-free-14/)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软宣布将确保再也不会出现全球大蓝屏事件 与安全公司达成合作协议](https://www.landiannews.com/archives/105826.html)|
+||[游戏引擎开发商Unity最终宣布彻底放弃按游戏安装次数收费](https://www.landiannews.com/archives/105818.html)|
+||[谷歌宣布与互联网档案馆合作 在搜索结果中为网页添加历史版本链接](https://www.landiannews.com/archives/105817.html)|
+|[少数派](https://sspai.com/feed)|[派开箱 重构无人机航拍体验，DJI NEO 让你放手去飞](https://sspai.com/post/92131)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775451)|
+||[数学界有哪些未解之谜？](https://daily.zhihu.com/story/9775426)|
+||[清朝的湖广总督中的「广」是指哪里？](https://daily.zhihu.com/story/9775440)|
+||[在进化史上有没有特别有趣或者奇葩的进化？](https://daily.zhihu.com/story/9775442)|
+||[一朵云的重量将近 50 万公斤，那为什么它不掉下来？](https://daily.zhihu.com/story/9775433)|
+|[IT之家](https://www.ithome.com/rss/)|[拿到 3000 万美元融资承诺后，法拉第未来为贾跃亭涨薪超 50%](https://www.ithome.com/0/795/575.htm)|
+||[最高检：将依法严惩网暴企业相关犯罪](https://www.ithome.com/0/795/574.htm)|
+||[特斯拉新增前车轮路径可视化功能，改善泊车体验](https://www.ithome.com/0/795/572.htm)|
+||[小米 50W 车载无线充电器套装上市：电动夹臂可自动伸缩，售价 299 元](https://www.ithome.com/0/795/571.htm)|
+||[新能源车进地库遭“劝退”或“拦截”，律师称或涉嫌歧视](https://www.ithome.com/0/795/570.htm)|
+||[特斯拉 Cybertruck 纯电皮卡确认今年推出电池装甲等配件](https://www.ithome.com/0/795/569.htm)|
+||[酷态科 10 号超级电能棒、15 号超级电能柱 Ultra 推出“黑骑士”配色，售 199 / 399 元](https://www.ithome.com/0/795/567.htm)|
+||[2025 款大众 Taos 发布：174 马力，8 英寸屏幕，全新前脸设计，摒弃 DSG 变速箱](https://www.ithome.com/0/795/566.htm)|
+||[比亚迪员工总数突破 90 万，技术研发人员近 11 万全球车企第一](https://www.ithome.com/0/795/565.htm)|
+||[星舰试飞延迟被指审批背锅，美监管回应称“我们八成加班都花在了 SpaceX 上”](https://www.ithome.com/0/795/564.htm)|
+||[全新 GoPro HERO 入门运动相机国行上架：86 克重量、4K 30 帧视频，1698 元](https://www.ithome.com/0/795/563.htm)|
+||[我国“福建舰”航母弹射系统测试首次公开、内部画面首次公开](https://www.ithome.com/0/795/562.htm)|
+||[小米自带线充电宝 10000mAh 165W 预售：彩色智能数显，199 元](https://www.ithome.com/0/795/560.htm)|
+||[理想 L6 第 10 万辆量产车下线，上市不到 5 个月](https://www.ithome.com/0/795/559.htm)|
+||[深蓝 L07 轿车 9 月 20 日上市：搭华为乾崑智驾、提供纯电 / 增程车型可选](https://www.ithome.com/0/795/558.htm)|
+||[MINIX 推出 NEO 300-0dB 被动散热迷你主机：搭英特尔 N300 处理器、酷似路由器](https://www.ithome.com/0/795/557.htm)|
+||[哈啰回应乘客被免密扣款 21 笔共 3000 余元：其账户被盗，已报警](https://www.ithome.com/0/795/556.htm)|
+||[小米澎湃 OS 体验增强版 Beta 开启招募：小米 14、Redmi K60 至尊版、小米平板 6S Pro 12.4 首批尝鲜](https://www.ithome.com/0/795/555.htm)|
+||[丰田 Prius 创造吉尼斯新世界纪录：百公里油耗 2.52](https://www.ithome.com/0/795/554.htm)|
+||[铭瑄首款“背靠背”板型主板 MS-终结者 B760BKB D5 上市，899 元](https://www.ithome.com/0/795/553.htm)|
+||[杭州一公司校招设置“盲盒岗位”，回应称“供调剂用、不建议应聘者投递”](https://www.ithome.com/0/795/551.htm)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 想知道 v 友们一般情况下大概几点睡觉，几点起床的](https://www.v2ex.com/t/1072600#reply13)|
+||[ 问与答 小学 4 年级的孩子，给多少零花钱合适](https://www.v2ex.com/t/1072564#reply36)|
+||[ 分享发现 小米粉转黑](https://www.v2ex.com/t/1072546#reply33)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[Open AI发布新一代模型01](https://www.woshipm.com/share/6114415.html)|
+||[推荐策略评估指标体系如何定义](https://www.woshipm.com/share/6114603.html)|
+||[OpenAI 凌晨发布 o1 系列推理模型的两个 o1-preview 以及 o1-mini，旨在真正像人类一样思考](https://www.woshipm.com/aigc/6114567.html)|
+||[低价这件事，99.9%人想简单了](https://www.woshipm.com/share/6114407.html)|
+||[如何循序渐进的搞懂AI？](https://www.woshipm.com/share/6114273.html)|
+||[Axure PR 9 标签 设计&交互](https://www.woshipm.com/share/6114359.html)|
+||[工作上，为什么领导喜欢说“我只要看结果”？](https://www.woshipm.com/share/6114218.html)|
 |[虎嗅](https://rss.huxiu.com/)|[英伟达的麻烦还在后头？](https://www.huxiu.com/article/3463499.html?f=rss)|
 ||[保租房对市场的影响可能超乎想象](https://www.huxiu.com/article/3463253.html?f=rss)|
 ||[今年广告主把钱包捂得更紧了](https://www.huxiu.com/article/3463524.html?f=rss)|
