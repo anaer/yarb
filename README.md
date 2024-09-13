@@ -2,6 +2,43 @@
 
 |来源|标题|
 |---|---|
+|[36氪](https://36kr.com/feed)|[科氪 德国美诺Miele携全新W2/T2洗烘力作 亮相2024柏林国际电子消费品展览会（IFA）](https://36kr.com/p/2948081596177025?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[Imagination发布旗舰汽车GPU芯片IP产品，计算性能提升高达1000%｜硅基世界](https://www.tmtpost.com/7249578.html)|
+||[【科股一线拆解】药监局：加快引进通道，让更多国际上的罕见病用药更快进入国内](https://www.tmtpost.com/7249618.html)|
+||[国内AI蛋白质设计平台公司分子之心完成A轮数亿元融资，深创投联合领投｜钛媒体AGI](https://www.tmtpost.com/7249624.html)|
+||[日耗2000万，莉莉丝《万龙觉醒》：国内预期不高？欲抢《黑神话悟空》《魔兽世界》PC流量](https://www.tmtpost.com/7249240.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 今天看见两个 v2 骂小米的帖子，然后又看见罗技鼠标的帖子](https://www.v2ex.com/t/1072610#reply28)|
+||[ 全球工单系统 有微信的员工吗？麻烦请把服务号通知改回去吧，就这么缺流量吗？](https://www.v2ex.com/t/1072603#reply11)|
+||[ 问与答 求助：如何 kill 掉循环运行的脚本](https://www.v2ex.com/t/1072601#reply13)|
+||[ 问与答 想知道 v 友们一般情况下大概几点睡觉，几点起床的](https://www.v2ex.com/t/1072600#reply41)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[月餅恐懼症](https://taiwan.chtsai.org/2024/09/13/yuebing_kongjuzheng/)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[汉语新解，一针见血，幽默又扎心](https://w2solo.com/topics/5029)|
+||[做了一款赏心悦目的浏览器插件](https://w2solo.com/topics/5028)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[脸红不一定是过敏，还可能是这 5 种皮肤病](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E8%84%B8%E7%BA%A2%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E8%BF%87%E6%95%8F%EF%BC%8C%E8%BF%98%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%205%20%E7%A7%8D%E7%9A%AE%E8%82%A4%E7%97%85)|
+||[到底多长时间算早泄？答案是......](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%88%B0%E5%BA%95%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%E7%AE%97%E6%97%A9%E6%B3%84%EF%BC%9F%E7%AD%94%E6%A1%88%E6%98%AF......)|
+||[变老的表现，从手和脚开始](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%8F%98%E8%80%81%E7%9A%84%E8%A1%A8%E7%8E%B0%EF%BC%8C%E4%BB%8E%E6%89%8B%E5%92%8C%E8%84%9A%E5%BC%80%E5%A7%8B)|
+||[搞不明白这 1 点，我劝你别随便补叶酸！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%90%9E%E4%B8%8D%E6%98%8E%E7%99%BD%E8%BF%99%201%20%E7%82%B9%EF%BC%8C%E6%88%91%E5%8A%9D%E4%BD%A0%E5%88%AB%E9%9A%8F%E4%BE%BF%E8%A1%A5%E5%8F%B6%E9%85%B8%EF%BC%81)|
+||[皮肤成片发红瘙痒，小心是病毒感染！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9A%AE%E8%82%A4%E6%88%90%E7%89%87%E5%8F%91%E7%BA%A2%E7%98%99%E7%97%92%EF%BC%8C%E5%B0%8F%E5%BF%83%E6%98%AF%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%EF%BC%81)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[没有性生活的婚姻可能幸福吗](https://cn.nytimes.com/style/20240913/sexless-marriage/?utm_source=RSS)|
+||[前CIA官员因向中国政府提供机密信息获刑10年](https://cn.nytimes.com/usa/20240913/alexander-yuk-ching-ma-china-spy-sentenced/?utm_source=RSS)|
+|[虎嗅](https://rss.huxiu.com/)|[创业公司如何拿下第一批用户？](https://www.huxiu.com/article/3463514.html?f=rss)|
+||[阿那亚：文艺中产买单的老年房产项目](https://www.huxiu.com/article/3464696.html?f=rss)|
+||[跟着巴菲特干了近40年的副手，为何抛掉逾半数持股？](https://www.huxiu.com/article/3464195.html?f=rss)|
+||[假如意识连接了网络，你是否会获得真正的自由？](https://www.huxiu.com/article/3457056.html?f=rss)|
+||[曾经火爆的土建类专业，身价暴跌](https://www.huxiu.com/article/3464159.html?f=rss)|
+||[“千亿美元俱乐部”的15名超级富豪：财富总额约2.2万亿美元](https://www.huxiu.com/article/3464188.html?f=rss)|
+||[广东领跑，迈向全国高铁里程之最](https://www.huxiu.com/article/3464156.html?f=rss)|
+||[28年前的《食神》，为何能让当代国产喜剧集体汗颜？](https://www.huxiu.com/article/3461269.html?f=rss)|
+||[Open AI新模型o1问世，能像人类一样思考？](https://www.huxiu.com/article/3463704.html?f=rss)|
+||[一亿赔付之争：大主播翻车，赔偿全凭良心](https://www.huxiu.com/article/3463708.html?f=rss)|
+||[从地狱开局，到高端化身，日料是如何崛起的？](https://www.huxiu.com/article/3463722.html?f=rss)|
+||[一笔520亿的交易，黄了](https://www.huxiu.com/article/3463740.html?f=rss)|
+||[今天，450亿美妆巨头退市](https://www.huxiu.com/article/3463730.html?f=rss)|
+||[宁高宁的100条商业思考](https://www.huxiu.com/article/3463729.html?f=rss)|
+||[OpenAI最强模型o1，仍分不出“9.11和9.8哪个大”](https://www.huxiu.com/article/3463526.html?f=rss)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[产品的力量：从理论到实践（二十七）](https://www.woshipm.com/share/6114475.html)|
+||[如何使用Axure制作一份WMS智慧仓储管理系统原型？](https://www.woshipm.com/share/6114411.html)|
+||[在下一程，产品经理如何守得云开见月明？](https://www.woshipm.com/share/6114470.html)|
 |[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[谈谈 Function Calling](https://my.oschina.net/u/7992208/blog/15589589)|
 ||[NPU 与 GPU 相比，有什么差别？](https://my.oschina.net/IDP/blog/15787377)|
 ||[9月21日，源创会西安，聊聊大模型技术与产业应用](https://www.oschina.net/event/2333696)|
