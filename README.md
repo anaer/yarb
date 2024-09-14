@@ -2,7 +2,19 @@
 
 |来源|标题|
 |---|---|
-|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Unity幡然醒悟，取消运行费用，开发者的春天来了？](https://www.tmtpost.com/7250435.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[OpenAI大秀肌肉，一口气放出10个新模型Demo，全球网友玩疯了](https://www.jiqizhixin.com/articles/2024-09-14)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[掌握团队决策的关键要素：产品经理如何高效推动决策落地](https://www.woshipm.com/zhichang/6114889.html)|
+||[如何更好的驱动用户行为决策](https://www.woshipm.com/share/6114842.html)|
+||[产品经理的AI基础：浅谈大模型的局限性（下）](https://www.woshipm.com/share/6113994.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[在react demo中，刷新页面，`useEffect` 代码执行了2次，请问原因是什么呢？](https://segmentfault.com/q/1010000045273534)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[请问大家在没法写个人项目的时候是如何改善的？](https://www.v2ex.com/t/1072852#reply18)|
+|[V2EX](https://v2ex.com/index.xml)|[ 投资 百万纳指 - 我再次改主意，全仓， 梭哈，买买买，永远不卖](https://www.v2ex.com/t/1072863#reply12)|
+||[ 优惠信息 招行速度](https://www.v2ex.com/t/1072857#reply23)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[US Finalizes Section 301 Tariffs Hikes on Chinese EVs, Semiconductors, Solar Cells](https://www.tmtpost.com/7250912.html)|
+||[【生态环境周观察】能源法草案二审稿公开征求意见；加拿大拟对中国电池、光伏等产品加征关税；特朗普称如当选将废除支持清洁能源的《通货膨胀削减法案》](https://www.tmtpost.com/7249232.html)|
+||[竞逐万亿赛道，成都高新区加快建设人工智能产业高地](https://www.tmtpost.com/7250132.html)|
+||[China Slaps PwC with Record Fines and Six-Month Suspension Over Evergrande Fraud](https://www.tmtpost.com/7250832.html)|
+||[Unity幡然醒悟，取消运行费用，开发者的春天来了？](https://www.tmtpost.com/7250435.html)|
 ||[百亿珀莱雅，舅舅交棒大外甥](https://www.tmtpost.com/7250571.html)|
 ||[从“机海”到“高端”，国产手机大转向](https://www.tmtpost.com/7250598.html)|
 ||[不愿抄底大A，就去买港股吧](https://www.tmtpost.com/7250600.html)|
