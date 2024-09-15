@@ -2,6 +2,25 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[美国商务部长推荐NVIDIA、苹果考虑Intel代工](https://m.cnbeta.com.tw/view/1445919.htm)|
+||[美官员：特朗普遭未遂刺杀现场安保有疏漏 情报传输存缺陷](https://m.cnbeta.com.tw/view/1445916.htm)|
+||[在中国，什么“吓到”了福特CEO？](https://m.cnbeta.com.tw/view/1445915.htm)|
+||[第二大稳定币USDC发行商Circle宣布在IPO前将总部迁至纽约](https://m.cnbeta.com.tw/view/1445911.htm)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ NAS 原来云盘文件在 Server 是不加密的](https://www.v2ex.com/t/1073207#reply29)|
+||[ 宽带症候群 在香港买 6Ghz 路由器带回来能否用 6Ghz？](https://www.v2ex.com/t/1073193#reply13)|
+||[ 问与答 友友们，奢侈品牌男装有哪些呀](https://www.v2ex.com/t/1073189#reply28)|
+||[ Google 现在 android 有什么办法熄屏听油管么？](https://www.v2ex.com/t/1073188#reply30)|
+||[ 程序员 求推荐一款显示器，需要 4k 和反向充电，兼顾 Win 玩游戏](https://www.v2ex.com/t/1073187#reply19)|
+||[ 程序员 退役老旧电脑，没卖的话，你们会用来干什么？ 2024 版](https://www.v2ex.com/t/1073179#reply41)|
+||[ 职场话题 目前身边失业的人越来越多，想做一下统计。](https://www.v2ex.com/t/1073176#reply24)|
+||[ iPhone 钥匙链清理工具 KCleaner V2.2 已发布](https://www.v2ex.com/t/1073170#reply18)|
+||[ 问与答 晚上睡觉总是入睡很慢咋办？还容易中途醒](https://www.v2ex.com/t/1073168#reply22)|
+||[ 问与答 现在阿里系的购物软件真的还有必要存在吗？](https://www.v2ex.com/t/1073167#reply52)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[从城市回村后，她们在山川大海间寻找到另一片天空](https://www.tmtpost.com/7251858.html)|
+||[iPhone 16“秋裤色”丑上热搜，苹果为何翻车了？](https://www.tmtpost.com/7251767.html)|
+||[猪八戒网被曝欠薪，创始人却拿走近亿薪酬？公司回应来了](https://www.tmtpost.com/7251723.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在Chrome DevTools中成功修改并重放请求的Cookies？](https://segmentfault.com/q/1010000045277243)|
+|[虎嗅](https://rss.huxiu.com/)|[房地产将往何处走？](https://www.huxiu.com/article/3472046.html?f=rss)|
 |[南方周末-新闻](https://rsshub.app/infzm/2)|[延迟退休来了丨政经十事](https://www.infzm.com/contents/278942)|
 ||[“有报纸还会关注我们这些人”丨记者手记](https://www.infzm.com/contents/278822)|
 |[爱范儿](https://www.ifanr.com/feed)|[联想携手英特尔高通 AMD 和微软，试图重塑 AIPC 的新世代体验](https://www.ifanr.com/1599588?utm_source=rss&utm_medium=rss&utm_campaign=)|
