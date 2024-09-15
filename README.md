@@ -2,6 +2,69 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[延迟退休来了丨政经十事](https://www.infzm.com/contents/278942)|
+||[“有报纸还会关注我们这些人”丨记者手记](https://www.infzm.com/contents/278822)|
+|[爱范儿](https://www.ifanr.com/feed)|[联想携手英特尔高通 AMD 和微软，试图重塑 AIPC 的新世代体验](https://www.ifanr.com/1599588?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【译】同时踩了 苹果 iPad 和 微软 Surface 的 Linux 生产力平板？](https://xlrocket.blog/2024/09/15/%e3%80%90%e8%af%91%e3%80%91%e5%90%8c%e6%97%b6%e8%b8%a9%e4%ba%86-%e8%8b%b9%e6%9e%9c-ipad-%e5%92%8c-%e5%be%ae%e8%bd%af-surface-%e7%9a%84-linux-%e7%94%9f%e4%ba%a7%e5%8a%9b%e5%b9%b3%e6%9d%bf%ef%bc%9f/)|
+|[IT之家](https://www.ithome.com/rss/)|[天津大学为新生研发“AI 学长”海棠棠：24 小时解答学术科研、校园生活、个人发展等问题](https://www.ithome.com/0/796/112.htm)|
+||[维斯瓦河畔的乡愁：《奇唤士》与魔幻版华沙往事](https://www.ithome.com/0/796/111.htm)|
+||[蔡崇信近 4 个月增持阿里巴巴股票约 145 万股](https://www.ithome.com/0/796/110.htm)|
+||[第 1000 台极氪 009 光辉版车型 9 月 16 日交付，历时 115 天创四座超豪华旗舰最速交付纪录](https://www.ithome.com/0/796/109.htm)|
+||[非接触式短波红外成像新技术问世，可检测闭眼状态下瞳孔大小和眼球活动](https://www.ithome.com/0/796/107.htm)|
+||[SpaceX“北极星黎明号”任务的“龙”飞船成功溅落在佛罗里达州海面](https://www.ithome.com/0/796/106.htm)|
+||[科沃斯 W2S PRO 擦窗机器人开启预售：双边三喷头、130mins 续航，2999 元](https://www.ithome.com/0/796/105.htm)|
+||[NASA 滞留国际空间站的宇航员：我们并没有对波音星际客机感到失望](https://www.ithome.com/0/796/104.htm)|
+||[真我 GT5 Pro 手机推送 803 版 realme UI 5.0：新增多项启退动画、AI 传送门](https://www.ithome.com/0/796/103.htm)|
+||[Vibro 智能 App 亮相，仅靠手机在家就能测量血压](https://www.ithome.com/0/796/102.htm)|
+||[小熊全玻璃养生壶 2.0 预售：0.8L 容量、红外感温防溢出，售价 299 元](https://www.ithome.com/0/796/101.htm)|
+||[2025 款斯巴鲁 BRZ 美国上市，搭载 2.4 升水平对置发动机](https://www.ithome.com/0/796/100.htm)|
+||[全球首座高低塔采用无桩基础设计大跨度悬索桥，桐梓河特大桥在贵州建成通车](https://www.ithome.com/0/796/099.htm)|
+||[东芝小白桃 2.0 高奢版冰箱预售：573 升容量、60 分钟制冰，21052 元](https://www.ithome.com/0/796/097.htm)|
+||[国家金融监督管理总局重庆监管局：核准重庆小米消费金融有限公司开展资产证券化业务资格](https://www.ithome.com/0/796/096.htm)|
+||[米哈游《崩坏 3》7.9 版本联动《崩坏：星穹铁道》，9 月 19 日公布完整幕后内容](https://www.ithome.com/0/796/095.htm)|
+||[我国自主研发，医用同位素镭-223 和锕-225 的分离制备获得重要进展](https://www.ithome.com/0/796/094.htm)|
+||[阿尔法・罗密欧 Giulia 四叶草黑标限量版将于 9 月 22 日上市，中国市场限量 14 辆](https://www.ithome.com/0/796/093.htm)|
+||[清华团队合作在几何表示论与几何朗兰兹领域取得新突破](https://www.ithome.com/0/796/092.htm)|
+||[vivo Y300 Pro 手机维修备件公布：显示屏 430 元，主板 950 元起](https://www.ithome.com/0/796/091.htm)|
+||[七工匠 Z / E / L 卡口新自动对焦镜头曝光](https://www.ithome.com/0/796/089.htm)|
+||[北通鲲鹏 20 手柄 9 月 19 日发布：0 接触防磨损结构、一键导入云键位，预售价 189 元](https://www.ithome.com/0/796/088.htm)|
+||[不规范的 Excel 记录表怎么才能快速转置](https://www.ithome.com/0/796/086.htm)|
+||[自主研制，我国首个业务化运行的星地激光通信地面站在新疆建成](https://www.ithome.com/0/796/085.htm)|
+||[英伟达开源 Nemotron-Mini-4B-Instruct 小语言 AI 模型：专为角色扮演设计，9216 MLP、上下文长度 4096 词元](https://www.ithome.com/0/796/084.htm)|
+||[苹果官网显示 AirPods 充电盒无线充电额定传输功率 1W，覆盖 A1938、A2190 等 5 款型号](https://www.ithome.com/0/796/083.htm)|
+||[中秋假期首日全国铁路预计发送旅客 1680 万人次](https://www.ithome.com/0/796/082.htm)|
+||[消息称 OpenAI 明年调整结构，转变为传统的营利性公司](https://www.ithome.com/0/796/081.htm)|
+||[美国商务部长力挺英特尔，推动英伟达、苹果等公司芯片使用英特尔代工](https://www.ithome.com/0/796/079.htm)|
+||[东风本田灵悉 L 纯电车型 9 月 26 日上市，配备电子外后视镜](https://www.ithome.com/0/796/078.htm)|
+||[写给小白的操作系统入门科普](https://www.ithome.com/0/796/077.htm)|
+||[林肯冒险家木兰特别版 SUV 上市：专属燕山白外饰、熏黑套件，售 28.78 万元](https://www.ithome.com/0/796/076.htm)|
+||[盘点 Excel 公式的 8 种错误类型](https://www.ithome.com/0/796/075.htm)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[现在 android 有什么办法熄屏听油管么？](https://www.v2ex.com/t/1073188#reply19)|
+||[原来云盘文件在 Server 是不加密的](https://www.v2ex.com/t/1073207#reply18)|
+||[退役老旧电脑，没卖的话，你们会用来干什么？ 2024 版](https://www.v2ex.com/t/1073179#reply35)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[Apple Store应用程序主页暗示MacBook家族可能带来Face ID](https://m.cnbeta.com.tw/view/1445910.htm)|
+||[博主展示国内矿卡兆瓦级超充：充电功率1187kW 3分钟充进59度电](https://m.cnbeta.com.tw/view/1445908.htm)|
+||[德国奇观：RTX 4070 GDDR6反而比GDDR6X更贵](https://m.cnbeta.com.tw/view/1445907.htm)|
+||[Google宣布所有英语语种的Gemini Live用户现可免费使用](https://m.cnbeta.com.tw/view/1445906.htm)|
+||[小米14T Pro海报曝光 配置与Redmi K70至尊版海外版相同](https://m.cnbeta.com.tw/view/1445905.htm)|
+||[第一款八核心Zen5 APU现身跑分网站 可能是四大核四小核](https://m.cnbeta.com.tw/view/1445904.htm)|
+||[Ubuntu 开发人员开始为骁龙 X1 Elite 提供支持](https://m.cnbeta.com.tw/view/1445903.htm)|
+||[阿里云盘相册陌生照片“乱入” 回应称已关注到相关Bug](https://m.cnbeta.com.tw/view/1445901.htm)|
+||[三只羊各账号橱窗已下架“香港美诚月饼”](https://m.cnbeta.com.tw/view/1445900.htm)|
+||[MIT研究：与AI对话有助于持续地降低阴谋论的影响](https://m.cnbeta.com.tw/view/1445899.htm)|
+||[摩尔定律放缓 芯片巨头集体碰壁](https://m.cnbeta.com.tw/view/1445898.htm)|
+||[路透社：OpenAI巨额估值取决于颠覆公司结构](https://m.cnbeta.com.tw/view/1445897.htm)|
+||[MagicLab国产人形机器人左手拧螺丝 右手咖啡拉花](https://m.cnbeta.com.tw/view/1445896.htm)|
+||[特斯拉版“萝卜快跑”曝光？不像轿车像货车](https://m.cnbeta.com.tw/view/1445895.htm)|
+||[汽车行业陷入困境 供应商受到冲击](https://m.cnbeta.com.tw/view/1445894.htm)|
+||[估值“从未这么低”，市场在定价谷歌分拆？](https://m.cnbeta.com.tw/view/1445893.htm)|
+|[虎嗅](https://rss.huxiu.com/)|[实探广州家电“以旧换新”：9月加大优惠力度后，出效果了](https://www.huxiu.com/article/3473109.html?f=rss)|
+||[断供房贷被冷处理](https://www.huxiu.com/article/3472604.html?f=rss)|
+||[方玉友退场，珀莱雅“二代”接班](https://www.huxiu.com/article/3472609.html?f=rss)|
+||[黄仁勋，投了李飞飞](https://www.huxiu.com/article/3472600.html?f=rss)|
+||[欧央行年内第二次降息，全球宽松周期要来了](https://www.huxiu.com/article/3472608.html?f=rss)|
+||[月入过万，赛博“PUA”为孤独年轻人打造自律人生](https://www.huxiu.com/article/3472217.html?f=rss)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[房东担心房子成凶宅掉价，晚期癌症患者还能租到房吗？丨快评](https://www.infzm.com/contents/278940)|
 |[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[小本本系列：prompt engineering课堂笔记](https://www.edony.ink/prompt-engineering-notebook/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[特斯拉：第1亿颗4680电池下线](https://m.cnbeta.com.tw/view/1445890.htm)|
 ||[荷兰玩家用24块硬盘组成96TB NAS 用了10年没任何故障](https://m.cnbeta.com.tw/view/1445889.htm)|
