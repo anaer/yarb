@@ -2,6 +2,35 @@
 
 |来源|标题|
 |---|---|
+|[Shadow Walker 松烟阁](https://www.edony.ink/rss/)|[小本本系列：prompt engineering课堂笔记](https://www.edony.ink/prompt-engineering-notebook/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[特斯拉：第1亿颗4680电池下线](https://m.cnbeta.com.tw/view/1445890.htm)|
+||[荷兰玩家用24块硬盘组成96TB NAS 用了10年没任何故障](https://m.cnbeta.com.tw/view/1445889.htm)|
+||[“贝碧嘉”今夜直扑江浙沪 8年来最强中秋台风](https://m.cnbeta.com.tw/view/1445888.htm)|
+||[慧荣SM2508主控首测：读写满血 还不烫手](https://m.cnbeta.com.tw/view/1445885.htm)|
+||[iOS 18.2解锁ChatGPT、助听器模式等功能 年底就能体验到满血版](https://m.cnbeta.com.tw/view/1445884.htm)|
+||[男子提供有偿代骂每单收费240元 已骂400余人](https://m.cnbeta.com.tw/view/1445881.htm)|
+||[猪八戒网被曝欠薪，创始人朱明跃却拿走近亿薪酬？公司回应来了](https://m.cnbeta.com.tw/view/1445878.htm)|
+||[OpenAI新模型o1的可怕之处：“编程作为一个职业在今日终结”](https://m.cnbeta.com.tw/view/1445877.htm)|
+||[印度指控小米、vivo等勾结电商平台 违反反垄断法](https://m.cnbeta.com.tw/view/1445876.htm)|
+||[扶不起的英特尔 拆分是唯一的机会](https://m.cnbeta.com.tw/view/1445875.htm)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[网商银行首摘“罚金之王”｜金融合规月榜](https://www.infzm.com/contents/278824)|
+|[少数派](http://sspai.me/feed)|[城市漫步指南：关西的夏日重现](https://sspai.com/post/91511)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[退役老旧电脑，没卖的话，你们会用来干什么？ 2024 版](https://www.v2ex.com/t/1073179#reply20)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[4200万未赔，疑似再添4000万月饼，小杨哥带货再翻车](https://www.huxiu.com/article/3470047.html?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[华为诺亚联合中科大发布工具调用模型ToolACE，效果持平GPT-4获开源第一](https://www.jiqizhixin.com/articles/2024-09-15-4)|
+||[「LLM」这个名字不好，Karpathy认为不准确、马斯克怒批太愚蠢](https://www.jiqizhixin.com/articles/2024-09-15-3)|
+||[DeepMind又损大将，AI总监Nando de Freitas离职，曾领导开发Gato、Genie](https://www.jiqizhixin.com/articles/2024-09-15-2)|
+||[北大对齐团队独家解读：OpenAI o1开启「后训练」时代强化学习新范式](https://www.jiqizhixin.com/articles/2024-09-15)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 友友们，奢侈品牌男装有哪些呀](https://www.v2ex.com/t/1073189#reply17)|
+||[ 程序员 求推荐一款显示器，需要 4k 和反向充电，兼顾 Win 玩游戏](https://www.v2ex.com/t/1073187#reply13)|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[寄生兽: 灰色部队](https://leimao.github.io/essay/%E5%AF%84%E7%94%9F%E5%85%BD-%E7%81%B0%E8%89%B2%E9%83%A8%E9%98%9F/)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【自荐】Removebg：一个在线免费的 AI 抠图工具](https://w2solo.com/topics/5035)|
+|[虎嗅](https://rss.huxiu.com/)|[详细分析：特朗普和哈里斯，都辩论了啥？](https://www.huxiu.com/article/3472211.html?f=rss)|
+||[市值超1万亿美元，巴菲特觉得伯克希尔也贵了？](https://www.huxiu.com/article/3472220.html?f=rss)|
+||[name这个词，不小心能搞出一堆歧义句......](https://www.huxiu.com/article/3469669.html?f=rss)|
+||[“中国行动计划”欲重启？要担忧的不仅是在美华人科学家](https://www.huxiu.com/article/3472049.html?f=rss)|
+||[复活节岛衰落，真是因为人口崩溃吗？](https://www.huxiu.com/article/3470054.html?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[微信小程序开发中有没有对标像 react-query 这样的请求库?](https://segmentfault.com/q/1010000045276995)|
 |[IT之家](https://www.ithome.com/rss/)|[阿里云盘相册陌生照片“乱入”回应称已快速修复，用户影响面较小](https://www.ithome.com/0/796/074.htm)|
 ||[石头 P20 Pro 自清洁扫拖机器人开售：水箱 / 自动上下水双版本、18500 Pa 吸力，3999 元起](https://www.ithome.com/0/796/073.htm)|
 ||[将人物主体拍虚，也能表现出独特的味道](https://www.ithome.com/0/796/072.htm)|
