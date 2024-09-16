@@ -2,6 +2,48 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 115 凉了吗](https://www.v2ex.com/t/1073343#reply19)|
+||[ Windows 需要长时开机，又不愿出现高能耗：一个小技巧](https://www.v2ex.com/t/1073340#reply19)|
+||[ 上海 台风，没饭吃，要似了](https://www.v2ex.com/t/1073324#reply28)|
+||[ 生活 一则“老乡”情谊下的社交困扰](https://www.v2ex.com/t/1073318#reply22)|
+||[ 问与答 请教各位物理学家，斜坡无动力小车，怎么样才能跑更远](https://www.v2ex.com/t/1073316#reply26)|
+||[ 问与答 宽带只有公网 ipv4，如何远程串流？实在太难了](https://www.v2ex.com/t/1073313#reply17)|
+||[ 分享发现 或许，我们没有那么多密码需要保存](https://www.v2ex.com/t/1073312#reply61)|
+||[ 问与答 来讨论下哪家银行 app 最好用](https://www.v2ex.com/t/1073309#reply21)|
+||[ 程序员 域名解析的双 ip 停掉一个后，无法通过域名请求接口](https://www.v2ex.com/t/1073301#reply12)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[AMH面板WAF插件与WordPress的WordFence插件可否同时开启？](https://segmentfault.com/q/1010000045278863)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[网红周鸿祎，涨不动粉了](https://www.tmtpost.com/7252126.html)|
+||[卖不好车的阿维塔，操不完心的长安](https://www.tmtpost.com/7252172.html)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[猪猪--13.7的成本，该骂不该骂](http://xueqiu.com/6022681001/304721558)|
+||[起立鼓掌，躬身前行：万字详解AK112与K药单药头对头PFS数据](http://xueqiu.com/1335311504/304654547)|
+||[投资风险&过程&结果](http://xueqiu.com/2792218779/304730063)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[【网站自荐】改革后法定退休年龄计算器 & 翻页倒计时工具](https://w2solo.com/topics/5037)|
+|[小众软件](http://feeds.appinn.com/appinns)|[在 Chrome 上用「小窗模式」打开微博、抖音、小红书](https://www.appinn.com/weibo-douyin-xiaohongshu-mini-windows-mode/)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[学术会议口碑每况愈下，要警惕学术权力滥用](https://www.infzm.com/contents/278960)|
+||[东盟和平与和解研究所执行主任普加：“以维护东盟中心性为核心”](https://www.infzm.com/contents/278962)|
+||[耳机跨界，AirPods可充当助听器](https://www.infzm.com/contents/278977)|
+||[假冒银行，高频外呼，精准获客：贷款中介何以爆打你的电话？](https://www.infzm.com/contents/278973)|
+|[IT之家](https://www.ithome.com/rss/)|[乐道总裁艾铁成：目标是做一辆在上市以后 3-5 年依旧在行业领先的车型](https://www.ithome.com/0/796/291.htm)|
+||[OPPO 新机现身 Geekbench：单核 2889 分、多核 8833 分，预计为 Find X8](https://www.ithome.com/0/796/290.htm)|
+||[AI 也会做梦吗，什么是 AI 幻觉](https://www.ithome.com/0/796/289.htm)|
+||[上海官方辟谣“有人关窗从楼上掉下去了”等“贝碧嘉”台风相关网络谣言](https://www.ithome.com/0/796/287.htm)|
+||[首单完成，国家能源集团开创全球可再生氢数字化平台销售先河](https://www.ithome.com/0/796/286.htm)|
+||[发售两年后，任天堂宣布即将结束《斯普拉遁 3》游戏的定期更新](https://www.ithome.com/0/796/284.htm)|
+||[首批 500 辆，全国最大规模氢能两轮车在佛山南海桂城平洲投运](https://www.ithome.com/0/796/283.htm)|
+||[国际首次，中国科大实现百公里开放大气双光梳精密光谱测量](https://www.ithome.com/0/796/281.htm)|
+||[日本家电卖场巨头 Nojima 推出“AI 社长”，用于培养公司内部人才](https://www.ithome.com/0/796/280.htm)|
+||[中秋假期第二天全国铁路预计发送旅客 1180 万人次，9 月 30 日火车票开售](https://www.ithome.com/0/796/279.htm)|
+||[波音美国两地工厂 3.3 万工人罢工，工会回应称罢工“可能会持续一段时间”](https://www.ithome.com/0/796/278.htm)|
+||[腾讯《王者荣耀》发布 S37 赛季【暗影狂舞】预告：分路匹配上线、金牌玩家失败不掉星](https://www.ithome.com/0/796/277.htm)|
+||[杰富瑞分析师称大众汽车拟强制推动关厂决定，为裁员 1.5 万人铺路](https://www.ithome.com/0/796/276.htm)|
+||[2024 中秋档电影票房（含预售）破 2 亿 ，《野孩子》《一雪前耻》《出走的决心》暂列前三](https://www.ithome.com/0/796/274.htm)|
+||[Jetbrains 旗下 Rust IDE“RustRover”新增个人商业用途版，定价 550 元 / 年](https://www.ithome.com/0/796/273.htm)|
+||[阿维塔科技总裁陈卓：公司旗下首台右舵车即将登陆泰国市场](https://www.ithome.com/0/796/272.htm)|
+||[红魔电竞平板 Pro 通过优酷帧享超高清认证，支持 120 帧 + SDR 显示](https://www.ithome.com/0/796/271.htm)|
+||[蔚来汽车合肥 PCDC 配件分拨中心开仓，顺丰负责日常管理与运营](https://www.ithome.com/0/796/270.htm)|
+||[元素周期表中最奇特和最被低估的元素 —— 铋](https://www.ithome.com/0/796/268.htm)|
+||[第 47 届世界技能大赛闭幕：中国位居金牌榜首位，汽车技术、云计算等 36 个项目夺金](https://www.ithome.com/0/796/267.htm)|
+||[北京经开区将建设集成电路测试验证共享技术平台](https://www.ithome.com/0/796/266.htm)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[NCC 已經看到 AirPods Max 身影，距台灣開賣日不遠](https://applefans.today/2024-09-airpods-max-ncc-pass/)|
 ||[iPhone 16 Pro 換電池費用變貴！如何節省維修費用？](https://applefans.today/2024-09-iphone-16-battery-replacement-price/)|
 |[虎嗅](https://plink.anyfeeder.com/huxiu)|[保本式创新，救不了中国LP](https://www.huxiu.com/article/3475577.html?f=rss)|
