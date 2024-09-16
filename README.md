@@ -2,6 +2,70 @@
 
 |来源|标题|
 |---|---|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[NCC 已經看到 AirPods Max 身影，距台灣開賣日不遠](https://applefans.today/2024-09-airpods-max-ncc-pass/)|
+||[iPhone 16 Pro 換電池費用變貴！如何節省維修費用？](https://applefans.today/2024-09-iphone-16-battery-replacement-price/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[保本式创新，救不了中国LP](https://www.huxiu.com/article/3475577.html?f=rss)|
+||[M1连续五个月负增长，增量政策有望出台](https://www.huxiu.com/article/3475578.html?f=rss)|
+||[觉得活着没意思，可能是因为“情感麻木”](https://www.huxiu.com/article/3475337.html?f=rss)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[AWS 将 OpenSearch 纳入 Linux 基金会旗下](https://m.cnbeta.com.tw/view/1445990.htm)|
+||[Linux 6.12 将支持来自 Arm 的权限覆盖扩展](https://m.cnbeta.com.tw/view/1445988.htm)|
+||[最新泄露信息展示三星 Galaxy S25 Ultra 与 S24 Ultra 的区别](https://m.cnbeta.com.tw/view/1445987.htm)|
+||[“贝碧嘉”离开上海进入江苏 掀起1米多高的巨浪](https://m.cnbeta.com.tw/view/1445984.htm)|
+||[马斯克私人保镖揭秘：20人随时贴身保护 在卫生间都不离开视线](https://m.cnbeta.com.tw/view/1445982.htm)|
+||[5位富豪命丧海底 泰坦号潜艇内爆案公开听证 仍有5大谜团](https://m.cnbeta.com.tw/view/1445981.htm)|
+||[iPhone 16官方换块电池千元：苹果称人力、工艺都涨价](https://m.cnbeta.com.tw/view/1445979.htm)|
+||[车主称增程车用着太痛苦 要么纯油、要么纯电 博主反驳](https://m.cnbeta.com.tw/view/1445978.htm)|
+||[iPhone 16系列首销破发 平台券后补贴价降600元](https://m.cnbeta.com.tw/view/1445975.htm)|
+||[《中国计算机报》原执行总裁张永捷去世：生前患癌多年](https://m.cnbeta.com.tw/view/1445974.htm)|
+||[汽车以旧换新升级潮：一个月18地更新政策 补贴力度哪里最强？](https://m.cnbeta.com.tw/view/1445973.htm)|
+||[1000个Agent圈地模拟人类社会 北大校友创业AI版《我的世界》](https://m.cnbeta.com.tw/view/1445969.htm)|
+||[超强o1模型智商已超120 1小时写出NASA博士1年代码](https://m.cnbeta.com.tw/view/1445968.htm)|
+||[宗馥莉正面对决钟睒睒](https://m.cnbeta.com.tw/view/1445967.htm)|
+||[卖一台车能赚多少钱：法拉利85万登顶、国产最多倒贴12万](https://m.cnbeta.com.tw/view/1445966.htm)|
+||[比亚迪拿下腾势100%股权 合资变独资 奔驰退出](https://m.cnbeta.com.tw/view/1445965.htm)|
+||[工会罢工或成持久战 波音财务困境恐进一步加剧](https://m.cnbeta.com.tw/view/1445964.htm)|
+||[特朗普遭疑似暗杀未遂事件嫌疑人身份曝光 曾因持有“大规模杀伤性武器”被定罪](https://m.cnbeta.com.tw/view/1445963.htm)|
+||[苹果变相打折“苹果税” App Store推出“回头客优惠”](https://m.cnbeta.com.tw/view/1445962.htm)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[需要长时开机，又不愿出现高能耗：一个小技巧](https://www.v2ex.com/t/1073340#reply13)|
+||[一款同时支持 Java 1.8/17+ 、 Python 、Go 的分布式调度任务平台和分布式任务重试平台](https://www.v2ex.com/t/1073283#reply12)|
+|[虎嗅](https://rss.huxiu.com/)|[环保企业应收账款压过半年营收](https://www.huxiu.com/article/3476372.html?f=rss)|
+||[国产咖啡巨头“巷战”，加盟商求生](https://www.huxiu.com/article/3476058.html?f=rss)|
+||[宗馥莉正面对决钟睒睒](https://www.huxiu.com/article/3475344.html?f=rss)|
+||[银行的息差“焦虑”](https://www.huxiu.com/article/3476064.html?f=rss)|
+||[广东最适合度假的城市，毫无班味](https://www.huxiu.com/article/3476060.html?f=rss)|
+|[煎蛋](http://jandan.net/feed)|[脑力小体操：查看100枚硬币的正反面](http://jandan.net/p/117792)|
+|[IT之家](https://www.ithome.com/rss/)|[上海：受“贝碧嘉”台风影响，外卖平台酌情对骑手超时免责](https://www.ithome.com/0/796/265.htm)|
+||[港澳金融合作里程碑，香港金管局 CMU 与澳门金管局属下中央证券托管系统建立直接联网](https://www.ithome.com/0/796/263.htm)|
+||[115 网盘服务故障，官网 502 错误](https://www.ithome.com/0/796/261.htm)|
+||[MathWorks 推出 MATLAB 和 Simulink 的 R2024b 版本：实时编辑器字体、组件接口视图](https://www.ithome.com/0/796/259.htm)|
+||[消息称 iQOO Z9 Turbo+ 手机 9 月 24 日发布，搭载天玑 9300+ 处理器](https://www.ithome.com/0/796/258.htm)|
+||[第 1000 台极氪 009 光辉版车型今日交付，车主为奥运冠军田亮叶一茜夫妻](https://www.ithome.com/0/796/256.htm)|
+||[打游戏治疗心理疾病，美国食药监局批准 DeepWell 公司“游戏和交互式媒体”](https://www.ithome.com/0/796/255.htm)|
+||[上海浦东机场、虹桥机场已恢复通行，首个出港航班均计划于 15:00 后执行](https://www.ithome.com/0/796/254.htm)|
+||[网传南京南站一辆小米 SU7 汽车冲进绿化带起火](https://www.ithome.com/0/796/253.htm)|
+||[商务部部长王文涛会见意大利汽车工业协会主席瓦瓦索里，就欧盟对华电动汽车反补贴案等议题交流](https://www.ithome.com/0/796/252.htm)|
+||[东风奕派公布 eπ007 汽车高温出行报告：7~8 月平均续航里程达成率 80.8%](https://www.ithome.com/0/796/250.htm)|
+||[OpenAI 超强 o1 智商超 120 遥遥领先于其他模型：1 小时写出 NASA 博士 1 年代码，最新编程赛超越 99.8% 选手](https://www.ithome.com/0/796/249.htm)|
+||[特斯拉中国车型更新后新增 FSD（驾驶员监管版）按钮](https://www.ithome.com/0/796/247.htm)|
+||[小米开启“中秋国庆”回馈活动，MIX Fold4 折叠屏手机用户可免费领取皮质保护壳](https://www.ithome.com/0/796/246.htm)|
+||[比亚迪详解方程豹豹 8 混动 SUV 外观，以未来星舰为设计灵感打造](https://www.ithome.com/0/796/245.htm)|
+||[真力 GENELEC 发布 UNIO 生态下的个人参考级监听解决方案](https://www.ithome.com/0/796/244.htm)|
+||[瑞士启用“阿尔卑斯”新型超级计算机，满足极端数据处理及 AI 需求](https://www.ithome.com/0/796/243.htm)|
+||[长城汽车在越南启动 CKD 工厂项目，2025 年底实现越南汽车越南造](https://www.ithome.com/0/796/241.htm)|
+||[消息称华为智慧屏 V5 Max 110 英寸峰值亮度 5000nits，首发鸿蒙 4.4 系统](https://www.ithome.com/0/796/240.htm)|
+||[网友使用华为 Mate XT 非凡大师三折叠手机实现裸眼 3D 效果，类似广场大屏](https://www.ithome.com/0/796/239.htm)|
+||[交个朋友直播间回应“香港美诚月饼”赔付问题：节后尽快完成“先行赔付”](https://www.ithome.com/0/796/238.htm)|
+||[蚂蚁电竞 ANT255VF 显示器开售：12bit 色深、540Hz 原生高刷，5999 元](https://www.ithome.com/0/796/237.htm)|
+||[斯莫格推出无线跟焦器新品：内置 1400mAh 电池，套装 85 折券后 934.15 元](https://www.ithome.com/0/796/236.htm)|
+||[120 大单反相机的发展](https://www.ithome.com/0/796/235.htm)|
+||[中国航天科技集团：空间大推力发动机与新塔架系统联合热试车取得成功，填补消声降噪技术空白](https://www.ithome.com/0/796/234.htm)|
+|[触乐](http://www.chuapp.com/feed)|[一款PvP游戏，如何构建友好的玩家社区？](http://www.chuapp.com/article/290140.html)|
+|[彭宏豪的个人博客，个人电子产品使用心...](https://penghh.fun/atom.xml)|[3个在线添加视频字幕的软件推荐：剪映国际版Capcut……【效率工具指南】](https://penghh.fun/2024/09/16/2024-9-16-online_subtitle/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取一年 Sticky Password Premium Windows、macOS $29.99→0 ](https://free.apprcn.com/get-one-year-sticky-password-premium-license-for-free-64/)|
+||[Kryptel – 文件加密软件 Windows $29.95→0 ](https://free.apprcn.com/kryptel-19/)|
+||[免费获取字体包 Super All Font Bundle Windows、macOS $643→0 ](https://free.apprcn.com/get-super-all-font-bundle-for-free/)|
+|[Bensz](https://blognas.hwb0307.com/feed/)|[前沿快讯 第58期 肿瘤相关GTPase成员大部分具有可靶向的switch II口袋等](https://blognas.hwb0307.com/medicine/6004)|
+|[太隐](https://wangyurui.com/feed.xml)|[半生荒唐 只因有你](https://wangyurui.com/posts/piao-jiu-wei-feng-chen-41d36c8e)|
 |[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[月下话古今：中秋节到底该怎么过？丨周末同频](https://www.infzm.com/contents/278964)|
 ||[用女性文字交流的密语者们：“我们所有的挣扎都在内部”](https://www.infzm.com/contents/278970)|
 |[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[又快又省的短途游，年轻人爱了](https://www.tmtpost.com/7252150.html)|
