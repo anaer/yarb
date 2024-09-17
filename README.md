@@ -2,6 +2,80 @@
 
 |来源|标题|
 |---|---|
+|[唐巧的博客](http://blog.devtang.com/atom.xml)|[西贝创始人贾国龙的成与败 - 读《折腾不止》](https://blog.devtang.com/2024/09/17/talking-with-xibei/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[官方通报：对三只羊在直播中涉嫌“误导消费者”立案调查](https://www.infzm.com/contents/278996)|
+|[IT之家](https://www.ithome.com/rss/)|[传音控股：公司财务负责人肖永辉已被解除留置措施](https://www.ithome.com/0/796/390.htm)|
+||[消息称福特汽车 CEO 法利访华后产生“生存威胁”焦虑，试驾国产电动 SUV 大开眼界](https://www.ithome.com/0/796/389.htm)|
+||[Steam 国区 318.4 元，索尼第一方游戏《对马岛之魂：导演剪辑版》迎 8 折史低折扣](https://www.ithome.com/0/796/386.htm)|
+||[吉利银河 × 时空道宇“卫星高精定位可穿戴智能设备”亮相：支持 SOS 紧急报警、手机蓝牙配对等功能](https://www.ithome.com/0/796/385.htm)|
+||[美的集团今日在港交所上市：募资超 300 亿港元，开盘涨 8%](https://www.ithome.com/0/796/384.htm)|
+||[IGN 投票显示 68% 玩家因“699 美元定价过高”不考虑购买索尼 PS5 Pro 游戏机](https://www.ithome.com/0/796/382.htm)|
+||[原计划 11 关减到 6 关，《黑神话：悟空》全新纪录片《路在脚下》9 月 21 日发布](https://www.ithome.com/0/796/380.htm)|
+||[江铃易至 EV2 PLUS 掀背车上市：续航 201 公里，49990 元起](https://www.ithome.com/0/796/379.htm)|
+||[华为智能手表“EDD-B39”通过国内无线电核准、CQC 认证，支持北斗短报文](https://www.ithome.com/0/796/377.htm)|
+||[美团联合中国物业管理协会发布“畅通配送最后一百米倡议”，外卖骑手进小区扫码一键登记](https://www.ithome.com/0/796/376.htm)|
+||[亚马逊将要求员工每周 5 天在办公室工作，美科技巨头率先停止远程办公](https://www.ithome.com/0/796/375.htm)|
+||[哈尔滨将新建 80 个地铁站公共停车位充电桩，可免费停车 2 小时](https://www.ithome.com/0/796/374.htm)|
+||[Amflow PL Carbon / Pro 自行车发布：首搭大疆 DJI Avinox 电助力系统、21.5 千克重量，36888 元起](https://www.ithome.com/0/796/373.htm)|
+||[IBM 起诉 Take-Two 旗下手游厂商 Zynga 专利侵权胜诉，获赔 4490 万美元](https://www.ithome.com/0/796/371.htm)|
+||[小米雷军祝贺东风汽车第 6000 万台下线：希望能与东风有更深的合作](https://www.ithome.com/0/796/370.htm)|
+||[紫光展锐与中国联通联合发布 AI+5G+eSIM 产业合作行动计划](https://www.ithome.com/0/796/369.htm)|
+||[网红小哥用菠萝皮打造防火铠甲，菠萝皮秒变龙鳞](https://www.ithome.com/0/796/368.htm)|
+||[重大突破！我国首个深水油田二次开发项目建设完工](https://www.ithome.com/0/796/367.htm)|
+||[阿维塔科技：即日起至 9 月 27 日为浙江、上海地区受台风灾害车辆提供免费全车检测等三项关怀服务](https://www.ithome.com/0/796/366.htm)|
+||[亚马逊 Prime Big Deal Days 大促官宣 10 月 8 日举行，第一方产品最高提供 55% 折扣](https://www.ithome.com/0/796/365.htm)|
+||[香港美诚月饼事件进展：三只羊直播涉嫌误导消费者被立案](https://www.ithome.com/0/796/364.htm)|
+||[天文学家在 92 亿光年外发现了两个巨型结构，巨弧和巨环](https://www.ithome.com/0/796/362.htm)|
+||[就在今天，中国科学家首次利用“风行天”空间 X 射线望远镜拍下中秋“超级月亮”](https://www.ithome.com/0/796/361.htm)|
+||[小米推出 89 元米家多功能便携手电筒：1000 流明亮度，30 小时续航](https://www.ithome.com/0/796/360.htm)|
+||[小米推出米家无雾加湿器 3 新品：800mL/h 客厅速润，众筹价 599 元](https://www.ithome.com/0/796/359.htm)|
+||[《黑神话：悟空》章节动画原版合集《六样情》今日开播，共 6 话](https://www.ithome.com/0/796/358.htm)|
+||[联想拯救者暗示 9 月 29 日发布新一代 Y700 电竞平板](https://www.ithome.com/0/796/357.htm)|
+||[一款 PvP 游戏，如何构建友好的玩家社区？](https://www.ithome.com/0/796/356.htm)|
+||[苹果 HomePod 软件 v18 更新，支持同播共享功能](https://www.ithome.com/0/796/354.htm)|
+||[人类首次月背“挖土”：嫦娥六号返回月壤成分揭秘，填补研究历史空白](https://www.ithome.com/0/796/353.htm)|
+||[中秋节月亮怎么拍更好看？注意这几个要点](https://www.ithome.com/0/796/352.htm)|
+||[华硕灵耀 14 Air 笔记本亮相：第 2 代酷睿 Ultra 7、CNC 一体成型机身，首发 8999 元](https://www.ithome.com/0/796/351.htm)|
+||[英特尔 CEO 宣布 40 年来最重要转型：7500 多员工已离职，计划年底前大幅削减房地产](https://www.ithome.com/0/796/350.htm)|
+||[OPPO Find 产品负责人周意保“爆料”Watch X 智能手表新颜色，配白色“长”表带](https://www.ithome.com/0/796/349.htm)|
+||[哪吒 S 汽车 V1.10.4 版本 OTA 升级今起分批推送：支持桌面风格自定义、媒体源切换等功能](https://www.ithome.com/0/796/348.htm)|
+||[京东已完成收购沃尔玛所持的达达股份，持股比例增加至 63.2%](https://www.ithome.com/0/796/347.htm)|
+||[科沃斯 T50 PRO 扫拖机器人开售：81mm 机身，15800Pa 吸力，3999 元起](https://www.ithome.com/0/796/345.htm)|
+||[Netflix 动画剧集《恶魔城：夜曲》第二季先导预告发布，2025 年 1 月播出](https://www.ithome.com/0/796/344.htm)|
+||[五菱缤果 SUV 五座版官宣 9 月 20 日上市，330~510km 三版本可选](https://www.ithome.com/0/796/343.htm)|
+||[AITO 商城上架车载手机支架，适配问界 M5 / M7 系列汽车](https://www.ithome.com/0/796/342.htm)|
+||[比亚迪 E-VALI 纯电动商用车首发亮相德国汉诺威国际交通运输博览会，满足最后一公里末端配送需求](https://www.ithome.com/0/796/341.htm)|
+||[消息称 Vista 和黑石集团将以 80 亿美元估值收购 Smartsheet](https://www.ithome.com/0/796/340.htm)|
+||[小米 AI 百宝箱内测版“待读清单”“截图摘要”“消息摘要”功能重新上线](https://www.ithome.com/0/796/339.htm)|
+||[EA《战地》新作 2025 年发售：回归“现代战争背景”，恢复职业系统](https://www.ithome.com/0/796/338.htm)|
+||[英特尔摘获亚马逊 AWS 芯片代工订单，市值应声上涨 6.36% 反超“真・牙膏厂”高露洁](https://www.ithome.com/0/796/336.htm)|
+||[科技昨夜今晨 0917：苹果 iOS / iPadOS 18.0 正式版发布；马化腾重回中国首富；腾势汽车合资变国产](https://www.ithome.com/0/796/335.htm)|
+||[2024 年国庆假期火车票今日开售，铁路 12306 发布购票日历](https://www.ithome.com/0/796/334.htm)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[小鹏用实际行动证明，李想说得没错](http://www.huxiu.com/article/3479678.html?f=wangzhan)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[谁拥有最多的GPU？](https://www.huxiu.com/article/3475330.html?f=rss)|
+||[小鹏用实际行动证明，李想说得没错](https://www.huxiu.com/article/3479678.html?f=rss)|
+||[未来十年最容易被AI取代的50个职位](https://www.huxiu.com/article/3479677.html?f=rss)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 一次让我以后只用小米手机的遭遇](https://www.v2ex.com/t/1073479#reply12)|
+||[ 问与答 为什么电梯按钮 0、4、6、8、9 这些数字不是闭合的？](https://www.v2ex.com/t/1073464#reply18)|
+||[ 问与答 人生到了一个阶段，有点迷茫，怎么改善这种状态](https://www.v2ex.com/t/1073462#reply11)|
+|[触乐](http://www.chuapp.com/feed)|[制作“史上最烂电子游戏”的人](http://www.chuapp.com/article/290206.html)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[HarmonyOS NEXT正式版近在眼前 可能助力华为Mate XT大爆？](https://m.cnbeta.com.tw/view/1446100.htm)|
+||[Apple Watch Series 10 原定配备血压监测功能 但因设计问题被迫推迟上市](https://m.cnbeta.com.tw/view/1446099.htm)|
+||[社交网络Bluesky目前拥有超过1000万用户](https://m.cnbeta.com.tw/view/1446098.htm)|
+||[红帽为Linux 6.12提交ARM/RISC-V/LoongArch KVM更新](https://m.cnbeta.com.tw/view/1446095.htm)|
+||[FreeBSD 13.4 发布 更新大量软件并改进驱动程序](https://m.cnbeta.com.tw/view/1446094.htm)|
+||[路特斯Theory 1次时代超跑官宣：4电机1000马力 2.5秒破百](https://m.cnbeta.com.tw/view/1446092.htm)|
+||[Intel CEO宣布40年来最重要转型：年底前裁员15000人 抛掉2/3的不动产](https://m.cnbeta.com.tw/view/1446090.htm)|
+||[AI崛起，真假难辨 60%参考文献被撤稿 Nature绷不住了](https://m.cnbeta.com.tw/view/1446087.htm)|
+||[微软Office全家桶再爆办公革命 o1模型加持重塑十亿人工作流](https://m.cnbeta.com.tw/view/1446085.htm)|
+||[Karpathy认为“LLM”这个名字不准确 马斯克非常赞同](https://m.cnbeta.com.tw/view/1446084.htm)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[watchOS 11 正式推出！8 個升級重點 你不要錯過了](https://applefans.today/watchos-11/)|
+||[macOS Sequoia 15 正式推出！8 個升級重點你一定要知道](https://applefans.today/macos-sequoia-15/)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[芳文社的展览门票到了。这次展览分了很多种门票和特典，这次选择的是《点兔》保登心爱在C位的门票，以及《...](https://www.wikimoe.com/post/7fupahl2)|
+|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[哈工大发布“珠算”代码大模型](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650813588&idx=1&sn=bf0fd3791e2b8485654b30b2bacbd0f0)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-17](https://decohack.com/producthunt-daily-2024-09-17/)|
+|[虎嗅](https://rss.huxiu.com/)|[铜价长期将飙升？](https://www.huxiu.com/article/3479689.html?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[小杨哥与董宇辉的宿命](https://www.tmtpost.com/7252579.html)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[甲骨文埃里森：未来10年前沿模型门槛或达千亿美元 AI训练难以全部转向推理阶段｜钛媒体AGI](https://m.cnbeta.com.tw/view/1446083.htm)|
 ||[香港月饼香港买不到 三只羊被立案调查](https://m.cnbeta.com.tw/view/1446082.htm)|
 ||[黄仁勋投了李飞飞：World Labs融资16亿](https://m.cnbeta.com.tw/view/1446081.htm)|
