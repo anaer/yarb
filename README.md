@@ -2,6 +2,52 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://sspai.com/feed)|[具透 iOS 18 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91789)|
+|[华山感染](https://feedpress.me/wx-hsinfect)|[2024中秋节 盈月揽芳华，人间共此时](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503999&idx=1&sn=d97c66d2228036b1f3706e22474f1c91)|
+|[柒月是你的谎言](https://www.huangdf.xyz/rss.xml)|[Centos7切换用户提示权限不足](https://www.huangdf.xyz/archives/Centos7%E5%88%87%E6%8D%A2%E7%94%A8%E6%88%B7%E6%8F%90%E7%A4%BA%E6%9D%83%E9%99%90%E4%B8%8D%E8%B6%B3)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 不得不把私有 git 服务器挂在公网一段时间，用什么方法能提高安全性？](https://www.v2ex.com/t/1073442#reply12)|
+||[ MacBook Air 蹲一个 MacBook Air 2020 M1 升级 Sequoia](https://www.v2ex.com/t/1073427#reply13)|
+||[ 分享创造 熊猫图片格式转换器 PandaGo 中秋送 永久兑换码 ](https://www.v2ex.com/t/1073426#reply47)|
+||[ 奇思妙想 杞人忧天,到底应该怎么安全的保存“恢复密钥”](https://www.v2ex.com/t/1073421#reply21)|
+||[ Apple 有靠谱的日版 iPhone 代购渠道吗？](https://www.v2ex.com/t/1073419#reply12)|
+||[ 程序员 大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply21)|
+||[ 问与答 二维码有啥应用场景？](https://www.v2ex.com/t/1073415#reply12)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 9 部作品](https://sspai.com/post/92277)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[讲述两岸家书的纪录片，年轻一代还会看吗？](https://www.infzm.com/contents/278915)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[床上这个脏地方，很多人从来没洗过！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%BA%8A%E4%B8%8A%E8%BF%99%E4%B8%AA%E8%84%8F%E5%9C%B0%E6%96%B9%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%BB%8E%E6%9D%A5%E6%B2%A1%E6%B4%97%E8%BF%87%EF%BC%81)|
+||[巧克力别放冰箱！好的保存方式其实是……](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%88%AB%E6%94%BE%E5%86%B0%E7%AE%B1%EF%BC%81%E5%A5%BD%E7%9A%84%E4%BF%9D%E5%AD%98%E6%96%B9%E5%BC%8F%E5%85%B6%E5%AE%9E%E6%98%AF%E2%80%A6%E2%80%A6)|
+||[10 个饭后小习惯，有两个真不建议你做！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+10%20%E4%B8%AA%E9%A5%AD%E5%90%8E%E5%B0%8F%E4%B9%A0%E6%83%AF%EF%BC%8C%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%9C%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%A0%E5%81%9A%EF%BC%81)|
+||[皮肤上留了很久的疤，还能不能祛掉？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9A%AE%E8%82%A4%E4%B8%8A%E7%95%99%E4%BA%86%E5%BE%88%E4%B9%85%E7%9A%84%E7%96%A4%EF%BC%8C%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E7%A5%9B%E6%8E%89%EF%BC%9F)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么美国 GDP 增长那么大，用电量反而下降？](https://www.zhihu.com/question/648801148)|
+||[领导表达不清，下面的人猜盲盒，搞完了又说不是自己想要的，修改 n 版，该怎么办？](https://www.zhihu.com/question/666753786)|
+||[如何评价郭麒麟、吴镇宇主演的电视剧《边水往事》?](https://www.zhihu.com/question/664306657)|
+||[德国宣布 9 月 16 日起所有陆地边境恢复护照检查，德国的这一决定是基于何种战略或政治考虑？](https://www.zhihu.com/question/666823941)|
+||[那些曾经让我们痛不欲生的事情，放到 20 年后，会变得怎么样？](https://www.zhihu.com/question/666989943)|
+||[《星鸣特攻》开发商 Firewalk 或面临解散，对此你有什么想说的？](https://www.zhihu.com/question/666739415)|
+||[如何看待「国足最新排名跌至 91 名，8 年半来最低」，为何在壮大联赛、归化球员、聘用名帅后成绩不进反退？](https://www.zhihu.com/question/667269883)|
+||[iPhone 16 开抢官网一度被挤崩，Pro Max 秒没沙漠金抢手，如何评价这一表现？](https://www.zhihu.com/question/667123964)|
+||[这一生很长，我们怎么学会坚持?](https://www.zhihu.com/question/667263119)|
+||[为什么魂类和类魂游戏，一定要设计成画面地图昏暗阴间、怪物恶心吓人、内容还得带点恐怖元素 ?](https://www.zhihu.com/question/666589129)|
+||[孙悟空为什么取经路上一直没用过三头六臂、法天象地、大品天仙诀等顶级法术？如果使用的话是否能一路横扫？](https://www.zhihu.com/question/596192038)|
+||[唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？](https://www.zhihu.com/question/22432296)|
+||[如何让实心立方钨块浮起来（任何液体）？](https://www.zhihu.com/question/667268108)|
+||[如果人人每只手都有 7 根手指，是不是十四进制就是最流行的了？](https://www.zhihu.com/question/397602493)|
+||[《爱情公寓》中曾小贤明明和胡一菲互相喜欢，为什么却在中途突然和诺澜在一起了？](https://www.zhihu.com/question/371857007)|
+||[如何设定才能让一个西幻世界观中遍地冒险者合理？](https://www.zhihu.com/question/660998054)|
+||[生产商回应小杨哥带货的「香港月饼」广东产，「并无法律规定香港品牌不能在内地生产」，这是否涉嫌虚假宣传？](https://www.zhihu.com/question/667297522)|
+||[美国两家银行巨头将限制员工工作时间，此前一 35 岁员工猝死，曾连续每周工作超 100 小时，如何看待此事？](https://www.zhihu.com/question/667049499)|
+||[如何看待夏王朝区域中心城邑被发现？](https://www.zhihu.com/question/667040412)|
+||[Deft「最后一舞」棋差一着未能晋级 S14 全球总决赛后将退役，如何评价他的十年职业生涯？](https://www.zhihu.com/question/667265817)|
+||[你离职的公司经理突然找你，说让你回去上班，你们回吗？](https://www.zhihu.com/question/402491064)|
+||[有哪些很偏门但很有意思的古书?](https://www.zhihu.com/question/23723336)|
+||[华为三折叠手机上市意味着手机行业即将重新洗牌吗？](https://www.zhihu.com/question/666987847)|
+||[ddr5 内存频率已经超过 CPU 了，那么在 1s 的计算周期内，内存会不会闲置啊?](https://www.zhihu.com/question/662528954)|
+||[领导说他很喜欢别人给他提意见，但是等真的提意见的时候，他就变了个人，他这是什么心理？](https://www.zhihu.com/question/667097200)|
+||[美海军航母战斗群中孤零零的一艘佩里级护卫舰是做什么的？](https://www.zhihu.com/question/667151735)|
+||[金店店员 3 年用铅块偷换 45.8kg 黄金，涉案价值达 1894 万元，涉事人员将受到哪些处罚？](https://www.zhihu.com/question/667312547)|
+||[既然电脑不能插四条内存，为什么要设计四个插槽？](https://www.zhihu.com/question/666379684)|
+||[今年中秋月饼销售量大幅度下降，是什么原因影响了月饼销售？](https://www.zhihu.com/question/666979275)|
+||[数据显示《黑神话：悟空》Steam 销量已达 1890 万份，收入 65 亿元，明年前销量能到多少份？](https://www.zhihu.com/question/667033316)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 分享创造 熊猫图片格式转换器 PandaGo 中秋送 永久兑换码 ](https://www.v2ex.com/t/1073426#reply14)|
 ||[ 奇思妙想 杞人忧天,到底应该怎么安全的保存“恢复密钥”](https://www.v2ex.com/t/1073421#reply11)|
 ||[ 程序员 大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply12)|
