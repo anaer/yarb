@@ -2,6 +2,59 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[甲骨文埃里森：未来10年前沿模型门槛或达千亿美元 AI训练难以全部转向推理阶段｜钛媒体AGI](https://m.cnbeta.com.tw/view/1446083.htm)|
+||[香港月饼香港买不到 三只羊被立案调查](https://m.cnbeta.com.tw/view/1446082.htm)|
+||[黄仁勋投了李飞飞：World Labs融资16亿](https://m.cnbeta.com.tw/view/1446081.htm)|
+||[理想首款纯电SUV谍照曝光 尾部重新设计 2025年有望亮相](https://m.cnbeta.com.tw/view/1446080.htm)|
+||[TikTok：美国封禁令将造成“惊人”后果](https://m.cnbeta.com.tw/view/1446079.htm)|
+||[美的集团正式在港交所上市：大涨超8% 募资超300亿港元](https://m.cnbeta.com.tw/view/1446078.htm)|
+||[得罪了一个GPT后，我被所有大模型集体“拉黑”](https://m.cnbeta.com.tw/view/1446077.htm)|
+||[特朗普为新的加密货币项目站台 称美国应主导该这一行业](https://m.cnbeta.com.tw/view/1446076.htm)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[如果去年真退网，疯狂小杨哥会成为下一个薇娅么](https://www.tmtpost.com/7252627.html)|
+||[甲骨文埃里森：未来10年前沿模型门槛或达千亿美元，AI训练难以全部转向推理阶段｜钛媒体AGI](https://www.tmtpost.com/7252733.html)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[又快又省的短途游，年轻人爱了](https://36kr.com/p/2951979724071304)|
+||[日均售出一万单、百倍增长，胖东来“大月饼”成新晋网红](https://36kr.com/p/2950778884153473)|
+||[国产咖啡巨头“巷战”，加盟商求生](https://36kr.com/p/2952124706349448)|
+||[月入过万，赛博监督员为孤独年轻人打造自律人生](https://36kr.com/p/2950863883280259)|
+||[网红周鸿祎，涨不动粉了](https://36kr.com/p/2952018387214720)|
+||[剑指蔚来，宁德时代换电能成？](https://36kr.com/p/2952192654680450)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[从伊利24H1看液奶行业：被周期掩盖的消费升级](http://xueqiu.com/4442967723/304764818)|
+||[三大指数近三轮熊市比较](http://xueqiu.com/3764288950/304766742)|
+||[SMMT将被收购 下一个会是康方生物吗](http://xueqiu.com/1638377010/304773712)|
+||[拼多多投资笔记](http://xueqiu.com/7018216825/304754159)|
+||[A股出现五个见底的信号](http://xueqiu.com/1843761023/304773140)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply22)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[尿尿有泡沫是肾有问题吗？小便有这 3 种情况要小心](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B0%BF%E5%B0%BF%E6%9C%89%E6%B3%A1%E6%B2%AB%E6%98%AF%E8%82%BE%E6%9C%89%E9%97%AE%E9%A2%98%E5%90%97%EF%BC%9F%E5%B0%8F%E4%BE%BF%E6%9C%89%E8%BF%99%203%20%E7%A7%8D%E6%83%85%E5%86%B5%E8%A6%81%E5%B0%8F%E5%BF%83)|
+||[布洛芬药片 VS 缓释胶囊，哪个退烧效果更好？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B8%83%E6%B4%9B%E8%8A%AC%E8%8D%AF%E7%89%87%20VS%20%E7%BC%93%E9%87%8A%E8%83%B6%E5%9B%8A%EF%BC%8C%E5%93%AA%E4%B8%AA%E9%80%80%E7%83%A7%E6%95%88%E6%9E%9C%E6%9B%B4%E5%A5%BD%EF%BC%9F)|
+||[电影里常见的错误医学知识，骗了你多少年？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%94%B5%E5%BD%B1%E9%87%8C%E5%B8%B8%E8%A7%81%E7%9A%84%E9%94%99%E8%AF%AF%E5%8C%BB%E5%AD%A6%E7%9F%A5%E8%AF%86%EF%BC%8C%E9%AA%97%E4%BA%86%E4%BD%A0%E5%A4%9A%E5%B0%91%E5%B9%B4%EF%BC%9F)|
+||[为什么更推荐你：用油洗澡](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9B%B4%E6%8E%A8%E8%8D%90%E4%BD%A0%EF%BC%9A%E7%94%A8%E6%B2%B9%E6%B4%97%E6%BE%A1)|
+|[虎嗅](https://rss.huxiu.com/)|[三只羊直播间售卖的“香港月饼”广佛造，香港买不到？](https://www.huxiu.com/article/3479293.html?f=rss)|
+||[得罪了一个GPT后，我被所有大模型集体“拉黑”](https://www.huxiu.com/article/3479272.html?f=rss)|
+||[万一，万一真有那一天，送快递还是送外卖好？](https://www.huxiu.com/article/3478968.html?f=rss)|
+||[欧洲区AI独角兽，估值升至212亿](https://www.huxiu.com/article/3478959.html?f=rss)|
+||[月饼界“爱马仕”，滞销了？](https://www.huxiu.com/article/3478957.html?f=rss)|
+||[日本实施延迟退休政策50多年，效果如何？](https://www.huxiu.com/article/3478954.html?f=rss)|
+||[泉州：满街神佛，自家亲戚](https://www.huxiu.com/article/3478532.html?f=rss)|
+||[暗杀特朗普枪手身份曝光：疑似乌克兰狂热支持者](https://www.huxiu.com/article/3478948.html?f=rss)|
+||[网红餐饮越来越“短命”了](https://www.huxiu.com/article/3478521.html?f=rss)|
+||[日元强势反弹突破140关口，市场传言美联储将大幅降息](https://www.huxiu.com/article/3478539.html?f=rss)|
+||[中秋月明人尽望](https://www.huxiu.com/article/3478517.html?f=rss)|
+||[城市维护：难算的账](https://www.huxiu.com/article/3478120.html?f=rss)|
+||[香港人没听说过的“美诚月饼”，把小杨哥曾志伟都拉下水](https://www.huxiu.com/article/3478116.html?f=rss)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ iOS ios18 昨晚更新了，别人和我说才发现，居然默认开启了“语音信箱”！](https://www.v2ex.com/t/1073457#reply11)|
+||[ Apple 纠结党， 15ProMax 还是 16Pro?](https://www.v2ex.com/t/1073443#reply16)|
+||[ 问与答 不得不把私有 git 服务器挂在公网一段时间，用什么方法能提高安全性？](https://www.v2ex.com/t/1073442#reply15)|
+||[ iPhone 你们不觉得 iOS 18 并非「挤牙膏」吗](https://www.v2ex.com/t/1073437#reply16)|
+||[ 软件 有没有禁止电脑 QQ 自动升级的办法？](https://www.v2ex.com/t/1073435#reply14)|
+||[ MacBook Air 蹲一个 MacBook Air 2020 M1 升级 Sequoia](https://www.v2ex.com/t/1073427#reply20)|
+||[ 分享创造 熊猫图片格式转换器 PandaGo 中秋送 永久兑换码 ](https://www.v2ex.com/t/1073426#reply56)|
+||[ 奇思妙想 杞人忧天,到底应该怎么安全的保存“恢复密钥”](https://www.v2ex.com/t/1073421#reply26)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[micropython怎么把bytes转成字符串？](https://segmentfault.com/q/1010000045280175)|
+||[请问一下，在typeorm中，分离式实体如何与使用注解定义的实体建立关联关系，比如一对一？](https://segmentfault.com/q/1010000045280123)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[COLM 24 从正确中学习？大模型的自我纠正新视角](https://www.jiqizhixin.com/articles/2024-09-17-4)|
+||[昂贵LLM的救星？Nature新研究提出新型忆阻器，比Haswell CPU高效460倍](https://www.jiqizhixin.com/articles/2024-09-17-3)|
+||[OpenAI o1式思维链，开源模型也可以有，成功案例来了](https://www.jiqizhixin.com/articles/2024-09-17-2)|
+||[OpenAI o1要跟，怎么跟？这个GitHub项目把解读、博客、相关论文一网打尽](https://www.jiqizhixin.com/articles/2024-09-17)|
 |[少数派](https://sspai.com/feed)|[具透 iOS 18 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91789)|
 |[华山感染](https://feedpress.me/wx-hsinfect)|[2024中秋节 盈月揽芳华，人间共此时](http://mp.weixin.qq.com/s?__biz=Mzk0ODIzMjMxNQ%3D%3D&mid=2247503999&idx=1&sn=d97c66d2228036b1f3706e22474f1c91)|
 |[柒月是你的谎言](https://www.huangdf.xyz/rss.xml)|[Centos7切换用户提示权限不足](https://www.huangdf.xyz/archives/Centos7%E5%88%87%E6%8D%A2%E7%94%A8%E6%88%B7%E6%8F%90%E7%A4%BA%E6%9D%83%E9%99%90%E4%B8%8D%E8%B6%B3)|
