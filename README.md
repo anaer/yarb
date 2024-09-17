@@ -2,6 +2,24 @@
 
 |来源|标题|
 |---|---|
+|[小众软件](https://www.appinn.com/feed/)|[Notepad4 – 只有 1.14MB，轻量级文本编辑器｜Notepad2-mod 继任者 Windows ](https://www.appinn.com/notepad4/)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[人生低谷该干点啥](http://xueqiu.com/1643044849/304779710)|
+|[搞笑談軟工](http://teddy-chen-tw.blogspot.com/feeds/posts/default)|[重構既有系統，邁向整潔架構 （5）：第二回合，套用DDD戰術模式](https://teddy-chen-tw.blogspot.com/2024/09/5ddd.html)|
+|[老左笔记](https://www.laozuo.org/feed)|[莱卡云中秋促销活动 云服务器低至月付9元](https://www.laozuo.org/29536.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 投资 关于资金出境的一些合法方法](https://www.v2ex.com/t/1073493#reply15)|
+||[ 生活 中国银行莫奈卡重新支持全国网申了](https://www.v2ex.com/t/1073481#reply14)|
+||[ 小米 一次让我以后只用小米手机的遭遇](https://www.v2ex.com/t/1073479#reply27)|
+||[ Apple 国行 iPhone 的 Apple TV 小组件都被阉割了吗？](https://www.v2ex.com/t/1073473#reply11)|
+||[ 问与答 为什么电梯按钮 0、4、6、8、9 这些数字不是闭合的？](https://www.v2ex.com/t/1073464#reply21)|
+|[疯投圈](https://crazy.capital/feed)|[102. 视频号有何商机？](https://crazy.capital/102)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iOS 18 正式推出： Home App 「 自訂訪客權限 」讓智慧家庭更便利](https://applefans.today/2024-09-ios18-home-guest-setting/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一次重要的税收思想史事件，儒家内部围绕征税问题的争议](https://www.huxiu.com/article/3479818.html?f=rss)|
+||[一大波航空公司的中秋海报](https://www.huxiu.com/article/3479814.html?f=rss)|
+||[​14名被控涉嫌诈骗罪的元气森林前员工全部获得取保候审](https://www.huxiu.com/article/3479812.html?f=rss)|
+||[我孙子的孙子的孙子……可能没有中秋过了](https://www.huxiu.com/article/3479793.html?f=rss)|
+||[今夕中秋，愿这月升沧海能消散你的孤单](https://www.huxiu.com/article/3469627.html?f=rss)|
+||[中国经济三驾马车新变化](https://www.huxiu.com/article/3479800.html?f=rss)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply23)|
 |[唐巧的博客](http://blog.devtang.com/atom.xml)|[西贝创始人贾国龙的成与败 - 读《折腾不止》](https://blog.devtang.com/2024/09/17/talking-with-xibei/)|
 |[南方周末-新闻](https://rsshub.app/infzm/2)|[官方通报：对三只羊在直播中涉嫌“误导消费者”立案调查](https://www.infzm.com/contents/278996)|
 |[IT之家](https://www.ithome.com/rss/)|[传音控股：公司财务负责人肖永辉已被解除留置措施](https://www.ithome.com/0/796/390.htm)|
