@@ -2,6 +2,89 @@
 
 |来源|标题|
 |---|---|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Steam 游戏 World of Warships 战舰世界 DLC 免费中秋 DLC Windows ](https://free.apprcn.com/get-steam-game-world-of-warships-dlc-free-mid-autumn-pack-for-free/)|
+|[触乐](http://www.chuapp.com/feed)|[《冰汽时代2》：一次以生存为背景板的思想实验](http://www.chuapp.com/article/290210.html)|
+||[触乐怪话：游戏里的人是资源吗？](http://www.chuapp.com/article/290209.html)|
+|[36氪](https://36kr.com/feed)|[虎牙斗鱼，报团取暖｜游戏商业](https://36kr.com/p/2955334987590784?f=rss)|
+||[氪星晚报｜三只羊抖音主账号停播，日销售额骤降九成以上；美团CEO内部信：去年获得收入的骑手约745万，报酬800亿元；茅台回应三只羊所售兔茅真假争议](https://36kr.com/p/2955260546787203?f=rss)|
+||[一款15年历史的大厂产品，如何在AI时代“杀”到榜一｜涌现36人](https://36kr.com/p/2951266433540229?f=rss)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[​库里中国行时隔 5 年重启，有重磅新店、新鞋和球迷嘉年华，但也有遗憾与争议](http://www.toodaylab.com/83053)|
+|[葉開 • 時光記](https://qq.md/feed/)|[银行流水谜团](https://qq.md/post/53)|
+|[TecHug](http://www.techug.com/feed)|[C++发布革命性提案：“借鉴”Rust精华，内存安全即将成为标配？](https://www.techug.com/post/c-canada-released-a-revolutionary-proposal-learn-from-the-essence-of-rust-and-memory-secur-ab8a6d/)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 装机后不能开机，兄弟们，求个排查方案](https://www.v2ex.com/t/1073821#reply21)|
+||[ Apple 震惊， mac 居然能控制 iPhone 了，似曾相识的功能](https://www.v2ex.com/t/1073808#reply11)|
+||[ 随想 从另外一面看社保制度，有点类似庞氏](https://www.v2ex.com/t/1073798#reply44)|
+||[ 健康 问个身体上问题](https://www.v2ex.com/t/1073767#reply46)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[韩国成为美国头号外国投资来源地](http://www.ftchinese.com/story/001104239)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[文科生学习编程语言选择 javascript 还是 typescript](https://www.v2ex.com/t/1073686#reply32)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[“垃圾时间”唱衰中国经济未来，暗批中共统治](https://cn.nytimes.com/business/20240918/china-economy-garbage-time/)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[AI在用 吵架又没发挥好？7个AI大佬帮你自救](https://www.jiqizhixin.com/articles/2024-09-18-6)|
+||[新型蛋白质大语言模型即将登陆Google Cloud](https://www.jiqizhixin.com/articles/2024-09-18-5)|
+||[大语言模型如何助力药物开发? 哈佛团队最新综述](https://www.jiqizhixin.com/articles/2024-09-18-4)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[对BP机发起网络攻击，竟可以制造全国性大爆炸？](https://www.freebuf.com/news/411206.html)|
+|[少数派](https://sspai.com/feed)|[新品 不割手的水獭刀，随身带着随时用](https://sspai.com/post/91966)|
+||[环阿尔卑斯七国，三千公里的山与海](https://sspai.com/post/91374)|
+|[极客公园](http://www.geekpark.net/rss)|[得罪了一个 GPT 后，我被所有大模型集体「拉黑」](http://www.geekpark.net/news/340755)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[官方磁吸保护壳规格参数正式公布 第三方手机壳将完美匹配OPPO、一加手机](https://m.cnbeta.com.tw/view/1446220.htm)|
+||[28万公里的Model S自驾法国途中趴窝 换电池要15万元](https://m.cnbeta.com.tw/view/1446219.htm)|
+||[中国中车1000kW功率等级新能源机车今日下线：混合动力 支持自动驾驶](https://m.cnbeta.com.tw/view/1446218.htm)|
+||[马斯克的脑机接口能让盲人看见世界？专家：为时尚早](https://m.cnbeta.com.tw/view/1446217.htm)|
+||[谷歌上诉成功 欧盟法院撤销16.6亿美元反垄断罚款](https://m.cnbeta.com.tw/view/1446216.htm)|
+||[门店回应华为Mate 70接受预订：未接到通知 或11月底发布](https://m.cnbeta.com.tw/view/1446215.htm)|
+||[“安全C++扩展”提案公布 内存安全成标配、大量借鉴Rust](https://m.cnbeta.com.tw/view/1446213.htm)|
+||[图森CEO吕程：减少自动驾驶研发测试工作 没将资金故意转移到中国](https://m.cnbeta.com.tw/view/1446212.htm)|
+||[摩根大通CEO：玩社交媒体纯属浪费时间](https://m.cnbeta.com.tw/view/1446211.htm)|
+||[英媒探访“希音（Shein）村”：中国快时尚巨头是如何打造出来的？](https://m.cnbeta.com.tw/view/1446209.htm)|
+||[美国知名厨具品牌特百惠申请破产保护](https://m.cnbeta.com.tw/view/1446208.htm)|
+||[古茗茶饮公开道歉：玩梗翻车，将引以为戒](https://m.cnbeta.com.tw/view/1446207.htm)|
+||[iPhone 16 Pro零售机与iPhone 15 Pro对比图 差异小到看不见](https://m.cnbeta.com.tw/view/1446205.htm)|
+||[微软公布 Windows 11 24H2 面向所有 PC 的发布日期](https://m.cnbeta.com.tw/view/1446204.htm)|
+||[国产套刻8nm光刻机引争议 我们追赶对象真的是ASML吗？](https://m.cnbeta.com.tw/view/1446203.htm)|
+||[曝美日已接近达成协议 限制对中国芯片技术出口](https://m.cnbeta.com.tw/view/1446201.htm)|
+||[小米三折叠屏手机专利曝光：华为同款Z字形方案 2022年就布局](https://m.cnbeta.com.tw/view/1446200.htm)|
+||[乘联会崔东树：国内充电桩行业马太效应明显 老旧桩一个月只能充100多度电](https://m.cnbeta.com.tw/view/1446199.htm)|
+||[苹果客服回应iOS 18相册被吐槽：刚升级 用户可能不适应](https://m.cnbeta.com.tw/view/1446198.htm)|
+||[Intel研发全新x86架构“眼镜蛇”：能效、性能超竞品](https://m.cnbeta.com.tw/view/1446197.htm)|
+||[iOS 18.1为iPhone 15 Pro系列带来空间照片拍摄功能](https://m.cnbeta.com.tw/view/1446196.htm)|
+||[OPPO超薄磁吸充电宝亮相 Find X8全系将支持磁吸生态](https://m.cnbeta.com.tw/view/1446195.htm)|
+||[英国百年造船企业哈兰-沃尔夫宣告破产 曾建造“泰坦尼克”号巨轮](https://m.cnbeta.com.tw/view/1446194.htm)|
+||[6.3GHz锐龙9 9700X登顶大胜7.1GHz i9-14900KF 这要感谢AVX-512](https://m.cnbeta.com.tw/view/1446193.htm)|
+||[小鹏首款插混SUV曝光 白车身超5.1米 比理想L8、问界M7更大](https://m.cnbeta.com.tw/view/1446192.htm)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[大家都是怎么做性能优化和易用性优化的呢？](https://w2solo.com/topics/5044)|
+||[需要便宜的短期 GPU 租赁吗? 我们正在做这个事情!](https://w2solo.com/topics/5043)|
+||[一个害怕 35 岁危机的程序员的独立开发之路](https://w2solo.com/topics/5042)|
+||[亲戚称呼计算器 - 逢年过节必备神器](https://w2solo.com/topics/5041)|
+||[疯狂翻译师 App：睁眼看世界，主打的就是一个不出国，译天下！](https://w2solo.com/topics/5040)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[你有没有想过，中秋节后卖不掉的月饼都去了哪里？](http://www.huxiu.com/article/3477211.html?f=wangzhan)|
+||[美国造船：制裁中国，逆天改命](http://www.huxiu.com/article/3480364.html?f=wangzhan)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[英伟达开源 Nemotron-Mini-4B-Instruct 小语言 AI 模型](https://www.oschina.net/news/312455/nvidia-nemotron-mini-4b-instruct)|
+||[协程的原理与实现：GMP 源码走读](https://my.oschina.net/u/4662964/blog/15727487)|
+||[8000 多名 JS 社区成员联名让 Oracle 放弃 JavaScript 商标！包括 JS、Node、npm 创建者等核心人物](https://www.oschina.net/news/312444/oracle-it-is-time-to-free-javascript)|
+||[Swift 6 发布](https://www.oschina.net/news/312426/swift-6-released)|
+||[Go 卷土重来：其复兴动力何在？](https://www.oschina.net/news/312424)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[小杨哥，并不仅仅只是小杨哥](https://www.woshipm.com/share/6116246.html)|
+||[工作中利他，是好事还是坏事？](https://www.woshipm.com/share/6116196.html)|
+||[Kimi 帮你看更大的世界](https://www.woshipm.com/share/6115790.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[苹果把iPhone 16卖到一万四，为什么说你还是“赚”了？](https://www.huxiu.com/article/3475356.html?f=rss)|
+||[黑神话发售时，冯骥会想起13年前的《让子弹飞》吗？](https://www.huxiu.com/article/3477207.html?f=rss)|
+||[Gojek撤出越南：犯了出海公司常犯的错误](https://www.huxiu.com/article/3483178.html?f=rss)|
+||[当男性开始取悦自己的时候，有多恐怖？](https://www.huxiu.com/article/3482112.html?f=rss)|
+||[连上脑机接口后，瘫痪的他们已经可以靠意念玩游戏、拿水杯、说话……](https://www.huxiu.com/article/3483147.html?f=rss)|
+||[中国最“傻”公司德胜洋楼如何在市场中屹立不倒？](https://www.huxiu.com/article/3477194.html?f=rss)|
+||[收割中产的投影仪，凉了](https://www.huxiu.com/article/3482862.html?f=rss)|
+||[为什么著名大学研究生规模超过本科生？](https://www.huxiu.com/article/3482128.html?f=rss)|
+||[以色列打开了潘多拉的魔盒](https://www.huxiu.com/article/3482861.html?f=rss)|
+||[“北极星黎明”创造了历史，中国的太空旅游业务要加速赶上了](https://www.huxiu.com/article/3482844.html?f=rss)|
+||[珀莱雅告别方玉友时代](https://www.huxiu.com/article/3482864.html?f=rss)|
+||[12万，天籁值得买吗？日产掀桌子了？](https://www.huxiu.com/article/3477198.html?f=rss)|
+||[抖音变长，长过B站](https://www.huxiu.com/article/3482542.html?f=rss)|
+||[二次元文化的“被污名化”以及“被正名”](https://www.huxiu.com/article/3481645.html?f=rss)|
+||[亏损84亿，欧洲“电池一哥”陷困境：未来还得靠中国？](https://www.huxiu.com/article/3482840.html?f=rss)|
+||[李录的偏见](https://www.huxiu.com/article/3482851.html?f=rss)|
+||[沉迷“乌龟对对碰”的年轻人，让他们月入过十万](https://www.huxiu.com/article/3482139.html?f=rss)|
+||[房东税来袭，租金会涨吗？对楼市又有何作用？](https://www.huxiu.com/article/3479675.html?f=rss)|
+||[降息钟声下的预测：25还是50个基点？市场将怎么走？](https://www.huxiu.com/article/3479794.html?f=rss)|
+|[正念](https://wp.wtrzl.xyz/feed)|[机器学习是什么以及有哪些应用场景?](https://wp.wtrzl.xyz/archives/351)|
 |[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[呼叫器隨想](https://taiwan.chtsai.org/2024/09/18/hujiaoqi_suixiang/)|
 |[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[Binance 警告针对加密货币用户的 Clipper 恶意软件攻击不断增加](https://www.anquanke.com/post/id/300133)|
 ||[配置错误的 ServiceNow 知识库会暴露机密信息](https://www.anquanke.com/post/id/300139)|
