@@ -2,6 +2,77 @@
 
 |来源|标题|
 |---|---|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[呼叫器隨想](https://taiwan.chtsai.org/2024/09/18/hujiaoqi_suixiang/)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[Binance 警告针对加密货币用户的 Clipper 恶意软件攻击不断增加](https://www.anquanke.com/post/id/300133)|
+||[配置错误的 ServiceNow 知识库会暴露机密信息](https://www.anquanke.com/post/id/300139)|
+||[美国 CISA 将 Microsoft Windows MSHTML Platform 和 Progress WhatsUp Gold 漏洞添加到其已知已利用漏洞目录中](https://www.anquanke.com/post/id/300145)|
+||[如何调查 Google Workspace 中的 ChatGPT 活动](https://www.anquanke.com/post/id/300151)|
+||[谷歌云文档AI漏洞即使在支付了漏洞赏金后仍允许数据盗窃](https://www.anquanke.com/post/id/300154)|
+||[Google Chrome 改用 ML-KEM 进行后量子密码学防御](https://www.anquanke.com/post/id/300158)|
+||[macOS 日历中的零点击 RCE 漏洞暴露了 iCloud 数据](https://www.anquanke.com/post/id/300161)|
+||[PayPal 和 Venmo 的 ENS 集成可能会促进主流加密货币的采用](https://www.anquanke.com/post/id/300167)|
+||[揭秘一种针对 WooCommerce 商店的新型复杂信用卡窃取技术](https://www.anquanke.com/post/id/300169)|
+||[360：让安全运营“自动驾驶”照进现实](https://www.anquanke.com/post/id/300172)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[美国散户投资者乐意让基金公司行使投票权](http://www.ftchinese.com/story/001104232)|
+||[微软希望美国出口管制更加“清晰和一致”](http://www.ftchinese.com/story/001104230)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[问个身体上问题](https://www.v2ex.com/t/1073767#reply20)|
+||[不愧是尤大推荐的 ui 库， naive-ui 果然强大。](https://www.v2ex.com/t/1073578#reply46)|
+||[有个小型项目, 有接单的兄弟吗](https://www.v2ex.com/t/1073762#reply28)|
+||[JDK 23 发布了](https://www.v2ex.com/t/1073571#reply85)|
+||[文科生学习编程语言选择 javascript 还是 typescript](https://www.v2ex.com/t/1073686#reply26)|
+||[应届生请教一下各位前辈](https://www.v2ex.com/t/1073735#reply12)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[人工智能治理需正视“可容忍的风险”](https://www.infzm.com/contents/279024)|
+||[深圳警方通报发生一起持刀伤害未成年人案件](https://www.infzm.com/contents/279026)|
+|[雷峰网](https://plink.anyfeeder.com/leiphone)|[三只羊集团被立案调查，天猫抖音店全部下架美诚月饼，工厂也被曝跑路了，最新回应；英特尔年底前裁员1.5万人；马化腾重回中国首富宝座丨雷峰早报](https://www.leiphone.com/category/zaobao/1FGqfqz177rAGTZb.html)|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[Reviver RPlate Stolen](https://leimao.github.io/blog/Reviver-RPlate-Stolen/)|
+||[Batman: Caped Crusader](https://leimao.github.io/essay/Batman-Caped-Crusader/)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[2024网安周 梆梆安全党支部让网络安全宣传“零距离”](https://www.4hou.com/posts/RX1L)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[“20万开店，3个月亏光”，第一批中药奶茶开始关店？](https://36kr.com/p/2954813152845953)|
+||[走出15年来最长连跌行情，伯克希尔怎么了？](https://36kr.com/p/2952736643129728)|
+||[ChatGPT流量骤降是谣言，但OpenAI确实危险了](https://36kr.com/p/2952551246307463)|
+||[得罪了一个 GPT 后，我被所有大模型集体「拉黑」](https://36kr.com/p/2953607544217736)|
+||[急跌之后，A股会有大反弹吗？](https://36kr.com/p/2952526750916738)|
+||[41亿！立讯精密收购的Leoni AG是什么来头？](https://36kr.com/p/2952670506459269)|
+||[8点1氪｜iPhone 16首周末销量同比下降12.7%；三只羊被立案调查，抖音主账号已停播；许家印香港30平房屋将被拍卖还债](https://36kr.com/p/2954783945826436)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[圆桌论坛：低空经济，“起飞”丨36氪2024产业未来大会](https://36kr.com/p/2954943480160643?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[马斯克的脑机接口让盲人看到世界？专家：为时尚早](https://www.jiqizhixin.com/articles/2024-09-18-2)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[职场上，要警惕“学生思维”](https://www.woshipm.com/share/6116142.html)|
+||[营销策划中常涉及的心理效应（二）](https://www.woshipm.com/share/6116135.html)|
+||[AI大模型实战篇：Reflexion，为AI Agent开启强化学习之路](https://www.woshipm.com/share/6115957.html)|
+||[私域流量如何破局？4大策略让你轻松掌握精细化运营](https://www.woshipm.com/operate/6115822.html)|
+||[数电时代发票系统的搭建方案](https://www.woshipm.com/pd/6115867.html)|
+||[o1 能带我们走进 AGI 吗？](https://www.woshipm.com/share/6116090.html)|
+||[如何使用Axure制作互联网医疗大健康慢病管理系统原型及随访管理系统原型？](https://www.woshipm.com/share/6115710.html)|
+||[抖音产品分析](https://www.woshipm.com/share/6115792.html)|
+||[深度剖析：为何《黑神话悟空》比《哪吒魔童降世》更值钱？](https://www.woshipm.com/share/6115770.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 问个身体上问题](https://www.v2ex.com/t/1073767#reply21)|
+|[IT之家](https://www.ithome.com/rss/)|[多家北京门店回应华为 Mate 70 系列接受预订：未接到通知，或将 11 月底发布](https://www.ithome.com/0/796/581.htm)|
+||[中欧将就欧盟对华电动汽车征收关税会谈，外交部称希望欧方拿出诚意](https://www.ithome.com/0/796/580.htm)|
+||[欧盟法院逆转裁决，谷歌 14.9 亿欧元罚单被撤](https://www.ithome.com/0/796/579.htm)|
+||[蒸汽平台一年一度“鉴赏家大会”官宣 9 月 24 日开启，Steam 专题同步上线](https://www.ithome.com/0/796/578.htm)|
+||[立讯精密：已进军新能源汽车市场，目标成为全球汽车零部件 Tier1 领导厂商](https://www.ithome.com/0/796/577.htm)|
+||[长安：到 2030 年，数智新能源汽车销量规划目标 300 万辆、力争成为世界 TOP10 汽车品牌](https://www.ithome.com/0/796/576.htm)|
+||[单图就能解锁全景视角，北大 / 港中文 / 腾讯等推出 ViewCrafter 开源项目](https://www.ithome.com/0/796/575.htm)|
+||[小米 14T 手机宣传图曝光：整合圈选即搜和各种 AI 技能，6.67 英寸屏幕、联发科天玑 8300 Ultra 芯片](https://www.ithome.com/0/796/574.htm)|
+||[NASA 50 亿美元的“木卫二快船”探测器遭遇辐射危机，科学家紧急应对](https://www.ithome.com/0/796/572.htm)|
+||[人类首次商业太空行走参与者畅谈经历与感受：地球之美令人震撼，在太空中拉小提琴十分有趣](https://www.ithome.com/0/796/571.htm)|
+||[微软 Win11 24H2 功能更新预计 9 月 24 日发布，并于 10 月面向公众推送](https://www.ithome.com/0/796/570.htm)|
+||[主要独立 FPGA 企业之一莱迪思 Lattice 官宣新任首席执行官 Ford Tamer](https://www.ithome.com/0/796/569.htm)|
+||[Sensor Tower：8 月《王者荣耀》收入环比增长 41%，腾讯、网易、点点互动位列中国手游发行商全球收入前三](https://www.ithome.com/0/796/568.htm)|
+||[轿车版奥迪 RS5 路测照首曝，剑指宝马 M3 / 奔驰 C63](https://www.ithome.com/0/796/567.htm)|
+||[一加中国区总裁李杰公布 OPPO / 一加手机磁吸保护壳规格参数，为第三方配件厂商提供标准](https://www.ithome.com/0/796/566.htm)|
+||[奇瑞捷途 X70 PLUS 旗舰 PRO 版上市：换 CVT 变速箱，售 15.99 万元](https://www.ithome.com/0/796/565.htm)|
+||[微软推出 Office LTSC 2024，相比 Microsoft 365 缺少 AI 及云功能支持](https://www.ithome.com/0/796/563.htm)|
+||[索尼 PS5 Pro 游戏机外包装公开，写有 4K 120 和不含光驱标志](https://www.ithome.com/0/796/561.htm)|
+||[钛钽 TCOMAS 推出 LX800PRO ARGB 一体水散热：冷头正侧双屏，风扇冷排均加厚](https://www.ithome.com/0/796/560.htm)|
+||[EA 颠覆续作模式：《模拟人生》系列将整合为庞大平台](https://www.ithome.com/0/796/559.htm)|
+||[小鹏回应 MONA M03 自动泊车撞上奥迪：不排除光线及其他因素导致的弱势场景](https://www.ithome.com/0/796/558.htm)|
+||[线粒体产热调节新机制被探明，棕色脂肪研究揭示体重管理奥秘](https://www.ithome.com/0/796/557.htm)|
+||[广汽埃安进军菲律宾市场，首家旗舰展厅开业](https://www.ithome.com/0/796/556.htm)|
+||[索尼 PS1 模拟器 DuckStation 修改许可证不再“开源”，作者吐槽衍生项目不遵守协议](https://www.ithome.com/0/796/554.htm)|
+||[OpenAI 重金押注，1X 机器人 NEO 世界模型登场](https://www.ithome.com/0/796/553.htm)|
+||[CINNO Research：9 月手机面板市场 LCD 面板价格续跌，AMOLED 价格企稳](https://www.ithome.com/0/796/552.htm)|
+||[英特尔 Royal x86 微架构曝光：源于“硅仙人”Jim Keller 项目，弃用“Cove”命名体系](https://www.ithome.com/0/796/550.htm)|
 |[掘金 前端](https://rsshub.app/juejin/category/frontend)|[茶思屋直播 TinyEngine+AI：聚焦主航道，在实践中探索低代码技术黑土地](https://juejin.cn/post/7415659129041141760)|
 ||[浏览器的渲染过程，所有面试官想知道的](https://juejin.cn/post/7415656200463892507)|
 ||[14.JS高级-对象方法的补充以及创建对象方案](https://juejin.cn/post/7415651555112747008)|
