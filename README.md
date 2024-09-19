@@ -2,6 +2,70 @@
 
 |来源|标题|
 |---|---|
+|[少数派](http://sspai.me/feed)|[具透 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/92010)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[开源节流，站点用来通知的邮箱地址从域名邮箱换成谷歌邮箱，国内邮箱接收的话有可能会进垃圾邮件。](https://www.wikimoe.com/post/k8gxscjn)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[为什么服务会收到这些请求？](https://segmentfault.com/q/1010000045286383)|
+||[证书链完整，okhttp3请求错误？](https://segmentfault.com/q/1010000045286206)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[智能体时代，AI正从“神坛”走向“人间”](https://www.tmtpost.com/7255260.html)|
+||[“最淡”暑期旺季刚结束，餐饮人的“黑色9月”又来了](https://www.tmtpost.com/7254974.html)|
+||[《凡人歌》，一边被骂一边爆火](https://www.tmtpost.com/7255210.html)|
+||[卖多少药，Biotech才能不亏钱？](https://www.tmtpost.com/7255214.html)|
+||[这个故事，揭秘了管理费用的浪费](https://www.tmtpost.com/7255301.html)|
+||[中国美妆“KOL”简史：薇娅李佳琦们的功与过](https://www.tmtpost.com/7255305.html)|
+||[三线城市的女玩家们不想“谈恋爱”，小游戏掘金新蓝海](https://www.tmtpost.com/7255306.html)|
+||[三只羊，倒了两只](https://www.tmtpost.com/7255321.html)|
+||[缺钱、缺人，企业应用AI如何应对不确定性 2024 ITValue Summit数字价值年会](https://www.tmtpost.com/7253463.html)|
+||[Hong Kong Cuts Interest Rate for the First Time in Four Years following US](https://www.tmtpost.com/7255236.html)|
+||[超讯通信：核心资源缺失，一个算力“中介”的供应链困局 钛媒体深度](https://www.tmtpost.com/7254943.html)|
+||[多个百亿级投资正涌入各地酒店领域](https://www.tmtpost.com/7254879.html)|
+||[县城品牌席卷北上广：从“平替”到新消费主流的崛起之路](https://www.tmtpost.com/7254969.html)|
+||[脱口秀又火了，脱口秀营销怎么不温不火？](https://www.tmtpost.com/7254989.html)|
+||[《黑神话：悟空》的启示](https://www.tmtpost.com/7255005.html)|
+|[标志情报局](http://www.logonews.cn/feed)|[PayPal 重塑品牌，更新标志配色推出定制品牌字体](https://www.logonews.cn/paypal-new-logo.html)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[深圳日本人学校男童遭持刀袭击身亡](https://cn.nytimes.com/china/20240919/child-stabbed-japan-china/)|
+|[V2EX](https://v2ex.com/index.xml)|[ Apple mac 升完 sequoia 感觉卡。。。。很卡](https://www.v2ex.com/t/1074039#reply13)|
+||[ 问与答 有没有推荐支持大功率的排插？](https://www.v2ex.com/t/1074032#reply14)|
+||[ 浏览器 国粹国粹， user data 丢了， firefox 你真行。我乖乖滚回 chrome](https://www.v2ex.com/t/1074017#reply15)|
+||[ Apple 想购买 iPhone16 系列的，建议看看爱否的评测，是我认为目前最公正客观的了](https://www.v2ex.com/t/1074014#reply16)|
+||[ 分享发现 58 页 ppt 有感](https://www.v2ex.com/t/1073994#reply17)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[深圳日本人学校男童遭持刀袭击身亡](https://cn.nytimes.com/china/20240919/child-stabbed-japan-china/dual)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[助力移动政务应用安全防御 梆梆安全亮相关基安全防护专家认证培训，共话安全之道](https://www.4hou.com/posts/VWQ5)|
+||[新的 Linux 恶意软件 Hadooken 针对 Oracle WebLogic 服务器](https://www.4hou.com/posts/Zg0v)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[任天堂和宝可梦公司起诉《幻兽帕鲁》开发商](https://www.solidot.org/story?sid=79287)|
+||[《魔兽世界》允许玩家独自完成故事](https://www.solidot.org/story?sid=79286)|
+||[以色列对黎巴嫩的无差别攻击导致 至少 32 人死亡数千人受伤](https://www.solidot.org/story?sid=79285)|
+|[运维咖啡吧](https://blog.ops-coffee.cn/feed.xml)|[bpmn.js Event 事件列表](https://blog.ops-coffee.cn/bpmn/bpmn-js-all-event-list)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[字节音乐大模型炸场！Seed-Music发布，支持一键生成高质量歌曲、片段编辑等](https://www.jiqizhixin.com/articles/2024-09-19-5)|
+||[硕博招生将启！AI排名跻身前15，全球首所人工智能大学MBZUAI实力大增](https://www.jiqizhixin.com/articles/2024-09-19-4)|
+||[KAN结合Transformer，真有团队搞出了解决扩展缺陷的KAT](https://www.jiqizhixin.com/articles/2024-09-19-3)|
+||[时序＝图像？无需微调，视觉MAE跨界比肩最强时序预测大模型](https://www.jiqizhixin.com/articles/2024-09-19-2)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[【科股一线拆解】该领域将建设一个更智能范在系统，提供室内、深海到深空的立体服务](https://www.tmtpost.com/7255499.html)|
+||[【精华研报】消费领域万亿补贴下发，以旧换新触达制造业、税惠政策助力并购重组](https://www.tmtpost.com/7255466.html)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[气球在战场上变得越来越有用丨军事](https://www.infzm.com/contents/278868)|
+||[我在横琴double精彩 联营律师在这里，和“差异”打交道](https://www.infzm.com/contents/279054)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[四块一杯的县城奶茶，反杀北上广](https://www.huxiu.com/article/3485496.html?f=rss)|
+||[上古科技档案：圣杯与约柜的故事](https://www.huxiu.com/article/3482119.html?f=rss)|
+||[美元降息之后，你还需要知道的5件事](https://www.huxiu.com/article/3485475.html?f=rss)|
+||[游戏女玩家的选项只有乙游吗？](https://www.huxiu.com/article/3485488.html?f=rss)|
+||[这年头当带货主播，就别想挣钱](https://www.huxiu.com/article/3486044.html?f=rss)|
+||[2024年国家药品谈判，理想很美好，医院很困惑](https://www.huxiu.com/article/3485218.html?f=rss)|
+||[罢工潮下财务吃紧，波音上万名白领员工遭遇“强制假期”](https://www.huxiu.com/article/3485502.html?f=rss)|
+||[送礼还是不送，这是个问题](https://www.huxiu.com/article/3474963.html?f=rss)|
+||[这个故事，揭秘了管理费用的浪费](https://www.huxiu.com/article/3485487.html?f=rss)|
+||[我们提前做出了苹果的Apple Intelligence？](https://www.huxiu.com/article/3482877.html?f=rss)|
+||[《凡人歌》，一边被骂一边爆火](https://www.huxiu.com/article/3485464.html?f=rss)|
+||[重映可以，但不是什么片都值得](https://www.huxiu.com/article/3485465.html?f=rss)|
+||[关于美联储降息对A股的意义兼论跨境资本流动](https://www.huxiu.com/article/3485259.html?f=rss)|
+||[菜鸟暗度陈仓](https://www.huxiu.com/article/2394891.html?f=rss)|
+||[存储芯片，寒冬将至?](https://www.huxiu.com/article/3485263.html?f=rss)|
+||[招商新卷王：一年超8000家企业搬到成都](https://www.huxiu.com/article/3485478.html?f=rss)|
+||[流量转化，该如何归因？](https://www.huxiu.com/article/3485237.html?f=rss)|
+||[互联网已经被AI污染的差不多了](https://www.huxiu.com/article/3485445.html?f=rss)|
+||[拆解美国降息剧本：股灾后是衰退、危机还是萧条？](https://www.huxiu.com/article/3483171.html?f=rss)|
+||[那些压抑的情绪，都藏在身体里](https://www.huxiu.com/article/3485258.html?f=rss)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[母鸡不受精就下蛋是一种很浪费能量的生存策略吗？为什么进化会保留这种性状呢？](https://daily.zhihu.com/story/9765249)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[大家一起來 不看IP挑戰](https://www.reddit.com/r/real_China_irl/comments/1fkc5rx/大家一起來_不看ip挑戰/)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[各自精彩——《无敌号》原著与游戏情节对比](http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[「下一本读什么」各类高质量书单，一键随机选书，确定你的下一本读物](https://w2solo.com/topics/5048)|
 ||[跟风用 cursor 做了 AI 导航站，来试试我的撒花效果！](https://w2solo.com/topics/5047)|
 |[张洪Heo](https://blog.zhheo.com/rss.xml)|[Macos Sequoia 15 电脑没有苹方字体，苹方无法下载解决方法](https://blog.zhheo.com/p/8e67.html)|
