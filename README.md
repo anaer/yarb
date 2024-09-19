@@ -2,6 +2,128 @@
 
 |来源|标题|
 |---|---|
+|[机器之心](https://www.jiqizhixin.com/rss)|[使神经网络更容易理解，促进科学发现，MIT刘子鸣团队新架构](https://www.jiqizhixin.com/articles/2024-09-19-10)|
+||[「可损伤编程设计」的超材料，上海交大团队用AI实现材料的自然抗裂机制](https://www.jiqizhixin.com/articles/2024-09-19-9)|
+||[CVPR 2024 打破黑白边界，融合美学与实用性的二维码生成技术来了](https://www.jiqizhixin.com/articles/2024-09-19-8)|
+|[小众软件](http://feed.appinn.com/)|[简单易用的文本对比工具](https://www.appinn.com/text-compare/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[TimeWheel 算法介绍及在应用上的探索](https://my.oschina.net/vivotech/blog/15646591)|
+||[开源维护者现状：薪酬低、老龄化，安全问题泛滥](https://www.oschina.net/news/312636/tidelift-2024-survey)|
+||[欠了一屁股债后，他决定要写一套能发家致富的软件](https://my.oschina.net/winskyeye/blog/15877637)|
+||[阿里发布 Qwen2.5 “全家桶” —— 历史上最大的开源发布](https://www.oschina.net/news/312603/qwen-2-5)|
+||[通义旗舰模型 Qwen-Max 升级，性能接近 GPT-4o](https://www.oschina.net/news/312602)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[全新哈弗H9上市延期至9月25日 原因是领导不满意发布会策划](https://m.cnbeta.com.tw/view/1446319.htm)|
+||[台风“普拉桑”登陆点又变 离浙江越来越近](https://m.cnbeta.com.tw/view/1446318.htm)|
+||[AMD正在秘密研发FSR技术的最新版本](https://m.cnbeta.com.tw/view/1446317.htm)|
+||[iOS 18信息应用存在某个缺陷 共享表盘并引用时会导致信息反复崩溃](https://m.cnbeta.com.tw/view/1446316.htm)|
+||[iOS 18.1附带中国移动/联通/电信运营商捆绑包 似乎是为启用RCS消息准备的](https://m.cnbeta.com.tw/view/1446315.htm)|
+||[外媒谈比亚迪欧洲扩张：只要是好车 许多车主不会在乎哪国制造](https://m.cnbeta.com.tw/view/1446314.htm)|
+||[互联网已经被 AI 污染得差不多了](https://m.cnbeta.com.tw/view/1446313.htm)|
+||[未来几年销量仍增长 2024年谁还在使用BP机?](https://m.cnbeta.com.tw/view/1446312.htm)|
+||[Qwen2.5登全球开源王座 72B击败LIama3 405B 轻松胜GPT-4o-mini](https://m.cnbeta.com.tw/view/1446307.htm)|
+||[三只羊复播后评论区被“加油”队形刷屏 网友质疑其做筛选设置](https://m.cnbeta.com.tw/view/1446306.htm)|
+||[字节股票因为TikTok拆分案已经便宜得离谱 估值仅Meta的1/5 耐心资本正疯狂扫货](https://m.cnbeta.com.tw/view/1446305.htm)|
+||[抖音不再陪小杨哥“疯狂”](https://m.cnbeta.com.tw/view/1446304.htm)|
+||[大摩警告内存市场恶化 SK海力士股价领跌韩国芯片股](https://m.cnbeta.com.tw/view/1446302.htm)|
+||[黄仁勋称未来人人都将有自己的机器人助理 马斯克赞同](https://m.cnbeta.com.tw/view/1446301.htm)|
+||[美国SEC主席评AI：工具单一化或在未来引发金融危机](https://m.cnbeta.com.tw/view/1446300.htm)|
+|[HikariLan's Blog](https://my.minecraft.kim/feed)|[面试经历 – 腾讯云智后台开发校招](https://my.minecraft.kim/thinking/1505/%e9%9d%a2%e8%af%95%e7%bb%8f%e5%8e%86-%e8%85%be%e8%ae%af%e4%ba%91%e6%99%ba%e5%90%8e%e5%8f%b0%e5%bc%80%e5%8f%91%e6%a0%a1%e6%8b%9b/)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[专家解读 框架重磅发布，加快构建我国人工智能安全治理格局](https://www.4hou.com/posts/2XWJ)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-19](https://decohack.com/producthunt-daily-2024-09-19/)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 哪里回收 iPhone 划算？](https://www.v2ex.com/t/1074077#reply11)|
+|[36氪](http://36kr.com/feed)|[36氪研究院 2024年中国白酒行业数字化转型研究报告](https://36kr.com/p/2956621207304068?f=rss)|
+||[杨植麟、姜大昕、朱军云栖激辩：我们对大模型发展的预测，都过于保守了](https://36kr.com/p/2956689464227718?f=rss)|
+||[阿里吴泳铭：生成式AI的最大想象力，不是做超级应用，而是改变物理世界 最前线](https://36kr.com/p/2956400334124933?f=rss)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[现代“特洛伊木马”：详解黎巴嫩寻呼机爆炸案](https://cn.nytimes.com/world/20240919/israel-exploding-pagers-hezbollah/)|
+|[](http://blog.fivest.one/feed)|[综艺《思想验证区域》的阵营问卷](https://blog.fivest.one/archives/6855)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[年轻人血脂偏高，一定要吃药吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%80%E8%84%82%E5%81%8F%E9%AB%98%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E8%8D%AF%E5%90%97%EF%BC%9F)|
+||[3 个常见的饮食习惯，可能正在悄悄伤肝](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+3%20%E4%B8%AA%E5%B8%B8%E8%A7%81%E7%9A%84%E9%A5%AE%E9%A3%9F%E4%B9%A0%E6%83%AF%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E4%BC%A4%E8%82%9D)|
+||[一个掉发越来越多的原因，却被大多数人忽略了！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%B8%AA%E6%8E%89%E5%8F%91%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%8C%E5%8D%B4%E8%A2%AB%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E5%BF%BD%E7%95%A5%E4%BA%86%EF%BC%81)|
+||[真能让皮肤变嫩的好法子，很多人却不敢用](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9C%9F%E8%83%BD%E8%AE%A9%E7%9A%AE%E8%82%A4%E5%8F%98%E5%AB%A9%E7%9A%84%E5%A5%BD%E6%B3%95%E5%AD%90%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8D%B4%E4%B8%8D%E6%95%A2%E7%94%A8)|
+||[眼睛干涩酸胀别硬熬，戴上它，幸福倒头睡](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9C%BC%E7%9D%9B%E5%B9%B2%E6%B6%A9%E9%85%B8%E8%83%80%E5%88%AB%E7%A1%AC%E7%86%AC%EF%BC%8C%E6%88%B4%E4%B8%8A%E5%AE%83%EF%BC%8C%E5%B9%B8%E7%A6%8F%E5%80%92%E5%A4%B4%E7%9D%A1)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[润日的生活是怎么样的？感觉老外真的很喜欢日本，日本真有这么好吗。](https://www.reddit.com/r/runtoJapan/comments/1fkej57/润日的生活是怎么样的感觉老外真的很喜欢日本日本真有这么好吗/)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Suicide Guy VR Windows、VR ](https://free.apprcn.com/get-steam-game-suicide-guy-vr-for-free/)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[程序员的黄金法则：这三个能力让你在职场上脱颖而出](https://w2solo.com/topics/5049)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[熟人社会里，想做好事的串串成为“帮凶”｜记者手记](https://www.infzm.com/contents/279072)|
+|[IT之家](https://www.ithome.com/rss/)|[郭明錤：苹果 iPhone 17 系列采用 3 纳米处理器，部分 iPhone 18 机型采用 2 纳米处理器](https://www.ithome.com/0/796/863.htm)|
+||[小米汽车：9 月 21 日~10 月 31 日在 App 预约到服务中心，享蓄电池、轮胎等 25 项免费车辆检测](https://www.ithome.com/0/796/862.htm)|
+||[京东为 iPhone 16 / Pro 系列预购用户赠送“苹果 x 石榴”礼盒](https://www.ithome.com/0/796/861.htm)|
+||[填补月背研究历史空白，嫦娥六号月球样品首份研究成果出炉](https://www.ithome.com/0/796/860.htm)|
+||[与辉同行直播售卖的“澳门葡记月饼”被曝产自珠海，生产商称在澳注册商标但无门店](https://www.ithome.com/0/796/859.htm)|
+||[三星电子 PCIe 5.0 PC 固态硬盘 PM9E1 量产，顺序读取 14.5 GB/s](https://www.ithome.com/0/796/856.htm)|
+||[为什么电动自行车最高设计车速维持在 25 km/h、增加北斗定位？工信部回应](https://www.ithome.com/0/796/855.htm)|
+||[公安部：今年已侦办网络谣言类案件 2.7 万余起，依法查处造谣传谣网民 3.1 万余人](https://www.ithome.com/0/796/854.htm)|
+||[江波龙：两款自研主控芯片已实现超千万颗规模化产品导入](https://www.ithome.com/0/796/853.htm)|
+||[印度政府批准 4 个大型太空项目，包括登陆金星、登月、建空间站](https://www.ithome.com/0/796/852.htm)|
+||[电动自行车强制性国标再修订：增加北斗定位、实时通信功能](https://www.ithome.com/0/796/851.htm)|
+||[小米电动滑板车 5 系列现身监管机构，暗示即将上市发售](https://www.ithome.com/0/796/850.htm)|
+||[华为：未来三年每年投入 10 亿元，加速鲲鹏昇腾原生应用发展](https://www.ithome.com/0/796/849.htm)|
+||[华为 Watch GT 5 Pro 智能手表渲染图曝光：续航 14 天、IP68、追踪 100 多种运动模式，起价 379 欧元](https://www.ithome.com/0/796/845.htm)|
+||[铁威马推出 6 款 NAS 新品，均配备第 12 代酷睿处理器 + 双 10GbE RJ45 口](https://www.ithome.com/0/796/844.htm)|
+||[奥迪比利时工厂预计明年停产，消息称蔚来汽车有意收购](https://www.ithome.com/0/796/843.htm)|
+||[QQ 会员官方补贴：买 1 得 10 新低 158 元、买 1 得 14 仅需 178 元](https://www.ithome.com/0/796/842.htm)|
+||[铁三角 AT-LPW30 黑胶唱机开售：皮带驱动、双 RCA 输出，2980 元](https://www.ithome.com/0/796/841.htm)|
+||[因新增反作弊，Steam Deck 不再兼容《GTA 5》](https://www.ithome.com/0/796/840.htm)|
+||[横琴“澳门新街坊”双币种收单业务试点上线，可用澳门元作小额移动支付](https://www.ithome.com/0/796/839.htm)|
+||[7999 元起，GPD DUO 双屏 OLED 笔记本发布](https://www.ithome.com/0/796/838.htm)|
+||[东风风神 L7 纯电版 9 月 23 日上市：预售价 13 万-15 万元](https://www.ithome.com/0/796/836.htm)|
+||[我国将建设北斗综合定位导航授时体系：覆盖深海到深空，更好服务全球用户](https://www.ithome.com/0/796/834.htm)|
+||[小米米家无雾加湿器 3（800）众筹：6L 银离子水箱、支持澎湃智联，599 元](https://www.ithome.com/0/796/833.htm)|
+||[华为徐直军：不是每个企业都要训练自己的基础大模型](https://www.ithome.com/0/796/832.htm)|
+||[9200 元，腾龙 50-400mm F4.5-6.3 尼康 Z 风光天涯镜头上市](https://www.ithome.com/0/796/830.htm)|
+||[【IT之家开箱】石头扫拖机器人 G20S Ultra 图赏：双光源固态激光雷达，7.98cm 极薄机身](https://www.ithome.com/0/796/829.htm)|
+||[9 月 19 日发布，华为 Watch Ultimate 绿野传奇智能手表渲染图曝光](https://www.ithome.com/0/796/828.htm)|
+||[香港特区政府公布国泰航空空客 A350-1041 型客机严重事故调查初步报告](https://www.ithome.com/0/796/825.htm)|
+||[消息称月底没有鸿蒙 HarmonyOS NEXT 系统，华为穿戴类新品 9 月 24 日亮相](https://www.ithome.com/0/796/824.htm)|
+||[广东：电动自行车以旧换新一次性补贴 500 元，力争换新 40 万辆](https://www.ithome.com/0/796/823.htm)|
+||[全球首款投掷战术相机 Pit Viper 360 登场：可传输全景热图像，售 4000 美元](https://www.ithome.com/0/796/821.htm)|
+||[南航首架 C919 成功首航，后续将运营广州至杭州、广州至北京大兴等航线](https://www.ithome.com/0/796/820.htm)|
+||[传音与联发科共建人工智能联合实验室，聚焦手机端侧 AI 技术创新](https://www.ithome.com/0/796/819.htm)|
+||[欧盟 8 月新车销量创三年来最低水平，纯电汽车销量同比暴跌 43.9%](https://www.ithome.com/0/796/818.htm)|
+||[阿里通义万相视觉生成大模型升级，支持文生视频、图生视频等](https://www.ithome.com/0/796/817.htm)|
+||[华为路由 BE7 / BE7 Pro 预售：超薄膜天线设计，售价 599 元起](https://www.ithome.com/0/796/815.htm)|
+||[微星 DS102 V3 游戏鼠标开售：欧姆龙微动、支持宏定义，售价 99 元](https://www.ithome.com/0/796/814.htm)|
+||[《我的世界》游戏明年 3 月起不再支持索尼 PSVR 头显](https://www.ithome.com/0/796/813.htm)|
+||[AOC 推出 PD34 保时捷设计曲面显示器，搭载 240Hz QD-OLED 面板](https://www.ithome.com/0/796/812.htm)|
+||[阿里通义千问开源 Qwen2.5 大模型，号称性能超越 Llama](https://www.ithome.com/0/796/810.htm)|
+||[消息称谷歌 10 月 15 日向 Pixel 6 及后续机型推送安卓 15 更新](https://www.ithome.com/0/796/809.htm)|
+||[北通鲲鹏 20 智控游戏手柄发布：双 1000Hz 回报率、3 种扳机行程，首发 189 元](https://www.ithome.com/0/796/808.htm)|
+||[小鹏 P7+ 首次对外亮相，定位为全球首款 AI 汽车](https://www.ithome.com/0/796/807.htm)|
+||[消息称 Valve 明年将推出 Index 2 头显](https://www.ithome.com/0/796/805.htm)|
+||[广汽埃安 AION RT 车型 9 月 26 日预售：搭载激光雷达、超长续航](https://www.ithome.com/0/796/802.htm)|
+||[索尼 PS5 固件更新导致《最终幻想 XVI》《黑神话：悟空》等游戏无法正常运行](https://www.ithome.com/0/796/801.htm)|
+||[小米 Redmi Note 14 Pro+ 手机新配色「镜瓷白」亮相：后置三摄、曲面边框](https://www.ithome.com/0/796/800.htm)|
+||[消息称华为暂定产品节奏是 10 月 nova 13 系列，11 月 Mate 70 系列](https://www.ithome.com/0/796/799.htm)|
+||[EA 畅想未来 AI 游戏，可根据玩家想法生成地图、角色和模式](https://www.ithome.com/0/796/798.htm)|
+||[大疆 DJI Care 行业无忧服务升级：购买条件放宽、赠三者责任险](https://www.ithome.com/0/796/796.htm)|
+||[我国北斗三号导航系统最后两颗备份卫星发射成功](https://www.ithome.com/0/796/795.htm)|
+||[飞傲 KA15 解码和耳机功率放大器发布，699 元](https://www.ithome.com/0/796/794.htm)|
+||[票价 500 元，第十五届中国国际航空航天博览会（珠海航展）门票开售](https://www.ithome.com/0/796/793.htm)|
+||[雷蛇 × 宝可梦耿鬼款联名无线机械键盘开启预售：4000Hz 无线轮询率、三模链接，2499 元](https://www.ithome.com/0/796/792.htm)|
+||[小鹏 MONA M03 汽车迎来首次大规模 OTA 更新，5 大体验升级](https://www.ithome.com/0/796/791.htm)|
+||[索尼 INZONE 旗舰电竞显示器新品 9 月 25 日发布](https://www.ithome.com/0/796/790.htm)|
+||[小米米家净化加湿器 3 Max 开售：2600mL / h 加湿量、粉尘传感检测，首发 3799 元](https://www.ithome.com/0/796/789.htm)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[X 通过 Cloudflare 代理绕过巴西的屏蔽](https://www.solidot.org/story?sid=79289)|
+||[Real-Time Linux 合并到内核主线](https://www.solidot.org/story?sid=79288)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[这些企业已经通过AI节能减排省下一大笔费用了](https://www.huxiu.com/article/3485507.html?f=rss)|
+||[AI+医疗，到底有什么用？](https://www.huxiu.com/article/3483685.html?f=rss)|
+||[美联储降息50基点，对全球经济有什么影响？](https://www.huxiu.com/article/3484867.html?f=rss)|
+||[AI、社区、带货，YouTube 平台要“变天”了](https://www.huxiu.com/article/3486032.html?f=rss)|
+||[网文终于迎来“精英商战”：阅文与番茄“双雄对决”](https://www.huxiu.com/article/3485442.html?f=rss)|
+||[最高损失数千万，被金融茶暴雷套住的闽南小镇](https://www.huxiu.com/article/3486220.html?f=rss)|
+||[宗馥莉刀口向内](https://www.huxiu.com/article/3486218.html?f=rss)|
+||[《野孩子》排雷：爹味十足，但治愈力还行](https://www.huxiu.com/article/3485241.html?f=rss)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[台積電美國工廠試產蘋果 A16 晶片，用途成謎？](https://www.iphonetaiwan.org/2024/09/tsmc-us-factory-a16-chip-production.html)|
+||[蘋果進一步分散供應鏈，巴西首次加入 iPhone 16 組裝](https://www.iphonetaiwan.org/2024/09/iphone-16-brazil-assembly-global-supply-chain.html)|
+||[iOS 18「音樂觸覺」功能：讓聾人或聽障者也能體驗音樂](https://www.iphonetaiwan.org/2024/09/ios18-music-haptics.html)|
+||[FDA 批准 Apple Watch 睡眠窒息通知功能，睡眠健康革命](https://www.iphonetaiwan.org/2024/09/apple-watch-sleep-apnea-notification-update.html)|
+||[Apple Intelligence 下月 iOS 18.1 登場！明年支援台灣中文](https://www.iphonetaiwan.org/2024/09/apple-intelligence-new-features-update.html)|
+|[少数派](http://sspai.me/feed)|[六年之后的再升级：我的 iPad Pro M4 + Apple Pencil Pro 使用体验](https://sspai.com/post/92354)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 程序员 佬们，有没有开源的 it 文档项目，界面好看一点的](https://www.v2ex.com/t/1074072#reply12)|
+||[ 问与答 大家觉得在北京，夫妻俩是什么工作组合最好啊？](https://www.v2ex.com/t/1074070#reply12)|
+||[ 问与答 在北京便不成形，排便困难](https://www.v2ex.com/t/1074066#reply33)|
+||[ 问与答 我一直不是很明白，座式电风扇来回摆动的角度为什么不能自定](https://www.v2ex.com/t/1074058#reply18)|
+||[ 程序员 看过很多用前端写 win10 win11 liunx 的 但是好像没见过手机的](https://www.v2ex.com/t/1074048#reply15)|
+||[ MacBook Air 已用两年的 macbook air m1，能卖多少钱](https://www.v2ex.com/t/1074040#reply15)|
 |[少数派](http://sspai.me/feed)|[具透 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/92010)|
 |[维基萌](https://www.wikimoe.com/rss.php)|[开源节流，站点用来通知的邮箱地址从域名邮箱换成谷歌邮箱，国内邮箱接收的话有可能会进垃圾邮件。](https://www.wikimoe.com/post/k8gxscjn)|
 |[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[为什么服务会收到这些请求？](https://segmentfault.com/q/1010000045286383)|
