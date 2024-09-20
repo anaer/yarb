@@ -2,6 +2,102 @@
 
 |来源|标题|
 |---|---|
+|[知乎每日精选](https://www.zhihu.com/rss)|[给独立游戏制作人的进阶建议](http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+||[黑神话悟空：斗罢艰险，能否出发？](http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国汽车制造商如何应对欧盟关税？在欧洲造车](https://cn.nytimes.com/business/20240920/china-automakers-eu-tariffs/dual)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[LockBit 勒索美国在线报税服务平台eFile](https://www.freebuf.com/news/411364.html)|
+|[虎嗅](https://rss.huxiu.com/)|[预售下滑、二手回收热度不及往年，iPhone 16系列首发遇冷](https://www.huxiu.com/article/3489532.html?f=rss)|
+||[欧洲如何追赶美国？](https://www.huxiu.com/article/3488175.html?f=rss)|
+||[风电为什么不景气？新能源泡沫破灭了？拐点何时来？](https://www.huxiu.com/article/3489519.html?f=rss)|
+||[越喝越上瘾？中国古法发酵茶为何火爆全球](https://www.huxiu.com/article/3488834.html?f=rss)|
+||[iPhone16系列新品正式发售，为什么更推荐标准版？](https://www.huxiu.com/article/3485279.html?f=rss)|
+||[中日双方就福岛第一核电站核污染水排海问题达成共识](https://www.huxiu.com/article/3489527.html?f=rss)|
+||[美联储降息了，LPR为啥没降？](https://www.huxiu.com/article/3489520.html?f=rss)|
+||[美的方洪波，还有一场硬仗要打](https://www.huxiu.com/article/3489525.html?f=rss)|
+||[任天堂起诉《幻兽帕鲁》：大世界捉宠玩法有何影响？](https://www.huxiu.com/article/3489509.html?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在Vim中找回用户插件文件夹的名称？](https://segmentfault.com/q/1010000045289907)|
+||[不小心shift误删文件，请问有免费安全的还原工具吗?](https://segmentfault.com/q/1010000045289821)|
+||[如何编译一个同时支持apple芯片和intel芯片的nginx版本？](https://segmentfault.com/q/1010000045289490)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[里程碑｜飞致云旗下六大开源项目 GitHub Star 数全部破万！](https://www.oschina.net/news/312760)|
+||[IEEE Spectrum 2024：后起之秀 Typescript 和 Rust](https://www.oschina.net/news/312756/ieee-spectrum-2024-language-rank)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[设计小调整，功能大进步：AirPods 4 首发体验](https://sspai.com/post/92323)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[23人小公司如何在抖音打造月销破亿的护腰爆款？ 探讨BKT家居奇迹，从韩国专利到抖音爆款：广州画船听雨如何精准打击腰痛市场？ 快速打造电商爆品秘诀](https://lukefan.com/2024/09/20/23%e4%ba%ba%e5%b0%8f%e5%85%ac%e5%8f%b8%e5%a6%82%e4%bd%95%e5%9c%a8%e6%8a%96%e9%9f%b3%e6%89%93%e9%80%a0%e6%9c%88%e9%94%80%e7%a0%b4%e4%ba%bf%e7%9a%84%e6%8a%a4%e8%85%b0%e7%88%86%e6%ac%be%ef%bc%9f/)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[减肥药 GLP-1 研究者赢得拉斯克奖](https://www.solidot.org/story?sid=79297)|
+||[美国特情局调查马斯克暗杀现任总统副总统的言论](https://www.solidot.org/story?sid=79296)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[寻呼机爆炸，炸醒通讯安全警惕心](https://www.4hou.com/posts/42L2)|
+||[武汉大学：如何做好高校电子邮件账号安全防护](https://www.4hou.com/posts/6M97)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[IT 专业入门，迟到的新生预习指南](https://w2solo.com/topics/5052)|
+||[【网站自荐】OC Maker——用 AI 生成原创角色图像](https://w2solo.com/topics/5051)|
+|[36氪](https://36kr.com/feed)|[神州数码联合华为打造昇腾能力中心，聚焦边缘推理应用 最前线](https://36kr.com/p/2958002365728262?f=rss)|
+||[降息靴子落地，哪些资产将迎来泼天富贵？丨智氪](https://36kr.com/p/2957994369091079?f=rss)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[实验室带你过周末：2024.9.21 - 9.22 北京篇](http://www.toodaylab.com/83058)|
+|[煎蛋](http://jandan.net/feed)|[为什么苹果在 iPhone 16 中使用 JPEG XL](http://jandan.net/p/117841)|
+|[少数派](http://sspai.me/feed)|[具透 macOS Sequoia 正式版来了，升级后记得试试这些新功能](https://sspai.com/post/91855)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[开放与云化：无线网络的6G革命](https://www.tmtpost.com/7256879.html)|
+||[9月20日A股分析：沪指探底回升微涨0.03%，两市合计成交5747亿元，信创和华为昇腾概念受资金青睐](https://www.tmtpost.com/7257422.html)|
+||[“狗皮膏药”的牛市，创新药的眼泪](https://www.tmtpost.com/7256675.html)|
+||[It's Not AI That Will Change the Times, But Those Who Master It, Says C&S Paper CIO](https://www.tmtpost.com/7257449.html)|
+||[从拖地向洗地的进化，科沃斯发布地宝X8系列恒压活水洗地机器人 科技前线](https://www.tmtpost.com/7256960.html)|
+||[古装短剧暑期档：九州、番茄领跑，麦芽自制断崖领先](https://www.tmtpost.com/7256887.html)|
+||[常荣电器：经营业绩变脸，申报前夕突击大举分红，毛利率和研发费用“倒挂”｜IPO观察](https://www.tmtpost.com/7251025.html)|
+||[酒鬼酒：阶段性经营压力不会导致大规模人员变动｜直击业绩会](https://www.tmtpost.com/7257315.html)|
+||[广告烧钱过亿，70%用户靠投流，大模型算不过成本账？](https://www.tmtpost.com/7257172.html)|
+||[香港医院管理局蔡阳：医疗数字化转型的关键是打造整合两侧的基本底座丨2024 ITValue Summit 数字价值年会](https://www.tmtpost.com/7257214.html)|
+||[爆火的地方奶茶，集体“杀向”一线城市](https://www.tmtpost.com/7256893.html)|
+||[水性印花胶浆龙头长联科技上市在即 持续创新夯实领先优势](https://www.tmtpost.com/7257110.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 和学妹微妙的关系，我该怎么做？](https://www.v2ex.com/t/1074410#reply81)|
+||[ 程序员 出海人去香港办银行卡注意事项和碰到的坑](https://www.v2ex.com/t/1074406#reply11)|
+||[ 分享发现 可以吃进口日料了？](https://www.v2ex.com/t/1074395#reply16)|
+||[ 投资 完了 全完了 被人民币升值干碎了](https://www.v2ex.com/t/1074390#reply46)|
+||[ 互联网 AI 正在污染互联网世界](https://www.v2ex.com/t/1074388#reply26)|
+||[ 新手求助 V2EX 不可以上传图片，大家是怎么发图的？](https://www.v2ex.com/t/1074387#reply20)|
+||[ Apple iPhone 16 Pro 系列的拍照按钮不太好用](https://www.v2ex.com/t/1074385#reply13)|
+||[ 程序员 都说 VS 是宇宙第一的 IDE，到底是好在哪里？](https://www.v2ex.com/t/1074382#reply29)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[服务号折叠了还有什么用？](https://www.woshipm.com/share/6117528.html)|
+||[微信读书墨水屏：如何“正向”产品设计？](https://www.woshipm.com/share/6117527.html)|
+||[深度｜红杉美国对话英伟达科学家 Jim Fan：十年内人形机器人将超越人类的敏捷性和可靠性，所有可移动的东西终将实现自主化](https://www.woshipm.com/share/6117525.html)|
+||[三只羊出问题算是讲清楚了](https://www.woshipm.com/share/6117521.html)|
+||[简历与面试–从底层逻辑讲述](https://www.woshipm.com/share/6116108.html)|
+||[第一可迁移能力：解决问题的能力](https://www.woshipm.com/share/6117500.html)|
+||[网红为什么要学公众关系议题？](https://www.woshipm.com/share/6117497.html)|
+||[招行一个用户指标，揭示了银行零售的两个巨变](https://www.woshipm.com/share/6117495.html)|
+||[找工作，同样要讲究可持续发展!](https://www.woshipm.com/share/6117491.html)|
+||[漏斗增长维度下的三种增长机会](https://www.woshipm.com/share/6117300.html)|
+||[交易从来都不是等价交换](https://www.woshipm.com/share/6117462.html)|
+||[这个【数据预警模型】，让人大呼好用！](https://www.woshipm.com/share/6117461.html)|
+||[客服中心的智能服务体系-除了智能客服外还能做什么？](https://www.woshipm.com/pd/6117301.html)|
+||[微信问一问赚钱新风口项目拆解，保姆级教程，建议收藏！](https://www.woshipm.com/share/6117407.html)|
+||[小红书运营黑马玩法：13个粉丝写5篇笔记，野路子小红书爆款涨粉1w+](https://www.woshipm.com/operate/6116744.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[如何评价《崩坏学园 2》与《BanG Dream！It‘s MyGO！！！！！》联动正式公开？](https://www.zhihu.com/question/667603968)|
+||[如何看待优秀的文学作品中多以悲剧结尾？](https://www.zhihu.com/question/660020376)|
+||[现在的医疗水平越来越先进，为什么病人却越来越多?](https://www.zhihu.com/question/662961197)|
+||[成年人最靠谱的关系是什么？](https://www.zhihu.com/question/667526236)|
+||[如何评价《脱口秀和 Ta 的朋友们》第五期？](https://www.zhihu.com/question/667418091)|
+||[中国有哪些城市，可以撑得起国庆七日游？](https://www.zhihu.com/question/666786543)|
+||[突然失去了对旅行的兴趣，深层的原因是什么？](https://www.zhihu.com/question/301797233)|
+||[《黑神话: 悟空》黄眉和金蝉子如果到现实世界打赌，谁会赢？](https://www.zhihu.com/question/666983742)|
+||[离岸人民币兑美元日内涨超 300 个基点，逼近 7.06 关口，在岸人民币一度升破 7.07 关口，如何解读？](https://www.zhihu.com/question/667583568)|
+||[比特币日内大涨 4%，站上 62000 美元，美联储降息对加密货币市场有何影响？比特币是否会创新高？](https://www.zhihu.com/question/667563807)|
+||[崩 3＆星穹铁道联动剧情的最后，流光忆庭为何说琪亚娜有「令使级」实力?](https://www.zhihu.com/question/667585082)|
+||[如何看待阿里通义千问团队发布 Qwen2.5 MATH，效果怎么样，这是中国的草莓吗？](https://www.zhihu.com/question/667531937)|
+||[美联储 4 年来首次降息，对中国有哪些影响？中国是否也会降息？](https://www.zhihu.com/question/667586983)|
+||[台风「普拉桑」在上海奉贤沿海二次登陆，目前情况如何？](https://www.zhihu.com/question/667617484)|
+||[央视体育频道知名主持人于嘉疯狂「跑马」十二年，过程不乏挫败和伤病，那些沉迷跑马拉松的中年人是为了什么？](https://www.zhihu.com/question/667501299)|
+||[为什么节日越过越冷淡了？](https://www.zhihu.com/question/667518302)|
+||[为什么人到中年就会逐渐变得十分油腻？](https://www.zhihu.com/question/419144804)|
+||[我国禁止用粘土实心砖建房，粘土实心砖有什么危害？](https://www.zhihu.com/question/638126520)|
+||[《三国演义》中司马懿真的看不出来诸葛亮的空城计吗？](https://www.zhihu.com/question/667089789)|
+||[如果在 Uzi 巅峰的三年里，把中单小虎分别换成小学弟，肉鸡，大 b，可以夺冠吗？](https://www.zhihu.com/question/664662908)|
+||[《人民的名义》中为什么祁同伟都混到省公安厅长这个位置了，还是被汉东官场的所有人瞧不起呢？](https://www.zhihu.com/question/667240792)|
+||[市直定向选调生下到基层，怎么样才能做出成绩来呢？](https://www.zhihu.com/question/652141131)|
+||[9 月 LPR 按兵不动，1 年期 3.35%，5 年期以上 3.85%，如何解读？哪些信息值得关注？](https://www.zhihu.com/question/667656465)|
+||[为什么 T1 敢在 S14 全球总决赛上带 Rekkles 这位二队选手作为替补呢？](https://www.zhihu.com/question/667572882)|
+||[高三期初 590 分，还有希望考 211 吗?](https://www.zhihu.com/question/667419196)|
+|[极客公园](https://plink.anyfeeder.com/geekpark)|[售价高达 100 万的 AI 产品，有钱人排队求买，为什么？](http://www.geekpark.net/news/340868)|
+|[爱范儿](https://plink.anyfeeder.com/ifanr)|[众泰皮尺部，在奇瑞找到了新工作](https://www.ifanr.com/1599536?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[一文看懂 OpenAI 最强模型 o1：怎么用好，为何翻车，对我们意味着什么](https://www.ifanr.com/1599849?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[14.99 万元起！蔚来乐道正式上市，三分钟换电，用「魔法」打败 Model Y](https://www.ifanr.com/1599825?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-20](https://decohack.com/producthunt-daily-2024-09-20/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[李斌否认蔚来接手奥迪工厂：奥迪都养不起我怎么养得起](https://m.cnbeta.com.tw/view/1446436.htm)|
 |[南方周末-新闻](https://rsshub.app/infzm/2)|[网传“县领导带头强拆大学生创业果园”，官方通报](https://www.infzm.com/contents/279172)|
 ||[提升安全水平，《电动自行车安全技术规范（征求意见稿）》公布](https://www.infzm.com/contents/279164)|
