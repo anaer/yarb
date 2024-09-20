@@ -2,6 +2,89 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[李斌否认蔚来接手奥迪工厂：奥迪都养不起我怎么养得起](https://m.cnbeta.com.tw/view/1446436.htm)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[网传“县领导带头强拆大学生创业果园”，官方通报](https://www.infzm.com/contents/279172)|
+||[提升安全水平，《电动自行车安全技术规范（征求意见稿）》公布](https://www.infzm.com/contents/279164)|
+||[一次“不同寻常”的降息，美联储由鹰转鸽？](https://www.infzm.com/contents/279156)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[在 deepin 上除了 Steam，还能怎么玩游戏？](https://www.oschina.net/news/312733)|
+||[JetBrains 与阿里云战略合作发布 JetBrains AI Assistant，聚焦中国市场开发者，实现开发效率代际提升](https://www.oschina.net/news/312732/jetbrains-ai-assistant)|
+||[Linux 主线内核已合并史诗级补丁 ‘PREEMPT_RT’](https://www.oschina.net/news/312719/real-time-linux-merged-into-kernel-mainline)|
+||[微软优化 Hyper-V 代码，以缩短启动时间](https://www.oschina.net/news/312709/linux-6-12-hyper-v)|
+||[热爱无国界：deepin 23 获得全球用户的信任与支持](https://www.oschina.net/news/312707)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 被诈骗了。](https://www.v2ex.com/t/1074345#reply41)|
+||[ 宽带症候群 想实现外网 1000-2000 兆，内网万兆，正在装修，宽带穿线是不是必须埋光纤](https://www.v2ex.com/t/1074336#reply16)|
+||[ Apple AirPods 4 主动降噪版 推荐购买](https://www.v2ex.com/t/1074321#reply21)|
+||[ 生活 痛风 or 尿酸高的朋友们来交流一下吧](https://www.v2ex.com/t/1074317#reply29)|
+||[ 嵌入式开发 如何看待新版《电动自行车安全技术规范》要求电动车必须安装北斗定位与公网通信模块](https://www.v2ex.com/t/1074315#reply37)|
+||[ 程序员 用 office 365 企业版做域名邮箱太贵了怎么办](https://www.v2ex.com/t/1074314#reply32)|
+||[ MacBook Pro 不考虑价格的话， M3 Macbook Pro 14''和 16''怎么选？](https://www.v2ex.com/t/1074300#reply21)|
+||[ Apple 有使用 mac 神器 Alfred 的朋友们看过来](https://www.v2ex.com/t/1074299#reply17)|
+|[36氪](https://www.36kr.com/feed)|[36氪独家｜宏景智驾完成数亿元C1轮融资，中东资本连投4轮](https://36kr.com/p/2956433358567296?f=rss)|
+||[小米汽车重整队伍，冲刺「端到端」智能驾驶交付｜36氪独家](https://36kr.com/p/2956902677953927?f=rss)|
+|[小众软件](http://feed.appinn.com/)|[汽油发动机声音模拟器｜支持手动换挡](https://www.appinn.com/engine-sounds-simulator/)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[杨植麟、姜大昕、朱军云栖激辩：我们对大模型发展的预测，都过于保守了](https://36kr.com/p/2956689464227718)|
+||[有望超1000万辆，这一行业彻底火了](https://36kr.com/p/2956899256549000)|
+||[贾跃亭喜提2.1亿，没有一笔融资是一份PPT搞不定的](https://36kr.com/p/2956842338695559)|
+||[印度放倒钩，中国车企拒绝“上当”](https://36kr.com/p/2956875924650886)|
+||[被迫继承摊位的00后，开着宝马送牛肉](https://36kr.com/p/2956674697001096)|
+||[8点1氪｜董宇辉带货月饼疑有质量问题；苹果客服承认更新iPadOS18后会黑屏；网红直播调侃九一八被永久封号](https://36kr.com/p/2957607372932353)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 被诈骗了。](https://www.v2ex.com/t/1074345#reply43)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[关于发布《网络安全标准实践指南——敏感个人信息识别指南》的通知](https://www.4hou.com/posts/7MXw)|
+||[超过 1000 个 ServiceNow 实例被发现泄露企业知识库数据](https://www.4hou.com/posts/XP5k)|
+||[SuperCS车联网安全攻防挑战赛报名开启](https://www.4hou.com/posts/8gEl)|
+||[周鸿祎谈黎巴嫩寻呼机爆炸案：供应链和网络安全必须掌握在自己手中](https://www.4hou.com/posts/9jgP)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[利用加密货币敏捷性应对后量子威胁](https://www.anquanke.com/post/id/300239)|
+||[朝鲜 APT 在网络间谍攻击中绕过 DMARC 电子邮件策略](https://www.anquanke.com/post/id/300242)|
+||[黑客声称对戴尔公司进行了数据泄露，曝光超过10,000名员工信息](https://www.anquanke.com/post/id/300247)|
+||[联邦调查局逮捕了涉嫌窃取 2.3 亿美元比特币的加密货币骗子](https://www.anquanke.com/post/id/300250)|
+||[谷歌发出警告： 依赖性扫描程序经常误报漏洞](https://www.anquanke.com/post/id/300253)|
+||[Ivanti 云服务设备中被利用漏洞 CVE-2024-8190 的 PoC 漏洞利用版本](https://www.anquanke.com/post/id/300256)|
+||[SambaSpy RAT 在独特的恶意软件活动中以意大利用户为目标](https://www.anquanke.com/post/id/300259)|
+||[首批！360安全大模型获中国信通院基础网络安全能力评估认证](https://www.anquanke.com/post/id/300265)|
+||[抖音集团携手中国银联成立数据隐私保护创新技术联合实验室，加快助力金融科技高质量发展](https://www.anquanke.com/post/id/300270)|
+||[探索隐私计算的标准化之路 Jeddak亮相国家网络安全宣传周](https://www.anquanke.com/post/id/300260)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[暑期档黄了，可能是导演们的锅](http://www.huxiu.com/article/3486027.html?f=wangzhan)|
+||[求求做新闻的，别每天“震惊！”“突发！”我了](http://www.huxiu.com/article/3486572.html?f=wangzhan)|
+|[老左笔记](https://www.laozuo.org/feed)|[华纳云香港服务器租用推荐 CN2优化线路和国际大带宽可选](https://www.laozuo.org/29570.html)|
+|[正念](https://wp.wtrzl.xyz/feed)|[Moshi：新一代人机对话语音大模型](https://wp.wtrzl.xyz/archives/354)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[高中生熄灯后上厕所竟“重大违纪”：如此无底线的规训令人发指丨快评](https://www.infzm.com/contents/279174)|
+|[IT之家](https://www.ithome.com/rss/)|[突破性实验有望让我们首次“看到”万有引力](https://www.ithome.com/0/797/105.htm)|
+||[Raijintek 发布 PAEAN ULTRA 半框架式全塔机箱，尾部支持 4 颗风扇](https://www.ithome.com/0/797/104.htm)|
+||[一加 13 手机 ColorOS 15 互传截图曝光，支持与 iPhone 传输图片、视频、文档等内容](https://www.ithome.com/0/797/103.htm)|
+||[CrowdStrike“全球灭霸响指”事件后续，德国 10% 企业更换安全供应商](https://www.ithome.com/0/797/101.htm)|
+||[大连思科被曝预计裁员约 300 人，提供 N+7 赔偿方案](https://www.ithome.com/0/797/100.htm)|
+||[动画剧集《古墓丽影：劳拉・克劳馥传奇》正式预告发布，10 月 10 日上线 Netflix](https://www.ithome.com/0/797/098.htm)|
+||[OPPO Find X8 Pro 卫星通信手机现身 Geekbench，最快 10 月 21 日发布](https://www.ithome.com/0/797/097.htm)|
+||[Fēnix 8 Micro LED 智能手表再添新证，佳明已和 Vuzix 签订合同](https://www.ithome.com/0/797/089.htm)|
+||[极米神灯 Sunlight 投影仪开售：三合一形态、0.8:1 投射比，首发 4299 元](https://www.ithome.com/0/797/088.htm)|
+||[IDC：2024 上半年中国 AR / VR 头显出货 23.3 万台，同比下滑 29.1%](https://www.ithome.com/0/797/087.htm)|
+||[微软全新 Surface Pro 第 11 版被曝将增骁龙 X1E-84-100 芯片版](https://www.ithome.com/0/797/086.htm)|
+||[小米汽车智能驾驶团队被曝重整，冲刺“端到端”智驾交付](https://www.ithome.com/0/797/085.htm)|
+||[小米 Redmi Buds 6 耳机预热：49dB 最高降噪深度，总续航 42 小时](https://www.ithome.com/0/797/084.htm)|
+||[OpenAI o1 全方位 SOTA 登顶 lmsys 排行榜：数学能力碾压 Claude 和谷歌 Gemini 模型，o1-mini 并列第一](https://www.ithome.com/0/797/082.htm)|
+||[贾跃亭发布法拉第未来 FF 第二品牌 Faraday X，与国内 4 家主机厂签署合作协议或 MOU](https://www.ithome.com/0/797/081.htm)|
+||[一箭六星，我国成功发射吉林一号宽幅 02B01~06 星](https://www.ithome.com/0/797/080.htm)|
+||[华为终将放弃 Windows 笔记本，余承东称会推出搭载鸿蒙系统的 PC 产品](https://www.ithome.com/0/797/079.htm)|
+||[李斌否认收购奥迪比利时工厂：奥迪都养不起的工厂，蔚来更养不起](https://www.ithome.com/0/797/078.htm)|
+||[索尼 WF / WH-1000XM5 耳机“玫瑰灰”配色国行开售：支持主动降噪，1699 / 2399 元](https://www.ithome.com/0/797/077.htm)|
+||[微信 iOS 版 8.0.52 最新官方正式版下载发布](https://www.ithome.com/0/797/075.htm)|
+|[理想生活实验室](https://plink.anyfeeder.com/toodaylab)|[今日消费资讯：杨紫成为 MICHAEL KORS 亚太区代言人、​乐高和 F1 建立全新长期战略合作伙伴关系](http://www.toodaylab.com/83057)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[含胸、驼背、颈前伸？每天 10 分钟，选对动作后气质真能变好！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%90%AB%E8%83%B8%E3%80%81%E9%A9%BC%E8%83%8C%E3%80%81%E9%A2%88%E5%89%8D%E4%BC%B8%EF%BC%9F%E6%AF%8F%E5%A4%A9%2010%20%E5%88%86%E9%92%9F%EF%BC%8C%E9%80%89%E5%AF%B9%E5%8A%A8%E4%BD%9C%E5%90%8E%E6%B0%94%E8%B4%A8%E7%9C%9F%E8%83%BD%E5%8F%98%E5%A5%BD%EF%BC%81)|
+||[牙刷用多久，就应该要换掉？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%89%99%E5%88%B7%E7%94%A8%E5%A4%9A%E4%B9%85%EF%BC%8C%E5%B0%B1%E5%BA%94%E8%AF%A5%E8%A6%81%E6%8D%A2%E6%8E%89%EF%BC%9F)|
+||[清黑头，又不让毛孔变大的好东西！怎么还有人不知道](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%B8%85%E9%BB%91%E5%A4%B4%EF%BC%8C%E5%8F%88%E4%B8%8D%E8%AE%A9%E6%AF%9B%E5%AD%94%E5%8F%98%E5%A4%A7%E7%9A%84%E5%A5%BD%E4%B8%9C%E8%A5%BF%EF%BC%81%E6%80%8E%E4%B9%88%E8%BF%98%E6%9C%89%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[五子棋人机对战游戏](https://w2solo.com/topics/5050)|
+|[虎嗅](https://rss.huxiu.com/)|[游戏行业全球大变局，《黑神话：悟空》只是前哨战？](https://www.huxiu.com/article/3489192.html?f=rss)|
+||[关于“延迟退休”的一些思考](https://www.huxiu.com/article/3488841.html?f=rss)|
+||[今年最大尺度高分韩综，不谈恋爱只吵架](https://www.huxiu.com/article/3489491.html?f=rss)|
+||[从MBTI回到荣格：当心灵的河流日渐干涸](https://www.huxiu.com/article/3489176.html?f=rss)|
+||[本硕人数倒挂加速，“二次改命”更难了](https://www.huxiu.com/article/3489165.html?f=rss)|
+||[中国最大的“跨市地铁”群，呼之欲出](https://www.huxiu.com/article/3488840.html?f=rss)|
+||[“给领导买饭”，刺痛打工人](https://www.huxiu.com/article/3488510.html?f=rss)|
+||[直播拆卡，为何让人“上头”？](https://www.huxiu.com/article/3488801.html?f=rss)|
+||[二胎开学，深感人生之艰难](https://www.huxiu.com/article/3488837.html?f=rss)|
+||[美联储大幅降息，国内金饰价格普跌](https://www.huxiu.com/article/3489156.html?f=rss)|
+||[iPhone16系列深度测评：标准版比Pro更值得买](https://www.huxiu.com/article/3487636.html?f=rss)|
+||[美联储、央行、中国大妈，到底是谁在影响金价？](https://www.huxiu.com/article/3487371.html?f=rss)|
 |[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中国汽车制造商如何应对欧盟关税？在欧洲造车](https://cn.nytimes.com/business/20240920/china-automakers-eu-tariffs/?utm_source=RSS)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[繁荣与萧条，价值与毁灭：老虎基金那些幽暗岁月](https://www.tmtpost.com/7256664.html)|
 ||[小杨哥美诚月饼风波背后，白牌和平替到底有啥区别？](https://www.tmtpost.com/7256942.html)|
