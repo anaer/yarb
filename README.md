@@ -2,6 +2,39 @@
 
 |来源|标题|
 |---|---|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[给一个公司做了外包项目，但是公司不支付费用，应该怎么办](https://www.v2ex.com/t/1074275#reply19)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Chinese Commerce Minister and EU Trade Official Agree to Intensify Efforts to Reach Solution to EV Tariff Disputes](https://www.tmtpost.com/7256990.html)|
+||[We Remain in Early Stage of AGI Transformation as AI Potential is Underestimated: Alibaba CEO](https://www.tmtpost.com/7256907.html)|
+||[年轻人的二次元新解](https://www.tmtpost.com/7256183.html)|
+||[“给领导买饭”，刺痛打工人](https://www.tmtpost.com/7256903.html)|
+||[瑞士机器人科技公司Verity研发仓库自主巡检无人机，实现零误差库存自动化管理 瑞士创新100强](https://www.tmtpost.com/7256241.html)|
+||[Rokid 被资本热捧背后，难掩生态荒漠真相](https://www.tmtpost.com/7256309.html)|
+||[Alibaba All-In on AI Infrastructure with Release of Over 100 Open-Source Models](https://www.tmtpost.com/7256685.html)|
+||[拒绝低价，喜茶说了算？](https://www.tmtpost.com/7256270.html)|
+||[专门“收割”妈妈们的特百惠，被时代抛弃了](https://www.tmtpost.com/7256438.html)|
+||[钛媒体科股早知道：该全固态电池研发成功，充一次电可跑4000公里](https://www.tmtpost.com/7256570.html)|
+|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/index.xml)|[科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[阿里巴巴开发手册伦里的5.1.1，任何字段如果为非符数，必须是unsigned，但是Java里是没有unsigned类型的，不会报错吗？](https://segmentfault.com/q/1010000045288557)|
+||[js怎么把数组里id相同的合并到一个对象里？](https://segmentfault.com/q/1010000045288497)|
+||[vue安装组件，组件中包含了第三方请求地址导致加载很慢，如何处理？](https://segmentfault.com/q/1010000045288452)|
+||[AMH 7.0升级后，软件商店Module是否必须升级才能操作？](https://segmentfault.com/q/1010000045288349)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[好利来对员工“禁摩”：企业为何“管得越来越宽”？丨快评](https://www.infzm.com/contents/279116)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 分享发现 编程失误，全员 VIP 了](https://www.v2ex.com/t/1074282#reply19)|
+||[ 问与答 乐道 L60，电池租赁版 14.99 万起，感觉杀疯了呀](https://www.v2ex.com/t/1074278#reply12)|
+||[ 投资 存款 1~5 万元有什么理财方式或者产品推荐吗？稳定一点的就行，不想老被借钱](https://www.v2ex.com/t/1074277#reply24)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[数电时代纳税申报系统产品设计建议](https://www.woshipm.com/pd/6116962.html)|
+||[产品规划：如何运用优先级与最小颗粒度原则，实现产品规划的有效落地？](https://www.woshipm.com/share/6116941.html)|
+||[数字美业 美容院门店会员数字化营销运营解决方案](https://www.woshipm.com/marketing/6116778.html)|
+||[Axure PR 9 步进器 设计&交互](https://www.woshipm.com/share/6117130.html)|
+||[小红书的实操案例：0基础5天1000万阅读是怎么做到的？](https://www.woshipm.com/operate/6116738.html)|
+||[微信公众号赚钱新风口项目拆解，保姆级教程，建议收藏！](https://www.woshipm.com/share/6116717.html)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Pix - 照片、视频模糊工具 iOS 内购限免 ](https://free.apprcn.com/pix/)|
+||[免费获取字体包 Handwritten Font Bundle Windows、macOS $1549→0 ](https://free.apprcn.com/get-handwritten-font-bundle-for-free-6/)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[WHMCS v8.11.0破解版+中文汉化+加密货币收款插件+个人收款免签插件](https://www.cheshirex.com/8677.html)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[位于中美科技战核心的芯片制造商：中芯国际](https://cn.nytimes.com/technology/20240920/smic-china-us-trade-war/?utm_source=RSS)|
+||[现代“特洛伊木马”：详解黎巴嫩寻呼机爆炸案](https://cn.nytimes.com/world/20240919/israel-exploding-pagers-hezbollah/?utm_source=RSS)|
+|[TecHug](https://www.techug.com/feed)|[【程序员搞笑图片】你没有这种权力](https://www.techug.com/post/youhavenopowerhere/)|
+||[Rust 的崛起： 这种编程语言为何越来越受欢迎](https://www.techug.com/post/the-rise-of-rust-why-this-programming-language-is-gaining-popularity/)|
 |[虎嗅](https://plink.anyfeeder.com/huxiu)|[数学物理学家Lieb：费曼认为我严格计算浪费时间，却让我更坚定走数学物理之路](https://www.huxiu.com/article/3488482.html?f=rss)|
 ||[出口景气可能见顶](https://www.huxiu.com/article/3487351.html?f=rss)|
 ||[豆瓣9.3，70岁导演拍出最好哭国产片](https://www.huxiu.com/article/3488457.html?f=rss)|
