@@ -2,6 +2,114 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 和学妹微妙的关系，我该怎么做？](https://www.v2ex.com/t/1074410#reply249)|
+||[ Apple iPhone 如何关闭 APP 开屏广告摇一摇跳转详情](https://www.v2ex.com/t/1074408#reply13)|
+||[ 程序员 出海人去香港办银行卡注意事项和碰到的坑](https://www.v2ex.com/t/1074406#reply27)|
+||[ macOS 天塌了，软件升级联网失败](https://www.v2ex.com/t/1074404#reply11)|
+|[少数派](http://sspai.me/feed)|[收藏不等于有用，6 条准则助我高效管理书签](https://sspai.com/post/92312)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[百度 Android IM SDK 组件能力建设及应用](https://my.oschina.net/u/4939618/blog/15873147)|
+||[大连思科被曝裁员约 300 人，赔偿方案含 “N+7”](https://www.oschina.net/news/312788)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[如果中国不再努力拯救世界，会发生什么？](https://cn.nytimes.com/opinion/20240920/china-solar-climate/)|
+||[我从中国被领养，至今仍在寻找自我和归属](https://cn.nytimes.com/opinion/20240920/china-adopted-babies-identity/)|
+||[中国汽车制造商如何应对欧盟关税？在欧洲造车](https://cn.nytimes.com/business/20240920/china-automakers-eu-tariffs/)|
+|[36氪](http://36kr.com/feed)|[京西集团中国区CEO刘喜合：国产底盘替代趋势利好，成本和服务能力才是关键｜36氪专访](https://36kr.com/p/2947704581053313?f=rss)|
+||[重押Kimi的阿里战投负责人离职，她发了一首摇滚歌曲来告别](https://36kr.com/p/2958164058754306?f=rss)|
+||[隐山资本人民币VC基金一期募资完成、有屋智能挂牌新三板、英特尔投资房地产数据智能分析平台Cherre ｜ PropTech周刊](https://36kr.com/p/2957832358168324?f=rss)|
+||[用AI大模型助力工业低碳转型，「极峰科技」获千万级天使轮融资 36氪首发](https://36kr.com/p/2949454531060102?f=rss)|
+||[「没钱硬撑」的中产们，瞄上了国产酒庄？](https://36kr.com/p/2956820547779209?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[真·AI程序员来了，阿里云「通义灵码」全面进化，全流程开发仅用几分钟](https://www.jiqizhixin.com/articles/2024-09-20-7)|
+||[o1带火的CoT到底行不行？新论文引发了论战](https://www.jiqizhixin.com/articles/2024-09-20-6)|
+||[别Cursor了，集成o1的GitHub Copilot让网友直呼要回归](https://www.jiqizhixin.com/articles/2024-09-20-5)|
+||[从架构、工艺到能效表现，全面了解LLM硬件加速，这篇综述就够了](https://www.jiqizhixin.com/articles/2024-09-20-4)|
+||[华为云AI原生基础设施CloudMatrix亮相全联接大会](https://www.jiqizhixin.com/articles/2024-09-20-8)|
+||[病毒从何而来？AlphaFold等AI正在寻找答案](https://www.jiqizhixin.com/articles/2024-09-20-3)|
+||[原子、分子、复合物级性质预测均最佳，清华分子预训练框架登Nature子刊](https://www.jiqizhixin.com/articles/2024-09-20-2)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[今日头条赚钱新风口项目拆解，保姆级教程，建议收藏！](https://www.woshipm.com/share/6117394.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 今日全球開賣！紐約第五大道 Apple Store 打造炫彩外觀，迎接全新 iPhone 16](https://applefans.today/2024-09-apple-fifth-ave-store-glows-apple-intelligence/)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 和学妹微妙的关系，我该怎么做？](https://www.v2ex.com/t/1074410#reply250)|
+|[IT之家](https://www.ithome.com/rss/)|[追风者 Eclipse G400A 机箱上架：前部斗型设计聚风盖板，预售价 469 元](https://www.ithome.com/0/797/238.htm)|
+||[【IT之家评测室】科沃斯地宝 T50 PRO：81mm 纤薄机身 + 边刷拖布双外扩，解决“进不去、够不着”清洁难题](https://www.ithome.com/0/797/237.htm)|
+||[索尼 PSV 时代经典共斗游戏《自由战争》迎复刻版，明年 1 月 10 日发售](https://www.ithome.com/0/797/227.htm)|
+||[智己汽车升级服务品牌 "IM CARE 智行无忧"：明日起至 10 月 31 日提供车辆检测、7*24 小时收车等服务](https://www.ithome.com/0/797/226.htm)|
+||[东风奕派 eπ008 五座版 SUV 车型将于 10 月上市：取消第三排座椅、提供 15.6 英寸后舱娱乐屏](https://www.ithome.com/0/797/225.htm)|
+||[联想推出 15.3 英寸轻薄本 YOGA Air 15 Aura AI 元启版：搭载英特尔酷睿 Ultra 258V 处理器](https://www.ithome.com/0/797/223.htm)|
+||[投资 80 亿，和辉光电第六代 AMOLED 生产线产能扩充项目通过验收、产能提高 50%](https://www.ithome.com/0/797/221.htm)|
+||[哪吒汽车获拉美最大投行巴西百达 10 亿雷亚尔金融支持，用于充电设施建设等](https://www.ithome.com/0/797/220.htm)|
+||[联想推出 YOGA Pro 14 锐龙 AI 元启版：采用 14.5 英寸 3K 120Hz 高素质大屏](https://www.ithome.com/0/797/219.htm)|
+||[黑爵 AK820 磁轴版“黑莓粉”键盘上市：下灯位 RGB 背光、有线 8000Hz 回报率，249 元](https://www.ithome.com/0/797/216.htm)|
+||[广汽埃安：计划年内在泰国建成 70 家渠道、25 座充电站](https://www.ithome.com/0/797/215.htm)|
+||[一汽奔腾 T90 龙跃版 SUV 将于 9 月 26 日上市，新增艺术灰车漆](https://www.ithome.com/0/797/211.htm)|
+||[Steam 国区 149 元，《赛博朋克 2077》游戏本体迎 5 折史低](https://www.ithome.com/0/797/209.htm)|
+||[乘联分会：预计 9 月狭义乘用车零售 210 万辆，新能源车 110 万辆](https://www.ithome.com/0/797/208.htm)|
+||[摩尔线程开源 OpenCV-MUSA：支持绝大部分 cv::cuda 命名空间下数据结构及 API](https://www.ithome.com/0/797/205.htm)|
+||[微信 iOS 端获推 8.0.52 正式版升级，支持查看好友添加时间](https://www.ithome.com/0/797/204.htm)|
+||[消息称李杰将负责一加品牌整体工作：兼管产品线及全球业务，继续任中国区总裁](https://www.ithome.com/0/797/202.htm)|
+||[小鹏便携式充放一体枪发布：充电 / 放电双模式，5/10 米枪线可选 ，688 元起](https://www.ithome.com/0/797/201.htm)|
+||[HMD TA-1420 翻盖功能机现身：诺基亚 2780 Flip“改名版”、新增挂绳孔](https://www.ithome.com/0/797/200.htm)|
+||[村田全球率先开发 006003 规格超小尺寸 MLCC 电容器，今年末出样](https://www.ithome.com/0/797/198.htm)|
+||[山灵 S0 主动式音箱发布：蓝牙 5.3、黑白双色，2498 元](https://www.ithome.com/0/797/197.htm)|
+||[中国联通 2024 年 8 月 5G 套餐用户累计达 2.83 亿户，月增 349.2 万户](https://www.ithome.com/0/797/195.htm)|
+||[地瓜机器人推出全新 RDK X5 开发板：基于旭日 5 芯片，算力升级到 10 TOPS](https://www.ithome.com/0/797/194.htm)|
+||[泰坦军团“P2710H”27 英寸显示器开售：1080P 240Hz，999 元](https://www.ithome.com/0/797/193.htm)|
+||[李斌谈蔚来是否会推出增程车型：等特斯拉做增程了再讨论](https://www.ithome.com/0/797/192.htm)|
+||[山灵 HW600 平板头戴耳机发布：铝合金镀银线圈、单元双后腔一体结构，5998 元](https://www.ithome.com/0/797/191.htm)|
+||[Xbox 游戏《微软模拟飞行 2024》PC 配置要求公布：GTX970 可玩，11 月 19 日发售](https://www.ithome.com/0/797/190.htm)|
+||[Xigmatek 富钧推出 Endorphin WD 机箱：木制前板配以金色装饰](https://www.ithome.com/0/797/189.htm)|
+||[山灵 SM1.3 流媒体播放一体机发布：支持用作 NAS、双 31W 环形变压器，7998 元](https://www.ithome.com/0/797/188.htm)|
+||[小米 Redmi Buds 6 耳机升级“云隙光灯效 2.0”，增加充电盒电量状态显示](https://www.ithome.com/0/797/187.htm)|
+||[铁威马“F4-424 Max”4 盘位 NAS 开售：双万兆网口，4579 元](https://www.ithome.com/0/797/185.htm)|
+||[山灵 M8T 便携式电子管播放器发布：双 DAC、双 JAN6418 真空五极管，9998 元](https://www.ithome.com/0/797/179.htm)|
+||[中国音数协：8 月中国游戏市场收入 336.4 亿元环比增长 21.01%，《黑神话：悟空》带来较大增量](https://www.ithome.com/0/797/177.htm)|
+||[华为云发布主机上云方案：2 秒内发现硬件故障、6 秒内无感切换](https://www.ithome.com/0/797/176.htm)|
+||[新款领克 06 燃油版 SUV 车型官图公布：新增沙丘米配色，现款售 11.86 万元起](https://www.ithome.com/0/797/175.htm)|
+||[重庆：力争今年智能网联新能源汽车产量突破 100 万辆，到 2027 年建成万亿级产业集群](https://www.ithome.com/0/797/171.htm)|
+||[12 月 26 日开播，《鱿鱼游戏》第二季新预告放出](https://www.ithome.com/0/797/170.htm)|
+||[ESP、ABS 等功能可能故障，梅赛德斯-奔驰召回超 50 万辆进口及国产汽车](https://www.ithome.com/0/797/152.htm)|
+||[机油存在泄漏风险，捷豹路虎扩大召回共 6 辆发现、揽胜、卫士汽车](https://www.ithome.com/0/797/151.htm)|
+||[三星 Galaxy Tab S10 Plus / Ultra 平板键盘保护套曝光：配 Galaxy AI 专用按键](https://www.ithome.com/0/797/153.htm)|
+||[天钡公布 Strix Point 处理器迷你主机 GEM 10 370 首发价：32GB+1TB 款 5699 元](https://www.ithome.com/0/797/150.htm)|
+||[五菱缤果 SUV 五座版上市：330/401/510km 续航，7.58 万元起售](https://www.ithome.com/0/797/148.htm)|
+||[鸿蒙智行问界 M9 首次 OTA 升级华为 ADS 3.0：城区智驾领航辅助、离车泊入、循迹倒车等](https://www.ithome.com/0/797/147.htm)|
+||[奇瑞星途瑶光 C-DM 电四驱 SUV 车型 9 月 26 日上市：综合续航 1400km，预售价 20.98 万元起](https://www.ithome.com/0/797/146.htm)|
+||[Counterpoint：苹果牌 AI 难以撬动 iPhone 16 系列进入“超级周期”](https://www.ithome.com/0/797/144.htm)|
+||[曜越钢影 Toughpower GF1 850W 限定版电源开售：二次元“瑶小喵”图案，519 元](https://www.ithome.com/0/797/143.htm)|
+||[AMD Strix Halo 处理器初步型号规划曝光，最低 8 核 CPU + 32CU GPU](https://www.ithome.com/0/797/142.htm)|
+||[游戏科学：将谨慎选择合作伙伴，为玩家提供《黑神话：悟空》正版游戏周边](https://www.ithome.com/0/797/140.htm)|
+||[华为鸿蒙 HarmonyOS NEXT Beta 版用户招募报名时间再次延期，9 月 27 日前可申请](https://www.ithome.com/0/797/139.htm)|
+||[iQOO Z9 Turbo+ 手机预热：6400mAh 超薄蓝海电池，9 月 24 日发布](https://www.ithome.com/0/797/138.htm)|
+||[泰坦军团“P2710R MAX”27 英寸显示器开售：2K 180Hz，1099 元](https://www.ithome.com/0/797/137.htm)|
+||[11 月 9 日全球同步上线，《英雄联盟：双城之战 2》最新片段公布](https://www.ithome.com/0/797/136.htm)|
+||[2024 中国制造业企业 500 强榜单发布：中国石化第 1、华为第 7、比亚迪第 10](https://www.ithome.com/0/797/135.htm)|
+||[英特尔 Arrow Lake-HX 笔记本处理器阵容曝光：最高 24 核，睿频 5.5 GHz](https://www.ithome.com/0/797/134.htm)|
+||[华为 WATCH GT 5 系列智能手表国行 9 月 24 日发布，标准版 1488 元起](https://www.ithome.com/0/797/133.htm)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[三季度油价下调收官，迎来年内最大降幅](https://www.tmtpost.com/7257377.html)|
+||[罕见！亿纬锂能激励考核仅和出货量挂钩，折射产业寒冬中的发展困境](https://www.tmtpost.com/7257613.html)|
+||[o1的一小步，AI觉醒的一大步](https://www.tmtpost.com/7257207.html)|
+||[上半年利润增87.91%，海兰信顺势推“半价”股权激励](https://www.tmtpost.com/7257888.html)|
+||[爆款综艺，为什么越来越离不开这三大关键词？](https://www.tmtpost.com/7257834.html)|
+||[邀请司马南翻车，西凤酒营销“找不到北”？](https://www.tmtpost.com/7257589.html)|
+||[银保行业移动应用新规出炉，猎头涨薪1.5倍网罗风控与技术人才｜钛媒体金融](https://www.tmtpost.com/7257735.html)|
+||[老乡鸡等餐饮企业IPO失败启示录：打铁还需自身硬](https://www.tmtpost.com/7257537.html)|
+||[研究生数量超本科生：学历歧视的阳谋里，人人都是参与者](https://www.tmtpost.com/7257776.html)|
+||[科隆新材：实控人上市前夕遭警示，还试图“隐瞒”非正常价格股权变更｜IPO观察](https://www.tmtpost.com/7257514.html)|
+||[OpenAI欲攀珠峰，为何伊万卡的小叔子愿做“垫脚石”？](https://www.tmtpost.com/7257140.html)|
+||[新能源二手：年轻人的循环“快时尚”](https://www.tmtpost.com/7257545.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[一文看懂OpenAI最强模型o1：怎么用好，为何翻车？](https://www.huxiu.com/article/3489160.html?f=rss)|
+||[开学季高性价比购机推荐，前代影像旗舰才是真香](https://www.huxiu.com/article/3487898.html?f=rss)|
+||[存量房贷利率调降，已“箭在弦上”](https://www.huxiu.com/article/3489537.html?f=rss)|
+||[新能源二手车，年轻人的“快时尚”](https://www.huxiu.com/article/3489764.html?f=rss)|
+||[网红为什么要补上公关课？](https://www.huxiu.com/article/3487359.html?f=rss)|
+||[35岁以后，请放弃毫无价值的“焦虑”](https://www.huxiu.com/article/3489769.html?f=rss)|
+||[OpenAI o1不会“消灭”程序员](https://www.huxiu.com/article/3489796.html?f=rss)|
+||[神秘现象：月饼背面为什么藏着一条红绳子？](https://www.huxiu.com/article/3490228.html?f=rss)|
+||[错过中秋大市场，菲律宾榴莲为何沦为“烫手山芋”？](https://www.huxiu.com/article/3488481.html?f=rss)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[英伟达股价“过山车”背后：中国玩家的机遇与挑战](https://www.infzm.com/contents/279154)|
+||[王冬妮谈祖父王赓：“陆小曼前夫”标签之外的人生](https://www.infzm.com/contents/279150)|
+||[中日双方就福岛第一核电站核污染水排海问题达成共识](https://www.infzm.com/contents/279180)|
+||[令人不能自拔的，除了爱还有牙齿](https://www.infzm.com/contents/279176)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[上世紀的機上娛樂：書、文學與閱讀](https://taiwan.chtsai.org/2024/09/20/shu_wenxue_yu_yuedu/)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[如果中国不再努力拯救世界，会发生什么？](https://cn.nytimes.com/opinion/20240920/china-solar-climate/dual)|
+||[我从中国被领养，至今仍在寻找自我和归属](https://cn.nytimes.com/opinion/20240920/china-adopted-babies-identity/dual)|
 |[知乎每日精选](https://www.zhihu.com/rss)|[给独立游戏制作人的进阶建议](http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 ||[黑神话悟空：斗罢艰险，能否出发？](http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国汽车制造商如何应对欧盟关税？在欧洲造车](https://cn.nytimes.com/business/20240920/china-automakers-eu-tariffs/dual)|
