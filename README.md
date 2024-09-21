@@ -2,6 +2,89 @@
 
 |来源|标题|
 |---|---|
+|[36氪](https://plink.anyfeeder.com/36kr)|[最前线｜腾势Z9GT正式上市，33.48万元起，预售订单已超2万](https://36kr.com/p/2959365125853193?f=rss)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI太香，iPhone水货复兴](https://36kr.com/p/2958221290835208)|
+||[降息靴子落地，哪些资产将迎来泼天富贵？丨智氪](https://36kr.com/p/2957994369091079)|
+||[9点1氪｜黄牛拒收iPhone 16 Pro；云南高校后勤回应3名硕士被聘为宿管；朋友圈实况图出bug，安卓用户还需等待](https://36kr.com/p/2959084379918593)|
+||[重押Kimi的阿里战投负责人离职，她发了一首摇滚歌曲来告别](https://36kr.com/p/2958164058754306)|
+||[当代职场人报复性存钱：数额不多但技巧惊人](https://36kr.com/p/2957914892273155)|
+||[5000万「月饼」吃饱，小杨哥跌倒](https://36kr.com/p/2958182230199558)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[为什么伊犁河谷中国一侧是绿洲，哈萨克一侧是荒漠？](https://www.zhihu.com/question/667219103)|
+||[罗技和《原神》联名神里绫华 G309 无线游戏鼠标值得买吗？](https://www.zhihu.com/question/667555253)|
+||[现货黄金站上 2620 美元 / 盎司，再创历史新高，这轮涨势还能持续多久？](https://www.zhihu.com/question/667716457)|
+||[电影《里斯本丸沉没》口碑爆棚，你是否推荐这部电影？为什么它能打动这么多人？](https://www.zhihu.com/question/667079832)|
+||[以军空袭黎巴嫩首都贝鲁特南郊，已致 14 人死亡，黎真主党高级指挥官丧生，冲突会愈演愈烈吗？](https://www.zhihu.com/question/667712071)|
+||[如何看待安全 c++ 提案?](https://www.zhihu.com/question/667607115)|
+||[什么是算力网络（Compute First Networking）？](https://www.zhihu.com/question/352119345)|
+||[如果人工选择熊里面性格温顺、体型较小的个体进行繁殖，重复几代，有希望培育出宠物熊吗？](https://www.zhihu.com/question/283859616)|
+||[如何评价大谷翔平达成 MLB 单赛季「50 轰 50 盗」历史性成就？](https://www.zhihu.com/question/667556279)|
+||[如何评价游戏《冰汽时代 2（Frostpunk2）》？](https://www.zhihu.com/question/479345588)|
+||[四十岁，每月房租收入一万，低欲望，可否辞职躺平？](https://www.zhihu.com/question/667711833)|
+||[《西游记》里猴哥杀了那么多人，怎么还能成佛？](https://www.zhihu.com/question/666820152)|
+||[我好奇为什么足球比赛强队打弱队的时候为什么不多刷个人进球，或者说多刷球队进球数呢？](https://www.zhihu.com/question/667628339)|
+||[为什么大多演讲提到帅哥都会说吴彦祖？](https://www.zhihu.com/question/21923006)|
+||[C919 首次飞抵拉萨，国产大飞机的梦想终于照进现实，对此你有哪些感触？](https://www.zhihu.com/question/667581347)|
+||[如果有人说喜欢你, 你的第一反应是什么?](https://www.zhihu.com/question/665986473)|
+||[怎样理解概率空间这个概念和概率空间的三要素（Ω，F，P）？](https://www.zhihu.com/question/20642770)|
+||[太阳直射点轨迹图为什么类似于正（余）弦函数？](https://www.zhihu.com/question/666493494)|
+||[如何看待宝马重启价格战，i7 降价 55 万？](https://www.zhihu.com/question/667720219)|
+||[S14 全球总决赛参赛大龄选手中不乏 Faker 、小花生，究竟是他们天赋绝顶还是电竞吃青春饭是伪命题？](https://www.zhihu.com/question/667572374)|
+||[苹果 iPhone 16 电池为什么要用全钢壳包裹？](https://www.zhihu.com/question/667670830)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[经常感觉胃反酸，是怎么回事？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%BB%8F%E5%B8%B8%E6%84%9F%E8%A7%89%E8%83%83%E5%8F%8D%E9%85%B8%EF%BC%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%EF%BC%9F)|
+||[大便出现黏液是病吗？严重吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A4%A7%E4%BE%BF%E5%87%BA%E7%8E%B0%E9%BB%8F%E6%B6%B2%E6%98%AF%E7%97%85%E5%90%97%EF%BC%9F%E4%B8%A5%E9%87%8D%E5%90%97%EF%BC%9F)|
+||[很遗憾，「断崖式衰老」最可怕的，还不是让你变老、变丑](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%BE%88%E9%81%97%E6%86%BE%EF%BC%8C%E3%80%8C%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E3%80%8D%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%EF%BC%8C%E8%BF%98%E4%B8%8D%E6%98%AF%E8%AE%A9%E4%BD%A0%E5%8F%98%E8%80%81%E3%80%81%E5%8F%98%E4%B8%91)|
+||[早餐多吃这种食物，居然可以帮你抵抗长胖！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%97%A9%E9%A4%90%E5%A4%9A%E5%90%83%E8%BF%99%E7%A7%8D%E9%A3%9F%E7%89%A9%EF%BC%8C%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E5%B8%AE%E4%BD%A0%E6%8A%B5%E6%8A%97%E9%95%BF%E8%83%96%EF%BC%81)|
+||[真心建议：咸鸭蛋不要多吃](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%EF%BC%9A%E5%92%B8%E9%B8%AD%E8%9B%8B%E4%B8%8D%E8%A6%81%E5%A4%9A%E5%90%83)|
+|[IT之家](https://www.ithome.com/rss/)|[压得苹果美版 Apple Watch 没有血氧的公司，Masimo 和高通、谷歌合作扩展血氧技术至 Wear OS 智能手表](https://www.ithome.com/0/797/364.htm)|
+||[小米米家热敷筋膜枪 H3 开售：3 挡定频、变频、热敷，首发 549 元](https://www.ithome.com/0/797/363.htm)|
+||[“致敬诺基亚 N9”HMD Skyline 手机上架京东国际：骁龙 7s Gen 2 + 12G + 256G 售 2999 元](https://www.ithome.com/0/797/362.htm)|
+||[12 核 AMD 锐龙 AI Max 390 处理器曝光：量化精度比锐龙 AI 9 HX 370 高 10.5%](https://www.ithome.com/0/797/361.htm)|
+||[2024 款吉利曹操 60 轿车上市：面向网约车市场、续航 450 公里，12.98 万元起](https://www.ithome.com/0/797/359.htm)|
+||[比亚迪方程豹豹 8 预热：三排 6 / 7 座可变独立 4 座 / 大 5 座](https://www.ithome.com/0/797/358.htm)|
+||[谷歌 Pixel Watch 3 智能手表新表带偷跑：10 月发售，售 80 加元](https://www.ithome.com/0/797/357.htm)|
+||[红龙推出 KS82 Ultra 三模机械键盘：旋钮 + 副屏、Gasket 结构，279 元](https://www.ithome.com/0/797/356.htm)|
+||[谷歌 Pixel 9 Pro Fold 折叠手机充电实测：有线限制 21W、无线限制 7.5W](https://www.ithome.com/0/797/355.htm)|
+||[消息称某厂新旗舰工程机采用金属直角中框 + 电源键指纹，预计为华为 Mate 70 系列](https://www.ithome.com/0/797/354.htm)|
+||[开发时长两年半，索尼 PS5 Pro 游戏机研发周期曝光](https://www.ithome.com/0/797/353.htm)|
+||[PC 版《GTA 6》《GTA 5 Gen 9》《荒野大镖客：救赎》游戏曝光](https://www.ithome.com/0/797/352.htm)|
+||[广汽埃安 AION RT 四款车色公布，9 月 26 日全球预售](https://www.ithome.com/0/797/351.htm)|
+||[Alef 推进 Model A 飞行汽车落地：售价 30 万美元，已获 3200 份订单、明年量产](https://www.ithome.com/0/797/348.htm)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[性感美人鱼人体艺术图片](https://www.mmlsl.com/xgmn/3027.html)|
+||[性感美人王语纯入浴照两点依稀可见](https://www.mmlsl.com/xgmn/3028.html)|
+||[性感美人艾小青娇舌软嫩秀完美身段](https://www.mmlsl.com/xgmn/3026.html)|
+||[性感美人顾灿妩媚妖娆令人心痒难耐](https://www.mmlsl.com/xgmn/3025.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[突发！高通准备收购英特尔](https://www.jiqizhixin.com/articles/2024-09-21)|
+|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[命如草芥、生不如死，《富都青年》里的10个隐藏细节 评论: 富都青年 ](https://movie.douban.com/review/16195269/)|
+|[SegmentFault 最新的文章](https://segmentfault.com/articles/feeds)|[ONES 与华为云深度合作，共同打造企业智能研发管理平台](https://segmentfault.com/a/1190000045291818)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[传Quest 3S头显售价仅为300美元](https://m.cnbeta.com.tw/view/1446531.htm)|
+||[张大奕突然闭店 红人电商走到崩溃边缘？](https://m.cnbeta.com.tw/view/1446528.htm)|
+||[比特币期权上市扫清最重要障碍 美国SEC批准IBIT期权上市](https://m.cnbeta.com.tw/view/1446527.htm)|
+||[美国SEC批准贝莱德现货比特币ETF期权上市](https://m.cnbeta.com.tw/view/1446526.htm)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[广州，吃够了“电鸡”的苦？](https://www.huxiu.com/article/3492532.html?f=rss)|
+||[曝高通正在洽谈收购英特尔，一代芯片巨头落幕](https://www.huxiu.com/article/3492525.html?f=rss)|
+||[网红小杨哥风波再起，月饼仅是冰山一角？](https://www.huxiu.com/article/3491720.html?f=rss)|
+||[特朗普和哈里斯的经济政策，谁更利好股市？](https://www.huxiu.com/article/3491735.html?f=rss)|
+||[三星警告印度罢工工人：再抗议不发工资，还可能失业](https://www.huxiu.com/article/3492234.html?f=rss)|
+||[最低工资制度能提高我们的收入吗？](https://www.huxiu.com/article/3489786.html?f=rss)|
+||[欧洲电动车转型陷僵局，中国车企迎捡漏机会还是更强抵制？](https://www.huxiu.com/article/3492237.html?f=rss)|
+||[小杨哥倒下，k总起来](https://www.huxiu.com/article/3491723.html?f=rss)|
+||[三只羊走入“被立案”绝境，揭开抖快一哥互撕的软肋与底牌](https://www.huxiu.com/article/3490493.html?f=rss)|
+||[俄罗斯据称考虑大幅提高外国公司的“退出税”](https://www.huxiu.com/article/3491726.html?f=rss)|
+||[原始股骗局卷土重来？北京金融监管局揭示“四大典型套路”](https://www.huxiu.com/article/3491724.html?f=rss)|
+||[我在动画行业打工，倒欠八千块](https://www.huxiu.com/article/3491716.html?f=rss)|
+||[“OpenAI黑帮”使命：从邪恶的OpenAI手中拯救人类](https://www.huxiu.com/article/3490494.html?f=rss)|
+||[英特尔突传“卖身”高通，曾经的世界级霸主将何去何从](https://www.huxiu.com/article/3491711.html?f=rss)|
+|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 个人家庭网络布局分享](https://www.v2ex.com/t/1074592#reply13)|
+||[ Apple iPhone 16 有史以来最无感的一年（纯吐槽）](https://www.v2ex.com/t/1074581#reply14)|
+||[ 问与答 大家旅游的时候是如何解决洗衣服的问题的？](https://www.v2ex.com/t/1074579#reply15)|
+||[  WATCH Apple Watch S10（亮黑色铝金属国行版）速评](https://www.v2ex.com/t/1074566#reply12)|
+||[ 生活 2024 还剩 103 天，还有啥愿望没实现？](https://www.v2ex.com/t/1074557#reply13)|
+||[ 程序员 对于“公钥加密，私钥解密”有在 ssh 的 authorized_keys 这种常见的应用场景，那么“私钥签名，公钥验证”有什么常见的应用场景？](https://www.v2ex.com/t/1074549#reply33)|
+||[ 科技 高通都要收购英特尔了吗](https://www.v2ex.com/t/1074548#reply20)|
+||[ Apple AirPods 4（主动降噪版）速评](https://www.v2ex.com/t/1074546#reply22)|
+|[爱范儿](https://plink.anyfeeder.com/ifanr)|[扎克伯格新访谈：智能眼镜是最完美的 AI 助手，也是最终极的数字社交](https://www.ifanr.com/1599948?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[少数派](http://sspai.me/feed)|[一日一技 借助 RTSP 协议将摄像头统一接入监控系统](https://sspai.com/post/92327)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[二十年，一瞬](https://taiwan.chtsai.org/2024/09/21/ershi_nian_yishun/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[三星 Galaxy S24 FE 和 Tab S10 系列或将于下周亮相](https://m.cnbeta.com.tw/view/1446524.htm)|
 ||[Ubuntu 24.10 Beta 测试版发布](https://m.cnbeta.com.tw/view/1446519.htm)|
 ||[Google Pixel 9 Pro Fold的完全充电时间长达1小时36分钟](https://m.cnbeta.com.tw/view/1446518.htm)|
