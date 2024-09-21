@@ -2,6 +2,41 @@
 
 |来源|标题|
 |---|---|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-21](https://decohack.com/producthunt-daily-2024-09-21/)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[股市的运行逻辑之一-----短期股价是跟着市场预期走的](http://xueqiu.com/6169865362/305193984)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[华为公布Mate XT非凡大师三折叠保养技巧：千万别撕膜](https://m.cnbeta.com.tw/view/1446533.htm)|
+||[Google再次在最新广告中嘲笑苹果对RCS的支持姗姗来迟](https://m.cnbeta.com.tw/view/1446532.htm)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取音频插件 IK Multimedia Brandenburg Piano Windows、macOS $49.99→0 ](https://free.apprcn.com/get-ik-multimedia-brandenburg-piano-for-free/)|
+||[免费获取音频插件 UFX Reverb Windows、macOS $49→0 ](https://free.apprcn.com/get-ufx-reverb-for-free/)|
+||[4Easysoft DVD Ripper - DVD 光盘烧录工具 Windows $14.95→0 ](https://free.apprcn.com/4easysoft-dvd-ripper/)|
+|[IT之家](https://www.ithome.com/rss/)|[鸿蒙生态应急产业联盟成立，拓维信息、华为联合发布昇腾大模型一体机](https://www.ithome.com/0/797/387.htm)|
+||[谷歌面临欧盟最后通牒，若不调整搜索引擎业务模式恐遭重罚](https://www.ithome.com/0/797/386.htm)|
+||[AOC 推出“Q27G12ZE / D”27 英寸显示器：2K 240Hz Fast IPS，1549 元](https://www.ithome.com/0/797/384.htm)|
+||[微软发布 3D Fluent 设计：告别扁平化，让图标更立体、更鲜活](https://www.ithome.com/0/797/383.htm)|
+||[上汽大众回应南京工厂关闭：生产基地调整是必要的经营行为](https://www.ithome.com/0/797/382.htm)|
+||[华硕 ROG 魔导士 ACE HFX 磁轴有线机械键盘上架：65% 配列、自研轴体，999 元](https://www.ithome.com/0/797/381.htm)|
+||[华硕 ROG 龙鳞 ACE MINI 鼠标上架：49g 轻量化设计、8K 回报率，699 元](https://www.ithome.com/0/797/380.htm)|
+||[949 元 24 期免息：Bose QuietComfort SE 无线降噪耳机京东新低](https://www.ithome.com/0/797/378.htm)|
+||[华为终端云总裁朱勇刚：华为每年投入超 60 亿元激励鸿蒙创新](https://www.ithome.com/0/797/377.htm)|
+||[消息称广汽传祺与华为合作概念车 9 月 24 日发布，明年一季度上市](https://www.ithome.com/0/797/376.htm)|
+||[华硕发布 Tinker Board 3/3S 开发板，搭载瑞芯微 RK3566 四核 ARM 处理器](https://www.ithome.com/0/797/375.htm)|
+||[OpenAI 大手笔，被曝在美国旧金山租下 31.5 万平方英尺办公场所](https://www.ithome.com/0/797/374.htm)|
+||[Bose SoundLink Home 蓝牙扬声器开售：续航 9 小时，1799 元](https://www.ithome.com/0/797/373.htm)|
+||[微软以公开预览版形式，向 Windows Server 2025 推送首个热补丁](https://www.ithome.com/0/797/372.htm)|
+||[o1 核心作者 MIT 演讲：激励 AI 自我学习，比试图教会 AI 每一项任务更重要](https://www.ithome.com/0/797/370.htm)|
+||[赛力斯蓝电 E5 PLUS 车型官图发布：全新封闭式前脸、可选七座版本](https://www.ithome.com/0/797/368.htm)|
+||[提前泄密小鹏 P7+ 信息被追责，博主致歉称“由于工作疏忽，混淆了发布时间”](https://www.ithome.com/0/797/367.htm)|
+||[索尼推送 PS5 固件更新，修复《最终幻想 XVI》《黑神话：悟空》等游戏运行 BUG](https://www.ithome.com/0/797/366.htm)|
+||[适马 28-105mm F2.8 镜头国行定价公布：10580 元](https://www.ithome.com/0/797/365.htm)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[破解 ToB 产品体验与效率难题：产品设计工程化的力量](https://www.woshipm.com/pd/6117924.html)|
+||[不再念PPT，一份超棒的数据分析报告模版](https://www.woshipm.com/share/6117922.html)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 有今天上班的吗？活跃度都干到 38 名了~历史新高](https://www.v2ex.com/t/1074614#reply12)|
+||[ 问与答 model y 和小米 su7 到底选谁](https://www.v2ex.com/t/1074606#reply17)|
+||[ 程序员 九年义务教育漏网之鱼，找不到工作，求捞](https://www.v2ex.com/t/1074605#reply14)|
+||[ 宽带症候群 个人家庭网络布局分享](https://www.v2ex.com/t/1074592#reply16)|
+||[ Apple iPhone 16 有史以来最无感的一年（纯吐槽）](https://www.v2ex.com/t/1074581#reply16)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[印度洋上美国“鹰眼”对海监视升级丨智库视点](https://www.infzm.com/contents/279168)|
+|[触乐](http://www.chuapp.com/feed)|[触乐本周行业大事：游戏科学估值直逼育碧，任天堂正式起诉《幻兽帕鲁》](http://www.chuapp.com/article/290215.html)|
 |[36氪](https://plink.anyfeeder.com/36kr)|[最前线｜腾势Z9GT正式上市，33.48万元起，预售订单已超2万](https://36kr.com/p/2959365125853193?f=rss)|
 |[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[AI太香，iPhone水货复兴](https://36kr.com/p/2958221290835208)|
 ||[降息靴子落地，哪些资产将迎来泼天富贵？丨智氪](https://36kr.com/p/2957994369091079)|
