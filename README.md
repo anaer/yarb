@@ -2,6 +2,47 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[民政局要求“提醒闪婚闪离”：当以制度建设标本兼治，刹住婚姻诈骗之风丨快评](https://www.infzm.com/contents/279257)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Avdshare Video Converter - 视频文件格式转换工具 Windows $39.99→0 ](https://free.apprcn.com/avdshare-video-converter-2/)|
+||[UltraNotes - 手写笔记工具 macOS、iOS 内购限免 ](https://free.apprcn.com/ultranotes/)|
+||[Vidmore Screen Recorder – 屏幕录像工具 Windows $29.95→0 ](https://free.apprcn.com/vidmore-screen-recorder-10/)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[对美国经济的三个判断](http://xueqiu.com/3819050946/305192284)|
+||[有关隆基巨额亏损原因的多个分析](http://xueqiu.com/3477208101/305192927)|
+||[中国黄金国际2025业绩预测](http://xueqiu.com/4570840596/305210804)|
+||[标普500ETF比较](http://xueqiu.com/3696518972/305201188)|
+||[选择投资大股东不会减持的企业](http://xueqiu.com/1707706450/305191016)|
+||[LPR降息落空是好事](http://xueqiu.com/1843761023/305190090)|
+|[booop](https://booop.net/feed/)|[时隔四个月的一篇文章](https://booop.net/an-article-four-months-later/)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[Python 潮流周刊 #70：微软 Excel 中的 Python 正式发布！（摘要）](https://w2solo.com/topics/5054)|
+|[虎嗅](https://rss.huxiu.com/)|[升维思考，降维行动](https://www.huxiu.com/article/3493052.html?f=rss)|
+||[苹果、华为开售首日“冰火两重天”](https://www.huxiu.com/article/3493386.html?f=rss)|
+||[应届生身份要调整？新手buff将何去何从？](https://www.huxiu.com/article/3489789.html?f=rss)|
+||[网红杯鼻祖宣布破产了](https://www.huxiu.com/article/3493041.html?f=rss)|
+||[一级市场如何面对一个没有机会的时代](https://www.huxiu.com/article/3493042.html?f=rss)|
+||[想法，是可落地的资产](https://www.huxiu.com/article/3492247.html?f=rss)|
+||[霸王茶姬的势头可持续吗？](https://www.huxiu.com/article/3493030.html?f=rss)|
+||[在香港，AI搭上文娱的车](https://www.huxiu.com/article/3489188.html?f=rss)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[10人被立案、55名公职人员被问责，佳乐苑小区特别重大火灾事故相关责任人被查处](https://www.infzm.com/contents/279271)|
+||[致39死9伤，江西新余佳乐苑小区特别重大火灾事故调查报告公布](https://www.infzm.com/contents/279267)|
+||[北京香山论坛看中美：“寻找正确相处之道”](https://www.infzm.com/contents/279265)|
+||[“教育虎”杜玉波落马，年内41名中管干部被查丨时政周报](https://www.infzm.com/contents/279242)|
+|[IT之家](https://www.ithome.com/rss/)|[美国四大互联网服务提供商反对强制 ISP 监管版权侵权，称过度监管会伤及无辜](https://www.ithome.com/0/797/410.htm)|
+||[余承东自曝在飞机上使用华为 Mate XT 三折叠手机“提前泄密”：上市前已经用了几个月](https://www.ithome.com/0/797/409.htm)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[工作上，一定要懂得“利用他人”](https://www.woshipm.com/zhichang/6117925.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 分享发现 作为一个喜欢极简的，感觉后台就要这样极简。](https://www.v2ex.com/t/1074643#reply11)|
+||[ 问与答 有今天上班的吗？活跃度都干到 38 名了~历史新高](https://www.v2ex.com/t/1074614#reply20)|
+||[ DNS 目前几乎全部的境外 DoH 的域名被 Reset](https://www.v2ex.com/t/1074612#reply11)|
+||[ 问与答 为什么那么多个人开发者推广自己的产品，都需要兑换码才可以用？](https://www.v2ex.com/t/1074610#reply11)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[全新 iPhone 16 Pro 被拆解了！鏡頭、散熱、電池都有變化](https://applefans.today/2024-09-rewa-lab-teardown-iphone-16-pro-video/)|
+|[孤岛客](http://www.huangjiwei.com/blog/?feed=rss2)|[放过自己丨一周语文（2438）](https://www.huangjiwei.com/blog/?p=12233)|
+|[粥里有勺糖](https://sugarat.top/feed.rss)|[开发日记 不定时更新](https://sugarat.top/essay/dev/changelog-2024.html)|
+||[VitePress 的公告插件开发实记](https://sugarat.top/technology/works/vitepress-plugin-announcement.html)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[Can someone tell me how and what these posts are about?](https://www.reddit.com/r/taobao/comments/1flygvd/can_someone_tell_me_how_and_what_these_posts_are/)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[幺正量子离子阱量子计算工程机正式发布 可囚禁108个离子](https://m.cnbeta.com.tw/view/1446542.htm)|
+||[高通公司将根据"多元化战略"裁员数百人](https://m.cnbeta.com.tw/view/1446540.htm)|
+||[HMD Skyline上架：致敬诺基亚N9 骁龙7s Gen 2卖2999元](https://m.cnbeta.com.tw/view/1446539.htm)|
+||[美媒：高通、英特尔“联姻”也无法解决美国芯片制造困境](https://m.cnbeta.com.tw/view/1446536.htm)|
+||[强周期变“哑炮”？ 预售下滑、二手回收热度不及往年 iPhone 16系列首发遇冷](https://m.cnbeta.com.tw/view/1446535.htm)|
 |[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-21](https://decohack.com/producthunt-daily-2024-09-21/)|
 |[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[股市的运行逻辑之一-----短期股价是跟着市场预期走的](http://xueqiu.com/6169865362/305193984)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[华为公布Mate XT非凡大师三折叠保养技巧：千万别撕膜](https://m.cnbeta.com.tw/view/1446533.htm)|
