@@ -2,6 +2,86 @@
 
 |来源|标题|
 |---|---|
+|[机器之心](https://www.jiqizhixin.com/rss)|[Jeff Dean回忆谷歌趣事：吴恩达激励自己继续研究，Hinton曾是最强「实习生」](https://www.jiqizhixin.com/articles/2024-09-22-3)|
+||[o1 研发团队完整采访：Ilya早期曾参与，灵感源于AlphaGo](https://www.jiqizhixin.com/articles/2024-09-22-2)|
+||[ECCV 2024 oral 首次基于深度聚类的多模态融合，上交、伯克利提出双向结构对齐的融合网络新SOTA！](https://www.jiqizhixin.com/articles/2024-09-22)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 奇思妙想 电传动自行车的可行性](https://www.v2ex.com/t/1074808#reply13)|
+||[ 汽车 比亚迪的混动车到底怎么样。。。想买](https://www.v2ex.com/t/1074794#reply18)|
+||[ 职场话题 年龄 35， gap 一年，二本，没在大厂待过，在深圳还能找得到开发的工作吗？](https://www.v2ex.com/t/1074780#reply16)|
+||[ 分享发现 终于不愁找不到合适的 SVG 文件了， AI 生成 SVG](https://www.v2ex.com/t/1074775#reply13)|
+||[ 宽带症候群 局域网内优雅的访问家庭内网服务](https://www.v2ex.com/t/1074771#reply21)|
+||[ 移民 新西兰 IT 工作行情如何，留学移民成功率大吗？](https://www.v2ex.com/t/1074768#reply19)|
+||[ 职场话题 不同意降薪 33%直接领大礼包后，历经 2 个半月终于找到工作](https://www.v2ex.com/t/1074767#reply12)|
+||[ 分享创造 搓了个 OpenAI o1 模型在线体验站，也可以围观别人的问题和回答](https://www.v2ex.com/t/1074764#reply13)|
+||[ 宽带症候群 固定宽带 按流量计费 最公平](https://www.v2ex.com/t/1074762#reply56)|
+||[ 问与答 关于移动硬盘的选择](https://www.v2ex.com/t/1074761#reply14)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[对中国智能手机市场的分析](https://www.woshipm.com/share/6117701.html)|
+||[如何设计一个标准的后台页面框架图](https://www.woshipm.com/share/6117571.html)|
+||[想法，是可落地的资产](https://www.woshipm.com/share/6118013.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[岳灵珊为什么会移情别恋？](https://www.zhihu.com/question/462707575)|
+||[三打祝家庄时，顾大嫂为何把祝家庄的女眷屠杀的一干二净？](https://www.zhihu.com/question/661329691)|
+||[NBA 布鲁克林篮网队与中国前锋崔永熙签下一份 2 年双向合同，如何看待这笔签约？](https://www.zhihu.com/question/667748475)|
+||[该如何走出自己身体有缺陷的阴影？](https://www.zhihu.com/question/35897124)|
+||[有哪些有趣的动物冷知识？](https://www.zhihu.com/question/563101396)|
+||[演员知道自己正在拍一部烂片吗？](https://www.zhihu.com/question/667483220)|
+||[有哪些颠覆你认知的旧家电危害，正在悄悄影响人的身体健康？](https://www.zhihu.com/question/667701901)|
+||[极氪 7X 售价 22.99 万起，全系标配 800V 高压平台、激光雷达和双 Orin-X 智驾芯片，值得入手吗？](https://www.zhihu.com/question/667706905)|
+||[父母过度打压式教育会让孩子自暴自弃、影响一生，如果你是这样的孩子，会采取什么措施不让自己受影响？](https://www.zhihu.com/question/667567535)|
+||[机核网纪录片「对话杨奇：黑神话悟空的美术之路」有哪些信息值得关注？](https://www.zhihu.com/question/667712543)|
+||[上班几年后为什么越来越不想说话了？](https://www.zhihu.com/question/667667760)|
+||[24 岁物理学硕士拟被聘为中学勤杂工，学校回应「实为本科，系工作人员失误」，此事暴露出哪些问题？](https://www.zhihu.com/question/667794272)|
+||[方励为拍摄《里斯本丸沉没》「砸锅卖铁」是否值得？这部电影会产生多大影响？](https://www.zhihu.com/question/666739101)|
+||[冷兵器时代，军队为什么都大力发展重甲，而不是大盾加轻甲？](https://www.zhihu.com/question/667533938)|
+||[如果长江和黄河的径流量互换 1 天，对人类生活的影响会很大吗？](https://www.zhihu.com/question/627231804)|
+||[大学生对自己最好的低成本投资是什么？](https://www.zhihu.com/question/667475290)|
+||[动画城和大风车是如何衰落下去的？](https://www.zhihu.com/question/36423076)|
+||[为什么三国时期的著名人士都会在 220 左右这个年关大规模去世？](https://www.zhihu.com/question/65941593)|
+||[《冰汽时代 2》序章中，面对食物短缺，你是选择放逐老人群体还是选杀戮海豹？](https://www.zhihu.com/question/667801608)|
+||[为什么年轻人喜欢研究 MBTI？](https://www.zhihu.com/question/663348431)|
+||[如何评价综艺《喜剧之王单口季》第六期？](https://www.zhihu.com/question/667669463)|
+||[听说月球在以每年四厘米的距离离开地球，这是不是真的？](https://www.zhihu.com/question/299894978)|
+||[美团披露「高频骑手一线城市可达 7354 元以上，三线及以下城市 5556 元以上」，如何看待该数据？](https://www.zhihu.com/question/667616483)|
+||[如何看待国际摄影大师斯蒂芬·肖尔在中央美术学院美术馆学术讲座中因抗议观众看手机而中途离席？](https://www.zhihu.com/question/667708999)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[“续保贷”引发热议：社保不够，贷款来凑？｜钛媒体金融](https://www.tmtpost.com/7258997.html)|
+|[素生](http://z.arlmy.me/atom.xml)|[Toots 2024 Sep.15 - Sep.21](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240921/)|
+|[虎嗅](https://rss.huxiu.com/)|[多家央国企股东欲退出徽商银行](https://www.huxiu.com/article/3496601.html?f=rss)|
+||[柠檬茶门店何以雨后春笋开遍全国？](https://www.huxiu.com/article/3496598.html?f=rss)|
+||[三只羊陷入争议，拿什么拯救网红带货](https://www.huxiu.com/article/3496185.html?f=rss)|
+||[最坚硬的东北城市，你对它的柔软一无所知](https://www.huxiu.com/article/3496184.html?f=rss)|
+||[欠薪、欠费用、退款难，河狸家何以走到这步？](https://www.huxiu.com/article/3496183.html?f=rss)|
+||[被字节裁员后，我靠创业重新年入百万](https://www.huxiu.com/article/3483910.html?f=rss)|
+||[难找的加氢站：北京在运营仅7座，部分站点已荒废](https://www.huxiu.com/article/3496181.html?f=rss)|
+||[年内清盘超200只，还有上千只“濒危” 公募基金清盘加速](https://www.huxiu.com/article/3496179.html?f=rss)|
+||[任天堂告《幻兽帕鲁》，索尼腾讯网易先遭殃？](https://www.huxiu.com/article/3496171.html?f=rss)|
+||[不卷买房的年轻人，把看房当爱好](https://www.huxiu.com/article/3489175.html?f=rss)|
+||[和信任的伴侣睡觉，可以治失眠？](https://www.huxiu.com/article/3496166.html?f=rss)|
+||[情绪价值的赛道，拼的不是营销情绪，而是说服人心](https://www.huxiu.com/article/3495475.html?f=rss)|
+|[Blog Lyunvy](https://blog.lyunvy.top/atom.xml)|[Slice-2](https://blog.lyunvy.top/slice-2/)|
+|[小众软件](https://www.appinn.com/feed/)|[有时候，过于纠结这个工具有什么用，是没有意义的](https://www.appinn.com/qimiaosecai/)|
+|[IT之家](https://www.ithome.com/rss/)|[42.02 万高斯！我国稳态强磁场刷新水冷磁体世界纪录](https://www.ithome.com/0/797/537.htm)|
+||[雅迪电动两轮车 2025 年夏季登陆日本：价格约 10 万日元，比本田便宜 6 成](https://www.ithome.com/0/797/536.htm)|
+||[超越《幻兽帕鲁》：机构数据显示《黑神话：悟空》已成今年最畅销 Steam 游戏](https://www.ithome.com/0/797/535.htm)|
+||[艾泰克 ATK 推出烈空 X1“Ultimate 大师版”双模鼠标：PAW3950 Ultra 传感器，369 元](https://www.ithome.com/0/797/534.htm)|
+||[Take-Two 裁员 5% 之后，董事长和总裁拿到巨额奖金](https://www.ithome.com/0/797/532.htm)|
+||[消息称截至 9 月 21 日，极氪 7X 汽车“不可退大定”锁单超 6000](https://www.ithome.com/0/797/531.htm)|
+||[消息称微软每年支付 10 亿美元为 XGP 阵容引入第三方游戏](https://www.ithome.com/0/797/530.htm)|
+||[苹果官网删除 iPhone 16 系列手机后置镜头配备“抗反射镜头涂层”](https://www.ithome.com/0/797/529.htm)|
+||[波音公司高层震荡：防务和太空部门 CEO 被解雇](https://www.ithome.com/0/797/528.htm)|
+||[三只羊网络旗下账号再次停播：复播当天被合肥市市场监督管理局通报](https://www.ithome.com/0/797/527.htm)|
+||[猛士 917 蛟龙战甲越野 SUV 将于 9 月 24 日上市，预售价 76.8 万元起](https://www.ithome.com/0/797/526.htm)|
+||[阿尔法・罗密欧 Giulia 四叶草黑标限量版上市：搭载 2.9T V6 发动机，售 96.18 万元](https://www.ithome.com/0/797/525.htm)|
+||[OPPO 周意保：手机黑边技术研究三年、费用超一亿，很多胶水每克成本超黄金](https://www.ithome.com/0/797/523.htm)|
+||[九阳超深烤盘电饼铛预售：双旋钮控温、2200W 火力，首发 299 元](https://www.ithome.com/0/797/522.htm)|
+||[OpenAI 首款具备“推理”能力模型 o1 现已向企业 / 教育用户开放，每周最多使用 50 次](https://www.ithome.com/0/797/521.htm)|
+||[美国 IT 业今年已裁员 13.7 万人，软件行业薪资增长几近停滞](https://www.ithome.com/0/797/520.htm)|
+||[GPT-4o 能玩《黑神话：悟空》：精英怪胜率超人类，无强化学习纯大模型方案](https://www.ithome.com/0/797/519.htm)|
+||[苹果 Swift 6 编程语言正式版上线：支持 RISC-V 嵌入式环境、扩展 C++ 互通](https://www.ithome.com/0/797/517.htm)|
+||[新海诚 2007 年经典动画电影《秒速五厘米》宣布真人电影化，2025 年上映](https://www.ithome.com/0/797/516.htm)|
+||[比亚迪腾势 Z9 GT 汽车上市 36 小时，大定超 5000 台、33.48 万元起](https://www.ithome.com/0/797/514.htm)|
+||[魅族 PANDAER × IQUNIX 联合推出旗舰级鼠标、合金机械键盘](https://www.ithome.com/0/797/513.htm)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-22](https://decohack.com/producthunt-daily-2024-09-22/)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[走进乐高品牌的“太空灵感库”，去感受 Pharrell Williams 心中的太空世界](http://www.toodaylab.com/83060)|
+|[黑羽的个人博客](https://blog.thetbw.xyz/atom.xml)|[我的nas解决方案](https://blog.thetbw.xyz/archives/build-my-homelab)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 宽带症候群 局域网内优雅的访问家庭内网服务](https://www.v2ex.com/t/1074771#reply17)|
 ||[ 移民 新西兰 IT 工作行情如何，留学移民成功率大吗？](https://www.v2ex.com/t/1074768#reply12)|
 ||[ 宽带症候群 固定宽带 按流量计费 最公平](https://www.v2ex.com/t/1074762#reply39)|
