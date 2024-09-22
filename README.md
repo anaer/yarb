@@ -2,6 +2,17 @@
 
 |来源|标题|
 |---|---|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[【速报】老牌的笔记PKM工具 TiddlyWiki 迎来了20周年庆，顺便讲讲它的理念](https://xlrocket.blog/2024/09/22/%e3%80%90%e9%80%9f%e6%8a%a5%e3%80%91%e8%80%81%e7%89%8c%e7%9a%84%e7%ac%94%e8%ae%b0pkm%e5%b7%a5%e5%85%b7-tiddlywiki-%e8%bf%8e%e6%9d%a5%e4%ba%8620%e5%91%a8%e5%b9%b4%e5%ba%86%ef%bc%8c%e9%a1%ba%e4%be%bf/)|
+|[虎嗅](https://rss.huxiu.com/)|[为什么要写植物？](https://www.huxiu.com/article/3495454.html?f=rss)|
+||[年轻男性成了美国最保守的人](https://www.huxiu.com/article/3489773.html?f=rss)|
+||[情绪究竟是什么？如何让情绪为品牌赋能？](https://www.huxiu.com/article/3488810.html?f=rss)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取字体包 Pretty & Playful Font Bundle Windows、macOS $851→0 ](https://free.apprcn.com/get-pretty-playful-font-bundle-for-free/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[张大奕关店，初代网红们是如何从喧嚣走向沉寂的？](https://www.tmtpost.com/7258827.html)|
+||[隐山资本募资11亿元，投资大物流、供应链相关科技领域](https://www.tmtpost.com/7257103.html)|
+|[马小帮](https://www.maxiaobang.com/feed)|[嬴政大师！Adobe 2023全家桶，完美PJ版来袭。](https://www.maxiaobang.com/3232.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ 宽带症候群 固定宽带 按流量计费 最公平](https://www.v2ex.com/t/1074762#reply27)|
+||[ Cloudflare 1.1.1.1 带着新协议回归了， WARP 又复活了](https://www.v2ex.com/t/1074753#reply21)|
+|[海交史](https://www.haijiaoshi.com/feed)|[【资源推介】Colonial State Papers（殖民历史档案）](https://www.haijiaoshi.com/archives/12153?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590%25e8%25b5%2584%25e6%25ba%2590%25e6%258e%25a8%25e4%25bb%258b%25e3%2580%2591colonial-state-papers%25ef%25bc%2588%25e6%25ae%2596%25e6%25b0%2591%25e5%258e%2586%25e5%258f%25b2%25e6%25a1%25a3%25e6%25a1%2588%25ef%25bc%2589)|
 |[人人都是产品经理](https://www.woshipm.com/feed)|[怎么才能和上级配合的更加舒服？](https://www.woshipm.com/zhichang/6118012.html)|
 ||[提示工程：反复崛起，反复被死亡](https://www.woshipm.com/aigc/6118011.html)|
 ||[做养生自媒体，一定要学会这种内容结构](https://www.woshipm.com/share/6118009.html)|
