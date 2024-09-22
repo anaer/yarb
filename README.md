@@ -2,6 +2,37 @@
 
 |来源|标题|
 |---|---|
+|[Another Dayu](https://anotherdayu.com/feed/)|[鱼生](https://anotherdayu.com/2024/5908/)|
+|[36氪](http://36kr.com/feed)|[智氪 买现实、卖预期的A股会因海外降息而改变吗？](https://36kr.com/p/2960956564689157?f=rss)|
+|[蓝点网](https://www.landiannews.com/feed)|[菜鸟驿站正在强制用户下载淘宝 必须授权信息给淘宝认证后才能取件](https://www.landiannews.com/archives/105902.html)|
+||[代号「神谕的黄鹂」Ubuntu 24.10测试版发布 将在10月10日推出正式版 非LTS ](https://www.landiannews.com/archives/105840.html)|
+||[ 手慢则无 Windows 10/11批量授权专业版/企业版在线永久激活密钥 剩余2500+](https://www.landiannews.com/archives/105844.html)|
+||[ 下载 微软推出新版Windows 11截图工具 终于支持修改截图自动保存文件夹](https://www.landiannews.com/archives/105845.html)|
+||[谷歌再次在多个国家/地区提高YouTube Premium订阅价格 最高涨幅达55%](https://www.landiannews.com/archives/105842.html)|
+||[Windows 11任务管理器将显示固态硬盘类型 例如NVMe SSD或SATA SSD](https://www.landiannews.com/archives/105841.html)|
+||[传高通已向英特尔发出不具约束力的收购要约 不过可能会面临强烈反垄断审查](https://www.landiannews.com/archives/105843.html)|
+||[有人用就见鬼了：微软弃用Microsoft Edge内置的电子钱包/加密货币钱包功能](https://www.landiannews.com/archives/105839.html)|
+|[流动](https://liudon.com/index.xml)|[搭建个人锻炼页面](https://liudon.com/posts/building-a-workout-page/)|
+|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[小技巧之-安卓终端工具Termux访问手机文件](https://nicksxs.me/2024/09/22/%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B-%E5%AE%89%E5%8D%93%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7Termux%E8%AE%BF%E9%97%AE%E6%89%8B%E6%9C%BA%E6%96%87%E4%BB%B6/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[苹果华为对垒下的华强北](https://www.huxiu.com/article/3496175.html?f=rss)|
+||[未婚未育的男生，决定做结扎手术](https://www.huxiu.com/article/3483639.html?f=rss)|
+||[青楼兴衰史：妓女和士人，不止钱色交易‍](https://www.huxiu.com/article/3496177.html?f=rss)|
+||[巨灾保险的新方向](https://www.huxiu.com/article/3496613.html?f=rss)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[伊朗一座煤矿发生爆炸 已致19人死亡](https://www.infzm.com/contents/279293)|
+|[Surmon.me](https://surmon.me/rss.xml)|[快乐的秘密](https://surmon.me/article/286)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 v2ex 是否允许发布 AI 生成的内容？](https://www.v2ex.com/t/1074827#reply13)|
+||[ 奇思妙想 电传动自行车的可行性](https://www.v2ex.com/t/1074808#reply42)|
+||[ Windows 把控制面板的全部设置项移进电脑设置里面这么难吗？为什么 Windows 8 到现在 13 年了， Windows 还是有两个设置](https://www.v2ex.com/t/1074801#reply13)|
+||[ 汽车 比亚迪的混动车到底怎么样。。。想买](https://www.v2ex.com/t/1074794#reply24)|
+||[ 职场话题 年龄 35， gap 一年，二本，没在大厂待过，在深圳还能找得到开发的工作吗？](https://www.v2ex.com/t/1074780#reply31)|
+||[ 分享发现 终于不愁找不到合适的 SVG 文件了， AI 生成 SVG](https://www.v2ex.com/t/1074775#reply21)|
+||[ 宽带症候群 局域网内优雅的访问家庭内网服务](https://www.v2ex.com/t/1074771#reply23)|
+||[ 移民 新西兰 IT 工作行情如何，留学移民成功率大吗？](https://www.v2ex.com/t/1074768#reply33)|
+||[ 职场话题 不同意降薪 33%直接领大礼包后，历经 2 个半月终于找到工作](https://www.v2ex.com/t/1074767#reply13)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[vue有这么个需求，移动端当前页跳转，电脑端在详情页展示，如图所示，如何实现？](https://segmentfault.com/q/1010000045293340)|
+|[Blog Phodal - A Gr...](https://www.phodal.com/blog/feeds/rss/)|[你的 AI 智能体正确吗？API 开发中 10+ 个智能体的启示与反思](http://www.phodal.com/blog/is-your-ai-agent-right-lessons-from-10-plus-agents-in-api-development/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取游戏 Where Angels Cry Windows $2.99→0 ](https://free.apprcn.com/get-game-where-angels-cry-for-free/)|
+||[Power Image Converter – 图片格式转换工具 Windows $19.9→0 ](https://free.apprcn.com/power-image-converter-8/)|
 |[机器之心](https://www.jiqizhixin.com/rss)|[Jeff Dean回忆谷歌趣事：吴恩达激励自己继续研究，Hinton曾是最强「实习生」](https://www.jiqizhixin.com/articles/2024-09-22-3)|
 ||[o1 研发团队完整采访：Ilya早期曾参与，灵感源于AlphaGo](https://www.jiqizhixin.com/articles/2024-09-22-2)|
 ||[ECCV 2024 oral 首次基于深度聚类的多模态融合，上交、伯克利提出双向结构对齐的融合网络新SOTA！](https://www.jiqizhixin.com/articles/2024-09-22)|
