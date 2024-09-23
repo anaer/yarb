@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[欧洲钢企请求政策制定者解决中国出口泛滥问题](http://www.ftchinese.com/story/001104273)|
+|[Josherich’s Blog](https://www.josherich.me/feed.xml)|[Remaster Ugly Web Pages](https://josherich.me/short/remaster)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用 fabric.js 开发了一款 H5 版本的图片编辑器 求拍砖](https://www.v2ex.com/t/1074944#reply11)|
+||[公司邮箱登录要求双重验证，我和 it 人员怼起来了](https://www.v2ex.com/t/1075029#reply129)|
+||[公司要进行国产化数据库替代，之前公司所有项目采用的是 Mysql，各位 V 友有没有建议的国产化平替方案](https://www.v2ex.com/t/1074987#reply13)|
+||[程序员失业后办了个婚介工作室，目前很缺男士啊，欢迎男士啊，都是程序员啊 都好商量呀](https://www.v2ex.com/t/1075031#reply46)|
+||[微信聊天记录备份查看，有什么方案？](https://www.v2ex.com/t/1074938#reply16)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[欧洲的开源成熟度：2024 年的里程碑、机遇与路径](https://www.oschina.net/news/313077/world-of-open-source-eu-2024)|
+||[一个技术不算很强的程序员，厌倦 995](https://my.oschina.net/tangdu/blog/15743251)|
+||[Ubuntu 24.10 "Oracular Oriole" 开启 Beta 测试](https://www.oschina.net/news/313067/ubuntu-24-10-beta)|
+||[RustDesk 1.3.1 发布，远程桌面](https://www.oschina.net/news/313066/rustdesk-1-3-1)|
+|[36氪](https://www.36kr.com/feed)|[中国业绩增长明显， 阿迪达斯CEO：继续依靠本土市场｜最前线](https://36kr.com/p/2962179613626376?f=rss)|
+||[圆桌对谈：医疗健康，无尽的前沿丨36氪2024产业未来大会](https://36kr.com/p/2958161895247107?f=rss)|
+||[圆桌对谈：征战全球，出海的决心丨36氪2024产业未来大会](https://36kr.com/p/2958248205913092?f=rss)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[1951 年被拐走的加州男孩还活着](https://www.solidot.org/story?sid=79313)|
+||[地球曾经也有星环](https://www.solidot.org/story?sid=79312)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[冒险岛日服这次居然把广告放在了池袋黄金位置，看来是狠下心做宣传了。](https://www.wikimoe.com/post/rs2yw4hr)|
+||[《戴森球计划》真可怕，随手画了几条流水线，等我缓过来，两天过去了！😨](https://www.wikimoe.com/post/w1l4cbvw)|
+|[晓空blog](https://blog.moeworld.tech/feed/)|[ 公告 维护性通知](https://blog.moeworld.tech/2024/09/23/%e5%85%ac%e5%91%8a%e7%bb%b4%e6%8a%a4%e6%80%a7%e9%80%9a%e7%9f%a5/)|
+|[bang’s blog](http://feeds.feedburner.com/webbang)|[谁在用 AI 图片生成](http://blog.cnbang.net/internet/4012/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[掉粉300万，疯狂小杨哥还能翻身吗？](https://www.tmtpost.com/7259744.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[63岁CEO最新表态，英特尔还能救吗？](https://www.huxiu.com/article/3499470.html?f=rss)|
+||[中东资本正在挺进房地产](https://www.huxiu.com/article/3498651.html?f=rss)|
+||[曝英特尔被抢投50亿美元：高通求购关口，老伙计火线救场](https://www.huxiu.com/article/3499461.html?f=rss)|
+||[投资需要“超越自我的理性”](https://www.huxiu.com/article/3497275.html?f=rss)|
+||[阿里前副总裁奥文：新的消费品创业公司，必须有三多](https://www.huxiu.com/article/3499459.html?f=rss)|
+||[中国第一省会，又升级了](https://www.huxiu.com/article/3499436.html?f=rss)|
+||[2024年，谁还在用BP机？](https://www.huxiu.com/article/3499133.html?f=rss)|
+||[干净外卖挑战：吃顿放心的外卖有多难？](https://www.huxiu.com/article/3497763.html?f=rss)|
+||[现代世界的精神病痛](https://www.huxiu.com/article/3498364.html?f=rss)|
+||[当你凝视龙门石窟的时候，大唐群星也在凝视你](https://www.huxiu.com/article/3489840.html?f=rss)|
+||[华为三折叠被炒到65万，手机厂商做折叠屏成必答题？](https://www.huxiu.com/article/3495467.html?f=rss)|
+||[从芯片霸主到收购目标，英特尔怎么了？](https://www.huxiu.com/article/3499116.html?f=rss)|
+||[人均GDP断层第一？一口气说清，神奇的卢森堡经济](https://www.huxiu.com/article/3493857.html?f=rss)|
+||[“里斯本丸”号：沉没，但不沉默](https://www.huxiu.com/article/3499105.html?f=rss)|
+||[打工人如何开辟“第二曲线”？](https://www.huxiu.com/article/3495480.html?f=rss)|
+||[自动驾驶正在产生幻觉？](https://www.huxiu.com/article/3491374.html?f=rss)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[维持死刑，男子离婚冷静期杀妻案二审宣判](https://www.infzm.com/contents/279307)|
+|[蠎周刊](https://weekly.pychina.org/feeds/all.atom.xml)|[上周蠎快讯 2024/38](https://weekly.pychina.org/pyrecap/pyrw-2438.html)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[网约车师傅送客去趟浦东机场竟绕了半个上海 平台认为事件不是非常严重](https://m.cnbeta.com.tw/view/1446687.htm)|
 ||[扎克伯格：领导都不懂技术 算不上科技公司](https://m.cnbeta.com.tw/view/1446685.htm)|
 ||[智能眼镜表现远超预期 Meta现在最有可能赢得AI硬件大赛？](https://m.cnbeta.com.tw/view/1446683.htm)|
