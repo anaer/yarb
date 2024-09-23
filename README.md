@@ -2,6 +2,82 @@
 
 |来源|标题|
 |---|---|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[用算法卷向全世界，内地企业出海试水能否成功](https://www.huxiu.com/article/3499439.html?f=rss)|
+||[公司的魔幻怎么那么多？](https://www.huxiu.com/article/3496614.html?f=rss)|
+||[动辄几百上千，这么贵的jellycat到底是谁在买？](https://www.huxiu.com/article/3499125.html?f=rss)|
+||[AI正在革新天气预报](https://www.huxiu.com/article/3499452.html?f=rss)|
+||[年轻人涌向西藏，不止为了旅游](https://www.huxiu.com/article/3499945.html?f=rss)|
+||[千亿美元的喧嚣与寒冬后，无人驾驶终于要落地了？](https://www.huxiu.com/article/3499091.html?f=rss)|
+||[“无票油”致每年损失超150亿元，个人收款码成税收流失“蚁穴”](https://www.huxiu.com/article/3493387.html?f=rss)|
+||[“白捡”8个亿的丰巢，仍被困在物流末端](https://www.huxiu.com/article/3499928.html?f=rss)|
+|[标志情报局](http://www.logonews.cn/feed)|[OpenAI 新标志设计提案遭员工强烈反对，被批过于简单且缺乏创意](https://www.logonews.cn/openai-faces-employee-backlash-over-new-logo-design.html)|
+||[美国足协公布亚瑟·布兰克美国足球国家训练中心LOGO](https://www.logonews.cn/arthur-m-blank-u-s-soccer-national-training-center.html)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[「深蓝航天」星云一号执行国内首次可入轨运载火箭高空回收试验｜最前线](https://36kr.com/p/2961344281186564?f=rss)|
+|[煎蛋](http://jandan.net/feed)|[华尔街：高通拟收购英特尔](http://jandan.net/p/117872)|
+|[极客公园](http://www.geekpark.net/rss)|[预训练的 Scaling Law 正在走入死胡同，o1 让更多创业公司重新复活](http://www.geekpark.net/news/340974)|
+||[云栖笔记：FOMO 消散后，对 AI 的信心到底该从何而来？](http://www.geekpark.net/news/340972)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[赣锋锂业碳酸锂价格的经济学解释](http://xueqiu.com/6843441724/305262094)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[通信设备爆炸引爆中东战火？｜知世分子](https://www.infzm.com/contents/279330)|
+||[追尾致前车失控驶向对向车道，湖南株洲多车相撞事故致6死7伤](https://www.infzm.com/contents/279320)|
+|[虎嗅](https://rss.huxiu.com/)|[减肥“神药”有望获诺贝尔奖吗？](https://www.huxiu.com/article/3495128.html?f=rss)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录](https://sspai.com/post/92306)|
+||[具透 这或许才是完全体，visionOS 2 中值得你关注的新功能](https://sspai.com/post/91866)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[OpenAI o1 self-play RL 技术路线推演](http://zhuanlan.zhihu.com/p/720106482?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 一大早到公司被同事怼了，因为他懒得开双重认证，我还不帮他取消](https://www.v2ex.com/t/1075096#reply22)|
+||[ 问与答 和学妹微妙的关系 —— 后续](https://www.v2ex.com/t/1075084#reply93)|
+||[ 问与答 国庆想出去玩，大家有没有租大疆无人机的经验](https://www.v2ex.com/t/1075070#reply11)|
+||[ 硬件 pdd、tb 的全新希捷企业盘敢入手么](https://www.v2ex.com/t/1075067#reply12)|
+||[ 生活 求求了，以后在 V 站的 '迷茫贴' 能否标记一下有多少万存款，我好直接不点进去看。](https://www.v2ex.com/t/1075066#reply17)|
+||[ 生活 请教下大佬们，冬天（从现在 9.23 到过年）新房除醛除味](https://www.v2ex.com/t/1075062#reply12)|
+||[ 汽车 唯一车辆买了纯电的你，后悔了吗？](https://www.v2ex.com/t/1075059#reply25)|
+||[ 问与答 房子出租，给租户智能密码锁 权限问题](https://www.v2ex.com/t/1075058#reply16)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[合并不合斗鱼并无所谓，虎牙需要自己的“小杨哥”](https://www.tmtpost.com/7259925.html)|
+||[芯片圈变天，高通要收购英特尔？](https://www.tmtpost.com/7259976.html)|
+||[美的港股上市，老牌家电都活得如何？](https://www.tmtpost.com/7260112.html)|
+||[中国手机决战亚非拉](https://www.tmtpost.com/7260162.html)|
+||[多项数据落后同行，行业不景气丰岛食品还要募资扩产｜IPO观察](https://www.tmtpost.com/7257647.html)|
+||[内地客扎堆购买的储蓄险，给香港中小险企埋了一颗巨雷｜钛媒体金融](https://www.tmtpost.com/7259924.html)|
+||[万径安全获数千万元深创投独家投资，将聚焦AI+YAK生态 钛媒体独家首发](https://www.tmtpost.com/7260067.html)|
+||[【Fintech 周报】民生银行回应降薪传闻；有赞支付被罚2787万元；上海：银行不得强制搭售理财](https://www.tmtpost.com/7260055.html)|
+||[联创光电溢价22倍收购关联亏损公司：业绩未成型，“专家”先套现](https://www.tmtpost.com/7259878.html)|
+||[9月23日A股分析：三大指数涨跌不一，两市合计成交5510.02亿元，资金流出最多的行业板块为软件开发、半导体](https://www.tmtpost.com/7260074.html)|
+||[U. S. to Propose Ban on Chinese Software and Hardware in Connected Vehicles](https://www.tmtpost.com/7260090.html)|
+||[欧阳日辉：新质生产力如何赋能金融高质量发展](https://www.tmtpost.com/7246672.html)|
+||[阿里穿越深水区](https://www.tmtpost.com/7259336.html)|
+||[决战大模型，百度健康背水一战](https://www.tmtpost.com/7259356.html)|
+||[苹果AI手机遇阻，国产手机找到超车机遇](https://www.tmtpost.com/7259830.html)|
+||[风靡东南亚，中年男人带火“史上最难喝的饮料”，年销56亿](https://www.tmtpost.com/7259935.html)|
+||[顾家家居全面进入美的时代，业绩承压下推福利型股权激励稳军心](https://www.tmtpost.com/7259902.html)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[产品架构图怎么画？附14个高质量架构图](https://www.woshipm.com/share/6118236.html)|
+||[3步掌握变现金字塔模型，助力营收增长](https://www.woshipm.com/operate/6118301.html)|
+||[新零售SKU管理策略：最小单位与整箱商品SKU的管理](https://www.woshipm.com/share/6118290.html)|
+||[一文搞懂马斯克的第一性原理](https://www.woshipm.com/share/6118426.html)|
+||[万字内容深度拆解认养一头牛私域运营：解锁全域营销新范式](https://www.woshipm.com/share/6118070.html)|
+||[李飞飞最新 a16z 对话](https://www.woshipm.com/share/6118604.html)|
+||[跨越客户产品设计中“需求鸿沟”的组织能力建设](https://www.woshipm.com/share/6118284.html)|
+||[尽管时代不断变化，但营销应坚持不变的核心原则](https://www.woshipm.com/share/6118539.html)|
+||[市场容量测算指南：在模糊中找到方向](https://www.woshipm.com/pd/6117992.html)|
+||[电商ERP中，多地址发货如何设计](https://www.woshipm.com/pd/6118222.html)|
+||[3个步骤构建用户画像](https://www.woshipm.com/user-research/6118223.html)|
+||[AI大模型实战篇：LATS，可能是目前最强的AI Agent设计框架](https://www.woshipm.com/ai/6117260.html)|
+||[如何构建模块化工作流，让用户上瘾？](https://www.woshipm.com/pd/6118292.html)|
+||[做社交媒体要靠“量”，做营销咨询要靠“装”](https://www.woshipm.com/share/6118016.html)|
+||[探索 B 端产品运营的奥秘](https://www.woshipm.com/share/6116459.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[客户案例：CACTER硬件网关精准防护，助力互联网企业安全升级](https://www.4hou.com/posts/nlO4)|
+||[标准应用 敏感个人信息的界定与告知同意](https://www.4hou.com/posts/omyz)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[Chainalysis CEO 认为政府可能会使用人工智能代理来追踪链上加密货币违法者](https://www.anquanke.com/post/id/300297)|
+||[严重Ivanti 云设备漏洞在主动网络攻击中被利用](https://www.anquanke.com/post/id/300301)|
+||[揭露“Marko Polo”： 一个以数千人为目标的信息窃取团伙](https://www.anquanke.com/post/id/300304)|
+||[BianLian 和 Rhysida 使用 Azure 进行勒索软件攻击](https://www.anquanke.com/post/id/300308)|
+||[CISA发布协调联邦机构网络安全的计划](https://www.anquanke.com/post/id/300310)|
+||[Versa Networks 在 Versa Director 中暴露了关键 API 漏洞 （CVE-2024-45229）](https://www.anquanke.com/post/id/300313)|
+||[Apple 的 macOS Sequoia 更新引发了与流行安全工具的重大兼容性问题](https://www.anquanke.com/post/id/300316)|
+||[CVE-2024-8698：Keycloak 漏洞使 SAML 身份验证面临风险](https://www.anquanke.com/post/id/300320)|
+||[Citrine Sleet用Mac Linux恶意软件毒害PyPI包](https://www.anquanke.com/post/id/300322)|
+||[攻击面管理“六边形战士”！360获权威报告满分评价](https://www.anquanke.com/post/id/300324)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[Bruce Schneier 认为以色列的袭击改变了世界](https://www.solidot.org/story?sid=79315)|
+||[愈来愈多的大学研究生人数超过本科生](https://www.solidot.org/story?sid=79314)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[再见XShell，试试这款原生跨平台且高颜值SSH终端工具](https://www.appinn.com/ishell-2/)|
 |[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[欧洲钢企请求政策制定者解决中国出口泛滥问题](http://www.ftchinese.com/story/001104273)|
 |[Josherich’s Blog](https://www.josherich.me/feed.xml)|[Remaster Ugly Web Pages](https://josherich.me/short/remaster)|
 |[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[使用 fabric.js 开发了一款 H5 版本的图片编辑器 求拍砖](https://www.v2ex.com/t/1074944#reply11)|
