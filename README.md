@@ -2,6 +2,49 @@
 
 |来源|标题|
 |---|---|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[以色列的寻呼机攻击改变了世界](https://cn.nytimes.com/opinion/20240923/israel-pager-attacks-supply-chain/?utm_source=RSS)|
+||[中国将逐步解禁日本水产品进口](https://cn.nytimes.com/china/20240923/china-japan-seafood-ban-fukushima/?utm_source=RSS)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 iPhone17 标准版或将配备 120Hz/郭明錤：高通与英特尔的并购可能是一场灾难/传英伟达中国特供芯片 H20 已无法下单](https://www.ifanr.com/1600020?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[element-ui el-button 点击后 鼠标移出按钮没有失焦？](https://segmentfault.com/q/1010000045294904)|
+|[V2EX](https://v2ex.com/index.xml)|[ 随想 越来越不想上班，怎么办](https://www.v2ex.com/t/1074943#reply43)|
+||[ iPhone 关于最近讨论比较热的苹果 16 会爆炸的事情](https://www.v2ex.com/t/1074940#reply60)|
+||[ 程序员 微信聊天记录备份查看，有什么方案？](https://www.v2ex.com/t/1074938#reply11)|
+||[ 健康 颈椎病求助](https://www.v2ex.com/t/1074933#reply11)|
+||[ 旅行 中秋节去了台州天台，我又来分享游记了，顺便给追更的朋友拉个群](https://www.v2ex.com/t/1074931#reply13)|
+||[ Apple 苹方字体比安卓的“思源黑体”看着舒服](https://www.v2ex.com/t/1074926#reply20)|
+|[反斗限免](https://free.apprcn.com/feed/)|[Calcullo - 快捷计算器 iOS 美区 $0.99→0 ](https://free.apprcn.com/calcullo/)|
+||[Hero of the Kingdom: Tales 2 - 王国英雄：失落传说 2 Android $6.49→0 ](https://free.apprcn.com/hero-of-the-kingdom-tales-2-5/)|
+|[36氪](https://www.36kr.com/feed)|[36氪首发｜智协慧同完成数千万Pre-B轮融资，由北汽产投领投](https://36kr.com/p/2955334907686021?f=rss)|
+||[耐克新老板的当务之急](https://36kr.com/p/2959234120159497?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[电影市场的流量焦虑：当社会新闻成为真实事件改编的主流](https://www.tmtpost.com/7259534.html)|
+||[本土酒店出海，该不该把“富豪窝”的中东列成重要一站？](https://www.tmtpost.com/7259460.html)|
+||[年轻人疯玩的骑行，带火年入过亿的生意](https://www.tmtpost.com/7259493.html)|
+||[腾讯、三七、米哈游、莉莉丝、完美布局，《黑神话悟空》刺激出增量市场？](https://www.tmtpost.com/7259501.html)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[大语言模型的规模化联邦全参数调优](https://www.jiqizhixin.com/articles/2024-09-23)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国将逐步解禁日本水产品进口](https://cn.nytimes.com/china/20240923/china-japan-seafood-ban-fukushima/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[deepin 23 , 拯救你的吃灰（树莓）派-详细配置教程](https://www.oschina.net/news/313051)|
+||[摩尔线程正式开源 OpenCV-MUSA](https://www.oschina.net/news/313050)|
+|[少数派](https://plink.anyfeeder.com/sspai)|[派早报：高通接触英特尔探讨收购意向](https://sspai.com/post/92468)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[高通收购Intel，上演蛇吞象。高通能否成功鲸吞Intel？AI PC大潮下的新Wintel格局会否形成？反垄断审核是最大拦路虎？](https://lukefan.com/2024/09/23/%e9%ab%98%e9%80%9a%e6%94%b6%e8%b4%adintel%ef%bc%8c%e4%b8%8a%e6%bc%94%e8%9b%87%e5%90%9e%e8%b1%a1%e3%80%82%e9%ab%98%e9%80%9a%e8%83%bd%e5%90%a6%e6%88%90%e5%8a%9f%e9%b2%b8%e5%90%9eintel%ef%bc%9fai-pc/)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775630)|
+||[为什么鲸鱼身上多有藤壶寄生，而海豚虎鲸身上却没见到？](https://daily.zhihu.com/story/9775616)|
+||[CPU 的工作原理是什么？](https://daily.zhihu.com/story/9775617)|
+||[世界上有哪些著名的、失败的大型工程项目？](https://daily.zhihu.com/story/9775626)|
+||[历史上有哪些风靡一时或被大量使用后被证明是有严重危害的事物？](https://daily.zhihu.com/story/9775607)|
+|[虎嗅](https://rss.huxiu.com/)|[中国的都市圈，正在进入跨市地铁时代](https://www.huxiu.com/article/3499092.html?f=rss)|
+||[“谢罪”营销翻车：打工人的“镣铐”为何惹众怒？](https://www.huxiu.com/article/3497264.html?f=rss)|
+||[如何提升互联网运营思维？](https://www.huxiu.com/article/3495476.html?f=rss)|
+||[乐道爆单，小鹏受伤，但消费者能接受599的月租吗？](https://www.huxiu.com/article/3497277.html?f=rss)|
+||[上海的不同区、各个街道，实力差距也太大了](https://www.huxiu.com/article/3498366.html?f=rss)|
+||[今年的流量密码，洛阳狠狠拿捏了](https://www.huxiu.com/article/3498649.html?f=rss)|
+||[一波卷走20亿，是京淘淘做错事，还是羊毛党失了智？](https://www.huxiu.com/article/3498666.html?f=rss)|
+||[美国股债的“高估值风险”，降息就能解决吗？](https://www.huxiu.com/article/3498652.html?f=rss)|
+||[零售的中国式困境](https://www.huxiu.com/article/3497145.html?f=rss)|
+||[这6件具体的小事，帮你走出内耗](https://www.huxiu.com/article/3498631.html?f=rss)|
+||[旅游、酒店管理专业改名了，有前途吗？](https://www.huxiu.com/article/3498378.html?f=rss)|
+||[日行一善，事要人为](https://www.huxiu.com/article/3497765.html?f=rss)|
+|[嘶吼 RoarTalk – 网络安全...](http://www.4hou.com/feed/)|[威努特与华为正式签约，共建繁荣生态](https://www.4hou.com/posts/mkyp)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[我的隨身環保餐具](https://taiwan.chtsai.org/2024/09/23/wode_suishen_huanbao_canju/)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[从二本吻痕到二本恋综，二本生大败985](https://www.tmtpost.com/7259105.html)|
 ||[关店的张大奕，看穿了网红电商的本质](https://www.tmtpost.com/7259091.html)|
 ||[钛媒体科股早知道：这类产品出口订单持续火爆，各企业开足马力生产](https://www.tmtpost.com/7259247.html)|
