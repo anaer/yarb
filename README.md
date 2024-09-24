@@ -2,6 +2,82 @@
 
 |来源|标题|
 |---|---|
+|[反斗限免](http://free.apprcn.com/feed/)|[COLOR projects 6 – 专业照片滤镜软件 Windows $69→0 ](https://free.apprcn.com/color-projects-6-4/)|
+||[Vovsoft Bulk Domain Appraisal - 域名批量评估工具 Windows $19→0 ](https://free.apprcn.com/vovsoft-bulk-domain-appraisal-2/)|
+||[免费获取字体 Toddler Retro Font Windows、macOS ](https://free.apprcn.com/get-toddler-retro-font-for-free/)|
+|[36氪](https://www.36kr.com/feed)|[探访贵安美的云项目：一座绿色数据中心，长什么样？ 最前线](https://36kr.com/p/2963755347677442?f=rss)|
+||[朋友圈三天可见的年轻人，怎么都开始回归「现充」了？](https://36kr.com/p/2963700227281155?f=rss)|
+||[前百度研究院副院长新项目：给手机、PC做可用的大模型基础设施，前微软高管加入 智涌独家](https://36kr.com/p/2963741818671113?f=rss)|
+||[名创优品：永辉的“白衣骑士”？｜氪金·大消费](https://36kr.com/p/2963632620835080?f=rss)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[职场追求完美太焦虑？早点明白 “这个世界就是一个巨大的草台班子”](https://w2solo.com/topics/5071)|
+||[Nextjs 全栈开发模板-MvpFast](https://w2solo.com/topics/5070)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[中国央行下调利率，推出多项刺激措施](http://www.ftchinese.com/story/001104287)|
+||[西方国家合力挑战中国对关键金属的掌控](http://www.ftchinese.com/story/001104286)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国降准并下调存量房贷利率，试图提振经济](https://cn.nytimes.com/business/20240924/china-cuts-mortgage-rates/dual)|
+||[中东暴力升级，拜登的时间已经不多了](https://cn.nytimes.com/world/20240924/biden-israel-hezbollah-hamas-gaza/dual)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 盲猜 10 月份美服对 ai 上线后，是对国服最大考验](https://www.v2ex.com/t/1075464#reply17)|
+||[ 宽带症候群 单线复用，没有 IPTV，为什么不需要划 VLAN 呢](https://www.v2ex.com/t/1075460#reply19)|
+||[ 程序员 请教各位大佬，有没有合适的文档管理系统推荐](https://www.v2ex.com/t/1075451#reply15)|
+||[ 问与答 求一个好用的机场](https://www.v2ex.com/t/1075442#reply13)|
+||[ 分享发现 感觉华为的所有产品基本都在往奢侈品的路上走](https://www.v2ex.com/t/1075439#reply46)|
+||[ 问与答 大概率是要被裁了，一直让我休息，甚至快到做 2 休 5 了，怎么和公司杠](https://www.v2ex.com/t/1075438#reply12)|
+||[ 职场话题 两个月没发工资了，怎么办](https://www.v2ex.com/t/1075435#reply39)|
+||[ 职场话题 28 岁，月薪 20k 是什么概念，高了还是低了？](https://www.v2ex.com/t/1075430#reply55)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[微软停止开发 Windows Server Update Services](https://www.solidot.org/story?sid=79326)|
+||[Telegram 将向政府提供 IP 和电话号码等数据](https://www.solidot.org/story?sid=79325)|
+||[国际工会联合会认为亚马逊、特斯拉和 Meta 有害于民主](https://www.solidot.org/story?sid=79324)|
+|[虎嗅](https://rss.huxiu.com/)|[走出抑郁焦虑的有效视角：抑郁并不“坏”](https://www.huxiu.com/article/3502908.html?f=rss)|
+||[史上最大危机！人工智能的第二次大低谷究竟有多惨？](https://www.huxiu.com/article/3504786.html?f=rss)|
+||[高通突击收购英特尔？买不起、吞不下、谈不拢](https://www.huxiu.com/article/3504740.html?f=rss)|
+||[Kanye狂赚半亿，下一个海口在哪里？](https://www.huxiu.com/article/3502954.html?f=rss)|
+||[你以为开始上强度了？不不不，这只是个前菜罢了](https://www.huxiu.com/article/3504741.html?f=rss)|
+||[蘸麻酱和谈对象，都是数学问题](https://www.huxiu.com/article/3483144.html?f=rss)|
+|[吴川斌的博客](https://www.mr-wu.cn/feed/)|[Xpedition 2409 西门子EDA电子电路及PCB设计软件下载分享](https://www.mr-wu.cn/xpedition-2409-free-download/)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[为什么西门子对于达索和PTC是一个难啃的骨头？](https://www.woshipm.com/it/6119206.html)|
+||[怎么才能和上级配合的更加舒服？（二）](https://www.woshipm.com/share/6119343.html)|
+||[要用货架电商的逻辑做小红书](https://www.woshipm.com/operate/6119340.html)|
+||[AI驱动下，XR数实融合创新下的用户体验挑战和经验分享](https://www.woshipm.com/share/6119315.html)|
+||[AI产品观察：针对程序员的AI搜索—Devv](https://www.woshipm.com/share/6118211.html)|
+||[产品经理要懂的费米估算法](https://www.woshipm.com/it/6119305.html)|
+||[面对新的工作机会，你会如何进行选择决策的？](https://www.woshipm.com/share/6119257.html)|
+||[关于企业增长的一点思考](https://www.woshipm.com/share/6119293.html)|
+||[个人IP打造：普通人如何轻松入门？](https://www.woshipm.com/share/6119250.html)|
+||[大模型时代（1）：探索业务场景中的Agent应用](https://www.woshipm.com/share/6119198.html)|
+||[深度剖析鹅厂AI：腾讯元宝](https://www.woshipm.com/evaluating/6119178.html)|
+||[当AI吞噬软件，编程的YouTube时刻正在到来](https://www.woshipm.com/share/6119280.html)|
+||[「体验视角」浅谈电商，物流与社会公益结合在高新技术下的机会](https://www.woshipm.com/operate/6119231.html)|
+||[品牌部被驱逐，品牌魂系何处？](https://www.woshipm.com/share/6119278.html)|
+||[AI、云计算、数字孪生：西门子凭什么领跑？达索、PTC、Autodesk还有机会吗？](https://www.woshipm.com/share/6119223.html)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[从铁路到港口，中国欲加强亚洲贸易枢纽地位](https://cn.nytimes.com/business/20240924/china-trade-russia-north-korea/)|
+|[IT之家](https://www.ithome.com/rss/)|[尼康云创上线：提供预设色彩方案下载，支持自动图像传输、固件更新](https://www.ithome.com/0/798/084.htm)|
+||[SK 海力士 CXL 优化软件兼容 Linux，计划年底量产 96\128 GB CXL 2.0 内存模组](https://www.ithome.com/0/798/083.htm)|
+||[Android 15 增强对触控板的支持，新增“轻点拖动”手势](https://www.ithome.com/0/798/082.htm)|
+||[暴雪《炉石传说》国服明日回归：2023 年标准模式所有卡牌无论获取方式，都只能分解为 1 奥术之尘](https://www.ithome.com/0/798/078.htm)|
+||[微星下一代主板将升级 CLICK BIOS X 界面：新 ESA 架构设计，UI 大变](https://www.ithome.com/0/798/077.htm)|
+||[消息称 AMD 曾参与任天堂 Switch 2 芯片竞标，但因低功耗表现不佳落选](https://www.ithome.com/0/798/076.htm)|
+||[紫光展锐 40 亿元股权融资到账，上海国资浦东创投牵头](https://www.ithome.com/0/798/074.htm)|
+||[工信部：前 8 个月电信业务收入累计完成 11732 亿元，同比增长 2.7%](https://www.ithome.com/0/798/072.htm)|
+||[理想汽车：9 月 23 日超充站累计上线数破 800 座，其中高速 512 座](https://www.ithome.com/0/798/071.htm)|
+||[英特尔实感深度相机模组 D421 发布，首次集成 D4 视觉处理器与光学模组](https://www.ithome.com/0/798/069.htm)|
+||[铁路 12306 推出同车接续功能：中途不用换车，同车更换席位即可](https://www.ithome.com/0/798/068.htm)|
+||[小米平板 6S Pro 12.4、Redmi K60 至尊版手机获推澎湃 HyperOS 体验增强版 Beta 升级](https://www.ithome.com/0/798/063.htm)|
+||[北汽新能源回应产能由 32 万辆下调至 12 万辆：聚焦新能源车高端制造](https://www.ithome.com/0/798/062.htm)|
+||[诺基亚、英伟达、T-Mobile 合作，共建业内首个 AI-RAN 创新中心](https://www.ithome.com/0/798/060.htm)|
+||[创意电子：3nm HBM3E 内存控制器与 PHY IP 获云服务提供商数据中心应用](https://www.ithome.com/0/798/059.htm)|
+||[阿维塔 12 增程版轿车将于 10 月上市：鸿蒙座舱、纯电续航 201 公里](https://www.ithome.com/0/798/058.htm)|
+||[水雾变显示屏，松下“Silky Fine Mist”技术可实现空中投影](https://www.ithome.com/0/798/057.htm)|
+||[消息称 NAND 闪存芯片制造商铠侠取消在 10 月进行 IPO 的计划](https://www.ithome.com/0/798/055.htm)|
+||[华为余承东再谈鸿蒙智行汽车亏本：智界 R7 卖一辆亏 3 万元左右](https://www.ithome.com/0/798/053.htm)|
+||[鸿蒙智行旗下首款轿跑 SUV 智界 R7 上市：可选华为 ADS 3.0 高阶智驾，25.98 万元起](https://www.ithome.com/0/798/052.htm)|
+||[荣耀 X60 系列手机“10 月见”，3C 认证显示电源适配器支持 35W 输出功率](https://www.ithome.com/0/798/050.htm)|
+||[零跑 C10、T03 汽车在欧洲 13 国上市，零跑国际正式“开跑”](https://www.ithome.com/0/798/049.htm)|
+||[索尼 PlayStation 30 周年限定款 PS5 / Pro 游戏机 9 月 26 日开启预定](https://www.ithome.com/0/798/047.htm)|
+|[小众软件](https://feeds.appinn.com/appinns/)|[水豚鼠标助手 – 电子教鞭工具：画笔、放大镜、聚光灯、倒计时、白板等 Win ](https://www.appinn.com/shuitunapp/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[海关总署副署长孙玉宁落马](https://www.infzm.com/contents/279488)|
+||[煤矿重大火灾事故致16死，贵州75人被追责问责](https://www.infzm.com/contents/279477)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[【教學影片】如何輕鬆將您的 Mac 恢復為出廠設定](https://www.iphonetaiwan.org/2024/09/how-to-erase-reset-mac-factory-settings.html)|
+||[【教學影片】一步一步教您如何更新 Apple Watch 手錶](https://www.iphonetaiwan.org/2024/09/how-to-update-apple-watch.html)|
+||[【教學影片】Mac 和 Vision Pro 無縫連接，提升工作效率](https://www.iphonetaiwan.org/2024/09/how-to-use-mac-with-apple-vision-pro.html)|
 |[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[去年业绩考核不达标后，灿瑞科技新激励计划再降门槛](https://www.tmtpost.com/7261811.html)|
 ||[大模型挺进产业腹地，百度智能云如何成为“央国企严选”？](https://www.tmtpost.com/7260073.html)|
 ||[宗馥莉的娃哈哈2.0时代，从“打破大锅饭”开始？](https://www.tmtpost.com/7261724.html)|
