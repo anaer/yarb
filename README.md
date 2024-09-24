@@ -2,6 +2,68 @@
 
 |来源|标题|
 |---|---|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[不吃早饭会得胆结石吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E4%BC%9A%E5%BE%97%E8%83%86%E7%BB%93%E7%9F%B3%E5%90%97%EF%BC%9F)|
+||[甲状腺结节 4 级、5 级，严重吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%94%B2%E7%8A%B6%E8%85%BA%E7%BB%93%E8%8A%82%204%20%E7%BA%A7%E3%80%815%20%E7%BA%A7%EF%BC%8C%E4%B8%A5%E9%87%8D%E5%90%97%EF%BC%9F)|
+||[女性到了 50 岁，建议做的 3 个癌症筛查项目](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%A5%B3%E6%80%A7%E5%88%B0%E4%BA%86%2050%20%E5%B2%81%EF%BC%8C%E5%BB%BA%E8%AE%AE%E5%81%9A%E7%9A%84%203%20%E4%B8%AA%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%E9%A1%B9%E7%9B%AE)|
+||[发现就是中晚期的肠癌，一个方法可以避免](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F%E7%9A%84%E8%82%A0%E7%99%8C%EF%BC%8C%E4%B8%80%E4%B8%AA%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D)|
+||[一个减少暗沉，去黄气的好东西！怎么现在才发现啊](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%B8%80%E4%B8%AA%E5%87%8F%E5%B0%91%E6%9A%97%E6%B2%89%EF%BC%8C%E5%8E%BB%E9%BB%84%E6%B0%94%E7%9A%84%E5%A5%BD%E4%B8%9C%E8%A5%BF%EF%BC%81%E6%80%8E%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%89%8D%E5%8F%91%E7%8E%B0%E5%95%8A)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[本周看什么 最近值得一看的 8 部作品](https://sspai.com/post/92433)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[如何评价《黑神话：悟空》这款游戏？它到底好不好玩？](http://www.zhihu.com/question/664775480/answer/3634435096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|[极客公园](http://www.geekpark.net/rss)|[这款 AI 相机，让你「读懂」自己毛孩子的心](http://www.geekpark.net/news/341042)|
+||[这个「微博」，几万个 AI 和你互动，成就你的「大 V 梦」](http://www.geekpark.net/news/341034)|
+|[Terrarum::异世界丨居正博客](https://blog.skyju.cc/index.xml)|[Rclone、rsync、Docker 的 COPY/ADD：加不加「/」的含义大不相同！](https://blog.skyju.cc/post/rclone-rsync-docker-slash-behavior/)|
+|[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[CMake Build Parallel Configuration](https://leimao.github.io/blog/CMake-Build-Parallel-Configuration/)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[央行：降低存量房贷利率，预计平均降幅大约在0.5个百分点左右](https://www.infzm.com/contents/279424)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[沿街店面玻璃上贴招聘启事违法？市容管理不该深文周纳丨快评](https://www.infzm.com/contents/279427)|
+||[我在横琴double精彩 定居“新街坊”，琴澳新精彩](https://www.infzm.com/contents/279396)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[中东暴力升级，拜登的时间已经不多了](https://cn.nytimes.com/world/20240924/biden-israel-hezbollah-hamas-gaza/?utm_source=RSS)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[部分美国卡巴斯基用户被自动更新到 UltraAV](https://www.solidot.org/story?sid=79323)|
+||[Telegram 以版权侵犯为由删除 Z-Library 帖子](https://www.solidot.org/story?sid=79322)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[德国查封了 47 家与“地下经济”有关的加密货币交易所](https://www.anquanke.com/post/id/300333)|
+||[Ivanti 云服务设备再遭攻击：新漏洞广泛利用，安全问题频发](https://www.anquanke.com/post/id/300339)|
+||[威胁行为者在复杂的凭证窃取活动中利用与HR相关的钓鱼战术](https://www.anquanke.com/post/id/300344)|
+||[黑客从亚洲加密平台 BingX 窃取了超过 4400 万美元](https://www.anquanke.com/post/id/300346)|
+||[Sam Altman表示ChatGPT将带来难以想象的繁荣并解决气候问题](https://www.anquanke.com/post/id/300349)|
+||[Windows Server 2025 将获得无需重启的热补丁选项](https://www.anquanke.com/post/id/300354)|
+||[ESET 修复了其产品中的两个权限提升漏洞](https://www.anquanke.com/post/id/300359)|
+||[新Necro特洛伊木马通过Google Play和非官方应用程序瞄准超过1100万台Android设备](https://www.anquanke.com/post/id/300361)|
+||[WordPress 主题“Houzez”和相关插件漏洞暴露了数千个网站](https://www.anquanke.com/post/id/300364)|
+||[开挂神器能让企业管理有多轻松？这才是真正的职场爽文](https://www.anquanke.com/post/id/300367)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[盛邦安全入选IDC《中国WAAP厂商技术能力评估，2024》报告，获满分评价！](https://www.4hou.com/posts/yzXV)|
+||[盛邦安全权小文：多源异构数据融合技术在威胁情报实战化趋势下将“大有可为”](https://www.4hou.com/posts/qol3)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[拼多多竞品分析怎样做](https://www.woshipm.com/share/6118948.html)|
+||[尽管时代不断变化，但营销应坚持不变的核心原则](https://www.woshipm.com/share/6118486.html)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[“遇见数字，发现有趣” 前端程序员的第一款 iOS App《Suka 数字卡片》上线了🎉🎉](https://w2solo.com/topics/5069)|
+||[奇怪，我之前在 W2SOLO 的账号最近突然没有了？](https://w2solo.com/topics/5068)|
+||[副业招募｜微盈利 + 已验证需求｜独立开发团队招募技术合伙小伙伴啦！](https://w2solo.com/topics/5067)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Python 也是醉了，从 pip 学习到 pipenv，再切换到 poetry，最后还是用回 pip](https://www.v2ex.com/t/1075372#reply16)|
+||[ 上海 来上海七年了，写点流水账](https://www.v2ex.com/t/1075370#reply18)|
+||[ 投资 预测贴-大 A 2 周内回 3000 点](https://www.v2ex.com/t/1075342#reply15)|
+||[ 问与答 把爱好变为工作真的是件幸运的事吗?](https://www.v2ex.com/t/1075341#reply16)|
+||[ 阅读 有没有劝人不做好人，老实人的书作品？](https://www.v2ex.com/t/1075340#reply54)|
+||[ 问与答 现在是不是买房的好时候](https://www.v2ex.com/t/1075336#reply45)|
+||[ 程序员 请教各位 v 友，有什么合适好用的免费服务器、域名注册的服务商？](https://www.v2ex.com/t/1075325#reply16)|
+|[硕鼠的博客站](http://lukefan.com/?feed=rss2)|[地表最强法务部出动：任天堂对幻兽帕鲁发起版权诉讼，高达2500万套销量顶峰后的版权风波！Sony哭晕在厕所，腾讯、网易却未必有事](https://lukefan.com/2024/09/24/%e5%9c%b0%e8%a1%a8%e6%9c%80%e5%bc%ba%e6%b3%95%e5%8a%a1%e9%83%a8%e5%87%ba%e5%8a%a8%ef%bc%9a%e4%bb%bb%e5%a4%a9%e5%a0%82%e5%af%b9%e5%b9%bb%e5%85%bd%e5%b8%95%e9%b2%81%e5%8f%91%e8%b5%b7%e7%89%88%e6%9d%83/)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[欧盟发布苹果整改令，IOS系统难逃一劫？](http://www.huxiu.com/article/3493031.html?f=wangzhan)|
+||[网红经济风向标？张大奕关闭淘宝店，未来路在何方？](http://www.huxiu.com/article/3500867.html?f=wangzhan)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中东暴力升级，拜登的时间已经不多了](https://cn.nytimes.com/world/20240924/biden-israel-hezbollah-hamas-gaza/)|
+||[拜登政府禁止美国联网汽车使用中国研发软件](https://cn.nytimes.com/usa/20240924/chinese-software-ban-cars-biden/)|
+|[反斗限免](https://free.apprcn.com/feed/)|[StreamGet All-In-One Video Downloader - 一站式流媒体视频下载工具 Windows、macOS $99.9→0 ](https://free.apprcn.com/streamget-all-in-one-video-downloader-2/)|
+||[免费获取 Steam 游戏 Go Ace It Windows ](https://free.apprcn.com/get-steam-game-go-ace-it-for-free/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“减肥神药”背后的三位开创者，荣获今年拉斯克奖](https://www.huxiu.com/article/3502938.html?f=rss)|
+||[韩国美妆业150年，能给我们什么启示？](https://www.huxiu.com/article/3503478.html?f=rss)|
+||[微短剧越来越“疯”，这不是问题是答案](https://www.huxiu.com/article/3503498.html?f=rss)|
+||[在这个“微博”，几万个AI捧你做“大V”](https://www.huxiu.com/article/3503801.html?f=rss)|
+||[lululemon 600亿商业帝国的权力之战](https://www.huxiu.com/article/3503496.html?f=rss)|
+||[欧盟发布苹果整改令，IOS系统难逃一劫？](https://www.huxiu.com/article/3493031.html?f=rss)|
+||[63亿元“入主”永辉超市，名创优品股价大跌，市场在担心什么？](https://www.huxiu.com/article/3503784.html?f=rss)|
+||[为什么西方国家不再补贴电动汽车？](https://www.huxiu.com/article/3503800.html?f=rss)|
+||[梦，有何意义？](https://www.huxiu.com/article/3503810.html?f=rss)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775670)|
+||[为什么硝酸不叫氮酸？](https://daily.zhihu.com/story/9775638)|
+||[既然木头就可以做燃料，为啥古代要把木头加工成木炭售卖呢？](https://daily.zhihu.com/story/9775655)|
+||[我国的「斤」用了上千年，为何和国际接轨后，恰好是 500 克？](https://daily.zhihu.com/story/9775662)|
+||[广东湛江遭遇「摩羯」，台风天鸭群稳稳站立纹丝不动，台风为什么吹不动鸭子？这是什么原理？](https://daily.zhihu.com/story/9775648)|
 |[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[腊肉是不是这么能游的？比菲尔普斯还快](https://www.reddit.com/r/abstract_garden/comments/1fo2p95/腊肉是不是这么能游的比菲尔普斯还快/)|
 |[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[泰国恐怖片第3名《吓死鬼》：鬼中有鬼，谁都可以是鬼！](https://www.ximalaya.com/sound/759364898)|
 |[虎嗅](https://rss.huxiu.com/)|[铜：真正的范式转变](https://www.huxiu.com/article/3502960.html?f=rss)|
