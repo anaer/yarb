@@ -2,6 +2,66 @@
 
 |来源|标题|
 |---|---|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[关于国家工信部突然官宣的“国产光刻机” 你需要知道的10件事](https://m.cnbeta.com.tw/view/1446836.htm)|
+||[TikTok以参与秘密影响行动为由封禁俄罗斯国家媒体RT和Sputnik账户](https://m.cnbeta.com.tw/view/1446835.htm)|
+||[美国会通过芯片豁免法案 加快台积电、英特尔在美建厂](https://m.cnbeta.com.tw/view/1446834.htm)|
+||[美国政府与英伟达、OpenAI、Meta等合作 建立1亿美元人工智能合作关系](https://m.cnbeta.com.tw/view/1446829.htm)|
+||[加州起诉埃克森美孚在塑料回收方面欺骗了公众](https://m.cnbeta.com.tw/view/1446828.htm)|
+||[加密货币骗子入侵OpenAI在X上的新闻账户](https://m.cnbeta.com.tw/view/1446825.htm)|
+||[测试显示尽管采用了新的陶瓷材料 iPhone 16机型仍然容易在跌落时损坏](https://m.cnbeta.com.tw/view/1446824.htm)|
+||[“死亡之握”返场 博主复现iPhone 16 Pro Max触屏失灵Bug](https://m.cnbeta.com.tw/view/1446823.htm)|
+||[三星第八代V-NAND车载SSD AM9C1发布 读取4400MB/s](https://m.cnbeta.com.tw/view/1446822.htm)|
+||[小米两款新车细节曝光：价格预计12-15万起 有增程型号](https://m.cnbeta.com.tw/view/1446821.htm)|
+||[博主确认iPhone 16 Pro有京东方屏幕 但并未供应给Max型号](https://m.cnbeta.com.tw/view/1446820.htm)|
+||[苹果iOS 18.1开发者预览版Beta 5发布：控制中心支持还原默认布局](https://m.cnbeta.com.tw/view/1446819.htm)|
+||[上市次日大降价？ 狙击小米的领克，杀敌不成自损八百](https://m.cnbeta.com.tw/view/1446818.htm)|
+||[270万骑手，讲不出闪送的故事](https://m.cnbeta.com.tw/view/1446816.htm)|
+||[国产芯片设备龙头人事地震 两名美籍高管辞职](https://m.cnbeta.com.tw/view/1446815.htm)|
+||[华为三折叠黄牛价雪崩：从加近十万到仅加四千](https://m.cnbeta.com.tw/view/1446814.htm)|
+||[数据显示Temu月下载量超越亚马逊 8月全球接近5500万次](https://m.cnbeta.com.tw/view/1446813.htm)|
+||[Sam Altman最新博文：智能时代将带来无限的智能和丰富的能源](https://m.cnbeta.com.tw/view/1446812.htm)|
+||[分析师：高通收购英特尔的可能性很低 有这些阻碍](https://m.cnbeta.com.tw/view/1446811.htm)|
+||[台积电扩张背后 日本芯片行业正面临严重的工人短缺](https://m.cnbeta.com.tw/view/1446810.htm)|
+||[名创优品拟63亿现金购股 将成永辉超市第一大股东](https://m.cnbeta.com.tw/view/1446809.htm)|
+||[和OpenAI争抢投资者？劲敌Anthropic“吸金”寻求估值400亿美元](https://m.cnbeta.com.tw/view/1446808.htm)|
+||[英特尔决定推迟在德国建厂计划](https://m.cnbeta.com.tw/view/1446807.htm)|
+||[微软再次出手“囤电” 人工智能掀起核能发展新浪潮？](https://m.cnbeta.com.tw/view/1446806.htm)|
+||[特朗普威胁农机巨头约翰迪尔 若将生产转移至墨西哥将征收200%关税](https://m.cnbeta.com.tw/view/1446805.htm)|
+|[伪医生律师的博客](https://chidd.net/feed)|[为何懒人屎尿多](https://chidd.net/2024/09/24/si-niao-pi.html)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[高合最后的守门人，丁磊还在找“救命钱”](https://www.tmtpost.com/7260910.html)|
+||[Experts Warns US Plan to Ban China-Made Connected Vehicle Parts will Hurt Global Auto Supply Chain](https://www.tmtpost.com/7261232.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 家庭矛盾，求指导。](https://www.v2ex.com/t/1075310#reply24)|
+||[ 程序员 aws 配置起来真麻烦吧](https://www.v2ex.com/t/1075294#reply17)|
+||[ 投资 A 股要崛起了？今天高开 1%](https://www.v2ex.com/t/1075277#reply29)|
+||[ 问与答 每天睡眠时间大家按卧床时间算还是入睡时间算的？](https://www.v2ex.com/t/1075276#reply15)|
+||[ MacBook 用妙控板可以改善手腕酸痛吗](https://www.v2ex.com/t/1075271#reply27)|
+||[ Apple 关于 iPhone 以及传呼机爆炸的一些看法](https://www.v2ex.com/t/1075269#reply41)|
+||[ 投资 存量房贷终于要降一点了，真是不容易](https://www.v2ex.com/t/1075268#reply42)|
+||[ 问与答 阿里云也太坑了，凭啥只能用他的服务器？（如图）](https://www.v2ex.com/t/1075266#reply17)|
+||[ 程序员 今天见识到什么叫 0 基础前端使用 gpt 开发并且直接写到生产代码上了](https://www.v2ex.com/t/1075261#reply21)|
+||[ 游戏 大家黑神话悟空几周目了，为什么 PS5 怎么都打不出切手技识破？](https://www.v2ex.com/t/1075253#reply34)|
+|[蓝点网](https://www.landiannews.com/feed)|[Telegram更新服务条款和隐私政策 将共享犯罪嫌疑人IP和号码给执法机构](https://www.landiannews.com/archives/105921.html)|
+|[TecHug](https://www.techug.com/feed)|[【外评】法官驳回大部分 GitHub Copilot 版权索赔要求](https://www.techug.com/post/judge-dismisses-majority-github-copilot-copyright-claims/)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[是否Qt使用Python开发就叫：PyQT？那么JavaScript， C#开发叫什么呢？](https://segmentfault.com/q/1010000045315555)|
+|[反斗限免](http://free.apprcn.com/feed/)|[AOMEI Backupper Pro – 系统备份还原软件 Windows $29.95→0 ](https://free.apprcn.com/aomei-backupper-pro-60/)|
+||[免费获取字体包 Playful Vintage Font Bundle Windows、macOS $805→0 ](https://free.apprcn.com/get-playful-vintage-font-bundle-for-free/)|
+||[Fast Screen Recorder - 屏幕录像软件 Windows $19.9→0 ](https://free.apprcn.com/fast-screen-recorder-6/)|
+|[36氪](http://36kr.com/feed)|[做了十年控股并购的傅唯说，他们是投资行业的蓝领工人](https://36kr.com/p/2963445113917440?f=rss)|
+||[圆桌对谈：见证「专精特新」的诞生丨36氪2024产业未来大会](https://36kr.com/p/2958155222912006?f=rss)|
+||[打破高端激光气体检测设备海外垄断，「岑锋科技」获数千万元天使轮融资 36氪首发](https://36kr.com/p/2949649654685832?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[苹果华为的一次别离](https://www.tmtpost.com/7260892.html)|
+||[“挤而不热”的中秋档后，电影市场如何触底反弹？](https://www.tmtpost.com/7260846.html)|
+|[白宦成](https://www.ixiqin.com/feed/)|[跳出兔子洞](https://www.ixiqin.com/2024/09/24/jump-out-of-the-rabbit-hole/)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[拜登政府禁止美国联网汽车使用中国研发软件](https://cn.nytimes.com/usa/20240924/chinese-software-ban-cars-biden/?utm_source=RSS)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[性感秘书Miko酱娇躯玲珑黑丝致命](https://www.mmlsl.com/xgmn/3040.html)|
+||[性感萌妹黑黑真空上阵内衣遮两点](https://www.mmlsl.com/xgmn/3039.html)|
+||[性感妹子战姝羽似裸非裸看点十足](https://www.mmlsl.com/xgmn/3038.html)|
+||[性感妹子语凝化身萌宠猫咪勾你魂](https://www.mmlsl.com/xgmn/3037.html)|
+|[虎嗅](https://rss.huxiu.com/)|[存量房贷降息，影响几何？](https://www.huxiu.com/article/3502970.html?f=rss)|
+||[数字货币重塑经济权力](https://www.huxiu.com/article/3502957.html?f=rss)|
+||[央行发大招：降准、降息、降存量房贷利率](https://www.huxiu.com/article/3502968.html?f=rss)|
+||[共享充电宝：收割代理商、背刺消费者，谁获利？谁倒闭？](https://www.huxiu.com/article/3500829.html?f=rss)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[Accelerate 1.0.0 发布](https://my.oschina.net/HuggingFace/blog/15972885)|
 |[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[吃豆人游戏](https://w2solo.com/topics/5066)|
 ||[独立开发周记 84：一个夏天，一个 App](https://w2solo.com/topics/5065)|
 |[爱范儿](https://www.ifanr.com/feed)|[纯电跑车发布！改名莲花的路特斯，即将走上正轨](https://www.ifanr.com/1600173?utm_source=rss&utm_medium=rss&utm_campaign=)|
