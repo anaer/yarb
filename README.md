@@ -2,6 +2,131 @@
 
 |来源|标题|
 |---|---|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中美电池竞赛，美国还有机会吗？](https://cn.nytimes.com/opinion/20240924/iron-air-battery-china/dual)|
+||[中国调查美国PVH集团，称其涉嫌“歧视”新疆产品](https://cn.nytimes.com/business/20240925/china-xinjiang-calvin-klein-tommy-hilfiger/dual)|
+|[36氪](https://36kr.com/feed)|[2024 独立站运营避坑指南：从一个卖家的品牌命名失误说起](https://36kr.com/p/2963824687239433?f=rss)|
+||[即使轰轰烈烈倒下，「幻兽帕鲁」也赢麻了](https://36kr.com/p/2965000743637000?f=rss)|
+|[IT之家](https://www.ithome.com/rss/)|[消息称 vivo X200 Pro / Pro mini 手机首发 22nm 索尼 LYT-818 大底主摄](https://www.ithome.com/0/798/269.htm)|
+||[育碧取消东京电玩展活动以及下周《刺客信条：影》游戏媒体预览](https://www.ithome.com/0/798/267.htm)|
+||[韩媒称三星电子代工业务遭遇困局：先进制程难获订单，成熟制程水平落后](https://www.ithome.com/0/798/266.htm)|
+||[小米 Redmi Note 14 系列手机预热：Pro+ 配备 2.5X 光学变焦镜头，Pro 全系标配「1.5K 高光护眼屏」](https://www.ithome.com/0/798/265.htm)|
+||[小鹏 X9 新增 37.98 万元 610 Max 版本：全域 800V 高压 SiC 碳化硅平台 + 800V XPower 电驱](https://www.ithome.com/0/798/263.htm)|
+||[摩托罗拉 2025 款 Moto G Stylus 5G 手机渲染图曝光](https://www.ithome.com/0/798/262.htm)|
+||[三星 Galaxy S24 FE 手机渲染图再曝：Exynos 2400e 芯片，8GB 内存](https://www.ithome.com/0/798/261.htm)|
+||[小鹏 X9 上市 8 个月交付超 15000 辆：大家庭用户占比达 80%，BBA 车主增购占 80%](https://www.ithome.com/0/798/260.htm)|
+||[刘作虎分享手机摄像头凸起对比图，直言新机“有潜望”](https://www.ithome.com/0/798/259.htm)|
+||[全球首条搭载无 FMM 技术的第 8.6 代 AMOLED 生产线在合肥开工](https://www.ithome.com/0/798/258.htm)|
+||[英伟达发布 Llama-3.1-Nemotron-51B AI 模型：创新神经架构搜索等技术让单 H100 GPU 运行 4 倍以上负载](https://www.ithome.com/0/798/257.htm)|
+||[努比亚 Z60 Ultra 手机获推 MyOS 14.5.6 升级：桌面新增 AI 组件，优化相机功能和效果](https://www.ithome.com/0/798/256.htm)|
+||[IGN 联合创始人回应《黑神话：悟空》投票波动：没有操作票数，而是过滤了机器人](https://www.ithome.com/0/798/254.htm)|
+||[中国空军新型战机将于 11 月 12 日国际航空航天博览会公开亮相](https://www.ithome.com/0/798/253.htm)|
+||[漫步者花再 Halo 2.0 SE 多媒体音箱预售：1680 万色氛围灯、3 音源输入，首发 629 元](https://www.ithome.com/0/798/252.htm)|
+||[G32 高铁临时换车少一节车厢、一等座变站票，官方发布情况说明](https://www.ithome.com/0/798/251.htm)|
+||[千寻位置发布首款国民级卫星通信终端“北斗信使”，799.1 元](https://www.ithome.com/0/798/250.htm)|
+||[小米推出米家智能净烟机 P2：单烟机 3599 元，天然气烟灶套装 4599 元](https://www.ithome.com/0/798/248.htm)|
+||[5999 元起，索尼 INZONE 发布 OLED 电竞显示器新品 M10S、M10L 和 4K 电竞显示器 M9 II](https://www.ithome.com/0/798/247.htm)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[严重自动油罐计量系统漏洞威胁关键基础设施](https://www.anquanke.com/post/id/300390)|
+||[OpenAI Twitter 帐户在另一次黑客攻击后链接到加密骗局](https://www.anquanke.com/post/id/300393)|
+||[CISA 发布紧急公告：Ivanti vTM 漏洞CVE-2024-7593需立即修补](https://www.anquanke.com/post/id/300396)|
+||[新的 Valencia 勒索软件组织袭击企业并泄露数据后发出警告](https://www.anquanke.com/post/id/300400)|
+||[在Play商店中流行的相机和浏览器应用程序中发现Necro安卓恶意软件](https://www.anquanke.com/post/id/300403)|
+||[沃顿商学院教授预言：金融交易员或最先察觉人工智能超越人类](https://www.anquanke.com/post/id/300407)|
+||[一种用于网络钓鱼攻击的生成式人工智能恶意软件](https://www.anquanke.com/post/id/300410)|
+||[网络犯罪分子利用丑闻传播名为 PDiddySploit 的恶意软件](https://www.anquanke.com/post/id/300413)|
+||[CNNVD认证！360获评“核心技术支撑试点单位”等三项荣誉](https://www.anquanke.com/post/id/300418)|
+||[OpenAI 推出 ChatGPT 高级语音模式，带来更自然的对话体验](https://www.anquanke.com/post/id/300415)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[一位程序员的前半生](https://my.oschina.net/qinerg/blog/15990540)|
+||[火山引擎总裁谭待：豆包大模型“地板价”，仍有盈利空间](https://www.oschina.net/news/313442)|
+||[mybatis-mp：好用 方便 快捷 容易扩展，这是你没用过的全新 ORM 框架 ！！！](https://www.oschina.net/news/313436)|
+||[Fair Source：介于“开源”和“闭源”之间的新许可模式](https://www.oschina.net/news/313433/fair-source-license)|
+||[Eclipse 基金会成立新工作组，助力开源社区遵守全球法规](https://www.oschina.net/news/313422/eclipse-foundation-open-regulatory-compliance-working-group)|
+||[华为鸿蒙 HarmonyOS NEXT 将在国庆后公测](https://www.oschina.net/news/313414)|
+||[2024 开放原子开源生态大会 openKylin 参会指南全览](https://www.oschina.net/news/313401)|
+|[伪医生律师的博客](https://chidd.net/feed)|[木马屠城记](https://chidd.net/2024/09/25/mu-ma.html)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 职场话题 国企工资太低了呀](https://www.v2ex.com/t/1075664#reply23)|
+||[ 游戏 炉石今天回归了，大家有什么看法](https://www.v2ex.com/t/1075646#reply18)|
+||[ V2EX v2ex 最初是怎么发展起来的?](https://www.v2ex.com/t/1075635#reply46)|
+||[ 投资 这次大 A 牛市能坚持几天啊，兄弟们怎么看](https://www.v2ex.com/t/1075628#reply21)|
+||[ 经济 关于 9.24 政策的一些思考](https://www.v2ex.com/t/1075623#reply23)|
+||[ Apple iPhone 16 Pro 续航真的很顶吗？](https://www.v2ex.com/t/1075622#reply18)|
+||[ 优惠信息 招行两个 微信支付优惠](https://www.v2ex.com/t/1075620#reply45)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[顶级游戏性能、大电池加上超薄机身，iQOO Z9 Turbo+ 正式发布](http://www.toodaylab.com/83065)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[探究新零售订单体系（一）](https://www.woshipm.com/share/6119781.html)|
+||[客服中心从成本中心到价值创造者-应该承担起什么责任？](https://www.woshipm.com/share/6119858.html)|
+||[现如今，企业还需要做品牌公关吗？](https://www.woshipm.com/share/6119763.html)|
+||[民宿国庆档，木途美如何布局流量争夺战？](https://www.woshipm.com/it/6119793.html)|
+||[微信，有一些变化](https://www.woshipm.com/share/6119813.html)|
+||[未来3年裁员，你千万别掉进了这个“陷阱”](https://www.woshipm.com/share/6119790.html)|
+||[不懂复盘，再努力都是低水平重复](https://www.woshipm.com/share/6119788.html)|
+||[在职场，什么样的人更容易被提拔？](https://www.woshipm.com/share/6119752.html)|
+||[信息过滤器丨营销策略三部曲：品牌策略、产品策略、传播策略](https://www.woshipm.com/marketing/6119783.html)|
+||[SaaS业务中的销售业务模块设计（1）](https://www.woshipm.com/pd/6119724.html)|
+||[周活跃用户近30万，四周IAP收入超50万美元，这款能和偶像“谈恋爱”的海外AI聊天应用被小红书带火了？](https://www.woshipm.com/share/6119579.html)|
+||[TMS阶段性总结梳理一](https://www.woshipm.com/share/6119704.html)|
+||[产品经理AI基础：什么是 AI Agent（简洁版）](https://www.woshipm.com/share/6119350.html)|
+||[跨境电商精细化运营和后端产品架构](https://www.woshipm.com/share/6119498.html)|
+||[AI时代下12大岗位机会](https://www.woshipm.com/share/6119669.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[关云长千里走单骑：《三国演义》是如何塑造关羽忠义形象的](https://www.infzm.com/contents/279498)|
+||[陈慎芝的黑白香港丨封面人物](https://www.infzm.com/contents/279230)|
+|[标志情报局](http://www.logonews.cn/feed)|[富邦媒体科技 momo 在创立20周年之际更换新LOGO](https://www.logonews.cn/momo-tw-new-logo.html)|
+||[美国拉丁裔国家博物馆发布全新品牌LOGO，灵感来源于眼睛的虹膜](https://www.logonews.cn/national-museum-of-the-american-latino-logo.html)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[大奇迹日后的感悟](http://xueqiu.com/6451611049/305550476)|
+|[虎嗅](https://rss.huxiu.com/)|[高价推拿按摩，被社区医院打到了10元](https://www.huxiu.com/article/3508163.html?f=rss)|
+||[全球调研十几年，山姆开市客看一遍，叶国富终于选中永辉](https://www.huxiu.com/article/3508329.html?f=rss)|
+||[这个湖南最小地级市，竟是反向旅游首选地？](https://www.huxiu.com/article/3507883.html?f=rss)|
+||[名创优品入股永辉的十大联想](https://www.huxiu.com/article/3507864.html?f=rss)|
+||[又热闹了，OpenAI的加强版“Her”正式开放，压过了Gemini的大升级](https://www.huxiu.com/article/3507549.html?f=rss)|
+||[股价狂跌、沦为收购目标，昔日巨头英特尔何以至此？](https://www.huxiu.com/article/3490239.html?f=rss)|
+||[NASA都被坑了？为啥美国人还坚持用这些奇怪的单位？](https://www.huxiu.com/article/3503485.html?f=rss)|
+||[经济学中没有“免费午餐”](https://www.huxiu.com/article/3508144.html?f=rss)|
+||[端到端能带来新春天？深扒分裂的无人驾驶行业](https://www.huxiu.com/article/3507857.html?f=rss)|
+||[花近63亿元“抄底”永辉超市，名创优品市值蒸发百亿港元](https://www.huxiu.com/article/3507509.html?f=rss)|
+||[从郊野荒地变顶流网红，阿那亚大火背后鲜为人知的秘密](https://www.huxiu.com/article/3505539.html?f=rss)|
+||[想要给商家一个差评，变得越来越难了](https://www.huxiu.com/article/3507860.html?f=rss)|
+||[央行深度介入股市，大A有亲妈了？牛市要来了吗？](https://www.huxiu.com/article/3505542.html?f=rss)|
+||[西方电子产品全球遇冷，中国如何逆袭成赢家？](https://www.huxiu.com/article/3504760.html?f=rss)|
+||[华为Mate70系列整机已量产](https://www.huxiu.com/article/3507880.html?f=rss)|
+||[竞争不过就玩封锁，美国拟全面禁用中国智能网联汽车软硬件](https://www.huxiu.com/article/3505002.html?f=rss)|
+||[国新办发布会的历史意义：十年牛市的起点](https://www.huxiu.com/article/3503814.html?f=rss)|
+||[当韩影遭遇“破产”危机](https://www.huxiu.com/article/3507570.html?f=rss)|
+||[暴走50公里、写小时报，奇葩规定吓跑打工人](https://www.huxiu.com/article/3507567.html?f=rss)|
+||[A股的当下，很像巴菲特所说的“诺亚效应”时刻](https://www.huxiu.com/article/3507534.html?f=rss)|
+||[OpenAI突然推送高级语音模式，又抢了谷歌风头](https://www.huxiu.com/article/3507532.html?f=rss)|
+||[避险需求上升，黄金价格又创历史新高，会带来什么影响？](https://www.huxiu.com/article/3506025.html?f=rss)|
+|[奇客Solidot–传递最新科技情报](https://www.solidot.org/index.rss)|[印度争论有毒工作文化](https://www.solidot.org/story?sid=79338)|
+||[中国千元手机攻占东南亚市场](https://www.solidot.org/story?sid=79337)|
+||[Google 快照彻底死了](https://www.solidot.org/story?sid=79336)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[45 到 64 歲的中高齡族群應以高標促進體適能，為邁入高齡階段儲備餘裕](https://taiwan.chtsai.org/2024/09/25/zhonggaoling_zuqun/)|
+|[极客公园](http://www.geekpark.net/rss)|[爆火的华为「三折叠」背后，到底隐藏了多少黑科技](http://www.geekpark.net/news/341097)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[vim有必要学吗？我感觉VScode+SSH扩展更好用啊？](https://segmentfault.com/q/1010000045320513)|
+||[CLion报MinGW-w64 not found at: C:\Program Files\JetBrains\CLion 2024.2.2\bin\mingw咋回事啊？](https://segmentfault.com/q/1010000045320474)|
+||[通栏banner图片，如何不变形且内容完全显示不裁剪啊？](https://segmentfault.com/q/1010000045320396)|
+||[angular配合antd表格树形，为什么点击展开子集请求接口后增加数据却没显示?](https://segmentfault.com/q/1010000045320087)|
+||[docker Client.Timeout exceeded while awaiting headers？](https://segmentfault.com/q/1010000045319932)|
+|[少数派](http://sspai.me/feed)|[一日一技 用 Tasker 切换三星「即圈即搜」搜索源](https://sspai.com/post/92193)|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[“减肥神话”之下，山寨“司美格鲁肽”野蛮生长](https://www.infzm.com/contents/279517)|
+||[“十元店”入主“巨无霸”，名创优品也想“爆改”永辉](https://www.infzm.com/contents/279507)|
+|[蓝点网](https://www.landiannews.com/feed)|[苹果为macOS 15.1 iPhone屏幕镜像添加新功能 iPhone/Mac可以拖放复制文件](https://www.landiannews.com/archives/105947.html)|
+||[知名导演詹姆斯卡梅隆加入人工智能图像生成公司Stability AI的董事会](https://www.landiannews.com/archives/105950.html)|
+||[阿根廷再开先河：命令谷歌远程卸载Android设备上用户侧载安装的盗版应用](https://www.landiannews.com/archives/105949.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[力箭一号遥四运载火箭今早发射“一箭五星”，中科宇航已经将42颗卫星入轨｜钛快讯](https://www.tmtpost.com/7263285.html)|
+||[国内首个视频大模型Vidu正式开放API，并接入百度智能云千帆平台｜钛媒体AGI](https://www.tmtpost.com/7263343.html)|
+||[深度解读：OpenAI o1技术原理分析及产业影响](https://www.tmtpost.com/7263263.html)|
+||[2针管1年，一场攻克艾滋病的预演](https://www.tmtpost.com/7263200.html)|
+||[风口上的小型猪，能飞起来吗？](https://www.tmtpost.com/7263175.html)|
+||[优质资产摆上桌面，「复星系」又要开卖？](https://www.tmtpost.com/7262352.html)|
+||[鸭脖变“刺客”，啃不起了](https://www.tmtpost.com/7262606.html)|
+||[添可发布洗地机新品，地面清洁赛道还能怎么卷？ 科技前线](https://www.tmtpost.com/7262846.html)|
+||[叶国富63亿入主永辉，名创优品“倾家荡产”给京东解套？](https://www.tmtpost.com/7263127.html)|
+||[公开“牵手”永辉的第一天，名创优品损失149亿](https://www.tmtpost.com/7262567.html)|
+||[奇思妙想的年轻人，解锁无限创意的“替身经济”](https://www.tmtpost.com/7260929.html)|
+||[没人能空手离开名创优品，哪怕是侃爷](https://www.tmtpost.com/7262377.html)|
+||[白酒金字塔结构崩塌](https://www.tmtpost.com/7262764.html)|
+||[广东老板63亿买永辉：“大家看不懂就对了”](https://www.tmtpost.com/7263020.html)|
+||[中概股的好日子，快来了？](https://www.tmtpost.com/7262921.html)|
+||[在蚂蚁，员工多了一群“内包”同事](https://www.tmtpost.com/7263154.html)|
+||[《恋与深空》陷抄袭争议，但不影响它登顶App Store畅销总榜](https://www.tmtpost.com/7263049.html)|
+||[端到端能带来新春天？深扒分裂的无人驾驶行业](https://www.tmtpost.com/7263028.html)|
 |[知乎每日精选](https://www.zhihu.com/rss)|[Reverse-o1:OpenAI o1原理逆向工程图解](http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[铁路新规带来5个重要变化：开车后也能改签、24小时内可联程换车](https://m.cnbeta.com.tw/view/1446966.htm)|
 ||[中车青岛首列氢能源城际动车组CINOVA H发布 续航最高3000公里](https://m.cnbeta.com.tw/view/1446965.htm)|
