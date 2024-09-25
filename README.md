@@ -2,6 +2,107 @@
 
 |来源|标题|
 |---|---|
+|[知乎每日精选](https://www.zhihu.com/rss)|[Reverse-o1:OpenAI o1原理逆向工程图解](http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[铁路新规带来5个重要变化：开车后也能改签、24小时内可联程换车](https://m.cnbeta.com.tw/view/1446966.htm)|
+||[中车青岛首列氢能源城际动车组CINOVA H发布 续航最高3000公里](https://m.cnbeta.com.tw/view/1446965.htm)|
+||[OpenAI的加强版“Her”正式开放 压过了Gemini的“生产级”大升级……](https://m.cnbeta.com.tw/view/1446964.htm)|
+||[黄仁勋提前完成英伟达减持 套现超49亿元](https://m.cnbeta.com.tw/view/1446963.htm)|
+||[全球第四大锂生产国获首富看好 马斯克正寻求投资阿根廷](https://m.cnbeta.com.tw/view/1446962.htm)|
+||[陌陌被指“盲盒抽奖”欺诈：只许中小奖，大奖不兑现？](https://m.cnbeta.com.tw/view/1446961.htm)|
+||[硬件黑客成功让上古英特尔4004运行Linux 启动大约需要五天时间](https://m.cnbeta.com.tw/view/1446958.htm)|
+||[Google地图服务正在数十个国家更新街景图像](https://m.cnbeta.com.tw/view/1446955.htm)|
+||[CrowdStrike高管就全球IT大故障在国会道歉](https://m.cnbeta.com.tw/view/1446954.htm)|
+||[HomePod升级变砖 苹果紧急撤回测试版更新包](https://m.cnbeta.com.tw/view/1446948.htm)|
+||[ChatGPT高级语音助手正式上线 50多种语言、9种声线可选](https://m.cnbeta.com.tw/view/1446947.htm)|
+||[奥特曼：苹果前设计总监艾维人工智能项目不是手机](https://m.cnbeta.com.tw/view/1446941.htm)|
+|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[CrowdStrike 将引发的全球性故障归咎于“多种因素叠加”](https://www.freebuf.com/news/411697.html)|
+||[只需10分钟即可被绕过，Chrome浏览器最新cookie安全功能纸糊的一样？](https://www.freebuf.com/news/411689.html)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[如何降低新员工入职带来的网络风险](https://www.4hou.com/posts/0ML7)|
+||[2024年度关键信息基础设施安全保护论坛取得圆满成功](https://www.4hou.com/posts/LGPg)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ V2EX v2ex 最初是怎么发展起来的?](https://www.v2ex.com/t/1075635#reply19)|
+||[ 问与答 关于 9.24 政策的一些思考](https://www.v2ex.com/t/1075623#reply16)|
+||[ 优惠信息 招行两个 微信支付优惠](https://www.v2ex.com/t/1075620#reply21)|
+||[ 生活 恐惧和无力感。500 多万骗局可能任何人都会踩到（之一）](https://www.v2ex.com/t/1075618#reply40)|
+||[ 宽带症候群 移动宽带加钱能给公网 ipv4 吗？](https://www.v2ex.com/t/1075606#reply18)|
+||[ 问与答 民宿摄像头事件，不连同一网络是如何查找到偷拍摄像头的](https://www.v2ex.com/t/1075602#reply29)|
+||[ 咖啡 求推荐个国产咖啡豆手磨机，手冲](https://www.v2ex.com/t/1075596#reply25)|
+||[ 问与答 特斯拉 Model3 凭啥在打车平台能评到品质专车？每次打到，都感觉自己是大怨种。](https://www.v2ex.com/t/1075588#reply25)|
+||[ 程序员 赐教: 可否通过本地 PC 替代云端实现 Stable Diffusion 生图，降低本？](https://www.v2ex.com/t/1075587#reply18)|
+||[ Android 国内苦无统一推送的安卓久矣，为什么国家不出手？](https://www.v2ex.com/t/1075585#reply110)|
+||[ 问与答 联通乱扣费，免流应用却扣除通用流量](https://www.v2ex.com/t/1075584#reply22)|
+||[ 健康 休学对焦虑症康复有好处吗](https://www.v2ex.com/t/1075581#reply15)|
+||[ 云计算 国内云 cdn 为什么不能通过内网回源？](https://www.v2ex.com/t/1075579#reply12)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[喉咙经常咯痰有异物感，是咽炎吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%96%89%E5%92%99%E7%BB%8F%E5%B8%B8%E5%92%AF%E7%97%B0%E6%9C%89%E5%BC%82%E7%89%A9%E6%84%9F%EF%BC%8C%E6%98%AF%E5%92%BD%E7%82%8E%E5%90%97%EF%BC%9F)|
+||[每周运动多久才算达标？看看你合格了吗？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%AF%8F%E5%91%A8%E8%BF%90%E5%8A%A8%E5%A4%9A%E4%B9%85%E6%89%8D%E7%AE%97%E8%BE%BE%E6%A0%87%EF%BC%9F%E7%9C%8B%E7%9C%8B%E4%BD%A0%E5%90%88%E6%A0%BC%E4%BA%86%E5%90%97%EF%BC%9F)|
+||[以为在休息，实则让大脑变笨的 9 种行为](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BB%A5%E4%B8%BA%E5%9C%A8%E4%BC%91%E6%81%AF%EF%BC%8C%E5%AE%9E%E5%88%99%E8%AE%A9%E5%A4%A7%E8%84%91%E5%8F%98%E7%AC%A8%E7%9A%84%209%20%E7%A7%8D%E8%A1%8C%E4%B8%BA)|
+||[什么？鸡肉做的神仙小食，比薯片还上头！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E4%BB%80%E4%B9%88%EF%BC%9F%E9%B8%A1%E8%82%89%E5%81%9A%E7%9A%84%E7%A5%9E%E4%BB%99%E5%B0%8F%E9%A3%9F%EF%BC%8C%E6%AF%94%E8%96%AF%E7%89%87%E8%BF%98%E4%B8%8A%E5%A4%B4%EF%BC%81)|
+|[MMLSL - 美女圖片性感寫真](https://www.mmlsl.com/feed/)|[性感模特龃鼻掏温阈赜栈竺劳](https://www.mmlsl.com/xgmn/3043.html)|
+||[性感模特丁字裤展示火辣身材](https://www.mmlsl.com/xgmn/3044.html)|
+||[性感模特艾尚真绝美内衣写真](https://www.mmlsl.com/xgmn/3042.html)|
+||[性感名模康迪斯_斯瓦内普尔比基尼S身材](https://www.mmlsl.com/xgmn/3041.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ V2EX v2ex 最初是怎么发展起来的?](https://www.v2ex.com/t/1075635#reply20)|
+|[IT之家](https://www.ithome.com/rss/)|[魅族推出 PANDAER Air Pro 3 半入耳降噪耳机：12.4mm 镀钛振膜单元，249 元](https://www.ithome.com/0/798/233.htm)|
+||[OpenAI o1 AI 模型 PlanBench 规划能力实测：准确率 97.8%，远超 LLaMA 3.1 405B 创造的 62.6% 纪录](https://www.ithome.com/0/798/232.htm)|
+||[谷歌 Gemini 1.5 AI 模型再进化：成本更低、性能更强、响应更快](https://www.ithome.com/0/798/231.htm)|
+||[瑞士首次使用“安乐死胶囊舱”，相关人员涉嫌协助自杀被捕](https://www.ithome.com/0/798/230.htm)|
+||[0.44 英寸实现 FHD 分辨率：索尼发布 10000 尼特亮度 OLED 微型显示器](https://www.ithome.com/0/798/229.htm)|
+||[全球排名第一，消息称“纳米发电机之父”王中林离美回中国任职](https://www.ithome.com/0/798/228.htm)|
+||[PowerA Fusion Pro 无线手柄开启预售：Xbox 原生震动、高度可调霍尔摇杆，首发 839 元](https://www.ithome.com/0/798/227.htm)|
+||[小鹏 P7+ 官宣 10 月发布，何小鹏期望称其为“全球首款 AI 汽车”](https://www.ithome.com/0/798/226.htm)|
+||[小米汽车二期工厂部分地基已建成，有望再掷超 2 亿元拿地扩产](https://www.ithome.com/0/798/224.htm)|
+||[OpenAI 上线高级语音模式：翻开 AI 语音聊天新篇章，能用中文等 50 多种语言说“抱歉我迟到了”](https://www.ithome.com/0/798/223.htm)|
+||[华为 Mate 70 系列被曝整机已量产，定于 11 月上市](https://www.ithome.com/0/798/222.htm)|
+||[小米米家声波扫振电动牙刷发布：支持漏刷提醒、约 180 天续航，众筹价 119 元](https://www.ithome.com/0/798/221.htm)|
+||[LG 向第三方游戏显示器开放 webOS Hub 平台授权，首款产品为宏碁 GS272U M](https://www.ithome.com/0/798/220.htm)|
+||[大众携手谷歌，率先邀请约 12 万名车主免费使用 Gemini AI](https://www.ithome.com/0/798/219.htm)|
+||[“中国天眼”再升级：FAST 核心阵试验样机建设启动，增加 24 台“小天眼”](https://www.ithome.com/0/798/218.htm)|
+||[OriginOS 5 系统内测招募开启：支持 vivo X100、Fold 3、iQOO 12 系列等机型](https://www.ithome.com/0/798/217.htm)|
+||[哔哩哔哩游戏《碧蓝航线》上架华为鸿蒙 HarmonyOS NEXT 应用商店](https://www.ithome.com/0/798/215.htm)|
+||[上线 5 个月，全国汽车以旧换新信息平台已收到报废更新补贴申请超 113 万份](https://www.ithome.com/0/798/214.htm)|
+||[索尼推出《堡垒之夜》联名款 PS5 DualSense 无线控制器，84.99 美元](https://www.ithome.com/0/798/213.htm)|
+||[富士康全新电动车型 Model D 宣布 10 月 8 日亮相](https://www.ithome.com/0/798/212.htm)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[国内云 cdn 为什么不能通过内网回源？](https://www.v2ex.com/t/1075579#reply11)|
+|[爱范儿](https://www.ifanr.com/feed)|[华为发布了智界版「Model Y」，26 万标配空悬+四门电吸，前备箱敲两下就能开](https://www.ifanr.com/1600265?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[苹果手机能被远程引爆？这个谣言有多离谱](https://www.ifanr.com/1600244?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[医疗领域新添多模态大模型，华大基因开启生物智能时代](https://www.tmtpost.com/7263176.html)|
+||[AI算力大考已至，服务器OS如何“真·好用”丨ToB产业观察](https://www.tmtpost.com/7262283.html)|
+||[界面财联社10年10事：打造媒体深融发展新样本](https://www.tmtpost.com/7263145.html)|
+||[OpenAI Rolls Out Advanced Voice Mode for ChatGPT to Paid Users, Supporting Over 50 Languages](https://www.tmtpost.com/7263161.html)|
+||[电装：跨国汽车零部件企业如何在中国减碳](https://www.tmtpost.com/7262630.html)|
+||[三折叠+仰望，国产科技的高端时代来了](https://www.tmtpost.com/7262407.html)|
+||[名创优品入主永辉超市，海内外“两副面孔”之后的“第三行动”](https://www.tmtpost.com/7262561.html)|
+||[暴走50公里、写小时报，奇葩规定吓跑打工人](https://www.tmtpost.com/7262911.html)|
+|[愛瘋日報](http://www.iphonetaiwan.org/feeds/posts/default)|[為什麼發生在蘋果上的任何小問題，在霉體眼中都是大災情](https://www.iphonetaiwan.org/2024/09/media-exaggerates-iphone-issues.html)|
+||[蘋果智慧家居：你沒想過的科技生活革命已經到來](https://www.iphonetaiwan.org/2024/09/apple-smart-home-integration.html)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[中国调查美国PVH集团，称其涉嫌“歧视”新疆产品](https://cn.nytimes.com/business/20240925/china-xinjiang-calvin-klein-tommy-hilfiger/)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[想问问科研大佬们一个问题，你们的论文最后怎么润色的?](https://www.zhihu.com/question/508715661)|
+||[如果你穿越成贾宝玉，你能阻止贾府的败落，或者至少给自己一个不错的结局吗？](https://www.zhihu.com/question/667574522)|
+||[传奇乐队林肯公园凯旋献声，如何评价《英雄联盟》S14 全球总决赛主题曲《王冠之重》及 MV？](https://www.zhihu.com/question/668030619)|
+||[朝鲜 U20 女足 1-0 击败日本，7 战全胜夺得 U20 世界杯冠军，怎样评价她们的表现？](https://www.zhihu.com/question/667936188)|
+||[西安一小区 8 岁女童坠井身亡，井口仅用胶合板覆盖，小区物业应承担哪些责任？悲剧背后哪些问题值得反思？](https://www.zhihu.com/question/668033543)|
+||[央行表示降低中央银行政策利率，7 天逆回购操作利率下调 0.2 个百分点，将产生哪些影响？](https://www.zhihu.com/question/668023449)|
+||[如何评价黄磊？](https://www.zhihu.com/question/20497016)|
+||[电视剧《甄嬛传》中，为什么连宫女都敢欺负安陵容，却没人敢欺负叶澜依呢？](https://www.zhihu.com/question/667598198)|
+||[官方通报无锡虹桥医院骗保情况基本查实，医院法人、院长等 15 人已被采取刑事措施，将面临哪些处罚？](https://www.zhihu.com/question/668018197)|
+||[抛开荣誉谈实力，有哪些「足球」球员是真的很有实力？](https://www.zhihu.com/question/444096818)|
+||[为什么「hao123」慢慢退出人们的视线了？](https://www.zhihu.com/question/664363307)|
+||[以军称黎巴嫩真主党军事指挥系统「几乎被彻底瓦解」，发生了什么？目前当地局势如何？](https://www.zhihu.com/question/667846153)|
+||[职场或者社会中，帮助一个人，要不要图回报?](https://www.zhihu.com/question/667929082)|
+||[离岸人民币兑美元收复 7.0 关口，为去年 5 月以来首次，背后有哪些原因？未来走势如何？](https://www.zhihu.com/question/668120103)|
+||[如何评价恐虐？](https://www.zhihu.com/question/346582363)|
+||[贾诩到底有没有资格和荀彧荀攸一传？](https://www.zhihu.com/question/661996685)|
+||[《炉石传说》国服正式回归，你的体验如何？](https://www.zhihu.com/question/668119340)|
+||[给女朋友拍照常被吐槽，拍了一天也只有几张有满意的，有没有什么方法可以快速提高拍照技巧?](https://www.zhihu.com/question/668051324)|
+||[法律咨询公司一个案件收费 3000 元，我为什么要请律师？](https://www.zhihu.com/question/667911708)|
+||[商务部对美 PVH 集团启动不可靠实体清单调查，疑因其歧视涉疆产品，这意味着什么？将带来哪些影响？](https://www.zhihu.com/question/668053532)|
+||[9 月 25 日，中国人民解放军火箭军成功向太平洋发射洲际弹道导弹，释放了哪些信号？](https://www.zhihu.com/question/668129494)|
+||[如何看待西安石油大学教师张峰在社交媒体上发了 397 页 PDF 举报同学院两名老师学术不端？](https://www.zhihu.com/question/667902633)|
+||[市值缩水超两千亿的英特尔是「接受投资」还是「或被高通收购」？它该何去何从？](https://www.zhihu.com/question/667931885)|
+||[看完《火影忍者》感觉宇智波鼬太强了，如果不死的话他的成长潜力有多大？](https://www.zhihu.com/question/660907063)|
+||[感觉自己性格很压抑，习惯用「理智控制情绪」，怎么调适？](https://www.zhihu.com/question/667898329)|
+||[为什么龙门石窟那么大的佛像都可以拍照甚至合影，而好多寺庙却不给拍佛像？](https://www.zhihu.com/question/655679545)|
+||[为什么盛唐时长安城会经常严重饥荒，甚至人相食？](https://www.zhihu.com/question/667774664)|
+||[如何评价北京航空航天大学 2025 届电子信息工程学院学术保研率不到五分之一？](https://www.zhihu.com/question/667747154)|
 |[IT之家](https://www.ithome.com/rss/)|[苹果 Apple Card 储蓄账户年利率从 4.4% 下调至 4.25%](https://www.ithome.com/0/798/211.htm)|
 ||[鑫谷昆仑九重 KE-1300P 冰山版白金牌数字电源上市，1599 元](https://www.ithome.com/0/798/210.htm)|
 ||[华为 Sound Joy 2 音箱首销优惠 200 元：26 小时续航、IP67 防水，蓝牙版 799 元 / 智能版 999 元](https://www.ithome.com/0/798/209.htm)|
