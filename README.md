@@ -2,6 +2,96 @@
 
 |来源|标题|
 |---|---|
+|[牛叔 十分钟带你听好片](https://getpodcast.xyz/data/ximalaya/11534451.xml)|[2024最新爆炸爽片《乌鸦》，李小龙之子遗作重制版！](https://www.ximalaya.com/sound/760008382)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[《庆余年》短剧来袭，影视IP短剧化是“致敬经典”还是“炒隔夜饭”？](https://www.tmtpost.com/7264384.html)|
+||[高通，凭什么收购英特尔？](https://www.tmtpost.com/7264404.html)|
+||[预售价4799元，国产元萝卜AI机器人战胜两位国际象棋世界冠军｜钛媒体AGI](https://www.tmtpost.com/7264707.html)|
+||[空间智能公司“极佳视界”完成三轮共计近1亿元融资｜钛媒体AGI](https://www.tmtpost.com/7264676.html)|
+||[开店狂人叶国富的一场豪赌](https://www.tmtpost.com/7264344.html)|
+||[OpenAI Reported to Mull For-Profit Transition, First Giving Altman Equity](https://www.tmtpost.com/7264661.html)|
+||[锦江酒店的长租公寓，住满了酒店同行](https://www.tmtpost.com/7264347.html)|
+||[OpenAI CTO和两位技术大咖都跑了！据悉董事会要给CEO奥尔特曼7%股权｜钛媒体AGI](https://www.tmtpost.com/7264602.html)|
+||[白酒冰与火：白酒业，攻守分化](https://www.tmtpost.com/7264255.html)|
+||[淘宝网红张大奕，告别这个双十一](https://www.tmtpost.com/7264303.html)|
+||[中远海运科技韩懿：未来大模型要成为真正的“骨干和专家”丨2024 ITValue Summit 数字价值年会](https://www.tmtpost.com/7263237.html)|
+||[美联储降息，外贸面临挑战；Lemon8霸榜美国，字节欲复刻TikTok；全球二手市场规模将达 1.3 万亿美元｜一周「出海参考」（09.16-09.22）](https://www.tmtpost.com/7260042.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ 程序员 亲戚上小学一年级的女儿问我这个程序为什么不能运行](https://www.v2ex.com/t/1075959#reply37)|
+||[ 求职 麻烦各位面试官锐评一下我的简历](https://www.v2ex.com/t/1075954#reply18)|
+||[ Windows 有没有剪贴板历史记录的软件](https://www.v2ex.com/t/1075949#reply15)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[一口气降价50多万，宝马重新开打价格战？](http://www.huxiu.com/article/3509025.html?f=wangzhan)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[旅行社“哭穷”，OTA却赚翻了](https://www.huxiu.com/article/3512263.html?f=rss)|
+||[实体药店困局](https://www.huxiu.com/article/3511780.html?f=rss)|
+||[大西洋成非洲偷渡客“坟场”：老迈西班牙急需年轻劳力](https://www.huxiu.com/article/3511801.html?f=rss)|
+||[磁带是怎么记录你的青春的？它为什么适合盗版？](https://www.huxiu.com/article/3508725.html?f=rss)|
+||[用生成式AI去改变产业的最强公司，都在这里了](https://www.huxiu.com/article/3504997.html?f=rss)|
+||[《半熟男女》全员恶人，炸裂但不精彩](https://www.huxiu.com/article/3511405.html?f=rss)|
+||[第一批鸡娃的80后，已经“断供”了？](https://www.huxiu.com/article/3507558.html?f=rss)|
+||[蚂蚁集团与好大夫在线交易细节：尚未完成，价格约2亿美金](https://www.huxiu.com/article/3511385.html?f=rss)|
+||[还在追赶直播带货风口的人，被培训收割了](https://www.huxiu.com/article/3511437.html?f=rss)|
+||[刘德华同款，两万多的华为三折叠上手体验](https://www.huxiu.com/article/3487194.html?f=rss)|
+||[北京入秋：历史与现代交织的诗意](https://www.huxiu.com/article/3511429.html?f=rss)|
+||[优衣库财报揭秘：环中国区稳健增长，中国市场为何遇冷？](https://www.huxiu.com/article/3508708.html?f=rss)|
+||[审计行业变天，PE大举收购会计事务所](https://www.huxiu.com/article/3511777.html?f=rss)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[刚刚，Llama 3.2 来了！支持图像推理，还有可在手机上运行的版本](https://www.jiqizhixin.com/articles/2024-09-26-5)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[与梅洛尼在美国智库晚宴上互动画面引关注 马斯克否认存在恋爱关系](https://m.cnbeta.com.tw/view/1447118.htm)|
+||[全球首富未受邀参加英国顶级投资峰会 马斯克“大嘴”又惹火上身](https://m.cnbeta.com.tw/view/1447117.htm)|
+||[“国会山股神”被翻旧账 早知Visa有难佩洛西提前两个多月就抛了？](https://m.cnbeta.com.tw/view/1447116.htm)|
+||[Meta发布Llama 3.2轻量级AI模型 适用于移动设备](https://m.cnbeta.com.tw/view/1447115.htm)|
+||[波音将与工会恢复薪资谈判 罢工接近进入第三周](https://m.cnbeta.com.tw/view/1447114.htm)|
+||[Meta发布新一代头显Quest 3S：10月上市 起售价299美元](https://m.cnbeta.com.tw/view/1447109.htm)|
+||[三星与LG Display合作开发屏幕发声OLED技术](https://m.cnbeta.com.tw/view/1447108.htm)|
+||[OPPO刘波：暂时不会做三折叠手机 消费者需求不是那么强烈](https://m.cnbeta.com.tw/view/1447107.htm)|
+||[网友：5名同学毕业入职华为 6年后竟无一人离职](https://m.cnbeta.com.tw/view/1447106.htm)|
+||[PayPal将允许美国商家购买、持有和出售加密货币](https://m.cnbeta.com.tw/view/1447105.htm)|
+|[36氪](https://www.36kr.com/feed)|[你的跨境电商独立站，销量为什么起不来？](https://36kr.com/p/2965097845706759?f=rss)|
+||[36氪冯大刚：让AI通向物理世界丨AI Partner·2024具身智能大会](https://36kr.com/p/2966461476868103?f=rss)|
+|[极客公园](https://plink.anyfeeder.com/geekpark)|[从这场智能客服魔法对抗赛上，我看到了AGI落地的正确姿势](http://www.geekpark.net/news/341169)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[Apple TV+ 限時免費播放《Peanuts》節慶特輯 史努比陪你度過節日時光](https://applefans.today/2024-09-apple-tv-plus-peanuts-specials-for-free-this-holiday-season/)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[PLG战略在中国SaaS产品中的应用案例分析](https://www.woshipm.com/share/6120395.html)|
+||[SaaS业务中的销售业务模块设计【2】](https://www.woshipm.com/share/6120229.html)|
+||[电商系统：下单功能如何设计？拆解出来讲给你听](https://www.woshipm.com/share/6119864.html)|
+||[AI 投流卷哭创业者](https://www.woshipm.com/aigc/6120438.html)|
+||[TikTok Shop入美这一年，内容电商走向何方？](https://www.woshipm.com/share/6120437.html)|
+||[速递｜刚刚，OpenAI 发布了高级语音模式！](https://www.woshipm.com/share/6120435.html)|
+||[【数据治理】主数据识别的影响因素和识别方法](https://www.woshipm.com/share/6120216.html)|
+||[口腔消费医疗用户标签体系（上）](https://www.woshipm.com/pd/6120134.html)|
+||[浅析格式塔心理学对网页布局的影响](https://www.woshipm.com/share/6120235.html)|
+||[深入拆解供应链系统中的“多单位”设计](https://www.woshipm.com/pd/6119990.html)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[对付九头虫的时候，孙悟空和杨戬怎么突然成好兄弟了？](https://www.zhihu.com/question/667271073)|
+||[如何评价 2024 年 9 月米哈游《绝区零》1.2 凯撒卡池？](https://www.zhihu.com/question/668195274)|
+||[怎么判断孩子是不是学霸的料？](https://www.zhihu.com/question/487414207)|
+||[如果结婚生孩子愿意生几个孩子？](https://www.zhihu.com/question/668221041)|
+||[柜子是木工打比较好还是全屋定制比较好?](https://www.zhihu.com/question/666194932)|
+||[人人都在说「去客厅化」，跟风扔掉客厅三大件后为什么反而后悔了？](https://www.zhihu.com/question/666298080)|
+||[现在的新能源车都在做增程和智驾，到底哪款才是天花板？](https://www.zhihu.com/question/668135024)|
+||[如何评价《脱口秀和 Ta 的朋友们》第六期？](https://www.zhihu.com/question/668071028)|
+||[为什么现在有很多人宁愿「躺平」也不愿意自降身价去找工作？](https://www.zhihu.com/question/667996357)|
+||[想给家里的「老破小」重新改造，把有限的预算投资在哪可以实现「差等生」逆袭？](https://www.zhihu.com/question/665982215)|
+||[人性本善与人性本恶论，你赞成哪种？](https://www.zhihu.com/question/668050396)|
+||[我国出台促进高质量充分就业的 24 条举措，如何解读？会有什么影响？](https://www.zhihu.com/question/668218708)|
+||[如果你是面试官，你会选择一个听话的普通员工，还是一个严肃且独立的能力者？](https://www.zhihu.com/question/667711311)|
+||[部门负责人应该做什么？不该做什么？](https://www.zhihu.com/question/667750171)|
+||[四大发明很重要吗？](https://www.zhihu.com/question/667841887)|
+||[《黑神话：悟空》里的黄眉这么「小丑」为什么弥勒还要留着他呢？](https://www.zhihu.com/question/667977091)|
+||[动不动就 800V，大功率充电桩，有一天会压垮国家电网吗？](https://www.zhihu.com/question/665890794)|
+||[为什么菩提祖师看到孙悟空卖弄了一下变化就把他赶走还一点情面不留？](https://www.zhihu.com/question/667620165)|
+||[身家千万老板破产，法院 4 元拍卖雪碧，为何一瓶雪碧也要拍卖？法院拍卖还拍过哪些意料之外的东西？](https://www.zhihu.com/question/667925572)|
+||[吉林一公司禁止员工携带苹果手机进入，人社局回应「被开除可投诉举报」，此项规定是否合理合法？](https://www.zhihu.com/question/668162829)|
+||[一斤电够全世界用多久？](https://www.zhihu.com/question/667623347)|
+||[中国足协要求各俱乐部 12 月下旬必须解决欠薪，否则无法准入，这意味着什么？有何影响？](https://www.zhihu.com/question/668206642)|
+||[孙悟空驾云驮不动唐僧是真的假的？](https://www.zhihu.com/question/666930202)|
+||[博主爆料「EDG 中辅教练均被解约，不再大投入，改️瓦」，是什么原因，S14 若 LPL 夺冠，会有改观吗？](https://www.zhihu.com/question/668077551)|
+||[相亲的正确流程是什么？](https://www.zhihu.com/question/428728172)|
+||[从石宇奇巴黎奥运会之后的状态来看，退役对他来说会是正确的选择吗？](https://www.zhihu.com/question/668143395)|
+||[如何评价 OpenAI CTO Mira Murati 官宣从 OpenAI 离职？](https://www.zhihu.com/question/668239689)|
+||[电视剧《封神演义》中的龙须虎，封神榜上无名姓，为什么最后还能封神？](https://www.zhihu.com/question/498574595)|
+||[向佐主演的电影《门前宝地》上映 6 天票房仅 140 万，你觉得向佐应该怎么突破才能拍出好电影？](https://www.zhihu.com/question/668141121)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[行人地獄走過一回](https://taiwan.chtsai.org/2024/09/26/xingren_diyu/)|
+|[知足常乐-水星投资理财的基本意念](http://mercurychong.blogspot.com/feeds/posts/default)|[哪一年不難？](http://mercurychong.blogspot.com/2024/09/blog-post_25.html)|
+|[柴郡猫](https://www.cheshirex.com/feed)|[Linux删除大量小文件的方式](https://www.cheshirex.com/8686.html)|
+|[KAIX.IN](https://kaix.in/feed/)|[近来](https://kaix.in/2024/0926/)|
+|[蓝点网](https://www.landiannews.com/feed)|[迪士尼今起开始打击账号密码共享 同时推出付费共享计划每子账户6.99美元/月](https://www.landiannews.com/archives/105970.html)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？](http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
 |[V2EX](https://www.v2ex.com/index.xml)|[ 生活 求推荐男士袜子（逃](https://www.v2ex.com/t/1075936#reply15)|
 ||[ 问与答 如何电子化一本纸质图书？](https://www.v2ex.com/t/1075914#reply13)|
 ||[ 汽车 为啥还有人推荐极氪？真•你买我推荐？](https://www.v2ex.com/t/1075909#reply12)|
