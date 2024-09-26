@@ -2,6 +2,38 @@
 
 |来源|标题|
 |---|---|
+|[少数派](http://sspai.me/feed)|[派早报：魅族推出多款新品、Nothing Ear open 正式公开等](https://sspai.com/post/92557)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[CTO前脚刚走，OpenAI后训练负责人、首席研究官也走了，网传公司要给奥特曼7%股权](https://www.jiqizhixin.com/articles/2024-09-26-4)|
+||[调研219篇文献，全面了解GenAI在自适应系统中的现状与研究路线图](https://www.jiqizhixin.com/articles/2024-09-26-3)|
+||[斯坦福新作：无指令调优的指令遵循](https://www.jiqizhixin.com/articles/2024-09-26-2)|
+||[突发！OpenAI CTO Mira Murati离职，高层动荡继续](https://www.jiqizhixin.com/articles/2024-09-26)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[今年国庆，机票酒店都降价了？](https://www.huxiu.com/article/3509767.html?f=rss)|
+||[一口气降价50多万，宝马重新开打价格战？](https://www.huxiu.com/article/3509025.html?f=rss)|
+||[88岁“天际奶奶”宣布隐退，九年陪伴落下帷幕](https://www.huxiu.com/article/3509808.html?f=rss)|
+|[反斗限免](https://free.apprcn.com/feed/)|[免费获取字体包 Mega Handlettered Font Bundle Windows、macOS $617→0 ](https://free.apprcn.com/get-mega-handlettered-font-bundle-for-free/)|
+||[免费获取 Steam 游戏 Sugar Tanks 2 Windows ](https://free.apprcn.com/get-steam-game-sugar-tanks-2-for-free/)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[360 浏览器怎么就成了程序员的鄙视链低端？](https://www.v2ex.com/t/1075853#reply130)|
+||[大佬们，想请教一下数据库设计](https://www.v2ex.com/t/1075881#reply24)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ 问与答 发布第三天，被最大的竞争对手攻击了，为什么？](https://www.v2ex.com/t/1075891#reply13)|
+||[ 投资 熊猫金银币回收是真是假？](https://www.v2ex.com/t/1075889#reply12)|
+||[ 硬件 除了 NAS 和软路由，还有什么适合在家自己 DIY 折腾的程序员玩具？](https://www.v2ex.com/t/1075886#reply18)|
+||[ 问与答 十一的票你们买到了吗](https://www.v2ex.com/t/1075885#reply21)|
+|[虎嗅](https://rss.huxiu.com/)|[我们为什么越来越不喜欢大富豪？](https://www.huxiu.com/article/3511436.html?f=rss)|
+||[再读凯恩斯](https://www.huxiu.com/article/3509775.html?f=rss)|
+||[我所见过的中东和黎巴嫩（一）](https://www.huxiu.com/article/3511431.html?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[英特尔陷入绝境，三分大势七分错误在自己](https://www.tmtpost.com/7264072.html)|
+||[China Lowers Medium-Term Loan Rate following Massive Stimulus Package](https://www.tmtpost.com/7264288.html)|
+||[OpenAI Chief Technology Office Resigns in Top Management Shuffle](https://www.tmtpost.com/7264415.html)|
+||[AI 投流卷哭创业者](https://www.tmtpost.com/7264128.html)|
+||[最高年薪达300万元！成都高新区发布一批优质高能级岗位](https://www.tmtpost.com/7264426.html)|
+|[36氪](https://36kr.com/feed)|[广深两大都市圈，正在相互渗透](https://36kr.com/p/2966256845017350?f=rss)|
+||[CEO锦囊｜卫星如何影响你我生活？](https://36kr.com/p/2966259772379394?f=rss)|
+|[爱范儿](https://www.ifanr.com/feed)|[乐道 L60 爆火！是租电还是买断？我们帮你算好了这笔账](https://www.ifanr.com/1600449?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[3大系统架构设计-业务系统篇](https://www.woshipm.com/pd/6119971.html)|
+||[渠道分析从入门到精通，一篇全搞定02](https://www.woshipm.com/share/6120286.html)|
+||[经济下行期，面临低谷的创业公司如何自救](https://www.woshipm.com/share/6119967.html)|
+||[大模型时代（4）： 知识力——构建完备的知识处理能力](https://www.woshipm.com/share/6119934.html)|
+||[中东观察：沙特支付应用下载飙升，社交电商平台成新宠](https://www.woshipm.com/share/6120194.html)|
 |[36氪](https://plink.anyfeeder.com/36kr)|[沪指触及2900点，A股行情新起点？｜氪金·金融](https://36kr.com/p/2966110711255303?f=rss)|
 |[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[华为三折叠的价格“过山车” 黄牛被“套牢”](https://m.cnbeta.com.tw/view/1447073.htm)|
 |[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 Pro 升級 重點 只剩攝影？](https://applefans.today/2024-09-iphone-16-pro-reviews/)|
