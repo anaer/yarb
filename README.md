@@ -2,6 +2,56 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 求推荐男士袜子（逃](https://www.v2ex.com/t/1075936#reply15)|
+||[ 问与答 如何电子化一本纸质图书？](https://www.v2ex.com/t/1075914#reply13)|
+||[ 汽车 为啥还有人推荐极氪？真•你买我推荐？](https://www.v2ex.com/t/1075909#reply12)|
+||[ 职场话题 还要继续交社保吗](https://www.v2ex.com/t/1075908#reply22)|
+||[ 问与答 虚心请教： 10.回家的路上漫长的高铁时间你们都干啥？求推荐游戏，不氪的那种。](https://www.v2ex.com/t/1075899#reply16)|
+|[蓝点网](https://www.landiannews.com/feed)|[贝宝 PayPal 宣布面向美国企业推出加密货币交易服务 可以购买/出售/持有](https://www.landiannews.com/archives/105969.html)|
+||[任天堂经典迷你红白机/迷你主机将在现有零部件耗尽后停止提供维修服务](https://www.landiannews.com/archives/105968.html)|
+||[LG也开始在电视屏保切换时投放广告 只要电视开着就会显示广告](https://www.landiannews.com/archives/105967.html)|
+||[有网友发现自己的iPhone异常丢失所有拍摄的视频 但照片不存在丢失的情况](https://www.landiannews.com/archives/105966.html)|
+||[加密钱包提供的虚拟支付卡OneKey Card将在10月31日关停 用户需及早提现](https://www.landiannews.com/archives/105965.html)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775731)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[台湾和美国将联手制造无人机，抗衡中国产业主导地位](https://cn.nytimes.com/asia-pacific/20240926/us-taiwan-drones-china/?utm_source=RSS)|
+|[标志情报局](http://www.logonews.cn/feed)|[南非电信公司 Cell C 启用新LOGO，类似权符号的「©」打开了口](https://www.logonews.cn/cell-c-new-logo.html)|
+||[俄罗斯电信运营商Tele2更名为「t2」并启用新LOGO](https://www.logonews.cn/tele2-russia-new-logo.html)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[这样的网站过滤显示多少条的数据需要怎么实现？](https://segmentfault.com/q/1010000045324548)|
+||[vite自动引入，eslint报错应该如何解决？](https://segmentfault.com/q/1010000045324534)|
+||[php中使用exec调用php脚本偶而卡住的问题？](https://segmentfault.com/q/1010000045324478)|
+||[ubuntu22.04连gcc都安装不了咋回事啊？](https://segmentfault.com/q/1010000045324469)|
+||[html引入element plus出现表格错乱？](https://segmentfault.com/q/1010000045324214)|
+||[CentOS KVM虚拟机桥接网络无法相互ping通，如何解决？](https://segmentfault.com/q/1010000045324204)|
+||[Vim 中如何将两个文件的不同之处输出并保存到新文件？](https://segmentfault.com/q/1010000045324141)|
+||[如何在uniapp的picker日期选择器中仅显示可选年份？](https://segmentfault.com/q/1010000045324106)|
+||[如何解决Vue中URL查询参数传递时的特殊字符转义问题？](https://segmentfault.com/q/1010000045323844)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[黑客声称窃取了 8700 万条数据记录后，Temu 否认存在违规行为](https://www.4hou.com/posts/W1qW)|
+||[Android 恶意软件“Necro”通过 Google Play 感染 1100 万台设备](https://www.4hou.com/posts/EyxN)|
+||[国投智能入选首个AI安全产业图谱](https://www.4hou.com/posts/PGYz)|
+||[国家数据局首次发布！国投智能参与项目入选城市全域数字化转型典型案例](https://www.4hou.com/posts/QXO7)|
+||[CACTER直播预告：AI加剧邮件安全威胁，网关防护策略升级](https://www.4hou.com/posts/RXLL)|
+|[Xieisabug](https://www.xiejingyang.com/feed/)|[工具-Zed Workflow](https://www.xiejingyang.com/2024/09/26/tools-zed-workflow/)|
+||[工具-Aider](https://www.xiejingyang.com/2024/09/26/tools-aider/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[拐卖儿童案怎么追偿？高空抛物如何定责？民法典司法解释来了](https://www.infzm.com/contents/279585)|
+||[贪污上亿元，青海省粮食局原局长顾艳华一审被判无期徒刑](https://www.infzm.com/contents/279580)|
+||[前八月居民家庭火灾突出，近半亡者为老人](https://www.infzm.com/contents/279572)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[智源研究院发布中文互联网语料库 CCI3.0](https://www.oschina.net/news/313593)|
+||[JavaScript 作为一门开放语言，怎么就成了 Oracle 的商标了？](https://www.oschina.net/news/313585/oracle-owns-javascript)|
+||[“稚晖君”创业公司开源 AimRT，面向现代机器人领域的运行时开发框架](https://www.oschina.net/news/313581)|
+||[我国 5G 基站突破 400 万个](https://www.oschina.net/news/313572)|
+||[Meta 发布 Llama 3.2 多模态 AI 模型](https://www.oschina.net/news/313571/llama-3-2-vision-edge-mobile-devices)|
+||[为何没有 deepin 24 版本？](https://www.oschina.net/news/313564)|
+|[少数派](https://sspai.com/feed)|[在西域古城喀什噶尔，我想追求的只有快乐](https://sspai.com/post/92389)|
+|[爱范儿](https://www.ifanr.com/feed)|[OpenAI 不 Open 了？公司重组、高层地震，但也没坏得那么糟糕](https://www.ifanr.com/1600604?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[](http://blog.fivest.one/feed)|[三重门 – 1](https://blog.fivest.one/archives/6858)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[谷歌向欧盟申诉微软云服务不公平](http://www.ftchinese.com/story/001104313)|
+|[36氪](https://36kr.com/feed)|[AI Partner·2024具身智能大会冯大刚致辞](https://36kr.com/p/2966352375107589?f=rss)|
+||[给扫地机装上仿生机械足，「追觅科技」五款新品发布｜最前线](https://36kr.com/p/2966346138063113?f=rss)|
+||[OpenAI高层再震荡：CTO离职，Sora恐长期停滞？ 最前线](https://36kr.com/p/2966300948287753?f=rss)|
+||[CEO锦囊·出海季｜硬件出海，如何做好本地化？](https://36kr.com/p/2966262295187716?f=rss)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[HP报告：已在野外发现生成式AI制作的恶意软件有效载荷](https://www.freebuf.com/news/411801.html)|
+||[谷歌称用 Rust编写代码，五年漏洞数下降了68%](https://www.freebuf.com/news/411787.html)|
+|[工劳小报｜工劳快讯](https://newsletter.laborinfocn.com/rss)|[六十退休为何难｜工劳小报 #49 新闻刊](https://feed.laborinfocn7.com/issue49-news/)|
 |[少数派](http://sspai.me/feed)|[派早报：魅族推出多款新品、Nothing Ear open 正式公开等](https://sspai.com/post/92557)|
 |[机器之心](https://www.jiqizhixin.com/rss)|[CTO前脚刚走，OpenAI后训练负责人、首席研究官也走了，网传公司要给奥特曼7%股权](https://www.jiqizhixin.com/articles/2024-09-26-4)|
 ||[调研219篇文献，全面了解GenAI在自适应系统中的现状与研究路线图](https://www.jiqizhixin.com/articles/2024-09-26-3)|
