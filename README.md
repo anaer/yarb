@@ -2,6 +2,85 @@
 
 |来源|标题|
 |---|---|
+|[RSSHub News - Tele...](https://rsshub.app/telegram/channel/awesomeRSSHub)|[RSSHub Radar - Firefox Add-on The monitoring task had failed 100 consecutive times. Your subscription to the RSS feed has been deactivated. To reactiv...](https://t.me/awesomeRSSHub/6829)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[徒法不能以自行——新慈善法配套三规章解读](https://www.infzm.com/contents/279668)|
+||[进口药消失了吗？来自“医改之城”三明的调查](https://www.infzm.com/contents/279688)|
+|[少数派](https://sspai.com/feed)|[不止于轻薄，我的 Apple Watch Series 10 一周体验](https://sspai.com/post/92560)|
+|[爱范儿](https://plink.anyfeeder.com/ifanr)|[徕卡搞了个富士「平替」，只要五万！](https://www.ifanr.com/1600844?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[以旧换新.patch 高校巡回，和 Apple 一起贴贴](https://www.ifanr.com/1600807?utm_source=rss&utm_medium=rss&utm_campaign=)|
+||[英特尔查明酷睿第 13&14 代桌面处理器不稳定原因，将推送修复更新代码彻底解决问题](https://www.ifanr.com/1600813?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[奇客Solidot–传递最新科技情报](http://feeds.feedburner.com/solidot)|[OpenAI 领导层变更令外界对其未来产生疑问](https://www.solidot.org/story?sid=79364)|
+||[Libgen 被勒令赔偿出版商 3000 万美元](https://www.solidot.org/story?sid=79363)|
+||[干细胞逆转女子的糖尿病](https://www.solidot.org/story?sid=79362)|
+||[企业和机构需要重新训练使用笔和纸](https://www.solidot.org/story?sid=79361)|
+||[Google 在俄罗斯限制创建新账号](https://www.solidot.org/story?sid=79360)|
+||[苹果从俄罗斯应用商店下架 60 款 VPN 应用](https://www.solidot.org/story?sid=79359)|
+|[FT中文网 - 今日焦点](http://www.ftchinese.com/rss/news)|[中国股市有望迎来2008年以来最佳单周表现](http://www.ftchinese.com/story/001104335)|
+||[宜家称对中国市场信心回升](http://www.ftchinese.com/story/001104334)|
+||[郑志刚辞任，新世界股价飙升](http://www.ftchinese.com/story/001104333)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[上交所罕见宕机背后，哪些IT服务商牵涉其中？｜钛媒体金融](https://www.tmtpost.com/7267078.html)|
+||[【科股一线拆解】科协主席呼吁探索汽车智能方案，网联信控优化将降低拥堵时长30%](https://www.tmtpost.com/7267053.html)|
+||[在数据浪潮中寻找平台企业发展新航向](https://www.tmtpost.com/7267041.html)|
+||[外资疯狂扫货，牛市来了？](https://www.tmtpost.com/7266684.html)|
+||[餐饮平价时代到来，价格战只是开始](https://www.tmtpost.com/7266909.html)|
+||[打完“价格战”，大模型还要比什么？](https://www.tmtpost.com/7266630.html)|
+||[9个月融资55亿元，中国商业航天要引爆了？](https://www.tmtpost.com/7266646.html)|
+||[“带货一哥”排队出海](https://www.tmtpost.com/7266884.html)|
+||[2024，电商容不下“李鬼”](https://www.tmtpost.com/7266803.html)|
+|[清华大学 TUNA 协会](https://tuna.moe/feed.xml)|[event: 金枪鱼之夜：咖啡馆沙龙 - 补充通知](https://tuna.moe/event/2024/salon-update/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[加班文化盛行 印度民航很多飞行员每周飞超60小时](https://m.cnbeta.com.tw/view/1447296.htm)|
+||[罗永浩再刷屏：“上海都传我疯了！”](https://m.cnbeta.com.tw/view/1447295.htm)|
+||[LG联合Razer和联发科首次推出超低延迟蓝牙技术](https://m.cnbeta.com.tw/view/1447294.htm)|
+||[现在无需登录即可用Opera访问Aria AI](https://m.cnbeta.com.tw/view/1447293.htm)|
+||[隐藏的160 MHz限制正悄悄将iPhone 16的性能维持在Wi-Fi 6E水平](https://m.cnbeta.com.tw/view/1447292.htm)|
+||[罗永浩讲脱口秀称已还完8.24亿元欠款：还的钱能铺满13个足球场](https://m.cnbeta.com.tw/view/1447290.htm)|
+||[我们身边竟然藏着这么多“伪装者”](https://m.cnbeta.com.tw/view/1447289.htm)|
+||[淘宝全量上线微信支付 退货宝最高降幅达58%](https://m.cnbeta.com.tw/view/1447288.htm)|
+||[Intel委托出售欧洲总部 预计可卖900万英镑](https://m.cnbeta.com.tw/view/1447287.htm)|
+||[“前华人首富”币安创始人赵长鹏或于周五提前获释 此前被判四个月监禁](https://m.cnbeta.com.tw/view/1447285.htm)|
+||[交通运输部：国庆7天假期小客车免费通行全国收费公路](https://m.cnbeta.com.tw/view/1447284.htm)|
+||[拯救英特尔大作战：白宫据传将敲定85亿美元芯片拨款](https://m.cnbeta.com.tw/view/1447283.htm)|
+||[贾跃亭在美国吃上老家临汾牛肉丸子面 感叹每一口藏着家的味道](https://m.cnbeta.com.tw/view/1447282.htm)|
+||[奔驰最新淘汰车型名单公布 GLC/GLE轿跑SUV即将面临停产](https://m.cnbeta.com.tw/view/1447281.htm)|
+||[四龙齐飞！中核集团漳州核电4号机组核岛开工](https://m.cnbeta.com.tw/view/1447280.htm)|
+||[这枚IO挡板可能是被取消的GeForce RTX 4090 Ti "Ada"GPU的遗物](https://m.cnbeta.com.tw/view/1447279.htm)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[中国股市创16年来最大单周涨幅](https://cn.nytimes.com/business/20240927/asia-stocks-csi-300/dual)|
+||[为何马斯克这样的硅谷精英会支持特朗普](https://cn.nytimes.com/opinion/20240927/silicon-valley-trump/dual)|
+||[廉价机票和被删除的信息：亚当斯案起诉书的10个关键细节](https://cn.nytimes.com/usa/20240927/nyc-mayor-eric-adams-indictment-takeaways/dual)|
+|[V2EX - 技术](https://www.v2ex.com/feed/tab/tech.xml)|[萌新笔记本安装 Linux 接连受挫 斗胆前来请教前辈](https://www.v2ex.com/t/1076385#reply20)|
+||[怎么协助记忆不能忘的密码](https://www.v2ex.com/t/1076341#reply33)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[A股上市公司注意，ESG评级提升必备秘籍](https://www.huxiu.com/article/3516459.html?f=rss)|
+||[裁员潮席卷全球汽车业，欧洲成重灾区](https://www.huxiu.com/article/3516458.html?f=rss)|
+||[日本75%老年人选择再学习，如何改变老龄化社会？](https://www.huxiu.com/article/3515929.html?f=rss)|
+||[在舞台中央当观众：英特尔错过了什么？](https://www.huxiu.com/article/3515927.html?f=rss)|
+||[为什么现在是打流感疫苗的好时候？](https://www.huxiu.com/article/3516443.html?f=rss)|
+||[转转与红布林选择抱团取暖](https://www.huxiu.com/article/3516474.html?f=rss)|
+||[在投资世界，如何将认知能力变现？](https://www.huxiu.com/article/3516467.html?f=rss)|
+||[非标商业，真的是一门好生意吗？](https://www.huxiu.com/article/3515644.html?f=rss)|
+||[直击现场：百度“文心杯”创业大赛Demo Day，有何亮点？](https://www.huxiu.com/article/3515145.html?f=rss)|
+||[乐道被“捅刀”：愈演愈烈的车圈内战](https://www.huxiu.com/article/3514843.html?f=rss)|
+||[67岁石破茂圆梦：当选日本自民党总裁，将出任首相](https://www.huxiu.com/article/3515940.html?f=rss)|
+||[中日核污水争端后，日本为何突然妥协？](https://www.huxiu.com/article/3508701.html?f=rss)|
+||[轰油门：大刺激时代，开始了](https://www.huxiu.com/article/3515138.html?f=rss)|
+||[为什么越要求孩子孝顺，孩子越难爱我？](https://www.huxiu.com/article/3515899.html?f=rss)|
+||[辛巴和小杨哥：洪峰已过，神龛已塌](https://www.huxiu.com/article/3515094.html?f=rss)|
+||[主播赚了所有人的钱](https://www.huxiu.com/article/3515903.html?f=rss)|
+||[顶级豪门突然生变？郑志刚，宣布辞职](https://www.huxiu.com/article/3515895.html?f=rss)|
+|[36氪](https://36kr.com/feed)|[水系锌离子电池供应商「瀚为科技」获红杉种子基金投资，致力于提供高倍率、低成本、本征安全的储能方案 36氪首发](https://36kr.com/p/2963458185351430?f=rss)|
+||[创新研发固体氢动力无人机，“氢源智能”完成亿元B轮融资 36氪首发](https://36kr.com/p/2966368569643272?f=rss)|
+||[技术打破次元壁：《恋与深空》的狂奔与失控](https://36kr.com/p/2968009994916096?f=rss)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[国产电动汽车，为何鲜有召回？](http://www.huxiu.com/article/3516460.html?f=wangzhan)|
+||[A股上市公司注意，ESG评级提升必备秘籍](http://www.huxiu.com/article/3516459.html?f=wangzhan)|
+|[知乎每日精选](https://www.zhihu.com/rss)|[最新一期「优秀答主」名单揭晓，快来看看都有哪些宝藏答主~](http://zhuanlan.zhihu.com/p/722278385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)|
+|[张洪Heo](https://blog.zhheo.com/rss.xml)|[123云盘也开始收割了，事实证明靠免费来吸引用户然后再收割这招太好用](https://blog.zhheo.com/p/3aae.html)|
+|[虎嗅](https://rss.huxiu.com/)|[餐饮业正在穿越寒冬，巴奴杜中兵疾呼外行不要盲目开店](https://www.huxiu.com/article/3516700.html?f=rss)|
+||[疯狂的保研：举报同学，献血加分，规则盲盒](https://www.huxiu.com/article/3516703.html?f=rss)|
+||[我在人行道上被共享单车撞了](https://www.huxiu.com/article/3516464.html?f=rss)|
+||[最成功的NBA记者，也不想在这行终老了？](https://www.huxiu.com/article/3516500.html?f=rss)|
+||[随时享受阳光？科学疯子创业出售阳光](https://www.huxiu.com/article/3515941.html?f=rss)|
+||[OpenAI高管离职潮内幕曝光，Altman被批“爱赚钱，也爱宫斗”](https://www.huxiu.com/article/3515628.html?f=rss)|
+||[花了¥1699买了台内衣裤洗衣机，别问，问就是给自己的人生行了个方便](https://www.huxiu.com/article/3516456.html?f=rss)|
+||[国产电动汽车，为何鲜有召回？](https://www.huxiu.com/article/3516460.html?f=rss)|
 |[少数派](https://plink.anyfeeder.com/sspai)|[水獭周边 不割手、带着走，「拆獭」开箱刀大家这样说……](https://sspai.com/post/92561)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[常看手机眼睛不舒服？长期用它，真能呵护眼睛](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B8%B8%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9C%BC%E7%9D%9B%E4%B8%8D%E8%88%92%E6%9C%8D%EF%BC%9F%E9%95%BF%E6%9C%9F%E7%94%A8%E5%AE%83%EF%BC%8C%E7%9C%9F%E8%83%BD%E5%91%B5%E6%8A%A4%E7%9C%BC%E7%9D%9B)|
 |[反斗限免](http://free.apprcn.com/feed/)|[Defense Zone 3 Ultra HD - 战地防御 3 Android $2.99→0 ](https://free.apprcn.com/defense-zone-3-ultra-hd-24/)|
