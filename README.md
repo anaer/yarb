@@ -2,6 +2,56 @@
 
 |来源|标题|
 |---|---|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[CUPS 漏洞能使攻击者对Linux电脑远程执行任意代码](https://www.freebuf.com/news/411893.html)|
+|[36氪](http://36kr.com/feed)|[李小加：帮助小人物就是帮助大资本](https://36kr.com/p/2967882767962112?f=rss)|
+||[傅利叶创始人兼CEO顾捷：人形机器人没到价格战阶段，2025年行业产量将10倍增长 智涌专访](https://36kr.com/p/2966254243794948?f=rss)|
+|[椒盐豆豉](https://blog.douchi.space/index.xml)|[剥开科学中的偏见看雌性动物——读《Bitch》](https://blog.douchi.space/book-bitch/)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[新的恶意软件活动在 Docker 和 Kubernetes 中挖掘加密货币](https://www.anquanke.com/post/id/300472)|
+||[RAISECOM 网关中的严重漏洞被积极利用，数千人面临远程攻击](https://www.anquanke.com/post/id/300476)|
+||[网络犯罪分子入侵英国铁路网络 Wi-Fi](https://www.anquanke.com/post/id/300478)|
+||[新的 MIT 协议可在基于云的计算期间保护敏感数据](https://www.anquanke.com/post/id/300481)|
+||[HPE 修补了 Aruba PAPI 中的三个关键安全漏洞](https://www.anquanke.com/post/id/300484)|
+||[在 OpenPLC 中发现的严重 RCE 漏洞](https://www.anquanke.com/post/id/300487)|
+||[研究人员称十年前的严重漏洞影响所有 GNU/Linux 系统](https://www.anquanke.com/post/id/300491)|
+||[内存安全代码的采用使Android更安全](https://www.anquanke.com/post/id/300493)|
+||[Torq宣布C轮融资7000万美元，2024年融资总额达到1.12亿美元](https://www.anquanke.com/post/id/300496)|
+||[360数字安全联合运营中心正式揭牌，携手源宝科技共筑安全防线！](https://www.anquanke.com/post/id/300499)|
+|[SuiYan 碎言](https://suiyan.cc/rss.xml)|[ComfyUI 和 Flux.1 安装与使用教程](https://suiyan.cc/2024/20240927082723.html)|
+|[少数派](https://sspai.com/feed)|[我做了个 AI 助手，让「稍后读」清单学会自我管理](https://sspai.com/post/91575)|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[走进即将开幕的任天堂博物馆，看看“任饭”们可以能得到怎样的体验](http://www.toodaylab.com/83070)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[v-region v3.3.0，中国 4 级行政区划选择器](https://www.oschina.net/news/313775/v-region-3-3-0-released)|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[廉价机票和被删除的信息：亚当斯案起诉书的10个关键细节](https://cn.nytimes.com/usa/20240927/nyc-mayor-eric-adams-indictment-takeaways/)|
+||[Telegram如何成为犯罪分子和恐怖分子的游乐场](https://cn.nytimes.com/technology/20240927/telegram-crime-terrorism/)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[蘋果又釋出 AirPods Pro 2 韌體更新版本！這是 9 月的第三次更新](https://applefans.today/2024-09-27-airpods-pro-2-new-firmware-update/)|
+|[土豆不好吃](https://dmesg.app/feed)|[将 Cloudflare Workers 迁移到 Azure Function](https://dmesg.app/workers-function.html)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[餐饮生存战：平价消费时代，别盲目卷低价](https://www.huxiu.com/article/3515157.html?f=rss)|
+||[不养猫狗的年轻人，开始操心一块ENFP石头](https://www.huxiu.com/article/3514014.html?f=rss)|
+||[聊聊披着泛茶、大闸蟹、字画外衣的金融买卖](https://www.huxiu.com/article/3512682.html?f=rss)|
+||[当代年轻人，在AI实现婚纱照自由](https://www.huxiu.com/article/3514883.html?f=rss)|
+||[吉利、重汽、陕汽、解放等车企入局，醇氢汽车迎来发展拐点？](https://www.huxiu.com/article/3515634.html?f=rss)|
+||[“空姐不作为”](https://www.huxiu.com/article/3515633.html?f=rss)|
+||[古代中原王朝养马有多难？](https://www.huxiu.com/article/3513043.html?f=rss)|
+||[蔡崇信转身种葡萄](https://www.huxiu.com/article/3515626.html?f=rss)|
+||[VC/PE版解读：政策“组合拳”落地](https://www.huxiu.com/article/3515613.html?f=rss)|
+|[蓝点网](https://www.landiannews.com/feed)|[即日起淘宝全部订单均可使用微信支付 当然默认折叠其他支付的惯例还在](https://www.landiannews.com/archives/105977.html)|
+||[研究人员披露Linux高危漏洞部分细节 潜在影响极大建议各位部署缓解方案](https://www.landiannews.com/archives/105974.html)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 A 股疯了，连续三个交易日成交额突破万亿，今天交易所更是买到宕机](https://www.v2ex.com/t/1076295#reply14)|
+||[ 问与答 车险的套餐捆绑, 合理合法吗?](https://www.v2ex.com/t/1076278#reply11)|
+||[ 问与答 有没有办法第一时间获得国内各大新闻网站发布的文章？（5 秒内）](https://www.v2ex.com/t/1076270#reply12)|
+||[ 投资 牛市是不是真来了](https://www.v2ex.com/t/1076269#reply20)|
+||[ 问与答 各位买了小米 SU7 的实际使用体验如何](https://www.v2ex.com/t/1076267#reply16)|
+||[ 酷工作 吉比特这个公司怎么样，有大佬了解吗](https://www.v2ex.com/t/1076252#reply13)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[OpenAI人事地震24小时，奥特曼盟友Greg休假中发声，网友：你留下吗？](https://www.jiqizhixin.com/articles/2024-09-27-7)|
+||[与其造神，不如依靠群体的力量：这家公司走出了一条不同于OpenAI的AGI路线](https://www.jiqizhixin.com/articles/2024-09-27-6)|
+||[Layout工程师危，谷歌自动芯片设计AlphaChip问世，开放权重可外部定制](https://www.jiqizhixin.com/articles/2024-09-27-5)|
+||[英伟达RTX 5090功耗高达600W，32G显存，核心比5080多一倍](https://www.jiqizhixin.com/articles/2024-09-27-4)|
+||[形式化定理证明新突破：SubgoalXL框架让大模型在Isabelle中性能暴涨](https://www.jiqizhixin.com/articles/2024-09-27-3)|
+|[纽约时报双语版](https://plink.anyfeeder.com/nytimes/dual)|[Telegram如何成为犯罪分子和恐怖分子的游乐场](https://cn.nytimes.com/technology/20240927/telegram-crime-terrorism/dual)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[首发第三代骁龙7s，Redmi Note 14 系列发布 科技前线](https://www.tmtpost.com/7266567.html)|
+||[第九届“创客中国”视觉智能中小企业创新创业大赛决赛及颁奖典礼在杭圆满落幕](https://www.tmtpost.com/7266278.html)|
+||[A股这次能涨多久？](https://www.tmtpost.com/7266143.html)|
+||[TikTok Shop，“内容电商”竞速美区](https://www.tmtpost.com/7265817.html)|
+||[中国FPS玩家：从来没有这么爽过](https://www.tmtpost.com/7265760.html)|
 |[虎嗅网](https://www.huxiu.com/rss/0.xml)|[阿维塔07，把自己推进“火坑”](http://www.huxiu.com/article/3515120.html?f=wangzhan)|
 ||[从电脑配置到代码运行，量化投资小白入门全攻略](http://www.huxiu.com/article/3512693.html?f=wangzhan)|
 |[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[给扫地机装上仿生机械足，「追觅科技」五款新品发布｜最前线](https://36kr.com/p/2966346138063113)|
