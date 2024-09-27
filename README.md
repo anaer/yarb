@@ -2,6 +2,89 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://plink.anyfeeder.com/sspai)|[水獭周边 不割手、带着走，「拆獭」开箱刀大家这样说……](https://sspai.com/post/92561)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[常看手机眼睛不舒服？长期用它，真能呵护眼睛](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B8%B8%E7%9C%8B%E6%89%8B%E6%9C%BA%E7%9C%BC%E7%9D%9B%E4%B8%8D%E8%88%92%E6%9C%8D%EF%BC%9F%E9%95%BF%E6%9C%9F%E7%94%A8%E5%AE%83%EF%BC%8C%E7%9C%9F%E8%83%BD%E5%91%B5%E6%8A%A4%E7%9C%BC%E7%9D%9B)|
+|[反斗限免](http://free.apprcn.com/feed/)|[Defense Zone 3 Ultra HD - 战地防御 3 Android $2.99→0 ](https://free.apprcn.com/defense-zone-3-ultra-hd-24/)|
+||[免费获取一年播客平台 Pocket Casts Plus 服务 Web、Windows、macOS、iOS、Android ](https://free.apprcn.com/get-one-year-pocket-casts-plus-for-free/)|
+||[免费获取字体包 Special Deco Flower Font Bundle Windows、macOS $263→0 ](https://free.apprcn.com/get-special-deco-flower-font-bundle-for-free/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[重生之我在洪水袭城时是退休教师](https://www.infzm.com/contents/279674)|
+||[国家发改委：换车换家电都有补贴，3000亿元超长期国债全面下达](https://www.infzm.com/contents/279665)|
+||[央行“大礼包”来了：降准释放一万亿流动性 降息20BP为近四年最大](https://www.infzm.com/contents/279680)|
+|[标志情报局](http://www.logonews.cn/feed)|[Mozilla 重塑品牌，远古时代的恐龙用一种全新的面孔回归！](https://www.logonews.cn/mozilla-new-logo-2024.html)|
+||[韩国药品制造公司「京东制药」启用新LOGO](https://www.logonews.cn/kdpharma-new-logo.html)|
+|[南方周末-推荐](https://plink.anyfeeder.com/infzm/recommends)|[多地国道新增收费站，根源在于土地财政熄火丨快评](https://www.infzm.com/contents/279676)|
+|[36氪](http://36kr.com/feed)|[现代和起亚合作新电池项目，奥迪发布2025 Q6 E-tron｜海外日报](https://36kr.com/p/2967922329292800?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[成都双流：培塑特色园区，赋能主导产业提质增效](https://www.tmtpost.com/7266892.html)|
+||[天价离婚协议兑现失约，鼎信通讯实控人与前妻再对簿公堂，价值10.9亿的股份已缩水至2.6亿](https://www.tmtpost.com/7266702.html)|
+||[通策医疗拟5541万买下的实控人资产疑似空壳，此前实控人曾两度被罚](https://www.tmtpost.com/7266716.html)|
+||[AI硬件会缓解字节的FOMO情绪吗？](https://www.tmtpost.com/7265832.html)|
+||[匹配不了985的专科生，婚恋的尽头是“学历种姓制”](https://www.tmtpost.com/7265827.html)|
+||[乐道活该被人背后捅刀](https://www.tmtpost.com/7265938.html)|
+||[酒店“爆改”公寓写字楼，是门好生意吗？](https://www.tmtpost.com/7265923.html)|
+||[被罚1500万，年薪曾达2亿的恒大“打工皇帝”栽了](https://www.tmtpost.com/7265860.html)|
+||[9月27日A股分析：见证历史！创业板指暴涨10%，沪指逼近3100点，券商概念大爆发，两市成交额超1.4万亿元](https://www.tmtpost.com/7266754.html)|
+||[白酒业，经销、直营之争｜白酒冰与火③](https://www.tmtpost.com/7265997.html)|
+||[A股值得更多“泡沫”](https://www.tmtpost.com/7266005.html)|
+||[大卖在小众平台狂飙，两年半拿下5.7亿元](https://www.tmtpost.com/7266616.html)|
+||[默沙东的“后宫之战”](https://www.tmtpost.com/7266027.html)|
+||[当代年轻人，在AI实现婚纱照自由](https://www.tmtpost.com/7266144.html)|
+||[民宿业隐藏的摄像头和它那公开的难题](https://www.tmtpost.com/7266079.html)|
+||[“后谷歌时代”将近：如果输掉广告垄断案，谷歌将遭到“拆分”吗？](https://www.tmtpost.com/7266575.html)|
+||[盒马NB生意火爆](https://www.tmtpost.com/7266152.html)|
+||[麦当劳、肯德基、星巴克们开始拍短剧，短剧会成为品牌常规营销手段吗？](https://www.tmtpost.com/7266181.html)|
+||[美国对联网汽车拟议禁令广泛且严苛，中国汽车在美前景“几乎为零”](https://www.tmtpost.com/7266572.html)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[从数据加工到行为分析，案例演示教你快速开始「用户行为分析」【分析篇】](https://www.woshipm.com/pd/6120876.html)|
+||[头像在界面设计中的运用](https://www.woshipm.com/share/4582711.html)|
+||[麦当劳、肯德基、星巴克们开始拍短剧，短剧会成为品牌常规营销手段吗？](https://www.woshipm.com/marketing/6121228.html)|
+||[李飞飞创业后首次专访：空间智能不仅适用虚拟世界生成，还可融合现实世界，AI 技术进步将带来无法想象的新应用场景](https://www.woshipm.com/kol/6121077.html)|
+||[RAG实战篇：构建一个最小可行性的Rag系统](https://www.woshipm.com/ai/6121166.html)|
+||[谈谈我对数据要素现状及发展的理解](https://www.woshipm.com/share/6121352.html)|
+||[新零售业务中的缺量差异场景拆解](https://www.woshipm.com/pd/6121348.html)|
+||[调研｜金融行业垂类大模型的应用现状](https://www.woshipm.com/aigc/6121129.html)|
+||[参与调查即可提现，上千万美国人不顾隐私安全为钱“折腰”？](https://www.woshipm.com/share/6120942.html)|
+||[没钱的品牌怎么做好小红书投放？吃透这3个策略模型！](https://www.woshipm.com/share/6121266.html)|
+|[36氪](https://www.36kr.com/feed)|[稳居日本ESG排名前三，松下的秘诀是什么？ 碳案](https://36kr.com/p/2961648859336713?f=rss)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-27](https://decohack.com/producthunt-daily-2024-09-27/)|
+|[动点科技](http://cn.technode.com/feed/)|[绿色出行，HOR Industries 推出了世界上第一辆插电式混合动力 A 级房车](https://cn.technode.com/post/2024-09-27/go-hor-industries/)|
+||[拥抱可持续，西门子将开拓电动汽车充电业务](https://cn.technode.com/post/2024-09-27/siemens-to-go-ev/)|
+||[百小应试用体验：懂点搜索的 AI 助手](https://cn.technode.com/post/2024-09-27/bxy-tested/)|
+||[全国首个新型工业化推进办公室在上海徐汇设立](https://cn.technode.com/post/2024-09-27/sh-xh-niio/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[苹果Vision Pro 2将于2025年下半年投入量产 采用全新M5 SoC](https://m.cnbeta.com.tw/view/1447278.htm)|
+||[三星将推出 LTE 版经济型 Galaxy Watch FE 智能手表](https://m.cnbeta.com.tw/view/1447275.htm)|
+||[一加13跑分出炉：多核成绩首次破万 超越iPhone 16 Pro Max](https://m.cnbeta.com.tw/view/1447274.htm)|
+||[小米充电宝25000 212W开售：彩色数显屏 9重安全保护 售价549元](https://m.cnbeta.com.tw/view/1447273.htm)|
+||[厕所，凭什么成为打工人的“避难所”？](https://m.cnbeta.com.tw/view/1447272.htm)|
+||[西湖大学孵化的慕德微纳发布厚度仅0.55毫米AR眼镜](https://m.cnbeta.com.tw/view/1447271.htm)|
+||[国家广电总局研发微型机顶盒：U盘大小 插电视就能看](https://m.cnbeta.com.tw/view/1447270.htm)|
+||[京东确认双11前将接入支付宝支付](https://m.cnbeta.com.tw/view/1447269.htm)|
+||[医院设门诊专治数理化不好：3天已约满](https://m.cnbeta.com.tw/view/1447268.htm)|
+||[丰田终止奥林匹克全球合作伙伴协议 不再续约](https://m.cnbeta.com.tw/view/1447267.htm)|
+||[诺基亚智能手机时代彻底终结 HMD Global官网开始删除产品](https://m.cnbeta.com.tw/view/1447266.htm)|
+||[研究人员披露Linux高危漏洞部分细节 潜在影响极大](https://m.cnbeta.com.tw/view/1447265.htm)|
+||[即日起淘宝全部订单均可使用微信支付 当然默认折叠其他支付的惯例还在](https://m.cnbeta.com.tw/view/1447264.htm)|
+||[“AI妖股”超微电脑财务风险引发关注 “深度绑定”英伟达](https://m.cnbeta.com.tw/view/1447263.htm)|
+||[外卖从天而降 合肥饿了么无人机外卖正式启航](https://m.cnbeta.com.tw/view/1447257.htm)|
+||[马斯克“身材健美”引关注 被推测用了科技](https://m.cnbeta.com.tw/view/1447256.htm)|
+||[因未受邀参会破防了？马斯克又对英国政府破口大骂](https://m.cnbeta.com.tw/view/1447255.htm)|
+||[市场份额超80% 中国在电池零部件领域形成“统治级”优势](https://m.cnbeta.com.tw/view/1447254.htm)|
+||[巴西一航司计划订购4架C919 推动在巴获认证](https://m.cnbeta.com.tw/view/1447253.htm)|
+||[甩掉“最大财富输家”帽子 马斯克净资产大增7000亿](https://m.cnbeta.com.tw/view/1447252.htm)|
+||[Canalys：第二季度中国PC出货量下降6% 平板电脑市场增长20%](https://m.cnbeta.com.tw/view/1447251.htm)|
+||[传呼机爆炸案关键人物在美离奇失踪 挪威警方已发出国际通缉令](https://m.cnbeta.com.tw/view/1447250.htm)|
+||[Google又砸33亿美元 在南卡罗莱纳州拓展数据中心](https://m.cnbeta.com.tw/view/1447249.htm)|
+||[Arm据悉有意收购英特尔的产品部门 但被拒绝](https://m.cnbeta.com.tw/view/1447248.htm)|
+||[340万“新穷人”：阿根廷贫困率创逾20年新高](https://m.cnbeta.com.tw/view/1447247.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 近期香港自提热潮，记录一下香港自提流水账，供国庆赴港的朋友参考](https://www.v2ex.com/t/1076321#reply13)|
+||[ 宽带症候群 有拼车 FRP 的吗？](https://www.v2ex.com/t/1076303#reply14)|
+||[ 程序员 独立站点或开发者如果防御 DDoS 攻击？](https://www.v2ex.com/t/1076301#reply17)|
+||[ 问与答 该怎么理解同事的这种行为](https://www.v2ex.com/t/1076298#reply25)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[B 站 CEO 陈睿：开源将会成为 AI 中的主流](https://www.oschina.net/news/313824)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[Xcode 16 在 macOS 15 中遇到 CFPrefsPlistSource 错误，如何解决？](https://segmentfault.com/q/1010000045328959)|
+||[MacOS 应用在 Xcode 16 下遇到 NSBundle MetalTools 警告，原因和解决方案？](https://segmentfault.com/q/1010000045328942)|
+||[这种效果是怎么实现的？还是单纯的用插件？](https://segmentfault.com/q/1010000045328806)|
+||[React-Grid-Layout怎么做到移动 拖拽 某个元素，拖拽到哪就停到哪?](https://segmentfault.com/q/1010000045328232)|
+||[使用kprobe监控do_filp_open函数， 参数获取失败，原因在哪里？](https://segmentfault.com/q/1010000045328182)|
+||[react onChange 输入一个字符触发2次调用？](https://segmentfault.com/q/1010000045328042)|
 |[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[CUPS 漏洞能使攻击者对Linux电脑远程执行任意代码](https://www.freebuf.com/news/411893.html)|
 |[36氪](http://36kr.com/feed)|[李小加：帮助小人物就是帮助大资本](https://36kr.com/p/2967882767962112?f=rss)|
 ||[傅利叶创始人兼CEO顾捷：人形机器人没到价格战阶段，2025年行业产量将10倍增长 智涌专访](https://36kr.com/p/2966254243794948?f=rss)|
