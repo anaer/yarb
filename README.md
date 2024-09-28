@@ -2,6 +2,37 @@
 
 |来源|标题|
 |---|---|
+|[理想生活实验室](http://www.toodaylab.com/feed)|[开始在中国发售的 MUJI Labo 2024 秋冬系列，有种“正式回归”的味道](http://www.toodaylab.com/83072)|
+|[动点科技](http://cn.technode.com/feed/)|[动察：冲击老牌设计，起亚重新思考电动货车产品](https://cn.technode.com/post/2024-09-28/kia-pv5-pv7/)|
+|[反斗限免](http://free.apprcn.com/feed/)|[免费获取 Steam 游戏 Horror Manor Windows ](https://free.apprcn.com/get-steam-game-horror-manor-for-free/)|
+||[WebSite X5 Go – 可视化网页设计制作软件 Windows $19.95→0 ](https://free.apprcn.com/website-x5-go-19/)|
+|[Nicksxs's Blog](https://nicksxs.me/atom.xml)|[小技巧-用iptables统计网速占用](https://nicksxs.me/2024/09/28/%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%94%A8iptables%E7%BB%9F%E8%AE%A1%E7%BD%91%E9%80%9F%E5%8D%A0%E7%94%A8/)|
+|[煎蛋](http://jandan.net/feed)|[你可以轻松改变个性，看看这几个简单的方法](http://jandan.net/p/117923)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[如何在 Git 不同分支中对通常在gitignore中的 .vscode 进行版本管理？](https://segmentfault.com/q/1010000045331192)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[“仇人”上台，日本告别“安倍经济学”？](https://www.huxiu.com/article/3520193.html?f=rss)|
+||[前华人首富赵长鹏重获自由身，接下来专心做“赵老师”？](https://www.huxiu.com/article/3520189.html?f=rss)|
+||[和ta在一起总是很累，也许你遇到了“能量吸血鬼”](https://www.huxiu.com/article/3520181.html?f=rss)|
+||[发展园区经济，需要“打破”园区？](https://www.huxiu.com/article/3519847.html?f=rss)|
+||[防城港，被低估的南方平价海鲜大城](https://www.huxiu.com/article/3519081.html?f=rss)|
+||[GPT-4o 打《黑神话·悟空》，AI“马喽”拿捏Boss ，胜率超人类](https://www.huxiu.com/article/3519363.html?f=rss)|
+||[目标1100多亿，韩国宠物市场到了超乎想象的地步？](https://www.huxiu.com/article/3519837.html?f=rss)|
+||[中年银行人：周期决定业绩，酒量决定职级](https://www.huxiu.com/article/3517156.html?f=rss)|
+|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[一些事实澄清 评论: 昨夜，北京 ](https://movie.douban.com/review/16208560/)|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[指甲总往肉里长，结果我得了这种病……](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%8C%87%E7%94%B2%E6%80%BB%E5%BE%80%E8%82%89%E9%87%8C%E9%95%BF%EF%BC%8C%E7%BB%93%E6%9E%9C%E6%88%91%E5%BE%97%E4%BA%86%E8%BF%99%E7%A7%8D%E7%97%85%E2%80%A6%E2%80%A6)|
+||[打喷嚏后的一个常见动作，很容易传染病毒](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%89%93%E5%96%B7%E5%9A%8F%E5%90%8E%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B8%B8%E8%A7%81%E5%8A%A8%E4%BD%9C%EF%BC%8C%E5%BE%88%E5%AE%B9%E6%98%93%E4%BC%A0%E6%9F%93%E7%97%85%E6%AF%92)|
+||[憋回去的屎，会在肠子里再次消化吗？ 8 个越早知道越好的便便真相](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E6%86%8B%E5%9B%9E%E5%8E%BB%E7%9A%84%E5%B1%8E%EF%BC%8C%E4%BC%9A%E5%9C%A8%E8%82%A0%E5%AD%90%E9%87%8C%E5%86%8D%E6%AC%A1%E6%B6%88%E5%8C%96%E5%90%97%EF%BC%9F%208%20%E4%B8%AA%E8%B6%8A%E6%97%A9%E7%9F%A5%E9%81%93%E8%B6%8A%E5%A5%BD%E7%9A%84%E4%BE%BF%E4%BE%BF%E7%9C%9F%E7%9B%B8)|
+||[快把你的旧内裤扔了吧！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%BF%AB%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%97%A7%E5%86%85%E8%A3%A4%E6%89%94%E4%BA%86%E5%90%A7%EF%BC%81)|
+||[小伤口也不能大意，正确处理的第一步应该是……](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%B0%8F%E4%BC%A4%E5%8F%A3%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%A4%A7%E6%84%8F%EF%BC%8C%E6%AD%A3%E7%A1%AE%E5%A4%84%E7%90%86%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%BA%94%E8%AF%A5%E6%98%AF%E2%80%A6%E2%80%A6)|
+|[雷蒙三十｜數位工作術・Notion ...](https://raymondhouch.com/feed)|[#144 – 我的筆記術的進化史／NotebookLM 好用嗎／教師節快樂 ®️雷蒙週報](https://raymondhouch.com/newsletter/144/)|
+|[南方周末-新闻](https://rsshub.app/infzm/2)|[应对人口变化，教育部提出发展综合高中等多项举措](https://www.infzm.com/contents/279722)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[万字长文：被疯传的高盛电话会究竟说了什么？](http://xueqiu.com/8315851674/306103345)|
+||[超脱牛熊](http://xueqiu.com/7913104177/306115865)|
+||[00后勇闯港股今年收益33%，兼谈投资逻辑和偏好](http://xueqiu.com/2142615056/305692932)|
+||[过去一周是检验宏观对冲策略最好的窗口期](http://xueqiu.com/1686401828/306089734)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 亲测 日版 iPhone16pm 海淘教程](https://www.v2ex.com/t/1076559#reply23)|
+||[ Vue.js 付费解决微信小程序报错： TypeError: Cannot read property 'id' of undefined](https://www.v2ex.com/t/1076522#reply11)|
+||[ Apple 一辈子都不打算换 Windows 系统，是不是 studio display 是苹果生态最好的选择](https://www.v2ex.com/t/1076518#reply47)|
+||[ Apple 又被 Apple Store 蠢材吧坑了一次](https://www.v2ex.com/t/1076517#reply11)|
 |[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[在中国，每年多少人因狂犬病而亡？｜世界狂犬病日](https://www.infzm.com/contents/279734)|
 ||[这场千人大会透露了哪些“确定性”？](https://www.infzm.com/contents/279730)|
 |[36氪](https://plink.anyfeeder.com/36kr)|[CSDN蒋涛：国内独立开发者要赚到钱，需要软件的创造成本真正降下来｜36氪专访](https://36kr.com/p/2968342173454343?f=rss)|
