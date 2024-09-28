@@ -2,6 +2,64 @@
 
 |来源|标题|
 |---|---|
+|[南方周末-新闻](https://plink.anyfeeder.com/infzm/news)|[在中国，每年多少人因狂犬病而亡？｜世界狂犬病日](https://www.infzm.com/contents/279734)|
+||[这场千人大会透露了哪些“确定性”？](https://www.infzm.com/contents/279730)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[CSDN蒋涛：国内独立开发者要赚到钱，需要软件的创造成本真正降下来｜36氪专访](https://36kr.com/p/2968342173454343?f=rss)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[苹果iPhone 16首周销量出炉，究竟是大涨还是不如预期？](https://36kr.com/p/2968219840204805)|
+||[9点1氪 浙江婚假从3天增加到13天；有线电视和IPTV全面取消开机广告；A股创业板指涨幅创历史记录](https://36kr.com/p/2968520409993220)|
+||[创新研发固体氢动力无人机，“氢源智能”完成亿元B轮融资 36氪首发](https://36kr.com/p/2966368569643272)|
+||[不交会员费，百万人每天直播逛山姆](https://36kr.com/p/2967844061925384)|
+|[cnBeta全文版](https://plink.anyfeeder.com/cnbeta)|[苹果开始回归物理按键 “全触屏时代”过去了吗？](https://m.cnbeta.com.tw/view/1447382.htm)|
+||[余承东：享界挂问界标能多卖5-7万](https://m.cnbeta.com.tw/view/1447381.htm)|
+||[中国前副财长称必须要警惕跨大洋海底光缆 呼吁重视研究加密货币](https://m.cnbeta.com.tw/view/1447380.htm)|
+||[余承东：智界R7刚开始卖可能亏钱 每辆亏2万到3万](https://m.cnbeta.com.tw/view/1447379.htm)|
+||[中国联通副总经理曹兴信任上被查](https://m.cnbeta.com.tw/view/1447378.htm)|
+||[波音工会称谈判已经中止 双方在养老金和薪资要求等方面存在分歧](https://m.cnbeta.com.tw/view/1447377.htm)|
+|[豆瓣最受欢迎的影评](https://plink.anyfeeder.com/douban/review/movie)|[《村庄·音乐》导演王丽娜专访 “我在故乡找到了通往诗意的电影道路” 评论: 村庄·音乐 ](https://movie.douban.com/review/16208116/)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[China Considers Lifting Major Homebuying Restrictions to Stimulate Demand](https://www.tmtpost.com/7267844.html)|
+|[少数派](https://sspai.com/feed)|[一日一技｜为升级到 DSM 7.2.2 的群晖装回 Video Station 套件](https://sspai.com/post/92455)|
+|[IT之家](https://www.ithome.com/rss/)|[鸿蒙智行问界新 M7 上市 12 个月交付突破 20 万台，创新势力车型交付里程碑纪录](https://www.ithome.com/0/799/123.htm)|
+||[OpenAI：计划五年内将 ChatGPT 每月订阅费用提高到最高 44 美元](https://www.ithome.com/0/799/122.htm)|
+||[“精英玩家的终极处理器”，AMD 锐龙 7 9800X3D 被曝今年登场](https://www.ithome.com/0/799/121.htm)|
+||[余承东回应“傲界”改名“尊界”：“傲”中华文化觉得不够谦虚](https://www.ithome.com/0/799/120.htm)|
+||[长安董事长朱华荣：各国车企可优先在华实践发展新能源业务，并逐步拓展到全球市场](https://www.ithome.com/0/799/119.htm)|
+||[联想“意外”确认两款新的 Legion Go 游戏掌机](https://www.ithome.com/0/799/118.htm)|
+||[继 .net 后，Meta 成功获得 Threads.com 域名](https://www.ithome.com/0/799/116.htm)|
+||[OPPO 周意保分享 ColorOS 15 操作视频，流体云动画效果曝光](https://www.ithome.com/0/799/115.htm)|
+||[英特尔 20 核 Arc Battlemage GPU 曝光：2.85GHz、12GB 显存、160 个计算单元](https://www.ithome.com/0/799/114.htm)|
+||[工信部：截至 2024 年 6 月底，我国算力总规模达 246EFLOPS](https://www.ithome.com/0/799/113.htm)|
+||[惠普星 Book Ultra 14 英寸翻转本开售：酷睿 Ultra 7 258V + 32G + 1T 售 11999 元](https://www.ithome.com/0/799/112.htm)|
+||[全球最大！我国混动矿卡 ZTE520 长沙下线：载重 300 吨、3200 马力，所有核心部件国产化](https://www.ithome.com/0/799/111.htm)|
+||[Science 子刊封面：500 年前拉斐尔怎么作画，AI 看一眼就知道](https://www.ithome.com/0/799/110.htm)|
+||[起亚修复高危漏洞：影响数百万车辆，攻击者几秒内可定位、开车门、启动引擎](https://www.ithome.com/0/799/109.htm)|
+||[上海发布汽车以旧换新方案细则：给予 1.2 万元至 2 万元补贴](https://www.ithome.com/0/799/107.htm)|
+||[o1 规划能力首测：已超越语言模型范畴，preview 终于赢 mini 一回](https://www.ithome.com/0/799/106.htm)|
+||[荣耀 MagicBook Art 14 骁龙版笔记本上架：骁龙 X Elite + 32G + 1T 售 8699 元](https://www.ithome.com/0/799/105.htm)|
+||[蔚来乐道 L60 汽车开启全国交付：定位家庭智能电动中型 SUV，20.69 万元起](https://www.ithome.com/0/799/104.htm)|
+||[上市两月降千元：努比亚 Z60S Pro 手机 16+512G 版 2699 元，可打卫星电话](https://www.ithome.com/0/799/103.htm)|
+||[三星预言 2025 年将掀起 AI 普及浪潮，重塑消费者日常生活方式](https://www.ithome.com/0/799/102.htm)|
+||[WordPress 与托管商 WP Engine 决裂，禁止其访问平台资源](https://www.ithome.com/0/799/101.htm)|
+||[华为余承东谈鸿蒙智行目标：五年内成为中国高端车市场第一](https://www.ithome.com/0/799/100.htm)|
+||[雷神推出 KT78 有线磁轴键盘：定制磁墨轴、8KHz 回报率，299 元](https://www.ithome.com/0/799/099.htm)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple 一辈子都不打算换 Windows 系统，是不是 studio display 是苹果生态最好的选择](https://www.v2ex.com/t/1076518#reply29)|
+||[ 投资 股市交易策略讨论，如何保证收益同时规避风险](https://www.v2ex.com/t/1076513#reply16)|
+||[ Apple 关于 Apple 设备更新周期的一点感想，首创“345”理论](https://www.v2ex.com/t/1076511#reply12)|
+||[ NAS 百度云确实会屏蔽加密文件](https://www.v2ex.com/t/1076501#reply25)|
+||[ 分享发现 长达二十年的 A 股长牛正式启动？](https://www.v2ex.com/t/1076498#reply22)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-28](https://decohack.com/producthunt-daily-2024-09-28/)|
+|[IT之家](http://www.ithome.com/rss/)|[迹驰 BSC300T 触屏 GPS 码表开售：机身重约 67g、内置彩色地图导航，699 元](https://www.ithome.com/0/799/125.htm)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[显示器是32:9的，linux什么软件可以快捷键控制窗口16:9且水平居中？](https://segmentfault.com/q/1010000045331108)|
+||[我的小电风扇充电接口坏了？](https://segmentfault.com/q/1010000045330937)|
+||[uniapp textarea组件自动失焦？](https://segmentfault.com/q/1010000045330504)|
+|[机器之心](https://www.jiqizhixin.com/rss)|[苹果反水：OpenAI的1500亿「史上最大」融资轮，难了](https://www.jiqizhixin.com/articles/2024-09-28-4)|
+||[《Python机器学习》作者科普长文：从头构建类GPT文本分类器，代码开源](https://www.jiqizhixin.com/articles/2024-09-28-3)|
+||[从数据增强的隐藏作用出发，揭示视觉强化学习可塑性损失的独特机制](https://www.jiqizhixin.com/articles/2024-09-28-2)|
+||[长短大小样样精通！原始分辨率、超长视频输入：更灵活的全开源多模态架构Oryx](https://www.jiqizhixin.com/articles/2024-09-28)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[工信部：中国开源参与者数量、增长速度均位居世界前列](https://www.oschina.net/news/313952)|
+||[谷歌：过渡到 Rust 使得 Android 漏洞大幅下降](https://www.oschina.net/news/313941/google-android-safe-code-rust)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[AI大模型产品的界面设计已形成规范](https://www.woshipm.com/share/6121273.html)|
+||[订单系统：看似简单的“订单售后”，背后竟隐藏这么多的设计细节](https://www.woshipm.com/share/6121205.html)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[現代公共運輸重塑了人們的距離感與心理地圖](https://taiwan.chtsai.org/2024/09/28/xiandai_gonggong_yunshu/)|
 |[est の 输入 输出和出入](http://feeds.feedburner.com/initiative)|[Install mosh for macOS arm64 with Miniconda3](https://blog.est.im/2024/stdout-20)|
 |[36氪](https://plink.anyfeeder.com/36kr)|[又一位消费创业者卖掉了公司](https://36kr.com/p/2969156143681545?f=rss)|
 |[动点科技](http://cn.technode.com/feed/)|[可持续领航，五菱全球新能源概念车“东盟之光”首秀](https://cn.technode.com/post/2024-09-28/wuling-dongmeng/)|
