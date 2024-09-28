@@ -2,6 +2,84 @@
 
 |来源|标题|
 |---|---|
+|[est の 输入 输出和出入](http://feeds.feedburner.com/initiative)|[Install mosh for macOS arm64 with Miniconda3](https://blog.est.im/2024/stdout-20)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[又一位消费创业者卖掉了公司](https://36kr.com/p/2969156143681545?f=rss)|
+|[动点科技](http://cn.technode.com/feed/)|[可持续领航，五菱全球新能源概念车“东盟之光”首秀](https://cn.technode.com/post/2024-09-28/wuling-dongmeng/)|
+||[2025 款奥迪 Q6 e-tron 亮相，加入多款新车型](https://cn.technode.com/post/2024-09-28/2025-new-q6-e-tron/)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[如何健康地死去](https://www.huxiu.com/article/3519372.html?f=rss)|
+|[IT之家](http://www.ithome.com/rss/)|[三星 W25 心系天下折叠手机曝料：不支持 S Pen 手写笔、黑金配色](https://www.ithome.com/0/799/098.htm)|
+||[唯卓仕官宣 28mm F4.5 饼干镜头 10 月 14 日发布：提供索尼 FE 卡口，售 449 元起](https://www.ithome.com/0/799/097.htm)|
+||[三星 Galaxy S25 Ultra 手机被曝升级 16GB 内存，助推 Galaxy AI 革命性体验](https://www.ithome.com/0/799/096.htm)|
+||[《黑神话：悟空》重新登顶 IGN 2024 年度游戏投票榜，后者发文回应争议](https://www.ithome.com/0/799/095.htm)|
+||[Steam 国区 122.5 元，射击游戏《遗迹 2》迎 5 折史低优惠](https://www.ithome.com/0/799/094.htm)|
+||[Voyage-3 系列嵌入式 AI 模型登场：1/2.2 成本、1/3 嵌入维度下性能超 OpenAI v3 Large 模型 7.55%](https://www.ithome.com/0/799/091.htm)|
+||[微软发布 Win11 24H2 系统 90 天评估镜像，版本号 26100.1742](https://www.ithome.com/0/799/089.htm)|
+||[我国在建最北高铁首座站房完工，建成后哈尔滨至伊春车程将缩短至 2 小时](https://www.ithome.com/0/799/088.htm)|
+||[《星空》大型游戏 DLC“破碎空间”9 月 30 日解锁，Steam 国区 116 元](https://www.ithome.com/0/799/087.htm)|
+||[构筑安全防线，微软揭秘 Win10 / Win11 如何抵御键盘记录器攻击](https://www.ithome.com/0/799/086.htm)|
+||[微软被曝拓展 Copilot AI 应用，打造专属于你的新闻主播](https://www.ithome.com/0/799/085.htm)|
+||[微软网页版 OneDrive 正式融合 Copilot：一键总结、多文件对比，AI 提高你的生产力](https://www.ithome.com/0/799/084.htm)|
+||[微软 Windows Server 26296 预览版发布：改进 Windows Admin Center、升级 Feedback Hub](https://www.ithome.com/0/799/083.htm)|
+||[特斯拉陶琳：第 100 万辆出口的中国制造 Model 3 今天从上海装船启航](https://www.ithome.com/0/799/082.htm)|
+||[探索宇宙新发现：黑洞成“喷火龙”，导致附近恒星爆炸](https://www.ithome.com/0/799/080.htm)|
+||[长安马自达 EZ-6 开启预售：纯电、增程双动力版本，16 万元起](https://www.ithome.com/0/799/079.htm)|
+||[联想小新 100GT 投影仪开售：1080P 500 流明、360° 云台，1079 元](https://www.ithome.com/0/799/078.htm)|
+||[高通骁龙 8 Gen 4 家族芯片曝光，高频核心探索性能极限](https://www.ithome.com/0/799/077.htm)|
+||[余承东：ADS 3.0 现在还不是 L3，是按照 L3 的标准去进行设计的](https://www.ithome.com/0/799/076.htm)|
+||[漫步者花再 Halo 2.0 SE 多媒体音箱开售：1680 万色氛围灯、3 音源输入，629 元](https://www.ithome.com/0/799/075.htm)|
+||[乘联会崔东树：预计 2024 年国内汽车零售销量将达到 2230 万辆，同比增长 3%](https://www.ithome.com/0/799/074.htm)|
+||[科学家发现近 10 年来首个新型化学键](https://www.ithome.com/0/799/073.htm)|
+||[保时捷六冲程发动机专利获批，探索内燃机新纪元](https://www.ithome.com/0/799/071.htm)|
+||[消息称北京现代计划分二批次进行人员优化，首批 11 月结束](https://www.ithome.com/0/799/070.htm)|
+|[孤岛客](http://www.huangjiwei.com/blog/?feed=rss2)|[她来自驻马店丨一周语文（2439）](https://www.huangjiwei.com/blog/?p=12240)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 有线电视和 IPTV 官宣取消开机广告/《哈利波特》麦格教授扮演者去世/淘宝可用微信支付](https://www.ifanr.com/1600930?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[曾“不看好”，如今强势入局？爱奇艺靠短剧自救](https://www.tmtpost.com/7267615.html)|
+||[对话泰康人寿李明强：成为健康管理“代理人”是保险的进化方向之一丨数字思考者50人](https://www.tmtpost.com/7267122.html)|
+||[黄仁勋最新谈对中国芯片管制：美国政府应在国家安全与技术繁荣之间平衡｜钛媒体AGI](https://www.tmtpost.com/7267661.html)|
+||[精神分裂症治疗的历史性一夜](https://www.tmtpost.com/7267180.html)|
+||[首款人机交互端到端多模态AI大模型发布，公司CEO：训推同步是自主学习的最佳方式｜钛媒体AGI](https://www.tmtpost.com/7267500.html)|
+||[国内首款多模态AI交互四足机器人发布，蔚蓝首款人形机器人明年四季度量产｜钛媒体AGI](https://www.tmtpost.com/7267708.html)|
+|[虎嗅](https://rss.huxiu.com/)|[大摩唱衰海力士，韩国半导体究竟前景如何？](https://www.huxiu.com/article/3519076.html?f=rss)|
+|[知乎热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c919d543882afa09dff3fa3)|[《地下交通站》拍得那么成功，为什么第二部《二号交通站》在几乎是原班人马出演的情况下却反响平平？](https://www.zhihu.com/question/558247060)|
+||[如何判断一个职业永远不会失业呢？](https://www.zhihu.com/question/668116833)|
+||[一上班就困一下班就精神，怎么解？是心理原因吗？](https://www.zhihu.com/question/667924246)|
+||[人会在什么时候开始感觉到衰老？](https://www.zhihu.com/question/21918843)|
+||[为什么不能直接生产多巴胺并进行注射？](https://www.zhihu.com/question/668076563)|
+||[一上班就困，一下班就精神，怎么解？](https://www.zhihu.com/question/673609423)|
+||[如何评价《不死不幸》腰斩？](https://www.zhihu.com/question/668032614)|
+||[自己养一匹马用于徒步旅行可行吗？](https://www.zhihu.com/question/668225238)|
+||[为什么《黑神话: 悟空》里面哪吒用的武器不是火尖枪而且斩妖剑？](https://www.zhihu.com/question/667644150)|
+||[为什么说南京是安徽人的耶路撒冷？](https://www.zhihu.com/question/373514187)|
+||[石破茂当选日本自民党总裁，将接任日本首相，将对日本有哪些影响？](https://www.zhihu.com/question/670975719)|
+||[为什么某些老师觉得他 / 她自己说一遍，学生就懂了？](https://www.zhihu.com/question/310182162)|
+||[《黑神话：悟空 》第三回，最后的漫画中黄眉大王和金蝉子的论证到底谁赢了？](https://www.zhihu.com/question/665055854)|
+||[陈凯歌执导的《志愿军》系列第二部电影《志愿军：存亡之战》好看吗？没看过第一部可以直接看吗？](https://www.zhihu.com/question/671392401)|
+||[如何看待 AI 领域越来越多的博士生和博士后效仿清华大学武同学成为「论文机器」和使劲灌水的做法？](https://www.zhihu.com/question/570349401)|
+||[同样质量的肉串，有经验的烧烤师傅烤和普通人烤出来的味道差别大吗？](https://www.zhihu.com/question/667994568)|
+||[A 股连续 4 日大涨，网友称「因为 A 股，第一次不想放假」，假期对股市有哪些影响？后续走势如何？](https://www.zhihu.com/question/675715602)|
+||[杭州一女子景区采到「蘑界毒王」，家人吃完多脏器损伤住进 ICU，如何辨别毒蘑菇？不小心中毒怎么办？](https://www.zhihu.com/question/672017435)|
+||[哪种语言最难?](https://www.zhihu.com/question/652845471)|
+||[我国成功发射首颗可重复使用返回式技术试验卫星，有哪些重要意义？](https://www.zhihu.com/question/672823074)|
+||[近期 A 股为什么突然涨了？能持续多久？](https://www.zhihu.com/question/670424745)|
+||[如何评价《一人之下》688 话之中，老刘放过李慕玄，陆瑾会放过他吗？](https://www.zhihu.com/question/670008381)|
+||[如何看待今年比亚迪秋招只要双 2 以上的？](https://www.zhihu.com/question/666853816)|
+||[恒大原总裁夏海钧被终身禁入证券市场，罚没 1500 万元，具有哪些警示意义？](https://www.zhihu.com/question/668219358)|
+||[「东北雨姐」就打人事件道歉，表示「一定改正」，如何评价此举？如何看待其近期争议？](https://www.zhihu.com/question/668579099)|
+|[windsong](https://www.windsong.top/atom.xml)|[SQLite初体验](https://windsong.top/SQLite%E5%88%9D%E4%BD%93%E9%AA%8C/)|
+|[V2EX](http://www.v2ex.com/index.xml)|[ Apple 一辈子都不打算换 Windows 系统，是不是 studio display 是苹果生态最好的选择](https://www.v2ex.com/t/1076518#reply15)|
+||[ 投资 股市交易策略讨论，如何保证收益同时规避风险](https://www.v2ex.com/t/1076513#reply11)|
+||[ NAS 百度云确实会屏蔽加密文件](https://www.v2ex.com/t/1076501#reply20)|
+||[ 分享发现 长达二十年的 A 股长牛正式启动？](https://www.v2ex.com/t/1076498#reply17)|
+||[ 问与答 假如我扒光了 XXX 网站的内容……会怎么样？](https://www.v2ex.com/t/1076497#reply12)|
+||[ 问与答 怎么理解同事喜欢打小报告，且都是一些鸡毛蒜皮的小事](https://www.v2ex.com/t/1076494#reply13)|
+||[ 问与答 从 Mac 换成了 windows 工作效率大幅降低](https://www.v2ex.com/t/1076493#reply27)|
+||[ 旅行 最近打算到韩国济州岛玩 或者日本冲绳 有什么注意的 以及手续 以及攻略](https://www.v2ex.com/t/1076492#reply11)|
+||[ 职场话题 求助，远程工作，泰国公司，区块链， USDT 结算工资](https://www.v2ex.com/t/1076491#reply19)|
+||[ Apple MacBook Air M2 丐版推荐升级 macOS Sequoia 吗？](https://www.v2ex.com/t/1076488#reply14)|
+||[ 生活 异地医保门诊就医，报销有限额。。。](https://www.v2ex.com/t/1076480#reply15)|
+||[ 投资 如此大放水，真的没有后遗症吗？如果有，代价是什么？谁来承受代价？](https://www.v2ex.com/t/1076477#reply89)|
+||[ 职场话题 老挝 2.5 年牢端求捞](https://www.v2ex.com/t/1076473#reply40)|
+||[ 生活 类似哮喘 求 v 友帮助](https://www.v2ex.com/t/1076471#reply13)|
 |[虎嗅](https://rss.huxiu.com/)|[聊聊大A：牛来了，你有筹码吗？](https://www.huxiu.com/article/3519080.html?f=rss)|
 ||[货币政策利好之后，财政刺激会跟上吗？](https://www.huxiu.com/article/3517695.html?f=rss)|
 ||[15-20万性价比汽车怎么选？比亚迪汉荣耀值得入手么？](https://www.huxiu.com/article/3516476.html?f=rss)|
