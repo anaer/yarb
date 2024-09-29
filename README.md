@@ -2,6 +2,30 @@
 
 |来源|标题|
 |---|---|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[MaxKB 知识库问答系统入选 Gitee 最有价值开源项目](https://www.oschina.net/news/314069)|
+|[煎蛋](http://jandan.net/feed)|[关于极限竞速地平线6的一些消息](http://jandan.net/p/117928)|
+|[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[🤳如何为复杂的 Java 应用编写集成测试](http://crossoverjie.top/2024/09/29/ob/%F0%9F%A4%B3cim-support-integration-test/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 推荐一部 2000 左右的华为手机](https://www.v2ex.com/t/1076705#reply21)|
+||[ 酷工作 广州番禺万博 招聘一名初级 Java 后端 7k-9k](https://www.v2ex.com/t/1076693#reply12)|
+||[ 问与答 相亲对象非要我解析她给我的的 mcZ 文件才……](https://www.v2ex.com/t/1076690#reply15)|
+||[ 小米 小米空调制冷湿度越来越高](https://www.v2ex.com/t/1076688#reply14)|
+||[ 生活 我觉得中医还是挺有用的，当然不否认也有一些（祖传）骗子](https://www.v2ex.com/t/1076686#reply50)|
+||[ 硬件 新手求一个最便宜稳定千兆科学上网硬路由，有大佬推荐吗](https://www.v2ex.com/t/1076685#reply20)|
+||[ 问与答 公寓楼真是鱼龙混杂](https://www.v2ex.com/t/1076681#reply24)|
+||[ 投资 为什么要选择股息率高的公司？分红后总资产是变多了，还是变少了](https://www.v2ex.com/t/1076674#reply19)|
+||[ 问与答 不带情绪，不 zzzq，现在买房是不是上车的时候了？](https://www.v2ex.com/t/1076673#reply49)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[瑞士信息与通信科技公司Frontify开发基于云的一站式品牌管理平台，提升企业品牌设计与协作效率 瑞士创新100强](https://www.tmtpost.com/7268008.html)|
+||[秋招过半，不想卖保险的你拿到保险公司的offer了吗？｜钛媒体金融](https://www.tmtpost.com/7268087.html)|
+||[一个人只有两只耳朵，为何要配那么多幅耳机？](https://www.tmtpost.com/7267834.html)|
+||[一个门把手，难住大众汽车](https://www.tmtpost.com/7267913.html)|
+||[一代霸主英特尔，终于被前仆后继的掌门人带进深渊](https://www.tmtpost.com/7267994.html)|
+||[白酒股疯涨七日背后：多重政策利好，能否收复预期？ 行业风向标](https://www.tmtpost.com/7268018.html)|
+||[苹果iPhone 16首周销量出炉，究竟是大涨还是不如预期？](https://www.tmtpost.com/7267738.html)|
+|[36氪](https://36kr.com/feed)|[从数字世界到物理世界，36氪2024具身智能大会盛启上海](https://36kr.com/p/2970499051982854?f=rss)|
+||[功能性食品下半场：场景切入、科技驱动 最前线](https://36kr.com/p/2969319920587017?f=rss)|
+||[北京学府壹号院正式交付，为首个“高标准”壹号院](https://36kr.com/p/2970488192422146?f=rss)|
+||[单周史诗级暴涨15%，A股牛市又回来了？丨智氪](https://36kr.com/p/2969427069554692?f=rss)|
+|[SegmentFault 最新的问题](https://segmentfault.com/feeds/questions)|[有用过php的codeigniter框架的吗？](https://segmentfault.com/q/1010000045332548)|
 |[36氪](https://www.36kr.com/feed)|[中国公司拿下全球前三的行业，正为AI未来架起高速桥梁 知料](https://36kr.com/p/2949661262405764?f=rss)|
 ||[36氪首发丨服务12000家北美餐饮企业，「MenuSifu」完成4000万美元B轮融资](https://36kr.com/p/2967687989366784?f=rss)|
 |[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[毕业就出海，年薪 100 万，中国程序员在 Google](https://my.oschina.net/u/7819858/blog/16053252)|
