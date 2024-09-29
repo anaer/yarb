@@ -2,6 +2,41 @@
 
 |来源|标题|
 |---|---|
+|[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[鸡身上的 1 个部位，不能吃！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%B8%A1%E8%BA%AB%E4%B8%8A%E7%9A%84%201%20%E4%B8%AA%E9%83%A8%E4%BD%8D%EF%BC%8C%E4%B8%8D%E8%83%BD%E5%90%83%EF%BC%81)|
+||[减少内耗，缓解焦虑，这 10 件小事真的有点用](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%87%8F%E5%B0%91%E5%86%85%E8%80%97%EF%BC%8C%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%EF%BC%8C%E8%BF%99%2010%20%E4%BB%B6%E5%B0%8F%E4%BA%8B%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E7%94%A8)|
+||[白带增多、异味、带血丝，小心这 4 种妇科病！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%99%BD%E5%B8%A6%E5%A2%9E%E5%A4%9A%E3%80%81%E5%BC%82%E5%91%B3%E3%80%81%E5%B8%A6%E8%A1%80%E4%B8%9D%EF%BC%8C%E5%B0%8F%E5%BF%83%E8%BF%99%204%20%E7%A7%8D%E5%A6%87%E7%A7%91%E7%97%85%EF%BC%81)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 生活 马上要毕业了，还没和媳妇说](https://www.v2ex.com/t/1076761#reply14)|
+||[ 北京 帮忙分析一下, 媳妇面临职业发展的岔路口](https://www.v2ex.com/t/1076732#reply26)|
+||[ 问与答 学习 react 或 vue 哪一个比较容易上手？](https://www.v2ex.com/t/1076728#reply22)|
+||[ 问与答 公积金贷款 有没有必要提前还？](https://www.v2ex.com/t/1076727#reply13)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[Jellycat爆火，年轻人爱上皇帝的新装](https://www.tmtpost.com/7267795.html)|
+||[20款新车上市；小米汽车二期工厂部分地基已建成；长安汽车称阿维塔有独立上市计划｜车库周报](https://www.tmtpost.com/7267964.html)|
+||[陪伴系统，会成为女性向游戏的下一个争夺点吗？](https://www.tmtpost.com/7268108.html)|
+||[「玄玑」落地，华为还能再赢苹果一次吗？](https://www.tmtpost.com/7267984.html)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[WordPress.org 暂时解除对 WP Engine 的禁令](https://www.oschina.net/news/314080/wp-engine-reprieve)|
+|[少数派](http://sspai.me/feed)|[All in Windows 的失败，是傲慢还是必然？](https://sspai.com/post/92388)|
+|[FreeBuf网络安全行业门户](http://www.freebuf.com/feed)|[美国惊曝超大规模信息泄露事件！超1亿人受到影响](https://www.freebuf.com/news/411989.html)|
+||[若依前台漏洞总结](https://www.freebuf.com/articles/web/411980.html)|
+|[维基萌](https://www.wikimoe.com/rss.php)|[《界之轨迹》在东京站的宣传柱，还挺壮观的。](https://www.wikimoe.com/post/jxijv5cn)|
+|[36氪](http://36kr.com/feed)|[36氪具身智能超新星Show，你要的AI Partner就在这里！](https://36kr.com/p/2970580485722368?f=rss)|
+|[虎嗅](https://rss.huxiu.com/)|[降息之后，美股还能上涨吗？主要关注什么？](https://www.huxiu.com/article/3520675.html?f=rss)|
+||[高光时刻，OpenAI为何却“分崩离析”](https://www.huxiu.com/article/3523231.html?f=rss)|
+||[Costco：零售“蜗牛”如何炼“金刚不坏身”？](https://www.huxiu.com/article/3523211.html?f=rss)|
+||[中国零售近七年最大投资案：缺钱的永辉、很勇的名创和 “救星” 胖东来](https://www.huxiu.com/article/3522705.html?f=rss)|
+||[仅退款，一次反社会契约论的极端实验](https://www.huxiu.com/article/3516722.html?f=rss)|
+||[山头主义：心理根源以及现实应对](https://www.huxiu.com/article/3522707.html?f=rss)|
+||[告别热钱，电影人玩命找钱](https://www.huxiu.com/article/3522694.html?f=rss)|
+||[胖东来秘方卖了63亿？名创优品为何斥巨资收购永辉超市？](https://www.huxiu.com/article/3516694.html?f=rss)|
+||[今年我曾跟别人安利过的AI产品：捏Ta和BubblePal](https://www.huxiu.com/article/3522691.html?f=rss)|
+||[安全的边际和最后的战役？](https://www.huxiu.com/article/3521117.html?f=rss)|
+|[效率火箭，火箭君的新博客](http://xlrocket.com/feed/)|[构建自己的生产力工具系统，为什么如此重要？](https://xlrocket.blog/2024/09/29/%e6%9e%84%e5%bb%ba%e8%87%aa%e5%b7%b1%e7%9a%84%e7%94%9f%e4%ba%a7%e5%8a%9b%e5%b7%a5%e5%85%b7%e7%b3%bb%e7%bb%9f%ef%bc%8c%e4%b8%ba%e4%bb%80%e4%b9%88%e5%a6%82%e6%ad%a4%e9%87%8d%e8%a6%81%ef%bc%9f/)|
+|[蓝点网](https://www.landiannews.com/feed)|[微软将在下周重新推出Windows 11金丝雀版更新 目前已经近一个月未更新](https://www.landiannews.com/archives/105979.html)|
+||[VIP/INK/WIKI等多个域名暂停备案 已经成功备案的域名不受影响](https://www.landiannews.com/archives/105978.html)|
+|[少数派 - 热门文章](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928)|[为日常增添「幸福感」：他们分享了 6 个生活好物](https://sspai.com/post/92382)|
+||[接纳不等于忍受，这是我的 Windows 11 设置思路](https://sspai.com/post/92064)|
+|[动点科技](http://cn.technode.com/feed/)|[PS5 Pro 30 周年纪念版遭黄牛炒作，要价超 3000 美元](https://cn.technode.com/post/2024-09-29/sony-ps5-pro-30th-anniversary-edition-is-hyped-by-scalpers/)|
+||[苹果或已退出OpenAI近期融资谈判](https://cn.technode.com/post/2024-09-29/apple-leave-openai-raise-funds/)|
+||[余承东：三折叠手机满足高端人群效率需求](https://cn.technode.com/post/2024-09-29/yu-chengdong-tri-fold-mobile-phones-meet-the-efficiency-needs-of-high-end-people/)|
 |[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[MaxKB 知识库问答系统入选 Gitee 最有价值开源项目](https://www.oschina.net/news/314069)|
 |[煎蛋](http://jandan.net/feed)|[关于极限竞速地平线6的一些消息](http://jandan.net/p/117928)|
 |[crossoverJie's Blo...](https://crossoverjie.top/atom.xml)|[🤳如何为复杂的 Java 应用编写集成测试](http://crossoverjie.top/2024/09/29/ob/%F0%9F%A4%B3cim-support-integration-test/)|
