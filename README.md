@@ -2,6 +2,45 @@
 
 |来源|标题|
 |---|---|
+|[机器之心](https://www.jiqizhixin.com/rss)|[终于拿到内测！豆包-PixelDance真是字节视频生成大杀器](https://www.jiqizhixin.com/articles/2024-09-29-2)|
+||[OpenAI创始成员Andrej Karpathy：这才是技术之美](https://www.jiqizhixin.com/articles/2024-09-29)|
+|[36氪 - 24小时热榜](https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901)|[《三角洲行动》交出答卷，放长线能否钓上“大鱼”？](https://36kr.com/p/2969686039449856)|
+||[名创买永辉，这笔惊人交易到底是怎么促成的？](https://36kr.com/p/2968331169144453)|
+||[8点1氪｜ 网红东北雨姐夫妻实控约30家企业；董宇辉建议不要妖魔化食品添加剂；专家建议提高个税起征点至8000元](https://36kr.com/p/2970353683681538)|
+||[餐饮“转店人”：1天接手10多家，全是“旺铺转让”](https://36kr.com/p/2954886650257286)|
+||[Jellycat爆火，年轻人爱上皇帝的新装](https://36kr.com/p/2969212641894021)|
+||[中国公司全球化周报 李佳琦公司启动出海/贵州茅台：积极探索海外市场路径，不断扩大海外消费群体](https://36kr.com/p/2968941653135364)|
+|[V2EX](https://v2ex.com/index.xml)|[ 问与答 早上掉头时和一个电动车发生剐蹭，请教有经验的 v 友](https://www.v2ex.com/t/1076794#reply29)|
+||[ 问与答 如果让小孩（高中生 16 周岁左右）独自一人从一个城市坐高铁或者动车去另一个城市](https://www.v2ex.com/t/1076781#reply38)|
+||[ macOS Mac mini m4 值得等吗？](https://www.v2ex.com/t/1076768#reply11)|
+||[ 生活 马上要毕业了，还没和媳妇说](https://www.v2ex.com/t/1076761#reply33)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[初代网红消失在直播带货的转折点上](https://www.tmtpost.com/7268117.html)|
+||[接棒冒烤鸭？中式炸鸡会是下一个爆火的餐饮品类吗？](https://www.tmtpost.com/7268112.html)|
+||[“最强辅助”热管理：立足新能源智能车量价齐升，受益AI算力等场景前景广阔 CMC](https://www.tmtpost.com/7268277.html)|
+|[36氪](https://plink.anyfeeder.com/36kr)|[「欧文一代」进入欧美主流零售商渠道，安踏出海再进一步｜最前线](https://36kr.com/p/2970515407638529?f=rss)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[RockAI CEO Sees Simultaneous Training and Deployment as the Best Way for Autonomous Learning ](https://www.tmtpost.com/7268201.html)|
+||[车电分离降维打击，蔚来BaaS一战成名？](https://www.tmtpost.com/7268148.html)|
+||[Nvidia Founder Calls for Balance Between National Security and Technological Prosperity Amid U.S. Chip Export Controls](https://www.tmtpost.com/7268339.html)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[我开发了一个出海全栈 SaaS 工具，还写了一套全栈开发教程](https://w2solo.com/topics/5096)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[不能再“输”的国庆档，能否守住20亿？](https://www.huxiu.com/article/3521102.html?f=rss)|
+||[千亿美元的喧嚣与寒冬后，无人驾驶终于要落地了？](https://www.huxiu.com/article/3523221.html?f=rss)|
+||[弱者才追求公平？人人诟病的贫富差距，为什么不能失去？](https://www.huxiu.com/article/3520351.html?f=rss)|
+||[胖东来为什么停止了帮扶？](https://www.huxiu.com/article/3516692.html?f=rss)|
+||[三五千的投影仪，卖不动了](https://www.huxiu.com/article/3523241.html?f=rss)|
+||[我所见过的中东和黎巴嫩（二）](https://www.huxiu.com/article/3523255.html?f=rss)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[数字化人员业务思维提升“四步法”](https://www.woshipm.com/share/6121760.html)|
+||[产品经理如何用AI提效30%？](https://www.woshipm.com/share/6121695.html)|
+||[SaaS业务中的销售业务模块设计【营销获客的突破点】](https://www.woshipm.com/share/6121688.html)|
+||[AI产品经理常用的模型评估指标介绍](https://www.woshipm.com/share/6121648.html)|
+||[新零售电商后台管理系统：从上帝视角出发，俯视商城订单系统的设计](https://www.woshipm.com/share/6121209.html)|
+||[大模型与RPA的融合：“真”全场景智能自动化，迈向无人化服务新时代](https://www.woshipm.com/ai/6121503.html)|
+||[解读AI陪伴产品的市场格局](https://www.woshipm.com/aigc/6121499.html)|
+||[ToB企业的公关传播怎么做？](https://www.woshipm.com/marketing/6120439.html)|
+||[产品经理实践（2）：如何高效提数、看数与AB测试](https://www.woshipm.com/share/6121451.html)|
+||[一个ToB产品的PMM在做什么？](https://www.woshipm.com/zhichang/6121449.html)|
+||[可能是2024年最佳流量杠杆——公众号公域化](https://www.woshipm.com/share/6121405.html)|
+||[G端产品人技能（一）：项目制的产品的工作流程](https://www.woshipm.com/pd/6121397.html)|
+||[输入框与按钮模糊的边界](https://www.woshipm.com/share/4582728.html)|
 |[丁香医生](http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml)|[鸡身上的 1 个部位，不能吃！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E9%B8%A1%E8%BA%AB%E4%B8%8A%E7%9A%84%201%20%E4%B8%AA%E9%83%A8%E4%BD%8D%EF%BC%8C%E4%B8%8D%E8%83%BD%E5%90%83%EF%BC%81)|
 ||[减少内耗，缓解焦虑，这 10 件小事真的有点用](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E5%87%8F%E5%B0%91%E5%86%85%E8%80%97%EF%BC%8C%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%EF%BC%8C%E8%BF%99%2010%20%E4%BB%B6%E5%B0%8F%E4%BA%8B%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E7%94%A8)|
 ||[白带增多、异味、带血丝，小心这 4 种妇科病！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F+%E7%99%BD%E5%B8%A6%E5%A2%9E%E5%A4%9A%E3%80%81%E5%BC%82%E5%91%B3%E3%80%81%E5%B8%A6%E8%A1%80%E4%B8%9D%EF%BC%8C%E5%B0%8F%E5%BF%83%E8%BF%99%204%20%E7%A7%8D%E5%A6%87%E7%A7%91%E7%97%85%EF%BC%81)|
