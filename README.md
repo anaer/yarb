@@ -2,6 +2,133 @@
 
 |来源|标题|
 |---|---|
+|[少数派](https://plink.anyfeeder.com/sspai)|[本月玩什么 智慧的再现、宇宙机器人、UFO 50、冰汽时代 2 等](https://sspai.com/post/92622)|
+|[钛媒体：引领未来商业与生活新知](http://www.tmtpost.com/feed)|[十一将至大景点“跌倒”，小城市旅游能吃饱吗？](https://www.tmtpost.com/7268366.html)|
+||[最“硬核”宠物爆火网络，还有啥是网友养不了的？](https://www.tmtpost.com/7268478.html)|
+||[7年8次出手收购，AI时代的流量王者也焦虑？](https://www.tmtpost.com/7268558.html)|
+||[基民速看：这1周哪些基金净值涨得快？](https://www.tmtpost.com/7268593.html)|
+||[李锦飞接棒美团酒旅，“神会员”要对大旅游动手了](https://www.tmtpost.com/7268640.html)|
+||[Costco：零售 “蜗牛” 如何炼 “金刚不坏身”？](https://www.tmtpost.com/7268159.html)|
+||[中概股被疯狂抄底，贾跃亭公司都成香饽饽了](https://www.tmtpost.com/7267411.html)|
+||[盲订极越07，车主哪来的自信？](https://www.tmtpost.com/7268377.html)|
+||[OKX Ventures：一文详解RWA赛道六大核心资产市场](https://www.tmtpost.com/7268378.html)|
+|[蘋果迷 APPLEFANS](https://applefans.today/feed/)|[iPhone 16 系列拆解分析：外觀、電池、相機、內部結構與易維修性解析](https://applefans.today/2024-09-iphone-16-pro-teardown-ifixit/)|
+||[該買 iPhone 16 Pro 新機嗎？](https://applefans.today/2024-iphone-16-pro-reviews/)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ Apple M1Pro 32G+1T，还能战前端开发吗？](https://www.v2ex.com/t/1076880#reply15)|
+||[ 问与答 安卓平板无法安装米家 app](https://www.v2ex.com/t/1076874#reply11)|
+||[ 问与答 难得产品提了个有意思的需求，但我却做不出来了](https://www.v2ex.com/t/1076869#reply13)|
+||[ 程序员 到底什么是奋斗](https://www.v2ex.com/t/1076867#reply38)|
+||[ 程序员 2024 年了，网站独立评论系统还有人用吗？](https://www.v2ex.com/t/1076862#reply13)|
+||[ 问与答 咸鱼上的二手电瓶车真的慎买](https://www.v2ex.com/t/1076851#reply16)|
+||[ 程序员 controller 的 url 要区分大小写不？](https://www.v2ex.com/t/1076850#reply17)|
+||[ 生活 00 后，被原生家庭关系所困扰，内耗着，过不去的结，求过来人给点建议。](https://www.v2ex.com/t/1076847#reply73)|
+||[ 问与答 你小时候有没有被电过的经历？](https://www.v2ex.com/t/1076843#reply59)|
+||[ 微信 “巨而丑”更新把“服务号”也折叠了，太不要脸了](https://www.v2ex.com/t/1076842#reply17)|
+||[ 旅行 呼伦贝尔 自驾归来](https://www.v2ex.com/t/1076838#reply15)|
+||[ 生活 记录一下失业后的日常和心态变化](https://www.v2ex.com/t/1076837#reply19)|
+||[ 程序员 搞一台 4090 服务器放客厅怎么样？](https://www.v2ex.com/t/1076836#reply38)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[当做行业分析时，我们一般从哪些方面着手？](https://www.woshipm.com/share/6121964.html)|
+||[原型交互说明及功能需求描述怎么写？](https://www.woshipm.com/share/6121684.html)|
+||[南航随心飞把计算器都按冒烟了](https://www.woshipm.com/share/6121958.html)|
+|[今日话题 - 雪球](https://xueqiu.com/hots/topic/rss)|[回顾最近30年的几次大牛市](http://xueqiu.com/2657407918/306171136)|
+||[市场风云变幻，坚持投资原则才是关键](http://xueqiu.com/7368170779/306112737)|
+||[当万得全 A 的 RSI 大于 80，牛市的回归？](http://xueqiu.com/3559889031/306153220)|
+||[A股与闪电](http://xueqiu.com/1388190326/306188353)|
+|[reddit.com: search...](https://www.reddit.com/search.rss?q=%E6%8E%A8%E8%8D%90&type=link&limit=20&sort=new)|[1688 App gets English Update!](https://www.reddit.com/r/1688Reps/comments/1fs0sep/1688_app_gets_english_update/)|
+|[煎蛋](https://plink.anyfeeder.com/jiandan)|[美国商标局取消了漫威和DC的“超级英雄”商标](http://jandan.net/p/117930)|
+|[虎嗅](https://rss.huxiu.com/)|[五家AI公司遭FTC重拳出击](https://www.huxiu.com/article/3524279.html?f=rss)|
+||[如何利用假期实现心理上的休息？](https://www.huxiu.com/article/3524001.html?f=rss)|
+||[与其玩命搞调休，为什么不能多放两天假？](https://www.huxiu.com/article/3523253.html?f=rss)|
+||[在海龟的治愈下，我重拾了希望](https://www.huxiu.com/article/3524017.html?f=rss)|
+||[餐饮业，在2024年的表现如何？](https://www.huxiu.com/article/3524000.html?f=rss)|
+||[失业3个月，男友快和我分手了](https://www.huxiu.com/article/3515627.html?f=rss)|
+||[存在感不高的江西，却是中国唯一的“啥也不缺省”](https://www.huxiu.com/article/3517187.html?f=rss)|
+||[出境游先热起来了](https://www.huxiu.com/article/3516729.html?f=rss)|
+||[深度解读传祺华为全新合作模式，“全栈合作”意味着什么？](https://www.huxiu.com/article/3513062.html?f=rss)|
+||[中秋冰冰凉，不少烟酒店老板萌生去意](https://www.huxiu.com/article/3523982.html?f=rss)|
+||[行业震动，脱氢乙酸钠被禁意味着什么？](https://www.huxiu.com/article/3516698.html?f=rss)|
+|[Taiwan 2.0](https://taiwan.chtsai.org/feed/)|[前一秒嗶卡，這一秒就查得到：透過手機即時查詢一卡通餘額與近期交易](https://taiwan.chtsai.org/2024/09/29/ipass_nfc/)|
+|[嘶吼 RoarTalk – 网络安全...](https://www.4hou.com/feed)|[黑客在有针对性的攻击中部署人工智能编写的恶意软件](https://www.4hou.com/posts/YZM0)|
+||[“噪音风暴”伪造大量互联网流量](https://www.4hou.com/posts/gy29)|
+|[动点科技](http://cn.technode.com/feed/)|[捷豹路虎投资 5 亿英镑在哈利伍德打造未来电动汽车工厂](https://cn.technode.com/post/2024-09-29/jrl-news/)|
+||[研究称AI 越聪明越有可能“胡编乱造”](https://cn.technode.com/post/2024-09-29/study-says-the-smarter-ai-gets-the-more-likely-it-is-to-make-stuff-up/)|
+||[小米明年将进军全球家电市场，首站东南亚](https://cn.technode.com/post/2024-09-29/xiaomi-to-enter-global-home-appliance-market-next-year-first-stop-southeast-asia/)|
+||[Meta创始人扎克伯格成为全球第四大富豪](https://cn.technode.com/post/2024-09-29/meta-zack-monopoly4/)|
+||[苹果将于春季推出新款智能家居设备，支持苹果人工智能功能](https://cn.technode.com/post/2024-09-29/apple-homeaccessory-ai/)|
+||[报告：2023年中国新安装工业机器人数量超全球半数](https://cn.technode.com/post/2024-09-29/industry-robot-2023-china/)|
+||[无人驾驶赛车“天猿”在湖南株洲首发](https://cn.technode.com/post/2024-09-29/auto-tianyuan-racing-car/)|
+|[Decohack](https://www.decohack.com/feed)|[PH今日热榜 2024-09-29](https://decohack.com/producthunt-daily-2024-09-29/)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[开源日报 Rust使得Android漏洞大幅下降；OpenAI计划提高ChatGPT订阅费用；AI公司比Saas公司赚钱快得多；IT行业没有永远的王者；谁现在在掌控OpenAI？](https://www.oschina.net/news/314160)|
+||[一次基于 AST 的大规模代码迁移实践](https://my.oschina.net/vivotech/blog/16008871)|
+|[安全客-有思想的安全新媒体](https://api.anquanke.com/data/v1/rss)|[受害者因Google Play商店中的一个盗取钱包资金的应用程序而损失了7万美元](https://www.anquanke.com/post/id/300515)|
+||[针对库尔德网站的水坑攻击分发恶意APK文件和间谍软件](https://www.anquanke.com/post/id/300519)|
+||[严重 CUPS 漏洞使 Linux 和其他系统面临远程攻击](https://www.anquanke.com/post/id/300521)|
+||[WhatsUp黄金关键漏洞需要立即采取行动](https://www.anquanke.com/post/id/300524)|
+||[勒索软件团伙利用窃取的Microsoft Entra ID凭证入侵云服务](https://www.anquanke.com/post/id/300526)|
+||[关键的 NVIDIA Container Toolkit 漏洞可能会向攻击者授予完全主机访问权限](https://www.anquanke.com/post/id/300528)|
+||[美国制裁虚拟货币交易所 Cryptex 和 PM2BTC 为非法活动提供便利](https://www.anquanke.com/post/id/300531)|
+||[对科威特卫生部的网络攻击影响了该国的医院](https://www.anquanke.com/post/id/300533)|
+||[新型漏洞利用链允许绕过Windows用户账户控制 UAC ](https://www.anquanke.com/post/id/300536)|
+||[上亿公民隐私信息遭曝光，原因竟是数据库未加密？](https://www.anquanke.com/post/id/300539)|
+|[IT之家](https://www.ithome.com/rss/)|[格斗类《苍翼：混沌效应》手游今日发售：适配华为 Mate XT 三折叠手机、首发上线 HarmonyOS NEXT 系统](https://www.ithome.com/0/799/389.htm)|
+||[宁德时代回应东侨生产基地着火：一切以消防公告为准](https://www.ithome.com/0/799/388.htm)|
+||[马歇尔 WILLEN II 便携式蓝牙音箱开售：17 小时续航、IP67 防尘防水，999 元](https://www.ithome.com/0/799/387.htm)|
+||[消息称内存模组一哥金士顿因消费电子旺季不旺针对部分中低端产品降价](https://www.ithome.com/0/799/386.htm)|
+||[杭州：力争到 2026 年实现规模以上数字贸易企业 1500 家](https://www.ithome.com/0/799/383.htm)|
+||[红魔电竞平板 Pro 开通爱奇艺帧绮映画模式：至高达 HDR + 超高清 + 高帧率 + 高音质](https://www.ithome.com/0/799/375.htm)|
+||[奇瑞回应“收购玛莎拉蒂”传闻：并无相关消息](https://www.ithome.com/0/799/374.htm)|
+||[北京现代内部人士：裁员 30% 的报道完全不属实，更没有所谓分批裁员](https://www.ithome.com/0/799/373.htm)|
+||[HKC“G27H7 Pro”27 英寸显示器开售：4K 160Hz / 1080P 320Hz 双模，1999 元](https://www.ithome.com/0/799/371.htm)|
+||[诺基亚贝尔与中国联通共建下一代光网络联合实验室](https://www.ithome.com/0/799/370.htm)|
+||[腾讯游戏《王者荣耀：世界》官宣开启线下试玩活动：玩家需报名参与，未入选也可排队体验](https://www.ithome.com/0/799/369.htm)|
+||[谷歌：转向 Rust 语言五年，安卓内存安全漏洞比例降至 24% 远胜行业标准](https://www.ithome.com/0/799/368.htm)|
+||[比亚迪腾势 D9 将推“熊猫版”车型：自带熊猫涂装，明天发布](https://www.ithome.com/0/799/367.htm)|
+||[哪吒汽车 CEO 张勇驻厂保交付，8 月数据同比下降约 9%](https://www.ithome.com/0/799/366.htm)|
+||[蔚来李斌：乐道 L60 订单确实远超我们的预期，近期主要任务把订单产出来](https://www.ithome.com/0/799/365.htm)|
+||[荷兰警方绝大多数雇员姓名、工作联系方式遭黑客攻击泄露](https://www.ithome.com/0/799/364.htm)|
+||[AMD 推出自家首款小语言 AI 模型“Llama-135m ”，主打“推测解码”能力可减少 RAM 占用](https://www.ithome.com/0/799/362.htm)|
+||[腾讯代理、育碧研发，游戏《彩虹六号》国服官网上线](https://www.ithome.com/0/799/361.htm)|
+||[奇瑞尹同跃：合肥营商环境是中国最好之一，欢迎全国全球汽车产业链企业投资建业](https://www.ithome.com/0/799/360.htm)|
+||[vivo X200 Pro mini 手机配备“特制 19.5:9”比例直屏](https://www.ithome.com/0/799/359.htm)|
+||[vivo X200 标准版手机拍摄样张公布，10 月 14 日发布](https://www.ithome.com/0/799/358.htm)|
+||[海南三亚到广东湛江仅需一小时，国内首条省际跨海直升机航线成功首飞](https://www.ithome.com/0/799/356.htm)|
+||[宁德市东侨消防大队：宁德时代厂区发生火灾，暂无人员伤亡报告](https://www.ithome.com/0/799/351.htm)|
+||[铭凡确认 EliteMini AI370 迷你主机搭载双 2.5G 网口，预计 10 月上架](https://www.ithome.com/0/799/349.htm)|
+||[支付宝、财付通：小微商户网络支付服务费 9 折优惠延期一年，收款码提现继续免费](https://www.ithome.com/0/799/347.htm)|
+||[西气东输四线新疆段建成投产，年设计输气量 150 亿立方米](https://www.ithome.com/0/799/341.htm)|
+||[荣耀 MagicBook Art 14 骁龙版笔记本开售：骁龙 X Elite 处理器、32G + 1T 内存组合，首发 8299 元](https://www.ithome.com/0/799/340.htm)|
+||[美国波士顿一男子马拉松比赛操作无人机“黑飞”，被罚 5000 美元并没收设备](https://www.ithome.com/0/799/338.htm)|
+||[何志奇：比亚迪汽车 L2 级智能驾驶搭载量已超 350 万辆](https://www.ithome.com/0/799/336.htm)|
+||[工信部通报 21 款侵害用户权益行为的 App 及 SDK，换屏哥手机维修等在列](https://www.ithome.com/0/799/335.htm)|
+||[上交所今日测试竞价交易系统接收报单 2.7 亿笔：整体表现正常，为历史峰值 2 倍](https://www.ithome.com/0/799/334.htm)|
+||[艾石头 ND63 / PRO 磁轴有线键盘开售：8KHz 回报率、可选侧刻透光键帽，149 元起](https://www.ithome.com/0/799/333.htm)|
+||[渝昆高铁重庆西至宜宾东段今日开通，最快 48 分钟可达](https://www.ithome.com/0/799/332.htm)|
+||[德国首款工业无人机 CES X4 宣布量产：支持 5G 加密图传、可实现百机编队超视距飞行](https://www.ithome.com/0/799/331.htm)|
+||[【IT之家评测室】玄派首款 N 卡游戏本，玄派玄机星 16N 酷睿版评测](https://www.ithome.com/0/799/330.htm)|
+||[奇瑞董事长尹同跃称“新能源汽车想追比亚迪但越追越远”，何志奇回应“我们在海外也在追奇瑞”](https://www.ithome.com/0/799/329.htm)|
+||[比亚迪腾势汽车十一全国巡展，全系车型亮相天津、沈阳、西安、合肥、中山等 18 城](https://www.ithome.com/0/799/327.htm)|
+||[全新旗舰轿车谍照曝光，有望为华为、江淮合作的“尊界”旗下车型](https://www.ithome.com/0/799/326.htm)|
+||[荣耀 Magic V3 折叠屏手机获推 MagicOS 8.0.1.173 升级，新增支持面对面翻译功能](https://www.ithome.com/0/799/325.htm)|
+||[中国气象局：建成 7.6 万余个地面自动气象观测站，实现全国乡镇全覆盖](https://www.ithome.com/0/799/324.htm)|
+||[联想推出拯救者游戏手柄 G7：专为 Y700 平板定制，499 元](https://www.ithome.com/0/799/323.htm)|
+||[消息称欧加系 IMX882 潜望镜不支持长焦微距，蓝系新机全部支持](https://www.ithome.com/0/799/322.htm)|
+||[消息称戴尔要求员工 9 月 30 日起重返公司，一周需到办公室五天](https://www.ithome.com/0/799/321.htm)|
+||[圆刚扩充 GO 产品线，推出 VERSATI go 麦克风和 FLEXI go 三段式支架](https://www.ithome.com/0/799/320.htm)|
+||[长安汽车：未来增程车可以做到 10 万元级别](https://www.ithome.com/0/799/316.htm)|
+||[【IT之家评测室】星纪魅族 Lucky 08 手机体验：AI 功能加持，主打颜值实用](https://www.ithome.com/0/799/314.htm)|
+||[联想拯救者新一代 Y700 平板发布：8.8 英寸屏、骁龙 8 Gen 3 处理器，2889 元起](https://www.ithome.com/0/799/313.htm)|
+||[华为余承东谈多家车企老板亲自宣传产品：被雷总带的，他流量很大](https://www.ithome.com/0/799/312.htm)|
+||[支持设置停靠在桌面边缘时不自动隐藏，腾讯 QQ 更新 Windows 9.9.15、macOS 6.9.55、Linux 3.2.12](https://www.ithome.com/0/799/310.htm)|
+||[小米明年将进军全球家电市场，首站东南亚](https://www.ithome.com/0/799/306.htm)|
+||[9999 元搭载联想最小笔记本主板，YOGA Air 15 Aura AI 元启版发布](https://www.ithome.com/0/799/305.htm)|
+||[索尼 PSN 头像喜加三：《最后生还者》游戏角色艾莉 / 乔尔 / 循声者三款免费领](https://www.ithome.com/0/799/304.htm)|
+||[8999 元联想 YOGA Pro 14 锐龙 AI 元启版笔记本发布：锐龙 AI 9 365 处理器、3K 120Hz 屏](https://www.ithome.com/0/799/303.htm)|
+||[蔚来中国获战略投资者 33 亿元新一轮增资](https://www.ithome.com/0/799/302.htm)|
+||[科沃斯 X8 Pro Plus AI 洗地机器人开售：13000Pa 瞬时吸力、贴边清扫，5999 元起](https://www.ithome.com/0/799/300.htm)|
+||[吉利新能源汽车总部在宁波开工：投资 4.4 亿元，2028 年 3 月竣工](https://www.ithome.com/0/799/294.htm)|
+||[智己 LS6 上市 48 小时累计大定突破 11000 台，21.69 万起](https://www.ithome.com/0/799/288.htm)|
+||[《黑神话：悟空》主美杨奇称在旅游中，还没有做 DLC](https://www.ithome.com/0/799/287.htm)|
+||[酷冷至尊推出 Hyper 212 Pro 风冷散热器，单塔单扇 4 热管直触设计](https://www.ithome.com/0/799/285.htm)|
 |[Lei Mao's Log Book](https://leimao.github.io/atom.xml)|[我心中最适合跑步时候听的动漫歌曲](https://leimao.github.io/essay/%E6%88%91%E5%BF%83%E4%B8%AD%E6%9C%80%E9%80%82%E5%90%88%E8%B7%91%E6%AD%A5%E6%97%B6%E5%80%99%E5%90%AC%E7%9A%84%E5%8A%A8%E6%BC%AB%E6%AD%8C%E6%9B%B2/)|
 |[动点科技](http://cn.technode.com/feed/)|[各显神通的机器人，争分夺秒落地](https://cn.technode.com/post/2024-09-29/ai-robot-commercialize/)|
 ||[大众汽车将在新设计中放弃廉价塑料，转而采用可持续优质面料](https://cn.technode.com/post/2024-09-29/vw-auto-car-news/)|
