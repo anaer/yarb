@@ -5,8 +5,8 @@ name: Update dailyNews
 on:
   watch:
     types: [started]
-  schedule:
-   - cron: "5 0-10/2 * * *"
+  # schedule:
+  #  - cron: "5 0-10/2 * * *"
   workflow_dispatch:
   push:
     branches: [main]
