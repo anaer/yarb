@@ -2,6 +2,58 @@
 
 |来源|标题|
 |---|---|
+|[V2EX](https://v2ex.com/index.xml)|[ 上海 相亲贴 帮好朋友找个靠谱男朋友](https://www.v2ex.com/t/1077048#reply33)|
+||[ 投资 v 友们，大 A 又是起飞的一天。今天跑不？](https://www.v2ex.com/t/1077044#reply12)|
+||[ 投资 以后谁再劝我卖股票就跟谁急。这么好的行情，被你们劝的早早就下了车，错过几个亿](https://www.v2ex.com/t/1077042#reply14)|
+||[ 职场话题 靠家里关系进央国企心里觉得别扭，求建议](https://www.v2ex.com/t/1077041#reply29)|
+||[ macOS 生活中如何同时使用两台 Macbook 并保持同步？](https://www.v2ex.com/t/1077035#reply13)|
+||[ 问与答 信所谓的智囊团是没听过‘肉食者鄙，未能远谋’吗](https://www.v2ex.com/t/1077034#reply22)|
+||[ 问与答 各位 V 友，你们下班后会在车上待多久呢？](https://www.v2ex.com/t/1077033#reply17)|
+||[ MacBook Air M3 适合前端开发吗](https://www.v2ex.com/t/1077026#reply11)|
+||[ 问与答 30 岁还有必要正畸整牙吗？](https://www.v2ex.com/t/1077024#reply45)|
+||[ 生活 一起非机动车事故小故事](https://www.v2ex.com/t/1077022#reply11)|
+||[ 生活 一些从来没跟身边人说过的话，今天有感而发](https://www.v2ex.com/t/1077020#reply49)|
+||[ 投资 股市的最终结果会是什么](https://www.v2ex.com/t/1077018#reply32)|
+|[36氪](https://www.36kr.com/feed)|[供应消费电子美资龙头、将切入半导体产业检测，「玻尔智造」获千万元A轮融资｜硬氪首发](https://36kr.com/p/2949551759761542?f=rss)|
+|[Macin](https://www.macin.org/atom.xml)|[2024秋：沉舟侧畔千帆过，病树前头万木春](https://macin.org/2024/09/30/202407/)|
+|[ć¸¸ćˆč‘Ąč„](http://youxiputao.com/feed)|[çŽŠčż‡ĺ çş¸ć–°ä˝œĺŽďźŒćˆ‘č§‰ĺž—ĺ›˝äş§3Ać˜ŻčŻĽĺ´›čľˇäş†](https://youxiputao.com/article/26867)|
+|[钛媒体：引领未来商业与生活新知](https://plink.anyfeeder.com/tmtpost)|[身兼三职的汪地强，要破习酒哪些难题？](https://www.tmtpost.com/7268889.html)|
+||[【Fintech 周报】央行降准、降息；上海银行否认隐藏亏损；中和农信二次递表港交所](https://www.tmtpost.com/7269607.html)|
+||[【生态环境周观察】中国资源循环利用集团成立在即；美国能源部拟拨款30亿美元支持本土电池制造项目；中国新能源发电装机占比超过40%](https://www.tmtpost.com/7269198.html)|
+||[第三届中国 四川 国际熊猫消费节在成都启动](https://www.tmtpost.com/7269617.html)|
+||[当京东、阿里握手言和](https://www.tmtpost.com/7269293.html)|
+||[古偶大舞台，经商你就来](https://www.tmtpost.com/7268917.html)|
+|[哈工大SCIR](https://feedpress.me/wx-hit-scir)|[今天，哈工大再获国家表彰！](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg%3D%3D&mid=2650813648&idx=1&sn=9be0c80a9971301b256482aef85e0d2f)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[我们不能对AI硬件的隐私问题视而不见](https://www.huxiu.com/article/3527065.html?f=rss)|
+||[80%的AI公司，就要凉凉了](https://www.huxiu.com/article/3524312.html?f=rss)|
+||[美国大选背后的经济，马斯克和特朗普在偷偷交易什么？](https://www.huxiu.com/article/3523987.html?f=rss)|
+||[《出走的决心》：那个为离婚花了16万的女人](https://www.huxiu.com/article/3523826.html?f=rss)|
+||[马斯克可以“试错迭代”，我们行不行？](https://www.huxiu.com/article/3526732.html?f=rss)|
+||[大A是个气氛组](https://www.huxiu.com/article/3526736.html?f=rss)|
+||[行情来了，你的心练到家了没？](https://www.huxiu.com/article/3526719.html?f=rss)|
+||[搞抽象的年轻人，不想再做解释了](https://www.huxiu.com/article/3526191.html?f=rss)|
+||[互联网新赛道：破产博主](https://www.huxiu.com/article/3524010.html?f=rss)|
+||[两条交通线同日通车，成渝两城撑起西南脊梁](https://www.huxiu.com/article/3526701.html?f=rss)|
+||[精打细算的年轻人，国庆假期疯狂“穷游”](https://www.huxiu.com/article/3526220.html?f=rss)|
+||[美元开启降息周期了，所以呢?](https://www.huxiu.com/article/3526712.html?f=rss)|
+||[小镇做题家，在国剧逆势上升](https://www.huxiu.com/article/3526212.html?f=rss)|
+||[电车在美国：瑞典式豪华纯电车让美国4S店举店沸腾](https://www.huxiu.com/article/3523996.html?f=rss)|
+||[史无前例的牛市“系统演习”背后，读懂中国金融监管的逻辑](https://www.huxiu.com/article/3526215.html?f=rss)|
+||[数学不好也是病？](https://www.huxiu.com/article/3526213.html?f=rss)|
+|[爱范儿](https://www.ifanr.com/feed)|[早报 苹果考虑开发搭载超级 AI 的智能眼镜/「请 2 休 10」成国庆出游热门方案/OpenAI 创始成员：好的科技应该像计算器](https://www.ifanr.com/1601101?utm_source=rss&utm_medium=rss&utm_campaign=)|
+|[w2solo - 独立开发者社区](https://w2solo.com/topics/feed)|[一个免费的曲线文本图片处理工具](https://w2solo.com/topics/5098)|
+|[人人都是产品经理](https://www.woshipm.com/feed)|[小红书投放复盘指南](https://www.woshipm.com/share/6122258.html)|
+||[AI 系列 一 ：一文说透AI产品经理的底牌和命门](https://www.woshipm.com/pmd/6122256.html)|
+||[初代网红消失在直播带货的转折点上](https://www.woshipm.com/share/6122246.html)|
+||[这个只有AI的微博，藏着AI社交的另一种解法](https://www.woshipm.com/it/6122243.html)|
+||[2024，B端筛选有啥变化？](https://www.woshipm.com/pd/6122221.html)|
+||[如何做好 B 端产品体验，解密钉钉的 10 个最佳实践（上）](https://www.woshipm.com/pd/6122203.html)|
+||[工作事情太多太碎，怎么合理安排和处理事情？](https://www.woshipm.com/share/6122199.html)|
+|[知乎日报](https://feedx.net/rss/zhihudaily.xml)|[瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9775834)|
+||[周公旦的封邑到底是鲁还是周？](https://daily.zhihu.com/story/9775828)|
+||[大白鲨身上干干净净，鲸鱼身上为何都是藤壶？](https://daily.zhihu.com/story/9775830)|
+||[为什么世界上没有一只耳朵的动物？](https://daily.zhihu.com/story/9775831)|
+||[衰落 or 转型？中期奥斯曼史的叙述模式问题](https://daily.zhihu.com/story/9775829)|
 |[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[真主党领导人遇袭身亡将中东冲突推向新领域](https://cn.nytimes.com/world/20240930/nasrallah-israel-hezbollah-iran/)|
 ||[美国总统竞选进入最危险时期，候选人如何应对外国干预](https://cn.nytimes.com/usa/20240930/october-election-interference/)|
 |[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[股民强烈想参与的上交所全网测试结果如何？要关注哪些细节？](https://m.cnbeta.com.tw/view/1447547.htm)|
