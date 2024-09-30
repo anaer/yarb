@@ -2,6 +2,53 @@
 
 |来源|标题|
 |---|---|
+|[纽约时报](https://plink.anyfeeder.com/nytimes/cn)|[真主党领导人遇袭身亡将中东冲突推向新领域](https://cn.nytimes.com/world/20240930/nasrallah-israel-hezbollah-iran/)|
+||[美国总统竞选进入最危险时期，候选人如何应对外国干预](https://cn.nytimes.com/usa/20240930/october-election-interference/)|
+|[cnBeta全文版](http://feeds2.feedburner.com/cnbeta-full)|[股民强烈想参与的上交所全网测试结果如何？要关注哪些细节？](https://m.cnbeta.com.tw/view/1447547.htm)|
+||[台积电2纳米工艺即将于明年下半年量产 两地工程皆按计划进行且进展良好](https://m.cnbeta.com.tw/view/1447546.htm)|
+||[骁龙X Elite内核照首次公开 CPU庞大无比 远超苹果M4](https://m.cnbeta.com.tw/view/1447545.htm)|
+||[NVIDIA独占桌面独立显卡市场88％ Intel不幸归零](https://m.cnbeta.com.tw/view/1447544.htm)|
+||[石家庄偷拍风波背后 是10年了依旧躲不掉的针孔摄像头](https://m.cnbeta.com.tw/view/1447543.htm)|
+||[杨幂巴黎时装周手持华为Mate XT三折叠拍照](https://m.cnbeta.com.tw/view/1447541.htm)|
+||[336个城市能用 深圳通NFC交通卡今起限时免费开卡](https://m.cnbeta.com.tw/view/1447540.htm)|
+||[AMD锐龙也支持CUDIMM DDR5内存 频率远不如Intel](https://m.cnbeta.com.tw/view/1447539.htm)|
+||[Linux 6.12-rc1 发布 新增二维码报错信息、开始支持实时计算](https://m.cnbeta.com.tw/view/1447536.htm)|
+||[美亿万富翁警告马斯克：特朗普迟早会背叛你](https://m.cnbeta.com.tw/view/1447535.htm)|
+||[小扎又出了新眼镜 但好像还活在十年前谷歌的阴影里](https://m.cnbeta.com.tw/view/1447532.htm)|
+||[曾经公开互喷的菜鸟京东 还是和好了](https://m.cnbeta.com.tw/view/1447531.htm)|
+||[罗永浩展示淘宝购物用微信支付 直呼“人间奇迹”](https://m.cnbeta.com.tw/view/1447530.htm)|
+||[扎克伯格有多迷恋“效率”？Wi-Fi密码都是这个](https://m.cnbeta.com.tw/view/1447529.htm)|
+||[2030年巴西纯电动或混合动力汽车销量或将超过内燃机汽车](https://m.cnbeta.com.tw/view/1447528.htm)|
+||[加州否决SB-1047法案 OpenAI、Google、Meta大难不死](https://m.cnbeta.com.tw/view/1447526.htm)|
+|[虎嗅](https://plink.anyfeeder.com/huxiu)|[看懂了《只有河南》，就看懂了中国文旅的未来](https://www.huxiu.com/article/3523842.html?f=rss)|
+||[爆火的短剧制作人，如何为电影“把脉”？](https://www.huxiu.com/article/3524717.html?f=rss)|
+|[纽约时报中文网 国际纵览](http://cn.nytimes.com/rss/news.xml)|[真主党领导人遇袭身亡将中东冲突推向新领域](https://cn.nytimes.com/world/20240930/nasrallah-israel-hezbollah-iran/?utm_source=RSS)|
+||[美国总统竞选进入最危险时期，候选人如何应对外国干预](https://cn.nytimes.com/usa/20240930/october-election-interference/?utm_source=RSS)|
+|[36氪](https://www.36kr.com/feed)|[巴奴杜中兵：我天生 90℃，但在学做“嗑瓜子看着的人”丨厚雪专访](https://36kr.com/p/2971887308837128?f=rss)|
+||[神州数码、智邦科技达成战略合作，聚焦高端网络市场｜最前线](https://36kr.com/p/2971411090706696?f=rss)|
+||[小鹏高管姜文：MONA卖爆不是靠运气｜36氪专访](https://36kr.com/p/2970470750048263?f=rss)|
+||[8点1氪｜永辉超市回应背刺胖东来传闻；A股连续三个交易日成交额破万亿元；多家房企宣布涨价](https://36kr.com/p/2971771815088128?f=rss)|
+|[OSCHINA 社区最新新闻](https://www.oschina.net/news/rss)|[智谱 AI 宣布最低 1 折开放所有模型](https://www.oschina.net/news/314236)|
+|[FreeBuf网络安全行业门户](https://plink.anyfeeder.com/freebuf)|[Storm-0501黑客组织针对美国政府混合云环境发起攻击](https://www.freebuf.com/news/412078.html)|
+|[钛媒体：引领未来商业与生活新知](https://www.tmtpost.com/feed)|[10月，拥抱牛市冲击波](https://www.tmtpost.com/7268892.html)|
+||[在美国破产，在中国收割县城贵妇](https://www.tmtpost.com/7268289.html)|
+||[三五千的投影仪，卖不动了](https://www.tmtpost.com/7268264.html)|
+||[3年爆卖2500万条，他开创时尚新赛道，做到品类第一](https://www.tmtpost.com/7268220.html)|
+||[“排队王”失算，餐饮子品牌成弃子](https://www.tmtpost.com/7268214.html)|
+||[重组胶原蛋白大爆发，稀缺的三类证获批高峰即将到来？](https://www.tmtpost.com/7268193.html)|
+||[PC行业新格局：苹果销量跌出前五，华为持续收割市场，同方成为“最大黑马”](https://www.tmtpost.com/7268690.html)|
+||[三星的“割裂人生”：一边裁员，一边这个综艺我三星投了](https://www.tmtpost.com/7268897.html)|
+|[虎嗅网](https://www.huxiu.com/rss/0.xml)|[被误解的深圳：超前又内卷的背后，是包容与创新](http://www.huxiu.com/article/3523425.html?f=wangzhan)|
+|[V2EX](https://www.v2ex.com/index.xml)|[ 问与答 30 岁还有必要正畸整牙吗？](https://www.v2ex.com/t/1077024#reply20)|
+||[ 生活 一些从来没跟身边人说过的话，今天有感而发](https://www.v2ex.com/t/1077020#reply22)|
+||[ 投资 股市的最终结果会是什么](https://www.v2ex.com/t/1077018#reply22)|
+||[ 投资 v 站反买，别墅靠海](https://www.v2ex.com/t/1076999#reply40)|
+||[ 程序员 大佬们， Spring 和 Spring Boot 和 Spring Cloud 这 3 个怎么学啊，是找开源项目跟着实战吗，还是怎么学啊](https://www.v2ex.com/t/1076993#reply19)|
+||[ 生活 v 佬儿们，说一下你们那现在玉米的价格，河北 0.44 元/斤](https://www.v2ex.com/t/1076991#reply18)|
+||[ 投资 太火爆了，准备跑步进场？](https://www.v2ex.com/t/1076987#reply55)|
+||[ 生活 京东正式接入菜鸟驿站了，是不是意味着离劣质化不远了？](https://www.v2ex.com/t/1076986#reply36)|
+||[ 问与答 关于存量房贷。](https://www.v2ex.com/t/1076980#reply14)|
+||[ 问与答 广深这波 zc 放开会有利于楼市吗](https://www.v2ex.com/t/1076979#reply16)|
 |[虎嗅](https://plink.anyfeeder.com/huxiu)|[制造业外资准入限制“清零”，倒逼企业练“内功”](https://www.huxiu.com/article/3526174.html?f=rss)|
 ||[像球但又不是球？困扰数学界30年的“非常基本的问题”终破解](https://www.huxiu.com/article/3526168.html?f=rss)|
 ||[C919集齐三大运营商，筹划新建产线](https://www.huxiu.com/article/3525926.html?f=rss)|
